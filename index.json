@@ -52,6 +52,18 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-gooey-australian-potato-stir-fry",
+    "title": "Nostalgic Gooey Australian Potato Stir-fry",
+    "tags": [
+      "nostalgic-australian",
+      "five-spice-powder",
+      "earthly-gooey"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgic-trout-tempeh",
     "title": "Nostalgic Trout Tempeh",
     "tags": [

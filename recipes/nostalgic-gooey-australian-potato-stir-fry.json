@@ -1,0 +1,88 @@
+{
+  "title": "Nostalgic Gooey Australian Potato Stir-fry",
+  "description": "An earthy and gooey dish featuring five spice powder and potatoes, perfect for a nostalgic meal.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "1 lb",
+      "notes": "Rinse and scrub well"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "8 oz",
+      "notes": "Trim the stems if necessary"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6",
+      "notes": "Mince finely for flavor"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "Optional, adds a spicy kick"
+    },
+    {
+      "name": "Five spice powder",
+      "amount": "1/2 tsp",
+      "notes": "For an authentic Australian taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium soy sauce for a healthier option"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3-4 tbsp",
+      "notes": "Lightly coat the pan to prevent sticking"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C). Wash and cut potatoes into bite-sized chunks.",
+    "Slice broccoli florets and set aside. Mince garlic cloves finely for added flavor.",
+    "In a large skillet, heat olive oil over medium-high heat. Add minced garlic and cook until fragrant.",
+    "Add chopped potatoes to the skillet with some salt (optional) and stir-fry for about 5 minutes or until slightly charred on all sides.",
+    "Toss in broccoli florets and continue stir-frying for another 2-3 minutes, allowing vegetables to soften slightly but still retain their crunchiness.",
+    "Stir in five spice powder and soy sauce. Mix well to coat the veggies evenly.",
+    "Place the mixture into a baking dish, spreading it out evenly. Bake for about 15-20 minutes or until potatoes are tender and golden brown on top.",
+    "Let it cool slightly before serving hot with steamed rice or noodles as a side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nostalgic-australian",
+    "five-spice-powder",
+    "earthly-gooey"
+  ],
+  "nutrition": {
+    "calories": 356,
+    "protein": 7.8,
+    "carbs": 49.2,
+    "fat": 10.6
+  },
+  "slug": "nostalgic-gooey-australian-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-gooey-australian-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:01:34Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "fold",
+    "primaryIngredient": "five spice powder",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "potato",
+    "descriptor": "gooey,nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
