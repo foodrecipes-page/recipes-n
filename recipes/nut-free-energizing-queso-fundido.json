@@ -1,0 +1,69 @@
+{
+  "title": "Nut-Free Energizing Queso Fundido",
+  "description": "A creamy, energizing Venezuelan dish made with semi-skimmed milk and a touch of fermentation for a delightful snack or side dish.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "diabetic-friendly",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Semi-Skimmed Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermentation Culture (e.g. Kefir or Yogurt Cultures)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil for Frying",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Nut-Free Flavoring Blend (optional, e.g. Marmite or Nutella substitute)",
+      "notes": "For added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix the semi-skimmed milk with the fermentation culture and salt.",
+    "Let the mixture sit at room temperature for about 10 minutes to allow the cultures to activate.",
+    "Heat vegetable oil in a frying pan over medium heat until it reaches about 350°F (175°C).",
+    "Gently pour the fermented milk mixture into the hot oil and cook, stirring occasionally, until it forms cheese curds and becomes golden brown on the bottom. This should take approximately 2-4 minutes per side.",
+    "If desired, add a pinch of salt or your chosen flavoring blend to enhance the taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "queso-fundido",
+    "nut-free",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 1
+  },
+  "slug": "nut-free-energizing-queso-fundido",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nut-free-energizing-queso-fundido",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:30:44Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "fry",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "nut-free",
+    "region": null
+  }
+}
