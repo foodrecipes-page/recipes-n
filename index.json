@@ -129,6 +129,19 @@
     "shard": "n"
   },
   {
+    "slug": "nutmeg-braised-tostadas",
+    "title": "Nutmeg-Braised-Tostadas",
+    "tags": [
+      "nutmeg-braised-tostadas",
+      "kid-friendly",
+      "mexican-dish",
+      "light"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
     "slug": "nutmegged-fermented-truffles",
     "title": "Nutmegged Fermented Truffles",
     "tags": [
