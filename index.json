@@ -103,6 +103,19 @@
     "shard": "n"
   },
   {
+    "slug": "nutella-grilled-kimchi",
+    "title": "NutellaGrilledKimchi",
+    "tags": [
+      "nutella",
+      "grilled",
+      "kimchi",
+      "high-protein-friendly"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
     "slug": "nutella-marinated-olive-tapenade",
     "title": "Nutella Marinated Olive Tapenade",
     "tags": [
@@ -113,19 +126,6 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 60,
-    "shard": "n"
-  },
-  {
-    "slug": "nutellagrilledkimchi",
-    "title": "NutellaGrilledKimchi",
-    "tags": [
-      "nutella",
-      "grilled",
-      "kimchi",
-      "high-protein-friendly"
-    ],
-    "cuisine": "Korean",
-    "totalTimeMin": 20,
     "shard": "n"
   },
   {
