@@ -1,0 +1,93 @@
+{
+  "title": "Nostalgic Crumble Thai Flavor",
+  "description": "A low-sodium friendly and crumbly Chinese (Zhejiang) dish with a nostalgic twist featuring thai fish sauce for a unique flavor profile.",
+  "cuisine": "Chinese (Zhejiang)",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Thai Fish Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soaked Rice Crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Canned Tamarind Paste",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "6 ounces (170ml)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Green Chilies",
+      "amount": "1-2, finely chopped"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "5 grams (about 1/4 teaspoon)"
+    },
+    {
+      "name": "Fennel Seeds",
+      "amount": "5 grams (about 1/4 teaspoon)"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/2 tablespoon"
+    },
+    {
+      "name": "Ground Black Pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Prepare Soaked Rice Crumbs by soaking 1 cup of rice in water overnight, then drain and dry thoroughly.",
+    "Mix Thai Fish Sauce with Soaked Rice Crumbs until well combined. Add Tamarind Paste, Water, Garlic, Green Chilies, Sesame Seeds, Cumin Seeds, Red Chili Powder, and Ground Black Pepper into the mixture.",
+    "Stir continuously over medium heat until it thickens to a crumbly consistency. Adjust seasoning with Sugar if needed.",
+    "Remove from heat immediately after reaching desired thickness. Let cool slightly before serving as a snack or accompaniment."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "thai",
+    "zhejiang"
+  ],
+  "nutrition": {
+    "calories": 294,
+    "protein": 13,
+    "carbs": 70,
+    "fat": 5
+  },
+  "slug": "nostalgic-crumble-thai-flavor",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-crumble-thai-flavor",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:53:34Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "tadka",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "low-sodium",
+    "region": "zhejiang"
+  }
+}
