@@ -1,0 +1,60 @@
+{
+  "title": "Nostalgia Beetkveik",
+  "description": "A fermented and juicy Norwegian dish featuring cooked beetroot, ideal for those seeking a plant-based-friendly meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "1 medium",
+      "notes": "Approximately 200g"
+    },
+    {
+      "name": "Water",
+      "amount": "Enough to cover beetroot during fermentation"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wash and peel the beetroot. Cut into chunks.",
+    "Place the beetchunks in a baking dish, drizzle with olive oil, salt, and pepper. Roast until tender (about 45 minutes).",
+    "After roasting, remove from heat and allow to cool slightly.",
+    "Transfer roasted beetchunks to a fermentation container or jar, add enough water to cover fully. Mix well.",
+    "Cover the container with a breathable lid (e.g., cheesecloth), ensuring some air circulation but preventing dust. Place in a warm, draft-free location for 3-5 days.",
+    "Once fermented, mix in optional ingredients like lemon juice or apple cider vinegar for flavor and health benefits, if desired. Store in fridge to slow the fermentation process."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 100,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "beetroot",
+    "fermented",
+    "juicy",
+    "norsk"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2.5,
+    "carbs": 17,
+    "fat": 1
+  },
+  "slug": "nostalgia-beetkveik",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgia-beetkveik",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:16:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "plant-based",
+    "region": null
+  }
+}
