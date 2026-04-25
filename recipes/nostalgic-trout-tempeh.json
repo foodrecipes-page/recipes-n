@@ -1,0 +1,95 @@
+{
+  "title": "Nostalgic Trout Tempeh",
+  "description": "A savory and crunchy dish featuring trout and tempeh with a touch of nostalgia inspired by Canadian cuisine.",
+  "cuisine": "Canadian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh Trout Fillets",
+      "amount": "6 oz per person",
+      "notes": "Wild caught or farm-raised"
+    },
+    {
+      "name": "Tempeh",
+      "amount": "1 cup (crumbled)",
+      "notes": "Jain-friendly tofu alternative"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "2 tbsp",
+      "notes": "Whole grain for added nutrition"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 tbsp",
+      "notes": "All-purpose or gluten-free as needed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying or sautéing"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill (finely chopped)",
+      "amount": "2 tbsp",
+      "notes": "Can be substituted with fresh parsley for a different flavor profile"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Season the trout fillets and tempeh evenly with salt and pepper.",
+    "In a mixing bowl, combine breadcrumbs, flour, olive oil, garlic powder, and finely chopped dill. Mix well until all ingredients are fully incorporated.",
+    "Coat each piece of fish and tempeh in the breadcrumb mixture, ensuring they're evenly coated.",
+    "Place the prepared trout fillets and tempeh on a baking sheet lined with parchment paper.",
+    "Cook for 15-20 minutes or until golden brown and cooked through. The tempeh will be crisp and tender while the fish will be moist and flaky.",
+    "Serve hot, garnished with additional dill sprigs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nostalgic-trout-tempeh",
+    "savory-crunchy-canadian-dish",
+    "jain-friendly-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "nostalgic-trout-tempeh",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-trout-tempeh",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:13:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "temper",
+    "primaryIngredient": "trout",
+    "diet": "jain",
+    "region": null
+  }
+}

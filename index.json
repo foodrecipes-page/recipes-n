@@ -13,6 +13,18 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-trout-tempeh",
+    "title": "Nostalgic Trout Tempeh",
+    "tags": [
+      "nostalgic-trout-tempeh",
+      "savory-crunchy-canadian-dish",
+      "jain-friendly-cuisine"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nut-free-energizing-queso-fundido",
     "title": "Nut-Free Energizing Queso Fundido",
     "tags": [
