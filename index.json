@@ -103,6 +103,19 @@
     "shard": "n"
   },
   {
+    "slug": "nutellagrilledkimchi",
+    "title": "NutellaGrilledKimchi",
+    "tags": [
+      "nutella",
+      "grilled",
+      "kimchi",
+      "high-protein-friendly"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
     "slug": "nutmegged-fermented-truffles",
     "title": "Nutmegged Fermented Truffles",
     "tags": [

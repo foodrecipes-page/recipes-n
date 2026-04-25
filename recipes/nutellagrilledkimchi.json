@@ -1,0 +1,71 @@
+{
+  "title": "NutellaGrilledKimchi",
+  "description": "This high-protein-friendly dish features a blend of bitter and crisp flavors from kimchi combined with the sweetness of Nutella, grilled to perfection for a nostalgic twist.",
+  "cuisine": "Korean",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Nutella",
+      "amount": "2 tbsp",
+      "notes": "Choose a high-quality Nutella for the best flavor"
+    },
+    {
+      "name": "Dakki Kimchi",
+      "amount": "1 cup",
+      "notes": "Use crispy, bitter kimchi slices"
+    },
+    {
+      "name": "Bacon bits (optional)",
+      "amount": "2 tbsp",
+      "notes": "For added protein and texture"
+    },
+    {
+      "name": "Panko crumbs (for dusting)",
+      "amount": "1/4 cup",
+      "notes": "Use gluten-free if needed"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Place the Nutella on a plate and press small slices into it. Use a fork or spoon to spread evenly across each slice.",
+    "Arrange the crispy kimchi slices on top of the Nutella, allowing the fat in the nutella to help them adhere better to the grill.",
+    "Season with salt and pepper if desired.",
+    "Drizzle a bit of oil on both sides of the kimchi slices for added flavor.",
+    "Grill the Nutella-kimchi slices for 2-3 minutes per side, or until nicely charred. Watch closely as the fat can cause flare-ups.",
+    "For an extra protein boost, sprinkle some bacon bits and Panko crumbs over the top before grilling."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutella",
+    "grilled",
+    "kimchi",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "nutellagrilledkimchi",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutellagrilledkimchi",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:02:18Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "nutella",
+    "diet": "high-protein",
+    "region": null
+  }
+}
