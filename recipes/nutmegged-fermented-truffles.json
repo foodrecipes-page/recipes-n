@@ -1,0 +1,69 @@
+{
+  "title": "Nutmegged Fermented Truffles",
+  "description": "A dense and light Spanish dish featuring fermented truffles with a touch of nutmeg for a whole30-friendly meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fermented mushrooms",
+      "amount": "1 cup",
+      "notes": "use a variety of mushrooms, such as oyster or shiitake"
+    },
+    {
+      "name": "flaxseeds",
+      "amount": "2 tablespoons",
+      "notes": "ground them to use in the fermentation process"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly grated for a stronger flavor"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups",
+      "notes": "to create a brine for fermentation"
+    }
+  ],
+  "instructions": [
+    "Combine water, flaxseeds, and nutmeg in a blender or food processor to make a paste. Set aside.",
+    "Sterilize glass jars by boiling them for 10 minutes.",
+    "Add the flaxseed-nutmeg paste into each jar, cover with lids, and place on the kitchen counter at room temperature for about 48 hours.",
+    "Taste the fermented mixture after 24-48 hours. If it's not sweet enough, let ferment longer or add a small amount of honey (not recommended for whole30).",
+    "Once ready, transfer to the refrigerator and store in the fridge."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": null,
+  "totalTimeMin": 48,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "nutmeg",
+    "fermented",
+    "truffles",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 1,
+    "fat": 0
+  },
+  "slug": "nutmegged-fermented-truffles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutmegged-fermented-truffles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:54:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "steam",
+    "primaryIngredient": "nutmeg",
+    "diet": "whole30",
+    "region": null
+  }
+}

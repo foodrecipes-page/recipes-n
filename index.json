@@ -36,5 +36,18 @@
     "cuisine": "Polish",
     "totalTimeMin": 60,
     "shard": "n"
+  },
+  {
+    "slug": "nutmegged-fermented-truffles",
+    "title": "Nutmegged Fermented Truffles",
+    "tags": [
+      "nutmeg",
+      "fermented",
+      "truffles",
+      "whole30-friendly"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 48,
+    "shard": "n"
   }
 ]
