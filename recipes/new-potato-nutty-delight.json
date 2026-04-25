@@ -1,0 +1,85 @@
+{
+  "title": "New Potato Nutty Delight",
+  "description": "A kid-friendly Russian dish featuring baked new potatoes with a nutty, velvety topping made from plant-based ingredients.",
+  "cuisine": "Russian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "4 medium-sized",
+      "notes": "preferably scrubbed to remove any dirt"
+    },
+    {
+      "name": "unsweetened almond milk or plant-based milk alternative",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond butter (smooth)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar-free cocoa powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil or avocado oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh herbs (optional)",
+      "amount": "handful",
+      "notes": "such as parsley, chives, or dill for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Rinse and dry new potatoes. Pierce them with a fork in several places.",
+    "Place the potatoes on a baking sheet lined with parchment paper. Drizzle with olive oil or avocado oil and sprinkle with salt.",
+    "Roast for about 40 minutes until tender, flipping halfway through cooking time.",
+    "In a blender or food processor, combine almond milk, almond butter, cocoa powder, and nutritional yeast. Blend until smooth and creamy.",
+    "Pour the mixture over the roasted potatoes and mix well to evenly coat them with the nutty topping.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "new potatoes",
+    "nutty",
+    "velvety",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "new-potato-nutty-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/new-potato-nutty-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:25:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "new potatoes",
+    "diet": "plant-based",
+    "region": null
+  }
+}

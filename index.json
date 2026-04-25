@@ -1,5 +1,18 @@
 [
   {
+    "slug": "new-potato-nutty-delight",
+    "title": "New Potato Nutty Delight",
+    "tags": [
+      "new potatoes",
+      "nutty",
+      "velvety",
+      "plant-based"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
     "slug": "nutella-earthy-one-pot-kosher-delight",
     "title": "Nutella Earthy One-Pot Kosher Delight",
     "tags": [
