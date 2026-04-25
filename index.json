@@ -62,5 +62,18 @@
     "cuisine": "Spanish",
     "totalTimeMin": 48,
     "shard": "n"
+  },
+  {
+    "slug": "nutsuki-crunch",
+    "title": "Nutsuki Crunch",
+    "tags": [
+      "japanese",
+      "crispy",
+      "solo-dinner",
+      "earthly"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": null,
+    "shard": "n"
   }
 ]

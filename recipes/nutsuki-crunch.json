@@ -1,0 +1,78 @@
+{
+  "title": "Nutsuki Crunch",
+  "description": "An earthy and crispy solo-dinner Japanese dish featuring raw-friendly nuts, whisked into a savory sauce.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups roasted cashews",
+      "amount": "cup",
+      "notes": "Freshly roasted for best texture."
+    },
+    {
+      "name": "1/4 cup raw sesame seeds",
+      "amount": "cup",
+      "notes": "For a touch of nuttiness and crunch."
+    },
+    {
+      "name": "Juice from 1 lemon",
+      "amount": "juice",
+      "notes": "Freshly squeezed for extra zest."
+    },
+    {
+      "name": "3 tablespoons sherry vinegar",
+      "amount": "tablespoons",
+      "notes": "Use high-quality for better flavor."
+    },
+    {
+      "name": "2 teaspoons toasted sesame oil",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1 tablespoon water",
+      "amount": "tablespoon"
+    }
+  ],
+  "instructions": [
+    "Place cashews, sesame seeds, lemon juice, sherry vinegar, toasted sesame oil, and salt in a blender or food processor.",
+    "Blend until smooth but still slightly chunky for texture. Add water gradually to achieve desired consistency without being too thin.",
+    "Pour the mixture over your prepared raw-friendly nuts like almonds or walnuts for an instant crunchy base.",
+    "Gently toss everything together ensuring all nuts are coated evenly with the dressing.",
+    "prepTimeMin: 10",
+    "cookTimeMin: 5",
+    "totalTimeMin: 15",
+    "servings: 4-6",
+    "difficulty: "
+  ],
+  "tags": [
+    "japanese",
+    "crispy",
+    "solo-dinner",
+    "earthly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "nutsuki-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutsuki-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:43:33Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "nuts",
+    "diet": "raw",
+    "region": null
+  }
+}
