@@ -1,9 +1,15 @@
-{
-  "version": 1,
-  "shard": "n",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'n''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-n@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "nutella-earthy-one-pot-kosher-delight",
+    "title": "Nutella Earthy One-Pot Kosher Delight",
+    "tags": [
+      "nutella",
+      "earthly",
+      "kosher-friendly",
+      "one-pot"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 60,
+    "shard": "n"
+  }
+]

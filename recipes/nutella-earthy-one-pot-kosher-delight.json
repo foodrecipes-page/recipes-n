@@ -1,0 +1,89 @@
+{
+  "title": "Nutella Earthy One-Pot Kosher Delight",
+  "description": "A dense, earthy one-pot dish featuring Nutella in a slow-cooked Polish style, ideal for breakfast or dessert.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Nutella",
+      "amount": "3 tablespoons",
+      "notes": "For spreading and flavor enhancement"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing aromatics"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped",
+      "notes": "To add depth of flavor"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "3, minced",
+      "notes": "Optional for a milder dish"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "2 teaspoons",
+      "notes": "For earthiness and aroma"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste, adjust as needed"
+    },
+    {
+      "name": "Kosher Chicken Stock Cube",
+      "amount": "1 cube",
+      "notes": "For extra flavor and moisture"
+    },
+    {
+      "name": "Panko Bread Crumbs",
+      "amount": "2 tablespoons",
+      "notes": "Optional for texture enhancement"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add finely chopped onion and garlic (if using), sauté until translucent, about 5 minutes.",
+    "Stir in thyme leaves and salt. Cook for an additional minute.",
+    "Gently fold in Nutella to incorporate with the vegetables, creating a smooth mixture.",
+    "Pour in Kosher Chicken Stock Cube cube water and stir gently to dissolve.",
+    "Cover pot and simmer on low heat for 30 minutes until thickened and slightly reduced.",
+    "If desired, sprinkle Panko Bread Crumbs over the top and cook for another few minutes or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutella",
+    "earthly",
+    "kosher-friendly",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 371,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "nutella-earthy-one-pot-kosher-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutella-earthy-one-pot-kosher-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:26:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "slow-cook",
+    "primaryIngredient": "nutella",
+    "diet": "kosher",
+    "region": null
+  }
+}
