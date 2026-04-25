@@ -1,0 +1,78 @@
+{
+  "title": "Nostalgic Fry Smoky Treacle Crumble",
+  "description": "A light and nostalgic Polish dish featuring crispy treacle crumbles fried in a paleo-friendly manner.",
+  "cuisine": "Polish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pistachio Nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Dark Chocolate (optional)",
+      "amount": "2 ounces",
+      "notes": "For a touch of indulgence"
+    },
+    {
+      "name": "Caster Sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Golden Syrup (for coating), unsweetened",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vanilla Bean Paste",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "In a mixing bowl, combine the coconut oil and melted dark chocolate if using. Mix well until smooth.",
+    "Add caster sugar, golden syrup, and vanilla bean paste to the coconut-oil mixture. Stir thoroughly until all ingredients are fully incorporated and there is no lumps left.",
+    "Pour the crumble mixture onto a parchment-lined baking sheet. Using your hands, press it into an even layer about 1cm thick.",
+    "Place the baking sheet in the preheated oven for approximately 8 minutes or until the edges turn golden brown. Remove from the oven and let cool slightly before breaking apart any large clumps of crumble mixture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nastalgic",
+    "smoky",
+    "paleo-friendly",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 2,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "nostalgic-fry-smoky-treacle-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-fry-smoky-treacle-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:37:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "fry",
+    "primaryIngredient": "treacle",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Smoky",
+    "mainIngredient": "Treacle",
+    "descriptor": "Nostalgic Fry",
+    "dishForm": "Crumble"
+  }
+}
