@@ -1,0 +1,80 @@
+{
+  "title": "Nutella Bhuna Nachos",
+  "description": "A nutty, crispy Algerian dish featuring Nutella as a twist on classic nachos, perfect for adventurous snackers who want something different and egg-free-friendly.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Nacho Cheese",
+      "amount": "2 oz",
+      "notes": "Make sure it's cooked to a golden brown"
+    },
+    {
+      "name": "Nutella",
+      "amount": "4 tbsp",
+      "notes": "Ensure you have the right amount of Nutella for the nachos, adjust as needed"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "2 oz",
+      "notes": "Use to top the nachos and add creaminess"
+    },
+    {
+      "name": "Avocado Salsa",
+      "amount": "4 tbsp",
+      "notes": "For a fresh, tangy twist on traditional salsa"
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "amount": "1 oz",
+      "notes": "Optional for added texture and flavor"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "2 tsp",
+      "notes": "For a touch of spice to enhance the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a large mixing bowl, combine Nacho Cheese, Nutella, and Sour Cream. Mix well until evenly combined.",
+    "If desired, sprinkle shredded Cheddar Cheese over the top for extra richness.",
+    "Spread the mixture onto a baking sheet lined with parchment paper or a Silpat mat to catch any drips.",
+    "Sprinkle Paprika Powder on top of the Nacho cheese mix for added flavor and color.",
+    "Bake in preheated oven for 12 minutes or until golden brown and heated through.",
+    "Serve warm with Avocado Salsa as a side to enhance the experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 18,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "nutella",
+    "bhuna",
+    "algerian",
+    "snack",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 24,
+    "fat": 8
+  },
+  "slug": "nutella-bhuna-nachos",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutella-bhuna-nachos",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:32:55Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "bhuna",
+    "primaryIngredient": "nutella",
+    "diet": "egg-free",
+    "region": null
+  }
+}
