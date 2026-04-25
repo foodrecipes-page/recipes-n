@@ -1,0 +1,79 @@
+{
+  "title": "Nutty Peruvian Peanut Crumble",
+  "description": "This kid-friendly peruvian dish features a nutty and tender peanut brittle base that kids will love.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "honey or maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond meal",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine peanut butter and coconut oil until smooth.",
+    "Add cocoa powder and mix well. Gradually add honey or maple syrup, stirring continuously to avoid clumping.",
+    "Fold in pumpkin seeds and almond meal gently with a spatula until evenly distributed.",
+    "Transfer mixture into an ungreased 8x8 inch baking dish and press down firmly to create one layer.",
+    "Bake for about 15 minutes or until golden brown on top. Let cool completely before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "tender",
+    "peruvian",
+    "kid-friendly",
+    "peanut-brittle"
+  ],
+  "nutrition": {
+    "calories": 201,
+    "protein": 6.9,
+    "carbs": 37.5,
+    "fat": 14.8
+  },
+  "slug": "nutty-peruvian-peanut-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-peruvian-peanut-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:41:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "peanut brittle",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "peanuts",
+    "descriptor": "Nutty",
+    "dishForm": "Crumble"
+  }
+}

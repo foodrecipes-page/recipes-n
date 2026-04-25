@@ -204,5 +204,19 @@
     "cuisine": "Venezuelan",
     "totalTimeMin": 35,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-peruvian-peanut-crumble",
+    "title": "Nutty Peruvian Peanut Crumble",
+    "tags": [
+      "nutty",
+      "tender",
+      "peruvian",
+      "kid-friendly",
+      "peanut-brittle"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]
