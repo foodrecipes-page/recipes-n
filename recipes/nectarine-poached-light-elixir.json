@@ -1,0 +1,64 @@
+{
+  "title": "Nectarine Poached Light Elixir",
+  "description": "A sour and crispy whole30-friendly light dish featuring poached nectarines that can be enjoyed as a dessert or snack.",
+  "cuisine": "American",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup of fresh nectarines",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 lemon, juiced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon honey",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash and slice the nectarines into bite-sized pieces.",
+    "Place sliced nectarines in a pot with half of the lemon juice and sprinkle with the honey over the top.",
+    "Bring to a boil, reduce heat to low, cover, and simmer for about 5-7 minutes until tender but not mushy.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "nectarine",
+    "poached",
+    "light",
+    "elixir",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 40,
+    "protein": 1,
+    "carbs": 7,
+    "fat": 0
+  },
+  "slug": "nectarine-poached-light-elixir",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nectarine-poached-light-elixir",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:20:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "nectarines",
+    "diet": "whole30",
+    "region": null
+  }
+}
