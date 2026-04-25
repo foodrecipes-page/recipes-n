@@ -1,0 +1,74 @@
+{
+  "title": "Nutty Flaky Cashew Crumble",
+  "description": "A tasty and quick Venezuelan dish featuring nuttiness from cashews combined with a hint of rum for an aromatic twist, ideal as a dessert or snack option.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cashew nuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "maple syrup or honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Coat a baking dish with butter.",
+    "Chop the cashew nuts into small pieces and mix them with the melted butter, maple syrup or honey, ground cinnamon, and vanilla extract. Mix well until it forms an evenly distributed mixture without clumping.",
+    "Pour the crumble mixture into the prepared baking dish.",
+    "Bake in preheated oven for 20 minutes or until golden brown on top.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "flaky",
+    "crumble",
+    "venezuela"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "nutty-flaky-cashew-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-flaky-cashew-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:27:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "bhuna",
+    "primaryIngredient": "rum",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezulan",
+    "mainIngredient": "Cashew",
+    "descriptor": "Nutty Flaky",
+    "dishForm": "Crumble"
+  }
+}
