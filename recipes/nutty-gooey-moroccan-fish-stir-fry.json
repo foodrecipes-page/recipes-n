@@ -1,0 +1,91 @@
+{
+  "title": "Nutty Gooey Moroccan Fish Stir-fry",
+  "description": "A lazy Sunday dish featuring fish, tempered with a blend of spices and nuts for a gooey texture, perfect for those looking to enjoy a keto-friendly meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4 finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pitted dates",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "almonds",
+      "amount": "50g, crushed"
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "3-4 fresh, finely chopped"
+    },
+    {
+      "name": "olive oil for frying",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat. Add garlic and almonds, sauté until fragrant.",
+    "Add dates, thyme, and fish fillets to the pan. Cook for about 5 minutes on each side or until golden brown and crispy.",
+    "Reduce heat to low, add unsalted butter, and stir continuously until the mixture begins to thicken and become gooey and nutty in texture.",
+    "Serve hot with a side of green salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "gooey",
+    "lazy-sunday",
+    "moroccan",
+    "fish",
+    "stir-fry",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "nutty-gooey-moroccan-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-gooey-moroccan-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:21:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "temper",
+    "primaryIngredient": "fish",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Fish",
+    "descriptor": "Nutty Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
