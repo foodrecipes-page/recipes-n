@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Gooey Moroccan Chicken Stir-fry",
+  "description": "A lazy Sunday dish featuring chicken legs in a savory sauce with nuts and grains, perfect for those who prefer a more relaxed meal prep.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "dairy-free",
+    "grain-free",
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken legs",
+      "amount": "2"
+    },
+    {
+      "name": "Dumplings (or gluten-free alternatives)",
+      "amount": "30g"
+    },
+    {
+      "name": "Nut mix (almonds, cashews, pine nuts)",
+      "amount": "50g"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Saffron strands",
+      "amount": "3-5"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water (or low-sodium chicken broth)",
+      "amount": "200ml"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Soak saffron in a little bit of hot water and set aside.",
+    "Grind the cumin seeds, turmeric powder, and garam masala together with half of the olive oil until smooth. Add the ground spices to the chicken legs and stir well to coat evenly.",
+    "In a separate pan, heat remaining olive oil over medium heat, add the ground spice mixture and sauté for about 2 minutes. Stir in tomato paste, then pour in the water or broth.",
+    "Bring the sauce to a boil, reduce heat to low, add the chicken legs and dumplings, cover with foil, and bake in the oven for about 30 minutes.",
+    "About 15-20 minutes before serving, remove from the oven. Sprinkle the nut mix on top of the chicken and let it sit for a few more minutes.",
+    "Garnish with saffron strands if using, serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan-chicken-stir-fry",
+    "nutty-gooey-dish",
+    "lazy-sunday-meal",
+    "dairy-free",
+    "grain-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 45,
+    "fat": 25
+  },
+  "slug": "nutty-gooey-moroccan-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-gooey-moroccan-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:50:26Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "dum",
+    "primaryIngredient": "chicken legs",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Nutty Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
