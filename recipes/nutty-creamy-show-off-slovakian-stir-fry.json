@@ -1,0 +1,94 @@
+{
+  "title": "Nutty Creamy Show-off Slovakian Stir-fry",
+  "description": "A show-stopping dish featuring a nutty and creamy sauce infused with bay leaves that complements gluten-free-friendly vegetables and grains.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bay leaves",
+      "amount": "1-2 pieces"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 medium, diced"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "1 piece, finely chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2-3 pieces, julienned"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup, julienne and lightly steamed"
+    },
+    {
+      "name": "pistachios or almonds",
+      "amount": "1/4 cup, crushed"
+    },
+    {
+      "name": "sloppy joe sauce (gluten-free)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "6-8 ounces"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "salt and pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat. Add bay leaves, garlic, onion, celery, and zest of one lemon.",
+    "Sauté until the vegetables are slightly softened, about 5 minutes. Stir in steamed zucchini, carrots, and pistachios/almonds.",
+    "Add sloppy joe sauce, vegetable broth, and heavy cream to the skillet, stirring well to combine. Bring to a simmer.",
+    "Reduce heat to low and let cook for another 10-12 minutes until the sauce thickens slightly. Season with salt and pepper as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "nutty",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 396,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 21
+  },
+  "slug": "nutty-creamy-show-off-slovakian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-creamy-show-off-slovakian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:37:58Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "saute",
+    "primaryIngredient": "bay leaf",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Almonds",
+    "descriptor": "Nutty Creamy Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
