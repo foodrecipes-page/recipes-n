@@ -1,0 +1,75 @@
+{
+  "title": "Nutty Juicy Dutch Almond Crumble",
+  "description": "A post-workout dish featuring a nutty and juicy crumble base made with almond meal as the primary binding agent.",
+  "cuisine": "Dutch-American",
+  "diet": [
+    "sugar-free",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tablespoons, melted"
+    },
+    {
+      "name": "honey syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar-free jelly (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "almonds",
+      "amount": "2 tablespoons, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Combine almond flour and melted butter in a bowl until well mixed. If using jelly, stir it into the mixture.",
+    "Press the crumble base evenly onto a lined baking sheet or pie dish.",
+    "Top with chopped almonds on top of the crumble base.",
+    "Bake for 20-25 minutes or until golden brown and bubbly at the edges.",
+    "Remove from oven and let cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "juicy",
+    "dutch-almond-crumble",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 21,
+    "fat": 6
+  },
+  "slug": "nutty-juicy-dutch-almond-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-juicy-dutch-almond-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:58:17Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "whisk",
+    "primaryIngredient": "sugar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "almonds",
+    "descriptor": "Nutty Juicy",
+    "dishForm": "Crumble"
+  }
+}
