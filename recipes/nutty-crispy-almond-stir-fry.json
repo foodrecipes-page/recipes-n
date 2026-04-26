@@ -1,0 +1,85 @@
+{
+  "title": "Nutty Crispy Almond Stir-fry",
+  "description": "A romantic Vietnamese dish featuring candied peel and almonds for a crispy texture with a touch of sweetness and nuttiness to complement any meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "orange peel, candied",
+      "amount": "2 medium pieces"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "ginger, fresh, minced",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions, white part, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt to taste",
+      "amount": null
+    },
+    {
+      "name": "peanut sauce (optional)",
+      "amount": "2 tablespoons",
+      "notes": "adjust for desired sweetness"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add almonds and stir-fry until golden brown, about 5 minutes.",
+    "Add orange peel, ginger, scallions, and salt to taste. Stir well.",
+    "If using peanut sauce, mix it into the dish for additional flavoring.",
+    "Continue to cook for another minute or two until all ingredients are heated through.",
+    "Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crispy",
+    "romantic",
+    "vietnamese",
+    "candied-peel",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 18
+  },
+  "slug": "nutty-crispy-almond-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-almond-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:36:22Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "cure",
+    "primaryIngredient": "candied peel",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "almonds",
+    "descriptor": "nutty crispy",
+    "dishForm": "Stir-fry"
+  }
+}
