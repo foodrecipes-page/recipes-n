@@ -1,0 +1,93 @@
+{
+  "title": "Nutty Crispy Croatian Sea Bass Stir-fry",
+  "description": "A sick-day-friendly dish featuring crispy sea bass coated in a nut-free topping of toasted almonds and mixed seeds.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4",
+      "notes": "Skin-on"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup",
+      "notes": "Toasted, unsalted"
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "amount": "1/4 cup",
+      "notes": "Roasted and salted, optional for extra crunch"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1",
+      "notes": "Sliced, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toast almonds in the oven for about 8 minutes or until golden brown and fragrant.",
+    "Toast pumpkin seeds in a dry pan over medium heat for about 2-3 minutes, shaking frequently until they're crunchy but not burnt. Season with salt if desired.",
+    "Mix toasted almonds and pumpkin seeds together in a bowl.",
+    "Season sea bass fillets on both sides with salt and pepper.",
+    "Heat olive oil in a large skillet over high heat. Add garlic and sauté for about 30 seconds until fragrant but not browned.",
+    "Place sea bass fillets skin-side down into the hot pan. Cook for 2-3 minutes, then flip and cook another 1-2 minutes or until just cooked through (fillets should be opaque but still moist).",
+    "Arrange cooked fish on a plate, topped with a generous scoop of the toasted nut mixture.",
+    "Garnish with sliced green onions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nut-free",
+    "crispy",
+    "croatian",
+    "sea-bass",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 17,
+    "fat": 16
+  },
+  "slug": "nutty-crispy-croatian-sea-bass-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-croatian-sea-bass-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:14:19Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "toast",
+    "primaryIngredient": "sea bass",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "sea bass",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
