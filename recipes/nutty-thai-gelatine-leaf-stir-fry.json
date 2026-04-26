@@ -1,0 +1,98 @@
+{
+  "title": "Nutty Thai Gelatine Leaf Stir-fry",
+  "description": "A dense and nutty one-pot Thai dish featuring gelatin leafs in a flavorful sauce that is halal-friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gelatine leaves",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "cashews",
+      "amount": "20-30g"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "50g"
+    },
+    {
+      "name": "scallions, chopped",
+      "amount": "20-30g"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Soak the gelatine leaves in hot water for at least 5 minutes, then squeeze out excess water.",
+    "In a pan, heat sesame oil over medium-high heat. Add minced ginger and garlic; stir-fry until fragrant and golden brown.",
+    "Add cashews, carrots, and scallions to the pan. Stir-fry for about 2 minutes or until vegetables are slightly soft.",
+    "Combine soy sauce, lime juice, cornstarch, and water in a small bowl. Mix well and pour into the pan with vegetables.",
+    "Simmer for an additional minute to thicken the sauce. Remove from heat once everything is evenly coated and heated through.",
+    "Garnish with more scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "thai",
+    "gelatine-leaf-stir-fry",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "nutty-thai-gelatine-leaf-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-thai-gelatine-leaf-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:40:06Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "braise",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Gelatine leafs",
+    "descriptor": "Nutty",
+    "dishForm": "Stir-fry"
+  }
+}

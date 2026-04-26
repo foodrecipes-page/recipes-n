@@ -429,5 +429,18 @@
     "cuisine": "British",
     "totalTimeMin": 20,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-thai-gelatine-leaf-stir-fry",
+    "title": "Nutty Thai Gelatine Leaf Stir-fry",
+    "tags": [
+      "nutty",
+      "thai",
+      "gelatine-leaf-stir-fry",
+      "halal-friendly"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 20,
+    "shard": "n"
   }
 ]
