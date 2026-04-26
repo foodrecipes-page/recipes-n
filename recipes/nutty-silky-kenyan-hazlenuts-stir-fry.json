@@ -1,0 +1,88 @@
+{
+  "title": "Nutty Silky Kenyan Hazlenuts Stir-fry",
+  "description": "A delicious monsoon dish featuring roasted hazelnuts in a silky sauce that’s low-sodium and ready to enjoy as a snack or light meal.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 (medium)"
+    },
+    {
+      "name": "Minced Onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red Chili Pepper",
+      "amount": "2 pieces, finely chopped"
+    },
+    {
+      "name": "Low Sodium Tamari Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Herbs (such as parsley or cilantro)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Spread the hazelnuts on a baking sheet and toast them for about 8-10 minutes, until they’re golden brown. Allow them to cool before mincing.",
+    "In a large skillet, heat olive oil over medium-high heat. Add minced garlic and onion, stirring occasionally until soft and translucent, about 5 minutes.",
+    "Add finely chopped red chili pepper and continue cooking for another minute.",
+    "Stir in toasted hazelnuts and tamari sauce, then add chicken broth and water. Simmer gently for a couple of minutes to allow flavors to meld together.",
+    "Finish with fresh herbs just before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "silky",
+    "kenyan",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 8,
+    "carbs": 32,
+    "fat": 14
+  },
+  "slug": "nutty-silky-kenyan-hazlenuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-silky-kenyan-hazlenuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:22:58Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "roast",
+    "primaryIngredient": "hazlenuts",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Hazlenuts",
+    "descriptor": "Nutty Silky",
+    "dishForm": "Stir-fry"
+  }
+}
