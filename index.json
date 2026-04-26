@@ -65,6 +65,19 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-garlicy-tunisian-stir-fry",
+    "title": "Nostalgic Garlicy Tunisian Stir-fry",
+    "tags": [
+      "garlicy",
+      "dense",
+      "nostalgic",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgic-gooey-australian-potato-stir-fry",
     "title": "Nostalgic Gooey Australian Potato Stir-fry",
     "tags": [

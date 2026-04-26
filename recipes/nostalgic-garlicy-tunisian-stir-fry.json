@@ -1,0 +1,79 @@
+{
+  "title": "Nostalgic Garlicy Tunisian Stir-fry",
+  "description": "A dense and garlicky dish featuring turmeric that combines spices to create a high-protein-friendly meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add chopped garlic and cook for about 1 minute until fragrant but not browned.",
+    "Stir in ground beef and cook until it's fully cooked through, breaking up any lumps with a wooden spoon.",
+    "Sprinkle turmeric powder over the meat mixture and mix well to coat all ingredients evenly.",
+    "Pour in tomato paste and stir continuously for about 2 minutes until it starts to thicken slightly.",
+    "Reduce heat to low and simmer the dish for another 5-7 minutes, stirring occasionally.",
+    "Season with salt if needed. The dish should be quite spicy but not overwhelmingly so; adjust to your preference."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicy",
+    "dense",
+    "nostalgic",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 15,
+    "fat": 16
+  },
+  "slug": "nostalgic-garlicy-tunisian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-garlicy-tunisian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:09:08Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "bake",
+    "primaryIngredient": "turmeric",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
