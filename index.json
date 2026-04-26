@@ -193,6 +193,19 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crisp-croatian-nuts-stir-fry",
+    "title": "Nutty Crisp Croatian Nuts Stir-fry",
+    "tags": [
+      "nutty",
+      "crisp",
+      "croatian",
+      "stir-fry"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-flaky-cashew-crumble",
     "title": "Nutty Flaky Cashew Crumble",
     "tags": [

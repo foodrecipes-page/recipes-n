@@ -1,0 +1,85 @@
+{
+  "title": "Nutty Crisp Croatian Nuts Stir-fry",
+  "description": "A savory one-pot dish featuring crispy nuts, saffron, and other Mediterranean spices for a paleo-friendly twist on traditional Croatian cuisine.",
+  "cuisine": "Croatian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup",
+      "notes": "Soaked overnight for easier cooking"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/2 cup",
+      "notes": "Also soaked if preferred"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "6-8 strands",
+      "notes": "Use more for stronger flavor"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Mashed with some oil for added depth"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "For a smoky flavor"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "To enhance the nutty flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Soak almonds and pistachios overnight in water.",
+    "Drain nuts, pat them dry with paper towels, and place them on a baking sheet lined with parchment paper.",
+    "Roast the nuts in the preheated oven for about 20 minutes until they turn golden brown and are slightly crispy. Remove from heat when ready to add other ingredients.",
+    "In a separate pan over medium heat, sauté garlic, paprika, and cumin seeds in some oil until fragrant. Add the roasted nuts and cook for an additional minute.",
+    "Gently stir in saffron strands and mix evenly with the nut mixture.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crisp",
+    "croatian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 16,
+    "carbs": 25,
+    "fat": 17
+  },
+  "slug": "nutty-crisp-croatian-nuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crisp-croatian-nuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:58:02Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "braise",
+    "primaryIngredient": "saffron",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "nuts",
+    "descriptor": "nutty crisp",
+    "dishForm": "Stir-fry"
+  }
+}
