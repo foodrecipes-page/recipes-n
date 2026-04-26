@@ -1,0 +1,80 @@
+{
+  "title": "Nuttty British Nuts Stir-fry",
+  "description": "A nutty and light dish featuring pescatarian-friendly elements with a touch of midnight-craving chilli-flakes.",
+  "cuisine": "British",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chilli Flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "few"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toast almonds, pistachios, and walnuts in a dry skillet over medium heat for about 2 minutes each until lightly golden. Remove from heat.",
+    "Combine toasted nuts with chilli flakes and olive oil in a mixing bowl. Mix well to coat the nuts evenly.",
+    "Season with salt according to taste. Add fresh basil leaves for garnish if desired.",
+    "Serve immediately as a snack or appetizer.",
+    "prepTimeMin: 5",
+    "cookTimeMin: 10",
+    "totalTimeMin: 20",
+    "servings: 3-4",
+    "difficulty: "
+  ],
+  "tags": [
+    "nuttybritishnuts",
+    "lightbritishdish",
+    "midnightcraving"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 13
+  },
+  "slug": "nuttty-british-nuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nuttty-british-nuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:31:22Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "cure",
+    "primaryIngredient": "chilli flakes",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "nuts",
+    "descriptor": "Nuttty",
+    "dishForm": "Stir-fry"
+  }
+}

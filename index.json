@@ -246,6 +246,18 @@
     "shard": "n"
   },
   {
+    "slug": "nuttty-british-nuts-stir-fry",
+    "title": "Nuttty British Nuts Stir-fry",
+    "tags": [
+      "nuttybritishnuts",
+      "lightbritishdish",
+      "midnightcraving"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": null,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-crisp-croatian-nuts-stir-fry",
     "title": "Nutty Crisp Croatian Nuts Stir-fry",
     "tags": [
