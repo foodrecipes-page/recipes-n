@@ -1,0 +1,81 @@
+{
+  "title": "Nostalgic Umami Dense Grapefruit Stir-fry",
+  "description": "A Dutch-inspired dish featuring grapefruit juice with a hint of umami, perfect for breakfast or snack time. Sugar-free and low-sodium.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup fresh grapefruit segments",
+      "amount": "",
+      "notes": "Use the juice if you prefer a sweeter version"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "",
+      "notes": "Replace with fish sauce or Worcestershire sauce for umami flavor"
+    },
+    {
+      "name": "1 teaspoon honey (optional)",
+      "amount": "",
+      "notes": "Reduce sweetness by omitting this ingredient"
+    },
+    {
+      "name": "Pinch of red pepper flakes",
+      "amount": "",
+      "notes": "For a bit of heat and spice"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1-inch ginger, grated or finely chopped",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine grapefruit segments with soy sauce in a bowl. Add optional honey and red pepper flakes for desired sweetness and heat.",
+    "Heat a non-stick skillet over medium-high heat. Stir in minced garlic and ginger, cooking until fragrant but not browned.",
+    "Pour the grapefruit mixture into the skillet and stir to combine. Simmer for about 5 minutes or until thickened slightly.",
+    "Serve warm as a snack or with toast or crackers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "grapefruit",
+    "umami",
+    "dutch",
+    "snack",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 65,
+    "protein": 1.5,
+    "carbs": 9,
+    "fat": 0
+  },
+  "slug": "nostalgic-umami-dense-grapefruit-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-umami-dense-grapefruit-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:46:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "simmer",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Grapefruit",
+    "descriptor": "Umami Dense Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
