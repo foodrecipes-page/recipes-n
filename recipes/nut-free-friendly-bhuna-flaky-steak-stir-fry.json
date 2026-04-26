@@ -1,0 +1,82 @@
+{
+  "title": "Nut-Free-Friendly Bhuna Flaky Steak Stir-fry",
+  "description": "A salty and flaky date-night Slovakian dish featuring lean minced steak in a bhuna sauce without nuts, perfect for those with dietary restrictions.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lean ground beef",
+      "amount": "150g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 finely chopped"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken or vegetable stock",
+      "amount": "50ml"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Spices (adjust to taste): chili powder, paprika, salt"
+    },
+    {
+      "name": "Nut-free-friendly sauce base (for dipping)",
+      "amount": "to serve"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or pan over medium-high heat. Add sesame oil and stir-fry onions until translucent.",
+    "Add minced beef and cook until browned on all sides, breaking it into small pieces as it cooks.",
+    "Toss in finely chopped garlic and continue cooking for another minute. Then add tomato puree and chicken/vegetable stock, stirring well to combine.",
+    "Reduce heat to medium-low and let the sauce simmer for about 5 minutes until slightly thickened. Season with spices according to preference.",
+    "To serve, pour the cooked beef mixture into a serving dish and drizzle over the nut-free-friendly sauce base."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nut-free",
+    "flaky",
+    "bhuna",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 21,
+    "carbs": 18,
+    "fat": 17
+  },
+  "slug": "nut-free-friendly-bhuna-flaky-steak-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nut-free-friendly-bhuna-flaky-steak-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:29:34Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "bhuna",
+    "primaryIngredient": "lean minced steak",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Steak",
+    "descriptor": "Nut-Free-Friendly Bhuna Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
