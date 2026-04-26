@@ -206,6 +206,19 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-fluffy-apricot-stir-fry",
+    "title": "Nutty Fluffy Apricot Stir-fry",
+    "tags": [
+      "nutty",
+      "fluffy",
+      "norwegian",
+      "keto-friendly"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 15,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-peruvian-peanut-crumble",
     "title": "Nutty Peruvian Peanut Crumble",
     "tags": [

@@ -1,0 +1,72 @@
+{
+  "title": "Nutty Fluffy Apricot Stir-fry",
+  "description": "A quick-fix Norwegian dish featuring nutty and fluffy textures from dried apricots and almonds in a simple stir-fry.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dried Apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almonds",
+      "amount": "2 tablespoons",
+      "notes": "For crunch and additional flavor."
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Toast the almonds in a dry skillet over medium heat until they are golden brown and fragrant, about 2-3 minutes.",
+    "Meanwhile, slice the dried apricots into small pieces if not already done.",
+    "In a wok or large frying pan, add a bit of oil (optional).",
+    "Add the toasted almonds to the pan followed by the sliced apricots and garlic powder. Stir well to combine all ingredients evenly.",
+    "Season with salt, then remove from heat and serve hot as a snack or light meal.",
+    "Optional: Serve with some fresh herbs for extra flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "fluffy",
+    "norwegian",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 93,
+    "protein": 4.6,
+    "carbs": 8.1,
+    "fat": 5.7
+  },
+  "slug": "nutty-fluffy-apricot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-fluffy-apricot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:40:26Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "simmer",
+    "primaryIngredient": "dried apricots",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "apricot",
+    "descriptor": "Nutty Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
