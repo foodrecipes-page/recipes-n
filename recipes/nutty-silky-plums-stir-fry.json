@@ -1,0 +1,86 @@
+{
+  "title": "Nutty Silky Plums Stir-fry",
+  "description": "A midnight-craving Filipino dish featuring plum tomatoes, caramelized to perfection in a low-sodium-friendly Nutty Silky Plums Stir-fry.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Plum tomatoes",
+      "amount": "1 can (400g)"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Minced ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Canned nuts (almonds or peanuts)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of oil in a pan, add minced garlic and ginger.",
+    "Stir until the garlic turns light golden brown.",
+    "Add plum tomatoes to the pan, reduce heat and simmer for about 5 minutes or until they soften.",
+    "Pour in the soy sauce, rice vinegar, sugar, and water. Stir well and cook for another minute.",
+    "Fold in the canned nuts and let it cook for an additional 2-3 minutes.",
+    "Serve hot as a dessert with sliced avocado on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "silky",
+    "plum-tomato",
+    "caramelized"
+  ],
+  "nutrition": {
+    "calories": 78,
+    "protein": 1,
+    "carbs": 10,
+    "fat": 4
+  },
+  "slug": "nutty-silky-plums-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-silky-plums-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:10:58Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "caramelize",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Plums",
+    "descriptor": "Nutty Silky Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
