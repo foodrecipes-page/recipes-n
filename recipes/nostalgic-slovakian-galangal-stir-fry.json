@@ -1,0 +1,91 @@
+{
+  "title": "Nostalgic Slovakian Galangal Stir-fry",
+  "description": "A dense and umami-rich dish featuring galangal paste, loaded with nostalgic flavors and a perfect blend of smoke to make you feel right at home.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Galangal Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soaked Rice Crumbs",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Fresh Galangal",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetables (e.g., Red Pepper)",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Vegetable Stock",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat. Add galangal paste and minced fresh galangal, stirring for about 2 minutes until fragrant.",
+    "Add sliced chicken breast to the wok and season with salt and pepper. Cook until the chicken is lightly browned on all sides.",
+    "Remove chicken from the wok and set aside. In the same pan, add sesame oil and chopped rice crumbs, stir-fry for 2 minutes until golden brown.",
+    "Place chicken back into the wok with vegetables and vegetable stock. Stir well to combine, let it cook for another minute or so until everything is heated through and the sauce has thickened slightly.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "galangal",
+    "stir-fry",
+    "umami",
+    "nostalgic"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 27,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "nostalgic-slovakian-galangal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-slovakian-galangal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:53:29Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "smoke",
+    "primaryIngredient": "galangal paste",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Galangal",
+    "descriptor": "Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}

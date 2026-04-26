@@ -90,6 +90,19 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-slovakian-galangal-stir-fry",
+    "title": "Nostalgic Slovakian Galangal Stir-fry",
+    "tags": [
+      "galangal",
+      "stir-fry",
+      "umami",
+      "nostalgic"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgic-trout-tempeh",
     "title": "Nostalgic Trout Tempeh",
     "tags": [
