@@ -288,6 +288,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-silky-cozy-pumpkin-stir-fry",
+    "title": "Nutty Silky Cozy Pumpkin Stir-fry",
+    "tags": [
+      "nutty",
+      "silky",
+      "cozy",
+      "filipino",
+      "vegetarian-friendly",
+      "stir-fry"
+    ],
+    "cuisine": "Philippine",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-silky-paneer-stir-fry",
     "title": "Nutty Silky Paneer Stir-fry",
     "tags": [

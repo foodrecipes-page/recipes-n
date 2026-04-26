@@ -1,0 +1,107 @@
+{
+  "title": "Nutty Silky Cozy Pumpkin Stir-fry",
+  "description": "This Nutty Silky Cozy Pumpkin Stir-fry is a vegetarian-friendly Filipino dish featuring pumpkin, creamy nut mixture, and the perfect touch of cayenne pepper to add some heat. It’s cozy and delicious.",
+  "cuisine": "Philippine",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "amount": "1 medium",
+      "notes": "Use any pumpkin variety"
+    },
+    {
+      "name": "Butternut Squash",
+      "amount": "1 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Nut Mix (Almonds, Cashews, Pine Nuts)",
+      "amount": "3 tablespoons, chopped",
+      "notes": "To make: mix 2 cups of raw almonds with 1/4 cup of cashews and 1 tablespoon of pine nuts. Toast in a dry skillet until fragrant."
+    },
+    {
+      "name": "Pumpkin Puree (homemade or canned)",
+      "amount": "1 can, drained",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "For added flavor and heat"
+    },
+    {
+      "name": "Fish Sauce (Oyster Sauce in a pinch)",
+      "amount": "2 tablespoons",
+      "notes": "To add umami taste"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water (as needed)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the oil over medium-high heat.",
+    "Add minced garlic and sauté for about 30 seconds until fragrant.",
+    "Stir in nut mix and pumpkin puree. Add diced butternut squash.",
+    "Mix in chili flakes, fish sauce (or oyster sauce), and soy sauce.",
+    "Slowly pour in water while stirring continuously to avoid burning. Bring the mixture to a simmer.",
+    "Cover the skillet with a lid to prevent too much moisture evaporation. Allow it to cook for about 10 minutes.",
+    "Once cooked, remove from heat. Let it cool slightly before stirring in pumpkin puree well until fully combined.",
+    "Return the skillet back to the stove and bring to a simmer again for an additional 5-7 minutes or until everything is thoroughly heated through.",
+    "Your Nutty Silky Cozy Pumpkin Stir-fry is ready to serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "silky",
+    "cozy",
+    "filipino",
+    "vegetarian-friendly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "nutty-silky-cozy-pumpkin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-silky-cozy-pumpkin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:25:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "whisk",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Pumpkin",
+    "descriptor": "Nutty Silky Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
