@@ -218,5 +218,20 @@
     "cuisine": "Peruvian",
     "totalTimeMin": 35,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-silky-paneer-stir-fry",
+    "title": "Nutty Silky Paneer Stir-fry",
+    "tags": [
+      "nutty",
+      "silky",
+      "cozy",
+      "egyptian",
+      "paneer",
+      "stir-fry"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]

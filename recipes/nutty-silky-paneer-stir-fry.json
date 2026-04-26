@@ -1,0 +1,93 @@
+{
+  "title": "Nutty Silky Paneer Stir-fry",
+  "description": "A cozy Egyptian dish featuring paneer, toasted nuts, and a touch of sweetness for a diabetic-friendly meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup paneer, cubed",
+      "amount": "",
+      "notes": "Use low-fat or fat-free paneer if preferred."
+    },
+    {
+      "name": "2 tablespoons unsalted cashews, toasted and chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup diced fresh mint leaves",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup finely chopped garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup lemon juice (adjust to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons honey or stevia, for sweetness",
+      "amount": "",
+      "notes": "Use less if using honey"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium heat.",
+    "Add the paneer cubes and cook until golden brown, about 5 minutes on each side.",
+    "Remove from heat and set aside.",
+    "In the same pan, add cashews and garlic. Sauté for about 1 minute or until fragrant.",
+    "Stir in mint leaves and continue cooking for another minute.",
+    "Pour in the lemon juice and honey (or stevia), mix well to combine.",
+    "Add cooked paneer cubes back into the pan and toss gently to coat evenly with the sauce.",
+    "Season with salt and pepper. Serve immediately as a dinner dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "silky",
+    "cozy",
+    "egyptian",
+    "paneer",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 6
+  },
+  "slug": "nutty-silky-paneer-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-silky-paneer-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:05:10Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "toast",
+    "primaryIngredient": "paneer",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Paneer",
+    "descriptor": "Nutty Silky",
+    "dishForm": "Stir-fry"
+  }
+}
