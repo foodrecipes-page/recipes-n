@@ -1,0 +1,94 @@
+{
+  "title": "Nutty Velvety Irish Olive Stir-fry",
+  "description": "A crowd-pleasing Irish dish featuring blanched olives with a creamy nutty sauce, perfect for lunch or dinner.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olives",
+      "amount": "12-15 canned pitted green olives"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium carrots, peeled and julienned"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2 medium celery stalks, chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small onion, finely diced"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "3-4 fresh basil leaves, thinly sliced"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C). Blanch olives in boiling water for about 3 minutes, then rinse with cold water and pat dry.",
+    "Toss broccoli florets, carrots, and celery stalks with olive oil, nutritional yeast, soy sauce, and half a cup of water. Spread them evenly on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for about 15-20 minutes until vegetables are tender and slightly caramelized. Remove from oven and set aside.",
+    "In a blender or food processor, combine remaining soy sauce, nutritional yeast, water, blended olives, onion, basil, and olive oil until smooth. Season with salt to taste.",
+    "Heat 1 tablespoon of olive oil in a wok or large skillet over medium-high heat. Add roasted vegetables and stir-fry for about 5 minutes, allowing the sauce to thicken slightly as it cooks.",
+    "Pour the creamy sauce into the pan with vegetables, stirring constantly until all ingredients are well combined and heated through. Adjust seasoning if needed.",
+    "Serve hot as a side dish or over rice or quinoa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "velvety",
+    "irish",
+    "crowd-pleaser",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 12,
+    "carbs": 39,
+    "fat": 14
+  },
+  "slug": "nutty-velvety-irish-olive-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-velvety-irish-olive-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:52:23Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "olives",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Olives",
+    "descriptor": "Nutty Velvety",
+    "dishForm": "Stir-fry"
+  }
+}

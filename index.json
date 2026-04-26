@@ -550,5 +550,19 @@
     "cuisine": "Thai",
     "totalTimeMin": 20,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-velvety-irish-olive-stir-fry",
+    "title": "Nutty Velvety Irish Olive Stir-fry",
+    "tags": [
+      "nutty",
+      "velvety",
+      "irish",
+      "crowd-pleaser",
+      "low-sodium"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 55,
+    "shard": "n"
   }
 ]
