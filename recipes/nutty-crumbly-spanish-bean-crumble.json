@@ -1,0 +1,84 @@
+{
+  "title": "Nutty Crumbly Spanish Bean Crumble",
+  "description": "A meal-prep friendly dish featuring dried white beans and other ingredients for a delicious and filling snack or side.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "jalapeno pepper, finely chopped (optional)",
+      "amount": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley leaves, for garnish",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse and soak the dried white beans in water overnight.",
+    "Drain the soaked beans and place them in a blender or food processor with all remaining ingredients. Blend until smooth and creamy.",
+    "Transfer the mixture to a baking dish, spreading it evenly.",
+    "Bake at 350°F (175°C) for about 25 minutes, until golden brown and crispy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crumbly",
+    "spanish",
+    "meal-prep",
+    "dried beans",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 28,
+    "fat": 14
+  },
+  "slug": "nutty-crumbly-spanish-bean-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crumbly-spanish-bean-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:00:16Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "dried white beans",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Dried White Beans",
+    "descriptor": "Nutty Crumbly",
+    "dishForm": "Crumble"
+  }
+}
