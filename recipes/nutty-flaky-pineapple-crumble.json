@@ -1,0 +1,89 @@
+{
+  "title": "Nutty Flaky Pineapple Crumble",
+  "description": "A lazy-sunday Australian dish featuring marjoram, tandoor and whole30-friendly ingredients that combines nuttiness with a flaky crust over juicy pineapple.",
+  "cuisine": "Australian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pitted fresh pears",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pinch of salt",
+      "notes": "for tandoor flavor"
+    },
+    {
+      "name": "pitted fresh dates",
+      "amount": "1 cup (softened)"
+    },
+    {
+      "name": "unsweetened coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh marjoram leaves",
+      "amount": "2 tablespoons (chopped)"
+    },
+    {
+      "name": "fresh pineapple chunks",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine butter and flaxseed. Add in the salt and mix well.",
+    "Fold in dates until fully incorporated.",
+    "Stir in coconut flakes and marjoram leaves.",
+    "Evenly distribute mixture on a baking sheet lined with parchment paper.",
+    "Arrange pineapple chunks over the top of the crumble mixture, ensuring they are not touching each other or the sides of the dish.",
+    "Bake for about 30-35 minutes, or until the edges turn golden brown and the filling is set. Remove from oven and let it cool slightly before serving.",
+    "Serve warm with a dollop of whipped cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "flaky",
+    "lazy-sunday",
+    "australian",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 425,
+    "protein": 17,
+    "carbs": 69,
+    "fat": 18
+  },
+  "slug": "nutty-flaky-pineapple-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-flaky-pineapple-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:54:08Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "tandoor",
+    "primaryIngredient": "marjoram",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Nutty Flaky Lazy-Sunday Whole30-Friendly",
+    "dishForm": "Crumble"
+  }
+}
