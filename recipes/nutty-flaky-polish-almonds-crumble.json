@@ -1,0 +1,97 @@
+{
+  "title": "Nutty Flaky Polish Almonds Crumble",
+  "description": "A savory and nutty dish perfect for a solo dinner featuring flavors of cooking wine and alderwood smoke, served as a side or light meal.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Pork Loin",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Wine (Cooking)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Almond Meal",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Nutmeg, ground (optional)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Mix almonds with almond meal and a dash of salt. Set aside.",
+    "Dice onion and mince garlic, then sauté in butter until translucent.",
+    "Add pork loin to the pan along with cooking wine, cover, and bake for about 25 minutes or until internal temperature reaches 145°F (medium-rare).",
+    "Remove from heat and let cool slightly. Season with salt and pepper.",
+    "Crush cooled almond mixture in a blender or food processor until it forms small crumb-like pieces.",
+    "Spread the crushed almond mixture evenly on top of cooled meat, then bake uncovered for about 10 minutes or until golden brown and crunchy.",
+    "Serve warm as a side dish with a side of steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "flaky",
+    "solo-dinner",
+    "polish",
+    "cooking-wine",
+    "steam",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 28,
+    "carbs": 9,
+    "fat": 16
+  },
+  "slug": "nutty-flaky-polish-almonds-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-flaky-polish-almonds-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:19:02Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "steam",
+    "primaryIngredient": "cooking wine",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Almonds",
+    "descriptor": "Nutty Flaky",
+    "dishForm": "Crumble"
+  }
+}
