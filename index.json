@@ -233,5 +233,18 @@
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-silky-showoff-british-walnut-salad",
+    "title": "Nutty Silky Showoff British Walnut Salad",
+    "tags": [
+      "nutty",
+      "silky",
+      "british",
+      "keto-friendly"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 20,
+    "shard": "n"
   }
 ]

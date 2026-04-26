@@ -1,0 +1,79 @@
+{
+  "title": "Nutty Silky Showoff British Walnut Salad",
+  "description": "A delicious and visually appealing salad featuring dried cherries, toasted walnuts, and a touch of sweetness that is both nutty and silky. Perfect for showing off in any meal.",
+  "cuisine": "British",
+  "diet": [
+    "keto"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Dried cherries",
+      "amount": "1/2 cup",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Toasted walnuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped into small pieces"
+    },
+    {
+      "name": "Keto-friendly dressing (optional)",
+      "amount": "2 tablespoons",
+      "notes": "Blend with a fork to achieve a silky texture"
+    },
+    {
+      "name": "Celtuce lettuce leaves",
+      "amount": "4-6",
+      "notes": "For serving"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "",
+      "notes": "Optional for finishing taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Place the walnuts on a baking sheet and toast them in the oven until they are golden brown, about 10-12 minutes.",
+    "Chop the toasted walnuts into small pieces.",
+    "In a mixing bowl, combine the dried cherries and chopped walnuts. If using a dressing, add it now to mix thoroughly with a fork.",
+    "Gently toss the mixture with the chopped lettuces leaves.",
+    "Serve immediately or refrigerate until ready to serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "silky",
+    "british",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 4,
+    "fat": 5
+  },
+  "slug": "nutty-silky-showoff-british-walnut-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-silky-showoff-british-walnut-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:41:48Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "toast",
+    "primaryIngredient": "dried cherries",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Walnut",
+    "descriptor": "Nutty Silky Showoff",
+    "dishForm": "Salad"
+  }
+}
