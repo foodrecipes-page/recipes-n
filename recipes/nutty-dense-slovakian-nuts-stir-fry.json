@@ -1,0 +1,74 @@
+{
+  "title": "Nutty Dense Slovakian Nuts Stir-fry",
+  "description": "A vegetarian-friendly stir-fry dish featuring nutty and dense elements like walnuts and cashews, enhanced with the savory taste of mirin, perfectly suited for a monsoon season.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Walnut Pieces",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cashew Pieces",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil for Air-Frying",
+      "amount": "enough to coat the basket"
+    },
+    {
+      "name": "Seasoning Mix (salt, pepper, and garlic powder)",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 180°C.",
+    "Mix walnut pieces, cashew pieces, mirin, seasoning mix in a bowl. Ensure all ingredients are coated evenly with the liquid mixture.",
+    "Place the seasoned mixture into the air fryer basket and air-fry for about 5-7 minutes or until lightly golden brown and crispy.",
+    "Transfer to a serving plate and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "dense",
+    "slovakian",
+    "mirin",
+    "stir-fry",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 17
+  },
+  "slug": "nutty-dense-slovakian-nuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-slovakian-nuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:16:28Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "air-fry",
+    "primaryIngredient": "mirin",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "nuts",
+    "descriptor": "Nutty Dense",
+    "dishForm": "Stir-fry"
+  }
+}
