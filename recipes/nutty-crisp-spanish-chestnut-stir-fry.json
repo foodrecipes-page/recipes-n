@@ -1,0 +1,77 @@
+{
+  "title": "Nutty, Crisp Spanish Chestnut Stir-fry",
+  "description": "A gluten-free-friendly dish showcasing nutty and crisp textures with a simmered flavor profile featuring Spanish chestnuts.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Spanish Chestnuts",
+      "amount": "200g"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "150g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water chestnuts (optional)",
+      "amount": "50g"
+    },
+    {
+      "name": "Green onions, thinly sliced (optional)",
+      "amount": "1 stalk"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok over medium-high heat.",
+    "Add garlic cloves and stir-fry until fragrant.",
+    "Add Spanish chestnuts along with water chestnuts if using.",
+    "Stir in broccoli florets, cooking for about 5 minutes.",
+    "Season with salt to taste.",
+    "Serve hot as an appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crisp",
+    "spanish",
+    "stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 10,
+    "carbs": 34,
+    "fat": 9
+  },
+  "slug": "nutty-crisp-spanish-chestnut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crisp-spanish-chestnut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:42:55Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "simmer",
+    "primaryIngredient": "chestnuts",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Chestnut",
+    "descriptor": "Nutty, Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
