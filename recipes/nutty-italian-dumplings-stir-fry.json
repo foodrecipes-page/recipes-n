@@ -1,0 +1,103 @@
+{
+  "title": "Nutty Italian Dumplings Stir-fry",
+  "description": "A hangover-cure Italian (Neapolitan) dish featuring fluffy nutty dumplings with sweetcorn and vegan-friendly elements.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet Corn",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Vegan Sausage Links",
+      "amount": "200g",
+      "notes": "For added protein and flavor, optional"
+    },
+    {
+      "name": "Unsweetened Coco Smoothie Powder (for optional nutty texture)",
+      "amount": "1/4 cup",
+      "notes": "Add a touch of sweetness without dairy"
+    },
+    {
+      "name": "Vegan Minced Meat Substitute",
+      "amount": "200g",
+      "notes": "For filling the dumplings and giving them structure"
+    },
+    {
+      "name": "Vegetable Oil or Vegan Butter",
+      "amount": "1 tablespoon",
+      "notes": "For frying"
+    },
+    {
+      "name": "Pasta Dums (homemade or store-bought)",
+      "amount": "200g",
+      "notes": "Ensure they are gluten-free if necessary"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "For flavoring the dumplings and stir-fry"
+    },
+    {
+      "name": "Olive Oil or Vegan Olive Oil Substitute",
+      "amount": "2 tablespoons",
+      "notes": "For tossing in the final steps"
+    },
+    {
+      "name": "Chives (for garnish, optional)",
+      "amount": "A few stalks",
+      "notes": "To add a pop of color and flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C.",
+    "Mix the sweet corn with unsweetened Coco Smoothie Powder until evenly coated. Let it sit for about 5 minutes.",
+    "In a pan, heat oil over medium-high heat. Add minced meat substitute and sausage links (if using). Cook until no longer pink inside.",
+    "Add cooked dumplings into the pan, toss gently to combine with the meat mixture. Season with salt as needed.",
+    "Pour the sweet corn-coated mix evenly over the dumplings in the pan and stir thoroughly, ensuring all pieces are coated. Heat through for a minute or two.",
+    "Stir in olive oil until everything is well coated with the sauce. Taste and adjust seasoning if necessary.",
+    "Transfer to serving plates and garnish with chopped chives (if using). Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "fluffy",
+    "hangover-cure",
+    "italian",
+    "neapolitan",
+    "dumplings",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 68,
+    "fat": 15
+  },
+  "slug": "nutty-italian-dumplings-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-italian-dumplings-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:11:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "dum",
+    "primaryIngredient": "sweetcorn",
+    "diet": "vegan",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "dumplings",
+    "descriptor": "Nutty",
+    "dishForm": "Stir-fry"
+  }
+}
