@@ -1,0 +1,94 @@
+{
+  "title": "Nuttty Light Nostalgic Korean Spaghetti Stir-fry",
+  "description": "A light and nostalgic take on a Korean dish featuring spaghetti, toast, and pescatarian-friendly ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup spaghetti",
+      "amount": "cup",
+      "notes": "Al dente"
+    },
+    {
+      "name": "2 tablespoons toasted sesame seeds",
+      "amount": "tbsp"
+    },
+    {
+      "name": "4 oz smoked salmon, flaked",
+      "amount": "oz"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "slice"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 cup mixed vegetables (e.g., bell peppers, carrots), sliced",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp soy sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice of 1 lime"
+    },
+    {
+      "name": "1 tbsp honey",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of salt and pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook spaghetti according to package instructions until al dente. Drain and set aside.",
+    "Toast sesame seeds in a dry pan over medium heat for about 1 minute or until golden brown, shaking occasionally.",
+    "In a large skillet, sauté onion and garlic until translucent.",
+    "Add mixed vegetables and flaked smoked salmon; stir-fry for another 2 minutes.",
+    "Stir in cooked spaghetti, toasted sesame seeds, soy sauce, lime juice, honey, salt, and pepper. Mix well to combine.",
+    "Cook for an additional minute or two until everything is heated through and flavors are evenly distributed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-spaghetti-stir-fry",
+    "nostalgic-light-dish",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 14.6,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "nuttty-light-nostalgic-korean-spaghetti-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nuttty-light-nostalgic-korean-spaghetti-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:15:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "spaghetti",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Spaghetti",
+    "descriptor": "Nuttty Light Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
