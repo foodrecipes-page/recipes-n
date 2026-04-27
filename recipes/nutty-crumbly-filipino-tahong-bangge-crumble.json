@@ -1,0 +1,76 @@
+{
+  "title": "Nutty Crumbly Filipino Tahong Bangge Crumble",
+  "description": "This egg-free-friendly dessert features toasted egg roll wrappers, a creamy tahong (tapioca) base, and top with crushed nuts for an indulgent, romantic touch.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tahong (Pandan-flavored tapioca pearls",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "For topping"
+    },
+    {
+      "name": "Pecans or other preferred nuts",
+      "amount": "2 tablespoons",
+      "notes": "For toppling"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Toast the tahong pearls until lightly golden, about 5 minutes.",
+    "In a small saucepan, combine tahong pearls with coconut milk. Heat over medium heat and stir until warm but not boiling.",
+    "Add vanilla extract to taste and mix well.",
+    "Gently fold in sesame seeds and pecans or other nuts using tongs or a spoon carefully so as not to break the pearls.",
+    "Serve immediately for best texture and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crumbly",
+    "egg-free-friendly",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "nutty-crumbly-filipino-tahong-bangge-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crumbly-filipino-tahong-bangge-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:43:01Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "sous-vide",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "tahong bangge",
+    "descriptor": "Nutty Crumbly",
+    "dishForm": "Crumble"
+  }
+}
