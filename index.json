@@ -603,6 +603,18 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-fluffy-jamaican-cocoa-stir-fry",
+    "title": "Nutty Fluffy Jamaican Cocoa Stir-fry",
+    "tags": [
+      "nut-free",
+      "comfort-food",
+      "snack"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-fluffy-kenyana-banane-pate",
     "title": "Nutty Fluffy Kenyana Banane Pâté",
     "tags": [

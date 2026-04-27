@@ -1,0 +1,79 @@
+{
+  "title": "Nutty Fluffy Jamaican Cocoa Stir-fry",
+  "description": "A comforting jamaican dish featuring cocoa and a nut-free-friendly twist with crunchy almond pieces.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cocoa Powder",
+      "amount": "1 cup",
+      "notes": "Dark chocolate alternative"
+    },
+    {
+      "name": "Almonds",
+      "amount": "2 cups",
+      "notes": "Soaked for easier blending"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can (14 oz)",
+      "notes": "Low fat, unsweetened"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For blending"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tbsp",
+      "notes": "To enhance the flavor"
+    }
+  ],
+  "instructions": [
+    "Blend soaked almonds, cocoa powder, coconut milk, and water until smooth.",
+    "Add vanilla extract and mix well to combine all ingredients.",
+    "Heat a non-stick pan over medium heat. Pour in the blended mixture.",
+    "Stir continuously to prevent sticking and ensure an even cooking of the ingredients.",
+    "Cook for about 5 minutes or until the sauce thickens slightly, stirring frequently.",
+    "Serve hot as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "nut-free",
+    "comfort-food",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 38,
+    "fat": 15
+  },
+  "slug": "nutty-fluffy-jamaican-cocoa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-fluffy-jamaican-cocoa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:45:58Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "tadka",
+    "primaryIngredient": "cocoa",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cocoa",
+    "descriptor": "Nutty Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
