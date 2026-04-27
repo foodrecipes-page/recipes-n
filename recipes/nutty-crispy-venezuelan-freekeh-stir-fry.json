@@ -1,0 +1,71 @@
+{
+  "title": "Nutty Crispy Venezuelan Freekeh Stir-fry",
+  "description": "A nut-free-friendly solo-dinner dish featuring crispy freekeh with a touch of ferment for added depth and texture.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups cooked freekeh",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup chopped almonds",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tbsp nutritional yeast",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice from 1 lime"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Mix freekeh, almonds, nutritional yeast, lime juice, and a pinch of salt in a large bowl.",
+    "Transfer mixture onto a baking sheet lined with parchment paper.",
+    "Bake for about 15 minutes or until golden brown and crispy on top.",
+    "Serve hot as a side dish or over cooked grains like quinoa or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crispy",
+    "vegan",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "nutty-crispy-venezuelan-freekeh-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-venezuelan-freekeh-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:34:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "freekeh",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Freekeh",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
