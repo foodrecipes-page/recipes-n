@@ -1,0 +1,87 @@
+{
+  "title": "Nutty Velvety Dutch Penne Rigate Stir-fry",
+  "description": "A Mediterranean-friendly breakfast dish featuring Nutty Velvety Penne Rigate, a blend of creamy and nutty flavors that can help cure hangovers.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Penne Rigate pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butternut squash puree",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "a few leaves, chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 medium, minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add walnuts and garlic to the pan. Toast for about 2 minutes or until fragrant.",
+    "Stir in butternut squash puree, almond butter, and red pepper flakes. Cook for an additional 3-4 minutes, stirring frequently to prevent sticking.",
+    "Toss cooked penne rigate into the skillet with the nutty mix-ins. Cook for about 2 minutes or until pasta is heated through.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "velvety",
+    "hangover-cure",
+    "dutch",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 14
+  },
+  "slug": "nutty-velvety-dutch-penne-rigate-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-velvety-dutch-penne-rigate-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:00:01Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "penne rigate",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Penne Rigate",
+    "descriptor": "Nutty Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
