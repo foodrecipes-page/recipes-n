@@ -1,0 +1,94 @@
+{
+  "title": "Nutty Velvety Cashew Stir-fry",
+  "description": "A decadent Filipino-inspired dish featuring cashews and dumplings in a creamy sauce that's both indulgent and low-fat-friendly.",
+  "cuisine": "Philippine",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 cup",
+      "notes": "Soaked for at least 4 hours"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "6-8 pieces",
+      "notes": "Frozen, defrost and reheat"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/2 cup",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red bell pepper slices",
+      "amount": "1 medium",
+      "notes": "Optional for color and crunch"
+    },
+    {
+      "name": "Wheat-free cornstarch",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp",
+      "notes": "For thickening sauce"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine cashews, dumplings, minced garlic, soy sauce, and water. Blend until smooth.",
+    "Heat oil in a wok or large frying pan over medium-high heat. Add red bell pepper if using, then broccoli florets and stir-fry for about 5 minutes.",
+    "Add blended mixture to the pan and cook, stirring frequently until cashew velvety consistency is achieved and sauce thickens slightly.",
+    "Season with salt and pepper according to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cashews",
+    "stir-fry",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 9,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "nutty-velvety-cashew-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-velvety-cashew-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:23:13Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "cashews",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "cashews",
+    "descriptor": "nutty velvety indulgent",
+    "dishForm": "Stir-fry"
+  }
+}

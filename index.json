@@ -716,6 +716,18 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-velvety-cashew-stir-fry",
+    "title": "Nutty Velvety Cashew Stir-fry",
+    "tags": [
+      "cashews",
+      "stir-fry",
+      "indulgent"
+    ],
+    "cuisine": "Philippine",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-velvety-irish-olive-stir-fry",
     "title": "Nutty Velvety Irish Olive Stir-fry",
     "tags": [
