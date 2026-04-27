@@ -1,0 +1,81 @@
+{
+  "title": "Nostalgic Fermented Lard Stir-fry",
+  "description": "A light and nostalgic Jamaican dish featuring fermented lard in a stir-fry that is egg-free-friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fermented lard",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp, minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat.",
+    "Add fermented lard to the skillet and cook until it turns golden brown, about 5 minutes.",
+    "Stir in green onions, ginger, red bell pepper, and zucchini. Cook for an additional 3-4 minutes or until vegetables are slightly softened.",
+    "Drizzle with lime juice and add salt to taste. Stir gently to combine all ingredients.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "snack",
+    "fermented-lard",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 87,
+    "protein": 1,
+    "carbs": 9,
+    "fat": 5
+  },
+  "slug": "nostalgic-fermented-lard-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-fermented-lard-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:07:48Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "simmer",
+    "primaryIngredient": "lard",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Lard",
+    "descriptor": "Fermented Light Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
