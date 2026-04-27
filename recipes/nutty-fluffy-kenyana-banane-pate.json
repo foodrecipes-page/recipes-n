@@ -1,0 +1,84 @@
+{
+  "title": "Nutty Fluffy Kenyana Banane Pâté",
+  "description": "A fusion of Kenyan flavors featuring fried ripe bananas seasoned with aromatic nuts and spices for a delightful snack or appetizer.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "nutritious",
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "2"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "almond pieces",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chocolate shavings",
+      "amount": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium heat.",
+    "Slice the bananas into thin rounds and fry them until golden brown on both sides. Remove from pan and set aside.",
+    "In the same pan, toast almond pieces and sesame seeds until they are fragrant and lightly crispy. Add cinnamon powder and cocoa powder to the pan and mix well with toasted nuts and seeds. Cook for a minute or two to let flavors meld together.",
+    "Combine fried bananas with the nut mixture in a bowl. Serve warm as an appetizer with chocolate shavings if desired.",
+    "Enjoy this dish knowing it's not only delicious but also healthy thanks to its minimalistic ingredients."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "nutty",
+    "fluffy",
+    "bananapate",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "nutty-fluffy-kenyana-banane-pate",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-fluffy-kenyana-banane-pate",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:13:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "fry",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Kenyana",
+    "mainIngredient": "Banane",
+    "descriptor": "Nutty Fluffy",
+    "dishForm": "Pâté"
+  }
+}
