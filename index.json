@@ -285,6 +285,19 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-canadian-nuts-pate",
+    "title": "Nutty Canadian Nuts Pate",
+    "tags": [
+      "nutty",
+      "fluffy",
+      "canadian",
+      "hangover_cure"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-creamy-show-off-slovakian-stir-fry",
     "title": "Nutty Creamy Show-off Slovakian Stir-fry",
     "tags": [

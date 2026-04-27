@@ -1,0 +1,95 @@
+{
+  "title": "Nutty Canadian Nuts Pate",
+  "description": "A fluffy vegan-friendly hangover-cure dish featuring nuttiness and a touch of yellow food coloring to enhance the flavor and appearance.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup",
+      "notes": "Soaked in water for at least 2 hours"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "3/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Cashews",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Sunflower seeds",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch",
+      "notes": null
+    },
+    {
+      "name": "Flaxseeds",
+      "amount": "3 tablespoons",
+      "notes": "Soaked in water for at least 2 hours"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil Spray",
+      "amount": "1 spray",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Soak almonds, walnuts, and cashews in water for at least 2 hours.",
+    "Add soaked nuts, sunflower seeds, salt, flaxseeds, and water to a food processor bowl.",
+    "Blend all ingredients until the mixture is smooth and creamy. You can add a pinch of yellow food coloring if desired for extra visual appeal.",
+    "Transfer the pate into a serving dish.",
+    "Spray the top with vegetable oil spray to prevent sticking. Bake in preheated oven for 15 minutes or until lightly golden brown.",
+    "Serve warm as a snack or accompaniment to meals."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "fluffy",
+    "canadian",
+    "hangover_cure"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 17,
+    "fat": 9
+  },
+  "slug": "nutty-canadian-nuts-pate",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-canadian-nuts-pate",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:28:06Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "cure",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "nuts",
+    "descriptor": "Nutty",
+    "dishForm": "Pate"
+  }
+}
