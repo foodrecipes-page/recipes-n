@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Fluffy Almond Middle Eastern Stir-fry",
+  "description": "A post-workout dish featuring almond flour and a touch of grand marnier for a creamy texture, perfect for those low-fat-friendly meals.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-fat",
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground almond",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 eggs"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "grand marnier liqueur",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (400°F).",
+    "Mix almond flour, ground almonds, eggs, soy sauce, vinegar, sesame oil, chili flakes, ginger paste, water, and salt in a bowl until combined.",
+    "Transfer the mixture into a greased dish and bake for about 15-20 minutes or until golden brown.",
+    "While baking, heat a pan with sesame oil over medium-high heat. Once hot, add the batter from the oven to the pan and stir-fry for an additional 3-4 minutes.",
+    "Drizzle grand marnier on top before serving as a post-workout snack.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "fluffy",
+    "almond",
+    "middle-eastern",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 16,
+    "carbs": 38,
+    "fat": 7
+  },
+  "slug": "nutty-fluffy-almond-middle-eastern-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-fluffy-almond-middle-eastern-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:33:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "poach",
+    "primaryIngredient": "grand marnier",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "almonds",
+    "descriptor": "nutty fluffy",
+    "dishForm": "Stir-fry"
+  }
+}

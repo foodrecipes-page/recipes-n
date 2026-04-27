@@ -537,6 +537,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-fluffy-almond-middle-eastern-stir-fry",
+    "title": "Nutty Fluffy Almond Middle Eastern Stir-fry",
+    "tags": [
+      "nutty",
+      "fluffy",
+      "almond",
+      "middle-eastern",
+      "stir-fry"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-fluffy-apricot-stir-fry",
     "title": "Nutty Fluffy Apricot Stir-fry",
     "tags": [
