@@ -653,6 +653,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-light-tunisian-pine-nut-stir-fry",
+    "title": "Nutty Light Tunisian Pine Nut Stir-fry",
+    "tags": [
+      "nutty",
+      "light",
+      "tunisian",
+      "pine-nuts",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-peruvian-peanut-crumble",
     "title": "Nutty Peruvian Peanut Crumble",
     "tags": [

@@ -1,0 +1,98 @@
+{
+  "title": "Nutty Light Tunisian Pine Nut Stir-fry",
+  "description": "A light and nutty solo-dinner dish featuring tender vegetables cooked with a blend of olive oil and pine nuts to create a vibrant and flavorful dish.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pine nuts",
+      "amount": "2 tablespoons",
+      "notes": "coarsely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "a pinch",
+      "notes": "for heat, optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black olives",
+      "amount": "10-15",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add chopped pine nuts and minced garlic to the pan, stir-fry for about 2 minutes until fragrant.",
+    "Add diced onions and bell peppers to the pan; stir-fry for another 5-7 minutes until vegetables start to soften.",
+    "Add zucchini slices and continue cooking for an additional 3-4 minutes.",
+    "Toss in halved black olives, sprinkle with red pepper flakes if using, then season with salt to taste.",
+    "Remove from heat once all the vegetables are tender and evenly coated with pine nuts.",
+    "Serve hot as a light dinner or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "light",
+    "tunisian",
+    "pine-nuts",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 9
+  },
+  "slug": "nutty-light-tunisian-pine-nut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-light-tunisian-pine-nut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:20:27Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "pine nuts",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "pine nuts",
+    "descriptor": "nutty light",
+    "dishForm": "Stir-fry"
+  }
+}
