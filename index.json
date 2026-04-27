@@ -552,6 +552,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-fluffy-squash-stir-fry",
+    "title": "Nutty Fluffy Squash Stir-fry",
+    "tags": [
+      "nutty",
+      "fluffy",
+      "squash",
+      "moroccan",
+      "date-night",
+      "ferment"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-gooey-moroccan-chicken-stir-fry",
     "title": "Nutty Gooey Moroccan Chicken Stir-fry",
     "tags": [

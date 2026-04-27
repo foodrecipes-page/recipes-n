@@ -1,0 +1,91 @@
+{
+  "title": "Nutty Fluffy Squash Stir-fry",
+  "description": "A delightful date-night Moroccan-inspired dish featuring squash, fermented foods, and a hint of nuttiness for a paleo-friendly meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butternut Squash",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fermented Foods (e.g., Kimchi, Sauerkraut)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "handful"
+    },
+    {
+      "name": "Nutritional Yeast (optional)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Chop butternut squash into bite-sized pieces and set aside.",
+    "Dice onion and finely chop garlic.",
+    "In a pan, heat coconut oil over medium heat. Add onion and cook until translucent.",
+    "Add garlic, stir for about 1 minute, then add chopped squash. Cook until tender.",
+    "Blend together almond flour with water to form a paste (about 2 tablespoons of water per tablespoon of flour).",
+    "Stir in the blended paste, fermented foods, nutritional yeast (if using), and fresh parsley. Mix well.",
+    "Transfer mixture into an oven-safe dish. Bake for about 15-20 minutes or until golden brown on top.",
+    "Serve hot as a side dish or with paleo-friendly grains like cauliflower rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "fluffy",
+    "squash",
+    "moroccan",
+    "date-night",
+    "ferment"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 9,
+    "carbs": 52,
+    "fat": 18
+  },
+  "slug": "nutty-fluffy-squash-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-fluffy-squash-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:26:06Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "ferment",
+    "primaryIngredient": "squash",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "squash",
+    "descriptor": "nutty fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
