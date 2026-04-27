@@ -353,6 +353,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crumbly-almond-moroccan-crumble",
+    "title": "Nutty Crumbly Almond Moroccan Crumble",
+    "tags": [
+      "nutty",
+      "crumbly",
+      "light",
+      "moroccan",
+      "truffle-oil",
+      "toasted-nuts"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-crumbly-spanish-bean-crumble",
     "title": "Nutty Crumbly Spanish Bean Crumble",
     "tags": [

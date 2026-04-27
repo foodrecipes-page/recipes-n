@@ -1,0 +1,98 @@
+{
+  "title": "Nutty Crumbly Almond Moroccan Crumble",
+  "description": "A light and nutty crumble with a touch of truffle oil, featuring toasted almonds in a low-sodium-friendly dish.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Oatmeal",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Almond Meal (ground almonds)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Milk or Almond Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Truffle Oil (optional)",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toast almonds and walnuts in a skillet until golden brown.",
+    "Mix together ground almonds, oatmeal, toasted nuts, honey, granulated sugar, milk, vanilla extract, and ground cumin. Add salt and optional truffle oil if using.",
+    "Place mixture on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "Reduce heat to 325°F (160°C) and continue baking until the crumble is golden brown and crisp, about 10 more minutes.",
+    "Serve warm as dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crumbly",
+    "light",
+    "moroccan",
+    "truffle-oil",
+    "toasted-nuts"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "nutty-crumbly-almond-moroccan-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crumbly-almond-moroccan-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:24:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "truffle oil",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Almonds",
+    "descriptor": "Nutty Crumbly",
+    "dishForm": "Crumble"
+  }
+}
