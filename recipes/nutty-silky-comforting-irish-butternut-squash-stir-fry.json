@@ -1,0 +1,83 @@
+{
+  "title": "Nutty Silky Comforting Irish Butternut Squash Stir-fry",
+  "description": "This recipe is a nutty and silky comfort dish featuring slow-cooked butternut squash with parsley for a low-fat friendly meal.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butternut Squash",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup fresh, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "To taste",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "A few sprigs (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut butternut squash into bite-sized pieces.",
+    "In a pan, heat olive oil over medium heat. Add butternut squash and sprinkle with salt and black pepper. Stir for about 2 minutes.",
+    "Add thyme if using, then stir in chopped parsley.",
+    "Transfer the contents to an ovenproof dish, cover with foil, and bake for about 30-40 minutes or until tender.",
+    "Serve hot as a side dish or a main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "silky",
+    "comforting",
+    "irish",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "nutty-silky-comforting-irish-butternut-squash-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-silky-comforting-irish-butternut-squash-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:00:35Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "slow-cook",
+    "primaryIngredient": "parsley",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Butternut Squash",
+    "descriptor": "Nutty Silky Comforting",
+    "dishForm": "Stir-fry"
+  }
+}
