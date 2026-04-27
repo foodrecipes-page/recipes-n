@@ -1,0 +1,76 @@
+{
+  "title": "Nutty Dense Egyptian Pear Crumble",
+  "description": "A vegan-friendly brunch dish featuring pears baked with a nutty topping that adds a unique twist to the classic pear crumble.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 small ripe pear",
+      "amount": "per serving"
+    },
+    {
+      "name": "2 tablespoons almond butter",
+      "amount": "or any nut butter of choice"
+    },
+    {
+      "name": "3/4 cup oats",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "Pinch sea salt",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Core the pears and cut into wedges.",
+    "In a small bowl, mix almond butter with oatmeal until well combined. Add cinnamon and salt; mix again to combine.",
+    "Arrange pear slices on a baking sheet lined with parchment paper or cooking spray.",
+    "Spread the crumble mixture evenly over each slice of pear.",
+    "Bake for 20-25 minutes or until golden brown and crisp.",
+    "Serve warm, topped with fresh berries if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "dense",
+    "egyptian",
+    "pear",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 5
+  },
+  "slug": "nutty-dense-egyptian-pear-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-egyptian-pear-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:31:07Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "toast",
+    "primaryIngredient": "pears",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Pears",
+    "descriptor": "Nutty Dense",
+    "dishForm": "Brunch-Mood"
+  }
+}
