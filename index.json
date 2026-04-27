@@ -954,6 +954,17 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-spanish-peanuts-stir-fry",
+    "title": "Nutty Spanish Peanuts Stir-Fry",
+    "tags": [
+      "nutty-spanish-peanuts-stir-fry",
+      "fluffy-slow-cook-raw-friendly-dish"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-thai-gelatine-leaf-stir-fry",
     "title": "Nutty Thai Gelatine Leaf Stir-fry",
     "tags": [

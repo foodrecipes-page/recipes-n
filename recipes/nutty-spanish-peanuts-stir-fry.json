@@ -1,0 +1,78 @@
+{
+  "title": "Nutty Spanish Peanuts Stir-Fry",
+  "description": "This quick-fix dish features fluffy, nutty Spanish peanuts flavored with oregano and other herbs. Perfect for a healthy, raw-friendly snack or side dish.",
+  "cuisine": "Spanish",
+  "diet": [
+    "raw",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spanish peanuts",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 tbsp fresh or 1 tsp dried"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Sunflower seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pinch of salt",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Combine Spanish peanuts, oregano, garlic, sunflower seeds, and chopped parsley in a mixing bowl.",
+    "Season with salt. Mix well until all ingredients are evenly coated.",
+    "Spread the mixture onto a baking sheet lined with parchment paper.",
+    "Bake for about 8-10 minutes or until lightly golden brown and fragrant.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "nutty-spanish-peanuts-stir-fry",
+    "fluffy-slow-cook-raw-friendly-dish"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "nutty-spanish-peanuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-spanish-peanuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:51:21Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "oregano",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Peanuts",
+    "descriptor": "Nutty",
+    "dishForm": "Stir-fry"
+  }
+}
