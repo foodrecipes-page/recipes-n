@@ -1,0 +1,103 @@
+{
+  "title": "Nutty Creamy Romantic Portuguese Beef Stir-fry",
+  "description": "A rich and creamy dish featuring beef in a nutty sauce, perfect for romantic evenings at home.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "200g sirloin steak",
+      "notes": "Cut into thin slices"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large, finely chopped",
+      "notes": null
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "50g",
+      "notes": null
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "150ml",
+      "notes": null
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "2 tbsp grated",
+      "notes": null
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "3 tsp, or to taste",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "White wine",
+      "amount": "50ml",
+      "notes": null
+    },
+    {
+      "name": "Pecorino cheese",
+      "amount": "1 tsp, finely grated (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F). Season beef with salt and pepper.",
+    "Heat butter in a pan over medium heat. Add onions and garlic; cook until softened, about 5 minutes.",
+    "Add beef slices and brown on all sides. Remove from pan.",
+    "In the same pan, melt nutmeg and sauté for another minute.",
+    "Return beef to the pan along with white wine. Bring to a simmer, then reduce heat to low and cook until liquid is mostly absorbed.",
+    "Stir in heavy cream, soy sauce, nutritional yeast, and grated Parmesan cheese; simmer until mixture thickens.",
+    "Top with optional pecorino cheese before serving. Garnish with fresh herbs if desired.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nutty-creamy",
+    "portuguese-beef-stir-fry",
+    "egg-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 481,
+    "protein": 29,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "nutty-creamy-romantic-portuguese-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-creamy-romantic-portuguese-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:44:55Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "tadka",
+    "primaryIngredient": "beef gravy",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Beef",
+    "descriptor": "Nutty Creamy Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
