@@ -1,0 +1,75 @@
+{
+  "title": "Nutty, Light Almond Crumble",
+  "description": "A delightful and nostalgic Argentinian dish featuring almond paste, toast, and a light crumble that's perfect for breakfast or dessert.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond Paste",
+      "amount": "50g",
+      "notes": "Place almond paste at room temperature"
+    },
+    {
+      "name": "Toasted Almonds",
+      "amount": "3 tablespoons",
+      "notes": "Make sure they are toasted and cooled down before use"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tablespoon",
+      "notes": "For sweetness"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "To bind the crumbs together"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Mix almond paste and granulated sugar until it forms a smooth dough.",
+    "Crush toasted almonds into small pieces using a mortar and pestle or food processor.",
+    "Add crushed almonds to the almond paste mixture. Mix until evenly combined, ensuring there are no large lumps of almonds left.",
+    "Transfer the crumb mixture onto a baking sheet lined with parchment paper.",
+    "Bake in preheated oven for 10-12 minutes or until golden brown and crisp.",
+    "Let it cool completely before serving. Enjoy as a dessert or breakfast topping."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond-crumb",
+    "argentinean-dessert",
+    "nutty-dish",
+    "light-crumble"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2.5,
+    "carbs": 9.5,
+    "fat": 4
+  },
+  "slug": "nutty-light-almond-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-light-almond-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:49:44Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "almond paste",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "almonds",
+    "descriptor": "Nutty, Light",
+    "dishForm": "Crumble"
+  }
+}
