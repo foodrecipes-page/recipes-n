@@ -1,0 +1,92 @@
+{
+  "title": "Nutty Fluffy Pistachio Stir-fry",
+  "description": "A quick and tasty weeknight Portuguese dish featuring ground pistachios in a light sauce for a nutritious dinner option.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pistachio Nuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "2 pieces",
+      "notes": "Grilled or baked, skin removed"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1",
+      "notes": "Minced finely"
+    },
+    {
+      "name": "Water Chestnuts",
+      "amount": "4 pieces",
+      "notes": "Halved"
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup",
+      "notes": "Washed and drained"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Milk or Water",
+      "amount": "1/4 cup",
+      "notes": "To thin the sauce if needed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add minced garlic and stir-fry for about 30 seconds.",
+    "Add chicken pieces, water chestnuts, bean sprouts, and pistachio nuts. Stir-fry for another minute.",
+    "Mix soy sauce and low-sodium soy milk or water in a bowl until combined. Pour the mixture over the vegetables, and mix well to coat evenly.",
+    "Cook for an additional 2-3 minutes, or until chicken is fully cooked and vegetables are crisp-tender.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "fluffy",
+    "pistachio",
+    "stir-fry",
+    "weeknight",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "nutty-fluffy-pistachio-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-fluffy-pistachio-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:11:33Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "reduce",
+    "primaryIngredient": "ground pistachios",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pistachios",
+    "descriptor": "nutty fluffy",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -642,6 +642,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-fluffy-pistachio-stir-fry",
+    "title": "Nutty Fluffy Pistachio Stir-fry",
+    "tags": [
+      "nutty",
+      "fluffy",
+      "pistachio",
+      "stir-fry",
+      "weeknight",
+      "low-sodium"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-fluffy-squash-stir-fry",
     "title": "Nutty Fluffy Squash Stir-fry",
     "tags": [
