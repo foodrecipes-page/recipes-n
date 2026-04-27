@@ -450,6 +450,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crumbly-white-chocolate-stir-fry",
+    "title": "Nutty Crumbly White Chocolate Stir-fry",
+    "tags": [
+      "nutty",
+      "crumbly",
+      "brazilian",
+      "white-chocolate",
+      "stir-fry"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 15,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-dense-egyptian-pear-crumble",
     "title": "Nutty Dense Egyptian Pear Crumble",
     "tags": [

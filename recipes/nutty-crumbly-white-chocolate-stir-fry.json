@@ -1,0 +1,80 @@
+{
+  "title": "Nutty Crumbly White Chocolate Stir-fry",
+  "description": "This low-calorie-friendly Nutty Crumbly White Chocolate Stir-fry is a solo-dinner Brazilian dish featuring white chocolate and nuts for a perfect balance of textures and flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white chocolate",
+      "amount": "100g"
+    },
+    {
+      "name": "almonds",
+      "amount": "50g",
+      "notes": "freshly toasted"
+    },
+    {
+      "name": "pecans",
+      "amount": "50g",
+      "notes": "previously toasted and finely chopped"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ginger",
+      "amount": "a small piece, minced"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (180°C). Toast the almonds and pecans in a dry skillet over medium heat for about 2-3 minutes until fragrant. Let them cool completely before chopping finely.",
+    "In a small saucepan, melt the white chocolate using low heat and stirring occasionally until smooth. Remove from heat immediately to avoid burning.",
+    "Heat up some olive oil in a pan on medium-high heat. Add minced ginger and cook for 30 seconds, allowing it to soften slightly but not burn.",
+    "Add the melted white chocolate into the pan with ginger. Stir well and then add the toasted almonds and pecans. Cook for about 1-2 minutes until everything is fully combined and heated through.",
+    "Season with salt and chili flakes to taste. Serve warm as a light meal or dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crumbly",
+    "brazilian",
+    "white-chocolate",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "nutty-crumbly-white-chocolate-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crumbly-white-chocolate-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:45:19Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "white chocolate",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "white chocolate",
+    "descriptor": "nutty crumbly",
+    "dishForm": "Stir-fry"
+  }
+}
