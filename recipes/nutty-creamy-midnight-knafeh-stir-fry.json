@@ -1,0 +1,83 @@
+{
+  "title": "Nutty Creamy Midnight Knafeh Stir-fry",
+  "description": "A delightful Peruvian midnight craving dish featuring dairy-free knafeh, nuts, and creamy elements, perfect for a quick snack or dessert.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Knafeh",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "2 tablespoons, chopped finely"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "2 tablespoons, lightly crushed"
+    },
+    {
+      "name": "Almond Meal",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Nutella",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy Milk or Almond Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Flaxseed Gel",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to broil.",
+    "Melt Nutella and mix in soy milk until creamy. Stir in flaxseed gel, almond meal, and finely chopped walnuts and pistachios.",
+    "Spread the mixture evenly on the knafeh and place it under the preheated broiler. Keep an eye on it to avoid burning. Cook for about 3-5 minutes or until golden brown.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "creamy",
+    "midnight-craving",
+    "peruvian",
+    "knafeh",
+    "broil",
+    "dairy-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "nutty-creamy-midnight-knafeh-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-creamy-midnight-knafeh-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:40:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "knafeh",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Knafeh",
+    "descriptor": "Nutty Creamy Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
