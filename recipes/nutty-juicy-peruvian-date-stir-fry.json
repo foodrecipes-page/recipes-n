@@ -1,0 +1,98 @@
+{
+  "title": "Nutty Juicy Peruvian Date Stir-fry",
+  "description": "This dish features lean minced beef in a nutty and juicy sauce made from dates, creating a perfect date-night meal.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lean ground beef",
+      "amount": "150g"
+    },
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "Almonds",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Capers",
+      "amount": "4 teaspoons (in water for 2 minutes)"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Peruvian chili peppers",
+      "amount": "2-4, finely chopped (adjust for heat preference)"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Date syrup or honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok over medium-high heat.",
+    "Add sun-dried tomatoes, almonds, and capers. Stir-fry for about 3 minutes until the almonds are golden brown.",
+    "Add minced garlic and peruvian chili peppers to the pan, stir-frying for another minute.",
+    "Add ground beef and salt/pepper, stirring until no longer pink.",
+    "Pour in date syrup or honey, reduce heat to medium and simmer for about 3 minutes or until thickened slightly.",
+    "Stir in lime juice and serve hot with fresh cilantro leaves on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nutty",
+    "juicy",
+    "peruvian-date-stir-fry",
+    "date-night",
+    "lean-minced-beef",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 25,
+    "carbs": 28,
+    "fat": 16
+  },
+  "slug": "nutty-juicy-peruvian-date-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-juicy-peruvian-date-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:09:21Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "rest",
+    "primaryIngredient": "lean minced beef",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Date",
+    "descriptor": "Nutty Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
