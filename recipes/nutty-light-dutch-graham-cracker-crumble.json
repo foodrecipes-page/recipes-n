@@ -1,0 +1,79 @@
+{
+  "title": "Nutty Light Dutch Graham Cracker Crumble",
+  "description": "This adventurous Dutch dish features a light and crunchy graham cracker base infused with the warmth of bhuna masala spices for an unusual yet delightful flavor profile, perfect for a savory or sweet snack.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup graham crackers",
+      "amount": "",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "2 tablespoons bhuna masala spice mix",
+      "amount": "",
+      "notes": "ensure it is low-sodium"
+    },
+    {
+      "name": "1/4 cup nutritional yeast flakes",
+      "amount": "",
+      "notes": "for a cheesy texture and flavor"
+    },
+    {
+      "name": "3/4 cup unsalted cashews, soaked overnight and drained",
+      "amount": "",
+      "notes": "to soften them"
+    },
+    {
+      "name": "1 tablespoon lemon juice",
+      "amount": "",
+      "notes": "freshly squeezed for brightness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Combine graham crackers, bhuna masala spice mix, nutritional yeast, and soaked cashews in a mixing bowl.",
+    "Mix until all ingredients are evenly distributed and the mixture is cohesive.",
+    "Transfer the mixture into an ungreased baking dish or molds of your choice. Press it down firmly to form uniform layers.",
+    "Bake for 15-20 minutes or until lightly golden and crisp on top.",
+    "Allow to cool slightly before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "light",
+    "dutch",
+    "greek",
+    "adventurous",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "nutty-light-dutch-graham-cracker-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-light-dutch-graham-cracker-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:23:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "bhuna",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Graham Cracker",
+    "descriptor": "Nutty Light",
+    "dishForm": "Crumble"
+  }
+}
