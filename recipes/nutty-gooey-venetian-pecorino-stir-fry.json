@@ -1,0 +1,82 @@
+{
+  "title": "Nutty Gooey Venetian Pecorino Stir-fry",
+  "description": "A crowd-pleasing Venezuelan dish that combines air-fried pecorino with a nuttiness and gooey texture for a low-fat-friendly meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pecorino cheese",
+      "amount": "1/4 cup, grated"
+    },
+    {
+      "name": "air fryer basket or sheet pan with parchment paper",
+      "amount": "",
+      "notes": "For air frying, preheat your air fryer to 350°F (175°C)"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red bell pepper slices",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "onion, thinly sliced",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C).",
+    "Place grated pecorino cheese in a shallow dish.",
+    "Add minced garlic and chopped walnuts into the cheese mixture.",
+    "Toss well until evenly coated with the cheese mixture.",
+    "Spoon some of the cheese mixture onto the air fryer basket or sheet pan lined with parchment paper, making sure to spread it thinly for even cooking.",
+    "Air fry for 10 minutes at 350°F (175°C).",
+    "Meanwhile, slice your red bell pepper and onion thinly, then sauté in a pan with a bit of olive oil until slightly softened.",
+    "Gently fold the sautéed vegetables into the cheese mixture before serving.",
+    "Serve hot as a side dish or as part of a main meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "gooey",
+    "venezuelan",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "nutty-gooey-venetian-pecorino-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-gooey-venetian-pecorino-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:18:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "pecorino",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venetian",
+    "mainIngredient": "pecorino",
+    "descriptor": "nutty gooey",
+    "dishForm": "Stir-fry"
+  }
+}
