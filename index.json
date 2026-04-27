@@ -609,6 +609,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-juicy-slovenian-pecan-stir-fry",
+    "title": "Nutty Juicy Slovenian Pecan Stir-fry",
+    "tags": [
+      "slovenian",
+      "stir-fry",
+      "nutty",
+      "juicy",
+      "rice_noodles",
+      "vermicelli"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-light-almond-crumble",
     "title": "Nutty, Light Almond Crumble",
     "tags": [
