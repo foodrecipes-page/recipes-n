@@ -1,0 +1,84 @@
+{
+  "title": "Nutty Silky Algerian Lasagne",
+  "description": "This brunch-friendly dish combines almond and hazelnut flours with a creamy sauce for a silky texture. Perfect as an egg-free-friendly option.",
+  "cuisine": "Algerian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "2 cups ground almonds",
+      "amount": "",
+      "notes": "Coarse grind"
+    },
+    {
+      "name": "1 cup ground hazelnuts",
+      "amount": "",
+      "notes": "Coarse grind"
+    },
+    {
+      "name": "3 tablespoons butter",
+      "amount": ""
+    },
+    {
+      "name": "2 cups water",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "2 cups grated Parmesan cheese",
+      "amount": ""
+    },
+    {
+      "name": "2 cups vegetable broth",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a pot, combine ground almonds and hazelnuts with water. Bring to a boil over medium heat, stirring occasionally.",
+    "Reduce heat to low and let simmer for about 15 minutes until thickened. Remove from heat and cool slightly.",
+    "Stir in butter and salt. Mix well. Add Parmesan cheese and stir until the mixture is smooth and creamy. Set aside.",
+    "Preheat oven to 375°F (190°C). Lay out lasagne sheets on a baking sheet lined with parchment paper.",
+    "Spread half of the creamy almond-hazelnut sauce evenly over each lasagne sheet. Place another layer of lasagne on top, spreading more sauce over the second layer.",
+    "Bake for 25 minutes until golden brown and bubbly. Let cool slightly before serving.",
+    "Serve hot with a side of fruit salad or as a starter to your brunch menu."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-lasagne",
+    "nutty-silky",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 18,
+    "carbs": 46,
+    "fat": 20
+  },
+  "slug": "nutty-silky-algerian-lasagne",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-silky-algerian-lasagne",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:25:37Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "tandoor",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Lasagne sheets",
+    "descriptor": "Nutty Silky",
+    "dishForm": "Lasagne"
+  }
+}
