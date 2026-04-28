@@ -542,6 +542,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crispy-beef-stir-fry",
+    "title": "Nutty Crispy Beef Stir-fry",
+    "tags": [
+      "nutty",
+      "crispy",
+      "light",
+      "beef",
+      "stir-fry",
+      "vegan"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 42,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-crispy-croatian-sea-bass-stir-fry",
     "title": "Nutty Crispy Croatian Sea Bass Stir-fry",
     "tags": [

@@ -1,0 +1,90 @@
+{
+  "title": "Nutty Crispy Beef Stir-fry",
+  "description": "A light American dish featuring ground beef, vegan-friendly and nutty flavors with a crispy texture.",
+  "cuisine": "American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "150g"
+    },
+    {
+      "name": "Vegan butter or oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onions, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3-4"
+    },
+    {
+      "name": "Jasmine rice, crushed",
+      "amount": "20g (for garnish)"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "45ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Heat vegan butter or oil in a large skillet over medium-high heat.",
+    "Add onions and garlic, sauté until translucent, about 2 minutes.",
+    "Add ground beef, breaking it up with a wooden spoon. Cook until no longer pink, stirring occasionally for 6-7 minutes.",
+    "Deglaze the pan with water, scraping the bottom to loosen any browned bits. Simmer for 1 minute to create a flavorful sauce.",
+    "Stir in nutritional yeast and sesame seeds. Season with salt and pepper to taste.",
+    "Transfer mixture to an oven-safe dish and bake for 20 minutes or until golden crispy on top.",
+    "Serve hot over crushed jasmine rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 27,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crispy",
+    "light",
+    "beef",
+    "stir-fry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 369,
+    "protein": 20,
+    "carbs": 14,
+    "fat": 8
+  },
+  "slug": "nutty-crispy-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:29:10Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "deglaze",
+    "primaryIngredient": "ground beef",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Beef",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
