@@ -1,0 +1,97 @@
+{
+  "title": "Nutty Light Cozy Korean Salmon Stir-fry",
+  "description": "A Mediterranean-friendly nutty and light dish featuring smoked salmon in a cozy Korean flavor profile.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "150g",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": " minced"
+    },
+    {
+      "name": "Scallions (green onions)",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "50g",
+      "notes": "toasted and chopped"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "100g",
+      "notes": "halved"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Korean seasoning mix (optional)",
+      "amount": "",
+      "notes": "For extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C. Arrange salmon fillets on a baking tray, season with salt and pepper.",
+    "To make the sauce: In a small bowl, mix together garlic, olive oil, soy sauce, red pepper flakes, and Korean seasoning (if using).",
+    "Bake the salmon for about 12-15 minutes or until it's cooked through. Let it rest for 5 minutes before slicing.",
+    "Meanwhile, in a wok or large skillet, heat olive oil over medium-high heat. Add scallions and peanuts; stir-fry for 30 seconds.",
+    "Add cherry tomatoes and remaining sauce to the skillet. Stir everything together until just heated through, about 1-2 minutes.",
+    "Serve hot with garnished sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "light",
+    "cozy",
+    "korean",
+    "salmon",
+    "stir-fry",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "nutty-light-cozy-korean-salmon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-light-cozy-korean-salmon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:55:01Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "smoked salmon",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "smoked salmon",
+    "descriptor": "nutty light cozy",
+    "dishForm": "Stir-fry"
+  }
+}
