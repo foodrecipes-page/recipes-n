@@ -1,0 +1,92 @@
+{
+  "title": "Nutty Crunchy Light Japanese Sesame Seeds Stir-fry",
+  "description": "A light and crispy dish featuring white sauerkraut, poached in a savory sauce with nutty and crunchy sesame seeds for a vegan-friendly meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup",
+      "notes": "White Sesame Seeds"
+    },
+    {
+      "name": "White Sauerkraut",
+      "amount": "1 cup",
+      "notes": "Diced finely"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Light soy sauce or tamari for a vegan alternative"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "White Pepper",
+      "amount": "Pinch",
+      "notes": "Freshly ground if available"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For poaching sauerkraut"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a non-stick pan over medium heat.",
+    "Add garlic and white pepper, stir for about 30 seconds until fragrant.",
+    "Stir in sesame seeds and cook for an additional minute, stirring occasionally to prevent burning.",
+    "Pour in sauerkraut and soy sauce. Stir well to combine all ingredients.",
+    "Gradually add water, stirring continuously to prevent sticking. Bring to a boil.",
+    "Reduce heat to low, cover the pan with a lid and let simmer for about 10 minutes or until most of the liquid is absorbed and sauerkraut is tender but still holds its shape.",
+    "Turn off heat, remove from the pan and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crunchy",
+    "light",
+    "japanese",
+    "sesame-seeds",
+    "stir-fry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "nutty-crunchy-light-japanese-sesame-seeds-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crunchy-light-japanese-sesame-seeds-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:43:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Sesame Seeds",
+    "descriptor": "Nutty Crunchy Light",
+    "dishForm": "Stir-fry"
+  }
+}
