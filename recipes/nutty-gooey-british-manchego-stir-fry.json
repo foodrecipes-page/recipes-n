@@ -1,0 +1,77 @@
+{
+  "title": "Nutty Gooey British Manchego Stir-Fry",
+  "description": "A decadent and comforting one-pot dish that is perfect for a cozy night in. This Manchego-based meal is slow-cooked to perfection, resulting in a creamy and indulgent texture.",
+  "cuisine": "British",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tablespoons coconut oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup finely chopped shallots or onions",
+      "amount": "cup"
+    },
+    {
+      "name": "8 oz (about 200g) British Manchego cheese, crumbled",
+      "amount": "oz"
+    },
+    {
+      "name": "1 can (8 ounces) crushed tomatoes",
+      "amount": "can"
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley or dill",
+      "amount": "cup"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat. Add shallots/onions and sauté until softened, about 5 minutes.",
+    "Add crushed tomatoes and Manchego cheese; stir well to combine. Cook for an additional 10-15 minutes or until the mixture has thickened slightly and is well combined.",
+    "Stir in chopped parsley/dill and season with salt and pepper to taste.",
+    "Serve warm as a side dish or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "gooey",
+    "british",
+    "manchego",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 687,
+    "protein": 21,
+    "carbs": 54,
+    "fat": 36
+  },
+  "slug": "nutty-gooey-british-manchego-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-gooey-british-manchego-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:15:07Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "slow-cook",
+    "primaryIngredient": "manchego",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Manchego Cheese",
+    "descriptor": "Nutty Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
