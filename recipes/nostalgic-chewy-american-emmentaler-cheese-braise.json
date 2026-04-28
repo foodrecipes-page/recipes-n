@@ -1,0 +1,88 @@
+{
+  "title": "Nostalgic Chewy American Emmentaler Cheese Braise",
+  "description": "A floral and chewy American dish featuring emmentaler cheese braised gently to perfection, perfect for a nostalgic evening meal.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 oz (60g) emmentaler cheese",
+      "amount": "",
+      "notes": "Choose a soft to medium aged Emmental for this recipe."
+    },
+    {
+      "name": "1/4 cup (30g) unsalted butter",
+      "amount": ""
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 can diced tomatoes",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup (60ml) red wine vinegar",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup (30g) all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "Salt and black pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Melt the butter in a large skillet over medium heat. Add the chopped onion and garlic, sautéing until translucent.",
+    "Stir in the flour and cook for an additional minute to remove raw flour taste.",
+    "Gradually add the red wine vinegar while continuously stirring to form a smooth sauce.",
+    "Pour in the can of diced tomatoes with their juice. Bring the mixture to simmer.",
+    "Fold in the shredded Emmental cheese, stirring until it melts completely. Adjust seasoning if needed with salt and pepper.",
+    "Transfer the braising liquid to an oven-safe casserole dish or Dutch oven and bake for 30 minutes at 350°F (175°C), allowing the cheese to soften further and deepen in flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nostalgic",
+    "chewy",
+    "american",
+    "emmentaler",
+    "braise",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 18,
+    "carbs": 27,
+    "fat": 9
+  },
+  "slug": "nostalgic-chewy-american-emmentaler-cheese-braise",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-chewy-american-emmentaler-cheese-braise",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:24:28Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Emmentaler Cheese",
+    "descriptor": "Nostalgic Chewy",
+    "dishForm": "Braise"
+  }
+}
