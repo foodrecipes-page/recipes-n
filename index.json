@@ -52,6 +52,20 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-crumbly-marzipan-crumble",
+    "title": "Nostalgic Crumbly Marzipan Crumble",
+    "tags": [
+      "nachos",
+      "crumble",
+      "marzipan",
+      "uruguayan",
+      "dessert"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgic-fermented-lard-stir-fry",
     "title": "Nostalgic Fermented Lard Stir-fry",
     "tags": [
