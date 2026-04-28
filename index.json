@@ -1101,6 +1101,19 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-juicy-egyptian-almond-stir-fry",
+    "title": "Nutty Juicy Egyptian Almond Stir-fry",
+    "tags": [
+      "egyptian-dish",
+      "nutty-juicy",
+      "meal-prep",
+      "diabetic-friendly"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 32,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-juicy-peruvian-date-stir-fry",
     "title": "Nutty Juicy Peruvian Date Stir-fry",
     "tags": [
