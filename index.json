@@ -474,6 +474,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crispy-russian-macaroni-stir-fry",
+    "title": "Nutty Crispy Russian Macaroni Stir-fry",
+    "tags": [
+      "nutty",
+      "crispy",
+      "russian",
+      "macaroni",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-crispy-venezuelan-freekeh-stir-fry",
     "title": "Nutty Crispy Venezuelan Freekeh Stir-fry",
     "tags": [

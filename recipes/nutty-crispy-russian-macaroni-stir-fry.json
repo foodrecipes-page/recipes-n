@@ -1,0 +1,107 @@
+{
+  "title": "Nutty Crispy Russian Macaroni Stir-fry",
+  "description": "A vibrant and energizing vegetarian-friendly dish featuring crispy macaroni with a nutty blend of vegetables and spices.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "200g"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "1"
+    },
+    {
+      "name": "onions",
+      "amount": "2"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "50g"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "50g"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "Chop the carrots, celery stalks, and onions into small pieces.",
+    "Peel and finely chop the garlic cloves.",
+    "Rinse the macaroni under cold water and set aside.",
+    "In a large skillet or wok, heat the sunflower oil over medium-high heat.",
+    "Add chopped vegetables (carrots, celery, onions) to the skillet. Sauté until they start to brown slightly.",
+    "Stir in minced garlic and chili flakes. Cook for another minute.",
+    "Pour in the vegetable broth and bring it to a boil. Reduce heat to low, add macaroni, pumpkin seeds, pine nuts, salt, and black pepper. Stir well to combine all ingredients.",
+    "Simmer gently until the macaroni is fully cooked and absorbs most of the liquid from the broth. Adjust seasoning as needed.",
+    "Serve hot garnished with fresh chopped parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crispy",
+    "russian",
+    "macaroni",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "nutty-crispy-russian-macaroni-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-russian-macaroni-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:34:25Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "braise",
+    "primaryIngredient": "macaroni",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Macaroni",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
