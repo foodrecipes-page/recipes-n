@@ -1,0 +1,99 @@
+{
+  "title": "Nutty Fluffy Dutch Beef Stir-fry",
+  "description": "A comforting dutch dish featuring beef gravy and nuttiness, perfect for a low-calorie-friendly meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "100g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/4"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "100ml"
+    },
+    {
+      "name": "water",
+      "amount": "50ml"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "a few"
+    },
+    {
+      "name": "salt and pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the onion, garlic, bell pepper, carrot into small pieces.",
+    "Slice the beef thinly, season with salt and pepper.",
+    "In a pan, heat up some oil. Sauté onions, add chopped garlic.",
+    "Add sliced carrots, cook for about 3 minutes until slightly softened.",
+    "Add diced bell peppers, continue cooking until veggies are soft.",
+    "Mix in peanut butter, stir well to prevent clumping. Gradually pour in vegetable broth and water, whisking continuously.",
+    "Stir occasionally to avoid sticking. Once the mixture thickens slightly (about 5 minutes), add nutritional yeast for nutty flavor.",
+    "Sprinkle thyme leaves over the dish, adjust seasoning if needed.",
+    "Serve hot with steamed vegetables or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nutty-fluffy-dutch-beef-stir-fry",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 289,
+    "protein": 16,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "nutty-fluffy-dutch-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-fluffy-dutch-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:12:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "reduce",
+    "primaryIngredient": "beef gravy",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Beef",
+    "descriptor": "Nutty Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
