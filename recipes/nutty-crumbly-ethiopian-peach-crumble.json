@@ -1,0 +1,95 @@
+{
+  "title": "Nutty Crumbly Ethiopian Peach Crumble",
+  "description": "A light and smoky ethiopian dish featuring peach pieces in a nutty crumbly crust, perfect for a sweet snack or dessert.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peaches",
+      "amount": "2 medium",
+      "notes": "ripe and juicy"
+    },
+    {
+      "name": "Almond Meal",
+      "amount": "3 tablespoons",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Raw Pumpkin Seeds",
+      "amount": "1/4 cup",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "Demarara Maple Syrup",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "3 tablespoons",
+      "notes": "melted for a smoother texture"
+    },
+    {
+      "name": "Raw Honey",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added sweetness"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "pinch",
+      "notes": "for color and anti-inflammatory properties"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Core the peaches and cut into small pieces.",
+    "In a mixing bowl, combine peach pieces, almond meal, pumpkin seeds, demarara maple syrup, melted coconut oil, raw honey (if using), turmeric powder, and salt. Mix well until all ingredients are evenly distributed.",
+    "Transfer the mixture onto an oven-safe dish or pan lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown on top.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crumbly",
+    "light",
+    "ethiopian",
+    "peaches",
+    "smoke",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 39,
+    "fat": 18
+  },
+  "slug": "nutty-crumbly-ethiopian-peach-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crumbly-ethiopian-peach-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:58:25Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "peaches",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Peaches",
+    "descriptor": "Nutty Crumbly",
+    "dishForm": "Crumble"
+  }
+}
