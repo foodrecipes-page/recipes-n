@@ -459,6 +459,19 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crisp-brazilian-almond-crumble",
+    "title": "Nutty Crisp Brazilian Almond Crumble",
+    "tags": [
+      "almond",
+      "butter",
+      "crumble",
+      "parmesan"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-crisp-croatian-nuts-stir-fry",
     "title": "Nutty Crisp Croatian Nuts Stir-fry",
     "tags": [

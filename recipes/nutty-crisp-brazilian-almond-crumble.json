@@ -1,0 +1,80 @@
+{
+  "title": "Nutty Crisp Brazilian Almond Crumble",
+  "description": "An indulgent dish featuring a crisp almond crumble with Parmigiano-Reggiano cheese that is perfect for a dessert or snack, gluten-free and suitable for low FODMAP diets.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "3 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "a few drops"
+    },
+    {
+      "name": "Parmigiano-Reggiano cheese",
+      "amount": "1/4 cup, grated"
+    },
+    {
+      "name": "egg whites",
+      "amount": "3 large, beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a mixing bowl, combine almonds, melted butter, sugar, and vanilla extract. Mix well until the mixture is evenly coated with the ingredients.",
+    "Fold in the grated Parmigiano-Reggiano cheese into the almond mixture.",
+    "Add beaten egg whites to the bowl and gently fold them through the almond mixture until fully incorporated.",
+    "Transfer the mixture onto a greased baking dish or pan, spreading it out evenly.",
+    "Bake for 25 minutes in preheated oven. The crumble should be golden brown on top and crisp when lightly pressed with your finger."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond",
+    "butter",
+    "crumble",
+    "parmesan"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 12,
+    "carbs": 23,
+    "fat": 14
+  },
+  "slug": "nutty-crisp-brazilian-almond-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crisp-brazilian-almond-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:10:11Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "almonds",
+    "descriptor": "nutty crisp",
+    "dishForm": "Crumble"
+  }
+}
