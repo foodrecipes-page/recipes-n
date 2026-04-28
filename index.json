@@ -1016,5 +1016,20 @@
     "cuisine": "Irish",
     "totalTimeMin": 55,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-velvety-italian-courgette-stir-fry",
+    "title": "Nutty Velvety Italian Courgette Stir-fry",
+    "tags": [
+      "courgette",
+      "vegan",
+      "almond-butter",
+      "pesto",
+      "stir-fry",
+      "neapolitan"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
+    "shard": "n"
   }
 ]
