@@ -1,0 +1,86 @@
+{
+  "title": "Nutty Creamy Blackberries Stir-fry",
+  "description": "A vegan-friendly Ukrainian-inspired dish featuring blackberries in a creamy nut sauce, perfect for a quick weeknight meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Almond Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Almonds, Slivered",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Blackberries",
+      "amount": "1 pint fresh or frozen"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring almond milk to a boil in a saucepan. Reduce heat and simmer for about 20 minutes until reduced by half.",
+    "Stir in balsamic vinegar, cinnamon, coconut sugar, and minced garlic. Simmer for another 5-10 minutes or until thickened slightly.",
+    "Fold in slivered almonds and blackberries gently to avoid breaking the berries. Season with a pinch of salt if desired.",
+    "Transfer mixture into a serving dish and garnish with extra almond slivers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "creamy",
+    "blackberries",
+    "stir-fry",
+    "ukrainian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 24,
+    "fat": 6
+  },
+  "slug": "nutty-creamy-blackberries-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-creamy-blackberries-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:35:35Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "saute",
+    "primaryIngredient": "blackberries",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Blackberries",
+    "descriptor": "Nutty Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
