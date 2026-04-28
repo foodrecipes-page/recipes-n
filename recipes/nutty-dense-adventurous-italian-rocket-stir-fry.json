@@ -1,0 +1,83 @@
+{
+  "title": "Nutty Dense Adventurous Italian Rocket Stir-fry",
+  "description": "This jain-friendly dish features a nutty and dense texture with the inclusion of fermented elements to add an adventurous twist to the classic Italian rocket.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rocket lettuce",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "Fermented vegetables (e.g., sauerkraut)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Almond slivers or other roasted nuts",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red pepper flakes (optional)",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Wash and chop the rocket lettuce into bite-sized pieces.",
+    "Chop the fermented vegetables finely.",
+    "Heat olive oil in a pan over medium heat.",
+    "Add almond slivers and cook until lightly toasted, about 2 minutes.",
+    "Toss with chopped rocket and fermented vegetables.",
+    "Mix in tomato puree and red pepper flakes if using.",
+    "Stir-fry for another minute until the mixture is hot and well combined.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "dense",
+    "adventurous",
+    "italian",
+    "rocket",
+    "ferment"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "nutty-dense-adventurous-italian-rocket-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-adventurous-italian-rocket-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:07:14Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "ferment",
+    "primaryIngredient": "rocket",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Rocket",
+    "descriptor": "Nutty Dense Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
