@@ -1117,5 +1117,18 @@
     "cuisine": "Italian",
     "totalTimeMin": 20,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-velvety-saudia-hazelnut-stir-fry",
+    "title": "Nutty Velvety Saudia Hazelnut Stir-fry",
+    "tags": [
+      "nutty",
+      "velvety",
+      "saudia-hazelnut-stir-fry",
+      "midnight-craving"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]

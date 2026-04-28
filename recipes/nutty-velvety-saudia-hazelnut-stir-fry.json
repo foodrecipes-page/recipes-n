@@ -1,0 +1,86 @@
+{
+  "title": "Nutty Velvety Saudia Hazelnut Stir-fry",
+  "description": "A midnight-craving saudi arabian dish featuring nuttiness and velvety texture with hazelnuts, orange zest, and a touch of pescatarian-friendly ingredients to satisfy your cravings.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 eggs"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Oranges zest",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat. Toast hazelnuts until golden and fragrant.",
+    "Crack eggs into the hot pan, stirring gently as they cook, forming an egg base for your dish.",
+    "Add toasted hazelnuts to the pan, mixing them well with the eggs.",
+    "Next, finely chop ginger and mix it in the pan. Add saffron threads and a generous amount of orange zest. Mix thoroughly until all ingredients are evenly distributed and heated through.",
+    "Fold in peanuts and turmeric powder for additional flavor.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "velvety",
+    "saudia-hazelnut-stir-fry",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "nutty-velvety-saudia-hazelnut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-velvety-saudia-hazelnut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:00:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "temper",
+    "primaryIngredient": "orange zest",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Hazelnut",
+    "descriptor": "Nutty Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
