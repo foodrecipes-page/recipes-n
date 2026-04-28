@@ -783,6 +783,18 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-fluffy-american-duck-stir-fry",
+    "title": "Nutty Fluffy American Duck Stir-fry",
+    "tags": [
+      "nutty-fluffy",
+      "festive-american-dish",
+      "low-fat-friendly"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-fluffy-apricot-stir-fry",
     "title": "Nutty Fluffy Apricot Stir-fry",
     "tags": [

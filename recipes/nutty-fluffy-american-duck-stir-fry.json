@@ -1,0 +1,89 @@
+{
+  "title": "Nutty Fluffy American Duck Stir-fry",
+  "description": "A festive duck dish featuring a nutty flavor profile with low-fat-friendly options to make it suitable for various dietary needs.",
+  "cuisine": "American",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless duck breast fillet",
+      "amount": "100g"
+    },
+    {
+      "name": "mixed nuts (almonds, walnuts)",
+      "amount": "50g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "oyster sauce (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F.",
+    "Season the duck fillets with salt and pepper. Place them on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for about 12-15 minutes or until cooked through (internal temperature of 140°F).",
+    "While the duck is cooking, mix together soy sauce, ginger paste, garlic paste, and optional oyster sauce in a small bowl. Set aside.",
+    "Remove the duck from the oven, let it rest for 5 minutes then slice into thin strips.",
+    "Heat vegetable oil in a wok or large skillet over medium-high heat. Add sliced nuts and stir-fry until they start to turn golden brown.",
+    "Add the sliced duck to the pan and pour the sauce over them, tossing well to coat evenly.",
+    "Reduce heat to low, cover the pan with a lid, and let it simmer for about 2 minutes to thicken the sauce slightly.",
+    "Serve hot as a main course or side dish with steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty-fluffy",
+    "festive-american-dish",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 29,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "nutty-fluffy-american-duck-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-fluffy-american-duck-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:08:50Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "cure",
+    "primaryIngredient": "duck",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Duck",
+    "descriptor": "Nutty Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
