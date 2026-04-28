@@ -1,0 +1,101 @@
+{
+  "title": "Nutty Crumbly Moroccan Shrimp Cumble",
+  "description": "A savory and adventurous dish featuring jumbo shrimp blended with a nutty crumbly base for a unique twist on Moroccan cuisine.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jumbo Shrimp",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Minced Onion",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 medium, minced"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Almonds, Toasted and Coarsely Ground",
+      "amount": "2-3 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "A pinch for heat"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium-high heat.",
+    "Add minced onion and cook until translucent, about 5 minutes.",
+    "Add garlic and cook for another minute.",
+    "Fold in ground cumin and coriander, cooking for 30 seconds.",
+    "Add jumbo shrimp to the pan. Cook until pink and opaque throughout, about 2-3 minutes per side.",
+    "Remove from heat and stir in sesame seeds, almonds, salt, cayenne pepper, fresh cilantro, and paprika.",
+    "Serve hot as a side dish or topping for rice pilaf."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "nutty",
+    "crumbly",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 528,
+    "protein": 30,
+    "carbs": 41,
+    "fat": 26
+  },
+  "slug": "nutty-crumbly-moroccan-shrimp-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crumbly-moroccan-shrimp-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:41:25Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Nutty Crumbly",
+    "dishForm": "Crumble"
+  }
+}
