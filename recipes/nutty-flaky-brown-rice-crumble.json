@@ -1,0 +1,62 @@
+{
+  "title": "Nutty Flaky Brown Rice Crumble",
+  "description": "A nutty and flaky keto-friendly Ukrainian dish featuring brown rice blended with a mix of nuts and seeds for a nostalgic twist.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups cooked brown rice",
+      "amount": "",
+      "notes": "Ensure it's cooled before proceeding."
+    },
+    {
+      "name": "1/4 cup slivered almonds",
+      "amount": "",
+      "notes": "Optional for added texture and nuttiness."
+    }
+  ],
+  "instructions": [
+    "Combine the cooled cooked brown rice with a mix of ground flaxseed, chia seeds, and chopped walnuts in a mixing bowl.",
+    "Mix until well combined. Add any optional almonds for extra crunch if desired.",
+    "Form into small discs or crumbles and bake at 180°C (350°F) for about 20 minutes or until golden brown.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "flaky",
+    "keto-friendly",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 2,
+    "fat": 9
+  },
+  "slug": "nutty-flaky-brown-rice-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-flaky-brown-rice-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:56:07Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "fold",
+    "primaryIngredient": "brown rice",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Brown Rice",
+    "descriptor": "Nutty Flaky",
+    "dishForm": "Crumble"
+  }
+}
