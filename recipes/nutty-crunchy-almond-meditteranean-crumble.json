@@ -1,0 +1,84 @@
+{
+  "title": "Nutty Crunchy Almond Meditteranean Crumble",
+  "description": "A sick-day dish featuring a gluten-free almond mediterranean crumble with caramelized palm sugar for added sweetness and crunch.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond meal",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Palm sugar (or coconut palm sugar)",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almonds, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Walnuts, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Hazelnuts, chopped",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a small bowl, mix together almond meal and water until no lumps remain.",
+    "Add palm sugar and stir until dissolved. Transfer mixture to a baking dish lined with parchment paper.",
+    "Sprinkle coconut flakes evenly over the top of the crumble mixture.",
+    "Top the creme brûlée layer with chopped almonds, walnuts, and hazelnuts.",
+    "Bake in preheated oven for 20 minutes or until golden brown on top.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crunchy",
+    "mediterranean",
+    "palm_sugar",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 267,
+    "protein": 3.9,
+    "carbs": 28,
+    "fat": 10
+  },
+  "slug": "nutty-crunchy-almond-meditteranean-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crunchy-almond-meditteranean-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:00:04Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "palm sugar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "almonds",
+    "descriptor": "nutty crunchy",
+    "dishForm": "Crumble"
+  }
+}

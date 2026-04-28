@@ -489,6 +489,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crunchy-almond-meditteranean-crumble",
+    "title": "Nutty Crunchy Almond Meditteranean Crumble",
+    "tags": [
+      "nutty",
+      "crunchy",
+      "mediterranean",
+      "palm_sugar",
+      "sick-day"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-dense-egyptian-pear-crumble",
     "title": "Nutty Dense Egyptian Pear Crumble",
     "tags": [
