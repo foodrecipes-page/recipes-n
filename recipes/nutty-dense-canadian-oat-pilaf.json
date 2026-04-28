@@ -1,0 +1,80 @@
+{
+  "title": "Nutty Dense Canadian Oat Pilaf",
+  "description": "A quick-fix dish featuring nutty oats and a tadka (spices) to make it both savory and delicious.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup rolled oats",
+      "amount": "",
+      "notes": "Use quick-cooking or old-fashioned"
+    },
+    {
+      "name": "2 tablespoons ghee (clarified butter)",
+      "amount": "",
+      "notes": "Or oil if you prefer"
+    },
+    {
+      "name": "1/4 teaspoon turmeric powder",
+      "amount": "",
+      "notes": "For color and health benefits"
+    },
+    {
+      "name": "1/8 teaspoon cumin seeds",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "",
+      "notes": "A few grinds, to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a small saucepan over medium heat.",
+    "Add turmeric powder and cumin seeds. Cook for about 30 seconds until fragrant.",
+    "Pour in rolled oats and mix well with the spices.",
+    "Stir occasionally for about 1-2 minutes until the oats are golden brown, stirring constantly to prevent burning.",
+    "Remove from heat and stir in freshly ground black pepper and salt if needed. Mix evenly.",
+    "Serve hot as a side dish or over your favorite grains."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty-dense-canadian-pilaf",
+    "egg-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 29,
+    "fat": 7
+  },
+  "slug": "nutty-dense-canadian-oat-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-canadian-oat-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:12:08Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "tadka",
+    "primaryIngredient": "oats",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Oats",
+    "descriptor": "Nutty Dense",
+    "dishForm": "Pilaf"
+  }
+}
