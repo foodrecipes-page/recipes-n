@@ -1,0 +1,70 @@
+{
+  "title": "Nutty Chewy Solo-Dinner Russet Potato Stir-fry",
+  "description": "A nut-free-friendly solo-dinner French dish featuring russet potatoes that are simmered and served as a side or main course.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "¼ teaspoon"
+    },
+    {
+      "name": "Shredded Carrots",
+      "amount": "2 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Quarter russet potatoes and place on a baking sheet. Sprinkle with oil, garlic cloves, red pepper flakes, and shredded carrots.",
+    "Bake for about 30 minutes or until tender.",
+    "Gently stir the cooked potato mixture in a wok over medium heat.",
+    "Add salt to taste if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nut-free",
+    "solo-dinner",
+    "potato-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 169,
+    "protein": 3,
+    "carbs": 27,
+    "fat": 5
+  },
+  "slug": "nutty-chewy-solo-dinner-russet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-chewy-solo-dinner-russet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:13:17Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "russet potato",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Russet Potato",
+    "descriptor": "Nutty Chewy Solo-Dinner",
+    "dishForm": "Stir-fry"
+  }
+}
