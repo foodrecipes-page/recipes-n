@@ -1,0 +1,91 @@
+{
+  "title": "Nutty Dense Saudian Spinach Stir-fry",
+  "description": "A savory dish featuring tender spinach, nuts, and aromatic spices to satisfy a midnight craving, sugar-free friendly for those watching their intake.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup fresh spinach",
+      "amount": "cup",
+      "notes": "Washed and chopped"
+    },
+    {
+      "name": "2 tablespoons sunflower oil or vegan alternative",
+      "amount": "tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "1/4 cup mixed nuts (almonds, walnuts)",
+      "amount": "cup",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "For taste"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1/2 lemon or lime",
+      "amount": "juice",
+      "notes": "To add a touch of acidity and brightness"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "teaspoon",
+      "notes": "For flavoring"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a small skillet over medium heat.",
+    "Add chopped nuts and sauté until fragrant and lightly toasted, about 3-5 minutes.",
+    "Stir in minced garlic and cook for an additional minute.",
+    "Add spinach leaves to the skillet, tossing gently to wilt them quickly. Cover with a lid if available to speed up cooking.",
+    "Drizzle lemon juice over the mixture to brighten its flavors.",
+    "Sprinkle cumin powder over the top of the spinach mixture and stir through evenly.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "dense",
+    "midnight-craving",
+    "saudian",
+    "spinach",
+    "stir-fry",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2.5,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "nutty-dense-saudian-spinach-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-saudian-spinach-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:10:43Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "boil",
+    "primaryIngredient": "spinach",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Saudian",
+    "mainIngredient": "Spinach",
+    "descriptor": "Nutty Dense Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
