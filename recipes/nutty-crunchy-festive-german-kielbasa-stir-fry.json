@@ -1,0 +1,89 @@
+{
+  "title": "Nutty Crunchy Festive German Kielbasa Stir-fry",
+  "description": "A festive German dish featuring gluten-free German kielbasa stir-fried with a nutty and crunchy topping for a satisfying meal.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Kielbasa",
+      "amount": "10 oz"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Pistachios (slivered)",
+      "amount": "3 oz"
+    },
+    {
+      "name": "Walnuts (chopped)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red Peppers (finely chopped)",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 150°F.",
+    "Season the kielbasa with salt, pepper, and garlic powder. Place in the sous-vide bag and cook for 60 minutes at 150°F.",
+    "While the kielbasa is cooking, finely chop a red pepper and roughly chop pistachios and walnuts.",
+    "Once cooked, remove the kielbasa from the machine and let it cool slightly. Cut into bite-sized pieces.",
+    "Heat a skillet over medium-high heat with a little bit of oil. Add chopped walnuts and red peppers, stir-frying for 2 minutes until fragrant.",
+    "Add the cooled kielbasa to the skillet with the nut mixture and cook for an additional 2-3 minutes, mixing well.",
+    "Sprinkle slivered pistachios on top just before serving.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 10,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "gluten-free",
+    "festive",
+    "nutty",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 21,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "nutty-crunchy-festive-german-kielbasa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crunchy-festive-german-kielbasa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:48:02Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "kielbasa",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Kielbasa",
+    "descriptor": "Nutty Crunchy Festive",
+    "dishForm": "Stir-fry"
+  }
+}
