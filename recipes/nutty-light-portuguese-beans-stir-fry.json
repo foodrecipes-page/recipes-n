@@ -1,0 +1,88 @@
+{
+  "title": "Nutty Light Portuguese Beans Stir-fry",
+  "description": "A light and nostalgic twist on traditional Portuguese beans, featuring baby new potatoes as a protein-friendly side dish.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan",
+    "low-fat"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Baby New Potatoes",
+      "amount": "1 cup",
+      "notes": "Approx. 300g"
+    },
+    {
+      "name": "Green Beans",
+      "amount": "2 cups",
+      "notes": "Approx. 450g fresh, trimmed"
+    },
+    {
+      "name": "Pecorino Romano Cheese Cubes",
+      "amount": "1/4 cup",
+      "notes": "For garnish, optional"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1 large, diced (for color and sweetness)"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "A few sprigs for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Peel the baby new potatoes and cut them into halves. Toss with olive oil, salt, and pepper in a roasting pan.",
+    "In a separate pan, heat olive oil over medium-high heat. Add garlic slices and diced red peppers; stir for 1 minute until fragrant.",
+    "Add green beans to the pan, tossing well to coat them evenly in the oil mixture. Cook for about 5 minutes or until slightly softened but still firm.",
+    "Place the potato halves on top of the bean mixture, cut-side down. Roast in the oven for approximately 20-25 minutes or until golden brown and tender.",
+    "Once done, remove from heat, stir through thyme leaves, and serve with pecorino cheese cubes if using."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "light",
+    "portuguese",
+    "stir-fry",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 19,
+    "fat": 6
+  },
+  "slug": "nutty-light-portuguese-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-light-portuguese-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:31:43Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "stir-fry",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "beans",
+    "descriptor": "Nutty Light",
+    "dishForm": "Stir-fry"
+  }
+}
