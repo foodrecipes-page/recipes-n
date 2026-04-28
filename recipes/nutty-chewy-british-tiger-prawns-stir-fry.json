@@ -1,0 +1,88 @@
+{
+  "title": "Nutty Chewy British Tiger Prawns Stir-fry",
+  "description": "A nutty and chewy one-pot dish featuring raw tiger prawns with a flavorful sauce in just one pot.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tiger Prawns",
+      "amount": "12-16 medium-sized",
+      "notes": "Fresh, raw"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "A pinch per person",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Almonds",
+      "amount": "2 tablespoons ground (slivered or chopped)",
+      "notes": ""
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1 tablespoon slivered or ground",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3-4 tablespoons",
+      "notes": "Guaranteed organic, low sodium"
+    },
+    {
+      "name": "Garlic Paste",
+      "amount": "2 cloves (finely chopped)",
+      "notes": ""
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "1 inch piece (finely minced)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place prawns in a pot and add a pinch of salt.",
+    "Cover and heat over medium-high heat until the prawns turn pink, about 5 minutes.",
+    "Remove from heat and drain prawns into a mixing bowl.",
+    "In the same pan, add almonds and pistachios to the remaining oil and cook for about 30 seconds until fragrant.",
+    "Add garlic paste and ginger paste to the pan. Cook for an additional minute while stirring constantly.",
+    "Pour in soy sauce and stir continuously for another 1-2 minutes until mixture thickens slightly.",
+    "Combine prawns with nutty-ginger-sauce and toss gently."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-tiger-prawns",
+    "nutty-chewy",
+    "one-pot-dish",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "nutty-chewy-british-tiger-prawns-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-chewy-british-tiger-prawns-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:26:27Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "rest",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Tiger Prawns",
+    "descriptor": "Nutty Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
