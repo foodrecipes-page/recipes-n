@@ -1,0 +1,83 @@
+{
+  "title": "Nutty Crispy Ethiopian Peanut Stir-fry",
+  "description": "A monsoon-inspired, crispy peanut dish infused with the umami flavors of doubanjiang and served as a satisfying snack that's both nutty and Paleo-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup, roasted",
+      "notes": "Make sure they are roasted until crispy."
+    },
+    {
+      "name": "Doubanjiang paste",
+      "amount": "2 tbsp",
+      "notes": "Use less if you prefer milder flavor."
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup, finely chopped",
+      "notes": "Chopped to the size of matchsticks for a crisp texture."
+    },
+    {
+      "name": "Green bell pepper",
+      "amount": "1 medium, thinly sliced",
+      "notes": "Add color and crunch without overpowering the dish."
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "For added texture and flavor."
+    },
+    {
+      "name": "Thyme leaves",
+      "amount": "A few, chopped",
+      "notes": "Optional garnish for extra flavor and color."
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium-high heat. Add the peanuts to coat with oil from roasting.",
+    "Add the doubanjiang paste, red onion, and green bell pepper to the pan, stir-frying until the peppers soften but remain crisp.",
+    "Sprinkle sesame seeds on top of the mixture for extra crunchiness.",
+    "Once all ingredients are thoroughly combined and coated with the peanut paste, remove from heat. If desired, sprinkle thyme leaves for garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crispy",
+    "monsoon",
+    "ethiopian",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "nutty-crispy-ethiopian-peanut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-ethiopian-peanut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:57:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "tandoor",
+    "primaryIngredient": "doubanjiang",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "peanuts",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
