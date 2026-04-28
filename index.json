@@ -92,6 +92,19 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-garlic-wraps",
+    "title": "Nostalgic Garlic Wraps",
+    "tags": [
+      "nostalgic",
+      "garlicky",
+      "circular-snack",
+      "mozzarella"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 15,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgic-garlicy-tunisian-stir-fry",
     "title": "Nostalgic Garlicy Tunisian Stir-fry",
     "tags": [

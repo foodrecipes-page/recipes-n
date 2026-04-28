@@ -1,0 +1,82 @@
+{
+  "title": "Nostalgic Garlic Wraps",
+  "description": "A crispy and garlicky snack with a nostalgic twist, perfect for snacking or as a side dish. This kosher-friendly recipe features mozzarella cheese inside gluten-free wraps.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kosher salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mozzarella cheese, shredded",
+      "amount": "200g"
+    },
+    {
+      "name": "Peanut butter (for spreading)",
+      "amount": "6 tbsp"
+    },
+    {
+      "name": "Jalapeno peppers, finely chopped (optional)",
+      "amount": "1-2"
+    },
+    {
+      "name": "Red pepper flakes (for garnish)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Gluten-free wrap sheets",
+      "amount": "4-5"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine kosher salt and garlic powder. Mix well.",
+    "Spread peanut butter evenly on the bottom of four to five gluten-free wrap sheets.",
+    "Evenly sprinkle the kosher-salt mixture over the spread peanut butter.",
+    "Add finely chopped jalapeno peppers if using, then cover with the shredded mozzarella cheese.",
+    "Sprinkle red pepper flakes over the top and allow all ingredients to meld together for at least 10 minutes before serving.",
+    "Heat oven to 375°F (190°C). Place wraps on a baking sheet and bake for 2-4 minutes until cheese is melted and bubbly.",
+    "Remove from oven, let cool slightly, then slice into bite-sized pieces if desired.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nostalgic",
+    "garlicky",
+    "circular-snack",
+    "mozzarella"
+  ],
+  "nutrition": {
+    "calories": 723.9,
+    "protein": 26.8,
+    "carbs": 45.1,
+    "fat": 20.5
+  },
+  "slug": "nostalgic-garlic-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-garlic-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:14:59Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "rest",
+    "primaryIngredient": "mozzarella",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Crispy Nostalgic",
+    "dishForm": "Wraps"
+  }
+}
