@@ -1,0 +1,72 @@
+{
+  "title": "Nutty Dense Raw-friendly Canadian Onion Stir-fry",
+  "description": "A post-workout dish featuring dense raw onions blended with a nut-based temper for a rich flavor profile, perfect as a quick snack or light meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "raw-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Almond Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegan Mayo (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "A few tablespoons to blend"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Peel and finely chop the onion.",
+    "Add all ingredients into a blender. Blend until smooth, adding water as needed for desired consistency.",
+    "Serve immediately or store in fridge for up to 24 hours."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "onion",
+    "almond-butter",
+    "raw-friendly",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 48,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 9
+  },
+  "slug": "nutty-dense-raw-friendly-canadian-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-raw-friendly-canadian-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:44:02Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "temper",
+    "primaryIngredient": "onions",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Onion",
+    "descriptor": "Nutty Dense Raw-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
