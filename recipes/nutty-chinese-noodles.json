@@ -1,0 +1,101 @@
+{
+  "title": "Nutty Chinese Noodles",
+  "description": "A creamy and nutty Chinese dish featuring pappardelle pasta that is dairy-free-friendly, perfect for a comforting dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "500g Pappardelle Pasta",
+      "amount": "1 packet"
+    },
+    {
+      "name": "3 tbsp Nutritional Yeast Flakes",
+      "notes": "For extra nuttiness and cheesy flavor"
+    },
+    {
+      "name": "2 tbsp Sesame Oil",
+      "notes": "To add depth of flavor"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "3 cups vegetable broth",
+      "notes": "Ensure it's unsalted or use low sodium variety"
+    },
+    {
+      "name": "2 cans (14 oz each) coconut milk",
+      "notes": "Full-fat for richer flavor"
+    },
+    {
+      "name": "1 can (14 oz) chickpeas, drained and rinsed",
+      "notes": ""
+    },
+    {
+      "name": "1 cup cashews, soaked overnight and drained",
+      "notes": "For added creaminess and crunch"
+    },
+    {
+      "name": "2 tbsp soy sauce",
+      "notes": "Guaranteed to enhance the flavors of the dish"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). Rinse cashews under cold water. Pat them dry with a paper towel.",
+    "In a large skillet, heat sesame oil over medium heat. Add finely chopped onion and sauté until translucent, about 4 minutes.",
+    "Add minced garlic and continue cooking for an additional minute, stirring constantly to prevent burning.",
+    "Pour in the vegetable broth and coconut milk. Bring to a simmer then stir in nutritional yeast flakes and soy sauce.",
+    "Gently toss the pappardelle pasta with the vegan butter (make sure it's not overheated or raw) until coated evenly. Add this mixture into your pan.",
+    "Fold in soaked cashews, chickpeas, and continue cooking for another 10 minutes until everything is heated through and the sauce has thickened slightly.",
+    "Season with salt and pepper to taste. Stir well to ensure spices are distributed evenly.",
+    "Transfer the creamy noodle dish into a serving dish and serve hot."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nutty-chinese-noodles",
+    "creamy-chinese-dish",
+    "vegan-friendly",
+    "noodle-dessert"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 12,
+    "carbs": 46,
+    "fat": 20
+  },
+  "slug": "nutty-chinese-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-chinese-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:28:19Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Nuts",
+    "descriptor": "Nutty",
+    "dishForm": "Stir-fry"
+  }
+}

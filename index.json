@@ -391,6 +391,19 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-chinese-noodles",
+    "title": "Nutty Chinese Noodles",
+    "tags": [
+      "nutty-chinese-noodles",
+      "creamy-chinese-dish",
+      "vegan-friendly",
+      "noodle-dessert"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-creamy-blackberries-stir-fry",
     "title": "Nutty Creamy Blackberries Stir-fry",
     "tags": [
