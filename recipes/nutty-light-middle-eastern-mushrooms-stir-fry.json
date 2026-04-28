@@ -1,0 +1,105 @@
+{
+  "title": "Nutty Light Middle Eastern Mushrooms Stir-fry",
+  "description": "A light and nutty post-workout dish featuring wild mushrooms in a Mediterranean-inspired medley of herbs and spices for an easy, healthy meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wild Mushrooms",
+      "amount": "1 cup",
+      "notes": "Choose a variety of wild mushrooms for added texture and flavor."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking and drizzling on top"
+    },
+    {
+      "name": "Almonds",
+      "amount": "3/4 cup",
+      "notes": "For crunch and nuttiness"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3",
+      "notes": "For flavoring"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped for color and sweetness"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "2 teaspoons",
+      "notes": "For herbal aroma"
+    },
+    {
+      "name": "Oregano Seeds",
+      "amount": "1 teaspoon",
+      "notes": "For Mediterranean touch"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "For a hint of smokiness"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Clean and trim the mushrooms. Slice them into half-moons.",
+    "In a large skillet, heat olive oil over medium-high heat. Add onions and garlic; sauté until softened.",
+    "Add wild mushrooms to the skillet with a sprinkle of salt and pepper. Cook until they release their moisture and start to brown.",
+    "Stir in thyme leaves, oregano seeds, paprika powder, almonds, and continue cooking for another 2 minutes or until the nuts begin to toast lightly.",
+    "Serve hot as a side dish or over quinoa or rice for added protein."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "light",
+    "post-workout",
+    "middle-eastern",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 15,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "nutty-light-middle-eastern-mushrooms-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-light-middle-eastern-mushrooms-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:33:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "steam",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "wild mushrooms",
+    "descriptor": "Nutty Light",
+    "dishForm": "Stir-fry"
+  }
+}
