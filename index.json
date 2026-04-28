@@ -349,6 +349,19 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-creamy-light-algerian-peanut-stir-fry",
+    "title": "Nutty Creamy Light Algerian Peanut Stir-fry",
+    "tags": [
+      "algerian",
+      "nutty",
+      "creamy",
+      "light"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-creamy-midnight-knafeh-stir-fry",
     "title": "Nutty Creamy Midnight Knafeh Stir-fry",
     "tags": [

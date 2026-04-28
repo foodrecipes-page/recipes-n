@@ -1,0 +1,83 @@
+{
+  "title": "Nutty Creamy Light Algerian Peanut Stir-fry",
+  "description": "A light and creamy dish featuring poached chicken bouillon powder in a nutty sauce, perfect for a nutritious snack or side dish.",
+  "cuisine": "Algerian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken bouillon powder",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almond milk",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "nutmeg powder",
+      "amount": "pinch"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Boil water in a medium saucepan with chicken bouillon powder. Add ground almonds and nutmeg powder, reduce heat to low and simmer for about 15 minutes until thickened.",
+    "In another pan, heat peanut oil over medium-high heat. Stir in heavy cream and almond milk until smooth. Gradually add the braised mixture into the creamy sauce, stirring constantly.",
+    "Stir in salt just before serving. Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "nutty",
+    "creamy",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 34,
+    "fat": 20
+  },
+  "slug": "nutty-creamy-light-algerian-peanut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-creamy-light-algerian-peanut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:46:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "peanut",
+    "descriptor": "Nutty Creamy Light",
+    "dishForm": "Stir-fry"
+  }
+}
