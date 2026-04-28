@@ -310,6 +310,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-chewy-indulgent-filipino-almond-stir-fry",
+    "title": "Nutty Chewy Indulgent Filipino Almond Stir-fry",
+    "tags": [
+      "nutty",
+      "chewy",
+      "indulgent",
+      "filipino",
+      "stir-fry"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-creamy-midnight-knafeh-stir-fry",
     "title": "Nutty Creamy Midnight Knafeh Stir-fry",
     "tags": [

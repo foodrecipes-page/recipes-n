@@ -1,0 +1,90 @@
+{
+  "title": "Nutty Chewy Indulgent Filipino Almond Stir-fry",
+  "description": "A rich and indulgent filipino almond stir-fry made with almond milk for a creamy texture, perfect as an afternoon treat or light dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Almond Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1 cup, slivered"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2 stalks, chopped"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot or Dutch oven, heat the almond milk and chicken broth over medium-high heat.",
+    "Add garlic powder, ground cumin, salt, and pepper to taste. Stir well until fully incorporated.",
+    "Simmer for about 5 minutes until slightly thickened, stirring occasionally to prevent sticking.",
+    "Stir in slivered almonds, green onions, and sesame seeds. Cook for an additional minute or two until heated through.",
+    "Remove from heat and serve hot as a side dish or main course with rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "chewy",
+    "indulgent",
+    "filipino",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 22
+  },
+  "slug": "nutty-chewy-indulgent-filipino-almond-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-chewy-indulgent-filipino-almond-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:18:55Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "braise",
+    "primaryIngredient": "almond milk",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Almond",
+    "descriptor": "Nutty Chewy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
