@@ -487,6 +487,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crispy-japanese-parmigiano-reggiano-crumble",
+    "title": "Nutty Crispy Japanese Parmigiano-Reggiano Crumble",
+    "tags": [
+      "air-fry",
+      "low-sodium-friendly",
+      "nutty",
+      "cuisines/japanese",
+      "snack"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 13,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-crispy-russian-macaroni-stir-fry",
     "title": "Nutty Crispy Russian Macaroni Stir-fry",
     "tags": [

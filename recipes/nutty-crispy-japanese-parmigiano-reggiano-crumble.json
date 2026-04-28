@@ -1,0 +1,70 @@
+{
+  "title": "Nutty Crispy Japanese Parmigiano-Reggiano Crumble",
+  "description": "A comforting Japanese dish featuring air-fried crumbled Parmigiano-Reggiano sprinkled with nuts for a nutty and crispy texture, suitable as a snack or light meal.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup (120g) Parmigiano-Reggiano cheese",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup (30g) mixed nuts (almonds, pecans)",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "2 tbsp low-sodium soy sauce",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 170°C (340°F).",
+    "Grate the Parmigiano-Reggiano cheese and mix it with the mixed nuts and pinch of sea salt.",
+    "Stir in the low-sodium soy sauce until well combined.",
+    "Divide the mixture into small portions for easy crumbled pieces.",
+    "Place the grated cheese-nut-soy sauce mixture on a wire rack inside your air fryer basket.",
+    "Air-fry for 8-10 minutes or until crispy, turning once halfway through cooking time.",
+    "Serve warm as a snack or light meal with a side of pickled vegetables."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "air-fry",
+    "low-sodium-friendly",
+    "nutty",
+    "cuisines/japanese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 147,
+    "protein": 5.8,
+    "carbs": 12.3,
+    "fat": 6.9
+  },
+  "slug": "nutty-crispy-japanese-parmigiano-reggiano-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-japanese-parmigiano-reggiano-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:53:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "air-fry",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Parmigiano-Reggiano",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Crumble"
+  }
+}
