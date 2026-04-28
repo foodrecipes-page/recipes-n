@@ -1,0 +1,91 @@
+{
+  "title": "Nutty Creamy Mung Beans Spanish Stir-fry",
+  "description": "A nostalgic dish featuring mung bean sprouts and toasted nuts for a creamy and nutty texture in a simple yet flavorful Spanish-inspired stir-fry, egg-free-friendly.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of mung bean sprouts",
+      "amount": "",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "2 tablespoons of toasted almond pieces",
+      "amount": "",
+      "notes": "For added texture and nuttiness"
+    },
+    {
+      "name": "1/4 cup of heavy cream",
+      "amount": "cup",
+      "notes": "Or substitute with coconut milk for a vegan option"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "To add flavor without adding oil or dairy"
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": "",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "1/4 teaspoon of red pepper flakes",
+      "amount": "tsp",
+      "notes": "Optional, for heat"
+    },
+    {
+      "name": "3 tablespoons of vegetable oil",
+      "amount": "tablespoons",
+      "notes": "For sautéing and tossing the ingredients together"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat and add the vegetable oil.",
+    "Add mung bean sprouts to the hot pan, stirring occasionally until they are just starting to wilt.",
+    "Toss in the toasted almond pieces and garlic for about 30 seconds, allowing them to release their oils and aromas.",
+    "Pour in the lemon juice and stir well to incorporate all flavors evenly.",
+    "If using red pepper flakes, add them now and mix thoroughly. The goal is to let the heat develop but not overcook as they can burn quickly.",
+    "Slowly pour in the heavy cream (or coconut milk for vegan version), stirring constantly to ensure everything melts together smoothly and does not curdle.",
+    "Reduce the heat if necessary to prevent burning, and cook until the sauce has slightly thickened. This should take about 2-3 minutes more at low-medium heat.",
+    "Turn off the heat immediately once the dish reaches your desired level of creaminess. Serve hot with additional garnishes like chopped fresh herbs for a festive touch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "creamy",
+    "mung beans",
+    "spanish",
+    "toasted nuts",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 4,
+    "carbs": 19,
+    "fat": 7
+  },
+  "slug": "nutty-creamy-mung-beans-spanish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-creamy-mung-beans-spanish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:32:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Mung Beans",
+    "descriptor": "Nutty Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
