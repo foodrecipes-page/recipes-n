@@ -1,0 +1,80 @@
+{
+  "title": "Nutty Tender Turkish Beetroot Stir-fry",
+  "description": "A comforting and low-sodium-friendly dish featuring tender cooked beetroot combined with a blend of nuts for added texture and flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "side-dish",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "1 medium beetroot"
+    },
+    {
+      "name": "Almonds",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Pecans",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Wrap beetroot in foil and roast for about 45 minutes or until tender.",
+    "While the beetroot is roasting, toast almonds and pecans in a dry skillet over medium heat for about 2-3 minutes or until lightly golden."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "tender",
+    "comforting",
+    "turkish",
+    "beetroot",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 16,
+    "fat": 7
+  },
+  "slug": "nutty-tender-turkish-beetroot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tender-turkish-beetroot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:14:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Beetroot",
+    "descriptor": "Nutty Tender",
+    "dishForm": "Stir-fry"
+  }
+}
