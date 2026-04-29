@@ -801,6 +801,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crumbly-norwegian-turmeric",
+    "title": "Nutty Crumbly Norwegian Turmeric",
+    "tags": [
+      "nutty",
+      "crumbly",
+      "turmeric",
+      "norwegian",
+      "friendly"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-crumbly-sausage-crumble",
     "title": "Nutty Crumbly Sausage Crumble",
     "tags": [

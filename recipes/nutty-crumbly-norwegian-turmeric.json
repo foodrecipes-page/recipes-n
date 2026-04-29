@@ -1,0 +1,94 @@
+{
+  "title": "Nutty Crumbly Norwegian Turmeric",
+  "description": "A nutty and crumbly brunch dish featuring turmeric powder that's both friendly and flavorful.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "3 tablespoons grated ginger",
+      "amount": "",
+      "notes": "Make sure to peel the ginger first."
+    },
+    {
+      "name": "1 cup almond flour",
+      "amount": "",
+      "notes": "Ensure it's sifted for a smoother texture."
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "",
+      "notes": "Adjust according to taste."
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": "To enhance the flavor."
+    },
+    {
+      "name": "3 eggs, lightly beaten",
+      "amount": "",
+      "notes": "For binding and texture."
+    },
+    {
+      "name": "2 tablespoons unsalted butter, melted",
+      "amount": "",
+      "notes": "Use it to grease a baking dish for better results."
+    },
+    {
+      "name": "1/4 cup pecans, finely chopped",
+      "amount": "",
+      "notes": "Adding some crunchiness."
+    },
+    {
+      "name": "1 tablespoon fresh lemon juice",
+      "amount": "",
+      "notes": "To balance the spiciness and sweetness."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Grease a small baking dish with melted butter.",
+    "In a mixing bowl, combine grated ginger, almond flour, honey, salt, and lightly beaten eggs. Mix well until everything is evenly distributed.",
+    "Fold in finely chopped pecans and lemon juice into the mixture.",
+    "Pour the batter into the greased baking dish and smooth out the top with a spatula.",
+    "Bake for 20-25 minutes or until golden brown and firm to the touch.",
+    "Allow it to cool slightly before serving. It's best enjoyed warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crumbly",
+    "turmeric",
+    "norwegian",
+    "friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 5
+  },
+  "slug": "nutty-crumbly-norwegian-turmeric",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crumbly-norwegian-turmeric",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:28:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "rest",
+    "primaryIngredient": "turmeric powder",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "turmeric",
+    "descriptor": "nutty crumbly",
+    "dishForm": "Crumble"
+  }
+}
