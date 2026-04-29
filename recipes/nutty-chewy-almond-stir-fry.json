@@ -1,0 +1,88 @@
+{
+  "title": "Nutty Chewy Almond Stir-fry",
+  "description": "A high-protein-friendly dish featuring almond pieces and capers in a bhuna sauce for those sick days, inspired by traditional Portuguese cuisine.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "high-protein",
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Capers",
+      "amount": "1/4 cup, drained and rinsed"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (15 oz), drained and rinsed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large frying pan over medium heat.",
+    "Add almonds and sauté until golden brown, about 5 minutes.",
+    "Stir in garlic and chili flakes; cook for another minute until fragrant.",
+    "Add chickpeas to the pan. Season with salt and pepper.",
+    "Finally, add capers and stir well to combine all ingredients.",
+    "Cook for an additional 2-3 minutes to let flavors meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "chewy",
+    "almond",
+    "stir-fry",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 16,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "nutty-chewy-almond-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-chewy-almond-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:05:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "bhuna",
+    "primaryIngredient": "capers",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "almonds",
+    "descriptor": "nutty chewy",
+    "dishForm": "Stir-fry"
+  }
+}
