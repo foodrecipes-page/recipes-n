@@ -1,0 +1,85 @@
+{
+  "title": "Nostalgic Spanish Orange Stir-fry",
+  "description": "A rich and dense dish featuring orange blossom water, blanched to preserve its delicate flavors in a gluten-free-friendly recipe.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 orange, peeled and segmented",
+      "amount": "fruit"
+    },
+    {
+      "name": "1/4 cup gluten-free tamari sauce",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup water",
+      "amount": "cup"
+    },
+    {
+      "name": "3 ounces gluten-free bread crumbs",
+      "amount": "oz"
+    },
+    {
+      "name": "Juice of 1 orange blossom water bottle (adjust to taste)",
+      "amount": "bottle"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick pan over medium heat.",
+    "Add garlic and cook until fragrant, about 1 minute.",
+    "Gently fold orange segments into the pan with the garlic.",
+    "Pour water and tamari sauce over the top of oranges and garlic, stirring well to combine.",
+    "Add gluten-free bread crumbs and orange blossom water. Stir in salt and pepper.",
+    "Simmer for 2-3 minutes until thickened slightly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nostalgic-spanish-recipe",
+    "orange-flower-water",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 14
+  },
+  "slug": "nostalgic-spanish-orange-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-spanish-orange-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:24:25Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "blanch",
+    "primaryIngredient": "orange blossom water",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "orange",
+    "descriptor": "Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
