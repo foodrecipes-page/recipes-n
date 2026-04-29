@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Dense Australian Beef Kidney Stir-fry",
+  "description": "This low-calorie-friendly stir-fry is perfect for post-workout meals and features tender beef kidneys marinated in a flavorful sauce.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef Kidneys",
+      "amount": "200g"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Scallions (Green), White Parts Only",
+      "amount": "2"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Minced Ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or frying pan over high heat. Add olive oil.",
+    "Slice the scallions into thin strips, and finely chop the garlic cloves.",
+    "Add kidneys to the hot pan, cover with a lid, and cook for about 10 minutes until golden brown on all sides.",
+    "In another bowl, mix together soy sauce, mirin, water, oyster sauce, ginger, sugar, salt, and pepper. Stir well.",
+    "Pour the marinade over the kidneys in the pan, reduce heat to medium-low, cover with a lid again, and let cook for about 10 more minutes until all liquid is absorbed.",
+    "Garnish with chopped scallions before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "dense",
+    "australian",
+    "beef-kidney",
+    "stir-fry",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 26,
+    "carbs": 14,
+    "fat": 7
+  },
+  "slug": "nutty-dense-australian-beef-kidney-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-australian-beef-kidney-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:43:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "marinate",
+    "primaryIngredient": "beef kidney",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Nutty Dense",
+    "dishForm": "Stir-fry"
+  }
+}
