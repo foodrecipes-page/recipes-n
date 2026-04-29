@@ -496,6 +496,19 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-creamy-japanese-corn-stir-fry",
+    "title": "Nutty Creamy Japanese Corn Stir-fry",
+    "tags": [
+      "nutty",
+      "creamy",
+      "japanese",
+      "snack"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-creamy-light-algerian-peanut-stir-fry",
     "title": "Nutty Creamy Light Algerian Peanut Stir-fry",
     "tags": [

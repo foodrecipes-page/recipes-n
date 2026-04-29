@@ -1,0 +1,97 @@
+{
+  "title": "Nutty Creamy Japanese Corn Stir-fry",
+  "description": "A light and creamy Japanese dish featuring corn mixed with high-protein-friendly nuts for a delightful snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "1 cup canned or fresh, drained"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "2 cups fresh, chopped"
+    },
+    {
+      "name": "tofu cubes",
+      "amount": "8 ounces firm tofu, pressed and cubed"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/4 cup smooth peanut butter"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons soy sauce (low sodium)"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon, toasted and crushed"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon ground"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 scallions, sliced thinly"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup, julienned"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add tofu cubes and cook until golden brown on all sides. Remove from pan and set aside.",
+    "In the same pan, add corn, broccoli, ginger, scallions, soy sauce, and sesame oil. Stir-fry for about 2 minutes.",
+    "Return tofu to the pan with vegetables and mix well. Add peanut butter and continue to stir-fry until mixture is heated through and creamy.",
+    "Garnish with toasted sesame seeds and sliced scallions before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nutty",
+    "creamy",
+    "japanese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 371,
+    "protein": 20,
+    "carbs": 43,
+    "fat": 15
+  },
+  "slug": "nutty-creamy-japanese-corn-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-creamy-japanese-corn-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:00:08Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "creamed corn",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Creamed Corn",
+    "descriptor": "Nutty Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
