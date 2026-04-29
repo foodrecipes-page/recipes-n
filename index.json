@@ -223,6 +223,19 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-umami-gooey-tomato-stir-fry",
+    "title": "Nostalgic Umami Gooey Tomato Stir-fry",
+    "tags": [
+      "nostalgic",
+      "umami",
+      "gooyetomato",
+      "nut-free"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nut-free-energizing-queso-fundido",
     "title": "Nut-Free Energizing Queso Fundido",
     "tags": [

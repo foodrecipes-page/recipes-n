@@ -1,0 +1,75 @@
+{
+  "title": "Nostalgic Umami Gooey Tomato Stir-fry",
+  "description": "A nostalgic Syrian dish featuring gooey tomatoes with a touch of black pepper for an umami flavor profile, suitable for nut-free diets.",
+  "cuisine": "Syrian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Use fresh or frozen"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "A few grinds",
+      "notes": "Freshly ground for best flavor"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2-3 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or skillet over medium-high heat.",
+    "Slice the onions and tomatoes into thin pieces.",
+    "In a hot pan, sauté the sliced onions until they turn translucent.",
+    "Add the garlic and stir for about 30 seconds until fragrant but not burnt.",
+    "Season with black pepper. Taste to adjust as needed, then add tomatoes.",
+    "Cook gently on low-medium heat for about 10 minutes, stirring occasionally until the tomatoes are soft and slightly gooey, adding a splash of water if necessary to keep them from sticking.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nostalgic",
+    "umami",
+    "gooyetomato",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 23,
+    "fat": 6
+  },
+  "slug": "nostalgic-umami-gooey-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-umami-gooey-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:06:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "blanch",
+    "primaryIngredient": "black pepper",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Umami Gooey Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
