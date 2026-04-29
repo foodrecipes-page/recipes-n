@@ -1235,6 +1235,19 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-gooey-moroccan-cashew-stir-fry",
+    "title": "Nutty Gooey Moroccan Cashew Stir-fry",
+    "tags": [
+      "nutty",
+      "gooey",
+      "moroccan",
+      "turmeric"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-gooey-moroccan-chicken-stir-fry",
     "title": "Nutty Gooey Moroccan Chicken Stir-fry",
     "tags": [

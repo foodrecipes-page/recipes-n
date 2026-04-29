@@ -1,0 +1,93 @@
+{
+  "title": "Nutty Gooey Moroccan Cashew Stir-fry",
+  "description": "This solo-dinner moroccan dish features a nutty and gooey texture made with turmeric powder and slow-cooked for flavor.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup soaked in water for at least 30 minutes",
+      "notes": "Rinse and pat dry"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "Use full-fat coconut milk for richness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch, peeled and finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes (optional)",
+      "amount": "1/4 tsp",
+      "notes": "For added heat"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add cashews and garlic, cooking until cashews are slightly toasted and fragrant.",
+    "Stir in onion and ginger, sautéing for about 5 minutes until softened.",
+    "Add turmeric powder and chili flakes (if using), stirring to coat all ingredients well.",
+    "Pour in coconut milk, bring to a simmer. Reduce heat to low and let cook for 10-12 minutes, allowing the flavors to meld together.",
+    "Stir occasionally to prevent sticking, until the mixture thickens slightly into a gooey consistency.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "gooey",
+    "moroccan",
+    "turmeric"
+  ],
+  "nutrition": {
+    "calories": 418,
+    "protein": 9,
+    "carbs": 67,
+    "fat": 20
+  },
+  "slug": "nutty-gooey-moroccan-cashew-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-gooey-moroccan-cashew-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:07:22Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "slow-cook",
+    "primaryIngredient": "turmeric powder",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Cashew",
+    "descriptor": "Nutty Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
