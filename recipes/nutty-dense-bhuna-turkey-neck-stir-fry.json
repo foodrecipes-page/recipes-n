@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Dense Bhuna Turkey Neck Stir-fry",
+  "description": "This kid-friendly Turkish dish features gluten-free turkey neck stir-fried with a nutty blend and served as a satisfying dinner option.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey Neck",
+      "amount": "1 piece (about 200g)",
+      "notes": "ensure it is gluten-free"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons",
+      "notes": "preferably a neutral-flavored oil like peanut or canola"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "or fresh tomatoes, chopped"
+    },
+    {
+      "name": "Coriander Seeds",
+      "amount": "1 teaspoon",
+      "notes": "ground to a powder if not already"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional for color and flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro Leaves",
+      "amount": "for garnish",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon (for topping)",
+      "notes": "optional for added texture and crunch"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add chopped onion and minced garlic, stir-fry until softened and fragrant.",
+    "Sprinkle coriander seeds, turmeric powder (if using), and salt into the pan. Stir well to combine with ingredients.",
+    "Dredge the turkey neck in flour lightly and then fry it until golden brown on all sides; this should take about 5-7 minutes per side.",
+    "Reduce heat to medium and add tomato paste, stirring continuously for a few more minutes until slightly thickened.",
+    "Gradually pour in about half of the liquid (water or chicken broth) into the pan. Bring to a simmer and let it cook down, adding remaining liquid if needed to cover turkey neck completely.",
+    "Cover the wok with a lid and continue cooking on low heat for 15-20 minutes until all moisture is absorbed and the dish is fully cooked through.",
+    "Once done, remove from heat, garnish with fresh cilantro leaves, and sprinkle sesame seeds if desired. Serve hot with steamed rice or naan bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nutty-dense",
+    "kid-friendly",
+    "turkish",
+    "bhuna-stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 46,
+    "fat": 16
+  },
+  "slug": "nutty-dense-bhuna-turkey-neck-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-bhuna-turkey-neck-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:44:01Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "turkey neck",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Turkey Neck",
+    "descriptor": "Nutty Dense Bhuna",
+    "dishForm": "Stir-fry"
+  }
+}
