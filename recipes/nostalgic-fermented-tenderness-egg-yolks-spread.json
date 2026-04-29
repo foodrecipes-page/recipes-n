@@ -1,0 +1,66 @@
+{
+  "title": "Nostalgic Fermented Tenderness Egg Yolks Spread",
+  "description": "A gluten-free and nostalgic Moroccan dish featuring tender egg yolks spread on toast. Perfect for a breakfast or snack.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Egg Yolks",
+      "amount": "2",
+      "notes": "Ensure yolks are fermented and tender"
+    },
+    {
+      "name": "Gluten-Free Bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Fermented Herbs (optional)",
+      "amount": "1 tablespoon",
+      "notes": "For added flavor and texture"
+    }
+  ],
+  "instructions": [
+    "Slice the bread into thin pieces.",
+    "Prepare the fermented egg yolks by ensuring they are tender and have a unique, aged flavor.",
+    "Spread the fermented egg yolks evenly on each slice of bread.",
+    "If using, sprinkle the fermented herbs over the spread to enhance flavors."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg",
+    "spread",
+    "fermented",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 18,
+    "carbs": 32,
+    "fat": 14
+  },
+  "slug": "nostalgic-fermented-tenderness-egg-yolks-spread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-fermented-tenderness-egg-yolks-spread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:20:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "egg yolks",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Egg Yolks",
+    "descriptor": "Fermented Tenderness Nostalgic Gluten-Free",
+    "dishForm": "Spread"
+  }
+}
