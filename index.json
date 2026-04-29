@@ -1087,6 +1087,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-gooey-mediterranean-almond-stir-fry",
+    "title": "Nutty Gooey Mediterranean Almond Stir-fry",
+    "tags": [
+      "nutty",
+      "gooey",
+      "mediterranean",
+      "rum",
+      "bhuna"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": null,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-gooey-moroccan-chicken-stir-fry",
     "title": "Nutty Gooey Moroccan Chicken Stir-fry",
     "tags": [

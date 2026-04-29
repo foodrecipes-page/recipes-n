@@ -1,0 +1,105 @@
+{
+  "title": "Nutty Gooey Mediterranean Almond Stir-fry",
+  "description": "A nutty and gooey crowd-pleaser mediterranean dish featuring rum-infused almonds in a bhuna sauce with a low-sodium twist, perfect for adding a festive touch to any meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-calorie",
+    "low-fat",
+    "alcohol-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rum-infused almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil (for stir-frying)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh herbs (thyme, parsley, dill)",
+      "amount": "to taste, roughly chopped"
+    },
+    {
+      "name": "Low-sodium butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Nutritional yeast (optional for additional umami flavor)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the rum-infused almonds in a small pan until they start to caramelize and add a bit of depth of flavor. Remove from heat.",
+    "In a large skillet, warm the vegetable oil over medium-high heat. Add the onion and garlic, sautéing for about 2-3 minutes or until soft and translucent.",
+    "Stir in the red pepper flakes and tomato paste, cooking for an additional minute to soften the ingredients slightly.",
+    "Pour in the low-sodium chicken broth and low-sodium soy sauce, stir well to combine. Bring to a simmer then reduce heat to medium-low and let it cook until thickened, about 10 minutes.",
+    "Gently fold in the rum-infused almonds, stirring until fully coated with the sauce. If desired, sprinkle the nutritional yeast over the mixture for added umami flavor.",
+    "Add the olive oil to the skillet, then add the cooked stir-fry mix and gently toss to combine evenly. Toss in the fresh herbs and serve hot.",
+    "prepTimeMin: 15",
+    "cookTimeMin: 20",
+    "totalTimeMin: 35",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "nutty",
+    "gooey",
+    "mediterranean",
+    "rum",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "nutty-gooey-mediterranean-almond-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-gooey-mediterranean-almond-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:34:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "bhuna",
+    "primaryIngredient": "rum",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Almonds",
+    "descriptor": "Nutty Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
