@@ -1,0 +1,98 @@
+{
+  "title": "Nutty Creamy Quick Fix Korean Pork Stir-fry",
+  "description": "A quick and easy vegetarian-friendly stir-fry that combines creamy nuttiness with savory pork for a delicious meal in no time.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Tenderloin",
+      "amount": "150g"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "30ml"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "20ml"
+    },
+    {
+      "name": "White Pepper Powder",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Tamari (Gluten-Free Soy Sauce)",
+      "amount": "15ml"
+    },
+    {
+      "name": "Shallots",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "20g, finely chopped"
+    },
+    {
+      "name": "Celery Sticks",
+      "amount": "20g, thinly sliced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "15ml (optional for nuttiness)"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "3ml"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add sesame oil and let it melt into the pan. Add shallots, celery, garlic, and red peppers; stir for about 1 minute until fragrant.",
+    "Fold in pork tenderloin, tamari, vegetable broth, white pepper powder, and nutritional yeast (if using). Stir until meat is well coated with marinade.",
+    "Cover and cook for 2-3 minutes. Add chopped nuts of your choice (such as cashews or almonds) to the pan and mix thoroughly.",
+    "Cook uncovered for another minute. Remove from heat and serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty-creamy",
+    "quick-fix",
+    "korean-pork-stir-fry",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 14,
+    "fat": 18
+  },
+  "slug": "nutty-creamy-quick-fix-korean-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-creamy-quick-fix-korean-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:38:14Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "whisk",
+    "primaryIngredient": "pork",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Nutty Creamy Quick Fix",
+    "dishForm": "Stir-fry"
+  }
+}
