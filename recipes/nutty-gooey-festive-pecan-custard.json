@@ -1,0 +1,94 @@
+{
+  "title": "Nutty Gooey Festive Pecan Custard",
+  "description": "A vegan-friendly, nutty and gooey French-inspired dessert that's perfect for any festive occasion.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup almond milk",
+      "amount": "",
+      "notes": "Use a non-dairy alternative if preferred"
+    },
+    {
+      "name": "1/4 cup maple syrup or agave nectar",
+      "amount": "",
+      "notes": "Adjust sweetness to taste"
+    },
+    {
+      "name": "2 tablespoons almond butter (smooth)",
+      "amount": "",
+      "notes": "For added richness and flavor"
+    },
+    {
+      "name": "3 large egg yolks",
+      "amount": "",
+      "notes": "Use vegan egg replacers if needed"
+    },
+    {
+      "name": "1/4 cup unsweetened shredded coconut",
+      "amount": "",
+      "notes": "To add a festive crunch"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": "Enhances the flavors of almond milk and pecans"
+    },
+    {
+      "name": "1 cup raw pecans, chopped finely",
+      "amount": "",
+      "notes": "For added texture and nuttiness"
+    },
+    {
+      "name": "1 tablespoon vanilla extract",
+      "amount": "",
+      "notes": "To deepen the flavor profile"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine almond milk, maple syrup or agave nectar, and almond butter. Heat over medium heat until warm but not boiling.",
+    "In another bowl, whisk together egg yolks with salt. Gradually add the heated almond mixture while continuously whisking to ensure no lumps form.",
+    "Pour half of the custard mixture into a glass dish. Sprinkle finely chopped pecans evenly on top of the custard. Pour the remaining custard over the pecans.",
+    "Transfer the prepared dish to a preheated oven at 325°F (160°C) for about 45 minutes until set and golden brown.",
+    "Allow to cool slightly before serving. Garnish with additional chopped pecans or coconut if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "dessert",
+    "vegan",
+    "nutty",
+    "gooey"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 5.9,
+    "carbs": 31,
+    "fat": 10
+  },
+  "slug": "nutty-gooey-festive-pecan-custard",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-gooey-festive-pecan-custard",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:35:13Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "deglaze",
+    "primaryIngredient": "custard",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "pecans",
+    "descriptor": "Nutty Gooey Festive",
+    "dishForm": "Pudding"
+  }
+}

@@ -1181,6 +1181,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-gooey-festive-pecan-custard",
+    "title": "Nutty Gooey Festive Pecan Custard",
+    "tags": [
+      "festive",
+      "dessert",
+      "vegan",
+      "nutty",
+      "gooey"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-gooey-mediterranean-almond-stir-fry",
     "title": "Nutty Gooey Mediterranean Almond Stir-fry",
     "tags": [
