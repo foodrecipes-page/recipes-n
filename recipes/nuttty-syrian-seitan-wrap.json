@@ -1,0 +1,77 @@
+{
+  "title": "Nuttty Syrian Seitan Wrap",
+  "description": "A light and adventurous Syrian dish featuring a crispy seitan wrap with a nutty flavor, reminiscent of fish but plant-based friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "200g Seitan",
+      "amount": "1 cup"
+    },
+    {
+      "name": "1/4 cup Sesame seeds",
+      "amount": ""
+    },
+    {
+      "name": "1/3 cup Sunflower seeds",
+      "amount": ""
+    },
+    {
+      "name": "Pinch Nutmeg",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons Olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Combine seitan with sesame seeds, sunflower seeds, nutmeg, olive oil, salt, and pepper in a mixing bowl. Mix well.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper and spread it out evenly into a thin layer.",
+    "Bake for 20 minutes or until golden brown.",
+    "Serve hot as a wrap with your favorite spreads and veggies."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "adventurous",
+    "syrian",
+    "fish-inspired"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "nuttty-syrian-seitan-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nuttty-syrian-seitan-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:25:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "bake",
+    "primaryIngredient": "fish",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Seitan",
+    "descriptor": "Nuttty",
+    "dishForm": "Wrap"
+  }
+}
