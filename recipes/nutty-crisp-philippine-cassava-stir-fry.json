@@ -1,0 +1,80 @@
+{
+  "title": "Nutty Crisp Philippine Cassava Stir-fry",
+  "description": "A diabetic-friendly Filipino dish featuring crispy cassava with a nutty twist, made in one pot for a quick and easy dinner option.",
+  "cuisine": "Philippine",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cassava",
+      "amount": "1 medium piece"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Red bell pepper slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tahini sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Cut cassava into thin slices, about ¼ inch thick.",
+    "Season both sides of the cassava with salt and pepper.",
+    "Mix tahini sauce with a little water until smooth.",
+    "Place cassava slices on a baking sheet lined with parchment paper. Drizzle with some oil and brush evenly across all slices.",
+    "Bake for 20-25 minutes or until golden brown and crispy.",
+    "While cassava is baking, sauté garlic in a little bit of oil until fragrant, about 1 minute.",
+    "Add red bell pepper to the pan and cook for another 3-4 minutes until slightly softened.",
+    "Combine baked cassava with sautéed vegetables and tahini sauce. Mix well.",
+    "Sprinkle sesame seeds over the top just before serving.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crisp",
+    "one-pot",
+    "filipino",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 9
+  },
+  "slug": "nutty-crisp-philippine-cassava-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crisp-philippine-cassava-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:15:52Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "cassaba",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Philippine",
+    "mainIngredient": "Cassava",
+    "descriptor": "Nutty Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
