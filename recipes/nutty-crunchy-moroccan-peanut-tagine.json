@@ -1,0 +1,100 @@
+{
+  "title": "Nutty, Crunchy Moroccan Peanut Tagine",
+  "description": "A nutty and crunchy crowd-pleaser Moroccan dish featuring plum tomatoes with a low-carb twist.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cure (for optional smoking)",
+      "amount": "a few slices",
+      "notes": "Use hickory or mesquite for added smokiness."
+    },
+    {
+      "name": "Plum tomatoes",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Oregano",
+      "amount": "a few fresh leaves, chopped"
+    },
+    {
+      "name": "Thyme",
+      "amount": "a few fresh sprigs"
+    },
+    {
+      "name": "Crushed red pepper flakes (optional)",
+      "amount": "1/8 to 1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). If using cure, smoke the peanut butter and water mixture for about 1 hour.",
+    "In a skillet, toast the peanuts over medium heat until fragrant and lightly golden. Set aside.",
+    "Combine peanut butter, water, chopped onion, garlic, paprika, oregano, thyme, and red pepper flakes in a saucepan. Heat gently and stir until smooth.",
+    "Add plum tomatoes (undrained) to the mixture and simmer for about 10 minutes or until the liquid has evaporated slightly.",
+    "Gently fold in toasted peanuts and chopped cured meat if using. Simmer again for another 5-7 minutes, stirring occasionally.",
+    "Serve hot as a side dish with couscous or a whole grain bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "nutty",
+    "crunchy",
+    "plum-tomato",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 236,
+    "protein": 10,
+    "carbs": 8,
+    "fat": 10
+  },
+  "slug": "nutty-crunchy-moroccan-peanut-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crunchy-moroccan-peanut-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:49:44Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "cure",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "peanuts",
+    "descriptor": "Nutty, Crunchy",
+    "dishForm": "Tagine"
+  }
+}
