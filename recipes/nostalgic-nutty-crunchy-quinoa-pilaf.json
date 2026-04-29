@@ -1,0 +1,76 @@
+{
+  "title": "Nostalgic Nutty Crunchy Quinoa Pilaf",
+  "description": "A diabetic-friendly nostalgic polish dish featuring quinoa that is nutty and crunchy, perfect for a quick breakfast or snack.",
+  "cuisine": "Polish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup chopped walnuts",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup unsalted cashews",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup dried cranberries",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tbsp honey or stevia sweetener (optional)",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water.",
+    "Bring water to a boil in a medium saucepan, add quinoa and reduce heat. Cover and simmer for about 15 minutes until water is absorbed.",
+    "Remove from heat, fluff with a fork, then let sit for 5 minutes before serving.",
+    "In a separate pan, toast walnuts and cashews on low-medium heat until golden brown, stirring frequently to prevent burning. Add cranberries and honey or sweetener if using, tossing gently until coated.",
+    "Fold in toasted nuts and dried cranberries into the quinoa pilaf, garnish with extra walnuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "nutty",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 5
+  },
+  "slug": "nostalgic-nutty-crunchy-quinoa-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-nutty-crunchy-quinoa-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:09:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "quinoa",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "quinoa",
+    "descriptor": "nutty crunchy nostalgic",
+    "dishForm": "pilaf"
+  }
+}
