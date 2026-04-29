@@ -1518,6 +1518,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-tender-ethiopian-peanut-stir-fry",
+    "title": "Nutty Tender Ethiopian Peanut Stir-fry",
+    "tags": [
+      "nutty",
+      "tender",
+      "ethiopian",
+      "mint",
+      "stir-fry",
+      "pescatarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-tender-turkish-beetroot-stir-fry",
     "title": "Nutty Tender Turkish Beetroot Stir-fry",
     "tags": [

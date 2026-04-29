@@ -1,0 +1,89 @@
+{
+  "title": "Nutty Tender Ethiopian Peanut Stir-fry",
+  "description": "A vibrant brunch dish that combines tender peanut pieces with aromatic mint for a refreshing and nutty flavor profile suitable for pescatarian meals.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "1 medium (sliced)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large (finely chopped)"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves (minced)"
+    },
+    {
+      "name": "Peanut Sauce Mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Baking Soda",
+      "amount": "1/4 teaspoon (for tenderizing peanuts)"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add chopped onion and cook until translucent, about 3 minutes.",
+    "Toss in minced garlic and green peppers for another minute until slightly softened.",
+    "Sprinkle baking soda evenly over the vegetables to tenderize them further. Let sit for 2-3 minutes before stirring gently again with a spatula.",
+    "Stir in peanut sauce mix, cooking for an additional 1 minute while mixing everything together well.",
+    "Fold in mint leaves and stir until they wilt slightly, about 30 seconds more.",
+    "Remove from heat immediately to avoid overcooking the vegetables. Serve hot as a side dish or over a bed of rice."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "tender",
+    "ethiopian",
+    "mint",
+    "stir-fry",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "nutty-tender-ethiopian-peanut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tender-ethiopian-peanut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:31:19Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "mint",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "peanut",
+    "descriptor": "Nutty Tender",
+    "dishForm": "Stir-fry"
+  }
+}
