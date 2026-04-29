@@ -1,0 +1,93 @@
+{
+  "title": "Nutty Crispy Turkish Leek Stir-fry",
+  "description": "This show-off turkish dish features leeks roasted to a crispy texture and paired with nuttiness for a delicious pescatarian-friendly meal.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Leek",
+      "amount": "2",
+      "notes": "Washed and sliced"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "4-5",
+      "notes": "Minced for added flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": "Roasted and chopped finely"
+    },
+    {
+      "name": "Cumin Seed",
+      "amount": "1 teaspoon",
+      "notes": "Grated for added aroma"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Red Chili Flakes (Optional)",
+      "amount": "A pinch",
+      "notes": "For extra heat, optional"
+    },
+    {
+      "name": "Turkish Red Pepper Paste",
+      "amount": "2 tablespoons",
+      "notes": "Can be substituted with store-bought tomato paste for a smoother texture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C). Slice leeks and rinse under cold water.",
+    "Combine sliced leek, minced garlic, olive oil, salt, cumin seed, and red chili flakes in a bowl. Toss gently until evenly coated.",
+    "Place the leek mixture on a baking sheet lined with parchment paper. Roast for 20-25 minutes or until crispy and golden brown, shaking pan occasionally to ensure even browning.",
+    "While leeks are roasting, prepare a small sauce by mixing Turkish Red Pepper Paste into olive oil in a separate bowl until smooth.",
+    "In the last 10 minutes of leek cooking time, add chopped pistachios to the baking sheet. Toss gently to mix and ensure even roasting.",
+    "Once the leeks are done, remove them from oven. Immediately stir in the red pepper paste sauce, allowing it to meld with the leeks and pistachios for 2-3 minutes.",
+    "Serve hot as a side dish or main course, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "stir-fry",
+    "leek",
+    "nutty",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "nutty-crispy-turkish-leek-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-turkish-leek-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:31:33Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "roast",
+    "primaryIngredient": "leek",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Leek",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Stir-fry"
+  }
+}

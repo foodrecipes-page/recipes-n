@@ -692,6 +692,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crispy-turkish-leek-stir-fry",
+    "title": "Nutty Crispy Turkish Leek Stir-fry",
+    "tags": [
+      "turkish",
+      "stir-fry",
+      "leek",
+      "nutty",
+      "crispy"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 65,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-crispy-venezuelan-freekeh-stir-fry",
     "title": "Nutty Crispy Venezuelan Freekeh Stir-fry",
     "tags": [
