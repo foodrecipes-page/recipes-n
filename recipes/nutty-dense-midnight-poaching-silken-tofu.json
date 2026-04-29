@@ -1,0 +1,102 @@
+{
+  "title": "Nutty Dense Midnight Poaching Silken Tofu",
+  "description": "A savory and creamy midnight poaching dish featuring silken tofu as the main ingredient, enhanced with a blend of nuttiness to complement its rich texture.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Silken Tofu",
+      "amount": "1 block (about 200g)",
+      "notes": "preferably firm silken tofu"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "6 tablespoons",
+      "notes": "full-fat for best results"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "3 tablespoons, roughly chopped",
+      "notes": "for added crunch and nuttiness"
+    },
+    {
+      "name": "Almonds",
+      "amount": "2 tablespoons, roughly chopped",
+      "notes": "optional, adds a touch of almonds to the dish for balance"
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "amount": "2 tablespoons, roughly chopped",
+      "notes": "for additional crunch and nuttiness"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove",
+      "notes": "optional, can be omitted if not preferred"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "use low sodium for a healthier option"
+    },
+    {
+      "name": "Shrimp Paste (Bakso)",
+      "amount": "1 teaspoon",
+      "notes": "for vegetarian and pescatarian versions, can be omitted if not using shrimp paste"
+    },
+    {
+      "name": "Chili Powder or Cayenne Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional, for added heat if desired"
+    }
+  ],
+  "instructions": [
+    "Blend 6 tablespoons of coconut milk with the minced garlic (if using) and soy sauce in a small bowl. Mix well to ensure smoothness.",
+    "Gently fold in approximately 3 tablespoons of chopped walnuts into the blended coconut milk mixture until evenly distributed.",
+    "Add another 2 tablespoons of chopped almonds if desired, continuing to mix thoroughly without overworking the mixture.",
+    "Finally, add 2 tablespoons of chopped pumpkin seeds and mix well with the other ingredients. Ensure everything is fully incorporated before proceeding.",
+    "Prepare a pot of water for poaching by bringing it to a boil on high heat. Reduce heat slightly once boiling to maintain a gentle simmer.",
+    "Place your silken tofu in the poaching liquid, ensuring all sides are submerged and that the edges don't touch any other ingredients or utensils inside the pot (to prevent them from sticking).",
+    "Lower the temperature further if necessary to keep the tofu just below the surface of the water. Let it simmer for approximately 15 minutes.",
+    "Once cooked, gently lift out the poached silken tofu with a slotted spoon and place it on paper towels or a clean plate to drain off any excess liquid.",
+    "Serve immediately as an accompaniment to your main meal, or enjoy on its own as a refreshing palate cleanser. Optionally garnish with extra chopped nuts for added visual appeal and texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "dense",
+    "midnight",
+    "poaching",
+    "silken tofu",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 9
+  },
+  "slug": "nutty-dense-midnight-poaching-silken-tofu",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-midnight-poaching-silken-tofu",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:04:10Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "silken tofu",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Silken Tofu",
+    "descriptor": "Nutty Dense Midnight",
+    "dishForm": "Poaching"
+  }
+}
