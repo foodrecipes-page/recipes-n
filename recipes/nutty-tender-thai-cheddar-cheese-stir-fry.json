@@ -1,0 +1,96 @@
+{
+  "title": "Nutty Tender Thai Cheddar Cheese Stir-fry",
+  "description": "This comforting Thai dish features a tender stir-fry with nuttiness from almonds and cashews, combined with creamy cheddar cheese for a high-protein-friendly meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 cup sliced almonds",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup cashews, chopped",
+      "amount": "cup"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "2 bell peppers, any color, chopped",
+      "amount": "piece each"
+    },
+    {
+      "name": "1 cup shredded cheddar cheese",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 tsp red curry paste",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp soy sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 cup chicken or tofu, cubed (optional)",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add sliced almonds and cashews to the pan; stir until lightly toasted, about 2 minutes.",
+    "Add minced garlic and sauté for an additional minute until fragrant.",
+    "Add cubed chicken or tofu if using, and continue to cook for another minute to sear.",
+    "Stir in bell peppers, red curry paste, soy sauce, salt, and pepper. Cook for about 5 minutes more, stirring occasionally.",
+    "Sprinkle shredded cheddar cheese evenly over the top of the vegetables and stir until cheese is melted and bubbly.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "tender",
+    "thai",
+    "chickenless",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "nutty-tender-thai-cheddar-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tender-thai-cheddar-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T11:52:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "slow-cook",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Cheddar Cheese",
+    "descriptor": "Nutty Tender",
+    "dishForm": "Stir-fry"
+  }
+}

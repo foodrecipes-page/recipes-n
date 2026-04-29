@@ -1656,6 +1656,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-tender-thai-cheddar-cheese-stir-fry",
+    "title": "Nutty Tender Thai Cheddar Cheese Stir-fry",
+    "tags": [
+      "nutty",
+      "tender",
+      "thai",
+      "chickenless",
+      "high-protein-friendly"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-tender-turkish-beetroot-stir-fry",
     "title": "Nutty Tender Turkish Beetroot Stir-fry",
     "tags": [
