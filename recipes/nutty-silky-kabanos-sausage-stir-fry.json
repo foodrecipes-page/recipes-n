@@ -1,0 +1,82 @@
+{
+  "title": "Nutty Silky Kabanos Sausage Stir-fry",
+  "description": "A low-sodium-friendly, hearty dish that combines the nuttiness of kabanos sausages with a silky texture to make a comforting sick-day meal.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kabanos sausages",
+      "amount": "200 grams",
+      "notes": "Use low-sodium variety"
+    },
+    {
+      "name": "Green onions",
+      "amount": "5-6 pieces",
+      "notes": "Chiffonade finely for extra flavor and texture"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Low sodium if needed"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 pieces",
+      "notes": "Crush lightly to release oils"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, for extra heat and depth of flavor"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1 tablespoon",
+      "notes": "For garnish, add at the end to preserve color and texture"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat. Add sausages in a single layer and cook until they're golden brown and heated through.",
+    "Add finely chopped green onions, garlic, and red pepper flakes (if using). Stir-fry for about 1-2 minutes to allow the flavors to meld together.",
+    "Season with soy sauce according to taste. If you prefer no additional salt, reduce or omit if necessary.",
+    "Stir gently until everything is well combined and heated evenly. Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh cilantro leaves. Enjoy your Nutty Silky Kabanos Sausage Stir-fry on a sick day or any time you're in need of comfort food."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "silky",
+    "sick-day",
+    "tunisian",
+    "kabanos-sausages"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 9
+  },
+  "slug": "nutty-silky-kabanos-sausage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-silky-kabanos-sausage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:00:40Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "knead",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Kabanos sausages",
+    "descriptor": "Nutty Silky",
+    "dishForm": "Stir-fry"
+  }
+}
