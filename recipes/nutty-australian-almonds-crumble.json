@@ -1,0 +1,76 @@
+{
+  "title": "Nutty Australian Almonds Crumble",
+  "description": "A cozy Australian dessert featuring crunchy almond crumbles with melted white chocolate chips, served warm with a drizzle of honey. Perfect for sweet cravings with a nutty twist.",
+  "cuisine": "australian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "150g",
+      "notes": "raw, unsalted"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "100g",
+      ": ": ", "
+    },
+    {
+      "name": "honey",
+      "amount": "15ml",
+      "notes": "pure, raw"
+    },
+    {
+      "name": "tandoor",
+      "amount": "50g",
+      "notes": "dried, crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a bowl, mix almonds and tandoor until evenly combined.",
+    "Add white chocolate chips and honey, stirring until well coated.",
+    "Press mixture into a greased 200ml baking dish.",
+    "Bake for 15 minutes until golden and crisp.",
+    "Cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "dessert",
+    "almonds",
+    "crumble",
+    "nutty",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "nutty-australian-almonds-crumble",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-australian-almonds-crumble",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:37:08Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "tandoor",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "almonds",
+    "descriptor": "Nutty",
+    "dishForm": "Crumble"
+  }
+}
