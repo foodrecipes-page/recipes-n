@@ -1763,6 +1763,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-light-indian-chicken-frittata",
+    "title": "Nutty Light Indian Chicken Frittata",
+    "tags": [
+      "indian",
+      "breakfast",
+      "low-carb",
+      "gluten-free",
+      "nutty",
+      "light"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-light-middle-eastern-mushrooms-stir-fry",
     "title": "Nutty Light Middle Eastern Mushrooms Stir-fry",
     "tags": [

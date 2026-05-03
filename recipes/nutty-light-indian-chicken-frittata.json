@@ -1,0 +1,116 @@
+{
+  "title": "Nutty Light Indian Chicken Frittata",
+  "description": "A flavorful and nutritious breakfast dish featuring caramelized onions, crunchy almonds, and spicy green chillies.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Large eggs",
+      "amount": "6",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Green chilli",
+      "amount": "2",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Almond meal",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Grated cheddar cheese (optional)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, melt 1 tbsp of butter over medium heat. Add the sliced onions and cook until caramelized, stirring occasionally (10-12 minutes).",
+    "Add the chopped green chillies and cook for 1 minute.",
+    "Add the sliced chicken and cook until browned and cooked through (5-6 minutes).",
+    "In a large bowl, whisk together eggs, almond meal, garam masala, salt, and black pepper.",
+    "Add the cooked chicken and onion mixture to the bowl and stir to combine.",
+    "Heat the remaining 1 tbsp of butter in a 9-inch oven-safe skillet over medium heat.",
+    "Pour the egg mixture into the skillet and cook until the edges start to set (2-3 minutes).",
+    "Transfer the skillet to the preheated oven and bake until the frittata is set and golden brown (10-12 minutes).",
+    "Remove the skillet from the oven and sprinkle with grated cheddar cheese (if using).",
+    "Return the skillet to the oven and bake until the cheese is melted and bubbly (2-3 minutes).",
+    "Remove the skillet from the oven and sprinkle with chopped cilantro. Let the frittata rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "breakfast",
+    "low-carb",
+    "gluten-free",
+    "nutty",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "nutty-light-indian-chicken-frittata",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-light-indian-chicken-frittata",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:08:11Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "green chilli",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "nutty light",
+    "dishForm": "Frittata"
+  }
+}
