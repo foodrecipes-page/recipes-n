@@ -1,0 +1,122 @@
+{
+  "title": "Nutty Jamaican Peanuts Stew",
+  "description": "A dense, nutty stew packed with suet, black beans, and roasted peanuts, simmered to perfection with traditional Jamaican spices for a hearty meal-prep dish.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef suet",
+      "amount": "50 g",
+      "notes": "cut into 1 cm cubes"
+    },
+    {
+      "name": "Raw peanuts",
+      "amount": "200 g",
+      "notes": "roasted, unsalted"
+    },
+    {
+      "name": "Dry black beans",
+      "amount": "150 g",
+      "notes": "soaked overnight, drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Potato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Scotch bonnet pepper",
+      "amount": "1",
+      "notes": "deseeded, finely minced"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "Allspice (pimento)",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 tsp",
+      "notes": "washed"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp",
+      "notes": "smooth"
+    },
+    {
+      "name": "Low‑sodium vegetable broth",
+      "amount": "1 L",
+      "notes": "for simmering"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add the beef suet. Brown the suet for 5–7 minutes until it develops a deep brown color and releases fat; this step takes place at about 160 °C.",
+    "Add the diced onion, minced garlic, carrot, and potato to the pot. Sauté for 3–4 minutes until the vegetables start to soften.",
+    "Stir in the minced scotch bonnet pepper, dried thyme, allspice, and curry powder. Cook for 1–2 minutes until fragrant.",
+    "Add the cooked black beans and roasted peanuts, stirring to combine. Pour in the vegetable broth, bring to a gentle boil, then reduce heat to maintain a steady simmer around 95–100 °C.",
+    "Cover the pot and simmer for 60 minutes, stirring occasionally. The broth should thicken slightly and the beans and vegetables should be tender.",
+    "Taste and season with salt and freshly ground black pepper as desired.",
+    "Let the stew rest in the pot for 5 minutes before serving. The dish can be portioned into airtight containers for meal prep and stored in the refrigerator for up to 4 days or frozen for longer storage."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "nutty",
+    "stew",
+    "meal-prep",
+    "dairy-free",
+    "peanut-stew"
+  ],
+  "nutrition": {
+    "calories": 562,
+    "protein": 22,
+    "carbs": 44,
+    "fat": 36
+  },
+  "slug": "nutty-jamaican-peanuts-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-jamaican-peanuts-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:41:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "suet",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Peanuts",
+    "descriptor": "Nutty",
+    "dishForm": "Stew"
+  }
+}
