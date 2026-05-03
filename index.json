@@ -1663,6 +1663,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-herbal-greek-walnuts-stew",
+    "title": "Nutty Herbal Greek Walnuts Stew",
+    "tags": [
+      "vegetarian",
+      "herbal",
+      "high-protein",
+      "greek",
+      "stew",
+      "nutty"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-italian-dumplings-stir-fry",
     "title": "Nutty Italian Dumplings Stir-fry",
     "tags": [

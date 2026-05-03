@@ -1,0 +1,127 @@
+{
+  "title": "Nutty Herbal Greek Walnuts Stew",
+  "description": "A hearty, protein-rich Greek-inspired stew featuring lentils, chickpeas, and crunchy walnuts, seasoned with a bhuna of aromatic herbs and spices for depth and comfort.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cooked lentils",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and minced garlic, and sauté until the onion turns translucent and edges start to brown, creating a bhuna.",
+    "Stir in cumin, coriander, oregano, thyme, and bay leaf; cook for 1–2 minutes until fragrant.",
+    "Add the tomato paste and cook, stirring constantly, until it darkens slightly and loses its raw taste, about 3 minutes.",
+    "Pour in the vegetable broth, then add the cooked lentils and chickpeas; bring the mixture to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes, allowing flavors to meld.",
+    "Add the chopped walnuts, stir well, and simmer uncovered for an additional 5 minutes so the nuts soften slightly.",
+    "Season the stew with salt and pepper to taste; remove the bay leaf.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "herbal",
+    "high-protein",
+    "greek",
+    "stew",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "nutty-herbal-greek-walnuts-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-herbal-greek-walnuts-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:47:31Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "bhuna",
+    "primaryIngredient": "walnuts",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Walnuts",
+    "descriptor": "Nutty Herbal",
+    "dishForm": "Stew"
+  }
+}
