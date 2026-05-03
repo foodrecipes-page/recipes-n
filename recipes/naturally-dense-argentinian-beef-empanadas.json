@@ -1,0 +1,99 @@
+{
+  "title": "Naturally Dense Argentinian Beef Empanadas",
+  "description": "Indulgent argentinian dish featuring red chilli powder, agemono-deep-fry, and low-carb-friendly ingredients, served in individual mini cocottes.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the coconut oil over medium high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the red chilli powder, salt, black pepper, and paprika to the skillet and stir to combine.",
+    "In a large bowl, whisk together the almond flour and eggs.",
+    "Add the cooked beef mixture to the bowl and stir until a dough forms.",
+    "Divide the dough into 12 equal pieces and shape each into a ball.",
+    "Flatten each ball into a disk shape and place into individual mini cocottes.",
+    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-based",
+    "gluten-free",
+    "indulgent",
+    "low-carb",
+    "mini-cocotte"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "naturally-dense-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-dense-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:56:35Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "red chilli powder",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Naturally Dense",
+    "dishForm": "Empanadas"
+  }
+}
