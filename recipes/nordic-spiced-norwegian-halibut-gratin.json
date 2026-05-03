@@ -1,0 +1,112 @@
+{
+  "title": "Nordic Spiced Norwegian Halibut Gratin",
+  "description": "A rich and dense Norwegian dish featuring cloves, served with a low-calorie-friendly brine-wet sauce.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian halibut fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, 6 ounces each"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "Softened"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "cloves",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "Dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Himalayan pink salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "brine liquid",
+      "amount": "1 cup",
+      "notes": "Low-sodium store-bought or homemade"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": "Low-fat or non-fat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C) with the rack in the lower third position.",
+    "Line a baking sheet with parchment paper and dust with flour.",
+    "Place halibut fillets on the prepared baking sheet, leaving space between each fillet.",
+    "In a medium bowl, whisk together flour, butter, onion, cloves, thyme, salt, and pepper to form a paste.",
+    "Spread the paste evenly over each halibut fillet, leaving a 1-inch border around the edges.",
+    "Bake for 8 minutes or until the edges are lightly browned and the fish is cooked to your liking.",
+    "While the fish is baking, whisk together brine liquid and milk in a small saucepan.",
+    "Bring the mixture to a simmer over medium heat and cook for 5 minutes or until slightly thickened.",
+    "Remove the fish from the oven and carefully place it on top of a baking dish.",
+    "Pour the brine sauce over the fish and return to the oven for an additional 5 minutes or until heated through.",
+    "Remove from the oven and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 13,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-calorie",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 54,
+    "carbs": 4,
+    "fat": 10
+  },
+  "slug": "nordic-spiced-norwegian-halibut-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nordic-spiced-norwegian-halibut-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:44:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "brine-wet",
+    "primaryIngredient": "cloves",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Halibut",
+    "descriptor": "Nordic Spiced",
+    "dishForm": "Gratin"
+  }
+}
