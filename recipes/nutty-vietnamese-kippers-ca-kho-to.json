@@ -1,0 +1,126 @@
+{
+  "title": "Nutty Vietnamese Kippers Ca Kho To",
+  "description": "A smoky, nutty Vietnamese stew featuring kippers simmered with caramel sauce, spices, and blanched greens, perfect for a date night.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kippers",
+      "amount": "200g",
+      "notes": "smoked herring"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "50g",
+      "notes": "pre-made"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "15ml"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "10g"
+    },
+    {
+      "name": "rice wine",
+      "amount": "15ml"
+    },
+    {
+      "name": "lemongrass stalk",
+      "amount": "1",
+      "notes": "bruised"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "3"
+    },
+    {
+      "name": "sliced ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "scallions",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "toasted cashews",
+      "amount": "30g"
+    },
+    {
+      "name": "namul-blanch-seasoned spinach",
+      "amount": "100g",
+      "notes": "blanched spinach seasoned with sesame oil, salt, and garlic"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "10g"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a copper pot, combine the kippers, water, fish sauce, soy sauce, rice wine, and lemongrass, and bring to a gentle simmer.",
+    "Add the caramel sauce, brown sugar, and sliced ginger, stirring until the mixture is glossy and the sugar dissolves.",
+    "Sprinkle the kaffir lime leaves and minced garlic into the pot, then cover and let the stew gently bubble for 10 minutes to infuse the aromatics.",
+    "Remove the lid, reduce the heat to low, and simmer uncovered for an additional 10 minutes until the sauce thickens slightly and the kippers are tender.",
+    "Stir in the namul-blanch-seasoned spinach, toasted cashews, and chopped cilantro, cooking for 2 minutes just until the greens warm.",
+    "Transfer the stew to a serving dish, garnish with sliced scallions and a pinch of chili flakes, and serve hot straight from the copper pot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "ca-kho-to",
+    "copper-pot",
+    "date-night",
+    "nutty",
+    "quick",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 20,
+    "carbs": 31,
+    "fat": 18
+  },
+  "slug": "nutty-vietnamese-kippers-ca-kho-to",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-vietnamese-kippers-ca-kho-to",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:57:23Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "kippers",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Kippers",
+    "descriptor": "Nutty",
+    "dishForm": "Ca Kho To"
+  }
+}

@@ -2847,5 +2847,20 @@
     "cuisine": "Syrian",
     "totalTimeMin": null,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-vietnamese-kippers-ca-kho-to",
+    "title": "Nutty Vietnamese Kippers Ca Kho To",
+    "tags": [
+      "ca-kho-to",
+      "copper-pot",
+      "date-night",
+      "nutty",
+      "quick",
+      "seafood"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]
