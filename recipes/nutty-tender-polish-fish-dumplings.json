@@ -1,0 +1,85 @@
+{
+  "title": "Nutty Tender Polish Fish Dumplings",
+  "description": "Cozy, creamy dumplings with a nutty almond base and fragrant massaman curry, perfect for a lazy Sunday lunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "200 g",
+      "notes": "flaked"
+    },
+    {
+      "name": "almond butter",
+      "amount": "80 g (1/3 cup)",
+      "notes": "ground into a smooth paste"
+    },
+    {
+      "name": "massaman curry paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup (120 g)"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low‑sodium if desired"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "warmed"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine the flaked cod, massaman curry paste, salt, pepper, and soy sauce; mix until the fish is thoroughly coated.",
+    "In a separate bowl whisk the egg, then add the rice flour, almond butter, warmed sesame oil, and chopped cilantro; fold until a smooth, thick batter forms—add a splash of water if it’s too dense.",
+    "Gently fold the fish mixture into the batter, ensuring an even distribution of fish throughout.",
+    "Heat a non‑stick skillet over medium heat and lightly oil with a neutral oil.",
+    "Drop spoonfuls of the batter onto the skillet, forming 3 cm rounds; let them cook 3‑4 minutes until the edges set and the bottom turns golden.",
+    "Carefully flip each dumpling and cook another 3‑4 minutes until cooked through and the interior is opaque.",
+    "Transfer the dumplings to a plate lined with paper towels to absorb excess oil.",
+    "Optionally, drizzle with a squeeze of lime juice and garnish with extra cilantro.",
+    "Serve hot for a comforting, nutty fish dumpling experience."
+  ],
+  "slug": "nutty-tender-polish-fish-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tender-polish-fish-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:10:39Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "knead",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "fish",
+    "descriptor": "Nutty Tender",
+    "dishForm": "Dumplings"
+  }
+}
