@@ -1,0 +1,120 @@
+{
+  "title": "Nourishing Arabian Eggplant Tagine",
+  "description": "A winey, velvety tagine that melds tender eggplant and peas in a fragrant, Mediterranean-friendly sauce, perfect for meal prep.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "300 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "peas",
+      "amount": "200 g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato passata",
+      "amount": "200 ml",
+      "notes": ""
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "300 ml",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "seasoning",
+      "amount": "1 tsp",
+      "notes": "salt & pepper to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a heavy-bottom pot over medium heat until shimmering.",
+    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "Add the sliced eggplant, peas, tomato passata, and ground spices, stirring to coat the vegetables.",
+    "Pour in the vegetable stock, bring the mixture to a gentle boil, then reduce heat to low.",
+    "Cover the pot and simmer for 25 minutes, stirring occasionally, until the eggplant is tender and the sauce thickens.",
+    "Season with salt and pepper, adjusting to taste, and let the tagine rest uncovered for 5 minutes.",
+    "Sprinkle chopped cilantro over the top before serving to add freshness.",
+    "Optionally, drizzle a little extra olive oil or a splash of wine for a winey finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arabian",
+    "gluten-free",
+    "meal-prep",
+    "tagine",
+    "vegetarian",
+    "winter-warm"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "nourishing-arabian-eggplant-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-arabian-eggplant-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:59:18Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "pea-eggplant",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Nourishing",
+    "dishForm": "Tagine"
+  }
+}
