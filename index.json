@@ -1742,6 +1742,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-tender-kenyan-rainbow-trout-stew",
+    "title": "Nutty Tender Kenyan Rainbow Trout Stew",
+    "tags": [
+      "nutty-dish",
+      "rainbow-trout",
+      "diabetic-friendly",
+      "kenyan",
+      "stew"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-tender-thai-cheddar-cheese-stir-fry",
     "title": "Nutty Tender Thai Cheddar Cheese Stir-fry",
     "tags": [

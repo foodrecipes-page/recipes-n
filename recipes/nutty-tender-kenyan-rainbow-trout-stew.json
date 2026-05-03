@@ -1,0 +1,113 @@
+{
+  "title": "Nutty Tender Kenyan Rainbow Trout Stew",
+  "description": "A silky, nut-infused stew featuring tender rainbow trout, sautéed veggies, and wholesome flax seeds, crafted to energize and satisfy even those mindful of blood sugar.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "diabetic-friendly",
+    "nut-containing"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rainbow trout fillets",
+      "amount": "800g",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Kale",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Low‑sodium fish stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Light coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground flaxseeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Spice blend (smoked paprika, cumin, curry powder)",
+      "amount": "2 tsp each"
+    }
+  ],
+  "instructions": [
+    "Bring fish stock to a gentle simmer in a medium pot.",
+    "Heat olive oil over medium heat, add diced onion and sauté until translucent, about 3 minutes.",
+    "Add minced garlic, diced bell pepper, and sliced mushrooms; cook, stirring, for another 4 minutes until vegetables soften.",
+    "Stir in chopped kale and cook until just wilted, about 2 minutes.",
+    "Pour in fish stock, coconut milk, and sprinkle the spice blend; bring the mixture to a low simmer and let it thicken slightly, about 5 minutes.",
+    "Gently slide the trout fillets into the pot, cover, and cook on low heat for 5–7 minutes, until the fish is opaque and flakes easily.",
+    "Remove the pot from heat and whisk in almond butter and flaxseeds; the butter will melt and coat the stew, adding a nutty richness.",
+    "Taste and season with salt and pepper to your liking; if desired, stir in a splash of fresh lime juice.",
+    "Ladle the stew over a bed of sautéed greens, garnish with chopped fresh coriander, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nutty-dish",
+    "rainbow-trout",
+    "diabetic-friendly",
+    "kenyan",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "nutty-tender-kenyan-rainbow-trout-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tender-kenyan-rainbow-trout-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:59:01Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "fry",
+    "primaryIngredient": "rainbow trout",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Rainbow Trout",
+    "descriptor": "Nutty Tender",
+    "dishForm": "Stew"
+  }
+}
