@@ -1,0 +1,108 @@
+{
+  "title": "Nutty Chewy Argentinian Coconut Empanadas",
+  "description": "Light, nutty empanadas with a chewy oat‑almond crust, flavored with cumin and paprika and baked to a golden finish.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "50g"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "25g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "coconut oil, melted",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "small onion, finely chopped",
+      "amount": "1 (≈50g)",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together flour, oats, ground almonds, baking powder and a pinch of salt.",
+    "Add the melted coconut oil and unsweetened coconut milk, mixing until a smooth dough forms.",
+    "Cover the bowl with a damp towel and let the dough rest for 15 minutes at room temperature.",
+    "Divide the dough into 8 equal portions and roll each into a 7‑inch circle on a lightly floured surface.",
+    "Optional: spread a thin layer of sautéed onion, cumin, paprika and parsley over half the dough circles; fold the other half over so they form a semi‑circle and seal the edges with a fork.",
+    "Place each empanada on a parchment‑lined baking sheet, brush the tops with a little coconut oil.",
+    "Bake in a preheated 220 °C oven for 20 minutes, until golden and puffed.",
+    "Remove from the oven and let cool on a rack for 5 minutes before serving.",
+    "Repeat with remaining dough, using the same baking sheet if room permits.",
+    "Serve warm as a snack or light appetizer.",
+    ""
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "argentinian",
+    "tandoor-style",
+    "coconut-milk",
+    "chewy",
+    "nutty",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 3,
+    "carbs": 21,
+    "fat": 4
+  },
+  "slug": "nutty-chewy-argentinian-coconut-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-chewy-argentinian-coconut-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:02:48Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "tandoor",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "coconut",
+    "descriptor": "Nutty Chewy",
+    "dishForm": "Empanadas"
+  }
+}
