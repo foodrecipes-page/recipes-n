@@ -1,0 +1,116 @@
+{
+  "title": "Nutty Creamy Korean Clotted Cream Bibimbap",
+  "description": "A Korean-inspired brunch dish featuring nutty, creamy clotted cream atop a bed of mixed vegetables and crispy rice, finished with a smoky kick.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-fat",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Clotted cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Smoked Gochujang sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "Roasted sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grilled portobello mushrooms",
+      "amount": "2"
+    },
+    {
+      "name": "Sliced cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced zucchini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toast brown rice according to package instructions. Set aside.",
+    "Roast sesame seeds in the oven for 5 minutes, or until fragrant.",
+    "Grill portobello mushrooms for 3-4 minutes per side, or until tender.",
+    "In a small saucepan, warm smoked Gochujang sauce over low heat.",
+    "In a large skillet, heat vegetable oil over medium heat.",
+    "Add sliced cucumber, carrots, and zucchini to the skillet. Cook for 3-4 minutes, or until tender.",
+    "Add grilled portobello mushrooms to the skillet and stir to combine.",
+    "To assemble the dish, place a scoop of toasted brown rice in the bottom of a bowl.",
+    "Add a layer of mixed vegetables on top of the brown rice.",
+    "Drizzle smoked Gochujang sauce and sesame oil over the vegetables.",
+    "Top with roasted sesame seeds and sliced green onions.",
+    "Dollop clotted cream on top of the dish and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "brunch",
+    "clotted-cream",
+    "smoked-gochujang",
+    "bibimbap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "nutty-creamy-korean-clotted-cream-bibimbap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-creamy-korean-clotted-cream-bibimbap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:01:08Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "smoke",
+    "primaryIngredient": "clotted cream",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "clotted cream",
+    "descriptor": "nutty creamy",
+    "dishForm": "Bibimbap"
+  }
+}
