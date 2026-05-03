@@ -1,0 +1,99 @@
+{
+  "title": "Nostalgic Flaky Vietnamese Flour Bao",
+  "description": "A nostalgic Vietnamese snack that combines a flaky dough with sweet plum jam and tempered chocolate for a delightful bite.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "80g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "1g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "40g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "4g"
+    },
+    {
+      "name": "plum jam",
+      "amount": "60g"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "70g"
+    },
+    {
+      "name": "cocoa butter",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk flour, sugar, baking powder, and salt together.",
+    "Dissolve yeast in warm water and let sit 5 minutes until foamy.",
+    "Add yeast mixture and melted butter to dry mixture and stir until smooth dough forms.",
+    "Turn dough onto floured surface and knead for 5 minutes until elastic.",
+    "Place dough in a greased bowl, cover, and let rise in warm spot until doubled, about 45 minutes.",
+    "Punch down dough, divide into 8 equal portions, and roll each into a 5cm circle.",
+    "Melt chocolate and cocoa butter together over low heat until glossy, then let cool to 30°C.",
+    "Spread 3.75g of plum jam on each dough circle and top with 8g of tempered chocolate.",
+    "Fold halves over to form sealed bao and place on parchment lined tray.",
+    "Bake at 180°C for 12 minutes until lightly golden."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "flaky",
+    "kosher",
+    "nostalgic",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "nostalgic-flaky-vietnamese-flour-bao",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-flaky-vietnamese-flour-bao",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:29:19Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "plum jam",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Flour",
+    "descriptor": "Nostalgic Flaky",
+    "dishForm": "Bao"
+  }
+}

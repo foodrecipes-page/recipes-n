@@ -153,6 +153,20 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-flaky-vietnamese-flour-bao",
+    "title": "Nostalgic Flaky Vietnamese Flour Bao",
+    "tags": [
+      "dessert",
+      "flaky",
+      "kosher",
+      "nostalgic",
+      "quick"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 27,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgic-floral-cherry-tomatoes-stir-fry",
     "title": "Nostalgic Floral Cherry Tomatoes Stir-fry",
     "tags": [
@@ -333,6 +347,20 @@
       "nut-free"
     ],
     "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-australian-pilchards-pilaf",
+    "title": "Nourishing Australian Pilchards Pilaf",
+    "tags": [
+      "australian",
+      "halal-friendly",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "australian",
     "totalTimeMin": 35,
     "shard": "n"
   },
