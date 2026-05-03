@@ -1,0 +1,94 @@
+{
+  "title": "Nimble German Swede Pancake",
+  "description": "A fresh, fluffy pancake flavored with grated swede and a hint of ferment, perfect for kids and quick family breakfasts.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "grated swede",
+      "amount": "200g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "adds subtle tang"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a small nonstick skillet over medium heat and lightly oil it.",
+    "In a large bowl, whisk together flour, baking powder, and salt until well mixed.",
+    "In another bowl, beat eggs, milk, melted butter, and vanilla until frothy.",
+    "Add the grated swede to the wet mixture and stir until evenly distributed.",
+    "Combine wet and dry ingredients, stirring just until a smooth batter forms; add the cider vinegar for a subtle tang.",
+    "Pour a 1/4 cup of batter onto the skillet, forming a round pancake; cook 2-3 minutes until bubbles appear on the surface.",
+    "Flip the pancake and cook another 1-2 minutes until golden brown; repeat with remaining batter.",
+    "Sprinkle chopped dill over the hot pancakes, serve warm, and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "fluffy",
+    "healthy",
+    "kid-friendly",
+    "one-pan",
+    "quick",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 31,
+    "carbs": 112,
+    "fat": 38
+  },
+  "slug": "nimble-german-swede-pancake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-german-swede-pancake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:03:53Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "ferment",
+    "primaryIngredient": "swede",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Swede",
+    "descriptor": "Nimble",
+    "dishForm": "Pancake"
+  }
+}

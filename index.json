@@ -57,6 +57,22 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-german-swede-pancake",
+    "title": "Nimble German Swede Pancake",
+    "tags": [
+      "breakfast",
+      "fluffy",
+      "healthy",
+      "kid-friendly",
+      "one-pan",
+      "quick",
+      "savory"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgia-beetkveik",
     "title": "Nostalgia Beetkveik",
     "tags": [
