@@ -1,0 +1,114 @@
+{
+  "title": "Nut-Free Tangy Normandy Penne Madeleine",
+  "description": "A creamy one-pot Normandy pasta baked into madeleine-shaped portions with tangy mustard, leeks, apples and herbed cream.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne rigate",
+      "amount": "100 g",
+      "notes": "dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "leek",
+      "amount": "1 small",
+      "notes": "cleaned and sliced"
+    },
+    {
+      "name": "apple",
+      "amount": "1 small",
+      "notes": "peeled, cored, diced"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and grease a shallow madeleine pan.",
+    "In a large skillet, heat olive oil over medium heat and sauté sliced leeks until soft, about 5 minutes.",
+    "Add diced apple, Dijon mustard, and white wine; cook for 2 minutes, letting the wine reduce slightly.",
+    "Stir in the dry penne and pour enough water to barely cover the pasta, season with salt and pepper, and bring to a boil.",
+    "Reduce heat to low, add heavy cream, lemon zest, and fresh thyme, and simmer until pasta is al dente and sauce thickens, about 10 minutes.",
+    "Remove skillet from heat, stir in grated parmesan until melted and creamy.",
+    "Spoon the pasta mixture into the greased madeleine pan, spreading it evenly.",
+    "Bake uncovered for 12 minutes, or until the top is lightly golden and the edges set.",
+    "Let the dish rest for 5 minutes, then carefully lift the madeleine-shaped portions onto a serving plate.",
+    "Serve hot, optionally garnished with additional thyme or lemon zest."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "dinner",
+    "easy",
+    "madeleine",
+    "normandy",
+    "nut-free",
+    "one-pot",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 22
+  },
+  "slug": "nut-free-tangy-normandy-penne-madeleine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nut-free-tangy-normandy-penne-madeleine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:50:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "papillote",
+    "primaryIngredient": "penne rigate",
+    "diet": "nut-free",
+    "region": "normandy",
+    "cuisineAdjective": "Normandy",
+    "mainIngredient": "Penne",
+    "descriptor": "Nut-Free Tangy",
+    "dishForm": "Madeleine"
+  }
+}
