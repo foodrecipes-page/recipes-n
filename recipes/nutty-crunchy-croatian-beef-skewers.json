@@ -1,0 +1,115 @@
+{
+  "title": "Nutty Crunchy Croatian Beef Skewers",
+  "description": "A hearty, hangover-cure Croatian dish featuring a mix of beef cuts, crunchy walnuts, and a hint of nutmeg, all poached to perfection in a flavorful broth.",
+  "cuisine": "Croatian",
+  "diet": [
+    "halal",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips (1.5 pounds)",
+      "amount": "600g",
+      "notes": "mix of chuck, sirloin, and round"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, nutmeg, salt, and black pepper.",
+    "Add the beef strips and toss to coat.",
+    "Thread the beef onto skewers, leaving a little space between each piece.",
+    "Heat a large skillet over medium-high heat and sear the beef for 1-2 minutes per side.",
+    "Transfer the beef to a large pot and add the chopped onion, garlic, and chopped walnuts.",
+    "Pour in the chicken broth and red wine vinegar, and bring to a boil.",
+    "Reduce heat to low, cover, and poach for 20-25 minutes, or until the beef is cooked through.",
+    "Remove the beef from the pot and let it cool for a few minutes.",
+    "Serve hot, drizzled with lemon juice and garnished with fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "beef",
+    "walnuts",
+    "poached",
+    "hangover-cure",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutty-crunchy-croatian-beef-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crunchy-croatian-beef-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:48:40Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "poach",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Beef",
+    "descriptor": "Nutty Crunchy",
+    "dishForm": "Skewers"
+  }
+}
