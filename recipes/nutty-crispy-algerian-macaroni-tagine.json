@@ -1,0 +1,118 @@
+{
+  "title": "Nutty Crispy Algerian Macaroni Tagine",
+  "description": "A warm and flavorful Algerian-inspired macaroni dish with a crunchy nut topping, perfect for a cozy dinner.",
+  "cuisine": "algerian",
+  "diet": [
+    "halal",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni (gluten-free)",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "temper",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "pistachio oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Cook macaroni according to package instructions until al dente. Drain and set aside.",
+    "In a large saucepan, heat olive oil over medium heat.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for another minute.",
+    "Stir in temper, cumin, cinnamon, salt, and black pepper. Cook for 2 minutes.",
+    "Add cooked macaroni to the saucepan and stir to combine.",
+    "Transfer the macaroni mixture to a baking dish.",
+    "Top with chopped almonds and drizzle with pistachio oil.",
+    "Bake in the preheated oven for 15-20 minutes, or until the top is golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "macaroni",
+    "tagine",
+    "vegan",
+    "gluten-free",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "nutty-crispy-algerian-macaroni-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-algerian-macaroni-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:59:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "temper",
+    "primaryIngredient": "macaroni",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "macaroni",
+    "descriptor": "nutty crispy",
+    "dishForm": "Tagine"
+  }
+}

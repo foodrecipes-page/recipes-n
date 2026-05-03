@@ -702,6 +702,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crispy-algerian-macaroni-tagine",
+    "title": "Nutty Crispy Algerian Macaroni Tagine",
+    "tags": [
+      "algerian",
+      "macaroni",
+      "tagine",
+      "vegan",
+      "gluten-free",
+      "comfort-food"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-crispy-almond-stir-fry",
     "title": "Nutty Crispy Almond Stir-fry",
     "tags": [
