@@ -1,0 +1,106 @@
+{
+  "title": "Nutty Chewy Moroccan Chickpea Tagine",
+  "description": "A kid-friendly Moroccan dish featuring chickpeas, dried red chillies, and a blend of Mediterranean spices, resulting in a nutty and chewy flavor profile. This recipe is perfect for a family dinner or a special occasion.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "dried red chillies",
+      "amount": "2-3",
+      "notes": "crushed or 1 tsp dried red chilli flakes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler.",
+    "In a large bowl, whisk together olive oil, crushed dried red chillies, cumin, smoked paprika, salt, and black pepper.",
+    "Add the chickpeas to the bowl and toss to coat with the spice mixture.",
+    "Spread the chickpeas on a baking sheet lined with parchment paper and broil for 5-7 minutes or until lightly browned.",
+    "In a large skillet, heat a couple of tablespoons of olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the broiled chickpeas to the skillet and stir to combine with the onion and garlic mixture.",
+    "Reduce heat to low and simmer, covered, for 10-15 minutes or until the chickpeas are tender and the flavors have melded together.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "chickpeas",
+    "vegetarian",
+    "gluten-free",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "nutty-chewy-moroccan-chickpea-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-chewy-moroccan-chickpea-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:04:44Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "dried red chillies",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chickpeas",
+    "descriptor": "nutty chewy",
+    "dishForm": "Tagine"
+  }
+}
