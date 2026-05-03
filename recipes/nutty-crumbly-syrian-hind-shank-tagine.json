@@ -1,0 +1,108 @@
+{
+  "title": "Nutty Crumbly Syrian Hind Shank Tagine",
+  "description": "A festive, nutty, crumbly tagine featuring tender sous‑vide hind shank, dried fruit, and a toasted nut crumble topping.",
+  "cuisine": "Syrian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hind shank",
+      "amount": "4 pieces (≈4 lb)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "120 g, chopped"
+    },
+    {
+      "name": "Dried figs",
+      "amount": "120 g, chopped"
+    },
+    {
+      "name": "Almonds",
+      "amount": "100 g, blanched"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "50 g, chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "30 g, toasted"
+    },
+    {
+      "name": "Spices",
+      "amount": "1 tsp cumin, 1 tsp coriander, ½ tsp cinnamon"
+    },
+    {
+      "name": "Salt & pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "250 ml + 1 bouillon cube"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous‑vide water bath to 180 °F (82 °C).",
+    "In a vacuum‑seal bag, combine the hind shank, olive oil, diced onion, minced garlic, cumin, coriander, cinnamon, salt, pepper, and vegetable broth. Add the chopped apricots and figs, then seal the bag.",
+    "Cook the sealed bag in the sous‑vide bath for 36 hours (2160 minutes).",
+    "While the shank cooks, toast the almonds, walnuts, and sesame seeds in a dry pan until fragrant, then crush them into coarse crumbs.",
+    "After the sous‑vide time is up, remove the bag, discard the liquid, and pat the shank dry with paper towels.",
+    "Place the shank in a baking dish and evenly scatter the toasted nut crumble topping over the top.",
+    "Bake in a preheated oven at 400 °F (200 °C) for 10–12 minutes, or until the topping is golden brown.",
+    "Let the shank rest for 5 minutes before slicing. Serve with warm pita or a bed of couscous."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 2160,
+  "totalTimeMin": 2190,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "nutty",
+    "crumbly",
+    "festive",
+    "sous-vide",
+    "dairy-free-friendly",
+    "syrian",
+    "hind-shank",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 390,
+    "protein": 33,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "nutty-crumbly-syrian-hind-shank-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crumbly-syrian-hind-shank-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:56:20Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "hind shank",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "hind shank",
+    "descriptor": "Nutty Crumbly",
+    "dishForm": "Tagine"
+  }
+}
