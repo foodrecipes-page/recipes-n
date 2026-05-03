@@ -1,0 +1,105 @@
+{
+  "title": "Nostalgic Smoky Silk Soy Milk Stew",
+  "description": "A Mediterranean-inspired dish featuring smoky flavors and a silky texture made with plant-based soy milk.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "onions",
+      "amount": "1, finely chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2, diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2, sliced"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "a few, chiffonnade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add smoked paprika and tomato paste, stirring for about 1 minute until fragrant but not browned.",
+    "Stir in minced garlic and finely chopped onions. Cook for another 3-4 minutes or until softened.",
+    "Include diced bell peppers and sliced zucchini into the pot, mixing well with the onion mixture.",
+    "Pour in soy milk, stirring continuously to prevent curdling. Allow it to come to a simmer.",
+    "Gradually add water while stirring constantly. Bring to a boil, then reduce heat to low.",
+    "Simmer for about 20 minutes until zucchini is tender and has absorbed the flavors from the soup.",
+    "Stir in chopped basil leaves before serving. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soy milk",
+    "smoky",
+    "silky",
+    "mediterranean",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 8,
+    "carbs": 36,
+    "fat": 10
+  },
+  "slug": "nostalgic-smoky-silk-soy-milk-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-smoky-silk-soy-milk-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:48:42Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "soy milk",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Soy Milk",
+    "descriptor": "Nostalgic",
+    "dishForm": "Stew"
+  }
+}
