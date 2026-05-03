@@ -1,0 +1,110 @@
+{
+  "title": "Nutty Crisp Ethiopian Fish Stew",
+  "description": "A fragrant one‑pot stew of firm fish, fennel, and toasted nuts, finished with a tangy lemon‑coconut sauce for a nutty, crisp bite.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Firm white fish fillets",
+      "amount": "450g",
+      "notes": "cut into 2‑inch pieces"
+    },
+    {
+      "name": "Toasted walnuts",
+      "amount": "2 tbsp",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "Toasted pumpkin seeds",
+      "amount": "2 tbsp",
+      "notes": "toasted until golden"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Berbere spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup",
+      "notes": "low‑fat"
+    },
+    {
+      "name": "Unsweetened coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "1",
+      "notes": "sliced into rounds"
+    },
+    {
+      "name": "Fennel bulb",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat. Add onion, garlic, and ginger; sauté until translucent, about 4 minutes.",
+    "Stir in berbere spice and fennel; cook for another 2 minutes until fragrant.",
+    "Add carrot, vegetable broth, and coconut milk; bring to a gentle simmer.",
+    "Gently place fish pieces into the pot, cover, and cook for 8 minutes until fish is opaque and flakes easily.",
+    "Stir in toasted walnuts and pumpkin seeds, season with salt, pepper, and lemon juice, and simmer for an additional 2 minutes.",
+    "Taste and adjust seasoning if needed.",
+    "Remove from heat and transfer to serving bowls.",
+    "Optionally, sprinkle extra toasted nuts on top for added crunch before serving."
+  ],
+  "slug": "nutty-crisp-ethiopian-fish-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crisp-ethiopian-fish-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:11:34Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "fold",
+    "primaryIngredient": "fennel",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "fish",
+    "descriptor": "Nutty Crisp",
+    "dishForm": "Stew"
+  }
+}
