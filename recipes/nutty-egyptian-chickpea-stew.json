@@ -1,0 +1,155 @@
+{
+  "title": "Nutty Egyptian Chickpea Stew",
+  "description": "A hearty, nutty Egyptian stew featuring chickpeas, ginger‑garlic paste, and a fragrant tempering, perfect for meal‑prep and pescatarian diets.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "400g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "large carrot",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tablespoon",
+      "notes": "15g"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon",
+      "notes": "15g"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup",
+      "notes": "240g"
+    },
+    {
+      "name": "almond butter",
+      "amount": "3 tablespoons",
+      "notes": "45g"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fenugreek seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a small pan over medium heat.",
+    "Add fenugreek seeds, cumin seeds, and red chili flakes; toast until fragrant, about 30 seconds. Remove and set aside.",
+    "In a large pot, heat the remaining 1 tablespoon of oil over medium heat. Add diced onion, carrot, and bell pepper; sauté until softened, about 5 minutes.",
+    "Stir in the ginger and garlic paste and cook for 1 minute until aromatic.",
+    "Add tomato puree, cumin, coriander, smoked paprika, cinnamon, turmeric, salt, and black pepper; cook, stirring, for 2 minutes.",
+    "Pour in the chickpeas and vegetable broth, then fold in almond butter. Bring to a gentle simmer.",
+    "Return the toasted tempering mixture to the pot, stir, and let the stew simmer uncovered for 15–20 minutes, allowing flavors to meld and the stew to thicken.",
+    "Taste and adjust seasoning if needed. Let the stew cool if storing for meal‑prep.",
+    "Reheat portions in the microwave or on the stovetop and garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nutty",
+    "chickpea",
+    "egyptian",
+    "meal-prep",
+    "pescatarian",
+    "ginger",
+    "garlic",
+    "tempering",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 10,
+    "carbs": 33,
+    "fat": 15
+  },
+  "slug": "nutty-egyptian-chickpea-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-egyptian-chickpea-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:41:35Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "temper",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Nutty",
+    "dishForm": "Stew"
+  }
+}

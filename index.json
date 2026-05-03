@@ -1219,6 +1219,24 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-egyptian-chickpea-stew",
+    "title": "Nutty Egyptian Chickpea Stew",
+    "tags": [
+      "nutty",
+      "chickpea",
+      "egyptian",
+      "meal-prep",
+      "pescatarian",
+      "ginger",
+      "garlic",
+      "tempering",
+      "stew"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-flaky-brown-rice-crumble",
     "title": "Nutty Flaky Brown Rice Crumble",
     "tags": [
