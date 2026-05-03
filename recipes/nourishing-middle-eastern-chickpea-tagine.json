@@ -1,0 +1,114 @@
+{
+  "title": "Nourishing Middle Eastern Chickpea Tagine",
+  "description": "A floral, crispy chickpea tagine with caramelized onion, aromatic spices, and tomato puree, sugar-free and perfect for a quick weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "400g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "400g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted almond slivers",
+      "amount": "2 tbsp",
+      "notes": "for crunch"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large skillet over medium heat.",
+    "Add diced onion and cook until softened and golden brown, about 8 minutes.",
+    "Stir in minced garlic, cumin, coriander, smoked paprika, cinnamon, and turmeric, and cook for 1 minute until fragrant.",
+    "Pour in tomato puree, whisking to combine, and bring to a gentle simmer.",
+    "Add drained chickpeas and the remaining 1 tbsp olive oil, stir, and season with salt and pepper.",
+    "Reduce heat to low, cover, and simmer for 15 minutes, stirring occasionally.",
+    "Finish with lemon juice, chopped parsley, and toasted almond slivers, then adjust seasoning.",
+    "Serve hot over couscous or rice, spooning extra parsley on top for a fresh finish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hassle-free",
+    "low-sugar",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 24,
+    "carbs": 66,
+    "fat": 31
+  },
+  "slug": "nourishing-middle-eastern-chickpea-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-middle-eastern-chickpea-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:11:59Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "caramelize",
+    "primaryIngredient": "tomato puree",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Nourishing",
+    "dishForm": "Tagine"
+  }
+}
