@@ -1,0 +1,115 @@
+{
+  "title": "Nutty Tender Mexican Fennel Stir-fry",
+  "description": "A vibrant and flavorful dish, inspired by the bold flavors of Yucatecan cuisine. Crunchy fennel, toasted pecans, and a hint of ancho chili powder come together to create a truly special stir-fry.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fennel bulbs",
+      "amount": "2",
+      "notes": "Trimmed and chopped"
+    },
+    {
+      "name": "Pecans",
+      "amount": "1/4 cup",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ancho chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grass-fed ground beef",
+      "amount": "1/4 pound",
+      "notes": "Trimmed and sliced"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Toast the pecans in a small skillet over medium heat for 2-3 minutes.",
+    "In a large skillet, heat 1 tablespoon of avocado oil over medium-high heat.",
+    "Add the sliced beef and cook until browned, about 3-4 minutes.",
+    "Add the sliced onion and cook until translucent, about 4-5 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the chopped fennel and cook for 5 minutes, stirring occasionally.",
+    "Add the toasted pecans, cumin, ancho chili powder, salt, and pepper.",
+    "Stir-fry for 1 minute, until the flavors are combined.",
+    "Serve the stir-fry hot, garnished with chopped cilantro.",
+    "Optional: Serve with a side of cauliflower rice or tortillas."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "stir-fry",
+    "fennel",
+    "keto",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 45
+  },
+  "slug": "nutty-tender-mexican-fennel-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tender-mexican-fennel-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:56:10Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "fennel",
+    "diet": "keto",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "fennel",
+    "descriptor": "nutty tender",
+    "dishForm": "Stir-fry"
+  }
+}
