@@ -1,0 +1,122 @@
+{
+  "title": "Nutty, Chewy Irish Beef Stir-Fry",
+  "description": "A hearty, comforting Irish dish featuring tender beef, crunchy bok choi, and a nutty twist. Perfect for a cozy solo dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb beef strips (flank steak or ribeye)",
+      "amount": "",
+      "notes": "Slice the beef into thin strips."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "Use a neutral-tasting oil with a high smoke point."
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "",
+      "notes": "Dice the onion into small pieces."
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "",
+      "notes": "Mince the garlic to release its flavor."
+    },
+    {
+      "name": "2 cups bok choi",
+      "amount": "",
+      "notes": "Cut the bok choi into bite-sized pieces."
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "",
+      "notes": "Use a low-sodium broth for added flavor."
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "",
+      "notes": "Use a gluten-free soy sauce alternative if needed."
+    },
+    {
+      "name": "1 tablespoon honey",
+      "amount": "",
+      "notes": "Add a touch of sweetness to balance the flavors."
+    },
+    {
+      "name": "1 teaspoon Dijon mustard",
+      "amount": "",
+      "notes": "Use a gluten-free mustard alternative if needed."
+    },
+    {
+      "name": "1/4 cup chopped walnuts",
+      "amount": "",
+      "notes": "Chop the walnuts for added texture."
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": "Season to taste with salt and pepper."
+    },
+    {
+      "name": "Fresh parsley, chopped (optional)",
+      "amount": "",
+      "notes": "Garnish with chopped parsley for added color and freshness."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "Add the diced onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the bok choi to the skillet and cook until wilted, about 2-3 minutes.",
+    "Pour in the beef broth, soy sauce, honey, and Dijon mustard. Stir to combine.",
+    "Return the beef strips to the skillet and cook until coated in the sauce, about 2-3 minutes.",
+    "Stir in the chopped walnuts and season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley if desired.",
+    "Let the dish rest for a few minutes to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "beef",
+    "stir-fry",
+    "bok-choi",
+    "nutty",
+    "chewy",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "35g",
+    "carbs": "25g",
+    "fat": "30g"
+  },
+  "slug": "nutty-chewy-irish-beef-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-chewy-irish-beef-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:06:22Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "bok choi",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "nutty, chewy",
+    "dishForm": "stir-fry"
+  }
+}

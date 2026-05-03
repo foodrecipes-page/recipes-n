@@ -516,6 +516,22 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-chewy-irish-beef-stir-fry",
+    "title": "Nutty, Chewy Irish Beef Stir-Fry",
+    "tags": [
+      "irish",
+      "beef",
+      "stir-fry",
+      "bok-choi",
+      "nutty",
+      "chewy",
+      "solo-dinner"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-chewy-solo-dinner-russet-potato-stir-fry",
     "title": "Nutty Chewy Solo-Dinner Russet Potato Stir-fry",
     "tags": [
