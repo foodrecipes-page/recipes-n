@@ -502,6 +502,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-chewy-indian-potato-bao",
+    "title": "Nutty Chewy Indian Potato Bao",
+    "tags": [
+      "indian",
+      "potato",
+      "bao",
+      "nutty",
+      "chewy",
+      "diabetic-friendly"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-chewy-indulgent-filipino-almond-stir-fry",
     "title": "Nutty Chewy Indulgent Filipino Almond Stir-fry",
     "tags": [
