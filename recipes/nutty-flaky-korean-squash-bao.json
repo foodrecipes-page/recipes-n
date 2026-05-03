@@ -1,0 +1,114 @@
+{
+  "title": "Nutty Flaky Korean Squash Bao",
+  "description": "A kid-friendly Korean dish featuring poached squash, crispy bao, and a nutty crunch. This dish is perfect for a warm evening meal or a snack.",
+  "cuisine": "Korean",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese Kabocha Squash",
+      "amount": "1 medium, peeled and cubed"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Bread flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Corn oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Roasted peanuts",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine all-purpose flour, bread flour, granulated sugar, and salt.",
+    "Add active dry yeast and mix well.",
+    "Gradually add warm water and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the dough to a thickness of 1/4 inch (6 mm).",
+    "Cut out round shapes using a cookie cutter or the rim of a glass.",
+    "Place the bao on a baking sheet lined with parchment paper, leaving 1 inch (2.5 cm) space between each bao.",
+    "Brush the tops with corn oil and sprinkle with sesame seeds.",
+    "Bake for 15-20 minutes until golden brown.",
+    "Meanwhile, poach the kabocha squash cubes in boiling water for 10-15 minutes until tender.",
+    "Drain the squash and mix with gochujang, roasted peanuts, and chopped scallions.",
+    "Split the bao in half, fill with the squash mixture, and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "bao",
+    "squash",
+    "nutty",
+    "flaky",
+    "vegan-friendly",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "8g",
+    "carbs": "45g",
+    "fat": "12g"
+  },
+  "slug": "nutty-flaky-korean-squash-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-flaky-korean-squash-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:19:25Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "squash",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "squash",
+    "descriptor": "nutty flaky",
+    "dishForm": "Bao"
+  }
+}
