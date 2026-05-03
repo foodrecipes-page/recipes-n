@@ -1,0 +1,107 @@
+{
+  "title": "Nutty Tender Australian Lamb Kebabs",
+  "description": "Succulent lamb skewers infused with the warmth of mixed spice and the crunch of toasted almonds, perfect for a show-stopping Australian dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "jain-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g"
+    },
+    {
+      "name": "Mixed spice blend (containing cinnamon, ginger, nutmeg, cumin, coriander, and turmeric)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Toasted almonds, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red onion, thinly sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red bell pepper, seeded and sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Zucchini, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Yellow bell pepper, seeded and sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (200°C/400°F).",
+    "In a large bowl, whisk together mixed spice blend, lemon juice, olive oil, salt, and black pepper.",
+    "Add the lamb cubes to the marinade and mix well to coat.",
+    "Thread the lamb, red onion, red bell pepper, zucchini, yellow bell pepper, and garlic onto skewers.",
+    "Brush the grates with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "Transfer the skewers to a serving platter and sprinkle with chopped almonds and parsley.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lamb",
+    "kebabs",
+    "mixed-spice",
+    "toasted-almonds",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "25g"
+  },
+  "slug": "nutty-tender-australian-lamb-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tender-australian-lamb-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:21:47Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "grill",
+    "primaryIngredient": "mixed spice",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Nutty Tender",
+    "dishForm": "Kebabs"
+  }
+}

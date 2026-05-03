@@ -1743,6 +1743,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-tender-australian-lamb-kebabs",
+    "title": "Nutty Tender Australian Lamb Kebabs",
+    "tags": [
+      "australian",
+      "lamb",
+      "kebabs",
+      "mixed-spice",
+      "toasted-almonds",
+      "grilled"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-tender-ethiopian-peanut-stir-fry",
     "title": "Nutty Tender Ethiopian Peanut Stir-fry",
     "tags": [
