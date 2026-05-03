@@ -1,0 +1,106 @@
+{
+  "title": "Nutty Crumbly Mediterranean Honey Cake Grill",
+  "description": "A delicious, kid-friendly Mediterranean dessert featuring golden syrup and grilled to perfection. This diabetic-friendly recipe is perfect for any occasion.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "diabetic-friendly",
+    "kid-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Whole wheat pastry flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Ground almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Golden syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh rosemary leaves",
+      "amount": "1 tablespoon (chopped)"
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "1 tablespoon (chopped)"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat (around 375°F).",
+    "In a large mixing bowl, whisk together the flour, ground almonds, granulated sugar, and salt.",
+    "In a separate bowl, whisk together the honey, golden syrup, egg, vanilla extract, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth.",
+    "Wrap the dough in plastic wrap and refrigerate for 30 minutes.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Place the balls onto a baking sheet lined with parchment paper.",
+    "Grill the cakes for 4-5 minutes per side, or until they are golden brown.",
+    "Transfer the cakes to a wire rack to cool.",
+    "Drizzle the cooled cakes with melted honey and sprinkle with chopped rosemary and thyme leaves.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "diabetic-friendly",
+    "kid-friendly",
+    "grilled",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "nutty-crumbly-mediterranean-honey-cake-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crumbly-mediterranean-honey-cake-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:31:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "golden syrup",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "honey cake",
+    "descriptor": "nutty crumbly",
+    "dishForm": "Grill"
+  }
+}
