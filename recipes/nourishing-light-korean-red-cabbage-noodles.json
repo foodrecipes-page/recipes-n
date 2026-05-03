@@ -1,0 +1,99 @@
+{
+  "title": "Nourishing Light Korean Red Cabbage Noodles",
+  "description": "A savory and light Korean dish featuring red cabbage, perfect for a lazy Sunday, and is dairy-free friendly. This dish is easy to make and requires minimal ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red cabbage",
+      "amount": "1 medium head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium heat and add the grated ginger and minced garlic.",
+    "Cook the ginger and garlic for 2 minutes, stirring constantly, until fragrant.",
+    "Add the shredded red cabbage to the skillet and cook for 5 minutes, stirring occasionally, until it starts to soften.",
+    "In a small bowl, whisk together the soy sauce and sesame oil.",
+    "Pour the soy sauce mixture over the red cabbage and stir to combine.",
+    "Season the red cabbage mixture with salt and black pepper to taste.",
+    "Drain the cooked noodles and add them to the skillet with the red cabbage mixture.",
+    "Stir everything together and cook for an additional 2 minutes, until the noodles are well coated with the sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "healthy-meal",
+    "korean-food",
+    "lazy-sunday",
+    "noodle-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nourishing-light-korean-red-cabbage-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-light-korean-red-cabbage-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:10:28Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "boil",
+    "primaryIngredient": "red cabbage",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "red cabbage",
+    "descriptor": "Nourishing Light",
+    "dishForm": "Noodles"
+  }
+}
