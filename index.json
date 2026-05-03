@@ -1800,6 +1800,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-tender-british-hazelnuts-stir-fry",
+    "title": "Nutty, Tender British Hazelnuts Stir-Fry",
+    "tags": [
+      "british-cuisine",
+      "low-fat",
+      "vegetarian",
+      "snack",
+      "hazelnuts",
+      "stir-fry"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-tender-ethiopian-peanut-stir-fry",
     "title": "Nutty Tender Ethiopian Peanut Stir-fry",
     "tags": [

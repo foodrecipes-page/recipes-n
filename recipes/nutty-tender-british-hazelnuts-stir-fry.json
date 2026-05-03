@@ -1,0 +1,105 @@
+{
+  "title": "Nutty, Tender British Hazelnuts Stir-Fry",
+  "description": "A low-fat-friendly, monsoon-inspired British dish highlighting the nutty taste of shelled hazelnuts, served with tender vegetables.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shelled hazelnuts",
+      "amount": "1 cup",
+      "notes": "Fresh, unsalted"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Low-fat"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": "Canned"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a pan over medium heat.",
+    "Add chopped onion and sauté until softened.",
+    "Add minced garlic and sauté for 1 minute.",
+    "Add chopped mushrooms and sauté until tender.",
+    "Add canned bamboo shoots and sauté for 2 minutes.",
+    "Add chopped fresh thyme and sauté for 1 minute.",
+    "Add shelled hazelnuts and stir-fry until nutty.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "low-fat",
+    "vegetarian",
+    "snack",
+    "hazelnuts",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "nutty-tender-british-hazelnuts-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tender-british-hazelnuts-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:33:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "stir-fry",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "nutty, tender",
+    "dishForm": "stir-fry"
+  }
+}
