@@ -1,0 +1,117 @@
+{
+  "title": "Nutty Filipino Peanuts Hash",
+  "description": "A savory, nutty hash featuring crumbled tofu, roasted peanuts, and aromatic cumin, perfect for a quick halal-friendly solo dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "halal-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tamari (gluten‑free soy sauce)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the diced onion and minced garlic, sautéing until the onion turns translucent, about 3 minutes.",
+    "Throw in the diced potatoes and cook for 5 minutes, stirring occasionally to avoid sticking.",
+    "Add the sliced mushrooms and crumbled tofu; cook until the tofu lightly browns and the mushrooms soften, about 4 minutes.",
+    "Stir in the chopped red bell pepper, ground cumin, and tamari; cook for another 2 minutes until the peppers begin to soften.",
+    "Fold in the chopped roasted peanuts and season with salt and pepper; let everything heat through for 2 minutes, allowing the flavors to meld.",
+    "Remove from heat and sprinkle the chopped cilantro over the hash.",
+    "Serve hot straight from the skillet, optionally with a side of steamed rice or a fresh cucumber salad.",
+    "If desired, garnish with additional peanuts or a squeeze of lime for extra zing.",
+    "Enjoy your nutty, gooey Filipino peanut hash as a satisfying solo dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "filipino",
+    "hash",
+    "tofu",
+    "halal-friendly",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 38,
+    "fat": 18
+  },
+  "slug": "nutty-filipino-peanuts-hash",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-filipino-peanuts-hash",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:32:21Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "ground cumin",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Peanuts",
+    "descriptor": "Nutty",
+    "dishForm": "Hash"
+  }
+}
