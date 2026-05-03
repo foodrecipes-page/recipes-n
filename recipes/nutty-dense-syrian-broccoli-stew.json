@@ -1,0 +1,117 @@
+{
+  "title": "Nutty Dense Syrian Broccoli Stew",
+  "description": "A hearty, FODMAP‑friendly broth made from purple sprouting broccoli and toasted almonds, slow‑cooked for maximum flavor and density.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Purple sprouting broccoli",
+      "amount": "1.5 lbs (680 g)",
+      "notes": "trimmed and cut into florets"
+    },
+    {
+      "name": "Sliced almonds, toasted",
+      "amount": "1 cup (90 g)",
+      "notes": "dry‑roasted, no salt added"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp (30 ml)"
+    },
+    {
+      "name": "Onion, medium",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "1",
+      "notes": "minced, low‑FODMAP amount"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp (2 g)"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp (2 g)"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 tsp (1 g)"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "Low‑sodium vegetable stock",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp (30 ml)"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat slow cooker on low.",
+    "Heat olive oil in a skillet over medium; sauté onion until translucent, about 3–4 minutes.",
+    "Add minced garlic, cook 30 seconds until fragrant.",
+    "Stir in cumin, coriander, and smoked paprika; cook 1 minute more.",
+    "Transfer the onion‑garlic mixture to the slow cooker.",
+    "Add the broccoli florets and bay leaf; stir to coat everything with spices.",
+    "Pour in vegetable stock and lemon juice; cover the slow cooker.",
+    "Cook on low for 6–8 hours (or on high for 3–4 hours) until the broccoli is tender and the stew is thickened.",
+    "During the last 30 minutes, stir in the toasted almonds and let them absorb the flavors.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 360,
+  "totalTimeMin": 375,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "slow-cook",
+    "fodmap-friendly",
+    "vegetarian",
+    "gluten-free",
+    "nutty",
+    "dense",
+    "syrian",
+    "broccoli",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 176,
+    "protein": 5,
+    "carbs": 13,
+    "fat": 12
+  },
+  "slug": "nutty-dense-syrian-broccoli-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-syrian-broccoli-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:59:26Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "slow-cook",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Nutty Dense",
+    "dishForm": "Stew"
+  }
+}

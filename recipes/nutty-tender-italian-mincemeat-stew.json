@@ -1,0 +1,134 @@
+{
+  "title": "Nutty Tender Italian Mincemeat Stew",
+  "description": "A low‑sodium, nutty, tender Sicilian stew featuring a blend of lean pork and beef, aromatic vegetables, red wine, and toasted pine nuts for a burst of texture and energy.",
+  "cuisine": "Italian (Sicilian)",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "250 g",
+      "notes": "lean cut"
+    },
+    {
+      "name": "ground beef",
+      "amount": "250 g",
+      "notes": "lean cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "30 ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "240 ml"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "400 g"
+    },
+    {
+      "name": "low‑sodium vegetable broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "30 g",
+      "notes": "toasted"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "50 g",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "10 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt‑free seasoning",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the diced onion, carrot, and celery; sauté for 5–7 minutes until softened.",
+    "Stir in the minced garlic and cook for 1 minute until fragrant.",
+    "Increase the heat to medium‑high and add the ground pork and beef; break up the meat with a spoon and brown for 8–10 minutes, ensuring no pink remains.",
+    "Deglaze the pot with the red wine, scraping up any browned bits; let the wine reduce by half, about 5 minutes.",
+    "Add the crushed tomatoes, low‑sodium broth, salt‑free seasoning, and pepper; bring to a gentle simmer.",
+    "Reduce the heat to low, cover, and let the stew braise for 60 minutes, stirring occasionally.",
+    "About 10 minutes before serving, stir in toasted pine nuts, grated pecorino cheese, and chopped basil; adjust seasoning if needed.",
+    "Serve hot, garnished with additional fresh basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "sicilian",
+    "low-sodium",
+    "nutty",
+    "mincemeat",
+    "braised",
+    "savory",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 459,
+    "protein": 22,
+    "carbs": 8,
+    "fat": 16
+  },
+  "slug": "nutty-tender-italian-mincemeat-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tender-italian-mincemeat-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:59:54Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "braise",
+    "primaryIngredient": "mincemeat",
+    "diet": "low-sodium",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Nutty Tender",
+    "dishForm": "Stew"
+  }
+}

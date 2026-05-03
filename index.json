@@ -1324,6 +1324,24 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-dense-syrian-broccoli-stew",
+    "title": "Nutty Dense Syrian Broccoli Stew",
+    "tags": [
+      "slow-cook",
+      "fodmap-friendly",
+      "vegetarian",
+      "gluten-free",
+      "nutty",
+      "dense",
+      "syrian",
+      "broccoli",
+      "stew"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 375,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-egyptian-chickpea-stew",
     "title": "Nutty Egyptian Chickpea Stew",
     "tags": [
@@ -2106,6 +2124,23 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-tender-italian-mincemeat-stew",
+    "title": "Nutty Tender Italian Mincemeat Stew",
+    "tags": [
+      "italian",
+      "sicilian",
+      "low-sodium",
+      "nutty",
+      "mincemeat",
+      "braised",
+      "savory",
+      "stew"
+    ],
+    "cuisine": "Italian (Sicilian)",
+    "totalTimeMin": 105,
     "shard": "n"
   },
   {
