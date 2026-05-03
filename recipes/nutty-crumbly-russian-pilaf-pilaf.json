@@ -1,0 +1,87 @@
+{
+  "title": "Nutty Crumbly Russian Pilaf",
+  "description": "Floral, crumbly, comforting Russian dish featuring ginger, perfect for a low-calorie meal.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dried currants",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Slivered almonds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the ttukbaegi-earthenware-cook over medium heat.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the brown rice and cook for 2 minutes, stirring constantly.",
+    "Add the ground cardamom and salt. Stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18 minutes.",
+    "Remove from heat and let rest for 5 minutes.",
+    "Fluff the rice with a fork and stir in the chopped fresh dill, dried currants, and slivered almonds.",
+    "Serve warm, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "nutty-crumbly-russian-pilaf-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crumbly-russian-pilaf-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:35:26Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "ginger",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Pilaf",
+    "descriptor": "Nutty Crumbly",
+    "dishForm": "Pilaf"
+  }
+}
