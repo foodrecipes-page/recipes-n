@@ -1,6 +1,6 @@
 {
   "title": "Nutty and Crispy Uruguayan Grape Leaves Empanada",
-  "description": "A unique and flavorful Uruguayan dish featuring crispy empanadas stuffed with a savory mixture of onions, garlic, almonds, and grape leaves, served with a side of tangy ají sauce.",
+  "description": "A unique and flavorful Uruguayan dish featuring crispy empanadas stuffed with a savory mixture of onions, garlic, almonds, and grape leaves, served with a side of tangy aji sauce.",
   "cuisine": "Uruguayan",
   "diet": [
     "halal-friendly",
@@ -64,13 +64,13 @@
       "notes": "for dough"
     },
     {
-      "name": "Ají Sauce",
+      "name": "Aj\u00ed Sauce",
       "amount": "1 cup",
       "notes": "for serving"
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "Prepare the grape leaf filling: In a large skillet, heat 2 tbsp of oil over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
     "Add the minced garlic and cook for 1 minute.",
     "Stir in the cumin, paprika, salt, and black pepper.",
@@ -83,26 +83,26 @@
     "Place 1-2 tbsp of the grape leaf filling in the center of each circle.",
     "Fold the dough over the filling to form a half-moon shape and press the edges to seal.",
     "Brush the tops with egg wash and bake for 20-25 minutes, or until golden brown.",
-    "Serve warm with ají sauce."
+    "Serve warm with aj\u00ed sauce."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
   "totalTimeMin": 55,
-  "servings": "6-8",
+  "servings": 7,
   "difficulty": "medium",
   "tags": [
     "empanada",
-    "grape leaves",
+    "grape-leaves",
     "almonds",
-    "uruguayan cuisine",
+    "uruguayan-cuisine",
     "vegetarian",
     "halal-friendly"
   ],
   "nutrition": {
     "calories": 420,
-    "protein": "12g",
-    "carbs": "25g",
-    "fat": "25g"
+    "protein": 12,
+    "carbs": 25,
+    "fat": 25
   },
   "slug": "nutty-and-crispy-uruguayan-grape-leaves-empanada",
   "source": "groq-llama-3.1-8b-instant",

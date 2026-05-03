@@ -37,11 +37,11 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "In a small bowl, mix together almond meal and water until no lumps remain.",
     "Add palm sugar and stir until dissolved. Transfer mixture to a baking dish lined with parchment paper.",
     "Sprinkle coconut flakes evenly over the top of the crumble mixture.",
-    "Top the creme brûlée layer with chopped almonds, walnuts, and hazelnuts.",
+    "Top the creme br\u00fbl\u00e9e layer with chopped almonds, walnuts, and hazelnuts.",
     "Bake in preheated oven for 20 minutes or until golden brown on top.",
     "Remove from oven and let cool slightly before serving."
   ],
@@ -54,12 +54,12 @@
     "nutty",
     "crunchy",
     "mediterranean",
-    "palm_sugar",
+    "palm-sugar",
     "sick-day"
   ],
   "nutrition": {
     "calories": 267,
-    "protein": 3.9,
+    "protein": 4,
     "carbs": 28,
     "fat": 10
   },

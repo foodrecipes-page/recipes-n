@@ -1,6 +1,6 @@
 {
   "title": "Nutty Crisp Ethiopian Fish Stew",
-  "description": "A fragrant one‑pot stew of firm fish, fennel, and toasted nuts, finished with a tangy lemon‑coconut sauce for a nutty, crisp bite.",
+  "description": "A fragrant onepot stew of firm fish, fennel, and toasted nuts, finished with a tangy lemoncoconut sauce for a nutty, crisp bite.",
   "cuisine": "Ethiopian",
   "diet": [
     "pescatarian",
@@ -11,7 +11,7 @@
     {
       "name": "Firm white fish fillets",
       "amount": "450g",
-      "notes": "cut into 2‑inch pieces"
+      "notes": "cut into 2\u2011inch pieces"
     },
     {
       "name": "Toasted walnuts",
@@ -46,7 +46,7 @@
     {
       "name": "Vegetable broth",
       "amount": "1 cup",
-      "notes": "low‑fat"
+      "notes": "low\u2011fat"
     },
     {
       "name": "Unsweetened coconut milk",
@@ -80,7 +80,7 @@
     }
   ],
   "instructions": [
-    "Heat olive oil in a large pot over medium heat. Add onion, garlic, and ginger; sauté until translucent, about 4 minutes.",
+    "Heat olive oil in a large pot over medium heat. Add onion, garlic, and ginger; saut\u00e9 until translucent, about 4 minutes.",
     "Stir in berbere spice and fennel; cook for another 2 minutes until fragrant.",
     "Add carrot, vegetable broth, and coconut milk; bring to a gentle simmer.",
     "Gently place fish pieces into the pot, cover, and cook for 8 minutes until fish is opaque and flakes easily.",
@@ -106,5 +106,20 @@
     "mainIngredient": "fish",
     "descriptor": "Nutty Crisp",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "ethiopian",
+    "dinner"
+  ]
 }

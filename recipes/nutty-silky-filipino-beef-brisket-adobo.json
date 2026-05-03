@@ -55,10 +55,10 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 300°F (150°C).",
+    "Preheat the oven to 300\u00b0F (150\u00b0C).",
     "In a large Dutch oven or heavy pot, heat the coconut oil over medium heat.",
-    "Add the minced garlic and sauté for 1-2 minutes until fragrant.",
-    "Add the grated ginger and sauté for another minute.",
+    "Add the minced garlic and saut\u00e9 for 1-2 minutes until fragrant.",
+    "Add the grated ginger and saut\u00e9 for another minute.",
     "Add the beef brisket and sear on all sides until browned, about 2-3 minutes per side.",
     "Add the ground anise, bay leaves, black pepper, coconut vinegar, and water.",
     "Bring the mixture to a simmer, then cover the pot with a lid.",
@@ -83,9 +83,9 @@
   ],
   "nutrition": {
     "calories": 550,
-    "protein": "35g",
-    "carbs": "10g",
-    "fat": "45g"
+    "protein": 35,
+    "carbs": 10,
+    "fat": 45
   },
   "slug": "nutty-silky-filipino-beef-brisket-adobo",
   "source": "groq-llama-3.1-8b-instant",

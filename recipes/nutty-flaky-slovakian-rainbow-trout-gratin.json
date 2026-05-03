@@ -1,6 +1,6 @@
 {
   "title": "Nutty Flaky Slovakian Rainbow Trout Gratin",
-  "description": "A Mediterranean‑friendly Slovakian gratin that pairs flaky rainbow trout with a crunchy walnut‑breadcrumb topping and a bright yogurt‑tadka sauce.",
+  "description": "A Mediterraneanfriendly Slovakian gratin that pairs flaky rainbow trout with a crunchy walnutbreadcrumb topping and a bright yogurttadka sauce.",
   "cuisine": "Slovakian",
   "diet": [
     "pescatarian",
@@ -85,13 +85,13 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 190 °C (375 °F).",
-    "Season the trout fillets with salt and pepper and place them skin‑side down in a greased baking dish.",
+    "Preheat the oven to 190\u202f\u00b0C (375\u202f\u00b0F).",
+    "Season the trout fillets with salt and pepper and place them skin\u2011side down in a greased baking dish.",
     "In a bowl mix the toasted walnuts, breadcrumbs, grated Parmesan, olive oil, lemon zest, chopped dill, and smoked paprika to form the crust.",
-    "Spread the yogurt over each fillet, then sprinkle the nut‑breadcrumb mixture evenly on top.",
+    "Spread the yogurt over each fillet, then sprinkle the nut\u2011breadcrumb mixture evenly on top.",
     "Reserve the remaining yogurt mixture for the tadka: combine it with mustard seeds, cumin seeds, minced garlic, and chili flakes, stirring until well blended.",
     "Dot the melted butter over the crust and drizzle a few spoonfuls of the yogurt tadka around the fillets.",
-    "Bake for 15–18 minutes, until the trout flakes easily and the topping is golden and crisp.",
+    "Bake for 15\u201318 minutes, until the trout flakes easily and the topping is golden and crisp.",
     "Serve immediately with lemon wedges and a sprinkle of fresh dill if desired."
   ],
   "slug": "nutty-flaky-slovakian-rainbow-trout-gratin",
@@ -111,5 +111,20 @@
     "mainIngredient": "rainbow trout",
     "descriptor": "Nutty Flaky",
     "dishForm": "Gratin"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "slovakian",
+    "dinner"
+  ]
 }

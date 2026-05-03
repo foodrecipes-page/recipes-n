@@ -13,7 +13,7 @@
     {
       "name": "2 tablespoons sunflower oil or vegan alternative",
       "amount": "tablespoons",
-      "notes": "For sautéing"
+      "notes": "For saut\u00e9ing"
     },
     {
       "name": "1/4 cup mixed nuts (almonds, walnuts)",
@@ -43,7 +43,7 @@
   ],
   "instructions": [
     "Heat the oil in a small skillet over medium heat.",
-    "Add chopped nuts and sauté until fragrant and lightly toasted, about 3-5 minutes.",
+    "Add chopped nuts and saut\u00e9 until fragrant and lightly toasted, about 3-5 minutes.",
     "Stir in minced garlic and cook for an additional minute.",
     "Add spinach leaves to the skillet, tossing gently to wilt them quickly. Cover with a lid if available to speed up cooking.",
     "Drizzle lemon juice over the mixture to brighten its flavors.",
@@ -66,7 +66,7 @@
   ],
   "nutrition": {
     "calories": 80,
-    "protein": 2.5,
+    "protein": 2,
     "carbs": 9,
     "fat": 4
   },

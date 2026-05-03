@@ -1,6 +1,6 @@
 {
   "title": "Nutty Tender Kenyan Rainbow Trout Stew",
-  "description": "A silky, nut-infused stew featuring tender rainbow trout, sautéed veggies, and wholesome flax seeds, crafted to energize and satisfy even those mindful of blood sugar.",
+  "description": "A silky, nut-infused stew featuring tender rainbow trout, sauteed veggies, and wholesome flax seeds, crafted to energize and satisfy even those mindful of blood sugar.",
   "cuisine": "Kenyan",
   "diet": [
     "diabetic-friendly",
@@ -43,7 +43,7 @@
       "notes": "chopped"
     },
     {
-      "name": "Low‑sodium fish stock",
+      "name": "Low\u2011sodium fish stock",
       "amount": "1 cup"
     },
     {
@@ -65,14 +65,14 @@
   ],
   "instructions": [
     "Bring fish stock to a gentle simmer in a medium pot.",
-    "Heat olive oil over medium heat, add diced onion and sauté until translucent, about 3 minutes.",
+    "Heat olive oil over medium heat, add diced onion and saut\u00e9 until translucent, about 3 minutes.",
     "Add minced garlic, diced bell pepper, and sliced mushrooms; cook, stirring, for another 4 minutes until vegetables soften.",
     "Stir in chopped kale and cook until just wilted, about 2 minutes.",
     "Pour in fish stock, coconut milk, and sprinkle the spice blend; bring the mixture to a low simmer and let it thicken slightly, about 5 minutes.",
-    "Gently slide the trout fillets into the pot, cover, and cook on low heat for 5–7 minutes, until the fish is opaque and flakes easily.",
+    "Gently slide the trout fillets into the pot, cover, and cook on low heat for 5\u20137 minutes, until the fish is opaque and flakes easily.",
     "Remove the pot from heat and whisk in almond butter and flaxseeds; the butter will melt and coat the stew, adding a nutty richness.",
     "Taste and season with salt and pepper to your liking; if desired, stir in a splash of fresh lime juice.",
-    "Ladle the stew over a bed of sautéed greens, garnish with chopped fresh coriander, and serve immediately."
+    "Ladle the stew over a bed of saut\u00e9ed greens, garnish with chopped fresh coriander, and serve immediately."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,

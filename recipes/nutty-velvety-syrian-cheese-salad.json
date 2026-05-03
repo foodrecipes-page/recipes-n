@@ -37,7 +37,7 @@
     {
       "name": "olive oil",
       "amount": "1 tbsp",
-      "notes": "cold‑pressed"
+      "notes": "cold\u2011pressed"
     },
     {
       "name": "lemon juice",
@@ -61,7 +61,7 @@
   "instructions": [
     "Wash and dice the cucumber, and halve the cherry tomatoes.",
     "Crumbled the feta cheese and grated the Parmesan cheese.",
-    "In a small dry skillet, toast the pine nuts over medium heat for 4–5 minutes, stirring constantly, until golden and fragrant; transfer to a plate to cool.",
+    "In a small dry skillet, toast the pine nuts over medium heat for 4\u20135 minutes, stirring constantly, until golden and fragrant; transfer to a plate to cool.",
     "In a large bowl, combine the cucumber, tomatoes, feta, Parmesan, and toasted pine nuts.",
     "Whisk together olive oil, lemon juice, honey (if using), a pinch of sumac, salt, and pepper to create a dressing.",
     "Pour the dressing over the salad and gently toss until all ingredients are evenly coated.",
@@ -84,5 +84,20 @@
     "mainIngredient": "cheese",
     "descriptor": "Nutty Velvety",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "syrian",
+    "lunch"
+  ]
 }

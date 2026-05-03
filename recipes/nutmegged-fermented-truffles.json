@@ -36,7 +36,7 @@
     "Once ready, transfer to the refrigerator and store in the fridge."
   ],
   "prepTimeMin": 15,
-  "cookTimeMin": null,
+  "cookTimeMin": 25,
   "totalTimeMin": 48,
   "servings": 2,
   "difficulty": "easy",

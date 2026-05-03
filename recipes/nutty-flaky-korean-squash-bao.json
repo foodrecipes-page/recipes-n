@@ -63,7 +63,7 @@
     "Gradually add warm water and mix until a smooth dough forms.",
     "Knead the dough for 10 minutes until it becomes elastic.",
     "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
-    "Preheat oven to 400°F (200°C).",
+    "Preheat oven to 400\u00b0F (200\u00b0C).",
     "Roll out the dough to a thickness of 1/4 inch (6 mm).",
     "Cut out round shapes using a cookie cutter or the rim of a glass.",
     "Place the bao on a baking sheet lined with parchment paper, leaving 1 inch (2.5 cm) space between each bao.",
@@ -89,9 +89,9 @@
   ],
   "nutrition": {
     "calories": 320,
-    "protein": "8g",
-    "carbs": "45g",
-    "fat": "12g"
+    "protein": 8,
+    "carbs": 45,
+    "fat": 12
   },
   "slug": "nutty-flaky-korean-squash-bao",
   "source": "groq-llama-3.1-8b-instant",

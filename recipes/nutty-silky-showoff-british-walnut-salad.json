@@ -5,7 +5,7 @@
   "diet": [
     "keto"
   ],
-  "meal": "salad",
+  "meal": "lunch",
   "ingredients": [
     {
       "name": "Dried cherries",
@@ -34,7 +34,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "Place the walnuts on a baking sheet and toast them in the oven until they are golden brown, about 10-12 minutes.",
     "Chop the toasted walnuts into small pieces.",
     "In a mixing bowl, combine the dried cherries and chopped walnuts. If using a dressing, add it now to mix thoroughly with a fork.",

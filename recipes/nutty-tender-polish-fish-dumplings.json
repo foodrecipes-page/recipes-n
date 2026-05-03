@@ -32,7 +32,7 @@
     {
       "name": "soy sauce",
       "amount": "1 tbsp",
-      "notes": "low‑sodium if desired"
+      "notes": "low\u2011sodium if desired"
     },
     {
       "name": "sesame oil",
@@ -55,11 +55,11 @@
   ],
   "instructions": [
     "In a bowl combine the flaked cod, massaman curry paste, salt, pepper, and soy sauce; mix until the fish is thoroughly coated.",
-    "In a separate bowl whisk the egg, then add the rice flour, almond butter, warmed sesame oil, and chopped cilantro; fold until a smooth, thick batter forms—add a splash of water if it’s too dense.",
+    "In a separate bowl whisk the egg, then add the rice flour, almond butter, warmed sesame oil, and chopped cilantro; fold until a smooth, thick batter forms\u2014add a splash of water if it\u2019s too dense.",
     "Gently fold the fish mixture into the batter, ensuring an even distribution of fish throughout.",
-    "Heat a non‑stick skillet over medium heat and lightly oil with a neutral oil.",
-    "Drop spoonfuls of the batter onto the skillet, forming 3 cm rounds; let them cook 3‑4 minutes until the edges set and the bottom turns golden.",
-    "Carefully flip each dumpling and cook another 3‑4 minutes until cooked through and the interior is opaque.",
+    "Heat a non\u2011stick skillet over medium heat and lightly oil with a neutral oil.",
+    "Drop spoonfuls of the batter onto the skillet, forming 3\u202fcm rounds; let them cook 3\u20114\u202fminutes until the edges set and the bottom turns golden.",
+    "Carefully flip each dumpling and cook another 3\u20114\u202fminutes until cooked through and the interior is opaque.",
     "Transfer the dumplings to a plate lined with paper towels to absorb excess oil.",
     "Optionally, drizzle with a squeeze of lime juice and garnish with extra cilantro.",
     "Serve hot for a comforting, nutty fish dumpling experience."
@@ -81,5 +81,20 @@
     "mainIngredient": "fish",
     "descriptor": "Nutty Tender",
     "dishForm": "Dumplings"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "polish",
+    "lunch"
+  ]
 }

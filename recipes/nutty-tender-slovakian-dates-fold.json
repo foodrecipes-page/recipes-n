@@ -50,7 +50,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 375°F (190°C).",
+    "Preheat the oven to 375\u00b0F (190\u00b0C).",
     "In a food processor, grind the walnuts until coarsely chopped.",
     "In a medium bowl, combine the ground walnuts, oats, coconut sugar, cinnamon, and salt.",
     "Mix well until a crumbly mixture forms.",
@@ -78,9 +78,9 @@
   ],
   "nutrition": {
     "calories": 230,
-    "protein": "4g",
-    "carbs": "30g",
-    "fat": "12g"
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
   },
   "slug": "nutty-tender-slovakian-dates-fold",
   "source": "groq-llama-3.1-8b-instant",

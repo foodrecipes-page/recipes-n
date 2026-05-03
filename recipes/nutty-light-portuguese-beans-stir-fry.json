@@ -6,7 +6,7 @@
     "vegan",
     "low-fat"
   ],
-  "meal": "side dish",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "Baby New Potatoes",
@@ -42,7 +42,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400°F (205°C).",
+    "Preheat your oven to 400\u00b0F (205\u00b0C).",
     "Peel the baby new potatoes and cut them into halves. Toss with olive oil, salt, and pepper in a roasting pan.",
     "In a separate pan, heat olive oil over medium-high heat. Add garlic slices and diced red peppers; stir for 1 minute until fragrant.",
     "Add green beans to the pan, tossing well to coat them evenly in the oil mixture. Cook for about 5 minutes or until slightly softened but still firm.",

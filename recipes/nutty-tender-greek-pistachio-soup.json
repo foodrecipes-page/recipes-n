@@ -1,6 +1,6 @@
 {
   "title": "Nutty Tender Greek Pistachio Soup",
-  "description": "A creamy, nutty Greek-inspired soup that’s gentle on hangover throats, uses lard for depth, and stays low-sodium‑friendly.",
+  "description": "A creamy, nutty Greek-inspired soup thats gentle on hangover throats, uses lard for depth, and stays low-sodiumfriendly.",
   "cuisine": "Mediterranean",
   "diet": [
     "vegetarian"
@@ -59,12 +59,12 @@
     }
   ],
   "instructions": [
-    "Toast the pistachios in a dry skillet over medium heat until fragrant, about 3‑4 minutes. Remove and set aside.",
-    "In a large pot, melt the lard over medium heat. Add the diced onion, carrot, and celery; sauté until the vegetables soften, about 5 minutes.",
+    "Toast the pistachios in a dry skillet over medium heat until fragrant, about 3\u20114 minutes. Remove and set aside.",
+    "In a large pot, melt the lard over medium heat. Add the diced onion, carrot, and celery; saut\u00e9 until the vegetables soften, about 5 minutes.",
     "Add the minced garlic, oregano, and thyme; cook for another 30 seconds until aromatic.",
-    "Pour in the low‑sodium vegetable broth and tomato puree, stir to combine, and bring the mixture to a gentle simmer.",
+    "Pour in the low\u2011sodium vegetable broth and tomato puree, stir to combine, and bring the mixture to a gentle simmer.",
     "Reduce heat to low, cover, and let the soup simmer for 15 minutes to meld flavors.",
-    "Use an immersion blender to puree the soup until smooth and tender. If you don’t have an immersion blender, transfer in batches to a countertop blender.",
+    "Use an immersion blender to puree the soup until smooth and tender. If you don\u2019t have an immersion blender, transfer in batches to a countertop blender.",
     "Stir in the toasted pistachios and lemon juice; heat through for 2 minutes to coat.",
     "Taste and adjust seasoning with a pinch of salt if desired (optional due to low sodium). Ladle the soup into bowls.",
     "Garnish each bowl with chopped fresh parsley and a few drops of lard for extra richness. Serve hot."
@@ -88,7 +88,7 @@
     "calories": 150,
     "protein": 3,
     "carbs": 14,
-    "fat": 6.5
+    "fat": 6
   },
   "slug": "nutty-tender-greek-pistachio-soup",
   "source": "ocloud-gpt-oss:20b",

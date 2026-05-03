@@ -97,9 +97,9 @@
   ],
   "nutrition": {
     "calories": 540,
-    "protein": "35g",
-    "carbs": "25g",
-    "fat": "30g"
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
   },
   "slug": "nutty-chewy-irish-beef-stir-fry",
   "source": "groq-llama-3.1-8b-instant",

@@ -23,7 +23,7 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 170°C (340°F).",
+    "Preheat your air fryer to 170\u00b0C (340\u00b0F).",
     "Grate the Parmigiano-Reggiano cheese and mix it with the mixed nuts and pinch of sea salt.",
     "Stir in the low-sodium soy sauce until well combined.",
     "Divide the mixture into small portions for easy crumbled pieces.",
@@ -40,14 +40,14 @@
     "air-fry",
     "low-sodium-friendly",
     "nutty",
-    "cuisines/japanese",
+    "cuisines-japanese",
     "snack"
   ],
   "nutrition": {
     "calories": 147,
-    "protein": 5.8,
-    "carbs": 12.3,
-    "fat": 6.9
+    "protein": 6,
+    "carbs": 12,
+    "fat": 7
   },
   "slug": "nutty-crispy-japanese-parmigiano-reggiano-crumble",
   "source": "ollama-qwen2.5:3b",

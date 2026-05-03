@@ -5,7 +5,7 @@
   "diet": [
     "low-sodium"
   ],
-  "meal": "side-dish",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "Beetroot",
@@ -37,7 +37,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C). Wrap beetroot in foil and roast for about 45 minutes or until tender.",
+    "Preheat oven to 375\u00b0F (190\u00b0C). Wrap beetroot in foil and roast for about 45 minutes or until tender.",
     "While the beetroot is roasting, toast almonds and pecans in a dry skillet over medium heat for about 2-3 minutes or until lightly golden."
   ],
   "prepTimeMin": 15,

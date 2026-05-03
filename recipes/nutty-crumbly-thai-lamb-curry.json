@@ -14,7 +14,7 @@
     {
       "name": "coconut milk",
       "amount": "400 ml",
-      "notes": "full‑fat"
+      "notes": "full\u2011fat"
     },
     {
       "name": "red curry paste",
@@ -67,7 +67,7 @@
     "Let the curry simmer uncovered for 15 minutes, allowing the flavors to meld.",
     "Stir in the lime juice, then season with salt to taste.",
     "Serve the curry over steamed jasmine rice, topping each portion with crushed peanuts, toasted coconut flakes, and a sprinkle of cilantro.",
-    "Enjoy a comforting, nutty, and slightly crunchy Thai lamb curry that’s soothing on a sick day."
+    "Enjoy a comforting, nutty, and slightly crunchy Thai lamb curry that\u2019s soothing on a sick day."
   ],
   "slug": "nutty-crumbly-thai-lamb-curry",
   "source": "ocloud-gpt-oss:20b",
@@ -86,5 +86,20 @@
     "mainIngredient": "lamb",
     "descriptor": "Nutty Crumbly",
     "dishForm": "Curry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "thai",
+    "dinner"
+  ]
 }

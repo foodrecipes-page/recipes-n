@@ -58,7 +58,7 @@
     }
   ],
   "instructions": [
-    "Preheat grill to medium-high heat (200°C/400°F).",
+    "Preheat grill to medium-high heat (200\u00b0C/400\u00b0F).",
     "In a large bowl, whisk together mixed spice blend, lemon juice, olive oil, salt, and black pepper.",
     "Add the lamb cubes to the marinade and mix well to coat.",
     "Thread the lamb, red onion, red bell pepper, zucchini, yellow bell pepper, and garlic onto skewers.",
@@ -82,9 +82,9 @@
   ],
   "nutrition": {
     "calories": 420,
-    "protein": "35g",
-    "carbs": "20g",
-    "fat": "25g"
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
   },
   "slug": "nutty-tender-australian-lamb-kebabs",
   "source": "groq-llama-3.1-8b-instant",

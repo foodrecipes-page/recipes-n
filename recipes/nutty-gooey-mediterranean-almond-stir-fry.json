@@ -60,7 +60,7 @@
   ],
   "instructions": [
     "Heat the rum-infused almonds in a small pan until they start to caramelize and add a bit of depth of flavor. Remove from heat.",
-    "In a large skillet, warm the vegetable oil over medium-high heat. Add the onion and garlic, sautéing for about 2-3 minutes or until soft and translucent.",
+    "In a large skillet, warm the vegetable oil over medium-high heat. Add the onion and garlic, saut\u00e9ing for about 2-3 minutes or until soft and translucent.",
     "Stir in the red pepper flakes and tomato paste, cooking for an additional minute to soften the ingredients slightly.",
     "Pour in the low-sodium chicken broth and low-sodium soy sauce, stir well to combine. Bring to a simmer then reduce heat to medium-low and let it cook until thickened, about 10 minutes.",
     "Gently fold in the rum-infused almonds, stirring until fully coated with the sauce. If desired, sprinkle the nutritional yeast over the mixture for added umami flavor.",
@@ -101,5 +101,10 @@
     "mainIngredient": "Almonds",
     "descriptor": "Nutty Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium"
 }

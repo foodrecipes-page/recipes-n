@@ -33,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "In a mixing bowl, combine peanut butter and coconut oil until smooth.",
     "Add cocoa powder and mix well. Gradually add honey or maple syrup, stirring continuously to avoid clumping.",
     "Fold in pumpkin seeds and almond meal gently with a spatula until evenly distributed.",
@@ -54,9 +54,9 @@
   ],
   "nutrition": {
     "calories": 201,
-    "protein": 6.9,
-    "carbs": 37.5,
-    "fat": 14.8
+    "protein": 7,
+    "carbs": 38,
+    "fat": 15
   },
   "slug": "nutty-peruvian-peanut-crumble",
   "source": "ollama-qwen2.5:3b",

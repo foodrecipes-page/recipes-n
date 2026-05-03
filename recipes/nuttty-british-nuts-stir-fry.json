@@ -37,7 +37,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "Toast almonds, pistachios, and walnuts in a dry skillet over medium heat for about 2 minutes each until lightly golden. Remove from heat.",
     "Combine toasted nuts with chilli flakes and olive oil in a mixing bowl. Mix well to coat the nuts evenly.",
     "Season with salt according to taste. Add fresh basil leaves for garnish if desired.",
@@ -76,5 +76,10 @@
     "mainIngredient": "nuts",
     "descriptor": "Nuttty",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium"
 }

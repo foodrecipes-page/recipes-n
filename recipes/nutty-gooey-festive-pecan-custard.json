@@ -52,7 +52,7 @@
     "In a small saucepan, combine almond milk, maple syrup or agave nectar, and almond butter. Heat over medium heat until warm but not boiling.",
     "In another bowl, whisk together egg yolks with salt. Gradually add the heated almond mixture while continuously whisking to ensure no lumps form.",
     "Pour half of the custard mixture into a glass dish. Sprinkle finely chopped pecans evenly on top of the custard. Pour the remaining custard over the pecans.",
-    "Transfer the prepared dish to a preheated oven at 325°F (160°C) for about 45 minutes until set and golden brown.",
+    "Transfer the prepared dish to a preheated oven at 325\u00b0F (160\u00b0C) for about 45 minutes until set and golden brown.",
     "Allow to cool slightly before serving. Garnish with additional chopped pecans or coconut if desired."
   ],
   "prepTimeMin": 15,
@@ -69,7 +69,7 @@
   ],
   "nutrition": {
     "calories": 278,
-    "protein": 5.9,
+    "protein": 6,
     "carbs": 31,
     "fat": 10
   },

@@ -1,6 +1,6 @@
 {
   "title": "Nutty Dense Syrian Broccoli Stew",
-  "description": "A hearty, FODMAP‑friendly broth made from purple sprouting broccoli and toasted almonds, slow‑cooked for maximum flavor and density.",
+  "description": "A hearty, FODMAPfriendly broth made from purple sprouting broccoli and toasted almonds, slowcooked for maximum flavor and density.",
   "cuisine": "Syrian",
   "diet": [
     "gluten-free",
@@ -16,7 +16,7 @@
     {
       "name": "Sliced almonds, toasted",
       "amount": "1 cup (90 g)",
-      "notes": "dry‑roasted, no salt added"
+      "notes": "dry\u2011roasted, no salt added"
     },
     {
       "name": "Extra virgin olive oil",
@@ -30,7 +30,7 @@
     {
       "name": "Garlic cloves",
       "amount": "1",
-      "notes": "minced, low‑FODMAP amount"
+      "notes": "minced, low\u2011FODMAP amount"
     },
     {
       "name": "Ground cumin",
@@ -49,7 +49,7 @@
       "amount": "1"
     },
     {
-      "name": "Low‑sodium vegetable stock",
+      "name": "Low\u2011sodium vegetable stock",
       "amount": "1 cup (240 ml)"
     },
     {
@@ -63,13 +63,13 @@
   ],
   "instructions": [
     "Preheat slow cooker on low.",
-    "Heat olive oil in a skillet over medium; sauté onion until translucent, about 3–4 minutes.",
+    "Heat olive oil in a skillet over medium; saut\u00e9 onion until translucent, about 3\u20134 minutes.",
     "Add minced garlic, cook 30 seconds until fragrant.",
     "Stir in cumin, coriander, and smoked paprika; cook 1 minute more.",
-    "Transfer the onion‑garlic mixture to the slow cooker.",
+    "Transfer the onion\u2011garlic mixture to the slow cooker.",
     "Add the broccoli florets and bay leaf; stir to coat everything with spices.",
     "Pour in vegetable stock and lemon juice; cover the slow cooker.",
-    "Cook on low for 6–8 hours (or on high for 3–4 hours) until the broccoli is tender and the stew is thickened.",
+    "Cook on low for 6\u20138 hours (or on high for 3\u20134 hours) until the broccoli is tender and the stew is thickened.",
     "During the last 30 minutes, stir in the toasted almonds and let them absorb the flavors.",
     "Season with salt and pepper to taste.",
     "Serve hot, garnished with fresh parsley if desired."

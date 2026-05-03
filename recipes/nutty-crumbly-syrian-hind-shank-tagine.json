@@ -1,6 +1,6 @@
 {
   "title": "Nutty Crumbly Syrian Hind Shank Tagine",
-  "description": "A festive, nutty, crumbly tagine featuring tender sous‑vide hind shank, dried fruit, and a toasted nut crumble topping.",
+  "description": "A festive, nutty, crumbly tagine featuring tender sousvide hind shank, dried fruit, and a toasted nut crumble topping.",
   "cuisine": "Syrian",
   "diet": [
     "dairy-free"
@@ -9,11 +9,11 @@
   "ingredients": [
     {
       "name": "Hind shank",
-      "amount": "4 pieces (≈4 lb)"
+      "amount": "4 pieces (\u22484\u202flb)"
     },
     {
       "name": "Olive oil",
-      "amount": "2 Tbsp"
+      "amount": "2\u202fTbsp"
     },
     {
       "name": "Onion",
@@ -25,27 +25,27 @@
     },
     {
       "name": "Dried apricots",
-      "amount": "120 g, chopped"
+      "amount": "120\u202fg, chopped"
     },
     {
       "name": "Dried figs",
-      "amount": "120 g, chopped"
+      "amount": "120\u202fg, chopped"
     },
     {
       "name": "Almonds",
-      "amount": "100 g, blanched"
+      "amount": "100\u202fg, blanched"
     },
     {
       "name": "Walnuts",
-      "amount": "50 g, chopped"
+      "amount": "50\u202fg, chopped"
     },
     {
       "name": "Sesame seeds",
-      "amount": "30 g, toasted"
+      "amount": "30\u202fg, toasted"
     },
     {
       "name": "Spices",
-      "amount": "1 tsp cumin, 1 tsp coriander, ½ tsp cinnamon"
+      "amount": "1\u202ftsp cumin, 1\u202ftsp coriander, \u00bd\u202ftsp cinnamon"
     },
     {
       "name": "Salt & pepper",
@@ -53,22 +53,22 @@
     },
     {
       "name": "Vegetable broth",
-      "amount": "250 ml + 1 bouillon cube"
+      "amount": "250\u202fml + 1 bouillon cube"
     }
   ],
   "instructions": [
-    "Preheat your sous‑vide water bath to 180 °F (82 °C).",
-    "In a vacuum‑seal bag, combine the hind shank, olive oil, diced onion, minced garlic, cumin, coriander, cinnamon, salt, pepper, and vegetable broth. Add the chopped apricots and figs, then seal the bag.",
-    "Cook the sealed bag in the sous‑vide bath for 36 hours (2160 minutes).",
+    "Preheat your sous\u2011vide water bath to 180\u202f\u00b0F (82\u202f\u00b0C).",
+    "In a vacuum\u2011seal bag, combine the hind shank, olive oil, diced onion, minced garlic, cumin, coriander, cinnamon, salt, pepper, and vegetable broth. Add the chopped apricots and figs, then seal the bag.",
+    "Cook the sealed bag in the sous\u2011vide bath for 36\u202fhours (2160\u202fminutes).",
     "While the shank cooks, toast the almonds, walnuts, and sesame seeds in a dry pan until fragrant, then crush them into coarse crumbs.",
-    "After the sous‑vide time is up, remove the bag, discard the liquid, and pat the shank dry with paper towels.",
+    "After the sous\u2011vide time is up, remove the bag, discard the liquid, and pat the shank dry with paper towels.",
     "Place the shank in a baking dish and evenly scatter the toasted nut crumble topping over the top.",
-    "Bake in a preheated oven at 400 °F (200 °C) for 10–12 minutes, or until the topping is golden brown.",
-    "Let the shank rest for 5 minutes before slicing. Serve with warm pita or a bed of couscous."
+    "Bake in a preheated oven at 400\u202f\u00b0F (200\u202f\u00b0C) for 10\u201312\u202fminutes, or until the topping is golden brown.",
+    "Let the shank rest for 5\u202fminutes before slicing. Serve with warm pita or a bed of couscous."
   ],
   "prepTimeMin": 30,
-  "cookTimeMin": 2160,
-  "totalTimeMin": 2190,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
   "servings": 6,
   "difficulty": "medium",
   "tags": [

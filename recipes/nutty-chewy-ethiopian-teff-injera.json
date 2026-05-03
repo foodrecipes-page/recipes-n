@@ -77,7 +77,7 @@
   "prepTimeMin": 15,
   "cookTimeMin": 20,
   "totalTimeMin": 35,
-  "servings": "4-6",
+  "servings": 5,
   "difficulty": "medium",
   "tags": [
     "ethiopian",
@@ -90,9 +90,9 @@
   ],
   "nutrition": {
     "calories": 220,
-    "protein": "4g",
-    "carbs": "40g",
-    "fat": "4g"
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
   },
   "slug": "nutty-chewy-ethiopian-teff-injera",
   "source": "groq-llama-3.1-8b-instant",

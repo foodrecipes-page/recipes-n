@@ -42,7 +42,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 375°F (190°C). Wash and cut potatoes into bite-sized chunks.",
+    "Preheat your oven to 375\u00b0F (190\u00b0C). Wash and cut potatoes into bite-sized chunks.",
     "Slice broccoli florets and set aside. Mince garlic cloves finely for added flavor.",
     "In a large skillet, heat olive oil over medium-high heat. Add minced garlic and cook until fragrant.",
     "Add chopped potatoes to the skillet with some salt (optional) and stir-fry for about 5 minutes or until slightly charred on all sides.",
@@ -63,9 +63,9 @@
   ],
   "nutrition": {
     "calories": 356,
-    "protein": 7.8,
-    "carbs": 49.2,
-    "fat": 10.6
+    "protein": 8,
+    "carbs": 49,
+    "fat": 11
   },
   "slug": "nostalgic-gooey-australian-potato-stir-fry",
   "source": "ollama-qwen2.5:3b",

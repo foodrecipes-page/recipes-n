@@ -38,7 +38,7 @@
     {
       "name": "3 tablespoons of vegetable oil",
       "amount": "tablespoons",
-      "notes": "For sautéing and tossing the ingredients together"
+      "notes": "For saut\u00e9ing and tossing the ingredients together"
     }
   ],
   "instructions": [
@@ -59,9 +59,9 @@
   "tags": [
     "nutty",
     "creamy",
-    "mung beans",
+    "mung-beans",
     "spanish",
-    "toasted nuts",
+    "toasted-nuts",
     "vegan-friendly"
   ],
   "nutrition": {

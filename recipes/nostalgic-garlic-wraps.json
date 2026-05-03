@@ -40,7 +40,7 @@
     "Evenly sprinkle the kosher-salt mixture over the spread peanut butter.",
     "Add finely chopped jalapeno peppers if using, then cover with the shredded mozzarella cheese.",
     "Sprinkle red pepper flakes over the top and allow all ingredients to meld together for at least 10 minutes before serving.",
-    "Heat oven to 375°F (190°C). Place wraps on a baking sheet and bake for 2-4 minutes until cheese is melted and bubbly.",
+    "Heat oven to 375\u00b0F (190\u00b0C). Place wraps on a baking sheet and bake for 2-4 minutes until cheese is melted and bubbly.",
     "Remove from oven, let cool slightly, then slice into bite-sized pieces if desired.",
     "Serve immediately while still warm."
   ],
@@ -56,10 +56,10 @@
     "mozzarella"
   ],
   "nutrition": {
-    "calories": 723.9,
-    "protein": 26.8,
-    "carbs": 45.1,
-    "fat": 20.5
+    "calories": 724,
+    "protein": 27,
+    "carbs": 45,
+    "fat": 20
   },
   "slug": "nostalgic-garlic-wraps",
   "source": "ollama-qwen2.5:3b",

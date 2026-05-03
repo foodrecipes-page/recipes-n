@@ -68,12 +68,12 @@
     {
       "name": "toasted pumpkin seeds",
       "amount": "2 tbsp",
-      "notes": "for nutty flavor, nut‑free"
+      "notes": "for nutty flavor, nut\u2011free"
     }
   ],
   "instructions": [
-    "1. Heat 1 tbsp olive oil in a heavy‑bottom pot over medium heat; sear beef cubes until browned on all sides, then remove and set aside.",
-    "2. Add the remaining oil to the pot, sauté diced onion until translucent, about 3 minutes.",
+    "1. Heat 1 tbsp olive oil in a heavy\u2011bottom pot over medium heat; sear beef cubes until browned on all sides, then remove and set aside.",
+    "2. Add the remaining oil to the pot, saut\u00e9 diced onion until translucent, about 3 minutes.",
     "3. Stir in minced garlic and cook for 30 seconds until fragrant.",
     "4. Add sliced carrots and cubed potatoes, cooking for 5 minutes to start softening the vegetables.",
     "5. Pour in crushed tomatoes and water, then stir in the beef stock cubes, thyme, bay leaf, cumin, paprika, salt, and pepper.",
@@ -100,5 +100,20 @@
     "mainIngredient": "beef",
     "descriptor": "Nutty Tender",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "kenyan",
+    "dinner"
+  ]
 }

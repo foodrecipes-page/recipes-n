@@ -43,7 +43,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F.",
+    "Preheat oven to 375\u00b0F.",
     "Rinse and dry new potatoes. Pierce them with a fork in several places.",
     "Place the potatoes on a baking sheet lined with parchment paper. Drizzle with olive oil or avocado oil and sprinkle with salt.",
     "Roast for about 40 minutes until tender, flipping halfway through cooking time.",
@@ -57,7 +57,7 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "new potatoes",
+    "new-potatoes",
     "nutty",
     "velvety",
     "plant-based"

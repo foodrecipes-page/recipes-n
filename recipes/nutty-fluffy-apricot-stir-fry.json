@@ -26,7 +26,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "Toast the almonds in a dry skillet over medium heat until they are golden brown and fragrant, about 2-3 minutes.",
     "Meanwhile, slice the dried apricots into small pieces if not already done.",
     "In a wok or large frying pan, add a bit of oil (optional).",
@@ -47,9 +47,9 @@
   ],
   "nutrition": {
     "calories": 93,
-    "protein": 4.6,
-    "carbs": 8.1,
-    "fat": 5.7
+    "protein": 5,
+    "carbs": 8,
+    "fat": 6
   },
   "slug": "nutty-fluffy-apricot-stir-fry",
   "source": "ollama-qwen2.5:3b",

@@ -36,7 +36,7 @@
     "Combine roasted peanuts and chilli oil, top with steamed broccoli for a nutty, spicy finish."
   ],
   "prepTimeMin": 5,
-  ": 2.5,  ": "totalTimeMin”: 10.5",
+  ": 2.5,  ": "totalTimeMin\u201d: 10.5",
   "servings": 2,
   "difficulty": "easy",
   "tags": [
@@ -71,5 +71,7 @@
     "mainIngredient": "chilli",
     "descriptor": "Nutty",
     "dishForm": "Sushi"
-  }
+  },
+  "cookTimeMin": 25,
+  "totalTimeMin": 40
 }
