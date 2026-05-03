@@ -1,0 +1,103 @@
+{
+  "title": "Tender Slovakian Dates Fold with Walnut Crust",
+  "description": "A delicious post-workout dessert made with sweet dates, crunchy walnuts, and a hint of cinnamon. This vegan-friendly treat is perfect for satisfying your sweet tooth after a long workout.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pitted dates",
+      "amount": "12",
+      "notes": "medjool dates"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "1/4 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "2 tbsp",
+      "notes": "creamy"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "alcohol-free"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/8 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a food processor, grind the walnuts until coarsely chopped.",
+    "In a medium bowl, combine the ground walnuts, oats, coconut sugar, cinnamon, and salt.",
+    "Mix well until a crumbly mixture forms.",
+    "Add in the almond butter and vanilla extract, and mix until a dough forms.",
+    "Scoop the dough into a lined baking sheet, pressing it into a flat square.",
+    "Place the dates on top of the dough, leaving a 1-inch border around the edges.",
+    "Fold the dough over the dates, pressing the edges to seal the fold.",
+    "Bake for 20-25 minutes, or until the crust is golden brown and the dates are tender.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Cut into squares and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "post-workout",
+    "slovakian",
+    "vegan",
+    "dessert",
+    "walnut",
+    "date",
+    "fold"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": "4g",
+    "carbs": "30g",
+    "fat": "12g"
+  },
+  "slug": "nutty-tender-slovakian-dates-fold",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tender-slovakian-dates-fold",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:53:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "stoned dates",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "dates",
+    "descriptor": "nutty tender",
+    "dishForm": "Fold"
+  }
+}

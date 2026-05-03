@@ -416,6 +416,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-and-crispy-uruguayan-grape-leaves-empanada",
+    "title": "Nutty and Crispy Uruguayan Grape Leaves Empanada",
+    "tags": [
+      "empanada",
+      "grape leaves",
+      "almonds",
+      "uruguayan cuisine",
+      "vegetarian",
+      "halal-friendly"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-australian-almonds-crumble",
     "title": "Nutty Australian Almonds Crumble",
     "tags": [
@@ -1966,6 +1981,22 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-tender-slovakian-dates-fold",
+    "title": "Tender Slovakian Dates Fold with Walnut Crust",
+    "tags": [
+      "post-workout",
+      "slovakian",
+      "vegan",
+      "dessert",
+      "walnut",
+      "date",
+      "fold"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
