@@ -14,6 +14,21 @@
     "shard": "n"
   },
   {
+    "slug": "nectarous-cheesy-venezuelan-beef-wrap",
+    "title": "Nectarous Cheesy Venezuelan Beef Wrap",
+    "tags": [
+      "cheesy",
+      "citrusy",
+      "easy-dish",
+      "latin-american",
+      "quick-lunch",
+      "wrap"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
     "slug": "nectarous-dutch-rose-pancakes",
     "title": "Nectarous Dutch Rose Pancakes",
     "tags": [

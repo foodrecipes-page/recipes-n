@@ -1,0 +1,102 @@
+{
+  "title": "Nectarous Cheesy Venezuelan Beef Wrap",
+  "description": "A citrusy, cheese-pulled wrap featuring tender feather blade beef, bright orange-lime sauce, and melted queso fresco for a light Venezuelan-inspired lunch.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "feather blade beef",
+      "amount": "200g"
+    },
+    {
+      "name": "small corn tortillas",
+      "amount": "4"
+    },
+    {
+      "name": "fresh orange",
+      "amount": "1 large"
+    },
+    {
+      "name": "fresh lime",
+      "amount": "1, zest and juice"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "100g, crumbled",
+      "notes": "can substitute mozzarella"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "avocado",
+      "amount": "1, sliced",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the lazy-susan-spinner on medium and drizzle olive oil over the bottom.",
+    "Add sliced beef, sprinkle salt and pepper, and sauté until browned, about 4 minutes.",
+    "Stir in minced garlic and cook for an additional minute until fragrant.",
+    "Pour in the orange juice and lime juice, add zest, and let the mixture simmer for 5 minutes.",
+    "Warm the tortillas in a dry skillet or the lazy-susan-spinner until pliable.",
+    "Spoon the beef mixture onto each tortilla, top with crumbled queso fresco and fresh cilantro.",
+    "Add avocado slices if using, then roll the tortillas tightly and place back in the lazy-susan-spinner.",
+    "Cook the wrapped tacos for 8 minutes to meld flavors, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "citrusy",
+    "easy-dish",
+    "latin-american",
+    "quick-lunch",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "nectarous-cheesy-venezuelan-beef-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nectarous-cheesy-venezuelan-beef-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:53:03Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "feather blade beef",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "Nectarous Cheesy",
+    "dishForm": "Wrap"
+  }
+}
