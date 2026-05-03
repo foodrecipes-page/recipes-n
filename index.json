@@ -272,6 +272,20 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-snappy-greek-chicken-pilaf",
+    "title": "Nostalgic Snappy Greek Chicken Pilaf",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "greek",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgic-spanish-orange-stir-fry",
     "title": "Nostalgic Spanish Orange Stir-fry",
     "tags": [
