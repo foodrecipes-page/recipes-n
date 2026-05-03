@@ -1,6 +1,6 @@
 {
   "title": "Nutty Juicy Dutch Steak Skewers",
-  "description": "A festive Dutch-inspired steak skewer packed with nutty crunch and tandoor‑style flavor, perfect for egg‑free gatherings.",
+  "description": "A festive Dutch-inspired steak skewer packed with nutty crunch and tandoorstyle flavor, perfect for eggfree gatherings.",
   "cuisine": "Dutch",
   "diet": [
     "egg-free"
@@ -14,7 +14,7 @@
     {
       "name": "Almond butter",
       "amount": "3 tbsp",
-      "notes": "egg‑free"
+      "notes": "egg\u2011free"
     },
     {
       "name": "Soy sauce",
@@ -27,7 +27,7 @@
     {
       "name": "Tandoor spice mix",
       "amount": "1 tbsp",
-      "notes": "smoked paprika 1 tsp, cumin 1 tsp, garam masala 1 tsp, coriander 1 tsp, chili powder 1 tsp"
+      "notes": "smoked paprika\u202f1\u202ftsp, cumin\u202f1\u202ftsp, garam\u202fmasala\u202f1\u202ftsp, coriander\u202f1\u202ftsp, chili\u202fpowder\u202f1\u202ftsp"
     },
     {
       "name": "Lemon juice",
@@ -56,9 +56,9 @@
     "Add the beef cubes, toss to coat, cover, and marinate in the refrigerator for 30 minutes.",
     "Thread marinated beef onto skewers, alternating pieces with chopped pistachios.",
     "Brush the skewers lightly with olive oil.",
-    "Grill the skewers over high heat, turning every 2 minutes, until the meat has a charred crust and reaches an internal temperature of 60°C (medium‑rare); this should take about 8–10 minutes total.",
+    "Grill the skewers over high heat, turning every 2 minutes, until the meat has a charred crust and reaches an internal temperature of 60\u00b0C (medium\u2011rare); this should take about 8\u201310 minutes total.",
     "Remove from the grill, let rest for 5 minutes, then sprinkle with extra pistachios and fresh cilantro if desired.",
-    "Serve hot with a side of Dutch mustard or a cucumber‑yogurt dip."
+    "Serve hot with a side of Dutch mustard or a cucumber\u2011yogurt dip."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 10,
