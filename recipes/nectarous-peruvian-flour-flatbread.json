@@ -1,0 +1,104 @@
+{
+  "title": "Nectarous Peruvian Flour Flatbread",
+  "description": "A citrusy, chewy flatbread inspired by Peruvian flavors, made with plain flour and a hint of cumin and chili flakes for an adventurous twist.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "amount": "200g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "10g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "orange juice",
+      "amount": "50ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "50ml"
+    },
+    {
+      "name": "warm water",
+      "amount": "150ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk together plain flour, baking powder, and salt.",
+    "Stir in sugar, lemon zest, cumin, and chili flakes until evenly mixed.",
+    "Add orange juice, lemon juice, and warm water, then mix until a soft dough forms.",
+    "Knead the dough on a lightly floured surface for 5 minutes until smooth and elastic.",
+    "Let the dough rise in a warm place for 30 minutes, covered with a damp cloth.",
+    "Divide the dough into 6 equal pieces and roll each into a thin oval.",
+    "Heat a nonstick skillet over medium heat and brush lightly with olive oil.",
+    "Cook each flatbread for 3 minutes on each side or until golden brown and chewy, reducing the heat after the first side to maintain even cooking.",
+    "Serve warm with a drizzle of honey or a sprinkle of fresh lime zest."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 18,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "chewy",
+    "citrusy",
+    "flatbread",
+    "fodmap-friendly",
+    "peruvian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "nectarous-peruvian-flour-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nectarous-peruvian-flour-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:47:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "plain flour",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Flour",
+    "descriptor": "Nectarous",
+    "dishForm": "Flatbread"
+  }
+}
