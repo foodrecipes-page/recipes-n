@@ -1,0 +1,108 @@
+{
+  "title": "Nutty Gooey Korean Bean Bun",
+  "description": "A hangover-cure Korean dish featuring chilli bean paste, crispy fry, and a nutty twist. Keto-friendly and perfect for breakfast or brunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mung bean paste",
+      "amount": "120g"
+    },
+    {
+      "name": "Gochujang (Korean chilli paste)",
+      "amount": "30g"
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "20g"
+    },
+    {
+      "name": "Crushed sesame seeds",
+      "amount": "20g"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "20g"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "10g"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "5g"
+    },
+    {
+      "name": "Salt",
+      "amount": "2g"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1g"
+    },
+    {
+      "name": "Water",
+      "amount": "50ml"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Mung bean bun (Korean steamed bun)",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together mung bean paste, gochujang, sugar, salt, and 20ml of water.",
+    "Heat 10g of coconut oil in a pan over medium heat. Add the fried shallots and cook until crispy.",
+    "Add the crushed sesame seeds and cook for an additional minute, stirring constantly.",
+    "Add the chili flakes and cook for 1 minute, stirring constantly.",
+    "Add the mung bean paste mixture and cook for 2-3 minutes, stirring constantly.",
+    "Add the egg and stir until the mixture thickens.",
+    "Place the mung bean buns on a baking sheet and toast until lightly browned.",
+    "Spread the nutty gooey mixture on the toasted buns.",
+    "Drizzle with sesame oil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "hangover-cure",
+    "keto-friendly",
+    "bun",
+    "mung-bean-paste",
+    "chilli-bean-paste"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "nutty-gooey-korean-bean-bun",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-gooey-korean-bean-bun",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:29:33Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "fry",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "bean",
+    "descriptor": "nutty gooey",
+    "dishForm": "Bun"
+  }
+}
