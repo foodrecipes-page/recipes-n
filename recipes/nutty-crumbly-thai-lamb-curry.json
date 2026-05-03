@@ -1,0 +1,90 @@
+{
+  "title": "Nutty Crumbly Thai Lamb Curry",
+  "description": "A comforting Thai-inspired curry with aromatic coconut milk, nutty peanut sauce, and crumbly toasted coconut topping, perfect for a sick day.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "250 g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400 ml",
+      "notes": "full‑fat"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "roasted peanuts, crushed",
+      "amount": "50 g"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "30 g"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Stir in the minced garlic and ginger, cooking for 1 minute until fragrant.",
+    "Add the lamb mince, breaking it apart with a wooden spoon; cook until browned, 5-7 minutes.",
+    "Pour in the red curry paste and stir to coat the meat, cooking for 2 minutes.",
+    "Add the coconut milk and brown sugar; bring to a gentle simmer.",
+    "Let the curry simmer uncovered for 15 minutes, allowing the flavors to meld.",
+    "Stir in the lime juice, then season with salt to taste.",
+    "Serve the curry over steamed jasmine rice, topping each portion with crushed peanuts, toasted coconut flakes, and a sprinkle of cilantro.",
+    "Enjoy a comforting, nutty, and slightly crunchy Thai lamb curry that’s soothing on a sick day."
+  ],
+  "slug": "nutty-crumbly-thai-lamb-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crumbly-thai-lamb-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:53:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "reduce",
+    "primaryIngredient": "lamb mince",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "lamb",
+    "descriptor": "Nutty Crumbly",
+    "dishForm": "Curry"
+  }
+}
