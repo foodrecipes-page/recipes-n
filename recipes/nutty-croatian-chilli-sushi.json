@@ -1,0 +1,75 @@
+{
+  "title": "Nutty Croatian Chilli Sushi",
+  "description": "A romantic, keto-friendly dish featuring crunchy roasted peanuts and spicy chilli flakes, served with a steamy broth for a touch of warmth.",
+  "cuisine": "croatian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "roasted peanuts",
+      "amount": "2 tbsp",
+      "notes": "pre-roasted for crunch"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1 tsp",
+      "notes": "freshly cracked for heat"
+    },
+    {
+      "name": "steamed broccoli",
+      "amount": "1 cup",
+      "notes": "sliced thin for texture"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for light drizzle"
+    }
+  ],
+  "instructions": [
+    "Roast peanuts in dry pan over medium heat until fragrant (3 mins).",
+    "In a small bowl, mix chilli flakes with 1 tsp sesame oil.",
+    "Steam broccoli for 5 minutes until tender-crisp.",
+    "Combine roasted peanuts and chilli oil, top with steamed broccoli for a nutty, spicy finish."
+  ],
+  "prepTimeMin": 5,
+  ": 2.5,  ": "totalTimeMin”: 10.5",
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "keto",
+    "chilli",
+    "sushi",
+    "nutty",
+    "romantic",
+    "steam"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 15
+  },
+  "slug": "nutty-croatian-chilli-sushi",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-croatian-chilli-sushi",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:54:16Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "steam",
+    "primaryIngredient": "chilli flakes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chilli",
+    "descriptor": "Nutty",
+    "dishForm": "Sushi"
+  }
+}
