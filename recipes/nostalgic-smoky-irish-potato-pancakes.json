@@ -1,0 +1,108 @@
+{
+  "title": "Nostalgic Smoky Irish Potato Pancakes",
+  "description": "A flaky, smoky Irish pancake that pairs perfectly with a scoop of vanilla ice cream for a nostalgic brunch treat.",
+  "cuisine": "Irish",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "600g grated",
+      "notes": "medium"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "120g (1 cup)",
+      "notes": ""
+    },
+    {
+      "name": "buttermilk",
+      "amount": "120ml (1/2 cup)",
+      "notes": "fermented"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese, shredded",
+      "amount": "30g (1/4 cup)",
+      "notes": "optional"
+    },
+    {
+      "name": "vanilla ice cream",
+      "amount": "250ml (1 cup)",
+      "notes": "serving"
+    }
+  ],
+  "instructions": [
+    "Peel and grate the potatoes, then squeeze out excess moisture with a clean towel.",
+    "In a large bowl, combine grated potatoes, flour, smoked paprika, and kosher salt; mix until evenly coated.",
+    "Whisk eggs, buttermilk, and smoked pepper in a separate bowl, then pour into the potato mixture and stir until smooth batter forms.",
+    "Fold in chopped parsley and shredded cheddar, if using.",
+    "Heat a non-stick skillet over medium heat and brush with a thin layer of melted butter or oil.",
+    "Pour 1/4 cup batter per pancake onto the skillet, spreading slightly, and cook 3-4 minutes until golden edges form.",
+    "Flip pancakes and cook another 2-3 minutes until crisp and cooked through.",
+    "Serve hot with a scoop of vanilla ice cream on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "fluffy",
+    "irish",
+    "kosher-friendly",
+    "one-pan",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "nostalgic-smoky-irish-potato-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-smoky-irish-potato-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:44:41Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "ice cream",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Potato",
+    "descriptor": "Nostalgic Smoky",
+    "dishForm": "Pancakes"
+  }
+}
