@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Tender Zanzibari Beef Stew",
+  "description": "A hearty, nutty-flavored stew with tender beef, aromatic spices, and a silky sauce whisked to perfection, perfect for a comforting Kenyan dinner.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck, cut into 2.5 cm cubes",
+      "amount": "1 kg"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "2"
+    },
+    {
+      "name": "potato, cubed",
+      "amount": "1 medium"
+    },
+    {
+      "name": "canned tomatoes, crushed",
+      "amount": "400 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beef stock cubes",
+      "amount": "2"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "toasted pumpkin seeds",
+      "amount": "2 tbsp",
+      "notes": "for nutty flavor, nut‑free"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tbsp olive oil in a heavy‑bottom pot over medium heat; sear beef cubes until browned on all sides, then remove and set aside.",
+    "2. Add the remaining oil to the pot, sauté diced onion until translucent, about 3 minutes.",
+    "3. Stir in minced garlic and cook for 30 seconds until fragrant.",
+    "4. Add sliced carrots and cubed potatoes, cooking for 5 minutes to start softening the vegetables.",
+    "5. Pour in crushed tomatoes and water, then stir in the beef stock cubes, thyme, bay leaf, cumin, paprika, salt, and pepper.",
+    "6. Return the seared beef to the pot, cover, and bring to a gentle boil.",
+    "7. Reduce heat to low, cover, and simmer for 45 minutes, or until beef is tender and vegetables are cooked through.",
+    "8. Remove the bay leaf, and use a whisk to blend the stew into a smooth, cohesive sauce, adding a touch of creaminess.",
+    "9. Stir in toasted pumpkin seeds for a nutty, crunchy finish and adjust seasoning if necessary.",
+    "10. Serve hot over steamed rice or with a side of flatbread, garnished with fresh herbs if desired."
+  ],
+  "slug": "nutty-tender-zanzibari-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tender-zanzibari-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:32:39Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "beef stock cubes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "beef",
+    "descriptor": "Nutty Tender",
+    "dishForm": "Stew"
+  }
+}
