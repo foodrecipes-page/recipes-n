@@ -1,0 +1,113 @@
+{
+  "title": "Nourishing Jamaican Peaches Stew",
+  "description": "A tangy, dense stew that blends sweet peaches, coconut milk, and Jamaican curry for a comforting sick‑day meal.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh peaches",
+      "amount": "4 medium",
+      "notes": "pitted and diced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 teaspoon",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Peel, pit, and dice the peaches and set them aside.",
+    "Heat the coconut oil in a large saucepan over medium heat until shimmering.",
+    "Add the diced onion and minced garlic, and sauté until the onion is translucent, about 3 minutes.",
+    "Stir in the curry powder and allspice, cooking for 30 seconds to release their aromas.",
+    "Pour in the coconut milk and water, then add the diced peaches and stir to combine.",
+    "Season with salt, honey, lemon juice, and crushed red pepper flakes, and bring the mixture to a gentle simmer.",
+    "Reduce the heat to low and let the stew cook for 20 minutes, stirring occasionally, until the peaches soften and the flavors meld.",
+    "Taste and adjust seasoning with additional honey or lemon juice if needed.",
+    "Remove from heat and stir in the chopped cilantro.",
+    "Serve hot, spooning the thick stew into bowls and garnishing with extra cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "curry",
+    "dairy-free",
+    "dense",
+    "peach",
+    "sick-day",
+    "tropical"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 4,
+    "carbs": 52,
+    "fat": 27
+  },
+  "slug": "nourishing-jamaican-peaches-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-jamaican-peaches-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:17:42Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "candy",
+    "primaryIngredient": "peaches",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Peaches",
+    "descriptor": "Nourishing",
+    "dishForm": "Stew"
+  }
+}
