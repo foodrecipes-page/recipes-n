@@ -1,0 +1,117 @@
+{
+  "title": "Nutty Crisp Jamaican Fish Tagine",
+  "description": "A sweet and savory Jamaican-inspired dish featuring crispy fish, toasted nuts, and a hint of spice. Perfect for a sugar-free dinner option.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fillets (4)",
+      "amount": "4",
+      "notes": "Fresh or frozen, skin removed"
+    },
+    {
+      "name": "Unsalted Butter (4 tablespoons)",
+      "amount": "4 tbsp",
+      "notes": "Softened"
+    },
+    {
+      "name": "Toasted Pecans (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Allspice (1 teaspoon)",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Thyme (2 sprigs)",
+      "amount": "2 sprigs",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Cinnamon (1/2 teaspoon)",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Lime Juice (2 tablespoons)",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Honey (2 tablespoons)",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Red Pepper Flakes (1/4 teaspoon)",
+      "amount": "1/4 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Red Onion (1 medium)",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh Cilantro (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat. Add sliced red onion and cook, stirring occasionally, until caramelized (5-7 minutes).",
+    "Add toasted pecans, allspice, thyme, and cinnamon to the pot. Stir to combine and cook for 1-2 minutes.",
+    "Add cod fillets to the pot, skin side up (if they have skin). Cook for 2-3 minutes or until the skin is crispy.",
+    "Flip the cod fillets over and add butter to the pot. Once melted, stir to coat the fish.",
+    "Add lime juice, honey (if using), and red pepper flakes (if using) to the pot. Stir to combine.",
+    "Simmer the tagine over low heat, covered, until the fish is cooked through (8-10 minutes).",
+    "Garnish with chopped cilantro and serve with rice or over a bed of greens."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "fish",
+    "tagine",
+    "sugar-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "nutty-crisp-jamaican-fish-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crisp-jamaican-fish-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:35:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "simmer",
+    "primaryIngredient": "salted butter",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fish",
+    "descriptor": "nutty crisp",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Nutty Crispy Polish Potato Fritters",
+  "description": "A festive Polish dish featuring caramelized onions, crispy exterior, and nutty flavor. Perfect for a high-protein snack or side dish.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "about 2 cups, peeled, grated"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "about 1 cup, grated, caramelized (see instructions)"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free for gluten-free diet"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free for gluten-free diet"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "for moisture and flavor"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "onion salt for extra flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tadka",
+      "amount": "2 tbsp",
+      "notes": "see tadka instructions"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "1/4 cup",
+      "notes": "for added crunch and flavor"
+    }
+  ],
+  "instructions": [
+    "Grate the potatoes and onions coarsely.",
+    "Heat 1 tbsp of vegetable oil in a pan over medium heat. Add grated onions and cook, stirring occasionally, for 15-20 minutes, or until caramelized.",
+    "Mix together grated potatoes, cooked onions, beaten egg, Greek yogurt, chopped parsley, salt, black pepper, and chopped walnuts in a bowl.",
+    "Add gluten-free flour and breadcrumbs to the potato mixture and mix until well combined.",
+    "Heat tadka in a small pan over low heat. Carefully add 2 cups of water and bring to a simmer.",
+    "Using a spoon, add small portions of the potato mixture to the tadka water and fry until golden brown and crispy.",
+    "Using a slotted spoon, remove the fritters from the tadka water and place them on a paper towel-lined plate to drain excess oil.",
+    "Fry the remaining potato mixture in batches until all the fritters are cooked.",
+    "Serve the nutty crispy Polish potato fritters hot, garnished with chopped parsley and a drizzle of tadka."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "potato",
+    "fritters",
+    "caramelized-onions",
+    "tadka",
+    "walnuts"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "nutty-crispy-polish-potato-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-polish-potato-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:36:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "tadka",
+    "primaryIngredient": "onion salt",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "potato",
+    "descriptor": "nutty crispy",
+    "dishForm": "Fritters"
+  }
+}

@@ -645,6 +645,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crisp-jamaican-fish-tagine",
+    "title": "Nutty Crisp Jamaican Fish Tagine",
+    "tags": [
+      "jamaican",
+      "fish",
+      "tagine",
+      "sugar-free",
+      "gluten-free"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-crisp-philippine-cassava-stir-fry",
     "title": "Nutty Crisp Philippine Cassava Stir-fry",
     "tags": [
@@ -742,6 +756,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 13,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-polish-potato-fritters",
+    "title": "Nutty Crispy Polish Potato Fritters",
+    "tags": [
+      "polish",
+      "potato",
+      "fritters",
+      "caramelized-onions",
+      "tadka",
+      "walnuts"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
