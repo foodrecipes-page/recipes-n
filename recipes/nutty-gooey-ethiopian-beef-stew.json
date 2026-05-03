@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Gooey Ethiopian Beef Stew",
+  "description": "A rich and flavorful Ethiopian-inspired stew featuring tender beef in a nutty and slightly sweet gravy, perfect for a low-carb diet. This dish is slow-cooked to perfection with a blend of aromatic spices and nuts.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes. Remove the beef from the pot and set aside.",
+    "Add more oil if necessary, then add the onion and cook until it starts to caramelize, about 8 minutes.",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Stir in the berbere spice mix, cumin, and coriander. Cook for 1 minute.",
+    "Add the peanuts and cook for 1 minute, stirring constantly.",
+    "Add the beef broth, tomato paste, and browned beef back to the pot. Bring to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours, or until the beef is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "beef",
+    "stew",
+    "low-carb",
+    "nutty",
+    "gooey"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "nutty-gooey-ethiopian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-gooey-ethiopian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:38:54Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "simmer",
+    "primaryIngredient": "beef gravy",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "nutty gooey",
+    "dishForm": "Stew"
+  }
+}
