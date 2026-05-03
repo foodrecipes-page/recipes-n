@@ -1,0 +1,105 @@
+{
+  "title": "Nectarous Dutch Rose Pancakes",
+  "description": "Floral, fluffy Dutch pancakes with a hint of rose, perfect for a romantic date night and low-FODMAP friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "oat flour",
+      "amount": "100g",
+      "notes": "low-FODMAP"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "raw honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "edible rose petals",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk together oat flour, baking powder, salt, and cinnamon.",
+    "In a separate bowl whisk the warm water, egg, honey, vanilla extract, and rose water.",
+    "Pour the wet mixture into the dry mixture and whisk until smooth.",
+    "Add the edible rose petals and fold them gently into the batter.",
+    "Heat a non-stick skillet over medium heat and melt the coconut oil.",
+    "Pour 1/4 cup of batter onto the skillet for each pancake and swirl to form a circle.",
+    "Cook until bubbles form and edges dry, about 2 minutes.",
+    "Flip the pancake and cook for another 2 minutes until golden.",
+    "Repeat with remaining batter, adding more coconut oil as needed.",
+    "Serve warm with a drizzle of honey and a dusting of powdered sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "dutch",
+    "floral",
+    "fluffy",
+    "fodmap-friendly",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 5,
+    "carbs": 21,
+    "fat": 7
+  },
+  "slug": "nectarous-dutch-rose-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nectarous-dutch-rose-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:49:56Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "whisk",
+    "primaryIngredient": "warm water",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "rose",
+    "descriptor": "Nectarous",
+    "dishForm": "Pancakes"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "title": "Nourishing Syrian Chicken Stew",
+  "description": "A citrusy, juicy stew with a comforting blend of spices and a fragrant bouquet garni. Whole30-friendly and perfect for a hearty dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "2 lbs",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 carrots",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "4",
+      "notes": "diced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Bouquet garni",
+      "amount": "1 bundle",
+      "notes": "parsley, thyme, bay leaf"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Stir in minced garlic and cook for 30 seconds until fragrant.",
+    "Add chicken thighs and brown on all sides, about 5 minutes.",
+    "Toss in sliced carrots, red bell pepper, and diced tomatoes, stirring to combine.",
+    "Sprinkle cumin, coriander, and add the bouquet garni to the pot.",
+    "Pour in chicken broth, bring mixture to a gentle boil, then reduce heat and simmer, covered, for 25 minutes.",
+    "Stir in fresh lemon juice and adjust seasoning with salt and pepper to taste.",
+    "Remove bouquet garni and discard.",
+    "Serve hot over cooked quinoa or with a side of fresh salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bouquet-garni",
+    "citrusy",
+    "comforting",
+    "simmered",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 75,
+    "carbs": 60,
+    "fat": 45
+  },
+  "slug": "nourishing-syrian-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-syrian-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:50:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "cure",
+    "primaryIngredient": "bouquet garni",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing",
+    "dishForm": "Stew"
+  }
+}

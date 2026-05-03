@@ -1,0 +1,122 @@
+{
+  "title": "Nourishing Irish Semolina Stew",
+  "description": "A velvety, savory stew that blends semolina flour with hearty vegetables in a slow‑cooked broth, perfect for a comforting Irish dinner.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "3 tbsp",
+      "notes": "45 g"
+    },
+    {
+      "name": "beef broth",
+      "amount": "6 cups",
+      "notes": "1.5 L"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "200 g, diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "200 g, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "150 g, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "6 g, minced"
+    },
+    {
+      "name": "leeks",
+      "amount": "1",
+      "notes": "150 g, white and light green, sliced"
+    },
+    {
+      "name": "barley",
+      "amount": "1/4 cup dry",
+      "notes": "45 g"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "2 g, dried"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "6 g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "1.5 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "14 g"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add 1 tbsp olive oil.",
+    "Add diced onion, carrots, celery, and leeks to the pot, and sauté until softened, about 5 minutes.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Sprinkle in 3 tbsp semolina flour and stir to coat the vegetables, cooking for 2 minutes.",
+    "Pour in 6 cups beef broth, bring to a gentle simmer, and add the bay leaf, thyme, salt, and pepper.",
+    "Stir in 1/4 cup dry barley and reduce heat to low.",
+    "Cover the pot and let the stew simmer for 45 minutes, stirring occasionally.",
+    "During the last 10 minutes, add 3 tbsp semolina flour again, stirring constantly until the stew thickens to a velvety consistency.",
+    "Remove the bay leaf, taste, and adjust seasoning if needed.",
+    "Serve hot, optionally garnish with fresh chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 55,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish",
+    "nut-free",
+    "slow-cook",
+    "vegetable-rich"
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 47,
+    "carbs": 142,
+    "fat": 18
+  },
+  "slug": "nourishing-irish-semolina-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-irish-semolina-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:50:07Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "slow-cook",
+    "primaryIngredient": "semolina flour",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "semolina",
+    "descriptor": "Nourishing",
+    "dishForm": "Stew"
+  }
+}

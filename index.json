@@ -14,6 +14,21 @@
     "shard": "n"
   },
   {
+    "slug": "nectarous-dutch-rose-pancakes",
+    "title": "Nectarous Dutch Rose Pancakes",
+    "tags": [
+      "date-night",
+      "dutch",
+      "floral",
+      "fluffy",
+      "fodmap-friendly",
+      "romantic"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nectarous-peruvian-flour-flatbread",
     "title": "Nectarous Peruvian Flour Flatbread",
     "tags": [
@@ -304,6 +319,34 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 210,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-irish-semolina-stew",
+    "title": "Nourishing Irish Semolina Stew",
+    "tags": [
+      "comfort-food",
+      "irish",
+      "nut-free",
+      "slow-cook",
+      "vegetable-rich"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-syrian-chicken-stew",
+    "title": "Nourishing Syrian Chicken Stew",
+    "tags": [
+      "bouquet-garni",
+      "citrusy",
+      "comforting",
+      "simmered",
+      "whole30-friendly"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
