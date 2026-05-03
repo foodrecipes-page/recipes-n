@@ -1,0 +1,88 @@
+{
+  "title": "Nutty Velvety Syrian Cheese Salad",
+  "description": "A creamy, nutty Syrian-inspired salad that blends toasted pine nuts, crisp cucumbers, and velvety grated Parmesan for a kid-friendly lunch.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "egg-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "150 g",
+      "notes": "diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "100 g",
+      "notes": "halved"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "30 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "20 g",
+      "notes": "grated"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "20 g",
+      "notes": "toasted and crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "cold‑pressed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional, for sweetness"
+    },
+    {
+      "name": "sumac",
+      "amount": "pinch",
+      "notes": "optional, for flavor"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash and dice the cucumber, and halve the cherry tomatoes.",
+    "Crumbled the feta cheese and grated the Parmesan cheese.",
+    "In a small dry skillet, toast the pine nuts over medium heat for 4–5 minutes, stirring constantly, until golden and fragrant; transfer to a plate to cool.",
+    "In a large bowl, combine the cucumber, tomatoes, feta, Parmesan, and toasted pine nuts.",
+    "Whisk together olive oil, lemon juice, honey (if using), a pinch of sumac, salt, and pepper to create a dressing.",
+    "Pour the dressing over the salad and gently toss until all ingredients are evenly coated.",
+    "Serve immediately, or refrigerate for up to 2 hours for a chilled option."
+  ],
+  "slug": "nutty-velvety-syrian-cheese-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-velvety-syrian-cheese-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:47:49Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "cure",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "cheese",
+    "descriptor": "Nutty Velvety",
+    "dishForm": "Salad"
+  }
+}
