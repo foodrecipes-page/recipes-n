@@ -1,0 +1,110 @@
+{
+  "title": "Nurturing Jamaican Hibiscus Stew",
+  "description": "A floral, gooey, cozy Jamaican stew featuring smoked paprika and a gentle braise, kosher-friendly and comforting.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried hibiscus flowers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 medium, cubed"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tofu",
+      "amount": "200 g, cubed"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and cook until translucent.",
+    "Stir in minced garlic, smoked paprika, ground ginger, and turmeric, cooking for 1 minute.",
+    "Add sliced carrots, cubed sweet potato, and diced bell pepper, sautéing for 5 minutes.",
+    "Pour in vegetable broth, coconut milk, and dried hibiscus flowers, bringing to a simmer.",
+    "Add cubed tofu and cover, reducing heat to low and letting the stew braise for 20 minutes.",
+    "Stir occasionally, ensuring the hibiscus has released its color into the broth.",
+    "Remove lid, cook for an additional 5 minutes to thicken slightly.",
+    "Season with salt and pepper to taste.",
+    "Ladle stew into bowls and garnish with chopped cilantro.",
+    "Serve hot with steamed rice or crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "floral",
+    "jamaican",
+    "kosher-friendly",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 283,
+    "protein": 7,
+    "carbs": 21,
+    "fat": 21
+  },
+  "slug": "nurturing-jamaican-hibiscus-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nurturing-jamaican-hibiscus-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:04:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "braise",
+    "primaryIngredient": "smoked paprika",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Hibiscus",
+    "descriptor": "Nurturing",
+    "dishForm": "Stew"
+  }
+}
