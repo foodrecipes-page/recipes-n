@@ -789,6 +789,22 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crispy-thai-chicken-fritters",
+    "title": "Nutty Crispy Thai Chicken Fritters",
+    "tags": [
+      "thaifood",
+      "chickfritters",
+      "crispyfried",
+      "snack",
+      "appetizer",
+      "lowcarb",
+      "glutenfree"
+    ],
+    "cuisine": "thaicuisine",
+    "totalTimeMin": 18,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-crispy-turkish-leek-stir-fry",
     "title": "Nutty Crispy Turkish Leek Stir-fry",
     "tags": [
@@ -1886,6 +1902,23 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-tender-greek-pistachio-soup",
+    "title": "Nutty Tender Greek Pistachio Soup",
+    "tags": [
+      "nutty",
+      "tender",
+      "hangover-cure",
+      "low-sodium-friendly",
+      "mediterranean",
+      "lard",
+      "pistachio",
+      "soup"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
