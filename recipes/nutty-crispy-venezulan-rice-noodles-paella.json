@@ -1,0 +1,115 @@
+{
+  "title": "Venezuelan Nutty Crispy Rice Noodles Paella",
+  "description": "A vibrant and flavorful Venezuelan dish featuring nutty and crispy rice noodles, perfect for a festive dinner with family and friends.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "egg-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan or skillet over medium-high heat.",
+    "Add the onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the garlic, smoked paprika, and cumin. Cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the vegetable broth and bring to a boil.",
+    "Add the saffron threads and cook for 2 minutes.",
+    "Add the rice noodles and cook for 2-3 minutes or until they start to soften.",
+    "Transfer the pan to the oven and bake at 400°F (200°C) for 10-12 minutes or until the noodles are crispy and golden brown.",
+    "Remove the pan from the oven and stir in the chopped peanuts and cilantro.",
+    "Serve hot and enjoy!",
+    "If desired, garnish with additional cilantro and peanuts."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "paella",
+    "rice-noodles",
+    "veggie",
+    "crispy",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "15g",
+    "carbs": "80g",
+    "fat": "20g"
+  },
+  "slug": "nutty-crispy-venezulan-rice-noodles-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-venezulan-rice-noodles-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:37:30Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "blanch",
+    "primaryIngredient": "rice noodles",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Venezulan",
+    "mainIngredient": "rice noodles",
+    "descriptor": "nutty crispy",
+    "dishForm": "Paella"
+  }
+}

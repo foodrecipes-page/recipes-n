@@ -1,0 +1,108 @@
+{
+  "title": "Nutty Silky Filipino Beef-Brisket Adobo",
+  "description": "A kid-friendly Filipino dish featuring tender beef brisket in a rich and nutty sauce, perfect for families and Whole30 diets.",
+  "cuisine": "Filipino",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef brisket",
+      "amount": "2-3 pounds",
+      "notes": "Choose a cut with some marbling for tenderness"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "Make sure to choose a cold-pressed, unrefined oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Anise",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Coconut vinegar",
+      "amount": "1/4 cup",
+      "notes": "Make sure to choose a brand that is free from additives"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "Filtered"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven or heavy pot, heat the coconut oil over medium heat.",
+    "Add the minced garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the grated ginger and sauté for another minute.",
+    "Add the beef brisket and sear on all sides until browned, about 2-3 minutes per side.",
+    "Add the ground anise, bay leaves, black pepper, coconut vinegar, and water.",
+    "Bring the mixture to a simmer, then cover the pot with a lid.",
+    "Transfer the pot to the preheated oven and braise the beef for 2-3 hours, or until tender.",
+    "Remove the pot from the oven and let it rest for 30 minutes.",
+    "Strain the sauce through a fine-mesh sieve into a bowl, discarding the solids.",
+    "Return the beef to the pot and simmer the sauce over low heat until it has thickened.",
+    "Slice the beef against the grain and serve with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "filipino",
+    "whole30",
+    "nutty",
+    "silky",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "10g",
+    "fat": "45g"
+  },
+  "slug": "nutty-silky-filipino-beef-brisket-adobo",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-silky-filipino-beef-brisket-adobo",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:37:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "rest",
+    "primaryIngredient": "beef brisket",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beef-brisket",
+    "descriptor": "nutty silky",
+    "dishForm": "Adobo"
+  }
+}

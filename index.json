@@ -829,6 +829,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crispy-venezulan-rice-noodles-paella",
+    "title": "Venezuelan Nutty Crispy Rice Noodles Paella",
+    "tags": [
+      "venezuelan",
+      "paella",
+      "rice-noodles",
+      "veggie",
+      "crispy",
+      "festive"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-croatian-chilli-sushi",
     "title": "Nutty Croatian Chilli Sushi",
     "tags": [
@@ -1732,6 +1747,21 @@
     ],
     "cuisine": "Philippine",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-silky-filipino-beef-brisket-adobo",
+    "title": "Nutty Silky Filipino Beef-Brisket Adobo",
+    "tags": [
+      "beef",
+      "filipino",
+      "whole30",
+      "nutty",
+      "silky",
+      "kid-friendly"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 140,
     "shard": "n"
   },
   {
