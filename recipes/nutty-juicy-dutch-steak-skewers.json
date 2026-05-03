@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Juicy Dutch Steak Skewers",
+  "description": "A festive Dutch-inspired steak skewer packed with nutty crunch and tandoor‑style flavor, perfect for egg‑free gatherings.",
+  "cuisine": "Dutch",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin (cubed 1.5 cm)",
+      "amount": "800 g"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "3 tbsp",
+      "notes": "egg‑free"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tandoor spice mix",
+      "amount": "1 tbsp",
+      "notes": "smoked paprika 1 tsp, cumin 1 tsp, garam masala 1 tsp, coriander 1 tsp, chili powder 1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh ginger, grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pistachios, chopped",
+      "amount": "30 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or Dutch oven to high heat to simulate a tandoor.",
+    "Whisk together almond butter, soy sauce, maple syrup, tandoor spice mix, lemon juice, garlic, and ginger in a bowl.",
+    "Add the beef cubes, toss to coat, cover, and marinate in the refrigerator for 30 minutes.",
+    "Thread marinated beef onto skewers, alternating pieces with chopped pistachios.",
+    "Brush the skewers lightly with olive oil.",
+    "Grill the skewers over high heat, turning every 2 minutes, until the meat has a charred crust and reaches an internal temperature of 60°C (medium‑rare); this should take about 8–10 minutes total.",
+    "Remove from the grill, let rest for 5 minutes, then sprinkle with extra pistachios and fresh cilantro if desired.",
+    "Serve hot with a side of Dutch mustard or a cucumber‑yogurt dip."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "steak",
+    "skewers",
+    "nutty",
+    "tandoor",
+    "egg-free",
+    "festive",
+    "grill",
+    "beef",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 238,
+    "protein": 16,
+    "carbs": 9,
+    "fat": 15
+  },
+  "slug": "nutty-juicy-dutch-steak-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-juicy-dutch-steak-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:20:23Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "tandoor",
+    "primaryIngredient": "skirty steak",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "steak",
+    "descriptor": "Nutty Juicy",
+    "dishForm": "Skewers"
+  }
+}
