@@ -1,0 +1,108 @@
+{
+  "title": "Nourishing Tender Irish Lamb Braise",
+  "description": "A classic Irish dish featuring tender lamb, fluffy potatoes, and a tangy jam-based sauce, all cooked to perfection in one pot. This recipe is a great weeknight option.",
+  "cuisine": "irish",
+  "diet": [
+    "sugar-free-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, 2 pounds",
+      "amount": "2",
+      "notes": "bone-in or boneless"
+    },
+    {
+      "name": "onion, 1 medium",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic, 3 cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free flour for gluten-free option"
+    },
+    {
+      "name": "beef broth, 2 cups",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Irish jam, 1 cup",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "potato, 2 large",
+      "amount": "2",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "rosemary, 2 sprigs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the caraway seeds and cook for 1 minute.",
+    "Sprinkle the flour over the onion mixture and cook for 1 minute.",
+    "Slowly add the beef broth, whisking constantly, and bring the mixture to a boil.",
+    "Return the lamb to the pot and add the Irish jam, rosemary sprigs, and potatoes.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb until tender and the potatoes are cooked through, about 2-3 hours.",
+    "Serve the lamb and potatoes hot, garnished with extra rosemary if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "irish",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "nourishing-tender-irish-lamb-braise",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-tender-irish-lamb-braise",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:41:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "braise",
+    "primaryIngredient": "jam",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Lamb",
+    "descriptor": "Nourishing Tender",
+    "dishForm": "Braise"
+  }
+}
