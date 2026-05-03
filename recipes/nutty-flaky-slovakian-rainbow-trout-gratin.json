@@ -1,0 +1,115 @@
+{
+  "title": "Nutty Flaky Slovakian Rainbow Trout Gratin",
+  "description": "A Mediterranean‑friendly Slovakian gratin that pairs flaky rainbow trout with a crunchy walnut‑breadcrumb topping and a bright yogurt‑tadka sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "pescatarian",
+    "mediterranean-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rainbow trout fillets",
+      "amount": "800 g (4 fillets, ~200 g each)",
+      "notes": "skin removed, seasoned with salt and pepper"
+    },
+    {
+      "name": "Walnuts, toasted",
+      "amount": "60 g",
+      "notes": "roughly 1 cup, chopped"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "30 g",
+      "notes": "preferably panko"
+    },
+    {
+      "name": "Parmesan cheese, grated",
+      "amount": "30 g",
+      "notes": "about 1/4 cup"
+    },
+    {
+      "name": "Greek yogurt, plain",
+      "amount": "250 g",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15 ml (1 tbsp)",
+      "notes": "for the topping"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "40 g (3 tbsp)",
+      "notes": "for dotting the top"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "1 tbsp",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Lemon zest and juice",
+      "amount": "from 1 lemon",
+      "notes": "zest of the peel and 2 tbsp juice"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tbsp",
+      "notes": "for the tadka"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": "for the tadka"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2",
+      "notes": "about 2 tsp"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 190 °C (375 °F).",
+    "Season the trout fillets with salt and pepper and place them skin‑side down in a greased baking dish.",
+    "In a bowl mix the toasted walnuts, breadcrumbs, grated Parmesan, olive oil, lemon zest, chopped dill, and smoked paprika to form the crust.",
+    "Spread the yogurt over each fillet, then sprinkle the nut‑breadcrumb mixture evenly on top.",
+    "Reserve the remaining yogurt mixture for the tadka: combine it with mustard seeds, cumin seeds, minced garlic, and chili flakes, stirring until well blended.",
+    "Dot the melted butter over the crust and drizzle a few spoonfuls of the yogurt tadka around the fillets.",
+    "Bake for 15–18 minutes, until the trout flakes easily and the topping is golden and crisp.",
+    "Serve immediately with lemon wedges and a sprinkle of fresh dill if desired."
+  ],
+  "slug": "nutty-flaky-slovakian-rainbow-trout-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-flaky-slovakian-rainbow-trout-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:21:55Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "tadka",
+    "primaryIngredient": "rainbow trout",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "rainbow trout",
+    "descriptor": "Nutty Flaky",
+    "dishForm": "Gratin"
+  }
+}
