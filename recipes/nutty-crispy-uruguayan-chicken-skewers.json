@@ -1,0 +1,95 @@
+{
+  "title": "Nutty Crispy Uruguayan Chicken Skewers",
+  "description": "Indulge in the rich flavors of Uruguay with these crispy chicken skewers, marinated in a mixture of Massaman curry paste and nuts, then poached to perfection. This keto-friendly dish is perfect for a special occasion.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Massaman curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a blender or food processor, combine Massaman curry paste, chopped almonds, chopped walnuts, coconut oil, lime juice, salt, and black pepper. Blend until smooth.",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece.",
+    "Brush the curry paste mixture evenly onto the chicken pieces.",
+    "Poach the chicken skewers in boiling water for 10-12 minutes, or until cooked through.",
+    "Remove the skewers from the water and place them on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 10-12 minutes, or until crispy and golden brown.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan-cuisine",
+    "keto-friendly",
+    "chicken-skewers",
+    "massaman-curry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "nutty-crispy-uruguayan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-uruguayan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:32:33Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "poach",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chicken",
+    "descriptor": "nutty crispy",
+    "dishForm": "Skewers"
+  }
+}
