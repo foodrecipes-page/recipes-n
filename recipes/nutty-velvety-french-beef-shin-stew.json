@@ -1,0 +1,111 @@
+{
+  "title": "Nutty Velvety French Beef Shin Stew",
+  "description": "A rich and nutty French beef shin stew that melts in your mouth, packed with protein and a velvety finish from almond butter—perfect for a post‑workout recovery meal.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "800g",
+      "notes": "cut into 2.5cm cubes, high protein braising cut"
+    },
+    {
+      "name": "red wine",
+      "amount": "200ml",
+      "notes": "deglazing liquid"
+    },
+    {
+      "name": "beef broth",
+      "amount": "500ml",
+      "notes": "low-sodium, flavor base"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "15g",
+      "notes": "richness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml",
+      "notes": "cooking fat"
+    },
+    {
+      "name": "almond butter",
+      "amount": "8g",
+      "notes": "velvety texture"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "5g",
+      "notes": "toasted and chopped"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat. Add the onion and garlic, sauté until translucent, about 5 minutes.",
+    "Add the beef cubes and brown on all sides, about 8 minutes.",
+    "Pour in the red wine to deglaze, scraping up any browned bits, and let it reduce by half, about 3 minutes.",
+    "Stir in the tomato paste, then add the carrots and pour in the beef broth. Bring to a simmer.",
+    "Cover, reduce heat to low, and let the stew braise gently for 60 minutes, or until the beef is tender.",
+    "Stir in the almond butter until fully incorporated for a silky, velvety consistency.",
+    "Season with salt and pepper to taste, then stir in the toasted hazelnuts for a nutty finish.",
+    "Serve hot, optionally garnished with fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nutty",
+    "velvety",
+    "beef",
+    "post-workout",
+    "french",
+    "stew",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 471,
+    "protein": 36,
+    "carbs": 23,
+    "fat": 30
+  },
+  "slug": "nutty-velvety-french-beef-shin-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-velvety-french-beef-shin-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:00:47Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "poach",
+    "primaryIngredient": "beef shin",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef shin",
+    "descriptor": "Nutty Velvety",
+    "dishForm": "Stew"
+  }
+}
