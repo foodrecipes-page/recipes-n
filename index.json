@@ -2343,6 +2343,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-spicy-indian-tofu-kebabs",
+    "title": "Nutty Spicy Indian Tofu Kebabs",
+    "tags": [
+      "indian-cuisine",
+      "kebabs",
+      "plant-based",
+      "romantic-dinner",
+      "spicy-food",
+      "tandoor-style"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-tender-australian-lamb-kebabs",
     "title": "Nutty Tender Australian Lamb Kebabs",
     "tags": [
