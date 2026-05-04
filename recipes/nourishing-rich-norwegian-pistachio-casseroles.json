@@ -1,0 +1,95 @@
+{
+  "title": "Nourishing Rich Norwegian Pistachio Casseroles",
+  "description": "A rich and festive Norwegian dish featuring pistachio, this casserole is perfect for special occasions, with a unique marinate and dash-friendly ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pistachio meal",
+      "amount": "1 cup",
+      "notes": "ground pistachios"
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "2 cups",
+      "notes": "such as jarlsberg or gudbrandsdalen"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the pistachio meal, norwegian cheese, sour cream, eggs, salt, and black pepper.",
+    "Melt the butter in a small saucepan over low heat.",
+    "Add the melted butter to the bowl and stir until well combined.",
+    "Stir in the chopped parsley and dill.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the edges are set and the center is slightly jiggly.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole-style",
+    "norwegian-cuisine",
+    "pistachio-based",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "nourishing-rich-norwegian-pistachio-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-rich-norwegian-pistachio-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:47:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "marinate",
+    "primaryIngredient": "pistachio",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pistachio",
+    "descriptor": "Nourishing Rich",
+    "dishForm": "Casseroles"
+  }
+}
