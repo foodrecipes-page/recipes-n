@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Ethiopian White Fish Fillets Shiro",
+  "description": "A pungent and snappy Ethiopian dish featuring white fish fillets in a cozy shiro sauce, made with a pasta water emulsion and nut-free friendly ingredients. This dish is perfect for a weeknight dinner",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "4 fillets",
+      "notes": "cod or tilapia work well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat",
+    "Add the chopped onion and cook until softened, about 5 minutes",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute",
+    "Add the berbere spice and cook for 1 minute, stirring constantly",
+    "Add the white fish fillets and cook for 3-4 minutes per side, or until cooked through",
+    "Remove the fish from the saucepan and set aside",
+    "Add the pasta water to the saucepan and bring to a simmer",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes",
+    "Stir in the salt and black pepper",
+    "Serve the fish fillets with the shiro sauce spooned over the top"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "nutty-ethiopian-white-fish-fillets-shiro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-ethiopian-white-fish-fillets-shiro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:55:05Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "white fish fillets",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "white fish fillets",
+    "descriptor": "Nutty",
+    "dishForm": "Shiro"
+  }
+}
