@@ -1,0 +1,96 @@
+{
+  "title": "Nourishing Dense Norwegian Corned Beef Hash",
+  "description": "A dense and flavorful Norwegian dish featuring corned beef, score-fat, and vegetables, cooked in a bamboo steamer. This meal is perfect for a hearty breakfast or brunch.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat-based",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "corned beef",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the diced corned beef, melted score-fat, diced onions, grated carrots, and diced potatoes.",
+    "Season the mixture with salt and black pepper.",
+    "Stir in the chopped fresh parsley.",
+    "Transfer the mixture to a bamboo steamer lined with parchment paper.",
+    "Steam the mixture over boiling water for 20 minutes.",
+    "Check the hash for doneness and steam for an additional 5 minutes if necessary.",
+    "Remove the hash from the steamer and let it cool for a few minutes.",
+    "Serve the hash hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "corned-beef",
+    "gluten-free",
+    "high-protein",
+    "meal-prep",
+    "norwegian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-dense-norwegian-corned-beef-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-dense-norwegian-corned-beef-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:17:43Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "score-fat",
+    "primaryIngredient": "corned beef",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "corned beef",
+    "descriptor": "Nourishing Dense",
+    "dishForm": "Hash"
+  }
+}
