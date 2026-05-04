@@ -221,6 +221,21 @@
     "shard": "n"
   },
   {
+    "slug": "nice-crunchy-kenyan-beef-stir-fry",
+    "title": "Nice Crunchy Kenyan Beef Stir Fry",
+    "tags": [
+      "beef-recipes",
+      "buddhist-friendly",
+      "high-protein",
+      "kenyan-cuisine",
+      "quick-dinner",
+      "stir-fry"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nice-springy-mexican-peppers-chiles-rellenos",
     "title": "Nice Springy Mexican Peppers Chiles Rellenos",
     "tags": [
