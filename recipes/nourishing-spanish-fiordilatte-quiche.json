@@ -1,0 +1,100 @@
+{
+  "title": "Nourishing Spanish Fiordilatte Quiche",
+  "description": "A light yet indulgent quiche that marries Spanish flavors with the creamy richness of fiordilatte. Perfect for a flexitarian lunch with a flaky crust and savory filling.",
+  "cuisine": "Spanish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pre-made pie crust",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "fiordilatte",
+      "amount": "300 ml"
+    },
+    {
+      "name": "shredded Manchego cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh spinach, chopped",
+      "amount": "200 g"
+    },
+    {
+      "name": "small onion, diced",
+      "amount": "1"
+    },
+    {
+      "name": "garlic clove, minced",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "saffron threads, steeped",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C) and press the pie crust into a 9-inch tart pan.",
+    "In a large bowl, whisk together the eggs and fiordilatte until smooth.",
+    "Stir in the shredded Manchego, smoked paprika, and a pinch of salt and pepper.",
+    "Heat olive oil in a skillet over medium heat and sauté the onion and garlic until translucent.",
+    "Add the chopped spinach to the skillet and cook until wilted, then remove from heat.",
+    "Combine the sautéed vegetables with the egg and cheese mixture, mixing well.",
+    "Pour the filling into the prepared crust, smoothing the top with a spatula.",
+    "Bake for 25 to 30 minutes, or until the quiche is set and the top is lightly golden.",
+    "Let the quiche rest for 5 minutes before slicing into wedges.",
+    "Serve warm, optionally garnished with a sprinkle of fresh herbs or a drizzle of olive oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "comfort-food",
+    "flexitarian-friendly",
+    "quick",
+    "savory",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 242,
+    "protein": 12,
+    "carbs": 9,
+    "fat": 16
+  },
+  "slug": "nourishing-spanish-fiordilatte-quiche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-spanish-fiordilatte-quiche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:10:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "steam",
+    "primaryIngredient": "fiordilatte",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Fiordilatte",
+    "descriptor": "Nourishing",
+    "dishForm": "Quiche"
+  }
+}
