@@ -1,0 +1,104 @@
+{
+  "title": "Nourishing Peruvian Matcha Salad",
+  "description": "A grassy, shattering Peruvian salad that blends matcha, caramelized sweet potato, and festive toppings for a bright, anti‑inflammatory lunch.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "anti-inflammatory"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mixed greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "quinoa, cooked",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweet potato, cubed",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "avocado, sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted quinoa seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook quinoa according to package instructions and let it cool to room temperature.",
+    "Roast sweet potato cubes at 400°F for 20 minutes until caramelized.",
+    "In a small bowl, whisk matcha powder with lime juice until a smooth paste forms.",
+    "Add olive oil and honey to the matcha mixture and whisk until the dressing emulsifies.",
+    "Toss the mixed greens in the dressing to coat evenly.",
+    "Add the cooked quinoa, roasted sweet potato, diced bell pepper, and avocado slices to the greens.",
+    "Sprinkle toasted quinoa seeds over the salad.",
+    "Season with salt and pepper to taste.",
+    "Gently toss the salad again to combine all ingredients.",
+    "Serve immediately and enjoy the festive crunch of flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "low-carb",
+    "one-bowl",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 79,
+    "fat": 30
+  },
+  "slug": "nourishing-peruvian-matcha-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-peruvian-matcha-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:09:46Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "matcha",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "matcha",
+    "descriptor": "Nourishing",
+    "dishForm": "Salad"
+  }
+}
