@@ -1,0 +1,96 @@
+{
+  "title": "naughty nuka-pickle slovakian sausages bake",
+  "description": "Adventurous Slovaks take Italian fennel sausages to the next level by adding a tangy pickle-nuka sauce and a melty cheese blend in individual mini cocottes.",
+  "cuisine": "slovakian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "italian fennel sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "nuka-pickle sauce",
+      "amount": "120g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Arrange the mini cocottes on a baking sheet.",
+    "Place 1-2 Italian fennel sausages in each cocotte.",
+    "Drizzle the nuka-pickle sauce over the sausages.",
+    "Sprinkle the gruyère and mozzarella cheese over the sauce.",
+    "Add 1/2 medium onion, diced, on top of the cheese.",
+    "Mince 2 garlic cloves and sprinkle over the onion.",
+    "Sprinkle 1/2 tsp caraway seeds and 1/4 tsp white pepper over the garlic."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "dinner",
+    "high-protein",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 45
+  },
+  "slug": "naughty-nuka-pickle-slovakian-sausages-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/naughty-nuka-pickle-slovakian-sausages-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:13Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "sausages",
+    "descriptor": "naughty nuka-pickle",
+    "dishForm": "bake"
+  }
+}
