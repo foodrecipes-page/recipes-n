@@ -1,0 +1,101 @@
+{
+  "title": "Naturally Spicy Uruguayan Skirt Steak Skewers",
+  "description": "A spicy and flavorful Uruguayan dish featuring skirt steak, tempered chocolate, and a raw friendly glassy jelly, perfect for showing off at any dinner party. The combination of spicy and sweet flavors will leave your guests impressed.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1 cup",
+      "notes": "tempered"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium high heat.",
+    "Thread the skirt steak pieces onto skewers.",
+    "In a small bowl, mix together pineapple juice, red pepper flakes, garlic, salt, and black pepper.",
+    "Brush the mixture onto both sides of the steak.",
+    "Grill the skewers for 5 minutes per side, or until the steak reaches 130 degrees Fahrenheit.",
+    "While the steak is cooking, melt the tempered chocolate in a double boiler.",
+    "Once the steak is done, brush the melted chocolate onto the steak.",
+    "Serve the skewers hot, garnished with chopped fresh cilantro.",
+    "Drizzle any remaining pineapple juice mixture over the top of the skewers.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "naturally-spicy-uruguayan-skirt-steak-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-spicy-uruguayan-skirt-steak-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:21:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "skirty steak",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "skirt steak",
+    "descriptor": "Naturally spicy",
+    "dishForm": "Skewers"
+  }
+}

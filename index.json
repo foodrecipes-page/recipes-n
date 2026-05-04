@@ -75,6 +75,21 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-spicy-uruguayan-skirt-steak-skewers",
+    "title": "Naturally Spicy Uruguayan Skirt Steak Skewers",
+    "tags": [
+      "chocolate",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-sweet-american-braeburn-apples-skillet",
     "title": "Naturally Sweet American Braeburn Apples Skillet",
     "tags": [
@@ -3115,6 +3130,20 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-provencal-peanut-curry",
+    "title": "Nutty Provencal Peanut Curry",
+    "tags": [
+      "cheese-pull",
+      "low-sodium",
+      "nutty",
+      "provence",
+      "tangy"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {

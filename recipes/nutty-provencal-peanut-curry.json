@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Provencal Peanut Curry",
+  "description": "A tangy, cheese-pull Provencal curry with nutty peanut sauce, baked peanut cookie crumb topping and low-sodium ingredients.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Unsalted peanut butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Low-sodium diced tomatoes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mozzarella cheese slices",
+      "amount": "4 oz (about 4 slices)"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "Crushed low-sodium peanut butter cookies",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, heat olive oil over medium heat until shimmering.",
+    "Add smoked paprika, cumin, and stir for 30 seconds until fragrant.",
+    "Pour in low-sodium soy sauce, lemon juice, and honey, simmering for 1 minute.",
+    "Stir in unsalted peanut butter until the mixture is smooth and creamy.",
+    "Add diced tomatoes and cook for 5 minutes until the sauce thickens slightly.",
+    "Lower heat and pour the sauce into a baking dish, spreading evenly.",
+    "Arrange mozzarella slices over the sauce, then sprinkle crushed peanut butter cookies on top.",
+    "Bake in a preheated 375°F oven for 12 minutes until the cheese melts and the cookie crumbs toast.",
+    "Garnish with fresh rosemary before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "low-sodium",
+    "nutty",
+    "provence",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 2704,
+    "protein": 109,
+    "carbs": 139,
+    "fat": 206
+  },
+  "slug": "nutty-provencal-peanut-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-provencal-peanut-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:20:43Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "peanut cookies",
+    "diet": "low-sodium",
+    "region": "provence",
+    "cuisineAdjective": "Provencal",
+    "mainIngredient": "Peanut",
+    "descriptor": "Nutty",
+    "dishForm": "Curry"
+  }
+}
