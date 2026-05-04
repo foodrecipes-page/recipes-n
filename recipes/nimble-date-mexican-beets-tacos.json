@@ -1,0 +1,95 @@
+{
+  "title": "Nimble Date Mexican Beets Tacos",
+  "description": "A Yucatecan-inspired Mexican dish featuring beets, stir-fry, and a sweet date syrup, suitable for an ayurvedic sattvic diet.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beet greens",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "date syrup",
+      "amount": "2 tablespoons",
+      "notes": "made from Medjool dates"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "one-pan",
+    "sattvic",
+    "yucatecan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "nimble-date-mexican-beets-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-date-mexican-beets-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:51Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "beets",
+    "diet": "ayurvedic-sattvic",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beets",
+    "descriptor": "Nimble Date",
+    "dishForm": "Tacos"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "title": "midnight craving indian parma ham curry",
+  "description": "sweet and springy indian curry featuring parma ham and dashi extract, perfect for late-night cravings",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "parma ham",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat or low-fat coconut milk works"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 teaspoons",
+      "notes": "make sure to get the one with no added msg"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "0.5 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.25 teaspoon",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "handful",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "heat a tablespoon of oil in a large skillet over medium heat.",
+    "add the onion and cook until it's translucent.",
+    "add the ginger and garlic and cook for another minute.",
+    "add the cumin, coriander, turmeric, cayenne pepper, salt, and black pepper, and cook for 30 seconds, stirring constantly.",
+    "add the dashi extract and cook for another minute, stirring constantly.",
+    "add the coconut milk and bring the mixture to a simmer.",
+    "reduce the heat to low and add the parma ham, letting it cook for 2-3 minutes or until it's heated through.",
+    "stir in the fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "indian",
+    "low-fat",
+    "parma-ham",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "nightly-midnight-craving-indian-parma-ham-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nightly-midnight-craving-indian-parma-ham-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:17:05Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "dashi-extract",
+    "primaryIngredient": "parma ham",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "parma ham",
+    "descriptor": "nightly midnight craving",
+    "dishForm": "Curry"
+  }
+}

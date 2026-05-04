@@ -1,0 +1,128 @@
+{
+  "title": "nutritious japanese light meal bowl",
+  "description": "a light and refreshing japanese dish featuring a sour and shattering flavor profile.",
+  "cuisine": "japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "scallops",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "sesame leaves",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "copper pot",
+      "amount": "",
+      "notes": "cookware"
+    }
+  ],
+  "instructions": [
+    "season the scallops with salt and pepper.",
+    "heat the sesame oil in a copper pot over medium heat.",
+    "add the soy sauce and cook for 1 minute.",
+    "add the rice vinegar and sugar and cook for 1 minute.",
+    "add the scallops and cook for 2-3 minutes per side, or until cooked through.",
+    "meanwhile, slice the cucumber and green onions.",
+    "serve the scallops on a bed of sliced cucumber and green onions, topped with toasted sesame seeds and pickled ginger.",
+    "garnish with sesame leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "japanese-cuisine",
+    "keto-friendly",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 16
+  },
+  "slug": "nutritious-japanese-light-meal-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-japanese-light-meal-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:51Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "malt vinegar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "light meal",
+    "descriptor": "nutritious",
+    "dishForm": "Bowl"
+  }
+}

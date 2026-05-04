@@ -1,0 +1,116 @@
+{
+  "title": "nutrient-rich velvety slovakian courgettes gratin",
+  "description": "a funky and velvety slovakian dish featuring courgettes, caramelized to perfection in a low-carb-friendly individual mini-cocotte. perfect as a hangover cure or a nutritious meal any time of the day.",
+  "cuisine": "slovakian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "courgettes",
+      "amount": "4 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "butter",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "grana padano",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "150ml",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f (190c).",
+    "slice the courgettes into 1/4-inch thick rounds.",
+    "in a large skillet, caramelize the onion and garlic over medium heat until golden brown.",
+    "in a separate pan, melt the butter and add the flour to make a roux, cooking for 1 minute.",
+    "slowly add the heavy cream, whisking continuously, and bring the mixture to a simmer.",
+    "add the grated grana padano and whisk until melted.",
+    "add the eggs, salt, and black pepper to the cream mixture and whisk until well combined.",
+    "in a greased mini-cocotte, create a layer of courgettes, followed by a layer of the cream mixture, and repeat until all ingredients are used, finishing with a layer of cream on top.",
+    "cover the mini-cocotte with foil and bake for 25 minutes.",
+    "remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "keto-recipe",
+    "low-carb-friendly",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 42
+  },
+  "slug": "nutrient-rich-velvety-slovakian-courgettes-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutrient-rich-velvety-slovakian-courgettes-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:27Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "caramelize",
+    "primaryIngredient": "courgettes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "courgettes",
+    "descriptor": "Nutrient-rich velvety",
+    "dishForm": "Gratin"
+  }
+}

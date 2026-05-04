@@ -1,0 +1,88 @@
+{
+  "title": "Nourishing Norwegian Egg White One-Pot",
+  "description": "A hearty and filling one-pot dish made with egg whites, lamination puff pastry, and a touch of Norwegian flair. This tamasic-friendly recipe is perfect for a satisfying breakfast or snack.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egg whites",
+      "amount": "4 large eggs",
+      "notes": ""
+    },
+    {
+      "name": "Lamination puff pastry",
+      "amount": "1 sheet (thawed)",
+      "notes": "Ayurvedic tamasic-friendly option: use puff pastry with no added preservatives or additives."
+    },
+    {
+      "name": "Salted butter",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, salted butter for the best flavor."
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon",
+      "notes": "Use a finely ground sea salt for the best flavor."
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tablespoon chopped",
+      "notes": "Add fresh dill on top of the dish for a pop of flavor and color."
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "Use a high-quality garlic powder for the best flavor."
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of salted butter in a large, oven-safe skillet over medium heat.",
+    "Add the chopped fresh dill and cook for 1 minute, until fragrant.",
+    "Add the egg whites and stir gently to distribute evenly.",
+    "Place the thawed puff pastry on top of the egg whites and fold the edges under to create a crust.",
+    "Cook for 5 minutes, until the pastry is golden brown.",
+    "Transfer the skillet to the oven and bake at 400°F (200°C) for 15-20 minutes, until the pastry is golden brown and the egg whites are set.",
+    "Remove from the oven and sprinkle with sea salt and garlic powder.",
+    "Serve hot, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 16
+  },
+  "slug": "nourishing-norwegian-egg-white-one-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-norwegian-egg-white-one-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:06Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "lamination-puff",
+    "primaryIngredient": "egg white",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Egg white",
+    "descriptor": "Nourishing",
+    "dishForm": "One-pot"
+  }
+}

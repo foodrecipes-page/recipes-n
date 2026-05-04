@@ -1,0 +1,62 @@
+{
+  "title": "Nutty Velvety Syrian Apples Grill",
+  "description": "A comforting Syrian dish featuring grilled bramley apples with a nutty, velvety texture. Serve warm, garnished with fresh parsley. ",
+  "cuisine": "syrian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bramley apples",
+      "amount": "4 medium",
+      "notes": "peeled and halved"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (375°F).",
+    "In a large bowl, whisk together the olive oil, honey, and cinnamon.",
+    "Add the halved apples to the bowl and toss to coat evenly with the honey and spice mixture.",
+    "Remove the apples from the bowl and place them on a baking sheet lined with parchment paper.",
+    "Grill the apples for 4-5 minutes per side, or until they are tender and lightly charred.",
+    "Transfer the grilled apples to a serving dish and drizzle with the reserved honey and spice mixture.",
+    "Sprinkle the chopped almonds over the top of the apples and serve warm.",
+    "Garnish with fresh parsley, if desired.",
+    "Serve immediately and enjoy!",
+    "Refrigerate leftover apples for up to 3 days, or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apple-recipes",
+    "fall-recipes",
+    "gluten-free",
+    "syrian-dishes",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "nutty-velvety-syrian-apples-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-velvety-syrian-apples-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:05Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "bramley apples",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "apples",
+    "descriptor": "nutty velvety",
+    "dishForm": "Grill"
+  }
+}

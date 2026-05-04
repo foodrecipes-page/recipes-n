@@ -1,0 +1,91 @@
+{
+  "title": "Nimble Aerated British Lemongrass Stew",
+  "description": "This malty, aerated, festive British dish, featuring lemongrass, is perfect for special occasions. Serve warm in a cazuela, garnished with lemon slices and fresh herbs.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Malted barley syrup",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "3 stalks"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large cazuela over medium heat.",
+    "Melt 1 tablespoon of butter and sauté the lemongrass until fragrant, about 2 minutes.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the malted barley syrup and cook for an additional 2 minutes.",
+    "Remove the lemongrass and stir in the heavy cream.",
+    "Season with salt and pepper to taste.",
+    "Simmer for an additional 2 minutes, or until heated through.",
+    "Serve warm, garnished with lemon slices and fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "lemon",
+    "malted-barley-syrup",
+    "spring",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 4,
+    "carbs": 44,
+    "fat": 20
+  },
+  "slug": "nimble-aerated-british-lemongrass-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-aerated-british-lemongrass-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:17:14Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "lemongrass",
+    "diet": "shojin",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Lemongrass",
+    "descriptor": "Nimble Aerated",
+    "dishForm": "Stew"
+  }
+}
