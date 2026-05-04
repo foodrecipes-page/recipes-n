@@ -1,0 +1,104 @@
+{
+  "title": "nutty shattering russian steak bake",
+  "description": "A post-workout Russian steak bake dish that is both nutty and shattering. Perfect for a low-carb friendly dinner.",
+  "cuisine": "russian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fillet of steak",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "baked oats",
+      "amount": "25g",
+      "notes": ""
+    },
+    {
+      "name": "bhuna curry paste",
+      "amount": "25g",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "melted butter",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Mix the almond flour, baked oats, and bhuna curry paste in a bowl.",
+    "Crack in the eggs and mix until a dough forms.",
+    "Add the grated cheddar cheese and mix until combined.",
+    "Add the fillet of steak and mix until the steak is evenly coated.",
+    "Transfer the mixture to a ramekin and top with melted butter.",
+    "Bake for 20 minutes or until the top is golden brown and the steak is cooked to desired doneness.",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "low-carb",
+    "post-workout",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 8,
+    "fat": 38
+  },
+  "slug": "nutty-shattering-russian-steak-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-shattering-russian-steak-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:44Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "bhuna",
+    "primaryIngredient": "fillet of steak",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "steak",
+    "descriptor": "nutty shattering",
+    "dishForm": "Bake"
+  }
+}
