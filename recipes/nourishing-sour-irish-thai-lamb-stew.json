@@ -1,0 +1,104 @@
+{
+  "title": "Nourishing Sour Irish Thai Lamb Stew",
+  "description": "A hearty and sour one-pot Irish stew featuring Thai holy basil krapao, served in a stone bowl dolsot, suitable for shojin-friendly diets.",
+  "cuisine": "Fusion",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "thai holy basil krapao",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "irish stout",
+      "amount": "1 cup",
+      "notes": "guinness or similar"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large stone bowl dolsot over medium-high heat.",
+    "Add the lamb pieces and brown on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the irish stout, fish sauce, and lime juice, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Add the chopped thai holy basil krapao and cook for an additional 10 minutes.",
+    "Add the cubed potatoes and cook until tender, about 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with additional thai holy basil krapao if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hearty-stew",
+    "irish-thai-fusion",
+    "one-pot",
+    "shojin-friendly",
+    "stone-bowl-cooking"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "nourishing-sour-irish-thai-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-sour-irish-thai-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:23:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Irish Thai",
+    "mainIngredient": "lamb",
+    "descriptor": "nourishing sour",
+    "dishForm": "Stew"
+  }
+}
