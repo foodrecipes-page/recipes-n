@@ -1,0 +1,106 @@
+{
+  "title": "Nourishing Syrian Lentil Wrap",
+  "description": "A flavorful and healthy Syrian dish featuring lentils, chimichurri sauce, and a deglaze fond, all wrapped in a ti leaf, perfect for a weeknight dinner",
+  "cuisine": "Syrian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown lentils"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and cook them in boiling water until they are tender",
+    "Heat olive oil in a pan over medium heat and saute the onions until they are translucent",
+    "Add the garlic to the pan and cook for 1 minute",
+    "Add the chimichurri sauce to the pan and stir to combine",
+    "Deglaze the pan with lemon juice and scrape up any browned bits",
+    "Add the cooked lentils to the pan and stir to combine with the chimichurri sauce",
+    "Season the lentil mixture with salt and black pepper",
+    "Warm the ti leaves by wrapping them in a damp paper towel and microwaving for 20 seconds",
+    "Assemble the wraps by spooning the lentil mixture onto a ti leaf and topping with parsley",
+    "Serve the wraps immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal-delights",
+    "jain-friendly",
+    "lentil-recipes",
+    "syrian-cuisine",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nourishing-syrian-lentil-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-syrian-lentil-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:17:36Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lentils",
+    "descriptor": "Nourishing Aerated",
+    "dishForm": "Wrap"
+  }
+}
