@@ -1,0 +1,99 @@
+{
+  "title": "Nippy Crispy Chinese Shrimp Stew",
+  "description": "A salty, crispy quick-fix Chinese stew featuring miso-marinated shrimp and Asian chives in a low-calorie tagine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pescatarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "200g"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cornstarch slurry",
+      "amount": "1 tsp cornstarch + 1 tbsp water"
+    },
+    {
+      "name": "Asian chives (bok choy and chives)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk shrimp with miso paste, soy sauce, rice vinegar, and sesame oil until coated.",
+    "Heat vegetable oil in a ceramic tagine over medium-high heat, then add shrimp and sear until pink, about 2 minutes.",
+    "Add minced garlic and stir for 30 seconds until fragrant.",
+    "Pour in chicken broth, bring to a gentle simmer, and let it reduce for 3 minutes.",
+    "Mix cornstarch slurry into the stew and stir until slightly thickened, about 1 minute.",
+    "Fold in sliced Asian chives and cook for another 2 minutes until wilted.",
+    "Taste and adjust seasoning with a pinch of white pepper if desired.",
+    "Serve hot directly from the tagine."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "low-calorie",
+    "one-pan",
+    "quick-fix",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 50,
+    "carbs": 9,
+    "fat": 20
+  },
+  "slug": "nippy-crispy-chinese-shrimp-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nippy-crispy-chinese-shrimp-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:40:12Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "miso-marinate",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Nippy Crispy",
+    "dishForm": "Stew"
+  }
+}
