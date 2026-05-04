@@ -1,0 +1,97 @@
+{
+  "title": "Nourishing Brazilian Bean Sprouts Wrap",
+  "description": "A funky and aerated Brazilian dish featuring bean sprouts, cooked in a clay pot and wrapped in a corn husk, perfect for a midnight craving. This low-carb-friendly wrap is a unique and delicious twist on traditional Brazilian cuisine.",
+  "cuisine": "brazilian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "clay pot",
+      "amount": "1",
+      "notes": "preheated"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot over medium heat.",
+    "Add the coconut oil and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the bean sprouts and cook until they start to soften.",
+    "Season with salt and black pepper to taste.",
+    "Warm the corn husks by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by spooning the bean sprout mixture onto a corn husk and folding the sides.",
+    "Serve immediately and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "corn-husk-wraps",
+    "gluten-free",
+    "healthy-snacks",
+    "low-carb",
+    "midnight-cravings"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 7
+  },
+  "slug": "nourishing-brazilian-bean-sprouts-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-brazilian-bean-sprouts-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:18:42Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "bean sprouts",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "nourishing low carb",
+    "dishForm": "Wrap"
+  }
+}
