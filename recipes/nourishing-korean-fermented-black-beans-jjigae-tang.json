@@ -1,0 +1,105 @@
+{
+  "title": "Nourishing Korean Fermented Black Beans Jjigae Tang",
+  "description": "A traditional Korean dish featuring fermented black beans in a spicy stew, perfect for a sick day or a comforting meal. This Buddhist-temple-friendly recipe is served in a tagliere vessel.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented black beans",
+      "amount": "1 cup",
+      "notes": "found in Korean markets"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pot over medium heat.",
+    "Add the sliced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Stir in the gochujang and gochugaru and cook for 1 minute.",
+    "Add the fermented black beans, zucchini, and tofu, and stir to combine.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped green onions and serve hot in a tagliere vessel."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "korean-cuisine",
+    "one-pot",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "nourishing-korean-fermented-black-beans-jjigae-tang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-korean-fermented-black-beans-jjigae-tang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T17:54:31Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "rest",
+    "primaryIngredient": "fermented black beans",
+    "diet": "buddhist-temple",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fermented black beans",
+    "descriptor": "Nourishing",
+    "dishForm": "Jjigae Tang"
+  }
+}
