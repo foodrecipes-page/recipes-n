@@ -1,0 +1,99 @@
+{
+  "title": "Nutty Korean Shrimp Pasta",
+  "description": "Salty, bouncy qq, festive Australian dish featuring dried shrimp goong haeng, pasta water emulsion, and a pescatarian-friendly crunch.",
+  "cuisine": "Korean Australian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "250g"
+    },
+    {
+      "name": "dried shrimp goong haeng",
+      "amount": "100g",
+      "notes": "crushed lightly"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "gochujang paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "green onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook spaghetti in salted boiling water until al dente, reserving 1 cup pasta water, then drain.",
+    "Heat sesame oil in a large pan over medium heat and add dried shrimp, cooking until they soften and release aroma.",
+    "Stir in gochujang, soy sauce, and rice vinegar, letting the mixture simmer for 2 minutes to blend flavors.",
+    "Add the drained spaghetti to the pan, tossing it with the sauce and gently stirring to coat.",
+    "If the pasta seems dry, pour in a splash of the reserved pasta water, stirring continuously until a silky emulsion forms.",
+    "Sprinkle toasted sesame seeds and sliced green onion over the pasta and give one final toss.",
+    "Optionally, add a pinch of chili flakes for heat before serving.",
+    "Serve hot, garnishing with extra green onion if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "korean",
+    "one-pan",
+    "pasta",
+    "pescatarian",
+    "quick",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 45,
+    "carbs": 100,
+    "fat": 12
+  },
+  "slug": "nutty-korean-shrimp-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-korean-shrimp-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:51:32Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "shrimp",
+    "descriptor": "Nutty",
+    "dishForm": "Pasta"
+  }
+}
