@@ -1,0 +1,103 @@
+{
+  "title": "Nourishing Australian Flour Wrap",
+  "description": "A cultured, juicy midnight craving dish featuring flour and steamed leaf wraps, perfect for a Buddhist temple-friendly vegan lunch.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole-wheat flour",
+      "amount": "200g",
+      "notes": "plain"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml",
+      "notes": "at 40°C"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "12 leaves",
+      "notes": "wilted by steaming"
+    },
+    {
+      "name": "roasted beetroot slices",
+      "amount": "4 slices",
+      "notes": "pre‑roasted at 200°C for 25 minutes"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2 medium",
+      "notes": "cubed"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "2 tbsp",
+      "notes": "smooth"
+    }
+  ],
+  "instructions": [
+    "In a bowl mix whole-wheat flour, salt, and warm water to form a smooth dough and let it rest for 10 minutes.",
+    "Roll the dough into thin circles about 12 inches in diameter.",
+    "Heat a nonstick skillet over medium heat and brush lightly with olive oil; place a dough circle and cook for 1 minute per side until golden.",
+    "Steam the spinach leaves until wilted, then cool them to room temperature.",
+    "Spread tahini sauce evenly over each cooked dough circle.",
+    "Arrange roasted beetroot slices, avocado cubes, and cucumber strips on half of each dough circle.",
+    "Fold the dough over the filling and roll into a tight wrap.",
+    "Warm the wraps in the skillet for 1 minute each side to seal.",
+    "Slice or serve whole, and enjoy as a midnight snack."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "late-night",
+    "low-fat",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 9,
+    "carbs": 43,
+    "fat": 11
+  },
+  "slug": "nourishing-australian-flour-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-australian-flour-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:01:45Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "flour",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Flour",
+    "descriptor": "Nourishing",
+    "dishForm": "Wrap"
+  }
+}

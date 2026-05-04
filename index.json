@@ -1263,6 +1263,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-australian-flour-wrap",
+    "title": "Nourishing Australian Flour Wrap",
+    "tags": [
+      "high-protein",
+      "late-night",
+      "low-fat",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-australian-pilchards-pilaf",
     "title": "Nourishing Australian Pilchards Pilaf",
     "tags": [
