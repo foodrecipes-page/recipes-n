@@ -1,0 +1,123 @@
+{
+  "title": "Nourishing Mexican Beef Barbacoa",
+  "description": "A hearty, flavorful dish from Jalisco, Mexico, featuring tender beef and rich spices.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket or beef shank",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Makrut lime leaves",
+      "amount": "6-8 leaves",
+      "notes": ""
+    },
+    {
+      "name": "chipotle peppers in adobo",
+      "amount": "2-3 peppers",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4-5 cloves",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chipotle peppers in tomato sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mexican crema",
+      "amount": "2 cups",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Place beef brisket in a large Dutch oven or heavy pot over medium-high heat.",
+    "Sear beef on all sides until browned, about 5 minutes total.",
+    "Add garlic, chipotle peppers, oregano, cumin, coriander, and salt. Cook for 1-2 minutes, until fragrant.",
+    "Add Makrut lime leaves, water, and chipotle peppers in tomato sauce. Stir to combine.",
+    "Bring mixture to a boil, then cover and transfer to the oven to braise for 2 1/2 hours at 300°F.",
+    "Using two forks, shred the beef into bite-sized pieces.",
+    "Strain the braising liquid through a fine-mesh sieve into a large bowl, discarding the solids.",
+    "Add the shredded beef to the bowl with the braising liquid and stir to combine.",
+    "Serve the barbacoa hot, garnished with cilantro and served with warm tortillas, lime wedges, and your choice of toppings.",
+    "Chop cilantro for garnish, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbacoa",
+    "beef",
+    "crock-pot",
+    "mexican",
+    "one-pan",
+    "pressure-cooker",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "nourishing-mexican-beef-barbacoa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-mexican-beef-barbacoa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:33:58Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "vegetarian",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "Nourishing",
+    "dishForm": "Barbacoa"
+  }
+}

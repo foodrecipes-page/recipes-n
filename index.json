@@ -2283,6 +2283,23 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-mexican-beef-barbacoa",
+    "title": "Nourishing Mexican Beef Barbacoa",
+    "tags": [
+      "barbacoa",
+      "beef",
+      "crock-pot",
+      "mexican",
+      "one-pan",
+      "pressure-cooker",
+      "slow-cooker",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 240,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-middle-eastern-chickpea-tagine",
     "title": "Nourishing Middle Eastern Chickpea Tagine",
     "tags": [
@@ -3450,6 +3467,22 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-nourishing-middle-eastern-grains-mujaddara",
+    "title": "Nutritious Nourishing Middle-Eastern Grains Mujaddara",
+    "tags": [
+      "comfort-food",
+      "fodmap-friendly",
+      "gluten-free",
+      "middle-eastern",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {

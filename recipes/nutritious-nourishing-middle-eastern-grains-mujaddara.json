@@ -1,0 +1,108 @@
+{
+  "title": "Nutritious Nourishing Middle-Eastern Grains Mujaddara",
+  "description": "A comforting, fodmap-friendly, and silkily textured mujaddara featuring garlic and en-croute elements, rich in nutrients and suitable for various meals throughout the day.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "split green lentils",
+      "amount": "1 1/2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "long-grain brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "half teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook, stirring occasionally, until softened and lightly browned, about 5 minutes.",
+    "Add the minced garlic and cook, stirring constantly, for 1 minute.",
+    "Add the cumin, paprika, salt, and black pepper. Cook, stirring constantly, for 1 minute.",
+    "Add the rinsed and drained split green lentils and uncooked long-grain brown rice. Stir to combine.",
+    "Add 3 cups of water to the saucepan. Bring to a boil, then reduce the heat to low, cover, and simmer, stirring occasionally, until the liquid has been absorbed and the lentils and rice are tender, about 25-30 minutes.",
+    "Remove from heat. Let the mixture cool slightly.",
+    "Using a fork, fluff the mixture to separate the lentils and rice.",
+    "Transfer the mixture to a serving dish.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "middle-eastern",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 65,
+    "fat": 10
+  },
+  "slug": "nutritious-nourishing-middle-eastern-grains-mujaddara",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-nourishing-middle-eastern-grains-mujaddara",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "en-croute",
+    "primaryIngredient": "garlic clove",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "grains",
+    "descriptor": "Nutritious Nourishing",
+    "dishForm": "Mujaddara"
+  }
+}
