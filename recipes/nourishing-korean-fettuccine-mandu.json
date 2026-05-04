@@ -1,0 +1,115 @@
+{
+  "title": "Nourishing Korean Fettuccine Mandu",
+  "description": "Silky fettuccine noodles encased in savory mandu shape, infused with a rich soffritto base and tofu filling for a comforting Busan-inspired lunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fettuccine pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "tofu",
+      "amount": "150g",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small",
+      "notes": "julienned"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "4 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "potato starch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "0.25 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the fettuccine according to package instructions until al dente, then drain and rinse with cold water to stop the cooking.",
+    "Whisk the tofu, carrot, mushrooms, scallions, soy sauce, sesame oil, gochujang, rice vinegar, salt, and pepper in a bowl until well combined.",
+    "Add potato starch to the filling mixture and stir until it thickens slightly to help bind the filling.",
+    "Lay a sheet of fettuccine flat and spread a thin layer of the filling on one end of the strand.",
+    "Fold the noodle over the filling to form a semi-circle, then pinch the edges together to seal, creating a mandu shape.",
+    "Place each formed mandu on a steamer tray lined with parchment paper to prevent sticking.",
+    "Steam the mandu over boiling water for 10 minutes, or until the noodles are fully cooked and the filling is heated through.",
+    "Remove the mandu from the steamer and let them rest for 2 minutes before serving.",
+    "Serve the mandu hot, drizzled with a thin sauce made from the leftover soy sauce and sesame oil.",
+    "Optionally garnish with extra scallions or toasted sesame seeds for added flavor and texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "busan-inspired",
+    "egg-free",
+    "fettuccine",
+    "korean",
+    "mandu",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 25,
+    "carbs": 90,
+    "fat": 25
+  },
+  "slug": "nourishing-korean-fettuccine-mandu",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-korean-fettuccine-mandu",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:08:30Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "soffritto-base",
+    "primaryIngredient": "fettuccine",
+    "diet": "egg-free",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Fettuccine",
+    "descriptor": "Nourishing",
+    "dishForm": "Mandu"
+  }
+}
