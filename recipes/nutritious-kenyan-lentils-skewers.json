@@ -1,0 +1,106 @@
+{
+  "title": "Nutritious Kenyan Lentils Skewers",
+  "description": "A savory and energizing Kenyan dish featuring lentils, dry sherry, and render fat, perfect for a snack or light meal. This shojin-friendly recipe is crisp and full of flavor.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "dry sherry",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "render fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the dry sherry, render fat, cumin, coriander, salt, and black pepper.",
+    "Add the chopped onion, minced garlic, and grated ginger to the bowl and stir to combine.",
+    "Add the rinsed and drained red lentils to the bowl and stir until they are evenly coated with the marinade.",
+    "Thread the marinated lentils onto skewers, leaving a small space between each lentil.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Remove the skewers from the oven and let them cool for a few minutes.",
+    "Serve the lentil skewers hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kenyan",
+    "lentils",
+    "one-pan",
+    "shojin",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "nutritious-kenyan-lentils-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-kenyan-lentils-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:05:14Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "render-fat",
+    "primaryIngredient": "dry sherry",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lentils",
+    "descriptor": "Nutritious Crisp",
+    "dishForm": "Skewers"
+  }
+}
