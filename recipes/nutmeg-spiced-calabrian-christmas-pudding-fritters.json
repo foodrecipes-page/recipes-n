@@ -1,0 +1,105 @@
+{
+  "title": "Nutmeg-Spiced Calabrian Christmas Pudding Fritters",
+  "description": "A pillowy Italian dessert featuring Christmas pudding, nutmeg, and a crispy Calabrian-inspired coating. Perfect for weeknight dessert or breakfast.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Christmas pudding",
+      "amount": "250g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "120g",
+      "notes": "for fritter coating"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1tsp",
+      "notes": "for fritter coating"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "for binding"
+    },
+    {
+      "name": "milk",
+      "amount": "120ml",
+      "notes": "low-fat, for binding"
+    },
+    {
+      "name": "sugar",
+      "amount": "50g",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "Calabrian chili flakes",
+      "amount": "1/4 tsp",
+      "notes": "for heat and flavor"
+    }
+  ],
+  "instructions": [
+    "In a molcajete, combine flour and baking powder, and mix well.",
+    "Grate the nutmeg on top of the flour mixture, and mix to combine.",
+    "Add the eggs and milk to the flour mixture, and mix until a smooth batter forms.",
+    "Heat a non-stick skillet with about 1 cm of vegetable oil over medium heat.",
+    "When the oil is hot, carefully drop spoonfuls of the batter into the oil, and flatten slightly with a spatula.",
+    "Cook the fritters for about 2-3 minutes on each side, or until golden brown and crispy.",
+    "Drain the fritters on paper towels, and dust with a pinch of nutmeg and chili flakes.",
+    "Serve warm or at room temperature, with a dollop of whipped cream or a sprinkle of powdered sugar, if desired.",
+    "Repeat the frying process with the remaining batter.",
+    "Serve the fritters immediately, and enjoy!",
+    "Store any leftover fritters in an airtight container at room temperature for up to 2 days.",
+    "Reheat the fritters in the microwave or oven before serving.",
+    "To make the fritters extra crispy, you can chill the batter in the refrigerator for 30 minutes before frying."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "christmas",
+    "dessert",
+    "fritters",
+    "italian",
+    "pistachio",
+    "spices",
+    "sugar",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "nutmeg-spiced-calabrian-christmas-pudding-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutmeg-spiced-calabrian-christmas-pudding-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:53:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "christmas pudding",
+    "diet": "low-fat",
+    "region": "calabrian",
+    "cuisineAdjective": "calabrian",
+    "mainIngredient": "christmas pudding",
+    "descriptor": "nutmeg-spiced",
+    "dishForm": "fritters"
+  }
+}
