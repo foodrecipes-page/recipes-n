@@ -1,0 +1,70 @@
+{
+  "title": "Nutritious No-Bake Korean Creme-Patissiere Jjigae",
+  "description": "A briny, juicy, cozy Korean dish featuring creme-patissiere and infuse-oil, served in a tandoor-clay-pot vessel.",
+  "cuisine": "Korean",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Creme Patissiere",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Chickpea Water",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "100g",
+      "notes": "no onion garlic version"
+    }
+  ],
+  "instructions": [
+    "Combine creme patissiere and chickpea water in a mixing bowl.",
+    "Whisk in gochujang until well combined.",
+    "Add Korean chili flakes and whisk until combined.",
+    "Pour mixture into tandoor-clay-pot vessel.",
+    "Refrigerate for at least 4 hours or overnight before serving.",
+    "Serve chilled, garnished with toasted sesame seeds and chopped scallions."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert-free",
+    "korean",
+    "no-bake",
+    "no-onion-garlic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "nutritious-no-bake-korean-creme-patissiere-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-no-bake-korean-creme-patissiere-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:25:24Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "infuse-oil",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "creme-patissiere",
+    "descriptor": "nutritious no-bake",
+    "dishForm": "Jjigae"
+  }
+}

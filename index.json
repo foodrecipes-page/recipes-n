@@ -3380,6 +3380,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-no-bake-korean-creme-patissiere-jjigae",
+    "title": "Nutritious No-Bake Korean Creme-Patissiere Jjigae",
+    "tags": [
+      "dessert-free",
+      "korean",
+      "no-bake",
+      "no-onion-garlic",
+      "vegan"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-norwegian-norwegian-avocado-bowl",
     "title": "Nutritious Norwegian Avocado Bowl",
     "tags": [
@@ -5080,6 +5094,20 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-gooey-egyptian-pistachio-tagine",
+    "title": "Nutty Gooey Egyptian Pistachio Tagine",
+    "tags": [
+      "comfort-food",
+      "high-fiber",
+      "one-pan",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
