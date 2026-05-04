@@ -1,0 +1,101 @@
+{
+  "title": "Nourishing Crumbly Turkish Potato Kebabs",
+  "description": "A romantic Turkish dish featuring russet potato, marinate, and satvik-friendly ingredients, perfect for a special occasion. This crumbly kebab is a cultured delight that will leave you wanting more.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine grated potato, chopped onion, minced garlic, lemon juice, olive oil, paprika, salt, and black pepper, and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Thread the potato mixture onto skewers, leaving a little space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until the potatoes are tender and lightly browned.",
+    "Remove the skewers from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the kebabs hot, garnished with additional parsley if desired.",
+    "Traditionally, these kebabs are served with a side of tangy tzatziki sauce.",
+    "To make the tzatziki sauce, combine yogurt, cucumber, garlic, and dill in a bowl and mix well.",
+    "Refrigerate the sauce for at least 30 minutes to allow the flavors to meld."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebab-recipes",
+    "potato-recipes",
+    "romantic-dinner",
+    "satvik-friendly",
+    "turkish-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "nourishing-crumbly-turkish-potato-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-crumbly-turkish-potato-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:32:57Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "marinate",
+    "primaryIngredient": "russet potato",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "potato",
+    "descriptor": "nourishing crumbly",
+    "dishForm": "Kebabs"
+  }
+}
