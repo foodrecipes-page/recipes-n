@@ -118,6 +118,21 @@
     "shard": "n"
   },
   {
+    "slug": "nectarous-japanese-apricots-soup",
+    "title": "Nectarous Japanese Apricots Soup",
+    "tags": [
+      "kanto-style",
+      "quick",
+      "seasonal",
+      "smoked",
+      "soup",
+      "vegan"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 65,
+    "shard": "n"
+  },
+  {
     "slug": "nectarous-peruvian-flour-flatbread",
     "title": "Nectarous Peruvian Flour Flatbread",
     "tags": [

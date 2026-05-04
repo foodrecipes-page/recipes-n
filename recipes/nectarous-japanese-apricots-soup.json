@@ -1,0 +1,97 @@
+{
+  "title": "Nectarous Japanese Apricots Soup",
+  "description": "A resinous, springy soup that balances sweet dried apricots with the subtle smokiness of binchotan charcoal, perfect for a Kanto-style vegan lunch.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "120 g",
+      "notes": "soaked in water 3 hours"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 tsp",
+      "notes": "toasted lightly"
+    },
+    {
+      "name": "water",
+      "amount": "1.5 L"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "10 g",
+      "notes": "1 sheet"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the soaked dried apricots and reserve the soaking liquid.",
+    "Combine the apricots, soaking liquid, water, and kombu in a pot and bring to a gentle simmer.",
+    "Let the broth simmer for 20 minutes, skimming off any foam that rises to the surface.",
+    "Remove the kombu and add the lightly toasted binchotan charcoal, allowing it to infuse for 3 minutes.",
+    "Stir in soy sauce, mirin, and sesame oil, then simmer the mixture for an additional 5 minutes.",
+    "Blend the soup until smooth, then strain it through a fine sieve to remove any solids.",
+    "Return the strained soup to the pot and heat it to just below boiling to preserve the delicate flavors.",
+    "Taste the soup and adjust the seasoning with more soy sauce if necessary.",
+    "Ladle the soup into bowls and garnish with sliced scallions.",
+    "Serve the soup hot, enjoying the sweet apricot aroma mingled with the subtle smokiness."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kanto-style",
+    "quick",
+    "seasonal",
+    "smoked",
+    "soup",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 80,
+    "fat": 5
+  },
+  "slug": "nectarous-japanese-apricots-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nectarous-japanese-apricots-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:52:26Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "dried apricots",
+    "diet": "vegan",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "apricots",
+    "descriptor": "Nectarous",
+    "dishForm": "Soup"
+  }
+}
