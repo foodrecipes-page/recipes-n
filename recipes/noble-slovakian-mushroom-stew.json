@@ -1,0 +1,113 @@
+{
+  "title": "Noble Slovakian Mushroom Stew",
+  "description": "A rich, molten one-pot stew featuring ovoli mushrooms and roasted pork, seasoned with smoked paprika and caraway for a deep Slovakian flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ovoli mushrooms",
+      "amount": "500g"
+    },
+    {
+      "name": "Pork belly",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": "cubed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat until shimmering.",
+    "Add diced pork belly and cook until browned and crisp, about 5 minutes.",
+    "Stir in sliced onion and cook until translucent, about 3 minutes.",
+    "Add sliced carrots and cubed potatoes, sauté for 4 minutes.",
+    "Mix in ovoli mushrooms, smoked paprika, and caraway seeds, cooking for another 2 minutes.",
+    "Pour in vegetable stock and bring to a gentle boil.",
+    "Reduce heat, cover, and simmer for 20 minutes until vegetables are tender.",
+    "Stir in chopped fresh dill and season with salt and black pepper.",
+    "Adjust seasoning if needed and let the stew simmer uncovered for 5 minutes to thicken.",
+    "Serve hot, optionally with crusty bread for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "hearty",
+    "one-pot",
+    "rich",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 7,
+    "carbs": 12,
+    "fat": 12
+  },
+  "slug": "noble-slovakian-mushroom-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/noble-slovakian-mushroom-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:22:09Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "robata-grill",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "mushroom",
+    "descriptor": "Noble",
+    "dishForm": "Stew"
+  }
+}

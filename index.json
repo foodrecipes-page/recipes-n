@@ -449,6 +449,21 @@
     "shard": "n"
   },
   {
+    "slug": "noble-slovakian-mushroom-stew",
+    "title": "Noble Slovakian Mushroom Stew",
+    "tags": [
+      "egg-free",
+      "hearty",
+      "one-pot",
+      "rich",
+      "slovakian",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 60,
+    "shard": "n"
+  },
+  {
     "slug": "noble-smoky-turkish-stilton-kebabs",
     "title": "Noble Smoky Turkish Stilton Kebabs",
     "tags": [
