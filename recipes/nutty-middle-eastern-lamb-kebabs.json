@@ -1,0 +1,98 @@
+{
+  "title": "Nutty Middle Eastern Lamb Kebabs",
+  "description": "A flavorful and crumbly Middle Eastern dish featuring lamb, speculaas spice mix, and lardons, perfect for meal prep. This umami-rich recipe is a Mediterranean-friendly delight.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "speculaas spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered and crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together speculaas spice mix, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the lamb with olive oil and grill for 10-12 minutes, or until cooked through.",
+    "While the lamb is cooking, mix together lemon juice, parsley, and mint in a small bowl.",
+    "Once the lamb is done, brush with the lemon juice mixture and top with crumbled lardons.",
+    "Serve hot and enjoy.",
+    "Let cool completely before refrigerating or freezing for meal prep."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "lamb",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "nutty-middle-eastern-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-middle-eastern-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:38:44Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "lardons-render",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Nutty Crumbly",
+    "dishForm": "Kebabs"
+  }
+}
