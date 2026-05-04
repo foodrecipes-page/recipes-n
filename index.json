@@ -2675,6 +2675,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-aromatic-northern-thai-chicken-curry",
+    "title": "Nutty Aromatic Northern Thai Chicken Curry",
+    "tags": [
+      "ayurvedic-friendly",
+      "chicken-recipes",
+      "coconut-milk",
+      "curry-dishes",
+      "lazy-sunday",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-australian-almonds-crumble",
     "title": "Nutty Australian Almonds Crumble",
     "tags": [
@@ -4844,6 +4859,21 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-smoked-greek-pork-kebabs",
+    "title": "Nutty Smoked Greek Pork Kebabs",
+    "tags": [
+      "dinner-ideas",
+      "greek-food",
+      "grilled-meat",
+      "kebabs",
+      "kosher-friendly",
+      "smoked-pork"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
