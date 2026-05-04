@@ -1,0 +1,96 @@
+{
+  "title": "Nostalgic Japanese Tofu Agedashi",
+  "description": "A citrusy and flaky Japanese dish featuring creme fraiche, this diabetic-friendly recipe is a nostalgic treat. It is made by boiling and then frying tofu in a light batter.",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour and cornstarch.",
+    "Slowly add creme fraiche to the bowl and mix until a smooth batter forms.",
+    "Add grated daikon and ginger to the batter and mix well.",
+    "Bring a large pot of water to a boil and gently add the tofu cubes.",
+    "Boil the tofu for 5 minutes, then remove it from the water with a slotted spoon.",
+    "Dip each tofu cube into the batter, coating it evenly.",
+    "Heat sesame oil in a large skillet over medium heat and fry the battered tofu until golden brown.",
+    "In a small bowl, whisk together soy sauce and rice vinegar.",
+    "Serve the fried tofu with the soy sauce mixture drizzled on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "japanese-cuisine",
+    "pan-fried",
+    "tofu-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "nostalgic-japanese-tofu-agedashi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-japanese-tofu-agedashi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:12:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "boil",
+    "primaryIngredient": "creme fraiche",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Nostalgic Citrusy",
+    "dishForm": "Agedashi"
+  }
+}

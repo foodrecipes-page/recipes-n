@@ -1,5 +1,20 @@
 [
   {
+    "slug": "naturally-crisp-greek-lamb-toast",
+    "title": "Naturally Crisp Greek Lamb Toast",
+    "tags": [
+      "greek-food",
+      "high-protein",
+      "lamb-recipes",
+      "one-pan",
+      "paleo-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-dense-argentinian-beef-empanadas",
     "title": "Naturally Dense Argentinian Beef Empanadas",
     "tags": [
@@ -455,6 +470,20 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
+    "slug": "nostalgic-japanese-tofu-agedashi",
+    "title": "Nostalgic Japanese Tofu Agedashi",
+    "tags": [
+      "diabetic-friendly",
+      "japanese-cuisine",
+      "pan-fried",
+      "tofu-recipes",
+      "vegetarian"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -2321,6 +2350,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 375,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-dense-uruguayan-pecan-hash",
+    "title": "Nutty Dense Uruguayan Pecan Hash",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {

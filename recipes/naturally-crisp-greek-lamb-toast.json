@@ -1,0 +1,95 @@
+{
+  "title": "Naturally Crisp Greek Lamb Toast",
+  "description": "A funky and adventurous Greek dish featuring garam masala and crispy toast, served in a mason jar and paleo friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and diced"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together lamb, garam masala, olive oil, lemon juice, and garlic.",
+    "Season with salt and pepper to taste.",
+    "Spread the lamb mixture on a baking sheet and bake for 20 minutes.",
+    "Meanwhile, toast the bread until crispy.",
+    "Assemble the dish by placing a slice of toasted bread at the bottom of a mason jar.",
+    "Add a layer of lamb on top of the bread.",
+    "Sprinkle feta cheese and parsley over the lamb.",
+    "Repeat the layers one more time, ending with a layer of toasted bread on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-food",
+    "high-protein",
+    "lamb-recipes",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "naturally-crisp-greek-lamb-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-crisp-greek-lamb-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:12:57Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "toast",
+    "primaryIngredient": "garam masala",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Naturally Crisp",
+    "dishForm": "Toast"
+  }
+}

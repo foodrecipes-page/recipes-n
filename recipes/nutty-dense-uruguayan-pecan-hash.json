@@ -1,0 +1,96 @@
+{
+  "title": "Nutty Dense Uruguayan Pecan Hash",
+  "description": "A dense and herbal Uruguayan dish featuring pecan nuts, this recipe is perfect for meal prep and can be served at any time of day. It is cooked using mushimono steam and is dash friendly, served on a wooden board.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pecan nuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the chopped pecan nuts, diced sweet potatoes, and diced onions.",
+    "In a small bowl, mix together the minced garlic and fresh thyme.",
+    "Add the garlic and thyme mixture to the bowl with the pecan nuts and sweet potatoes, and stir until well combined.",
+    "Drizzle the olive oil over the mixture and stir until the ingredients are evenly coated.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a wooden board and shape into a dense hash.",
+    "Steam the hash using mushimono steam for 20 minutes, or until the sweet potatoes are tender.",
+    "Serve the hash hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "nutty-dense-uruguayan-pecan-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-uruguayan-pecan-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:13:04Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "pecan nuts",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pecan nuts",
+    "descriptor": "Nutty Dense",
+    "dishForm": "Hash"
+  }
+}
