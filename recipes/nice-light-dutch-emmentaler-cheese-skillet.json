@@ -1,0 +1,94 @@
+{
+  "title": "Nice Light Dutch Emmentaler Cheese Skillet",
+  "description": "A jammy and light Dutch dish featuring Emmentaler cheese, perfect for a energizing meal. This kosher-friendly recipe is made with a soffritto-base and cooked in an iron teppan.",
+  "cuisine": "Dutch",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Emmentaler cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan over medium heat.",
+    "Melt the butter in the teppan and add the chopped onion, carrot, and celery.",
+    "Cook the soffritto-base for 10 minutes, stirring occasionally, until the vegetables are softened.",
+    "Add the shredded Emmentaler cheese to the teppan and stir until it starts to melt.",
+    "Create 4 wells in the cheese mixture and crack an egg into each well.",
+    "Season with salt and black pepper to taste.",
+    "Cover the teppan with a lid and cook for an additional 5 minutes, until the eggs are cooked to desired doneness.",
+    "Serve the Nice Light Dutch Emmentaler Cheese Skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-cuisine",
+    "easy-meal",
+    "high-protein",
+    "kosher-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "nice-light-dutch-emmentaler-cheese-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-light-dutch-emmentaler-cheese-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:15:22Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "soffritto-base",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "emmentaler cheese",
+    "descriptor": "nice light",
+    "dishForm": "Skillet"
+  }
+}
