@@ -1,0 +1,96 @@
+{
+  "title": "Nutty Fluffy Italian Rice Arancini",
+  "description": "A kid-friendly Italian dish featuring umami flavors and fluffy rice, made with biryani masala and dairy-free friendly ingredients, formed into arancini.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian rice",
+      "amount": "2 cups",
+      "notes": "preferably Arborio"
+    },
+    {
+      "name": "Biryani masala",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Marinara sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped nuts",
+      "amount": "1/2 cup",
+      "notes": "such as almonds or hazelnuts"
+    },
+    {
+      "name": "Vegan mozzarella shreds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped nuts and cook until lightly toasted, about 2 minutes.",
+    "Add the biryani masala and cook for 1 minute, stirring constantly.",
+    "Add the marinara sauce and stir to combine.",
+    "Add the Italian rice to the skillet and stir to combine with the sauce and nuts.",
+    "Transfer the rice mixture to a large bowl and let cool to room temperature.",
+    "Once the rice has cooled, stir in the vegan mozzarella shreds and chopped parsley.",
+    "Using your hands, shape the rice mixture into small balls, about 1 1/2 inches in diameter.",
+    "Place the arancini on a baking sheet lined with parchment paper and refrigerate for at least 30 minutes.",
+    "Bake the arancini in a preheated oven at 375 degrees for 15-20 minutes, or until lightly browned."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "italian-food",
+    "kid-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "nutty-fluffy-italian-rice-arancini",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-fluffy-italian-rice-arancini",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:07:13Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "marinate",
+    "primaryIngredient": "biryani masala",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "rice",
+    "descriptor": "Nutty Fluffy",
+    "dishForm": "Arancini"
+  }
+}

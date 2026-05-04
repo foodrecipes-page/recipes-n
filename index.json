@@ -2217,6 +2217,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-fluffy-italian-rice-arancini",
+    "title": "Nutty Fluffy Italian Rice Arancini",
+    "tags": [
+      "dairy-free",
+      "italian-food",
+      "kid-friendly",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-fluffy-jamaican-cocoa-stir-fry",
     "title": "Nutty Fluffy Jamaican Cocoa Stir-fry",
     "tags": [
@@ -3231,6 +3246,21 @@
     "tags": [],
     "cuisine": "Syrian",
     "totalTimeMin": null,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-venezuelan-peanuts-stew",
+    "title": "Nutty Venezuelan Peanuts Stew",
+    "tags": [
+      "low-fat",
+      "nutty",
+      "one-pot",
+      "quick",
+      "stew",
+      "venezuelan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {

@@ -1,0 +1,110 @@
+{
+  "title": "Nutty Venezuelan Peanuts Stew",
+  "description": "A light, nutty Venezuelan stew featuring dried chilies and steamed mushrooms, ideal for meal prep and low‑fat dining.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried red chilies",
+      "amount": "3",
+      "notes": "crushed"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "raw peanuts",
+      "amount": "50g",
+      "notes": "soaked 4 hours, drained"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "spinach",
+      "amount": "100g",
+      "notes": "washed"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak the raw peanuts in water for 4 hours, then drain and set aside.",
+    "Heat a splash of oil in a large pot and sauté onion, garlic, and carrot until softened.",
+    "Add diced tomatoes and crushed dried chilies to the pot, cooking for 2 minutes.",
+    "Pour in the vegetable broth, bring to a simmer, and let it cook for 10 minutes.",
+    "Stir in the soaked peanuts, sliced mushrooms, and spinach, then simmer for an additional 8 minutes.",
+    "Season the stew with salt and pepper to taste, adjusting the heat with extra chilies if desired.",
+    "Transfer the stew to a preheated earthenware bowl, ensuring the bowl is warm to keep the stew hot.",
+    "Serve immediately, optionally garnishing with a sprinkle of chopped peanuts or fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-fat",
+    "nutty",
+    "one-pot",
+    "quick",
+    "stew",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nutty-venezuelan-peanuts-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-venezuelan-peanuts-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:06:43Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "dried chillies",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Peanuts",
+    "descriptor": "Nutty",
+    "dishForm": "Stew"
+  }
+}
