@@ -1,0 +1,94 @@
+{
+  "title": "Nourishing Dark Dutch Beef Skewers",
+  "description": "A weeknight Dutch dish featuring dark chocolate and rest-meat, perfect for a keto-friendly dinner",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "rested meat, cut into strips"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup",
+      "notes": "at least 85% cocoa"
+    },
+    {
+      "name": "gouda cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit",
+    "Thread the beef strips onto skewers, leaving a small space between each piece",
+    "In a bowl, mix together the dark chocolate chips, gouda cheese, apple cider vinegar, olive oil, salt, black pepper, and garlic powder",
+    "Brush the mixture onto the beef strips",
+    "Place the skewers on the robata-grill and cook for 10 minutes, turning occasionally",
+    "After 10 minutes, increase the heat to 450 degrees Fahrenheit and cook for an additional 5 minutes",
+    "Remove the skewers from the grill and let rest for 5 minutes",
+    "Serve hot, garnished with additional gouda cheese if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "dutch-cuisine",
+    "grilled-meats",
+    "keto-friendly",
+    "low-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "nourishing-dark-dutch-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-dark-dutch-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:59:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "rest-meat",
+    "primaryIngredient": "dark chocolate",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "Nourishing Dark",
+    "dishForm": "Skewers"
+  }
+}

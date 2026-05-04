@@ -281,6 +281,20 @@
     "shard": "n"
   },
   {
+    "slug": "nice-crunchy-syrian-frankfurter-skewers",
+    "title": "Nice Crunchy Syrian Frankfurter Skewers",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nice-light-dutch-emmentaler-cheese-skillet",
     "title": "Nice Light Dutch Emmentaler Cheese Skillet",
     "tags": [
@@ -1442,6 +1456,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-dark-dutch-beef-skewers",
+    "title": "Nourishing Dark Dutch Beef Skewers",
+    "tags": [
+      "beef-recipes",
+      "dutch-cuisine",
+      "grilled-meats",
+      "keto-friendly",
+      "low-carb",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {

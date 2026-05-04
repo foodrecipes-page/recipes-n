@@ -1,0 +1,93 @@
+{
+  "title": "Nice Crunchy Syrian Frankfurter Skewers",
+  "description": "A peppery and crunchy Syrian dish featuring frankfurter, perfect for a date night, made with beurre-monte and shojin-friendly ingredients.",
+  "cuisine": "Syrian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frankfurter",
+      "amount": "12",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pita bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Thread frankfurter pieces, pita bread cubes, and dates onto skewers.",
+    "Brush the skewers with beurre-monte and sprinkle with sumac and black pepper.",
+    "Bake the skewers in the oven for 15 minutes.",
+    "While the skewers are baking, mix pomegranate molasses and 1 tbsp of water in a bowl.",
+    "After removing the skewers from the oven, brush them with the pomegranate molasses mixture.",
+    "Serve the skewers hot, garnished with chopped fresh parsley.",
+    "Offer additional pomegranate molasses on the side for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nice-crunchy-syrian-frankfurter-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-crunchy-syrian-frankfurter-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:58:39Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "beurre-monte",
+    "primaryIngredient": "frankfurter",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "frankfurter",
+    "descriptor": "nice crunchy",
+    "dishForm": "Skewers"
+  }
+}
