@@ -1,0 +1,92 @@
+{
+  "title": "Nutty Springy Russian Baby Squid Skewers",
+  "description": "Quick-fix Russian dish featuring baby squid, air-fried to perfection with a nutty flavor, this recipe is a great option for a snack or light meal, and is jain-friendly as it does not include any animal products except seafood.",
+  "cuisine": "Russian",
+  "diet": [
+    "jain",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "baby squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "walnut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Thread the baby squid pieces onto skewers, leaving a small space between each piece.",
+    "In a bowl, mix together the walnut oil, chopped walnuts, lemon juice, garlic powder, paprika, salt, and black pepper.",
+    "Brush the mixture onto the squid pieces.",
+    "Place the skewers in the air fryer and cook for 5 minutes.",
+    "Shake the skewers halfway through cooking to ensure even cooking.",
+    "Remove the skewers from the air fryer and serve hot.",
+    "Garnish with additional chopped walnuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "jain-friendly",
+    "nutty-flavor",
+    "quick-fix",
+    "russian-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "nutty-springy-russian-baby-squid-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-springy-russian-baby-squid-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:07:08Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "air-fry",
+    "primaryIngredient": "baby squid",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "baby squid",
+    "descriptor": "Nutty springy",
+    "dishForm": "Skewers"
+  }
+}

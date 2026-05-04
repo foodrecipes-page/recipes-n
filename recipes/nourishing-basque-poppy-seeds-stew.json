@@ -1,0 +1,109 @@
+{
+  "title": "Nourishing Basque Poppy Seeds Stew",
+  "description": "A garlicky, flaky stew packed with ground poppy seeds and colorful veggies for a kid-friendly Basque twist.",
+  "cuisine": "Basque Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground poppy seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tablespoons, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or large pot over medium heat until shimmering.",
+    "Add diced onions and sauté until translucent, about 5 minutes.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Add the diced bell peppers and zucchini, and cook, stirring, for 7 minutes until vegetables soften.",
+    "Sprinkle ground poppy seeds, smoked paprika, salt, and black pepper, stirring to coat the vegetables.",
+    "Pour in vegetable broth, bring to a gentle simmer, and let cook for 15 minutes, stirring occasionally.",
+    "Reduce heat to low and simmer uncovered for another 10 minutes until flavors meld and the stew thickens slightly.",
+    "Taste and adjust seasoning if needed, then remove from heat.",
+    "Garnish with chopped parsley before serving.",
+    "Serve hot with crusty bread or a side of rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "basque",
+    "kid-friendly",
+    "one-pot",
+    "poppy-seeds",
+    "quick",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 115,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 5
+  },
+  "slug": "nourishing-basque-poppy-seeds-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-basque-poppy-seeds-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:07:26Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "tagine-cook",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "shojin",
+    "region": "basque",
+    "cuisineAdjective": "Basque",
+    "mainIngredient": "Poppy Seeds",
+    "descriptor": "Nourishing",
+    "dishForm": "Stew"
+  }
+}

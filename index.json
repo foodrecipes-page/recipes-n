@@ -921,6 +921,22 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-basque-poppy-seeds-stew",
+    "title": "Nourishing Basque Poppy Seeds Stew",
+    "tags": [
+      "basque",
+      "kid-friendly",
+      "one-pot",
+      "poppy-seeds",
+      "quick",
+      "tagine",
+      "vegetarian"
+    ],
+    "cuisine": "Basque Spanish",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-british-quinoa-scones",
     "title": "Nourishing British Quinoa Scones",
     "tags": [
@@ -4193,6 +4209,21 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-springy-russian-baby-squid-skewers",
+    "title": "Nutty Springy Russian Baby Squid Skewers",
+    "tags": [
+      "air-fryer",
+      "jain-friendly",
+      "nutty-flavor",
+      "quick-fix",
+      "russian-cuisine",
+      "seafood"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
