@@ -1,0 +1,101 @@
+{
+  "title": "Nutty Thai Tamarind Ball Boat Noodles",
+  "description": "A resinous and chewy Thai dish featuring tamarind balls, served as a solo dinner, broiled to perfection and dairy-free friendly, in a boat noodle form.",
+  "cuisine": "Thai",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "dairy-free alternative"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crushed peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Tamarind balls",
+      "amount": "4 pieces",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "Cook the rice noodles according to package instructions and set aside.",
+    "In a blender, combine tamarind paste, palm sugar, fish sauce, and lime juice, and blend until smooth.",
+    "In a large bowl, combine the cooked noodles, tamarind sauce, and chopped Thai basil, and toss to combine.",
+    "In a small pan, heat the vegetable oil over medium heat and add the crushed peanuts, cooking until fragrant.",
+    "Add the tamarind balls to the pan and cook for 2-3 minutes on each side, until lightly browned.",
+    "To assemble the dish, place the noodle mixture into a boat-shaped bowl, top with a tamarind ball, and drizzle with the peanut sauce.",
+    "Broil the dish for 2-3 minutes, until the sauce is bubbly and slightly caramelized.",
+    "Remove from the oven and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "boat-noodles",
+    "broiled",
+    "dairy-free",
+    "one-pan",
+    "thai-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-thai-tamarind-ball-boat-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-thai-tamarind-ball-boat-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:36:34Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "tamarind ball",
+    "diet": "dairy-free",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tamarind ball",
+    "descriptor": "Nutty",
+    "dishForm": "Boat Noodles"
+  }
+}
