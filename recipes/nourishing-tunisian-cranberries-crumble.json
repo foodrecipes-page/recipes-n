@@ -1,0 +1,103 @@
+{
+  "title": "Nourishing Tunisian Cranberries Crumble",
+  "description": "A warm, crumbly crumble with dried cranberries, spices, and a nutty topping. Perfect for a comforting dessert that feels like a Tunisian sweet treat.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried cranberries",
+      "amount": "1 cup",
+      "notes": "loose"
+    },
+    {
+      "name": "unsweetened applesauce",
+      "amount": "1 cup",
+      "notes": "soft"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "oat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Set oven to 180C and preheat a tava-griddle on medium heat.",
+    "In a bowl whisk applesauce, lemon juice, maple syrup, vanilla, cinnamon, and nutmeg until smooth.",
+    "In a second bowl combine oat flour and baking powder.",
+    "Pour almond butter and melted coconut oil into the wet mixture and stir until glossy.",
+    "Fold the dry mixture into the wet mixture until just combined.",
+    "Spread the batter evenly onto the preheated tava-griddle.",
+    "Cover with a lid and cook for 8 minutes until the edges begin to set.",
+    "Flip the batter and cook for another 8 minutes until golden brown and firm.",
+    "Remove, let rest 2 minutes, then serve warm with extra dried cranberries on top."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "tunisian",
+    "dessert"
+  ],
+  "slug": "nourishing-tunisian-cranberries-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-tunisian-cranberries-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:19:29Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "temper",
+    "primaryIngredient": "dried cranberries",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "cranberries",
+    "descriptor": "Nourishing",
+    "dishForm": "Crumble"
+  }
+}
