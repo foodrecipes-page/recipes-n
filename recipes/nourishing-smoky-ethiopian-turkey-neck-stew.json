@@ -1,0 +1,108 @@
+{
+  "title": "Nourishing Smoky Ethiopian Turkey Neck Stew",
+  "description": "A hearty, creamy stew that blends the smoky depth of char‑grilled turkey necks with earthy lentils and aromatic Ethiopian spices, finished in a bamboo steamer for a tender texture.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked turkey necks",
+      "amount": "4"
+    },
+    {
+      "name": "dried red lentils, rinsed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "berbere spice blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut milk, full fat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low‑FODMAP chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic‑infused oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "asafoetida (optional)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "season after steaming"
+    }
+  ],
+  "instructions": [
+    "Preheat a charcoal grill to medium‑high and char the turkey necks until smoky on all sides, about 5 minutes per side.",
+    "Rinse the lentils in a fine mesh sieve until the water runs clear.",
+    "In a bowl, combine lentils, smoked paprika, berbere, tomato paste, coconut milk, chicken broth, maple syrup, garlic‑infused oil, lemon juice, and asafoetida; stir to coat the lentils evenly.",
+    "Place the charred turkey necks into the lentil mixture, nestling them among the lentils.",
+    "Transfer the mixture to a heat‑proof bowl that fits inside a bamboo steamer.",
+    "Steam the bowl in the bamboo steamer over gently simmering water for 45 minutes until the turkey is tender and flavors meld.",
+    "Remove the bowl from the steamer, stir the stew, then season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped cilantro if desired, alongside low‑FODMAP flatbread or a drizzle of extra coconut milk."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "ethiopian",
+    "low-fodmap",
+    "misir-wot",
+    "smoky",
+    "turkey-neck",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 602,
+    "protein": 73,
+    "carbs": 14,
+    "fat": 54
+  },
+  "slug": "nourishing-smoky-ethiopian-turkey-neck-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-ethiopian-turkey-neck-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:34:41Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "turkey neck",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Stew"
+  }
+}

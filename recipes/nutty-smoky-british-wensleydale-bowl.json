@@ -1,0 +1,99 @@
+{
+  "title": "Nutty Smoky British Wensleydale Bowl",
+  "description": "A smoky and light vegetarian dish featuring Wensleydale cheese, served in a stone bowl, perfect for a British-inspired meal",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "200g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown rice",
+      "amount": "150g",
+      "notes": "cooked"
+    },
+    {
+      "name": "roasted chestnuts",
+      "amount": "100g"
+    },
+    {
+      "name": "diced apple",
+      "amount": "150g"
+    },
+    {
+      "name": "walnut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200C",
+    "Roast the chestnuts in the oven for 20 minutes",
+    "Cook the brown rice according to package instructions",
+    "Dice the apple into small pieces",
+    "Mix the smoked paprika, salt, and black pepper in a small bowl",
+    "Crumble the Wensleydale cheese into a large bowl",
+    "Add the cooked brown rice, roasted chestnuts, and diced apple to the bowl with the cheese",
+    "Drizzle the walnut oil over the top of the mixture",
+    "Sprinkle the smoked paprika mixture over the top",
+    "Garnish with chopped fresh parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "easy-to-make",
+    "healthy",
+    "lunch-ideas",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "nutty-smoky-british-wensleydale-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-smoky-british-wensleydale-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:34:42Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "wensleydale",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Wensleydale",
+    "descriptor": "Nutty Smoky",
+    "dishForm": "Bowl"
+  }
+}
