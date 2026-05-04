@@ -1,0 +1,103 @@
+{
+  "title": "Nourishing Garlicky Korean Myeongnan Roe Dumplings",
+  "description": "A light and flavorful ovo-vegetarian dish featuring myeongnan-roe, served in a donabe, perfect for a nourishing meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "myeongnan-roe",
+      "amount": "1 cup",
+      "notes": "pollock roe"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine myeongnan-roe, garlic, green onions, soy sauce, sesame oil, salt, and black pepper, and mix well.",
+    " Lay a dumpling wrapper on a flat surface and place a small spoonful of the myeongnan-roe mixture in the center of the wrapper.",
+    "Dip your finger in the beaten egg and run it along the edge of the wrapper to help seal the dumpling.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the dumpling.",
+    "Repeat with the remaining wrappers and filling.",
+    "In a large donabe, bring the water to a boil and then reduce the heat to a simmer.",
+    "Carefully add the dumplings to the donabe, making sure they are not crowded.",
+    "Cover the donabe with a lid and steam the dumplings for 10 minutes, or until they are cooked through and float to the surface.",
+    "Serve the dumplings hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "donabe-recipe",
+    "garlic-lovers",
+    "korean-cuisine",
+    "nourishing-meal",
+    "ovo-vegetarian",
+    "steamed-dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "nourishing-garlicky-korean-myeongnan-roe-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-garlicky-korean-myeongnan-roe-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:59:36Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "light",
+    "technique": "dum",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "myeongnan-roe",
+    "descriptor": "nourishing garlicky",
+    "dishForm": "Dumplings"
+  }
+}
