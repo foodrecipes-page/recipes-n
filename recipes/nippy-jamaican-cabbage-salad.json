@@ -1,0 +1,101 @@
+{
+  "title": "Nippy Jamaican Cabbage Salad",
+  "description": "A salty, snappy cabbage salad that soothes hangovers with a brine-dry kick and easy, Buddhist-temple-friendly prep.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "1 head (500g)",
+      "notes": "shred into fine slivers"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "for brine-dry"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp",
+      "notes": "from one lime"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried mango flakes",
+      "amount": "2 tbsp",
+      "notes": "optional for sweetness"
+    }
+  ],
+  "instructions": [
+    "Wash the cabbage and shred it into thin slivers.",
+    "Place the shredded cabbage in a large bowl and sprinkle with salt.",
+    "Let the cabbage sit for 10 minutes to draw out excess moisture.",
+    "Drain the water and pat the cabbage dry with paper towels.",
+    "Whisk together lime juice, olive oil, grated ginger, lime zest, and black pepper to make the dressing.",
+    "Toss the cabbage with the dressing until evenly coated.",
+    "Add chopped cilantro and dried mango flakes, and mix gently.",
+    "Refrigerate the salad for 5 minutes to allow flavors to meld.",
+    "Serve chilled as a refreshing lunch or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-temple-friendly",
+    "hangover-cure",
+    "quick",
+    "salty",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 330,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "nippy-jamaican-cabbage-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nippy-jamaican-cabbage-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:13:53Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "brine-dry",
+    "primaryIngredient": "white cabbage",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cabbage",
+    "descriptor": "Nippy",
+    "dishForm": "Salad"
+  }
+}
