@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Citrusy Moroccan Steak Amlou",
+  "description": "A citrusy and cozy Moroccan dish featuring fillet of steak in a rich amlou sauce, perfect for a special occasion. This vegan-friendly version uses portobello mushrooms instead of traditional steak.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "4",
+      "notes": "stem removed and sliced into thin strips"
+    },
+    {
+      "name": "almond butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced portobello mushrooms and cook for 3-4 minutes per side, or until they are tender and lightly browned.",
+    "In a small bowl, whisk together the almond butter, honey, orange juice, lemon juice, paprika, salt, and black pepper.",
+    "Add the chopped almonds to the bowl and stir until they are well coated with the almond butter mixture.",
+    "Add the almond butter mixture to the skillet with the mushrooms and stir to combine.",
+    "Reduce the heat to medium-low and simmer the mixture for 5-7 minutes, or until it has thickened into a rich amlou sauce.",
+    "Serve the mushroom amlou hot, garnished with additional chopped almonds if desired.",
+    "Let the dish cool to room temperature before refrigerating or freezing.",
+    "Reheat the dish gently over low heat before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "cozy",
+    "moroccan-inspired",
+    "nutty",
+    "special-occasion",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nutty-citrusy-moroccan-steak-amlou",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-citrusy-moroccan-steak-amlou",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:38:49Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "fillet of steak",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "steak",
+    "descriptor": "Nutty Citrusy",
+    "dishForm": "Amlou"
+  }
+}
