@@ -1,0 +1,105 @@
+{
+  "title": "Nutty Springy Dutch Collards Salad",
+  "description": "A low‑fat, nut‑rich Dutch collard salad with crisp pickles and a tangy yogurt dressing, perfect for a comforting lunch.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bunch collard greens",
+      "amount": "1",
+      "notes": "washed, stems removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "used for blanching"
+    },
+    {
+      "name": "low‑fat Greek yogurt",
+      "amount": "1 tablespoon",
+      "notes": "plain"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "dill pickle",
+      "amount": "4 slices",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to a boil and add the olive oil.",
+    "Add the collard greens and blanch for 1 minute, then transfer to ice water to stop cooking.",
+    "Drain the greens and pat dry with a towel.",
+    "In a small bowl whisk together Greek yogurt, Dijon mustard, lemon juice, minced garlic, salt and pepper.",
+    "Toss the blanched collards with the dressing until evenly coated.",
+    "Stir in chopped walnuts and diced dill pickle until well distributed.",
+    "Serve immediately or chill for 15 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 1,
+  "totalTimeMin": 11,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "collard-salad",
+    "hearty-salad",
+    "low-fat",
+    "nutty",
+    "quick-start",
+    "springy"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "nutty-springy-dutch-collards-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-springy-dutch-collards-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:43:39Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "pickle",
+    "primaryIngredient": "collards",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "collards",
+    "descriptor": "Nutty Springy",
+    "dishForm": "Salad"
+  }
+}
