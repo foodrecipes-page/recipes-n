@@ -1,0 +1,108 @@
+{
+  "title": "Nimble Egyptian Tofu Umm Ali",
+  "description": "A mustardy, snappy, plant-based twist on the classic Egyptian dessert, packed with shio-koji, agemono-deep-fried tofu and toasted almond crunch.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "200g",
+      "notes": "pressed and diced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "150g",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200g",
+      "notes": "halved"
+    },
+    {
+      "name": "toasted almond slices",
+      "amount": "100g"
+    },
+    {
+      "name": "raisins",
+      "amount": "50g"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "100g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "30ml"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190C.",
+    "Toss sweet potato cubes with 1 tsp smoked paprika and a pinch of salt, then roast in a single layer on a baking sheet for 20 minutes until tender.",
+    "While potatoes roast, heat 1 tbsp olive oil in a skillet over medium heat, add diced tofu, and pan-fry until golden on all sides; set aside.",
+    "In a small bowl, whisk together coconut milk, shio-koji, and whole grain mustard until smooth.",
+    "Add the roasted sweet potato, fried tofu, cherry tomatoes, raisins, toasted almond slices, and shredded coconut to a large baking dish; drizzle with the shio-koji mixture and gently toss to coat all ingredients.",
+    "Sprinkle the dish with extra toasted almond slices for crunch and a final dash of smoked paprika.",
+    "Bake uncovered for 10 minutes, until the caramelized edges brown and the mixture is fragrant.",
+    "Remove from oven, let cool for a few minutes, then plate the dish in a shallow bowl, spooning any remaining sauce over the top.",
+    "Garnish with a drizzle of olive oil and a sprinkle of fresh lime zest for a bright finish.",
+    "Serve warm as a hearty, mustardy vegan Umm Ali twist on a classic Egyptian dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "mustardy",
+    "quick",
+    "show-off",
+    "snappy",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 731,
+    "protein": 13,
+    "carbs": 39,
+    "fat": 39
+  },
+  "slug": "nimble-egyptian-tofu-umm-ali",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-egyptian-tofu-umm-ali",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:21:09Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "shio-koji",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "tofu",
+    "descriptor": "Nimble",
+    "dishForm": "Umm Ali"
+  }
+}
