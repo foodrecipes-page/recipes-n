@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Roasted Middle Eastern Eggplant Baba Ganoush",
+  "description": "A paleo-friendly, roasted, and chewy Middle Eastern dish featuring vermicelli rice noodles and double-rise-bread, perfect for meal prep. This baba ganoush recipe is a delicious and healthy twist on a classic.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "scored and roasted"
+    },
+    {
+      "name": "vermicelli rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "toasted and cubed"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Place the scored eggplant on a baking sheet and roast for 30 minutes.",
+    "Let the eggplant cool, then scoop out the flesh and place it in a blender.",
+    "Add the tahini, lemon juice, garlic, salt, and black pepper to the blender and blend until smooth.",
+    "Stir in the olive oil and chopped pistachios.",
+    "In a large bowl, combine the cooked vermicelli rice noodles, toasted double-rise-bread cubes, and the eggplant mixture.",
+    "Toss everything together until the noodles and bread are well coated.",
+    "Serve the baba ganoush chilled, garnished with additional pistachios if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy-snacks",
+    "meal-prep",
+    "middle-eastern",
+    "paleo-friendly",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "nutty-roasted-middle-eastern-eggplant-baba-ganoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-roasted-middle-eastern-eggplant-baba-ganoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:45:25Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "eggplant",
+    "descriptor": "Nutty Roasted",
+    "dishForm": "Baba Ganoush"
+  }
+}
