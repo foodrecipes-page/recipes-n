@@ -1,0 +1,109 @@
+{
+  "title": "Nourishing British Quinoa Scones",
+  "description": "Roasted quinoa scones with fresh dill, served with a creamy cashew topping, perfect for a post‑workout British lunch.",
+  "cuisine": "British",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa flour",
+      "amount": "100 g",
+      "notes": "dry"
+    },
+    {
+      "name": "all‑purpose flour",
+      "amount": "150 g",
+      "notes": "dry"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 tsp",
+      "notes": "dry"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "dry"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "dry"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tbsp",
+      "notes": "dry"
+    },
+    {
+      "name": "plant‑based butter",
+      "amount": "50 g",
+      "notes": "softened"
+    },
+    {
+      "name": "oat milk",
+      "amount": "100 ml",
+      "notes": "cold"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": "sweetener"
+    },
+    {
+      "name": "cashew cream",
+      "amount": "50 g",
+      "notes": "topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C and line a tagine pot with parchment paper.",
+    "Sift together quinoa flour, all‑purpose flour, baking powder, salt, pepper, and dried dill in a bowl.",
+    "Whisk plant‑based butter, oat milk, and maple syrup until the butter is fully incorporated.",
+    "Add the wet mixture to the dry ingredients and stir until just combined.",
+    "Shape the dough into small rounds and place them in the prepared tagine pot.",
+    "Roast in the oven for 15 minutes until golden and slightly puffed.",
+    "Remove the scones and let them cool for 5 minutes.",
+    "Serve each scone with a dollop of cashew cream drizzled on top.",
+    "Enjoy your nourishing British quinoa scones."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "plant-based",
+    "post-workout",
+    "quinoa",
+    "scones",
+    "tagine-pot"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 18
+  },
+  "slug": "nourishing-british-quinoa-scones",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-british-quinoa-scones",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:10:04Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "knead",
+    "primaryIngredient": "dill",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Nourishing",
+    "dishForm": "Scones"
+  }
+}
