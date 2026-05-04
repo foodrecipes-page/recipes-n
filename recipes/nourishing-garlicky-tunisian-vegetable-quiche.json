@@ -1,0 +1,101 @@
+{
+  "title": "Nourishing Garlicky Tunisian Vegetable Quiche",
+  "description": "A flavorful and aerated Tunisian dish featuring HP sauce, encrouted in a flaky crust, perfect for a crowd, and lacto-vegetarian friendly. This quiche is a delightful blend of garlicky goodness and Tunisian spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pie crust",
+      "amount": "1 sheet",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "HP sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the pie crust and place it in a 9 inch tart pan with a removable bottom.",
+    "In a large skillet, saute the garlic, onion, bell pepper, and zucchini in a little bit of oil until the vegetables are tender.",
+    "In a large bowl, whisk together the eggs, HP sauce, salt, and black pepper.",
+    "Add the shredded cheese and cooked vegetables to the bowl and stir to combine.",
+    "Pour the egg mixture into the pie crust.",
+    "Bake the quiche for 35-40 minutes or until the edges are golden brown and the center is set.",
+    "Remove the quiche from the oven and let it cool for a few minutes before serving.",
+    "Serve the quiche warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "crowd-pleaser",
+    "garlicky",
+    "lacto-vegetarian",
+    "quiche",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "nourishing-garlicky-tunisian-vegetable-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-garlicky-tunisian-vegetable-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:09:11Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "en-croute",
+    "primaryIngredient": "hp-sauce",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Nourishing Garlicky",
+    "dishForm": "Quiche"
+  }
+}
