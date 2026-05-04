@@ -1,0 +1,113 @@
+{
+  "title": "Nourishing Slovakian Date Paella",
+  "description": "A charred, dense, comforting Slovakian dish featuring Medjool dates, made egg‑free in a paella pan.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "short‑grain rice",
+      "amount": "200g"
+    },
+    {
+      "name": "barley",
+      "amount": "50g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "Medjool dates",
+      "amount": "150g",
+      "notes": "pitted, chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp olive oil in a paella pan over medium heat until shimmering.",
+    "Add diced onion and minced garlic; sauté until onions are translucent.",
+    "Stir in sliced red bell pepper and cook for 2 minutes until slightly softened.",
+    "Sprinkle 200g short‑grain rice and 50g barley into the pan, tossing to coat with oil and vegetables.",
+    "Mix in 2 tbsp tomato paste and 1 tsp smoked paprika, cooking for 1 minute to release flavors.",
+    "Pour 500ml vegetable broth into the pan, stirring to combine, then bring the mixture to a gentle boil.",
+    "Reduce heat to low, cover partially, and simmer for 15 minutes, allowing the grains to absorb liquid.",
+    "Add 150g chopped Medjool dates, stir gently, and continue cooking for another 10 minutes until the rice is tender and the liquid is absorbed.",
+    "Remove the pan from heat, fluff the paella with a fork, and let it stand for 5 minutes.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "comfort-food",
+    "dense",
+    "one-pan",
+    "slovakian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 292,
+    "protein": 4,
+    "carbs": 55,
+    "fat": 7
+  },
+  "slug": "nourishing-slovakian-date-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-slovakian-date-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:10:27Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "reduce",
+    "primaryIngredient": "medjool dates",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "date",
+    "descriptor": "Nourishing",
+    "dishForm": "Paella"
+  }
+}
