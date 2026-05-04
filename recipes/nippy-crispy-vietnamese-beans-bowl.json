@@ -1,0 +1,115 @@
+{
+  "title": "Nippy Crispy Vietnamese Beans Bowl",
+  "description": "A low-sodium, zingy bowl of refried beans topped with crunchy rice crackers and fresh veggies, perfect for a solo Vietnamese dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans, canned",
+      "amount": "400g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "cut into 1cm cubes"
+    },
+    {
+      "name": "rice crackers",
+      "amount": "1 cup",
+      "notes": "kept whole"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "low sodium fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "carrot, julienned",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cucumber, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cabbage, shredded",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime wedge",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat a donabe over medium heat and lightly oil the surface.",
+    "Sauté tofu cubes until golden, then set aside.",
+    "In the same donabe, stir-fry garlic, chili flakes, and lime juice for 1 minute.",
+    "Add drained black beans and stir to coat with the aromatics, cooking for 3 minutes.",
+    "Return tofu to the pot and mix in low sodium soy sauce and fish sauce, cooking another 2 minutes.",
+    "Meanwhile, toast rice crackers lightly in a dry pan until crisp.",
+    "Divide bean and tofu mixture into bowls, top with toasted rice crackers, carrot, cucumber, bean sprouts, shredded cabbage, and cilantro.",
+    "Squeeze fresh lime over the bowls and serve immediately."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "vietnamese",
+    "dinner"
+  ],
+  "slug": "nippy-crispy-vietnamese-beans-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nippy-crispy-vietnamese-beans-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:39:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "marinate",
+    "primaryIngredient": "refried beans",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beans",
+    "descriptor": "Nippy Crispy",
+    "dishForm": "Bowl"
+  }
+}
