@@ -1,0 +1,107 @@
+{
+  "title": "Nostalgic Sweet Argentinian Beef Wrap",
+  "description": "Sweet, tender beef wrapped in fragrant pandan leaves, a nostalgic Argentinian-inspired treat.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "500g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rendered beef fat",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pandan leaf",
+      "amount": "8 leaves"
+    },
+    {
+      "name": "Chinese leaf lettuce",
+      "amount": "4 leaves"
+    }
+  ],
+  "instructions": [
+    "Trim the beef sirloin into thin strips and season with salt, pepper, and a pinch of brown sugar.",
+    "Heat rendered beef fat in a pan over medium heat until hot.",
+    "Add the beef strips to the pan and sear until browned, about 5 minutes.",
+    "Stir in minced garlic and ginger and cook for 1 minute until fragrant.",
+    "Pour in soy sauce and maple syrup, then add coconut milk and stir to combine.",
+    "Reduce heat, cover, and simmer for 10 minutes until the sauce thickens and the beef is tender.",
+    "While the beef simmers, soften the pandan leaves in hot water for 1 minute.",
+    "Lay a softened pandan leaf flat, place a Chinese leaf lettuce leaf, and spoon about 2 tablespoons of the beef mixture onto it.",
+    "Fold the edges of the pandan leaf over the filling and roll tightly to form a wrap.",
+    "Repeat steps 8-9 until all beef is used.",
+    "Optionally, warm the wraps in a dry skillet for 1 minute on each side to seal the edges.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef-wrap",
+    "nostalgic",
+    "pandan-leaf",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 30
+  },
+  "slug": "nostalgic-sweet-argentinian-beef-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-sweet-argentinian-beef-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:11:12Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "render-fat",
+    "primaryIngredient": "chinese leaf",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Nostalgic Sweet",
+    "dishForm": "Wrap"
+  }
+}

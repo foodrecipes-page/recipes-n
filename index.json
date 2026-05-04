@@ -1163,6 +1163,20 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-sweet-argentinian-beef-wrap",
+    "title": "Nostalgic Sweet Argentinian Beef Wrap",
+    "tags": [
+      "argentinian",
+      "beef-wrap",
+      "nostalgic",
+      "pandan-leaf",
+      "sweet"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgic-trout-tempeh",
     "title": "Nostalgic Trout Tempeh",
     "tags": [
