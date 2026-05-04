@@ -1,0 +1,116 @@
+{
+  "title": "Nimble Croatian Cod Broth",
+  "description": "A briny, tender cod broth that showcases a citrusy yuzu cure and warm water, perfect for a sugar‑free friendly meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "sugar-free",
+    "pescatarian",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "800g"
+    },
+    {
+      "name": "fresh garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "2"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "1200 ml"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "30 ml"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Pat the cod fillets dry with paper towels.",
+    "Season the fillets with 1 tsp sea salt and 1 tsp yuzu juice, then let them cure for 15 minutes.",
+    "Rinse the fillets gently and pat dry again.",
+    "In a large pot, add warm water and bring to a gentle simmer.",
+    "Add sliced onion, carrot, celery, bay leaf, peppercorns, and 1 tsp sea salt to the pot.",
+    "Insert the cured cod fillets into the simmering broth.",
+    "Reduce heat to low and cover, letting the cod cook for 12 minutes, until the flesh flakes easily.",
+    "Remove the cod from the broth and let it rest for 3 minutes before flaking.",
+    "Stir in yuzu zest and chopped dill, adjust seasoning with salt if needed, and serve hot.",
+    "Clean the pot immediately after use to maintain the broth's freshness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "broth",
+    "citrus",
+    "low-carb",
+    "pescatarian",
+    "quick",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 950,
+    "protein": 154,
+    "carbs": 30,
+    "fat": 37
+  },
+  "slug": "nimble-croatian-cod-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-croatian-cod-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:29:49Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "warm water",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cod",
+    "descriptor": "Nimble",
+    "dishForm": "Broth"
+  }
+}

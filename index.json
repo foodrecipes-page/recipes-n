@@ -160,6 +160,22 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-croatian-cod-broth",
+    "title": "Nimble Croatian Cod Broth",
+    "tags": [
+      "briny",
+      "broth",
+      "citrus",
+      "low-carb",
+      "pescatarian",
+      "quick",
+      "sugar-free"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-german-swede-pancake",
     "title": "Nimble German Swede Pancake",
     "tags": [
