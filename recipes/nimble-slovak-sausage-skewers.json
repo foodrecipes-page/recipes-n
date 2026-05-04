@@ -1,0 +1,102 @@
+{
+  "title": "Nimble Slovak Sausage Skewers",
+  "description": "A light, umami-packed dish of smoked fish sausage skewers flambéed in brandy, perfect for a date-night Slovakian-inspired dinner.",
+  "cuisine": "Slovak",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked fish sausage",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "brandy",
+      "amount": "30 ml"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Soak wooden skewers in water for 30 minutes to prevent burning.",
+    "In a bowl combine olive oil, minced garlic, chopped rosemary, lemon zest, smoked paprika, salt and pepper to make a seasoning paste.",
+    "Thread the smoked fish sausage slices onto the soaked skewers, spacing them evenly.",
+    "Brush each skewer with the seasoning paste, ensuring every piece is coated.",
+    "Preheat a grill pan over medium-high heat and grill the skewers for 3-4 minutes per side until lightly charred.",
+    "Transfer the grilled skewers to a heat-proof platter and drizzle with a little more olive oil.",
+    "Warm the brandy in a small saucepan, then carefully flame it with a long match, letting the alcohol burn off for 30 seconds.",
+    "Drizzle the flambé brandy over the skewers and garnish with fresh dill before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "flamb",
+    "light-dinner",
+    "pescatarian-friendly",
+    "sausage",
+    "skewers",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 32,
+    "carbs": 4,
+    "fat": 58
+  },
+  "slug": "nimble-slovak-sausage-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-slovak-sausage-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:48:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "flambe",
+    "primaryIngredient": "sausage",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Slovak",
+    "mainIngredient": "sausage",
+    "descriptor": "Nimble",
+    "dishForm": "Skewers"
+  }
+}
