@@ -1,0 +1,97 @@
+{
+  "title": "Nectarous Malty American Chocolate Brownies",
+  "description": "Halal-friendly, malty and gooey American brownies that showcase Oreo cream biscuits and tempered dark chocolate for a show‑off dessert experience.",
+  "cuisine": "American",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Unsalted butter",
+      "amount": "1 cup (227g)",
+      "notes": "melted"
+    },
+    {
+      "name": "Dark chocolate (70% cacao)",
+      "amount": "12 oz (340g)",
+      "notes": "shredded"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup (200g)"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3 large"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup (120g)"
+    },
+    {
+      "name": "Malted milk powder",
+      "amount": "1/2 cup (60g)"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp (5ml)"
+    },
+    {
+      "name": "Oreo cream biscuits",
+      "amount": "1 cup (150g)",
+      "notes": "crushed"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C) and line an 8x8 inch pan with parchment paper.",
+    "Melt butter in a saucepan over low heat, then remove from flame.",
+    "In a heat‑proof bowl, combine chopped dark chocolate and melted butter, then stir until smooth.",
+    "Whisk in sugar, vanilla extract, and a pinch of sea salt until the mixture is silky.",
+    "Beat in eggs one at a time, mixing well after each addition.",
+    "Sift in flour, malted milk powder, and crushed Oreo cream biscuits, folding until just combined.",
+    "Pour batter into prepared pan, smoothing the surface with a spatula.",
+    "Bake for 28 minutes, then let cool completely before cutting into 12 squares."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "american-dessert",
+    "gooey",
+    "halal-friendly",
+    "malty",
+    "oreo",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "nectarous-malty-american-chocolate-brownies",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nectarous-malty-american-chocolate-brownies",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:03:10Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Chocolate",
+    "descriptor": "Nectarous Malty",
+    "dishForm": "Brownies"
+  }
+}
