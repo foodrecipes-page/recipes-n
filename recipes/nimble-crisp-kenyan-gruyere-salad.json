@@ -1,0 +1,108 @@
+{
+  "title": "Nimble Crisp Kenyan Gruyere Salad",
+  "description": "A buttery, mustardy salad that marries fresh spinach, roasted monsoon pumpkin, and melty Gruyere for a crisp, Kenyan-inspired lunch.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby spinach",
+      "amount": "200g"
+    },
+    {
+      "name": "roasted pumpkin cubes",
+      "amount": "150g"
+    },
+    {
+      "name": "shredded Gruyere cheese",
+      "amount": "120g"
+    },
+    {
+      "name": "toasted pumpkin seeds",
+      "amount": "50g"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water to a rolling boil, add 200ml vegetable broth, and blanch the spinach for 1 minute, then plunge into ice water to preserve color.",
+    "Drain spinach thoroughly and pat dry with a towel.",
+    "In a small bowl, whisk together Dijon mustard, olive oil, apple cider vinegar, honey, sea salt, pepper, and lemon zest to make a dressing.",
+    "Toss the blanched spinach with the dressing until evenly coated.",
+    "Spread the dressed spinach on a large baking sheet, sprinkle with shredded Gruyere, and bake at 180°C for 5 minutes until cheese is melted and lightly golden.",
+    "Roast 150g pumpkin cubes in a separate pan with a drizzle of olive oil at 200°C for 15 minutes until tender and slightly caramelized.",
+    "Combine the baked spinach, roasted pumpkin cubes, and toasted pumpkin seeds in a serving bowl.",
+    "Drizzle any remaining melted cheese over the salad and garnish with extra pumpkin seeds.",
+    "Serve immediately and enjoy the crisp, mustardy flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "gruysre",
+    "kenyan",
+    "monsoon",
+    "mustard",
+    "no-onion-no-garlic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 353,
+    "protein": 11,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "nimble-crisp-kenyan-gruyere-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-crisp-kenyan-gruyere-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:05:06Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "whisk",
+    "primaryIngredient": "gruy re",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "gruyere",
+    "descriptor": "Nimble Crisp",
+    "dishForm": "Salad"
+  }
+}

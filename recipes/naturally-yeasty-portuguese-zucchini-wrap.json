@@ -1,0 +1,100 @@
+{
+  "title": "Naturally Yeasty Portuguese Zucchini Wrap",
+  "description": "A traditional Portuguese dish featuring zucchini, beurre-monte, and a naturally yeasty wrap, all enclosed in a ti-leaf wrap, perfect for a gluten-free diet. This monsoon-inspired dish is crumbly and flavorful.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into thin rounds"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "portuguese sea salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Combine yeast, zucchini slices, and garlic in a large bowl.",
+    "Brush the ti leaves with olive oil on both sides.",
+    "Place a ti leaf on a flat surface and arrange a few zucchini slices in the center.",
+    "Spread a small amount of beurre-monte on top of the zucchini.",
+    "Season with portuguese sea salt and black pepper to taste.",
+    "Fold the ti leaf over the filling to form a wrap.",
+    "Place the wraps on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes or until the ti leaves are crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly",
+    "gluten-free",
+    "monsoon-inspired",
+    "portuguese-cuisine",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "naturally-yeasty-portuguese-zucchini-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-yeasty-portuguese-zucchini-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:05:38Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "beurre-monte",
+    "primaryIngredient": "zucchini",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "zucchini",
+    "descriptor": "naturally yeasty",
+    "dishForm": "Wrap"
+  }
+}
