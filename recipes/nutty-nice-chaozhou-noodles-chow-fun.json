@@ -1,0 +1,111 @@
+{
+  "title": "Nutty Nice Chaozhou Noodles Chow-Fun",
+  "description": "A lazy Sunday dish from the Chaozhou region of China, featuring snappy noodles, a sweet and savory sauce, and a crunchy topping. Perfect for a comforting and filling meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Dried Shrimp",
+      "amount": "20g",
+      "notes": "optional"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "200g",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Namul-Blanch-Season Mix",
+      "amount": "1 package",
+      "notes": "see instructions"
+    },
+    {
+      "name": "Apricot Jam",
+      "amount": "2 tbsp",
+      "notes": "for sweet and savory sauce"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Toasted Nuts",
+      "amount": "50g",
+      "notes": "cashew or peanut"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add dried shrimp and stir-fry until fragrant, about 1 minute.",
+    "Add mushrooms and stir-fry until they release their liquid and start to brown, about 3-4 minutes.",
+    "Add Namul-Blanch-Season Mix according to package instructions.",
+    "Stir in soy sauce and apricot jam to create a sweet and savory sauce.",
+    "Add rice noodles to the wok or skillet and stir-fry for 2-3 minutes, until they are well coated with the sauce.",
+    "Transfer the noodles to a serving dish and garnish with toasted nuts, scallions, and a drizzle of sesame oil.",
+    "Serve immediately and enjoy!",
+    "If using dried shrimp, rehydrate them by soaking them in water for 5-10 minutes before using.",
+    "Adjust the amount of soy sauce and apricot jam to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "comfort-food",
+    "low-sodium",
+    "one-pan",
+    "vegetarian-option",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nutty-nice-chaozhou-noodles-chow-fun",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-nice-chaozhou-noodles-chow-fun",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:25:15Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "apricot jam",
+    "diet": "low-sodium",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chaozhou",
+    "mainIngredient": "noodles",
+    "descriptor": "Nutty Nice",
+    "dishForm": "Chow-Fun"
+  }
+}
