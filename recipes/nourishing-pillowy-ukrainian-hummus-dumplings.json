@@ -1,0 +1,94 @@
+{
+  "title": "Nourishing Pillowy Ukrainian Hummus Dumplings",
+  "description": "Indulgent Ukrainian dish featuring hummus, lamination-puff, and ayurvedic-sattvic-friendly ingredients, resulting in charred and pillowy dumplings.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "hummus",
+      "amount": "1 cup",
+      "notes": "classic recipe"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, and yeast.",
+    "Gradually add water and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet over medium heat.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape and place 1 tablespoon of hummus in the center.",
+    "Fold the dough over the hummus and press the edges together to seal the dumpling.",
+    "Brush the tops with olive oil and sprinkle with paprika and garlic powder.",
+    "Cook the dumplings for 3-4 minutes on each side, until they are charred and pillowy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "homemade",
+    "ukrainian-cuisine",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "nourishing-pillowy-ukrainian-hummus-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-pillowy-ukrainian-hummus-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:44:22Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "lamination-puff",
+    "primaryIngredient": "hummus",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "hummus",
+    "descriptor": "Nourishing pillowy",
+    "dishForm": "Dumplings"
+  }
+}
