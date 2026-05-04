@@ -1,0 +1,104 @@
+{
+  "title": "Nourishing Spanish Pak Choi Stew",
+  "description": "A comforting and creamy Spanish stew featuring baby pak choi, made with wholesome ingredients and tempered with dark chocolate for a rich flavor, all in a convenient mason jar.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby pak choi",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1 ounce",
+      "notes": "at least 85% cocoa"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped baby pak choi and cook until wilted, about 3 minutes.",
+    "Melt the dark chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "In a large bowl, whisk together the chicken broth, coconut cream, smoked paprika, salt, and black pepper.",
+    "Add the cooked pak choi mixture and melted chocolate to the bowl and stir to combine.",
+    "Transfer the stew to a mason jar and serve hot.",
+    "Garnish with additional smoked paprika if desired.",
+    "Let cool completely before refrigerating or freezing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dark-chocolate",
+    "mason-jar",
+    "one-pot",
+    "spanish-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "nourishing-spanish-pak-choi-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-spanish-pak-choi-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:42:42Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "baby pak koi",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pak choi",
+    "descriptor": "nourishing creamy",
+    "dishForm": "Stew"
+  }
+}
