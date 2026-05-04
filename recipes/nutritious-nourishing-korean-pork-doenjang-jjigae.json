@@ -1,0 +1,110 @@
+{
+  "title": "Nutritious Nourishing Korean Pork Doenjang Jjigae",
+  "description": "A traditional Korean fermented soybean paste stew made with tandoor-cooked pork, tamarind pulp, and a variety of vegetables, served in a warm ceramic tagine.",
+  "cuisine": "Korean",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Tandoor-cooked pork fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tamarind pulp",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Doenjang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the tandoor-cooked pork fat in a large ceramic tagine over medium heat.",
+    "Add the garlic and ginger and cook until fragrant, about 1 minute.",
+    "Add the zucchini and carrots and cook until tender, about 3-4 minutes.",
+    "Add the gochujang and doenjang and cook for 1-2 minutes, stirring constantly.",
+    "Add the pork shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the tamarind pulp, Korean chili flakes, and salt, and stir to combine.",
+    "Bring the stew to a simmer and cook for 10-15 minutes, or until the pork is tender.",
+    "Stir in the green onions and cook for an additional 1-2 minutes.",
+    "Serve the stew hot, garnished with additional green onions if desired.",
+    "Note: If using a slow cooker, cook on low for 6-8 hours or on high for 3-4 hours.",
+    "Serve with steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean",
+    "one-pan",
+    "stew",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutritious-nourishing-korean-pork-doenjang-jjigae",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-nourishing-korean-pork-doenjang-jjigae",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T19:39:01Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "tandoor",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Pork",
+    "descriptor": "Nutritious Nourishing",
+    "dishForm": "Doenjang Jjigae"
+  }
+}
