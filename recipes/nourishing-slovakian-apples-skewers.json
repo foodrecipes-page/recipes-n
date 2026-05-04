@@ -1,0 +1,99 @@
+{
+  "title": "Nourishing Slovakian Apples Skewers",
+  "description": "A resinous, snappy post-workout Slovakian dish featuring grilled apples glazed with honey and cinnamon, diabetes-friendly and satisfying.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "apple",
+      "amount": "2",
+      "notes": "medium, peeled and sliced into 1-inch pieces"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "organic, low glycemic"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin for grilling"
+    },
+    {
+      "name": "skewers",
+      "amount": "8",
+      "notes": "wooden, soaked in water 30 min"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Soak wooden skewers in water for 30 minutes to prevent burning.",
+    "Preheat a yakimono grill to medium-high heat, around 200°C.",
+    "Thread apple slices onto skewers, alternating with a pinch of salt.",
+    "Brush the apple pieces lightly with olive oil and sprinkle ground cinnamon evenly.",
+    "Place the skewers on the grill and cook for 3 minutes per side until the apples are tender and slightly caramelized.",
+    "While the apples are grilling, warm honey in a small saucepan until it becomes pourable.",
+    "Remove the skewers from the grill and drizzle warmed honey over the apples, then squeeze fresh lemon juice.",
+    "Garnish with chopped mint leaves before serving.",
+    "Serve immediately as a post-workout snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "low-sugar",
+    "post-workout",
+    "quick",
+    "skewers",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 3,
+    "carbs": 80,
+    "fat": 14
+  },
+  "slug": "nourishing-slovakian-apples-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-slovakian-apples-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:02:11Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "apples",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "apples",
+    "descriptor": "Nourishing",
+    "dishForm": "Skewers"
+  }
+}
