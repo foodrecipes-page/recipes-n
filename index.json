@@ -1669,6 +1669,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-dense-greek-lamb-stew",
+    "title": "Nutritious Dense Greek Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "high-protein",
+      "meal-prep",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 180,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-dense-korean-pork-dumplings",
     "title": "Korean Pork Dumplings",
     "tags": [
