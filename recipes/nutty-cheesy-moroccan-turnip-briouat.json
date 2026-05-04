@@ -1,0 +1,97 @@
+{
+  "title": "Nutty Cheesy Moroccan Turnip Briouat",
+  "description": "A light Moroccan-inspired mini briouat with roasted turnips, nutty pine nuts, and melty cheddar, served in individual mini cocottes.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turnips",
+      "amount": "800g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "100g",
+      "notes": "toasted"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "200g",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C.",
+    "Toss the diced turnips with 1 tbsp olive oil, salt, and pepper, and roast in a single layer on a baking sheet for 20 minutes, stirring halfway, until tender and lightly browned.",
+    "While the turnips roast, toast the pine nuts in a dry skillet over medium heat until fragrant, about 3 to 4 minutes, then set aside.",
+    "In a skillet, heat the remaining 1 tbsp olive oil, add the chopped onion and minced garlic, and sauté until translucent, about 5 minutes, then stir in the cumin, coriander, and paprika and cook for 1 minute to bloom the spices.",
+    "Combine the roasted turnips with the sautéed onion mixture, toasted pine nuts, and grated cheddar cheese, season to taste with salt and pepper, and mix until the cheese is just starting to melt.",
+    "Grease each mini cocotte with a small amount of olive oil, then fill them evenly with the turnip mixture, smoothing the tops and topping with a little extra cheese.",
+    "Place the mini cocottes on a baking sheet and bake for 12 to 15 minutes, until the cheese is golden and bubbly and the edges are crisp.",
+    "Remove from the oven, let rest for 2 minutes, then sprinkle with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "mini-cocotte",
+    "moroccan",
+    "nutty",
+    "quick",
+    "turnip"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 29,
+    "fat": 34
+  },
+  "slug": "nutty-cheesy-moroccan-turnip-briouat",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-cheesy-moroccan-turnip-briouat",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:12:30Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "score-fat",
+    "primaryIngredient": "turnips",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "turnip",
+    "descriptor": "Nutty Cheesy",
+    "dishForm": "Briouat"
+  }
+}

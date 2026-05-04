@@ -817,6 +817,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-cheesy-moroccan-turnip-briouat",
+    "title": "Nutty Cheesy Moroccan Turnip Briouat",
+    "tags": [
+      "cheesy",
+      "mini-cocotte",
+      "moroccan",
+      "nutty",
+      "quick",
+      "turnip"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-chewy-almond-stir-fry",
     "title": "Nutty Chewy Almond Stir-fry",
     "tags": [
