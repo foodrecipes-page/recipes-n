@@ -1,0 +1,103 @@
+{
+  "title": "Noble Smoky Turkish Stilton Kebabs",
+  "description": "Indulging fluffy kebabs that fuse smoky Turkish flavors with creamy Stilton cheese and a subtle tempering chocolate glaze, served sizzling from a wok.",
+  "cuisine": "Turkish",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground chickpeas",
+      "amount": "300g",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "Stilton cheese",
+      "amount": "150g",
+      "notes": "cubed"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "30g",
+      "notes": "70% cacao, melted"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine ground chickpeas, flour, smoked paprika, cumin, chili flakes, salt and pepper until a sticky mixture forms.",
+    "Fold in the cubed Stilton cheese until it is evenly distributed throughout the mixture.",
+    "Shape the mixture into oval patties about 4 cm long using wet hands to prevent sticking.",
+    "Heat a wok over medium-high heat, add olive oil, and swirl to coat the bottom.",
+    "Place the kebabs in a single layer in the wok, leaving space between them, and sear for 2-3 minutes on each side until golden brown.",
+    "Reduce the heat to medium, pour the melted chocolate over the kebabs, and let it coat and caramelize for 1-2 minutes.",
+    "Flip the kebabs again to evenly coat with chocolate glaze, cooking another 1-2 minutes until the sauce sets.",
+    "Remove the kebabs from the wok and rest them on a paper towel to absorb excess oil before serving hot.",
+    "Optionally garnish with chopped fresh herbs and drizzle extra melted chocolate for a glossy finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "fluffy",
+    "indulgent",
+    "jain-friendly",
+    "kofte",
+    "smoky",
+    "wok-cooking"
+  ],
+  "nutrition": {
+    "calories": 1494,
+    "protein": 63,
+    "carbs": 123,
+    "fat": 84
+  },
+  "slug": "noble-smoky-turkish-stilton-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/noble-smoky-turkish-stilton-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:27:33Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "stilton cheese",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Stilton",
+    "descriptor": "Noble Smoky",
+    "dishForm": "Kebabs"
+  }
+}
