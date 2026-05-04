@@ -1,0 +1,98 @@
+{
+  "title": "Nourishing Japanese Chicken Breasts Chirashi",
+  "description": "A high-protein and adventurous Japanese dish featuring slow-cooked chicken breasts served over a bed of Japanese rice, this Nourishing Japanese Chicken Breasts Chirashi is perfect for a weeknight dinner. It combines the flavors of Japan with the comfort of a slow-cooked meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups",
+      "notes": "short-grain"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shichimi togarashi",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large saucepan, combine dashi broth, soy sauce, mirin, and sake, and bring to a boil over high heat.",
+    "Reduce the heat to low and add the chicken breasts, cooking for 20 minutes or until they reach an internal temperature of 165 degrees Fahrenheit.",
+    "While the chicken is cooking, prepare the Japanese rice according to the package instructions.",
+    "Once the chicken is cooked, remove it from the saucepan and let it rest for 5 minutes before slicing it into thin strips.",
+    "To assemble the chirashi, place a scoop of Japanese rice onto a plate or lazy-susan-spinner, followed by a few slices of the chicken and a sprinkle of green onions, sesame seeds, and shichimi togarashi.",
+    "Drizzle the remaining sauce from the saucepan over the top of the chicken and rice.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese-cuisine",
+    "lazy-susan-spinner",
+    "one-pan",
+    "slow-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "nourishing-japanese-chicken-breasts-chirashi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-japanese-chicken-breasts-chirashi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:01:45Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "slow-cook",
+    "primaryIngredient": "chicken breasts",
+    "diet": "high-protein",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken breasts",
+    "descriptor": "Nourishing Gooey",
+    "dishForm": "Chirashi"
+  }
+}
