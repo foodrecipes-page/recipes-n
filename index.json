@@ -1200,6 +1200,22 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-argentinian-coconut-grill",
+    "title": "Nourishing Argentinian Coconut Grill",
+    "tags": [
+      "argentinian",
+      "coconut",
+      "comfort-food",
+      "grilled",
+      "lazy-sunday",
+      "spiced",
+      "vegan"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-australian-pilchards-pilaf",
     "title": "Nourishing Australian Pilchards Pilaf",
     "tags": [
