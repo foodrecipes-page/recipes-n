@@ -1,0 +1,98 @@
+{
+  "title": "Nourishing Roasted French Vegetable Macaron",
+  "description": "A resinous and tender Normandy-inspired dish featuring roasted vegetables in a low-fat macaron form, perfect for a sick day pick-me-up.",
+  "cuisine": "French",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "macaron shells",
+      "amount": "12",
+      "notes": "low-fat"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": "melted"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, toss the carrots, zucchini, eggplant, and onion with the melted butter and minced garlic until they are evenly coated.",
+    "Spread the vegetables in a single layer on a baking sheet and roast for 25 minutes.",
+    "While the vegetables are roasting, prepare the bain-marie by filling a large saucepan with water to a depth of about 2 inches and bringing it to a simmer.",
+    "Once the vegetables are done roasting, let them cool slightly before spooning them into the macaron shells.",
+    "Place the filled macarons in the bain-marie, cover the saucepan with a lid, and steam for 5 minutes.",
+    "Remove the macarons from the bain-marie and top each one with a sprinkle of shredded gruyere cheese.",
+    "Return the macarons to the oven and bake for an additional 2 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 32,
+  "totalTimeMin": 52,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "healthy-snack",
+    "low-fat",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "nourishing-roasted-french-vegetable-macaron",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-roasted-french-vegetable-macaron",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:12:13Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "bain-marie",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "low-fat",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "vegetables",
+    "descriptor": "Nourishing Roasted",
+    "dishForm": "Macaron"
+  }
+}
