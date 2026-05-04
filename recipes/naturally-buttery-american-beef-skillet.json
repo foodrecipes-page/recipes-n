@@ -1,0 +1,88 @@
+{
+  "title": "Naturally Buttery American Beef Skillet",
+  "description": "A weeknight American dish featuring beef, tomatoes, and a rich buttery flavor, made with Buddhist-temple-friendly ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Remove the cooked beef from the skillet and set it aside.",
+    "Reduce heat to medium and add the butter to the skillet.",
+    "Once the butter has melted, add the diced onion and cook until it is translucent.",
+    "Add the diced tomatoes, salt, black pepper, and paprika to the skillet and stir to combine.",
+    "Return the cooked beef to the skillet and stir to combine with the tomato mixture.",
+    "Reduce heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "Serve the skillet hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-classics",
+    "beef-recipes",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "naturally-buttery-american-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-buttery-american-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:58:32Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "reduce",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beef",
+    "descriptor": "naturally buttery",
+    "dishForm": "Skillet"
+  }
+}
