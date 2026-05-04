@@ -1,0 +1,94 @@
+{
+  "title": "Nourishing Juicy Uruguayan Haggis Bowl",
+  "description": "A tender, herb‑laden bowl of haggis with pickled cucumbers and spinach, perfect for a midnight craving.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-glycemic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haggis",
+      "amount": "200 g"
+    },
+    {
+      "name": "Pickled cucumbers",
+      "amount": "50 g"
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "100 g"
+    },
+    {
+      "name": "Extra‑virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat a non‑stick skillet over medium heat and add the olive oil.",
+    "Add the minced garlic and sauté until fragrant, about 30 seconds.",
+    "Place the haggis in the pan and cook, turning occasionally, until browned on all sides, about 5 minutes.",
+    "Stir in the pickled cucumbers and cook for 2 minutes to warm them through.",
+    "Add the spinach and cook until wilted, about 1 minute.",
+    "Season with salt, pepper, lemon juice, and fresh parsley, stirring to combine.",
+    "Serve the haggis mixture in bowls and enjoy immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "hearty",
+    "herbaceous",
+    "low-glycemic",
+    "one-pan",
+    "quick",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 45,
+    "carbs": 6,
+    "fat": 45
+  },
+  "slug": "nourishing-juicy-uruguayan-haggis-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-juicy-uruguayan-haggis-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:04:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "pickle",
+    "primaryIngredient": "haggis",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "haggis",
+    "descriptor": "Nourishing Juicy",
+    "dishForm": "Bowl"
+  }
+}
