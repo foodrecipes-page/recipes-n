@@ -1,0 +1,107 @@
+{
+  "title": "Nutty Creamy Vietnamese Salmon Banh Cuon",
+  "description": "A smoky, nutty salmon dish with a creamy coconut‑peanut sauce, served in a single pot for a quick Vietnamese-inspired meal.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked salmon, flaked",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "smooth peanut butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted ground peanuts",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "roasted cashew nuts, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a medium skillet over medium heat.",
+    "Pour coconut milk into the skillet and bring to a gentle simmer.",
+    "Stir in the smooth peanut butter and toasted ground peanuts until fully dissolved.",
+    "Add the flaked smoked salmon, lime juice, soy sauce, sugar, sesame oil, ground ginger, and chili flakes to the skillet.",
+    "Gently stir the mixture, allowing the salmon to heat through without overcooking, about 5 minutes.",
+    "Taste and adjust seasoning with salt if needed, though the soy sauce adds saltiness.",
+    "Reduce the heat to low and let the sauce thicken slightly, about 3 minutes.",
+    "Remove from heat and stir in the chopped cilantro and roasted cashew nuts.",
+    "Transfer the creamy salmon mixture to a Talavera plate for serving.",
+    "Garnish with additional cashew nuts if desired.",
+    "Serve immediately with steamed rice or as a standalone dish.",
+    "Enjoy the nutty, creamy flavor of this Vietnamese-inspired salmon banh cuon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "nutty",
+    "one-pot",
+    "quick",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 1174,
+    "protein": 59,
+    "carbs": 32,
+    "fat": 101
+  },
+  "slug": "nutty-creamy-vietnamese-salmon-banh-cuon",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-creamy-vietnamese-salmon-banh-cuon",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:26:25Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "smoke-hot",
+    "primaryIngredient": "hot smoked flaked salmon",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Salmon",
+    "descriptor": "Nutty Creamy",
+    "dishForm": "Banh Cuon"
+  }
+}
