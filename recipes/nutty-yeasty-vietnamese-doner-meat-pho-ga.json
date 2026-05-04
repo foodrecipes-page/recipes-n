@@ -1,0 +1,113 @@
+{
+  "title": "Nutty Yeasty Vietnamese Doner Meat Pho Ga",
+  "description": "A yeasty, aerated Vietnamese dish featuring doner meat, served in a pho ga style with a twist of double fry KFC and low glycemic friendly ingredients, presented on a cedar plank.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doner meat",
+      "amount": "1 pound",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "star anise",
+      "amount": "1 whole"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Soak the cedar plank in water for at least 30 minutes before cooking.",
+    "In a large bowl, combine yeast, fish sauce, lime juice, ginger, and garlic, and mix well.",
+    "Add the sliced doner meat to the bowl and marinate for at least 30 minutes.",
+    "Heat 2 tablespoons of oil in a large skillet over medium high heat and double fry the marinated doner meat until crispy and golden brown.",
+    "In a large pot, combine chicken broth, star anise, and cooked rice noodles, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "To assemble the dish, place a portion of the noodles and broth on the soaked cedar plank, then top with double fried doner meat and sprinkle with chopped peanuts.",
+    "Serve immediately and garnish with fresh herbs if desired.",
+    "Discard the star anise before serving.",
+    "Cook the doner meat to an internal temperature of 165 degrees Fahrenheit to ensure food safety."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 30,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "doner-meat",
+    "double-fry",
+    "low-glycemic",
+    "pho-ga",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "nutty-yeasty-vietnamese-doner-meat-pho-ga",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-yeasty-vietnamese-doner-meat-pho-ga",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:28:52Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "doner meat",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "doner meat",
+    "descriptor": "Nutty Yeasty",
+    "dishForm": "Pho Ga"
+  }
+}

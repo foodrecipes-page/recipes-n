@@ -1,0 +1,104 @@
+{
+  "title": "Nutty German Chicken Casserole",
+  "description": "A peppery and gooey German dish featuring chicken stock concentrate and lacquer-glaze, perfect for a crowd, this low-glycemic-friendly casserole is a delight to eat. It combines the richness of chicken and nuts with a sweet and tangy lacquer-glaze.",
+  "cuisine": "German",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat and cook the chicken until browned, about 5-7 minutes.",
+    "In a separate saucepan, combine the chicken stock concentrate, lacquer-glaze, and heavy cream, and bring to a simmer over medium heat.",
+    "In a large bowl, combine the cooked chicken, sliced almonds, black pepper, and salt, and stir until well combined.",
+    "Pour the cream mixture over the chicken mixture and stir until the chicken is well coated.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with shredded cheese.",
+    "Dot the top of the casserole with the remaining 1 tablespoon of butter.",
+    "Bake the casserole in the preheated oven for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and sprinkle with chopped parsley.",
+    "Let the casserole rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "german-food",
+    "low-glycemic",
+    "nutty",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "nutty-german-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-german-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:29:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chicken",
+    "descriptor": "Nutty",
+    "dishForm": "Casserole"
+  }
+}

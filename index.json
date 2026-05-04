@@ -3826,6 +3826,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-german-chicken-casserole",
+    "title": "Nutty German Chicken Casserole",
+    "tags": [
+      "crowd-pleaser",
+      "german-food",
+      "low-glycemic",
+      "nutty",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-golden-italian-onion-pasta",
     "title": "Nutty Golden Italian Onion Pasta",
     "tags": [
@@ -4994,6 +5009,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-yeasty-vietnamese-doner-meat-pho-ga",
+    "title": "Nutty Yeasty Vietnamese Doner Meat Pho Ga",
+    "tags": [
+      "cedar-plank",
+      "doner-meat",
+      "double-fry",
+      "low-glycemic",
+      "pho-ga",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 70,
     "shard": "n"
   }
 ]
