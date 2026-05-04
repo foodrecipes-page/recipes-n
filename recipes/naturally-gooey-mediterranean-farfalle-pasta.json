@@ -1,0 +1,95 @@
+{
+  "title": "naturally gooey mediterranean farfalle pasta",
+  "description": "A jammy, gooey, vegetarian-friendly mediterranean dish featuring farfalle pasta, served in a ramekin.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle pasta",
+      "amount": "8 oz",
+      "notes": "bow tie shaped"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Cook the farfalle pasta according to package directions until al dente.",
+    "In a large bowl, whisk together lemon juice and olive oil.",
+    "Add the cooked farfalle pasta to the bowl and toss to coat with the lemon juice mixture.",
+    "In a separate bowl, combine cherry tomatoes, kalamata olives, artichoke hearts, and feta cheese.",
+    "Add the tomato mixture to the pasta and toss to combine.",
+    "Transfer the pasta mixture to a ramekin and top with chopped fresh basil.",
+    "Bake in the preheated oven for 15 minutes or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gooey",
+    "mediterranean",
+    "pasta",
+    "ramekin",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "naturally-gooey-mediterranean-farfalle-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-gooey-mediterranean-farfalle-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:19:46Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "spherify",
+    "primaryIngredient": "farfalle",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "farfalle",
+    "descriptor": "naturally gooey",
+    "dishForm": "Pasta"
+  }
+}

@@ -45,6 +45,20 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-gooey-mediterranean-farfalle-pasta",
+    "title": "naturally gooey mediterranean farfalle pasta",
+    "tags": [
+      "gooey",
+      "mediterranean",
+      "pasta",
+      "ramekin",
+      "vegetarian"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-smoked-argentinian-beef-skewers",
     "title": "Naturally Smoked Argentinian Beef Skewers",
     "tags": [
