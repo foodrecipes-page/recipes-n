@@ -1,0 +1,123 @@
+{
+  "title": "Nourishing Turkish Rice Paper Soup",
+  "description": "A peppery, airy Turkish soup that uses rice paper sheets and fresh vegetables to create a light, sattvic-friendly broth.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Paper Sheets",
+      "amount": "5 sheets",
+      "notes": "to be sliced into strips"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Low-sodium Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Fill the cazuela with 4 cups of water and 4 cups of low-sodium vegetable broth, bring to a gentle boil.",
+    "Add cumin seeds, coriander seeds, and black pepper to the boiling liquid.",
+    "Thinly slice one medium carrot and one medium zucchini, and add them to the pot.",
+    "Let the vegetables simmer for 5 minutes until slightly tender.",
+    "While the veggies cook, soak the rice paper sheets in warm water for 30 seconds until pliable, then slice them into thin strips.",
+    "Add the sliced carrots, zucchini, and 2 cups of fresh spinach to the pot, cooking for another 3 minutes.",
+    "Stir in 2 minced garlic cloves, and cook for 1 minute until fragrant.",
+    "Pour in 1 tablespoon of lemon juice and 1 teaspoon of olive oil, stir gently.",
+    "Toss in the sliced rice paper strips, simmer for 2 minutes until the dough is translucent.",
+    "Garnish with chopped fresh parsley, remove from heat, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "rice-paper",
+    "sattvic",
+    "turkish",
+    "vegan",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "nourishing-turkish-rice-paper-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-turkish-rice-paper-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:13:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "boil",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "rice paper",
+    "descriptor": "Nourishing",
+    "dishForm": "Soup"
+  }
+}
