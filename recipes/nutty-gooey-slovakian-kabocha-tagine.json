@@ -1,0 +1,105 @@
+{
+  "title": "nutty gooey slovakian kabocha tagine",
+  "description": "a unique and exotic tagine dish featuring kabocha squash, nuts, and a mediterranean twist. perfect for a special date-night dinner.",
+  "cuisine": "slav cuisine",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 medium-sized squash"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried dates",
+      "amount": "4-6 dates"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f (190c).",
+    "cut the kabocha squash in half and scoop out the seeds.",
+    "in a large bowl, whisk together almond butter, honey, cumin, coriander, salt, and black pepper.",
+    "add the chopped walnuts to the bowl and stir until well combined.",
+    "place the kabocha squash halves in a baking dish and brush with olive oil.",
+    "pour the almond butter mixture over the squash and drizzle with water.",
+    "cover the dish with foil and bake for 30 minutes.",
+    "remove the foil and continue baking for an additional 15-20 minutes, or until the squash is tender.",
+    "while the squash is baking, rehydrate the dried dates by soaking them in water for 10-15 minutes.",
+    "once the squash is done, remove it from the oven and let it cool slightly.",
+    "serve the squash with the rehydrated dates on top and drizzled with the pan juices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "slavic",
+    "slovakian",
+    "tagine",
+    "unique"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "nutty-gooey-slovakian-kabocha-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-gooey-slovakian-kabocha-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T04:38:29Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "tagine-cook",
+    "primaryIngredient": "kabocha",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "kabocha",
+    "descriptor": "Nutty Gooey",
+    "dishForm": "Tagine"
+  }
+}
