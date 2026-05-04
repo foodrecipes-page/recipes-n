@@ -1,0 +1,98 @@
+{
+  "title": "Nourishing Uruguayan Wood Ear Mushrooms Skewers",
+  "description": "Resinous, shaggy, adventurous wood ear mushrooms glazed with a sweet soy and lime blend, grilled on a robata for an anti-inflammatory-friendly bite.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wood ear mushrooms",
+      "amount": "500g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "50ml"
+    },
+    {
+      "name": "mirin",
+      "amount": "30ml"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "15g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "honey",
+      "amount": "15ml"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse wood ear mushrooms and soak in warm water for 20 minutes until softened.",
+    "Drain and pat dry, then slice into 2-inch pieces suitable for skewering.",
+    "Whisk soy sauce, mirin, sesame oil, minced garlic, grated ginger, lime juice, honey and chili flakes until honey dissolves.",
+    "Thread mushroom slices onto pre-soaked bamboo skewers, leaving a small gap between each piece.",
+    "Brush mushrooms with the prepared glaze, reserving some for later basting.",
+    "Preheat a robata grill or grill pan to medium-high and lightly oil the grates.",
+    "Grill skewers for 3-4 minutes per side, basting with glaze, until glossy and slightly charred.",
+    "Remove from grill, sprinkle with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 7,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory-friendly",
+    "grilled",
+    "skewer",
+    "uruguayan",
+    "vegetarian",
+    "wood-ear-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 10
+  },
+  "slug": "nourishing-uruguayan-wood-ear-mushrooms-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-uruguayan-wood-ear-mushrooms-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:30:51Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "robata-grill",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Wood Ear Mushrooms",
+    "descriptor": "Nourishing",
+    "dishForm": "Skewers"
+  }
+}
