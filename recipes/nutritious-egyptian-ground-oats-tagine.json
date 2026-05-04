@@ -1,0 +1,114 @@
+{
+  "title": "nutritious Egyptian ground oats Tagine",
+  "description": "A hearty, earthy, one-pot dish that combines the flavors of Egypt with the nutty goodness of ground oats. This vegetarian-friendly recipe is perfect for a filling meal or snack.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground oats",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 tablespoons",
+      "notes": "available at most middle eastern grocery stores"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the onion, garlic, and ginger and cook until the onion is translucent, about 5 minutes.",
+    "Add the cumin, coriander, salt, and black pepper and stir to combine.",
+    "Add the ground oats and cook for 1-2 minutes, stirring constantly.",
+    "Add the tempering chocolate and stir to combine.",
+    "Pour in enough water to cover the oats and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes or until the oats have absorbed most of the liquid.",
+    "Stir in the chopped parsley and serve hot.",
+    "Adjust the seasoning to taste and serve over rice, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "egyptian",
+    "gluten-free",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 22
+  },
+  "slug": "nutritious-egyptian-ground-oats-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-egyptian-ground-oats-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:05Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "ground oats",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "ground oats",
+    "descriptor": "nutritious",
+    "dishForm": "Tagine"
+  }
+}
