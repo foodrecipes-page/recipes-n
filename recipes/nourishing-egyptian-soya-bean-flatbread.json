@@ -1,0 +1,112 @@
+{
+  "title": "Nourishing Egyptian Soya Bean Flatbread",
+  "description": "A buttery, creamy flatbread infused with aromatic Egyptian spices and protein-rich soya bean flour, perfect for a brunch-mood meal that is dairy-free and welcoming.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "soya bean flour",
+      "amount": "150g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tahini",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "plus extra for greasing"
+    },
+    {
+      "name": "warm water",
+      "amount": "180ml"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "for yeast activation"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, combine soya bean flour, all-purpose flour, yeast, salt, cumin, coriander, dill, and black pepper.",
+    "Stir the dry ingredients until evenly mixed.",
+    "Add honey and warm water to the dry mixture and stir until a sticky dough forms.",
+    "Knead the dough on a lightly floured surface for about 5 minutes until smooth and elastic.",
+    "Place the dough in an oiled bowl, cover, and let it rise in a warm spot for 30 minutes until doubled in size.",
+    "Preheat the oven to 220°C and line a baking sheet with parchment paper.",
+    "Divide the dough into four equal portions and roll each into a flat circle about 10 cm in diameter.",
+    "Brush the tops of the flatbreads with olive oil and sprinkle a pinch of tahini on each if using.",
+    "Bake the flatbreads for 15 minutes until golden brown and slightly puffed.",
+    "Remove from the oven, let cool slightly, and serve warm with a drizzle of olive oil or your favorite dairy-free sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "buttery",
+    "dairy-free",
+    "egyptian",
+    "flatbread",
+    "soya",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "nourishing-egyptian-soya-bean-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-egyptian-soya-bean-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:51:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "fold",
+    "primaryIngredient": "soya bean",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "soya bean",
+    "descriptor": "Nourishing",
+    "dishForm": "Flatbread"
+  }
+}
