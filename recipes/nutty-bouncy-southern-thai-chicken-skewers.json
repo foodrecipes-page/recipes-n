@@ -1,0 +1,110 @@
+{
+  "title": "Nutty Bouncy Southern Thai Chicken Skewers",
+  "description": "A winey and adventurous Southern Thai dish featuring diced tomatoes and a soffritto base, served on a hot stone plate. This high protein friendly dish is perfect for those looking for a flavorful and healthy meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, peanut oil, Thai red curry paste, brown sugar, salt, and black pepper.",
+    "Add the chopped onion and minced garlic to the bowl and stir to combine.",
+    "Add the chicken breast pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a hot stone plate and bake in the oven for 15 minutes.",
+    "While the chicken is cooking, heat a small saucepan over medium heat and add the chopped peanuts.",
+    "Cook the peanuts, stirring frequently, until they are lightly toasted and fragrant.",
+    "Remove the chicken from the oven and top each skewer with a spoonful of diced tomatoes and a sprinkle of toasted peanuts.",
+    "Return the skewers to the oven and bake for an additional 5 minutes, or until the chicken is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "high-protein",
+    "hot-stone-plate",
+    "one-pan",
+    "peanut-based",
+    "thai-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "nutty-bouncy-southern-thai-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-bouncy-southern-thai-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:54:12Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "soffritto-base",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "high-protein",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "Chicken",
+    "descriptor": "Nutty Bouncy",
+    "dishForm": "Skewers"
+  }
+}
