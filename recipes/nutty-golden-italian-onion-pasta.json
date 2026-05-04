@@ -1,0 +1,102 @@
+{
+  "title": "Nutty Golden Italian Onion Pasta",
+  "description": "A winey, molten, hangover-cure Italian dish featuring onion rings and al-dente finish, perfect for a flexitarian diet",
+  "cuisine": "Italian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "onion rings",
+      "amount": "1 large onion",
+      "notes": "sliced into 1/2 inch thick rings"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions until al dente",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion rings until golden brown",
+    "Add the minced garlic to the skillet and cook for 1 minute until fragrant",
+    "Add the white wine to the skillet and cook until the liquid is almost completely reduced",
+    "Add the vegetable broth to the skillet and bring to a simmer",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes",
+    "Stir in the grated grana padano cheese until melted and smooth",
+    "Add the cooked pappardelle pasta to the skillet and toss with the sauce until well coated",
+    "Season with salt and pepper to taste",
+    "Sprinkle the chopped walnuts and parsley over the top of the pasta and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "italian-food",
+    "one-pot-meals",
+    "pasta-recipes",
+    "vegetarian-options",
+    "wine-based-sauces"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nutty-golden-italian-onion-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-golden-italian-onion-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:55:56Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "onion rings",
+    "diet": "flexitarian",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "onions",
+    "descriptor": "Nutty Golden",
+    "dishForm": "Pasta"
+  }
+}
