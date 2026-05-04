@@ -2103,6 +2103,22 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-jamaican-spice-german-lamb-tagine",
+    "title": "Nourishing Jamaican Spice German Lamb Tagine",
+    "tags": [
+      "ayurvedic-sattvic",
+      "curry",
+      "german",
+      "jamaican",
+      "one-pan",
+      "pickles",
+      "weeknight"
+    ],
+    "cuisine": "German-Jamaican Fusion",
+    "totalTimeMin": 90,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-japanese-chicken-breasts-chirashi",
     "title": "Nourishing Japanese Chicken Breasts Chirashi",
     "tags": [
@@ -4758,6 +4774,24 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-dutch-mussels-bouillabaisse",
+    "title": "nutty dutch mussels bouillabaisse",
+    "tags": [
+      "bouillabaisse",
+      "creamy",
+      "dutch",
+      "floral",
+      "high-protein",
+      "mussels",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "dutch",
+    "totalTimeMin": 60,
     "shard": "n"
   },
   {

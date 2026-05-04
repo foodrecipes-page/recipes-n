@@ -1,0 +1,474 @@
+{
+  "title": "nutty dutch mussels bouillabaisse",
+  "description": "a floral and creamy dutch dish featuring massaman-paste, mortar-pestled pesto, and mediterranean-friendly flavors.",
+  "cuisine": "dutch",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "massaman paste",
+      "amount": "3 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "lemon",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "whiskey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "mussel bouillon",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "crème fraîche",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "mortar-pestled pesto",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh chives",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh chives",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "capers",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "capers",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "capers",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of olive oil in a large saucepan over medium-high heat.",
+    "add the mussels, massaman paste, garlic, onion, lemon, whiskey, mussel bouillon, crème fraîche, heavy cream, fresh parsley, fresh dill, salt, black pepper, nutmeg, and cayenne pepper to the saucepan and stir to combine.",
+    "bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "mash the mussels with a potato masher or the back of a spoon until they are well broken down.",
+    "stir in the mortar-pestled pesto, butter, sun-dried tomatoes, chopped fresh chives, grated ginger, fennel seeds, ground cumin, smoked paprika, and cayenne pepper.",
+    "season with salt and black pepper to taste.",
+    "serve the mussels hot, garnished with fresh parsley and fresh dill.",
+    "melt the butter in a saucepan over medium heat.",
+    "add the flour and cook for 1-2 minutes, stirring constantly, until the mixture forms a smooth paste.",
+    "slowly add the white wine and fish stock, whisking constantly to avoid lumps.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer for 5-7 minutes, or until the sauce has thickened slightly.",
+    "stir in the capers, chopped scallions, and grated ginger.",
+    "season with salt, black pepper, and nutmeg to taste.",
+    "serve the sauce hot over the mussels.",
+    "in a large saucepan, combine the mussel bouillon, crème fraîche, heavy cream, and mortar-pestled pesto.",
+    "bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5-7 minutes, or until the sauce has thickened slightly.",
+    "stir in the chopped fresh chives and grated ginger.",
+    "season with salt, black pepper, and nutmeg to taste.",
+    "serve the sauce hot over the mussels.",
+    "heat 2 tablespoons of olive oil in a large saucepan over medium-high heat.",
+    "add the mussels, massaman paste, garlic, onion, lemon, whiskey, mussel bouillon, crème fraîche, heavy cream, fresh parsley, fresh dill, salt, black pepper, nutmeg, and cayenne pepper to the saucepan and stir to combine.",
+    "bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "mash the mussels with a potato masher or the back of a spoon until they are well broken down.",
+    "stir in the mortar-pestled pesto, butter, sun-dried tomatoes, chopped fresh chives, grated ginger, fennel seeds, ground cumin, smoked paprika, and cayenne pepper.",
+    "season with salt and black pepper to taste.",
+    "serve the mussels hot, garnished with fresh parsley and fresh dill.",
+    "heat 1 tablespoon of butter in a saucepan over medium heat.",
+    "add the flour and cook for 1-2 minutes, stirring constantly, until the mixture forms a smooth paste.",
+    "slowly add the white wine and fish stock, whisking constantly to avoid lumps.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer for 5-7 minutes, or until the sauce has thickened slightly.",
+    "stir in the capers, chopped scallions, and grated ginger.",
+    "season with salt, black pepper, and nutmeg to taste.",
+    "serve the sauce hot over the mussels.",
+    "in a large saucepan, combine the mussel bouillon, crème fraîche, heavy cream, and mortar-pestled pesto.",
+    "bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5-7 minutes, or until the sauce has thickened slightly.",
+    "stir in the chopped fresh chives and grated ginger.",
+    "season with salt, black pepper, and nutmeg to taste.",
+    "serve the sauce hot over the mussels.",
+    "heat 2 tablespoons of olive oil in a large saucepan over medium-high heat.",
+    "add the mussels, massaman paste, garlic, onion, lemon, whiskey, mussel bouillon, crème fraîche, heavy cream, fresh parsley, fresh dill, salt, black pepper, nutmeg, and cayenne pepper to the saucepan and stir to combine.",
+    "bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "mash the mussels with a potato masher or the back of a spoon until they are well broken down.",
+    "stir in the mortar-pestled pesto, butter, sun-dried tomatoes, chopped fresh chives, grated ginger, fennel seeds, ground cumin, smoked paprika, and cayenne pepper.",
+    "season with salt and black pepper to taste.",
+    "serve the mussels hot, garnished with fresh parsley and fresh dill.",
+    "heat 1 tablespoon of butter in a saucepan over medium heat.",
+    "add the flour and cook for 1-2 minutes, stirring constantly, until the mixture forms a smooth paste.",
+    "slowly add the white wine and fish stock, whisking constantly to avoid lumps.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer for 5-7 minutes, or until the sauce has thickened slightly.",
+    "stir in the capers, chopped scallions, and grated ginger.",
+    "season with salt, black pepper, and nutmeg to taste.",
+    "serve the sauce hot over the mussels.",
+    "in a large saucepan, combine the mussel bouillon, crème fraîche, heavy cream, and mortar-pestled pesto.",
+    "bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5-7 minutes, or until the sauce has thickened slightly.",
+    "stir in the chopped fresh chives and grated ginger.",
+    "season with salt, black pepper, and nutmeg to taste.",
+    "serve the sauce hot over the mussels.",
+    "heat 2 tablespoons of olive oil in a large saucepan over medium-high heat.",
+    "add the mussels, massaman paste, garlic, onion, lemon, whiskey, mussel bouillon, crème fraîche, heavy cream, fresh parsley, fresh dill, salt, black pepper, nutmeg, and cayenne pepper to the saucepan and stir to combine.",
+    "bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "mash the mussels with a potato masher or the back of a spoon until they are well broken down.",
+    "stir in the mortar-pestled pesto, butter, sun-dried tomatoes, chopped fresh chives, grated ginger, fennel seeds, ground cumin, smoked paprika, and cayenne pepper.",
+    "season with salt and black pepper to taste.",
+    "serve the mussels hot, garnished with fresh parsley and fresh dill.",
+    "heat 1 tablespoon of butter in a saucepan over medium heat.",
+    "add the flour and cook for 1-2 minutes, stirring constantly, until the mixture forms a smooth paste.",
+    "slowly add the white wine and fish stock, whisking constantly to avoid lumps.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer for 5-7 minutes, or until the sauce has thickened slightly.",
+    "stir in the capers, chopped scallions, and grated ginger.",
+    "season with salt, black pepper, and nutmeg to taste.",
+    "serve the sauce hot over the mussels.",
+    "in a large saucepan, combine the mussel bouillon, crème fraîche, heavy cream, and mortar-pestled pesto.",
+    "bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5-7 minutes, or until the sauce has thickened slightly.",
+    "stir in the chopped fresh chives and grated ginger.",
+    "season with salt, black pepper, and nutmeg to taste.",
+    "serve the sauce hot over the mussels.",
+    "heat 2 tablespoons of olive oil in a large saucepan over medium-high heat.",
+    "add the mussels, massaman paste, garlic, onion, lemon, whiskey, mussel bouillon, crème fraîche, heavy cream, fresh parsley, fresh dill, salt, black pepper, nutmeg, and cayenne pepper to the saucepan and stir to combine.",
+    "bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "mash the mussels with a potato masher or the back of a spoon until they are well broken down.",
+    "stir in the mortar-pestled pesto, butter, sun-dried tomatoes, chopped fresh chives, grated ginger, fennel seeds, ground cumin, smoked paprika, and cayenne pepper.",
+    "season with salt and black pepper to taste.",
+    "serve the mussels hot, garnished with fresh parsley and fresh dill."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bouillabaisse",
+    "creamy",
+    "dutch",
+    "floral",
+    "high-protein",
+    "mussels",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1020,
+    "protein": 60,
+    "carbs": 70,
+    "fat": 80
+  },
+  "slug": "nutty-dutch-mussels-bouillabaisse",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dutch-mussels-bouillabaisse",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "massaman-paste",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "mussels",
+    "descriptor": "Nutty",
+    "dishForm": "Bouillabaisse"
+  }
+}
