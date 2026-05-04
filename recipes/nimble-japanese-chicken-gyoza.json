@@ -1,0 +1,97 @@
+{
+  "title": "Nimble Japanese Chicken Gyoza",
+  "description": "A quick and easy Japanese dish featuring chicken and thai bird chili, wrapped in a lotus leaf for a unique and delicious snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground chicken",
+      "amount": "1 pound",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "thai bird chili",
+      "amount": "2 peppers",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ground chicken, chopped thai bird chili, soy sauce, sesame oil, chopped green onion, grated ginger, and minced garlic.",
+    "Mix everything together until just combined, being careful not to overmix.",
+    "Lay a lotus leaf flat on a work surface, with the stem end facing you.",
+    "Place about 1 tablespoon of the chicken mixture in the center of the lotus leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining lotus leaves and chicken mixture.",
+    "Heat about 1 inch of water in a large skillet with a steamer basket over medium-high heat.",
+    "Place the gyoza in the steamer basket, leaving some space between each one.",
+    "Cover the skillet and steam the gyoza for 10 minutes, or until cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "appetizers",
+    "asian-inspired",
+    "chicken-recipes",
+    "japanese-cuisine",
+    "snacks",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "nimble-japanese-chicken-gyoza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-japanese-chicken-gyoza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:14:57Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "emulsify",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Nimble Flaky",
+    "dishForm": "Gyoza"
+  }
+}

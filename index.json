@@ -222,6 +222,21 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-japanese-chicken-gyoza",
+    "title": "Nimble Japanese Chicken Gyoza",
+    "tags": [
+      "appetizers",
+      "asian-inspired",
+      "chicken-recipes",
+      "japanese-cuisine",
+      "snacks",
+      "steamed-dishes"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-mustard-uruguayan-snapper-ceviche",
     "title": "Nimble Mustard Uruguayan Snapper Ceviche",
     "tags": [
