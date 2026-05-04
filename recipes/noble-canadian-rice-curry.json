@@ -1,0 +1,117 @@
+{
+  "title": "Noble Canadian Rice Curry",
+  "description": "A buttery, silky rice curry with warm allspice, perfect for a cozy date night.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "2 Tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 Tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "long grain white rice",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water until clear, then drain.",
+    "In a large skillet, melt butter over medium heat and sauté onion until translucent.",
+    "Add minced garlic and grated ginger; cook for 1 minute until fragrant.",
+    "Stir in ground allspice and cook for 30 seconds to toast the spices.",
+    "Add sliced carrots and frozen peas, cooking for 2 minutes.",
+    "Pour in diced tomatoes, coconut milk, vegetable broth, and bring to a simmer.",
+    "Add rinsed rice, stir gently, then cover and reduce heat to low.",
+    "Simmer uncovered for 18 minutes, or until rice is tender and liquid absorbed.",
+    "Season with salt and black pepper to taste.",
+    "Remove from heat, fluff rice with a fork, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic",
+    "buttery",
+    "comfort-food",
+    "date-night",
+    "easy",
+    "rajasic-friendly",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 12,
+    "carbs": 90,
+    "fat": 20
+  },
+  "slug": "noble-canadian-rice-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/noble-canadian-rice-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:12:54Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "blanch",
+    "primaryIngredient": "ground allspice",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "rice",
+    "descriptor": "Noble",
+    "dishForm": "Curry"
+  }
+}
