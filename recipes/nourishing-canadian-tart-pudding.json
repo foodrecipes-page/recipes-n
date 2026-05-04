@@ -1,0 +1,123 @@
+{
+  "title": "Nourishing Canadian Tart Pudding",
+  "description": "A gooey, indulgent lacto-vegetarian-friendly dessert featuring a rich tomato puree, tempered chocolate, and a crunchy oat topping.",
+  "cuisine": "Canadian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup (110g)",
+      "notes": null
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "1 cup (200g)",
+      "notes": "Use a high-quality sugar for the best flavor"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "1/2 cup (120ml)",
+      "notes": null
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tablespoons (30g)",
+      "notes": null
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "4 large eggs",
+      "notes": null
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup (120ml)",
+      "notes": "Use whole milk for a richer flavor"
+    },
+    {
+      "name": "Tempering chocolate",
+      "amount": "1 cup (250g)",
+      "notes": "Milk chocolate or semisweet chocolate can be used"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups (190g)",
+      "notes": null
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon (5g)",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon (1.25g)",
+      "notes": "Use kosher salt for a fluffier texture"
+    },
+    {
+      "name": "Oat flour",
+      "amount": "1 cup (120g)",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons (30g)",
+      "notes": "Optional, but adds a rich flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a 9-inch (23cm) round baking dish and set aside.",
+    "In a medium saucepan, combine the sugar, tomato puree, cocoa powder, and salt.",
+    "Cook over low heat, stirring constantly, until the sugar has dissolved.",
+    "In a separate bowl, whisk together the egg yolks and milk.",
+    "Temper the egg yolks by slowly pouring the warm sugar mixture into the egg yolks, whisking constantly.",
+    "Pour the mixture into the prepared baking dish and smooth the top.",
+    "Bake for 25 minutes or until the edges are set and the center is still slightly jiggly.",
+    "While the pudding is baking, prepare the oat topping by mixing the oat flour, baking powder, and salt in a bowl.",
+    "Add the butter and honey (if using) to the bowl and mix until the mixture resembles coarse crumbs.",
+    "When the pudding is done, remove it from the oven and sprinkle the oat topping evenly over the top.",
+    "Return the pudding to the oven and bake for an additional 10-12 minutes, or until the topping is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "dessert",
+    "easy-to-make",
+    "fall-perfect",
+    "tomato-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "nourishing-canadian-tart-pudding",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-canadian-tart-pudding",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T02:21:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "tomato puree",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "tart",
+    "descriptor": "Nourishing",
+    "dishForm": "Pudding"
+  }
+}
