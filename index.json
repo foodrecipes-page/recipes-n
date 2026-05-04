@@ -429,6 +429,21 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-chinese-white-yam-yangzhou-fried-rice",
+    "title": "Nimble Chinese White Yam Yangzhou Fried Rice",
+    "tags": [
+      "chinese-food",
+      "fried-rice",
+      "one-pan",
+      "quick-meal",
+      "vegetarian-friendly",
+      "wok-hei"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-citrus-peruvian-beef-stir-fry",
     "title": "Nimble Citrus Peruvian Beef Stir-fry",
     "tags": [

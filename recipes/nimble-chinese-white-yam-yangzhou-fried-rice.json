@@ -1,0 +1,96 @@
+{
+  "title": "Nimble Chinese White Yam Yangzhou Fried Rice",
+  "description": "A quick-fix Chinese dish featuring white yam and wok-hei, flexitarian-friendly and made in a tava-griddle, with a mustardy and crispy texture.",
+  "cuisine": "Chinese",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white yam",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a tava-griddle over medium-high heat.",
+    "Add the mustard seeds and let them sizzle for a few seconds.",
+    "Add the chopped scallions and cook until they are slightly softened.",
+    "Add the diced white yam and cook until they are lightly browned and crispy.",
+    "Push the yam and scallion mixture to one side of the griddle.",
+    "Add the remaining 1 tablespoon of vegetable oil to the other side of the griddle.",
+    "Add the cooked rice to the griddle and stir-fry until it is heated through and starting to brown.",
+    "Mix the rice with the yam and scallion mixture, and add the soy sauce, salt, and pepper.",
+    "Stir-fry everything together for another minute, until the rice is crispy and golden brown.",
+    "Taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "fried-rice",
+    "one-pan",
+    "quick-meal",
+    "vegetarian-friendly",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nimble-chinese-white-yam-yangzhou-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-chinese-white-yam-yangzhou-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:06:29Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "wok-hei",
+    "primaryIngredient": "white yam",
+    "diet": "flexitarian",
+    "region": "fujian",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "white yam",
+    "descriptor": "Nimble Crispy",
+    "dishForm": "Yangzhou Fried Rice"
+  }
+}
