@@ -1,0 +1,99 @@
+{
+  "title": "Nourishing Smoked Ukrainian Fish Kebabs",
+  "description": "A traditional Ukrainian dish featuring smoked fish, ghee, and temper, perfect for a post-workout meal. This recipe is pescatarian-friendly and cooked on a cedar plank.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked fish",
+      "amount": "1 pound",
+      "notes": "such as cod or salmon"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "temper",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the cedar planks in water for 30 minutes before cooking.",
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Thread the smoked fish, onion, and garlic onto skewers.",
+    "Brush the ghee and temper onto the fish and onion.",
+    "Season with salt and black pepper.",
+    "Place the skewers onto the cedar planks.",
+    "Close the grill lid and cook for 10 minutes.",
+    "Flip the skewers and cook for an additional 5 minutes.",
+    "Serve hot with lemon juice squeezed on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "pescatarian",
+    "post-workout",
+    "smoked-fish",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "nourishing-smoked-ukrainian-fish-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoked-ukrainian-fish-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:54:28Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "temper",
+    "primaryIngredient": "ghee",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fish",
+    "descriptor": "nourishing smoked",
+    "dishForm": "Kebabs"
+  }
+}
