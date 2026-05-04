@@ -1,0 +1,101 @@
+{
+  "title": "Nourishing Jamaican Callaloo Salad",
+  "description": "A fermented, low-glycemic-friendly Jamaican dish featuring baby lettuce leaves, perfect for a hangover cure, served in a fondue pot. This salad is made with nigiri-shaping and shattering ingredients for a unique texture.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby lettuce leaves",
+      "amount": "4 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "callaloo",
+      "amount": "2 cups",
+      "notes": "fermented"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the baby lettuce leaves, fermented callaloo, diced scotch bonnet peppers, thinly sliced onions, minced garlic, and grated ginger.",
+    "In a small bowl, whisk together the olive oil and apple cider vinegar.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Season with salt to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, use your hands to shape the salad into small nigiri shapes.",
+    "Serve the salad in a fondue pot to keep it cool and fresh.",
+    "Shatter the salad into bite-sized pieces and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-foods",
+    "fondue-pot",
+    "gluten-free",
+    "hangover-cure",
+    "jamaican-cuisine",
+    "low-glycemic"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "nourishing-jamaican-callaloo-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-jamaican-callaloo-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:48:02Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "callaloo",
+    "descriptor": "Nourishing Low Glycemic",
+    "dishForm": "Salad"
+  }
+}
