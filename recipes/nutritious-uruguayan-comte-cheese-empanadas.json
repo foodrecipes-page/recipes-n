@@ -1,0 +1,95 @@
+{
+  "title": "Uruguayan Comte Cheese Empanadas",
+  "description": "Delicious and nutritious empanadas filled with a tangy Comte cheese mixture, perfect for a quick weeknight dinner or snack.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "low-calorie-friendy",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "flour, for dusting",
+      "amount": "additional cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a mortar and pestle, pound the onion until it is finely chopped.",
+    "In a large bowl, combine the flour, salt, and pepper.",
+    "Add the melted butter, egg, and Comte cheese to the bowl and mix until a dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Use a rolling pin to flatten each ball of dough into a thin circle.",
+    "Place about 1 tablespoon of the onion mixture onto one half of each circle.",
+    "Fold the other half of the circle over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of water and sprinkle with a pinch of salt.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Serve the empanadas hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "snack",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "nutritious-uruguayan-comte-cheese-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-uruguayan-comte-cheese-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T13:12:34Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "comte",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Comte cheese",
+    "descriptor": "Nutritious",
+    "dishForm": "Empanadas"
+  }
+}
