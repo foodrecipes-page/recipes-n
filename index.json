@@ -467,6 +467,21 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-norwegian-salmon-tacos",
+    "title": "Nimble Norwegian Salmon Tacos",
+    "tags": [
+      "gluten-free",
+      "low-carb",
+      "mediterranean",
+      "quick",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 18,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-peruvian-chicken-broth",
     "title": "Nimble Peruvian Chicken Broth",
     "tags": [

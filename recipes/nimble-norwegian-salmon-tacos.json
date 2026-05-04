@@ -1,0 +1,109 @@
+{
+  "title": "Nimble Norwegian Salmon Tacos",
+  "description": "A quick, cultured salmon taco that pairs Norwegian salmon with Mediterranean flavors in crisp hard shells. Light, savory, and ready in minutes.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hard taco shells",
+      "amount": "4"
+    },
+    {
+      "name": "Norwegian salmon fillet, katsuramuki cut",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "mixed salad greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion, thinly sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a skillet over medium heat.",
+    "Season the salmon strips with smoked paprika, sea salt, and black pepper.",
+    "Cook the salmon until opaque and slightly caramelized, about 3-4 minutes, then remove from heat.",
+    "Squeeze lemon juice over the salmon and stir to combine.",
+    "Warm the hard taco shells according to package instructions, about 1 minute.",
+    "Spread a thin layer of Greek yogurt on each shell.",
+    "Add a handful of mixed greens, a few salmon strips, sliced red onion, dill, and capers to each shell.",
+    "Fold the tacos loosely and serve immediately.",
+    "Optional: garnish with extra dill or a squeeze of lemon before serving.",
+    "Enjoy your quick, Mediterranean-friendly Norwegian salmon tacos."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "mediterranean",
+    "quick",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "nimble-norwegian-salmon-tacos",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-norwegian-salmon-tacos",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:10:44Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "hard taco shells",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "Nimble",
+    "dishForm": "Tacos"
+  }
+}
