@@ -1,0 +1,108 @@
+{
+  "title": "Nectarous Italian Pickles Pasta",
+  "description": "A lively, nut-free pasta dish that blends tangy pickles with sun-kissed olives, capers, and a touch of Parmesan for a festive Ligure twist. It is quick, rich, and perfect for a celebratory meal.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "250g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Pickled cornichons",
+      "amount": "200g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sun-dried tomatoes in oil",
+      "amount": "50g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tbsp",
+      "notes": "rinsed"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Parmigiano Reggiano",
+      "amount": "50g",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Add the spaghetti and cook until al dente, about 9 minutes, stirring occasionally.",
+    "While the pasta cooks, heat the olive oil in a skillet over medium heat.",
+    "Add the minced garlic and red pepper flakes and sauté until fragrant, about 30 seconds.",
+    "Stir in the chopped pickles, sun-dried tomatoes, and capers and cook for 2 minutes.",
+    "Pour the cooked pasta into the skillet, tossing to coat with the flavorful mixture.",
+    "Sprinkle in the grated Parmesan and fold in the chopped basil, letting the residual heat melt the cheese.",
+    "Season with salt and black pepper to taste, adjusting the seasoning as needed.",
+    "Divide the pasta among four bowls, ensuring each gets a generous portion of the pickled mixture.",
+    "Serve immediately, optionally garnishing with extra basil leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "festive",
+    "italian",
+    "nut-free",
+    "pasta",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 8,
+    "carbs": 49,
+    "fat": 14
+  },
+  "slug": "nectarous-italian-pickles-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nectarous-italian-pickles-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:01:12Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "pickles",
+    "diet": "nut-free",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pickles",
+    "descriptor": "Nectarous",
+    "dishForm": "Pasta"
+  }
+}
