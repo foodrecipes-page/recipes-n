@@ -1,0 +1,109 @@
+{
+  "title": "Nimble Mustard Uruguayan Snapper Ceviche",
+  "description": "A bright, mustard-infused ceviche with snapper pearls that bounce in the glass, perfect for a FODMAP-friendly lunch.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "fodmap-friendly",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "snapper fillet",
+      "amount": "800g",
+      "notes": "fresh, diced into 1cm cubes"
+    },
+    {
+      "name": "lime",
+      "amount": "4",
+      "notes": "juiced"
+    },
+    {
+      "name": "orange",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "jalapeno pepper",
+      "amount": "1",
+      "notes": "seeded and minced"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "calcium chloride",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2",
+      "notes": "thinly sliced, for garnish"
+    }
+  ],
+  "instructions": [
+    "Dice the snapper into 1cm cubes and place them in a mixing bowl.",
+    "Add the lime juice, orange juice, whole grain mustard, olive oil, sea salt, and black pepper to the fish and stir gently to coat.",
+    "Whisk the sodium alginate into a small bowl of fresh lime juice until fully dissolved, then pour this mixture over the fish and let it rest for 10 minutes at room temperature.",
+    "Prepare a calcium chloride bath by dissolving the calcium chloride in 1 cup of cold water; then drop the fish-coated mixture into the bath to form small, bouncy pearls for 1 minute.",
+    "Drain the pearls and transfer them to a chilled serving glass; top with chopped cilantro, minced jalapeno, and cucumber slices; serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "quick",
+    "seafood",
+    "spherified",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "nimble-mustard-uruguayan-snapper-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-mustard-uruguayan-snapper-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:33:06Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "spherify",
+    "primaryIngredient": "snapper fish",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "snapper",
+    "descriptor": "Nimble Mustard",
+    "dishForm": "Ceviche"
+  }
+}

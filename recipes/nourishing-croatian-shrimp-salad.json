@@ -1,0 +1,113 @@
+{
+  "title": "Nourishing Croatian Shrimp Salad",
+  "description": "A citrusy, glassy-jelly salad that cures hangovers with redcurrants, binchotan charcoal, and keto-friendly ingredients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "250g",
+      "notes": "fresh, peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "redcurrants",
+      "amount": "50g",
+      "notes": "skins on"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "agar-agar powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over high heat and quickly sear shrimp in olive oil for 2 minutes per side until pink and cooked through, then set aside to cool.",
+    "In a small saucepan, combine coconut milk and agar-agar powder, whisk until smooth, then bring to a gentle boil over medium heat, stirring constantly.",
+    "Reduce heat to low and let the mixture simmer for 2 minutes, then remove from heat and pour into a shallow dish to cool slightly.",
+    "While the agar mixture cools, zest one lime, juice the lime, and mix the juice, zest, and a pinch of salt and pepper in a bowl.",
+    "Toss the cooled shrimp with the lime mixture, then add diced cucumber, sliced red onion, redcurrants, and chopped dill, stirring gently.",
+    "Once the agar mixture has thickened to a translucent gel consistency, fold it into the shrimp mixture, ensuring even coating.",
+    "Sprinkle the binchotan charcoal powder over the salad and stir to distribute the smoky flavor uniformly.",
+    "Cover the salad with plastic wrap, placing a small plate on top to keep it flat, and refrigerate for at least 30 minutes to set the gelatin.",
+    "Before serving, remove from the fridge, fluff gently with a fork, and garnish with additional dill if desired.",
+    "Serve chilled as a refreshing hangover cure or keto-friendly lunch option."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "glassy-jelly",
+    "hangover-cure",
+    "high-protein",
+    "keto-friendly",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 1150,
+    "protein": 52,
+    "carbs": 15,
+    "fat": 85
+  },
+  "slug": "nourishing-croatian-shrimp-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-croatian-shrimp-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:32:43Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "redcurrants",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Nourishing",
+    "dishForm": "Salad"
+  }
+}

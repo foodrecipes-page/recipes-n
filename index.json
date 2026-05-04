@@ -131,6 +131,20 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-mustard-uruguayan-snapper-ceviche",
+    "title": "Nimble Mustard Uruguayan Snapper Ceviche",
+    "tags": [
+      "fodmap-friendly",
+      "quick",
+      "seafood",
+      "spherified",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 15,
+    "shard": "n"
+  },
+  {
     "slug": "nordic-spiced-norwegian-halibut-gratin",
     "title": "Nordic Spiced Norwegian Halibut Gratin",
     "tags": [
@@ -511,6 +525,20 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 210,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-croatian-shrimp-salad",
+    "title": "Nourishing Croatian Shrimp Salad",
+    "tags": [
+      "glassy-jelly",
+      "hangover-cure",
+      "high-protein",
+      "keto-friendly",
+      "salad"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
