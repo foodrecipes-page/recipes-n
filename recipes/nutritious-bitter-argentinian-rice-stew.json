@@ -1,0 +1,104 @@
+{
+  "title": "Nutritious Bitter Argentinian Rice Stew",
+  "description": "A frothy, slightly bitter Argentinian rice stew enriched with apple juice, lentils, and aromatic vegetables, perfect for a post-workout recovery meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white rice",
+      "amount": "150 g"
+    },
+    {
+      "name": "dried lentils",
+      "amount": "30 g"
+    },
+    {
+      "name": "apple juice",
+      "amount": "200 ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "diced carrots",
+      "amount": "1 cup (100 g)"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium (80 g)"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2 (4 g)",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp (5 ml)",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp (5 g)"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp (2 g)"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp (10 g)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse 150 g of white rice under cold running water until the water runs clear.",
+    "Heat 1 tsp olive oil in a large pot over medium heat and sauté 1 medium diced onion and 2 minced garlic cloves until fragrant, about 3 minutes.",
+    "Add 1 cup diced carrots, 30 g dried lentils, 500 ml vegetable broth, 200 ml apple juice, and stir to combine.",
+    "Bring the mixture to a boil, reduce to low heat, add the rinsed rice, cover, and simmer for 35 minutes, stirring occasionally.",
+    "Season with 1 tsp salt and 1/2 tsp black pepper, stirring again.",
+    "Remove the pot from heat, fluff the stew with a fork, and let it rest covered for 5 minutes.",
+    "Sprinkle chopped fresh parsley on top before serving.",
+    "Serve hot as a satisfying post-workout Argentinian rice stew."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 486,
+    "protein": 14,
+    "carbs": 93,
+    "fat": 6
+  },
+  "slug": "nutritious-bitter-argentinian-rice-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-bitter-argentinian-rice-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:49:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "simmer",
+    "primaryIngredient": "apple juice",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Rice",
+    "descriptor": "Nutritious Bitter",
+    "dishForm": "Stew"
+  }
+}
