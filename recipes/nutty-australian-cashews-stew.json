@@ -1,0 +1,115 @@
+{
+  "title": "Nutty Australian Cashews Stew",
+  "description": "A wine-infused, chewy stew that pairs leftover roast with creamy cashews for a quick weeknight dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leftover roasted chicken",
+      "amount": "200 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "cashews",
+      "amount": "100 g",
+      "notes": "unsalted"
+    },
+    {
+      "name": "red wine",
+      "amount": "150 ml",
+      "notes": "dry"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500 ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "smooth"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add a splash of olive oil.",
+    "Sauté the diced onion and minced garlic until fragrant and translucent, about 3 minutes.",
+    "Stir in the sliced carrot and cook for another 2 minutes.",
+    "Pour in the red wine, letting it reduce by half, then add the tomato paste and stir until fully incorporated.",
+    "Add the shredded leftover roasted chicken, vegetable broth, dried thyme, salt, and pepper, bringing the mixture to a gentle simmer.",
+    "Let the stew simmer uncovered for 15 minutes, allowing the flavors to meld.",
+    "While the stew simmers, toast the cashews in a dry skillet until lightly browned, about 4 minutes.",
+    "Stir the toasted cashews into the stew during the last 5 minutes of cooking, ensuring they absorb some liquid.",
+    "Taste and adjust seasoning if needed, adding more salt or pepper.",
+    "Serve hot over a bed of cooked quinoa or crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "chewy",
+    "dairy-free",
+    "gluten-free",
+    "one-pot",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 20,
+    "carbs": 17,
+    "fat": 14
+  },
+  "slug": "nutty-australian-cashews-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-australian-cashews-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:58:32Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "rest-meat",
+    "primaryIngredient": "cashews",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cashews",
+    "descriptor": "Nutty",
+    "dishForm": "Stew"
+  }
+}
