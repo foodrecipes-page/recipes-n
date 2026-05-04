@@ -1,0 +1,121 @@
+{
+  "title": "nourishing cheese-pull portuguese porridge oats bake",
+  "description": "sweet, cheese-pull, hangover-cure portuguese dish featuring porridge oats, score-fat, dairy-free-friendly",
+  "cuisine": "portuguese",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "porridge oats",
+      "amount": "250g",
+      "notes": "use gluten-free oats for gluten-free diet"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "score-fat (coconut oil or ghee)",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "dairy-free milk",
+      "amount": "150ml",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "chocolate chips (dairy-free)",
+      "amount": "50g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 180c.",
+    "mix together porridge oats, vanilla extract, and a pinch of salt in a bowl.",
+    "in a separate bowl, mix together dairy-free milk, honey, and grated cheddar cheese.",
+    "add egg to the dairy-free milk mixture and whisk until smooth.",
+    "add the dairy-free milk mixture to the oat mixture and stir until combined.",
+    "add the score-fat and mix until crumbly.",
+    "press the mixture into a baking dish and bake for 25 minutes.",
+    "remove from oven and sprinkle with chocolate chips.",
+    "return to oven for an additional 5 minutes, or until the chocolate is melted and bubbly.",
+    "remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cheese-pull",
+    "dairy-free",
+    "hangover-cure",
+    "porridge",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "nourishing-cheese-pull-portuguese-porridge-oats-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-cheese-pull-portuguese-porridge-oats-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:17Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "score-fat",
+    "primaryIngredient": "porridge oats",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "porridge oats",
+    "descriptor": "nourishing cheese-pull",
+    "dishForm": "Bake"
+  }
+}

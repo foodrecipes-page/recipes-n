@@ -1,0 +1,61 @@
+{
+  "title": "Nocturnal Greek Yogurt Tzatziki",
+  "description": "A refreshing, aerated Greek dish featuring tarragon-infused flavors, perfect for meal prep. Serve chilled in a lacquerware bowl.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup (250g)",
+      "notes": "Chilled"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine yogurt, tarragon, garlic, and salt. ",
+    "Stir in chopped cucumber, red onion, and dill. ",
+    "Taste and adjust seasoning as needed. ",
+    "Cover and refrigerate for at least 30 minutes to allow flavors to meld. ",
+    "Before serving, sprinkle with paprika and chopped fresh herbs, if desired. "
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cold-food",
+    "high-protein",
+    "meal-prep",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 3
+  },
+  "slug": "nocturnal-greek-yogurt-tzatziki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nocturnal-greek-yogurt-tzatziki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:31Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "shio-cure",
+    "primaryIngredient": "tarragon-french",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "yogurt",
+    "descriptor": "Nocturnal",
+    "dishForm": "Tzatziki"
+  }
+}
