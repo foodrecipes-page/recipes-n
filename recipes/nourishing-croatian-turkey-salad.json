@@ -1,0 +1,104 @@
+{
+  "title": "Nourishing Croatian Turkey Salad",
+  "description": "A peppery, crisp salad featuring smoked turkey neck and fresh greens, perfect for a quick weeknight lunch.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked turkey neck",
+      "amount": "200g"
+    },
+    {
+      "name": "Mixed salad greens",
+      "amount": "150g"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "10, halved"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4, thinly sliced"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "50g, crumbled"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tsp, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Dice the smoked turkey neck into bite‑sized pieces.",
+    "In a large bowl combine salad greens, cherry tomatoes, cucumber and red onion.",
+    "Add the turkey pieces to the greens.",
+    "Whisk together apple cider vinegar, olive oil, Dijon mustard, dill, salt and pepper to make a dressing.",
+    "Pour the dressing over the salad and toss gently until everything is coated.",
+    "Serve immediately for a fresh, peppery crunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "croatian",
+    "no-cook",
+    "peppery",
+    "quick",
+    "salad",
+    "turkey",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 29,
+    "carbs": 8,
+    "fat": 26
+  },
+  "slug": "nourishing-croatian-turkey-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-croatian-turkey-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:48:59Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Turkey",
+    "descriptor": "Nourishing",
+    "dishForm": "Salad"
+  }
+}
