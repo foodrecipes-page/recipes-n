@@ -325,6 +325,22 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-citrus-peruvian-beef-stir-fry",
+    "title": "Nimble Citrus Peruvian Beef Stir-fry",
+    "tags": [
+      "beef",
+      "low-calorie",
+      "peruvian",
+      "quick",
+      "stir-fry",
+      "ti-leaf-wrap",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-crisp-kenyan-gruyere-salad",
     "title": "Nimble Crisp Kenyan Gruyere Salad",
     "tags": [

@@ -1,0 +1,101 @@
+{
+  "title": "Nimble Citrus Peruvian Beef Stir-fry",
+  "description": "A bright and energizing Peruvian-style beef stir fry with citrusy lime and orange, served in a ti leaf wrap with pasta and fresh herbs.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "200 g"
+    },
+    {
+      "name": "Farfalle pasta",
+      "amount": "200 g"
+    },
+    {
+      "name": "Lime",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Orange",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small, sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "Green bell pepper",
+      "amount": "1 small, sliced"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for stir frying"
+    }
+  ],
+  "instructions": [
+    "Cook farfalle pasta in salted boiling water until al dente, then drain and set aside.",
+    "Heat olive oil in a large skillet over high heat until shimmering.",
+    "Add sliced beef sirloin to the skillet and sear until browned on all sides, about 2 minutes per side.",
+    "Push beef to the side and add sliced onion, bell pepper, and minced garlic, sautéing until vegetables soften, about 3 minutes.",
+    "Stir in the soy sauce and a splash of lime juice, then toss the beef back into the pan and cook until the beef is just cooked through, about 2 minutes.",
+    "Add the cooked farfalle and squeeze the juice of one lime and one orange over the mixture, tossing to coat evenly.",
+    "Season with salt and pepper to taste, then remove from heat.",
+    "Spool the stir fry into ti leaf wraps, sprinkle with chopped cilantro, and fold for serving.",
+    "Serve immediately while hot, garnishing with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "low-calorie",
+    "peruvian",
+    "quick",
+    "stir-fry",
+    "ti-leaf-wrap",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 50,
+    "carbs": 80,
+    "fat": 15
+  },
+  "slug": "nimble-citrus-peruvian-beef-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-citrus-peruvian-beef-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:34:59Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "poach",
+    "primaryIngredient": "farfalle",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Nimble Citrus",
+    "dishForm": "Stir-fry"
+  }
+}
