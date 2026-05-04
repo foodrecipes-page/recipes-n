@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Savory Irish Pork Stew",
+  "description": "A hearty and flavorful stew featuring pork, Sichuan pepper, and lardons, made diabetic-friendly with careful ingredient selection. This dish is perfect for a cold winter's night.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "Sichuan pepper",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, render the lardons over medium heat until crispy.",
+    "Remove the lardons from the pot and set aside, leaving the grease behind.",
+    "Add the pork cubes to the pot and brown on all sides, about 5 minutes.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the ground Sichuan pepper, thyme, carrots, and potatoes to the pot, stirring to combine.",
+    "Add the chicken broth to the pot, covering the ingredients and bringing to a boil.",
+    "Cover the pot and transfer to the preheated oven, cooking for 2 hours.",
+    "Remove the pot from the oven and stir in the rendered lardons.",
+    "Season the stew to taste and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "hearty-stew",
+    "irish-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "nutty-savory-irish-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-savory-irish-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:14:05Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "lardons-render",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pork",
+    "descriptor": "Nutty Savory",
+    "dishForm": "Stew"
+  }
+}

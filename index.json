@@ -5479,6 +5479,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-savory-irish-pork-stew",
+    "title": "Nutty Savory Irish Pork Stew",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "hearty-stew",
+      "irish-cuisine",
+      "one-pot"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 150,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-shattering-korean-almonds-naengmyeon",
     "title": "Nutty Shattering Korean Almonds Naengmyeon",
     "tags": [
