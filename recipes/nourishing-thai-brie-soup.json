@@ -1,0 +1,124 @@
+{
+  "title": "Nourishing Thai Brie Soup",
+  "description": "A creamy, savory Thai soup with caramelized onions, coconut milk, and vegan brie, finished with lemongrass, lime, and chili for a bright finish.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "kaffir lime leaf",
+      "amount": "1",
+      "notes": "torn"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400 ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "vegan brie",
+      "amount": "150 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "5 g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Add the sliced onion and cook until caramelized and golden brown, about 8 minutes.",
+    "Stir in the minced garlic, grated ginger, lemongrass, kaffir lime leaf, and galangal, and cook for 2 minutes until fragrant.",
+    "Pour in the coconut milk and vegetable broth, bring to a gentle simmer.",
+    "Add the cubed vegan brie and stir until the cheese is melted and the soup is creamy.",
+    "Season the soup with soy sauce, lime juice, and chili flakes, adjusting to taste.",
+    "Simmer for an additional 5 minutes to allow flavors to meld.",
+    "Remove the pot from heat and stir in the chopped cilantro.",
+    "Taste and add more lime juice or chili flakes if desired.",
+    "Serve hot, garnished with extra cilantro if preferred."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "quick",
+    "soupy",
+    "thai",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1230,
+    "protein": 21,
+    "carbs": 29,
+    "fat": 103
+  },
+  "slug": "nourishing-thai-brie-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-thai-brie-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:30:28Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "caramelize",
+    "primaryIngredient": "brie",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Brie",
+    "descriptor": "Nourishing",
+    "dishForm": "Soup"
+  }
+}
