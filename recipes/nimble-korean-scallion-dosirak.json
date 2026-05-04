@@ -1,0 +1,115 @@
+{
+  "title": "Nimble Korean Scallion Dosirak",
+  "description": "A peppery, velvety scallion rice bowl finished with a dazzling flambe, perfect for a sattvic-friendly lunchbox. ",
+  "cuisine": "korean",
+  "diet": [
+    "sattvic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "200g",
+      "notes": "uncooked"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "4",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tofu",
+      "amount": "100g",
+      "notes": "firm, cubed"
+    },
+    {
+      "name": "soju",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook 200g of rice according to package instructions; set aside when fluffy.",
+    "In a small bowl whisk soy sauce, rice vinegar, maple syrup, ginger, gochujang, and pinch of salt until fully blended.",
+    "Heat 3 tbsp sesame oil in a large skillet over medium-high heat until shimmering.",
+    "Add sliced scallions to the skillet and sauté for 1 minute until aromatic.",
+    "Add cubed tofu and cook for 3 minutes, turning until lightly browned on all sides.",
+    "Pour the prepared sauce over the tofu and scallions; cook for 2 minutes, letting the mixture reduce slightly.",
+    "Stir in the cooked rice, gently mixing until the rice is evenly coated with the sauce; cook for an additional 2 minutes.",
+    "Sprinkle 1 tbsp toasted sesame seeds throughout the rice and stir to combine.",
+    "Remove the skillet from heat and transfer the rice mixture into a lunchbox, arranging the scallions on top.",
+    "If desired, poach an egg and place it atop the rice for added protein.",
+    "Drizzle 1 tbsp soju over the hot rice, allowing the alcohol to settle.",
+    "Ignite the soju gently with a long match, letting the flames subside before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "flambe",
+    "korean",
+    "lunchbox",
+    "sattvic-friendly",
+    "scallion"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 18,
+    "carbs": 68,
+    "fat": 50
+  },
+  "slug": "nimble-korean-scallion-dosirak",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-korean-scallion-dosirak",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:20:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "flambe",
+    "primaryIngredient": "scallions",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Scallion",
+    "descriptor": "Nimble",
+    "dishForm": "Dosirak"
+  }
+}

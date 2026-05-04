@@ -453,6 +453,21 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-korean-scallion-dosirak",
+    "title": "Nimble Korean Scallion Dosirak",
+    "tags": [
+      "easy",
+      "flambe",
+      "korean",
+      "lunchbox",
+      "sattvic-friendly",
+      "scallion"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-mustard-uruguayan-snapper-ceviche",
     "title": "Nimble Mustard Uruguayan Snapper Ceviche",
     "tags": [
