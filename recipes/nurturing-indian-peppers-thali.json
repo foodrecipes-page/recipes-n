@@ -1,0 +1,141 @@
+{
+  "title": "Nurturing Indian Peppers Thali",
+  "description": "A salty, chewy, cozy Chettinad style thali featuring bell peppers, chickpeas, and aromatic spices, wrapped in a corn husk and gently steamed in a bain-marie.",
+  "cuisine": "Indian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "molasses",
+      "amount": "1 tbsp",
+      "notes": "dark"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tsp",
+      "notes": "for tempering"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "dried red chilies",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius and line a baking sheet with parchment paper.",
+    "Soak corn husks in warm water for 10 minutes to soften them.",
+    "In a large bowl, combine sliced peppers, onion, garlic, ginger, chickpeas and coconut milk.",
+    "Stir in molasses, cumin seeds, coriander powder, black pepper, and salt.",
+    "Heat coconut oil in a small pan, add dried red chilies, then pour the tempering over the mixture.",
+    "Spread the mixture evenly onto the softened corn husks, fold the husks into small parcels and place them on the prepared baking sheet.",
+    "Set up a bain-marie by filling a larger pan with 2 inches of water and arranging the parchment paper with parcels inside a heatproof dish.",
+    "Place the dish in the oven and bake for 30 minutes, then remove and flip each parcel, baking another 10 minutes until the mixture is thickened and slightly caramelized.",
+    "Take the parcels out, garnish with chopped cilantro and lemon zest, and serve them in a traditional Indian thali setting.",
+    "Enjoy the savory, chewy flavors of this comforting, plant‑based Chettinad pepper thali."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "indian",
+    "dinner"
+  ],
+  "slug": "nurturing-indian-peppers-thali",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nurturing-indian-peppers-thali",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:54:43Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "bain-marie",
+    "primaryIngredient": "peppers",
+    "diet": "plant-based",
+    "region": "chettinad",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Peppers",
+    "descriptor": "Nurturing",
+    "dishForm": "Thali"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Nurturing Indian Karela Bowl",
+  "description": "A satvik-friendly, crunchy bitter gourd bowl featuring gently poached egg yolks, perfect for a sophisticated date night.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bitter gourd (karela)",
+      "amount": "200 g",
+      "notes": "thin slices"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "separate yolks"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried fenugreek leaves (kasuri methi)",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Wash and slice karela lengthwise into thin 1/2‑inch strips, then slit each strip to release bitterness.",
+    "Heat 2 tbsp oil in a pan over medium heat, add cumin seeds and let them sputter.",
+    "Add sliced karela, turmeric, coriander powder, salt, and stir for 5 minutes until the slices soften but remain crisp.",
+    "While karela cooks, bring a pot of water to a gentle simmer and set up a bain‑marie by placing a heat‑proof bowl on top, ensuring the bowl does not touch the water.",
+    "Carefully separate the yolks from the whites, placing the yolks into the bowl of the bain‑marie.",
+    "Cover the bowl with a lid and let the yolks poach for 5 to 6 minutes until the whites are set but the yolks remain runny.",
+    "Remove the poached yolks with a slotted spoon and gently place them on top of the sautéed karela.",
+    "Drizzle the dish with lemon juice, sprinkle chopped cilantro and dried fenugreek leaves for aroma, and season with a pinch of salt if needed.",
+    "Serve the karela bowl immediately for a warm, crunchy, and comforting meal.",
+    "Optionally, add a side of plain yogurt for added satvik balance."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "bitter",
+    "date-night",
+    "healthy",
+    "satvik-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "nurturing-indian-karela-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nurturing-indian-karela-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:54:14Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "bain-marie",
+    "primaryIngredient": "egg yolks",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "karela",
+    "descriptor": "Nurturing",
+    "dishForm": "Bowl"
+  }
+}

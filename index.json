@@ -946,6 +946,32 @@
     "shard": "n"
   },
   {
+    "slug": "nurturing-indian-karela-bowl",
+    "title": "Nurturing Indian Karela Bowl",
+    "tags": [
+      "bain-marie",
+      "bitter",
+      "date-night",
+      "healthy",
+      "satvik-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nurturing-indian-peppers-thali",
+    "title": "Nurturing Indian Peppers Thali",
+    "tags": [
+      "indian",
+      "dinner"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nurturing-jamaican-hibiscus-stew",
     "title": "Nurturing Jamaican Hibiscus Stew",
     "tags": [
