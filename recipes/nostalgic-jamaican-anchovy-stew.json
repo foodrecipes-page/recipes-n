@@ -1,0 +1,118 @@
+{
+  "title": "Nostalgic Jamaican Anchovy Stew",
+  "description": "A sweet and creamy Jamaican dish with anchovy fillets, flambeed rum, and comforting tropical flavors, perfect for a diabetic-friendly meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "anchovy fillet",
+      "amount": "1",
+      "notes": "about 15g"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "150g",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "light variant"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "50g",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "5g",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2g",
+      "notes": "dried"
+    },
+    {
+      "name": "lime juice",
+      "amount": "15ml",
+      "notes": ""
+    },
+    {
+      "name": "dark rum",
+      "amount": "15ml",
+      "notes": "for flambé"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a skillet over medium heat.",
+    "Add diced onions, minced garlic, and grated ginger, sauté until translucent.",
+    "Stir in chopped sweet potato cubes and cook for 5 minutes.",
+    "Pour in coconut milk, bring to a gentle simmer, then add thyme.",
+    "Add anchovy fillets and cook for 15 minutes until sweet potato is soft.",
+    "Remove from heat, stir in lime juice and season with salt and pepper.",
+    "Pour a splash of rum over the hot stew and ignite carefully to flambe, swirl until flames subside.",
+    "Serve hot over brown rice or quinoa, garnish with scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anchovy",
+    "creamy",
+    "diabetic-friendly",
+    "flambe",
+    "jamaican",
+    "sweet-anchovy-stew"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 9,
+    "carbs": 37,
+    "fat": 24
+  },
+  "slug": "nostalgic-jamaican-anchovy-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-jamaican-anchovy-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:12:21Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "flambe",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "anchovy",
+    "descriptor": "Nostalgic",
+    "dishForm": "Stew"
+  }
+}
