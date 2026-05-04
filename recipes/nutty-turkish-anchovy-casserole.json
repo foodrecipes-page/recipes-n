@@ -1,0 +1,105 @@
+{
+  "title": "Nutty Turkish Anchovy Casserole",
+  "description": "A savory, nutty casserole featuring anchovy fillets and a pistachio crust, baked in a traditional Turkish earthenware pot.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "anchovy fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "pistachios, shelled and chopped",
+      "amount": "60g"
+    },
+    {
+      "name": "walnuts, chopped",
+      "amount": "40g"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "15g"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, minced",
+      "amount": "50g"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi over medium heat until it is hot.",
+    "Pat the anchovy fillets dry and place them in the hot pot, letting them sear for 2 minutes.",
+    "Add the minced onion and cook until translucent, about 3 minutes.",
+    "Stir in the paprika, sumac, oregano, lemon zest, and a pinch of salt, cooking for 1 minute.",
+    "Pour in the olive oil and let the mixture simmer for 2 minutes, allowing flavors to meld.",
+    "In a bowl, combine the chopped pistachios, walnuts, and parsley, seasoning lightly with salt.",
+    "Spread the nut mixture evenly over the anchovy base in the pot.",
+    "Cover the pot with the lid and reduce the heat to low, simmering for 20 minutes.",
+    "Rotate the pot occasionally to ensure even cooking.",
+    "Remove the lid, let the casserole rest for 5 minutes, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "earthenware-pot",
+    "low-carb",
+    "nutty",
+    "pescatarian",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 1370,
+    "protein": 85,
+    "carbs": 12,
+    "fat": 115
+  },
+  "slug": "nutty-turkish-anchovy-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-turkish-anchovy-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:06:42Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "anchovy",
+    "descriptor": "Nutty",
+    "dishForm": "Casserole"
+  }
+}
