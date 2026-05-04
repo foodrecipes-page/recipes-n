@@ -1,0 +1,121 @@
+{
+  "title": "Nutty Crunchy Midnight-Craving Indian Eggs Steamed Rice Cake",
+  "description": "A crispy, nutty and aromatic street-food inspired Indian dish, served in steamed idli form to satisfy your late-night cravings.\n\nPerfect for when you crave something spicy and crunchy at midnight.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "kosher-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Idli Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Urid Dal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Almonds",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Chili Pepper",
+      "amount": "1-2",
+      "notes": "depending on heat preference"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine idli rice and urid dal and soak them in water for 4 hours.",
+    "Drain the water and mix the rice and dal mixture with eggs, crushed almonds, cumin seeds, coriander seeds, turmeric powder, red chili powder, and salt.",
+    "Heat coconut oil in a non-stick pan over medium heat and saut\u00194te the onion and ginger until the onion turns translucent.",
+    "Add the chili pepper and cook for another minute."
+  ],
+  "prepTimeMin": 240,
+  "cookTimeMin": 20,
+  "totalTimeMin": 260,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "crispy",
+    "high-protein",
+    "indian",
+    "nutty",
+    "snack",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 26
+  },
+  "slug": "nutty-crunchy-midnight-craving-indian-eggs-steamed-rice-cake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crunchy-midnight-craving-indian-eggs-steamed-rice-cake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "eggs",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "eggs",
+    "descriptor": "nutty crunchy midnight-craving",
+    "dishForm": "Steamed Rice Cake"
+  }
+}

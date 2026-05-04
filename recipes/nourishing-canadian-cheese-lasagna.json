@@ -1,0 +1,72 @@
+{
+  "title": "Nourishing Canadian Cheese Lasagna",
+  "description": "A hearty, pungent, and cheesy lasagna dish originating from Canada, featuring the unique pairing of tomato ketchup with a rich bechamel sauce. This recipe is perfect for a comforting dinner or a gathering with friends.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions.  Drain and set aside.",
+    "In a medium saucepan, melt the butter over low heat.",
+    "Whisk in the flour and cook for 1-2 minutes, forming a roux.",
+    "Slowly add the milk, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook until thickened, about 5-7 minutes.",
+    "Remove from heat and stir in the grated cheddar, mozzarella, and Parmesan cheese until melted and smooth.",
+    "Add the ricotta cheese, salt, pepper, nutmeg, and garlic to the bechamel sauce. Mix well to combine.",
+    "In a large skillet, sauté the chopped onion and garlic in butter until softened. ",
+    "Stir in the tomato ketchup and cook for an additional 2-3 minutes. ",
+    "Combine the cooked lasagna noodles, bechamel sauce, and tomato ketchup mixture in a large bowl. Mix well to combine.",
+    "Transfer the lasagna mixture to a 9x13-inch baking dish and smooth the top.",
+    "Sprinkle additional grated mozzarella cheese on top, if desired.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes. ",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 40,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bechamel-sauce",
+    "cheesy",
+    "comfort-food",
+    "high-calorie",
+    "lasagna",
+    "vegan-option-bechamel"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 40,
+    "carbs": 100,
+    "fat": 80
+  },
+  "slug": "nourishing-canadian-cheese-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-canadian-cheese-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:09Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cheese",
+    "descriptor": "Nourishing",
+    "dishForm": "Lasagna"
+  }
+}

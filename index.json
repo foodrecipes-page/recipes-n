@@ -1552,6 +1552,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-canadian-cheese-lasagna",
+    "title": "Nourishing Canadian Cheese Lasagna",
+    "tags": [
+      "bechamel-sauce",
+      "cheesy",
+      "comfort-food",
+      "high-calorie",
+      "lasagna",
+      "vegan-option-bechamel"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 85,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-canadian-taleggio-gratin",
     "title": "Nourishing Canadian Taleggio Gratin",
     "tags": [
@@ -2392,6 +2407,22 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-saudi-arabian-herbal-tagine",
+    "title": "Nourishing Saudi- Arabian Herbal Tagine",
+    "tags": [
+      "energizing",
+      "hearty",
+      "herbal",
+      "one-pan",
+      "saudi-arabian",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Saudi-Arabian",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
@@ -4481,6 +4512,22 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crunchy-midnight-craving-indian-eggs-steamed-rice-cake",
+    "title": "Nutty Crunchy Midnight-Craving Indian Eggs Steamed Rice Cake",
+    "tags": [
+      "breakfast",
+      "crispy",
+      "high-protein",
+      "indian",
+      "nutty",
+      "snack",
+      "street-food"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 260,
     "shard": "n"
   },
   {
