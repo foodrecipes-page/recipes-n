@@ -1,0 +1,97 @@
+{
+  "title": "Naturally Smoky Mexican Pork Chops Tacos",
+  "description": "A kid-friendly Mexican dish featuring pork chops with a smoky flavor, this recipe is also vegan-friendly by substituting the traditional pork chops with portobello mushrooms or tofu for a vegan version.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "or portobello mushrooms/tofu for vegan version"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "avocado",
+      "amount": "2"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the smoked paprika, lime juice, and olive oil.",
+    "Brush the mixture onto both sides of the pork chops.",
+    "Season the pork chops with taco seasoning.",
+    "Grill the pork chops for 5-6 minutes per side, or until they reach an internal temperature of 145 degrees Fahrenheit.",
+    "Let the pork chops rest for a few minutes before slicing them thinly.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by slicing the pork chops and serving them in the tortillas with salsa, avocado, and cilantro.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "mexican",
+    "smoky",
+    "tacos",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "naturally-smoky-mexican-pork-chops-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-mexican-pork-chops-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:14:06Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "smoke",
+    "primaryIngredient": "pork chops",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork chops",
+    "descriptor": "Naturally Smoky",
+    "dishForm": "Tacos"
+  }
+}
