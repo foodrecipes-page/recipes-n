@@ -912,6 +912,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-dense-korean-pork-dumplings",
+    "title": "Korean Pork Dumplings",
+    "tags": [
+      "asian-cuisine",
+      "dumplings",
+      "korean-food",
+      "plant-based",
+      "snack-food"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-kenyan-lentils-skewers",
     "title": "Nutritious Kenyan Lentils Skewers",
     "tags": [

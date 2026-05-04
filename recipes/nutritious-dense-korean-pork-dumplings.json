@@ -1,0 +1,100 @@
+{
+  "title": "Korean Pork Dumplings",
+  "description": "A traditional Korean dish featuring ground pork and fermented ingredients, these dumplings are dense and packed with flavor, perfect for a midnight craving. They can be made with plant-based friendly ingredients for a vegetarian option.",
+  "cuisine": "Korean",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "or plant-based ground substitute"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "fermented Korean cabbage"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "20-24 pieces"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, kimchi, tofu, green onions, garlic, and ginger, and mix well until all ingredients are fully incorporated.",
+    "Add sesame oil and soy sauce to the mixture and stir until everything is well combined.",
+    "Lay a dumpling wrapper on a flat surface and place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edge of the wrapper to help it stick together when sealed.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the dumpling.",
+    "Repeat the process with the remaining wrappers and filling.",
+    "To cook the dumplings, bring a large pot of water to a boil and gently add the dumplings to the pot, being careful not to overcrowd it.",
+    "Cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "dumplings",
+    "korean-food",
+    "plant-based",
+    "snack-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "nutritious-dense-korean-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-dense-korean-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:55:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "brine-dry",
+    "primaryIngredient": "ground pork",
+    "diet": "plant-based",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Nutritious dense",
+    "dishForm": "Dumplings"
+  }
+}
