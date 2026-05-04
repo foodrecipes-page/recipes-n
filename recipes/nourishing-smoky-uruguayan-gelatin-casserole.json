@@ -1,0 +1,114 @@
+{
+  "title": "Nourishing Smoky Uruguayan Gelatin Casserole",
+  "description": "A savory, smoky casserole that sets with unflavored gelatin for a juicy, low‑fat meal‑prep favorite.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1, diced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "low‑sodium beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "liquid smoke",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unflavored gelatin powder",
+      "amount": "2 tbsp (10g)"
+    },
+    {
+      "name": "cold water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low‑fat Greek yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 F (175 C).",
+    "Brown the ground beef in a large skillet over medium heat until cooked through, then drain excess fat.",
+    "Add the diced onion, minced garlic, and diced bell pepper to the skillet and sauté until vegetables soften, about 5 minutes.",
+    "Stir in the tomato paste, smoked paprika, liquid smoke, and dried oregano, cooking for 1 minute to bloom the spices.",
+    "Pour in the canned tomatoes and beef broth, bring the mixture to a simmer, then season with salt and pepper.",
+    "Simmer uncovered for 20 minutes to reduce the sauce slightly, stirring occasionally.",
+    "Bloom the gelatin by sprinkling it over the cold water and letting it sit for 5 minutes; then whisk it into the sauce until fully dissolved.",
+    "Transfer the sauce mixture to a 9x8 inch baking dish, spreading it evenly.",
+    "Fold the low‑fat Greek yogurt into the top of the casserole, creating a light coating.",
+    "Bake uncovered for 20 minutes until the gelatin has set and the top is lightly browned."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "uruguayan",
+    "dinner"
+  ],
+  "slug": "nourishing-smoky-uruguayan-gelatin-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-uruguayan-gelatin-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:53:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "smoke",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Gelatin",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Casserole"
+  }
+}
