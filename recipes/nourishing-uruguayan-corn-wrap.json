@@ -1,0 +1,108 @@
+{
+  "title": "Nourishing Uruguayan Corn Wrap",
+  "description": "A quick, diabetic-friendly wrap featuring corn tortillas, shio-cure soy sauce, and fresh fillings.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "4 small corn tortillas",
+      "notes": "fresh"
+    },
+    {
+      "name": "shredded rotisserie chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh corn kernels",
+      "amount": "100g"
+    },
+    {
+      "name": "diced avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "50g"
+    },
+    {
+      "name": "diced red onion",
+      "amount": "20g"
+    },
+    {
+      "name": "shredded part-skim mozzarella cheese",
+      "amount": "30g"
+    },
+    {
+      "name": "shio-cure soy sauce",
+      "amount": "1 tsp",
+      "notes": "5ml"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "15ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "5ml"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp",
+      "notes": "5g"
+    }
+  ],
+  "instructions": [
+    "Warm the corn tortillas in a dry skillet over medium heat for 30 seconds each side.",
+    "In a bowl, combine shredded chicken, corn kernels, diced avocado, diced red onion, and shredded lettuce.",
+    "Whisk together shio-cure soy sauce, lime juice, and olive oil to make the dressing.",
+    "Drizzle the dressing over the chicken mixture and toss until evenly coated.",
+    "Spoon the mixture onto the warmed tortillas, sprinkling shredded cheese and chopped cilantro on top.",
+    "Fold the sides of the tortilla over the filling and roll tightly to form a wrap.",
+    "Place the wrapped tortillas seam side down and cook in the skillet for 2 minutes, flipping once, until the cheese melts.",
+    "Remove from skillet, slice in half diagonally, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "healthy",
+    "quick",
+    "snack",
+    "uruguayan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "nourishing-uruguayan-corn-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-uruguayan-corn-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:29:50Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "shio-cure",
+    "primaryIngredient": "tortillas",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "corn",
+    "descriptor": "Nourishing",
+    "dishForm": "Wrap"
+  }
+}
