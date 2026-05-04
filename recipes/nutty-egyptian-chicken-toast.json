@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Egyptian Chicken Toast",
+  "description": "A jammy and creamy Egyptian dish featuring harissa spice, served on toast, perfect for meal prep",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "harissa spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "plain greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together harissa spice, olive oil, salt, pepper, and garlic powder.",
+    "Add the chicken breast pieces to the bowl and toss to coat with the harissa mixture.",
+    "Spread the chicken pieces on a baking sheet and bake for 20 minutes.",
+    "While the chicken is baking, toast the pita bread slices.",
+    "In a small bowl, mix together the greek yogurt and lemon juice.",
+    "Once the chicken is done, let it cool for a few minutes before chopping it into smaller pieces.",
+    "Assemble the toast by spreading a layer of yogurt mixture on each pita slice, then topping with chicken, walnuts, and a sprinkle of harissa spice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "nutty-egyptian-chicken-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-egyptian-chicken-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:33:01Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "harissa spice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Nutty",
+    "dishForm": "Toast"
+  }
+}
