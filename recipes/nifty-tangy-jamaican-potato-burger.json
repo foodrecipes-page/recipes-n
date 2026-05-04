@@ -1,0 +1,99 @@
+{
+  "title": "Nifty Tangy Jamaican Potato Burger",
+  "description": "A festive, tangy burger featuring chewy potato buns and a bright jerk seasoning, perfect for a nut-free friendly lunch.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large potatoes",
+      "amount": "2",
+      "notes": "boiled and mashed"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "potato buns",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until tender, then mash them with a fork or potato masher.",
+    "Stir in the Jamaican jerk seasoning, lime zest, lime juice, brown sugar, salt, and black pepper until well combined.",
+    "Fold in the breadcrumbs until the mixture holds together but remains moist.",
+    "Divide the mixture into four equal portions and shape each into a patty about 1/2 inch thick.",
+    "Heat the vegetable oil in a skillet over medium heat until shimmering.",
+    "Cook the patties for 4 to 5 minutes on each side, or until they develop a golden crust.",
+    "While the patties finish, toast the potato buns lightly on a grill or in a toaster oven.",
+    "Assemble each burger by placing the patty on a bun and topping with lettuce, tomato, and a drizzle of spicy mayo."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "lunch",
+    "nut-free",
+    "potato-burger",
+    "quick",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "nifty-tangy-jamaican-potato-burger",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nifty-tangy-jamaican-potato-burger",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:34:53Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "brine-dry",
+    "primaryIngredient": "potatoe buns",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Potato",
+    "descriptor": "Nifty Tangy",
+    "dishForm": "Burger"
+  }
+}

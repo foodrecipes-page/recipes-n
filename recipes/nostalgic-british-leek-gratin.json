@@ -1,0 +1,101 @@
+{
+  "title": "Nostalgic British Leek Gratin",
+  "description": "A buttery, springy and comforting British-style leek gratin that is egg-free and perfect for any hearty meal.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Leek",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "50g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Milk",
+      "amount": "500ml"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "50g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "pinch"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C.",
+    "Clean and slice the leeks into 1 cm thick rings.",
+    "Melt the butter in a large saucepan over medium heat and add the leeks, sautéing until softened, about 5 to 7 minutes.",
+    "Sprinkle the flour over the leeks, stir well, and cook for 1 minute to eliminate raw flour taste.",
+    "Gradually whisk in the milk, cooking until the sauce thickens and coats the back of a spoon, about 4 to 6 minutes.",
+    "Season with salt, pepper, and a pinch of nutmeg, then stir in half of the grated cheddar until melted.",
+    "Transfer the leek mixture to a greased baking dish.",
+    "Sprinkle the remaining cheddar cheese evenly over the top.",
+    "Mix the breadcrumbs with the remaining butter and scatter over the cheese.",
+    "Bake for 20 to 25 minutes until golden and bubbly, then let rest 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "cheese",
+    "comfort-food",
+    "egg-free",
+    "leek",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 16,
+    "fat": 24
+  },
+  "slug": "nostalgic-british-leek-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-british-leek-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:35:14Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "reduce",
+    "primaryIngredient": "leek",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "leek",
+    "descriptor": "Nostalgic",
+    "dishForm": "Gratin"
+  }
+}
