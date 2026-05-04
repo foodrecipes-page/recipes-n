@@ -467,6 +467,21 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-kenyan-lamb-kebabs",
+    "title": "Nimble Kenyan Lamb Kebabs",
+    "tags": [
+      "grill",
+      "high-protein",
+      "kenyan",
+      "low-carb",
+      "mustardy",
+      "quick"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-korean-scallion-dosirak",
     "title": "Nimble Korean Scallion Dosirak",
     "tags": [

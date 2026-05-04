@@ -1,0 +1,107 @@
+{
+  "title": "Nimble Kenyan Lamb Kebabs",
+  "description": "Spicy mustardy lamb kebabs with a low-carb yogurt finish, perfect for a quick Kenyan-inspired dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-carb",
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1000g"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3g"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cut lamb shoulder into 1.5-inch cubes and place in a bowl.",
+    "Whisk together Dijon mustard, red chili flakes, cumin, paprika, lemon juice, and 1 tbsp olive oil to create the mustard glaze.",
+    "Pour the glaze over the lamb cubes, stir to coat, and refrigerate for 60 minutes.",
+    "Thread marinated lamb onto soaked bamboo skewers alternating with diced onion.",
+    "Preheat a grill or grill pan to medium-high heat (about 400°F).",
+    "Grill kebabs for 8-10 minutes, turning every 2 minutes, until lamb is browned and cooked to 145°F internal temperature.",
+    "While grilling, whisk 1 tbsp Greek yogurt with a pinch of salt to make a quick sauce.",
+    "Remove kebabs, drizzle with yogurt sauce, and garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "high-protein",
+    "kenyan",
+    "low-carb",
+    "mustardy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 2720,
+    "protein": 263,
+    "carbs": 21,
+    "fat": 217
+  },
+  "slug": "nimble-kenyan-lamb-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-kenyan-lamb-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:12:37Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Nimble",
+    "dishForm": "Kebabs"
+  }
+}
