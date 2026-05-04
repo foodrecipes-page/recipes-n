@@ -1,0 +1,108 @@
+{
+  "title": "Noxious Smoky Peruvian Red Potatoes Hash",
+  "description": "A smoky, shaggy hash of red potatoes, seasoned with Peruvian spices and finished in a tacu-tacu style.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "4 cups",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for pan"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "cut into wedges"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the potato cubes and soak them in a brine of 1 tsp salt and 4 cups water for 15 minutes.",
+    "Drain the potatoes and pat them dry with a towel to remove excess moisture.",
+    "Heat 1 tbsp olive oil in a large skillet over medium-high heat and add the potatoes, cooking until golden brown, about 10 minutes.",
+    "Add the remaining 1 tbsp oil, smoked paprika, cumin, garlic, onion, salt, and pepper, stir to combine, and cook for 5 more minutes.",
+    "Reduce the heat to medium, cover the skillet, and allow the potatoes to steam until they are tender, about 10 minutes.",
+    "Uncover the skillet and cook, stirring occasionally, until the potatoes become slightly crispy, about 5 minutes.",
+    "Remove the skillet from the heat and sprinkle chopped cilantro over the hash.",
+    "Squeeze lime wedges over the top and serve immediately.",
+    "Optionally, garnish with extra cilantro and a dash of smoked paprika for extra flavor.",
+    "Enjoy this smoky, shaggy Peruvian hash with a side of fresh salad or a spoonful of avocado."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "one-pan",
+    "peruvian",
+    "potato-hash",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 7,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "noxious-smoky-peruvian-red-potatoes-hash",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/noxious-smoky-peruvian-red-potatoes-hash",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:56:47Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "brine-dry",
+    "primaryIngredient": "red potatoes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "red potatoes",
+    "descriptor": "Noxious Smoky",
+    "dishForm": "Hash"
+  }
+}
