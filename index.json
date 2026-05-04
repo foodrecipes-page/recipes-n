@@ -235,6 +235,21 @@
     "shard": "n"
   },
   {
+    "slug": "nifty-crunchy-thai-chicken-noodles",
+    "title": "Nifty Crunchy Thai Chicken Noodles",
+    "tags": [
+      "crunchy",
+      "kanom-jeen",
+      "pressure-cook",
+      "quick-meal",
+      "shojin-friendly",
+      "thai"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-crisp-kenyan-gruyere-salad",
     "title": "Nimble Crisp Kenyan Gruyere Salad",
     "tags": [

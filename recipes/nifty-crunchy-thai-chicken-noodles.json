@@ -1,0 +1,110 @@
+{
+  "title": "Nifty Crunchy Thai Chicken Noodles",
+  "description": "A funky, crunchy crowd-pleaser that blends mellow tomato, garlic, and ginger with a protein-packed protein punch and a bit of sweet with the crunch of shredded cabbage and bell pepper together with the chewy noodles you love.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "500g",
+      "notes": "diced"
+    },
+    {
+      "name": "kanom jeen rice noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bouillon cubes",
+      "amount": "2"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "thin strips"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in the pressure cooker over medium heat.",
+    "Add minced garlic and grated ginger and sauté until fragrant, about 30 seconds.",
+    "Toss in diced chicken thighs and sear until lightly browned, about 3 minutes.",
+    "Pour in chicken broth, crush bouillon cubes into the liquid, and stir.",
+    "Add soy sauce, brown sugar, and lime juice; stir until sugar dissolves.",
+    "Seal the pressure cooker lid and cook on high pressure for 5 minutes.",
+    "Quick release the pressure and open the lid, then stir in shredded cabbage and sliced bell pepper.",
+    "Break apart the kanom jeen noodles in a bowl and add them to the cooker, then simmer for 2 minutes until noodles are heated through.",
+    "Transfer the noodle mixture to a serving dish and sprinkle with toasted sesame seeds and chopped cilantro.",
+    "Serve hot, optionally with extra lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "kanom-jeen",
+    "pressure-cook",
+    "quick-meal",
+    "shojin-friendly",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 25,
+    "carbs": 41,
+    "fat": 14
+  },
+  "slug": "nifty-crunchy-thai-chicken-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nifty-crunchy-thai-chicken-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:45:19Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "pressure-cook",
+    "primaryIngredient": "bouillon cubes",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Chicken",
+    "descriptor": "Nifty Crunchy",
+    "dishForm": "Noodles"
+  }
+}
