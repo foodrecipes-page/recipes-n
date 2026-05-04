@@ -1,0 +1,89 @@
+{
+  "title": "Naturally Flaky Syrian Dough Flatbread",
+  "description": "This traditional Syrian flatbread is made with a yeasty dough and features a flaky texture, scotch bonnet peppers, and a mushimono-steam cooking method, all while being Whole30-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "around 100 degrees F"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine warm water and yeast in a large bowl, stirring to dissolve the yeast.",
+    "Add coconut flour, diced scotch bonnet peppers, and salt to the bowl, mixing until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased wok, cover with a lid, and steam over boiling water for 15 minutes.",
+    "Remove the lid and brush the dough with olive oil and apple cider vinegar.",
+    "Continue to steam for an additional 5 minutes, or until the dough is cooked through and flaky.",
+    "Remove from heat and let cool for a few minutes before slicing and serving.",
+    "Serve warm, garnished with additional scotch bonnet peppers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-flatbread",
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "steam-cooked",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "naturally-flaky-syrian-dough-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-flaky-syrian-dough-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:49:50Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "dough",
+    "descriptor": "Naturally Flaky",
+    "dishForm": "Flatbread"
+  }
+}
