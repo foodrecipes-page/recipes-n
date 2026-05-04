@@ -1,0 +1,107 @@
+{
+  "title": "Nourishing Syrian Lentils Stew",
+  "description": "A comforting, creamy lentil stew infused with the rich flavors of stout beer and aromatic spices, perfect for a brunch that feels both hearty and light.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Stout beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold running water until the water runs clear.",
+    "Heat the olive oil in a large pot over medium heat and add the cumin seeds, allowing them to sizzle for about 30 seconds.",
+    "Add the diced onion and minced garlic, sautéing until the onion becomes translucent, approximately 4 minutes.",
+    "Stir in the diced carrots and tomato paste, cooking for an additional 2 minutes until the mixture is fragrant.",
+    "Pour in the stout beer, scraping the bottom of the pot to deglaze, and let the liquid reduce slightly for 3 minutes.",
+    "Add the rinsed lentils and vegetable broth, bring the mixture to a gentle boil, then reduce the heat to low and cover.",
+    "Simmer the stew for 20 minutes, or until the lentils are tender and the carrots have softened.",
+    "Stir in the coconut milk and season with salt to taste, allowing the stew to heat through for another 5 minutes.",
+    "Remove the pot from the heat and stir to blend the coconut milk into a velvety consistency.",
+    "Serve the stew hot, optionally garnishing with a drizzle of olive oil or fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "creamy",
+    "gluten-free",
+    "hearty",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 22,
+    "fat": 13
+  },
+  "slug": "nourishing-syrian-lentils-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-syrian-lentils-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:55:44Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "temper",
+    "primaryIngredient": "stout",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lentils",
+    "descriptor": "nourishing",
+    "dishForm": "Stew"
+  }
+}
