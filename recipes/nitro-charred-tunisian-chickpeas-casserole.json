@@ -1,0 +1,108 @@
+{
+  "title": "Nitro Charred Tunisian Chickpeas Casserole",
+  "description": "A smoky, flaky vegan chickpea casserole infused with Tunisian spices, topped with a crisp nitro crust and finished in a clay pot for a hearty meal‑prep option.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "400 g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegan parmesan",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Toss chickpeas with olive oil, smoked paprika, cumin, coriander, salt, pepper, and harissa until well coated.",
+    "Spread chickpeas on a baking sheet and roast for 20 minutes, stirring halfway, until edges are charred.",
+    "Transfer roasted chickpeas to a clay pot, add lemon juice, and mix.",
+    "Stir in vegetable broth, nutritional yeast, and vegan parmesan until creamy.",
+    "Cover the clay pot with parchment paper or foil and bake for 15 minutes.",
+    "Remove the cover, stir, and bake another 10 minutes until the top forms a crisp crust.",
+    "Let the casserole rest for 5 minutes, then sprinkle toasted sesame seeds and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "claypot",
+    "crisp",
+    "meal-prep",
+    "one-pan",
+    "tunisian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1050,
+    "protein": 49,
+    "carbs": 144,
+    "fat": 20
+  },
+  "slug": "nitro-charred-tunisian-chickpeas-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nitro-charred-tunisian-chickpeas-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:06:36Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "tandoor",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Nitro Charred",
+    "dishForm": "Casserole"
+  }
+}
