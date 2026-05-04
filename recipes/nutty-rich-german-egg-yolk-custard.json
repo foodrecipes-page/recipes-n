@@ -1,0 +1,92 @@
+{
+  "title": "Nutty Rich German Egg Yolk Custard",
+  "description": "A sweet and velvety German dish featuring egg yolks and a mother-sauce base, perfect for a lazy Sunday, and keto-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "egg yolks",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "swerve sweetener",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, whisk together the heavy cream, melted butter, vanilla extract, and swerve sweetener.",
+    "Cook over medium heat, stirring constantly, until the mixture is hot but not boiling.",
+    "In a small bowl, whisk together the egg yolks and salt until well combined.",
+    "Gradually add the hot cream mixture to the egg yolks, whisking constantly to prevent the eggs from scrambling.",
+    "Stir in the ground almonds.",
+    "Pour the mixture into 6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egg-yolk-custard",
+    "german-dessert",
+    "keto-friendly",
+    "lazy-sunday",
+    "low-carb",
+    "nutty-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 28
+  },
+  "slug": "nutty-rich-german-egg-yolk-custard",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-rich-german-egg-yolk-custard",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:24:35Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "egg yolks",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "egg yolks",
+    "descriptor": "Nutty Rich",
+    "dishForm": "Custard"
+  }
+}
