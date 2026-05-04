@@ -1,0 +1,97 @@
+{
+  "title": "Nutty Portuguese Rice Fried-Rice",
+  "description": "A hearty single-serving Portuguese fried rice with nutty flavor, cheese pull, and a touch of ground ginger, Ayurvedic sattvic-friendly.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sliced almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a skillet over medium heat.",
+    "Add the minced garlic and ground ginger, cooking until fragrant about 30 seconds.",
+    "Stir in the cooked rice, breaking up any clumps and letting it toast lightly.",
+    "Pour in the soy sauce and season with salt, then mix until the rice is evenly coated.",
+    "Fold in the sliced almonds, ensuring they are warmed through.",
+    "Stir in the grated cheese until it begins to melt around the rice.",
+    "Add the chopped scallions and give one final stir to combine all flavors.",
+    "Serve immediately so the cheese remains pully and the rice stays warm.",
+    "Enjoy your nutty, cheese-pull Portuguese fried rice as a satisfying solo dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "nutty",
+    "one-pot",
+    "quick-dinner",
+    "sattvic-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "nutty-portuguese-rice-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-portuguese-rice-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:17:35Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "ground ginger",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "rice",
+    "descriptor": "Nutty",
+    "dishForm": "Fried-Rice"
+  }
+}
