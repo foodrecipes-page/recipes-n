@@ -1,0 +1,110 @@
+{
+  "title": "Nourishing Vietnamese Flax Pho",
+  "description": "A silky, glassy-jelly pho with flax eggs and fresh leaf wraps, perfect for a brunch-time Vietnamese twist.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto",
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dried flax seeds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "vegetable stock with lemongrass ginger onion garlic star anise",
+      "amount": "8 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "agar-agar powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200 g"
+    },
+    {
+      "name": "rice paper sheets",
+      "amount": "4"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrot",
+      "amount": "1"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine 1 cup flax seeds with 3 cups water in a saucepan and bring to a boil, stirring constantly until the mixture thickens into a gelled egg-like consistency.",
+    "Reduce heat to low, cover, and let the flax egg mixture steam for 8 minutes to fully set.",
+    "In a separate pot, bring the 8 cups vegetable stock with lemongrass ginger onion garlic star anise to a simmer and strain to remove solids.",
+    "Stir in 2 tsp agar-agar powder until fully dissolved, then add 1 cup coconut milk, 1 tsp salt, and 1 tsp black pepper, and simmer for 5 minutes to develop a glassy broth.",
+    "While the broth thickens, cut 200 g tofu into 1/2-inch cubes and set aside.",
+    "Place the tofu cubes into the broth and simmer gently for 3 minutes to absorb flavors.",
+    "Separate 4 rice paper sheets, soak each briefly in warm water until pliable, then lay flat on a clean surface.",
+    "Spread a thin layer of tofu and spoonfuls of bean sprouts, julienned carrot, and shiitake mushrooms onto each sheet, then fold to form small leaf-wrap rolls.",
+    "Steam the rolled sheets in a steamer basket over boiling water for 4 minutes until translucent and slightly chewy.",
+    "Serve the steamed leaf wraps alongside the sugary-jelly pho broth, garnished with fresh basil, cilantro, and a squeeze of lime."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "glassy-jelly",
+    "keto-friendly",
+    "low-carb",
+    "rice-paper",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 661,
+    "protein": 24,
+    "carbs": 54,
+    "fat": 34
+  },
+  "slug": "nourishing-vietnamese-flax-pho",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-vietnamese-flax-pho",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:09:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "flax eggs",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Flax",
+    "descriptor": "Nourishing",
+    "dishForm": "Pho"
+  }
+}
