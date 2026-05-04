@@ -1,0 +1,106 @@
+{
+  "title": "Nurturing Chaozhou Mackerel Bao",
+  "description": "A briny, molten bao that showcases the rich flavor of fresh mackerel, wrapped in a fluffy long‑fermentation dough, perfect for a high‑protein meal.",
+  "cuisine": "Chaozhou",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Water (for dough)",
+      "amount": "250g"
+    },
+    {
+      "name": "Bread flour",
+      "amount": "300g"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "3g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh mackerel fillet",
+      "amount": "200g"
+    },
+    {
+      "name": "Water chestnuts",
+      "amount": "30g"
+    },
+    {
+      "name": "Scallions",
+      "amount": "20g"
+    },
+    {
+      "name": "Ginger",
+      "amount": "10g"
+    },
+    {
+      "name": "Marinade",
+      "amount": "soy sauce 15g, oyster sauce 5g, sesame oil 3g, chili garlic sauce 10g"
+    },
+    {
+      "name": "Fresh coriander leaves",
+      "amount": "20g"
+    },
+    {
+      "name": "White sesame seeds",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together 250g warm water, 3g active dry yeast, and 5g salt until dissolved.",
+    "Add 300g bread flour and 1 tbsp vegetable oil, mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 8 minutes until smooth, then shape into a ball.",
+    "Place the dough in a lightly oiled bowl, cover, and let rise at room temperature for 4 hours; then refrigerate overnight for long fermentation.",
+    "Trim 200g fresh mackerel fillet into 2cm cubes and pat dry.",
+    "Combine 30g water chestnuts, 20g scallions, and 10g ginger into a bowl; add the mackerel cubes, then pour the marinades and toss to coat.",
+    "Cover the marinated mix and let sit in the fridge for 30 minutes to absorb flavors.",
+    "Punch down the dough, divide into 8 equal portions, and roll each into a small circle about 7 cm in diameter.",
+    "Place a spoonful of the mackerel filling onto each dough circle, then fold the edges over to seal into buns.",
+    "Arrange the buns on a bamboo steamer lined with parchment, place the steamer over a pot of boiling water, cover, and steam for 15 minutes.",
+    "Remove the buns, sprinkle with 20g fresh coriander leaves and 10g white sesame seeds, and serve hot."
+  ],
+  "prepTimeMin": 50,
+  "cookTimeMin": 15,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bao",
+    "chaozhou",
+    "fish",
+    "high-protein",
+    "steam"
+  ],
+  "nutrition": {
+    "calories": 2000,
+    "protein": 90,
+    "carbs": 250,
+    "fat": 50
+  },
+  "slug": "nurturing-chaozhou-mackerel-bao",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nurturing-chaozhou-mackerel-bao",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:44:59Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "mackerel",
+    "diet": "high-protein",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chaozhou",
+    "mainIngredient": "Mackerel",
+    "descriptor": "Nurturing",
+    "dishForm": "Bao"
+  }
+}
