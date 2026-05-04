@@ -1,0 +1,96 @@
+{
+  "title": "Nose-Tingling Roast Kenyan Mushrooms Roast",
+  "description": "A flavorful and aromatic Kenyan-inspired dish featuring roasted oyster mushrooms, traditionally served as a breakfast or brunch option. This low-sodium recipe is a twist on the classic Kenyan shaggy mushroom dish.",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oyster mushrooms",
+      "amount": "1 pound",
+      "notes": "fresh, not dried"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Trim the stems of the oyster mushrooms and slice them into thin pieces.",
+    "In a large bowl, whisk together the melted coconut oil, chopped onion, grated ginger, tomato paste, lemon juice, salt, and black pepper.",
+    "Add the sliced mushrooms to the bowl and toss them to coat them evenly with the marinade.",
+    "Transfer the mushroom mixture to a baking sheet lined with parchment paper.",
+    "Roast the mushrooms in the preheated oven for 20 minutes.",
+    "After 20 minutes, remove the baking sheet from the oven and garnish the mushrooms with chopped fresh herbs, such as parsley or cilantro.",
+    "Return the baking sheet to the oven and roast for an additional 5-10 minutes, until the mushrooms are tender and caramelized.",
+    "Remove the baking sheet from the oven and let the mushrooms rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "kenyan",
+    "low-sodium",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "nose-tingling-roast-kenyan-mushrooms-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nose-tingling-roast-kenyan-mushrooms-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "roast",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "mushrooms",
+    "descriptor": "nose-tingling roast",
+    "dishForm": "roast"
+  }
+}

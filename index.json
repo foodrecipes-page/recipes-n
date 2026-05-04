@@ -933,6 +933,20 @@
     "shard": "n"
   },
   {
+    "slug": "nose-tingling-roast-kenyan-mushrooms-roast",
+    "title": "Nose-Tingling Roast Kenyan Mushrooms Roast",
+    "tags": [
+      "breakfast",
+      "kenyan",
+      "low-sodium",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgia-beetkveik",
     "title": "Nostalgia Beetkveik",
     "tags": [
@@ -3332,6 +3346,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-norwegian-norwegian-avocado-bowl",
+    "title": "Nutritious Norwegian Avocado Bowl",
+    "tags": [
+      "breakfast",
+      "easy",
+      "healthy",
+      "kid-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 17,
     "shard": "n"
   },
   {

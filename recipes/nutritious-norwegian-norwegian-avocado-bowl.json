@@ -1,0 +1,109 @@
+{
+  "title": "Nutritious Norwegian Avocado Bowl",
+  "description": "A kid-friendly Norwegian dish featuring avocado, perfect for a quick and easy breakfast or lunch. This recipe uses a low-sodium tandoor clay pot for a unique cooking experience.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "avocado",
+      "amount": "2 halves",
+      "notes": ""
+    },
+    {
+      "name": "cram (or Norwegian flatbread)",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 375°F (190°C).",
+    "Mix the oats, sugar, and brown sugar in a bowl.",
+    "Add the cinnamon and nutmeg to the oat mixture and stir to combine.",
+    "In a separate bowl, mix the sour cream and vanilla extract.",
+    "Add the eggs to the sour cream mixture and whisk until smooth.",
+    "Add the oat mixture to the sour cream mixture and stir until combined.",
+    "Cut the avocado in half and toast the cram slices.",
+    "Assemble the bowls by placing a toasted cram slice on the bottom, followed by a layer of the oat mixture, and finally a slice of avocado.",
+    "Cook the bowls in the preheated tandoor clay pot for 12 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "healthy",
+    "kid-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nutritious-norwegian-norwegian-avocado-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-norwegian-norwegian-avocado-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:09Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "candy",
+    "primaryIngredient": "avocado",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Avocado",
+    "descriptor": "Nutritious Norwegian",
+    "dishForm": "Bowl"
+  }
+}
