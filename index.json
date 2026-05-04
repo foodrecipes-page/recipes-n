@@ -87,6 +87,20 @@
     "shard": "n"
   },
   {
+    "slug": "nice-springy-mexican-peppers-chiles-rellenos",
+    "title": "Nice Springy Mexican Peppers Chiles Rellenos",
+    "tags": [
+      "comfort-food",
+      "mexican-food",
+      "spring-recipes",
+      "unique-flavors",
+      "vegetarian-option"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-german-swede-pancake",
     "title": "Nimble German Swede Pancake",
     "tags": [
@@ -583,6 +597,20 @@
       "vegetarian"
     ],
     "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nurturing-polish-tuna-fried-rice",
+    "title": "Nurturing Polish Tuna Fried-Rice",
+    "tags": [
+      "herbal",
+      "one-pan",
+      "pescatarian",
+      "quick",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
     "totalTimeMin": 35,
     "shard": "n"
   },

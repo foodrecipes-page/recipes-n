@@ -1,0 +1,104 @@
+{
+  "title": "Nurturing Polish Tuna Fried-Rice",
+  "description": "A herbal, silky dish that blends tender tuna with fragrant dill and a splash of sesame, perfect for a cozy date night.",
+  "cuisine": "Polish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked tuna",
+      "amount": "200g",
+      "notes": "flaked"
+    },
+    {
+      "name": "cooked short‑grain rice",
+      "amount": "2 cups",
+      "notes": "cooled"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the onion and garlic and sauté until translucent, about 2 minutes.",
+    "Add the carrot and peas, cooking until the carrot is slightly tender, about 3 minutes.",
+    "Push the vegetables to the side of the skillet and pour in the cooked rice, stirring to combine.",
+    "Pour the soy sauce and sesame oil over the rice, mixing thoroughly until the rice is evenly coated.",
+    "Gently fold in the flaked tuna, ensuring it is heated through but not overcooked.",
+    "Sprinkle the chopped dill over the mixture and stir to distribute the herbal aroma.",
+    "Serve immediately, optionally garnishing with a few extra dill sprigs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "one-pan",
+    "pescatarian",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 18
+  },
+  "slug": "nurturing-polish-tuna-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nurturing-polish-tuna-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:14:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "tuna",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "tuna",
+    "descriptor": "Nurturing",
+    "dishForm": "Fried-Rice"
+  }
+}

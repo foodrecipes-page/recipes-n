@@ -1,0 +1,99 @@
+{
+  "title": "Nice Springy Mexican Peppers Chiles Rellenos",
+  "description": "A comforting Mexican dish featuring roasted poblano peppers stuffed with a unique blend of flavors, including galangal and candy, all without eggs, making it friendly to those with dietary restrictions.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4 large",
+      "notes": "roasted"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole-grain"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded Monterey Jack"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the poblano peppers in the oven for about 30 minutes, or until the skin is charred and blistered.",
+    "Let the peppers cool down, then peel off the skin, remove the seeds, and cut a slit down one side of each pepper to create a pocket.",
+    "In a large skillet, sauté the chopped onion and minced garlic until they are softened.",
+    "Add the grated galangal and whole-grain mustard to the skillet and cook for another minute, stirring constantly.",
+    "Stir in the chopped candy and cook until it is well combined with the other ingredients.",
+    "Stuff each roasted poblano pepper with the galangal and candy mixture, followed by the shredded cheese.",
+    "Place the stuffed peppers in a baking dish and cover them with the tomato sauce.",
+    "Bake the peppers in the preheated oven for about 20 minutes, or until they are heated through and the cheese is melted."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mexican-food",
+    "spring-recipes",
+    "unique-flavors",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "nice-springy-mexican-peppers-chiles-rellenos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-springy-mexican-peppers-chiles-rellenos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:14:11Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "candy",
+    "primaryIngredient": "galangal-kha",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "peppers",
+    "descriptor": "Nice Springy",
+    "dishForm": "Chiles Rellenos"
+  }
+}
