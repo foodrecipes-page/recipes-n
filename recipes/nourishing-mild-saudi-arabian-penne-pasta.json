@@ -1,0 +1,103 @@
+{
+  "title": "Nourishing Mild Saudi Arabian Penne Pasta",
+  "description": "A comforting and cultured dish featuring penne pasta, this flexitarian-friendly recipe is perfect for a sick day, with a brine-wet and fluffy texture that is sure to soothe, inspired by the rich flavors of Saudi Arabian cuisine.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14.5 oz"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the penne pasta according to the package instructions until al dente.",
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion to the saucepan and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the saucepan and cook for an additional 1 minute.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the vegetable broth, canned diced tomatoes, salt, and black pepper to the saucepan and bring to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes.",
+    "Drain the cooked penne pasta and add it to the saucepan, tossing to combine with the sauce.",
+    "Stir in the chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "one-pot",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "nourishing-mild-saudi-arabian-penne-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-mild-saudi-arabian-penne-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:47:52Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "brine-wet",
+    "primaryIngredient": "penne pasta",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "penne pasta",
+    "descriptor": "Nourishing Mild",
+    "dishForm": "Pasta"
+  }
+}
