@@ -1,0 +1,91 @@
+{
+  "title": "Nimble American Savoy Cabbage Omelette",
+  "description": "A dense yet light American breakfast that blends savory savoy cabbage with a fluffy omelette, perfect for a quick high-protein start.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "savoy cabbage",
+      "amount": "1/4 cup finely chopped"
+    },
+    {
+      "name": "milk",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 tbsp grated"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 tsp finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Whisk the eggs, milk, salt, and pepper in a bowl until the mixture is light and foamy.",
+    "Heat the olive oil in a non-stick skillet over medium heat until shimmering.",
+    "Add the chopped cabbage and sauté for 2 minutes until it begins to soften.",
+    "Pour the egg mixture over the cabbage, letting it set for 1 minute before gently stirring.",
+    "Sprinkle grated cheddar and green onion over the semi-set eggs.",
+    "Continue cooking, lifting the edges with a spatula, until the egg is fully set but still moist, about 3 minutes.",
+    "Fold the omelette in half and slide onto a plate, allowing the cheese to melt slightly.",
+    "Serve immediately, optionally adding a squeeze of lemon or a dash of hot sauce."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "high-protein",
+    "omelette",
+    "quick",
+    "savoy-cabbage",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 16
+  },
+  "slug": "nimble-american-savoy-cabbage-omelette",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-american-savoy-cabbage-omelette",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:56:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "savoy cabbage",
+    "descriptor": "Nimble",
+    "dishForm": "Omelette"
+  }
+}

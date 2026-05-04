@@ -250,6 +250,21 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-american-savoy-cabbage-omelette",
+    "title": "Nimble American Savoy Cabbage Omelette",
+    "tags": [
+      "american",
+      "high-protein",
+      "omelette",
+      "quick",
+      "savoy-cabbage",
+      "vegetarian"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 10,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-crisp-kenyan-gruyere-salad",
     "title": "Nimble Crisp Kenyan Gruyere Salad",
     "tags": [
@@ -1578,6 +1593,20 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-light-portuguese-shiitake-mushrooms-skillet",
+    "title": "Nutritious Light Portuguese Shiitake Mushrooms Skillet",
+    "tags": [
+      "healthy-dinners",
+      "mushroom-recipes",
+      "one-pan-meals",
+      "portuguese-cuisine",
+      "whole30-recipes"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
