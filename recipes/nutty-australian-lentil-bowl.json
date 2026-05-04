@@ -1,0 +1,112 @@
+{
+  "title": "Nutty Australian Lentil Bowl",
+  "description": "A savory, nutty lentil bowl with a hint of cinnamon, cooked in a ttukbaegi and served on a talavera plate for a satisfying solo dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 minced cloves"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup sliced"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 grated"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup dried lentils under cold water until clear.",
+    "Heat 1 tbsp olive oil in a ttukbaegi over medium heat.",
+    "Add 1 diced onion and 2 minced garlic cloves and sauté until translucent.",
+    "Stir in 1 cup vegetable broth, 1 cup lentils, 1/2 tsp ground cinnamon, 1 tbsp soy sauce, 1/2 tsp salt, and 1/8 tsp pepper.",
+    "Bring to a gentle boil, then reduce heat and cover; simmer for 15 minutes until lentils are tender.",
+    "While the lentils cook, toast 1/4 cup sliced almonds and 2 tbsp pumpkin seeds in a dry pan until fragrant.",
+    "Once the lentils are cooked, fold in 1 cup chopped spinach, grated carrot, toasted almonds, and pumpkin seeds.",
+    "Serve the mixture on a talavera plate, garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bowl",
+    "cinnamon",
+    "easy",
+    "lentil",
+    "nutty",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 690,
+    "protein": 34,
+    "carbs": 61,
+    "fat": 41
+  },
+  "slug": "nutty-australian-lentil-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-australian-lentil-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:17:40Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lentils",
+    "descriptor": "Nutty",
+    "dishForm": "Bowl"
+  }
+}
