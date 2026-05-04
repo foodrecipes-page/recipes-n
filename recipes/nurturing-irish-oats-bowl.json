@@ -1,0 +1,101 @@
+{
+  "title": "Nurturing Irish Oats Bowl",
+  "description": "A fermented, fluffy Irish oats dish with poached eggs, sautéed kale, and toasted almonds for a cozy, macrobiotic-friendly breakfast.",
+  "cuisine": "Irish",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cold water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "kale leaves, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "toasted almonds, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh chives, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine rolled oats, cold water, apple cider vinegar, and 1/4 tsp salt; cover and refrigerate overnight to ferment.",
+    "In the morning, stir the fermented oats, then pour into a saucepan and bring to a gentle simmer over medium heat for 5 minutes, stirring occasionally.",
+    "While oats heat, heat olive oil in a skillet over medium-high; add chopped kale, season with sea salt and pepper, sauté until wilted, about 3 minutes.",
+    "In a separate small pan, lightly poach the eggs in boiling water for 3 minutes, then transfer to a slotted spoon.",
+    "When oats reach a thick, creamy consistency, transfer to bowls.",
+    "Divide sautéed kale over the oats, top with poached eggs.",
+    "Sprinkle toasted almonds and fresh chives over the bowl.",
+    "Serve immediately for a warm, cozy Irish-style breakfast."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 11,
+  "totalTimeMin": 16,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "irish-breakfast",
+    "macrobiotic-friendly",
+    "overnight-fermentation",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 545,
+    "protein": 23,
+    "carbs": 38,
+    "fat": 35
+  },
+  "slug": "nurturing-irish-oats-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nurturing-irish-oats-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:13:56Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "starch",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Oats",
+    "descriptor": "Nurturing",
+    "dishForm": "Bowl"
+  }
+}
