@@ -1,0 +1,109 @@
+{
+  "title": "Nutty Algerian Chickpea Tagine",
+  "description": "A briny and pillowy Algerian dish featuring chickpeas and a hint of nutella, perfect for a flexitarian meal",
+  "cuisine": "Algerian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "nutella",
+      "amount": "2 tbsp",
+      "notes": "mixed with 1 tbsp water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat",
+    "Add the chopped onion and cook until softened",
+    "Add the minced garlic and cook for 1 minute",
+    "Add the cumin, paprika, salt, and black pepper, and stir for 1 minute",
+    "Add the chickpeas, nutella mixture, and chopped almonds, and stir to combine",
+    "Reduce heat to low and simmer, covered, for 20 minutes",
+    "Stir occasionally to prevent burning",
+    "Serve hot over couscous or rice"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "chickpea-recipes",
+    "flexitarian-friendly",
+    "north-african-food",
+    "one-pot-meals",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-algerian-chickpea-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-algerian-chickpea-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:03:51Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "whisk",
+    "primaryIngredient": "nutella",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "nutty",
+    "dishForm": "Tagine"
+  }
+}
