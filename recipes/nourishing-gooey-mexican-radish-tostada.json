@@ -1,0 +1,96 @@
+{
+  "title": "Nourishing Gooey Mexican Radish Tostada",
+  "description": "A vegan-friendly Mexican dish featuring radish, with a briny and gooey texture, perfect for midnight cravings. This tostada is a twist on traditional Mexican cuisine, using deep-fry tofu for added protein.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "preferably day-old tortillas"
+    },
+    {
+      "name": "deep-fry tofu",
+      "amount": "1 block",
+      "notes": "extra-firm tofu works best"
+    },
+    {
+      "name": "radish",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Cut the tofu into small cubes and deep-fry until golden brown.",
+    "Drain the tofu on paper towels and set aside.",
+    "Fry the corn tortillas in the same oil until crispy and golden brown.",
+    "Drain the tortillas on paper towels and set aside.",
+    "In a bowl, mix together the sliced radish, lime juice, and a pinch of salt.",
+    "To assemble the tostada, place a fried tortilla on a plate, top with a spoonful of the radish mixture, and add some deep-fry tofu on top.",
+    "Garnish with chopped cilantro, scallions, and a drizzle of olive oil.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fry",
+    "mexican",
+    "radish",
+    "snack",
+    "tofu",
+    "tostada",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "nourishing-gooey-mexican-radish-tostada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-gooey-mexican-radish-tostada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:31:09Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "radish",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "radish",
+    "descriptor": "Nourishing Gooey",
+    "dishForm": "Tostada"
+  }
+}
