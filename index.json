@@ -406,6 +406,20 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-dutch-beef-burger",
+    "title": "Nimble Dutch Beef Burger",
+    "tags": [
+      "dutch",
+      "high-protein",
+      "peppery",
+      "quick-meal",
+      "whole30"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 22,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-egyptian-tofu-umm-ali",
     "title": "Nimble Egyptian Tofu Umm Ali",
     "tags": [

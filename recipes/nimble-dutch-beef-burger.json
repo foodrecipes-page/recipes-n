@@ -1,0 +1,104 @@
+{
+  "title": "Nimble Dutch Beef Burger",
+  "description": "A peppery, light Dutch-inspired beef burger featuring ground beef, tangy pickles, and whole30-friendly toppings.",
+  "cuisine": "Dutch",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g",
+      "notes": "80% lean"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "whole"
+    },
+    {
+      "name": "pickle",
+      "amount": "50g",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Combine ground beef, egg, diced pickle, chopped onion, minced garlic, mustard, paprika, salt, and pepper in a bowl and mix until evenly blended.",
+    "Divide the mixture into two equal portions and shape each into a round patty about 1.5 cm thick.",
+    "Heat a non-stick skillet over medium heat and add a splash of olive oil.",
+    "Cook the patties for 3-4 minutes on one side until browned, then flip and cook for another 3-4 minutes until cooked through and firm.",
+    "Remove the patties from the skillet and let them rest on a paper towel for a minute.",
+    "Warm the burger buns briefly in the same skillet, about 30 seconds per side.",
+    "Assemble each burger by placing a lettuce leaf on the bottom bun, adding the patty, and topping with a few pickle slices.",
+    "Cap with the top bun and serve immediately.",
+    "Optional: squeeze a small amount of mustard over the patty before closing the bun for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "high-protein",
+    "peppery",
+    "quick-meal",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 790,
+    "protein": 58,
+    "carbs": 5,
+    "fat": 56
+  },
+  "slug": "nimble-dutch-beef-burger",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-dutch-beef-burger",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:32:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "pickle",
+    "primaryIngredient": "ground beef",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Beef",
+    "descriptor": "Nimble",
+    "dishForm": "Burger"
+  }
+}
