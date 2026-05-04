@@ -556,6 +556,20 @@
     "shard": "n"
   },
   {
+    "slug": "noble-mexican-noodles-horchata",
+    "title": "Noble Mexican Noodles Horchata",
+    "tags": [
+      "dessert",
+      "easy-to-prepare",
+      "high-protein",
+      "keto-friendly",
+      "molten"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 23,
+    "shard": "n"
+  },
+  {
     "slug": "noble-slovakian-mushroom-stew",
     "title": "Noble Slovakian Mushroom Stew",
     "tags": [

@@ -1,0 +1,107 @@
+{
+  "title": "Noble Mexican Noodles Horchata",
+  "description": "Earthy, molten Mexican horchata infused with rice noodles and toasted keto bread for a paleo-friendly adventure.",
+  "cuisine": "Mexican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "banana puree",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "cacao nibs",
+      "amount": "2 tbsp",
+      "notes": "ground for smoother texture"
+    },
+    {
+      "name": "toasted keto bread crumbs",
+      "amount": "50g",
+      "notes": "prepared by toasting a gluten-free keto bread"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Soak the rice noodles in hot water for 5 minutes until softened, then drain and set aside.",
+    "In a saucepan, combine coconut milk, banana puree, maple syrup, ground cinnamon, ground nutmeg, and cacao nibs, and heat over medium heat to 80°C.",
+    "Stir the mixture continuously until the cacao nibs are fully dissolved and the sauce is smooth.",
+    "Add the drained rice noodles to the saucepan and simmer gently for 2 minutes to allow the noodles to absorb the horchata flavors.",
+    "Remove the saucepan from heat and let the mixture cool to 40°C, stirring occasionally to keep the noodles from sticking.",
+    "Stir in the toasted keto bread crumbs, chopped almonds, and shredded coconut, mixing until evenly distributed.",
+    "Transfer the concoction to serving glasses, allowing it to cool slightly, then elevate to 50°C before serving to enjoy a molten, earthy texture.",
+    "Serve immediately and enjoy the adventurous Mexican horchata noodle experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-prepare",
+    "high-protein",
+    "keto-friendly",
+    "molten"
+  ],
+  "nutrition": {
+    "calories": 1150,
+    "protein": 18,
+    "carbs": 148,
+    "fat": 59
+  },
+  "slug": "noble-mexican-noodles-horchata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/noble-mexican-noodles-horchata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:30:58Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "noodles",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Noodles",
+    "descriptor": "Noble",
+    "dishForm": "Horchata"
+  }
+}
