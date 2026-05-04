@@ -1,0 +1,110 @@
+{
+  "title": "Nourishing Ethiopian Rice Pilaf",
+  "description": "A fragrant, floral rice pilaf infused with berbere and ginger, finished with a touch of fermented miso for depth. It is a one‑pot dish that is crumbly, wholesome and FODMAP‑friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "vegan",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked long grain white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low sodium vegetable broth",
+      "amount": "1 1/2 cup"
+    },
+    {
+      "name": "carrots, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cauliflower florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "spinach, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomatoes, diced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic‑infused oil",
+      "amount": "1 tablespoon",
+      "notes": "oil infused with garlic flavor but no pieces, FODMAP-friendly"
+    },
+    {
+      "name": "berbere spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Warm the garlic‑infused oil in a large pot over medium heat until fragrant.",
+    "Add the grated ginger, berbere spice, turmeric, and stir for 1 minute.",
+    "Toss in the carrots, cauliflower, and tomatoes, cooking until slightly softened, about 3 minutes.",
+    "Stir in the rice and coat it evenly with the spice mixture, cooking for another 2 minutes.",
+    "Pour in the vegetable broth, bring to a boil, then reduce heat to low and cover the pot.",
+    "Simmer the rice for 12 minutes, partially covered, until most of the liquid is absorbed.",
+    "Gently stir in the spinach and miso paste, then cover again and cook for an additional 3 minutes until the spinach wilts.",
+    "Remove the pot from heat, squeeze fresh lemon juice over the pilaf, and fluff with a fork.",
+    "Let the dish rest for 5 minutes to allow the flavors to settle.",
+    "Serve hot, optionally garnished with chopped fresh cilantro if tolerated."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "one-pot",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 13,
+    "carbs": 60,
+    "fat": 5
+  },
+  "slug": "nourishing-ethiopian-rice-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-ethiopian-rice-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:53:07Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "rice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Rice",
+    "descriptor": "Nourishing",
+    "dishForm": "Pilaf"
+  }
+}
