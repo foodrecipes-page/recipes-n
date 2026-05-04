@@ -1,0 +1,128 @@
+{
+  "title": "Nutty Shattering Egyptian King Prawns Tagine",
+  "description": "A nostalgic Egyptian dish featuring king prawns, a nutty, shattering crunch, and a gluten-free-friendly mantecare emulsification.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "King prawns",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Pumpkin seeds",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "Cara Cara oranges",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Harissa",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mantecare",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "20g",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a clay pot over medium heat.",
+    "Add cumin, coriander, cinnamon, cardamom, and ginger; cook, stirring, 1 minute.",
+    "Add king prawns; cook, stirring, 2 minutes.",
+    "Add harissa; cook, stirring, 1 minute.",
+    "Add pumpkin seeds; cook, stirring, 1 minute.",
+    "Add salt and black pepper; stir to combine.",
+    "Add mantecare and chopped parsley; stir to combine.",
+    "Transfer the mixture to a serving dish; garnish with additional parsley, if desired.",
+    "Serve immediately, garnished with additional parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "gluten-free",
+    "middle-eastern",
+    "north-african",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "nutty-shattering-egyptian-king-prawns-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-shattering-egyptian-king-prawns-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:06Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "king prawns",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "egyptian",
+    "mainIngredient": "king prawns",
+    "descriptor": "nutty shattering",
+    "dishForm": "tagine"
+  }
+}
