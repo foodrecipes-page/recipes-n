@@ -1,0 +1,92 @@
+{
+  "title": "Naturally Sweet American Braeburn Apples Skillet",
+  "description": "A funky and tender post-workout dish featuring braeburn apples, cooked to perfection on a yakimono-grill, with a low-sodium twist.",
+  "cuisine": "American",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium heat.",
+    "In a large bowl, mix together the sliced apples, cinnamon, nutmeg, and salt-free seasoning blend.",
+    "In a large skillet, heat the coconut oil over medium heat.",
+    "Add the apple mixture to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Drizzle the honey and lemon juice over the apples and stir to combine.",
+    "Continue cooking for an additional 5 minutes, or until the apples are tender.",
+    "Sprinkle the chopped walnuts over the top of the apples, if using.",
+    "Serve the apple mixture hot, straight from the skillet."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-classic",
+    "healthy-snack",
+    "low-sodium",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 0,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "naturally-sweet-american-braeburn-apples-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-sweet-american-braeburn-apples-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:26:14Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "braeburn apples",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "braeburn apples",
+    "descriptor": "naturally sweet",
+    "dishForm": "Skillet"
+  }
+}

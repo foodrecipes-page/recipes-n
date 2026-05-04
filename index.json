@@ -15,6 +15,20 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-sweet-american-braeburn-apples-skillet",
+    "title": "Naturally Sweet American Braeburn Apples Skillet",
+    "tags": [
+      "american-classic",
+      "healthy-snack",
+      "low-sodium",
+      "one-pan",
+      "post-workout"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
     "slug": "nectarine-poached-light-elixir",
     "title": "Nectarine Poached Light Elixir",
     "tags": [
@@ -570,6 +584,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-sweet-tunisian-red-peppers-tagine",
+    "title": "Nourishing Sweet Tunisian Red Peppers Tagine",
+    "tags": [
+      "ayurvedic",
+      "gluten-free",
+      "lazy-sunday",
+      "north-african",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 60,
     "shard": "n"
   },
   {
