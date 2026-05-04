@@ -1,0 +1,103 @@
+{
+  "title": "Nimble Velvety Syrian Sweet Potato Bowl",
+  "description": "A grassy, velvety bowl of roasted sweet potatoes, pickled cucumber, and herbal avocado tahini sauce, Whole30-friendly and adventurous.",
+  "cuisine": "Syrian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 medium (about 400g each)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Pickled cucumber",
+      "amount": "1 cup, chopped (no added sugar)"
+    },
+    {
+      "name": "Fresh parsley and mint",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Fresh avocado",
+      "amount": "1 small"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Peel sweet potatoes and cut into 1-inch cubes.",
+    "Toss cubes with olive oil, smoked paprika, cumin, cayenne pepper, and pinch of salt.",
+    "Spread on a baking sheet and roast 25 minutes, turning halfway, until tender.",
+    "While sweet potatoes roast, mash avocado in a bowl.",
+    "Add tahini, lemon juice, minced garlic, and pinch of salt to avocado mash; blend until smooth.",
+    "When sweet potatoes are done, let them cool slightly then transfer to a bowl.",
+    "Add chopped pickled cucumber and parsley and mint to bowl.",
+    "Drizzle avocado tahini sauce over the mixture and toss gently.",
+    "Serve bowl topped with extra herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "no-grain",
+    "one-pan",
+    "quick-healthy",
+    "vegetarian",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 950,
+    "protein": 20,
+    "carbs": 110,
+    "fat": 52
+  },
+  "slug": "nimble-velvety-syrian-sweet-potato-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-velvety-syrian-sweet-potato-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:03:40Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "starch",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Nimble Velvety",
+    "dishForm": "Bowl"
+  }
+}
