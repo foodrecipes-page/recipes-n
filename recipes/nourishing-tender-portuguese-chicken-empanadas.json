@@ -1,0 +1,106 @@
+{
+  "title": "Nourishing Tender Portuguese Chicken Empanadas",
+  "description": "Tangy and tender Portuguese chicken empanadas made with filo pastry, perfect for a weeknight dinner",
+  "cuisine": "Portuguese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "filo pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast and cook until browned and cooked through, about 5-7 minutes.",
+    "Stir in the paprika, salt, and black pepper.",
+    "Add the lemon juice and stir to combine.",
+    "Lay a sheet of filo pastry on a flat surface and brush with a little water.",
+    "Place a tablespoon of the chicken mixture in the center of the pastry and fold into a triangle.",
+    "Brush the edges with a little water and press to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "filo-pastry",
+    "kosher-friendly",
+    "portuguese-cuisine",
+    "tangy-food",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "nourishing-tender-portuguese-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-tender-portuguese-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:07:41Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "fold",
+    "primaryIngredient": "filo pastry",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing Tender",
+    "dishForm": "Empanadas"
+  }
+}
