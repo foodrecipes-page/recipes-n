@@ -1,0 +1,138 @@
+{
+  "title": "Nourishing Fluffy Mexican Khus Khus Tacos",
+  "description": "A pescatarian-friendly, one-pot Mexican dish from Oaxaca, featuring khus khus and a sweet glaze.\n\nThis recipe is perfect for a weeknight meal, as it's quick and easy to make, with minimal cleanup.\n\nThe khus khus adds a unique texture and nutty flavor to the dish, while the glaze provides a sweet and sticky element.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "khus khus",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": " smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": " olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": " lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8 corn tortillas",
+      "notes": ""
+    },
+    {
+      "name": " cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": " lime wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the garlic and cook for an additional 1 minute.",
+    "Add the chipotle peppers, cumin, smoked paprika, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the khus khus and chicken broth, and bring to a boil.",
+    "Reduce the heat to medium-low and simmer, covered, for 10-12 minutes, or until the khus khus is tender.",
+    "Stir in the agave nectar and lime juice.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the khus khus mixture onto a tortilla, and topping with cilantro, a squeeze of lime juice, and a sprinkle of salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "pescatarian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nourishing-fluffy-mexican-khus-khus-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-fluffy-mexican-khus-khus-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:53Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "glaze",
+    "primaryIngredient": "khus khus",
+    "diet": "pescatarian",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "khus khus",
+    "descriptor": "nourishing fluffy",
+    "dishForm": "tacos"
+  }
+}

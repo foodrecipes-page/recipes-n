@@ -1,0 +1,74 @@
+{
+  "title": "Nighttime Sizzling Velvet Turkish Lardons Kunefe",
+  "description": "A rich and savory Turkish dessert that combines crispy phyllo, creamy vegan butter, and caramelized lardons. Serve warm, straight from the iron teppan.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package (400g)",
+      "notes": ""
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "200g",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan to 400°F (200°C) for 30 minutes before use.",
+    "Layer 1/3 of the phyllo dough on the preheated teppan, brushing with vegan butter.",
+    "Repeat with the remaining phyllo dough, brushing each layer with vegan butter.",
+    "Heat the lardons in a separate pan over medium heat until caramelized, about 20 minutes.",
+    "Transfer the caramelized lardons to a bowl with the sugar, and mix until the sugar dissolves.",
+    "Pour the sugar-lardon mixture over the phyllo layers on the teppan, spreading evenly.",
+    "Cook for an additional 5 minutes, until the phyllo is golden brown and the lardons are crispy.",
+    "Remove from heat, let cool for a few minutes before serving.",
+    "Serve warm, straight from the teppan, garnished with rose water and pistachios if desired.",
+    "Repeat with the remaining phyllo dough, brushing each layer with vegan butter.",
+    "Transfer the lardons to a bowl with the sugar, and mix until the sugar dissolves.",
+    "Heat the lardons in a separate pan over medium heat until caramelized, about 20 minutes.",
+    "Layer 2/3 of the phyllo dough on the preheated teppan, brushing with vegan butter."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "iron-teppan",
+    "kunefe",
+    "rich",
+    "savoury",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 20,
+    "carbs": 200,
+    "fat": 80
+  },
+  "slug": "nighttime-sizzling-velvet-turkish-lardons-kunefe",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nighttime-sizzling-velvet-turkish-lardons-kunefe",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "lardons-render",
+    "primaryIngredient": "vegan butter",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lardons",
+    "descriptor": "Nighttime Sizzling Velvet",
+    "dishForm": "Kunefe"
+  }
+}

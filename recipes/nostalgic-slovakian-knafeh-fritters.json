@@ -1,0 +1,61 @@
+{
+  "title": "Nostalgic Slovakian Knafeh Fritters",
+  "description": "Crispy, snappy, nostalgic Slovakian treat featuring knafeh pastry, ideal for high-protein diet.",
+  "cuisine": "slovakian",
+  "diet": [
+    "high-protein",
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Knafeh Pastry",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a deep frying pan over medium heat.",
+    "When the oil is hot, add 1/4 cup of chopped onion and cook until translucent.",
+    "In a separate bowl, mix together 1 cup of semolina flour, 1/2 cup of all-purpose flour, and 1 teaspoon of salt.",
+    "Add the flour mixture to the onion mixture and stir to combine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "high-protein",
+    "nostalgic",
+    "slovakian",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 36,
+    "carbs": 54,
+    "fat": 32
+  },
+  "slug": "nostalgic-slovakian-knafeh-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-slovakian-knafeh-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:17Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "emulsify",
+    "primaryIngredient": "knafeh",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Knafeh",
+    "descriptor": "Nostalgic",
+    "dishForm": "Fritters"
+  }
+}

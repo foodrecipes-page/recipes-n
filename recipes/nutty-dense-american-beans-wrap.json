@@ -1,0 +1,121 @@
+{
+  "title": "nutty dense american bean sprouts wrap",
+  "description": "a satisfying, one-pot dish featuring bean sprouts, grilled to perfection in a corn husk wrap.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "black bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "corn husk",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "grapeseed oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "shredded carrot",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "clove garlic",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat grapeseed oil in a large cast-iron skillet over medium-high heat.",
+    "add rice and cook until lightly toasted, about 3 minutes.",
+    "add black bean sprouts, salt, pepper, and nutmeg, and stir to combine.",
+    "cover skillet with a lid and cook for 5 minutes, or until sprouts are tender.",
+    "add shredded carrot, roasted red pepper, and maple syrup, and stir to combine.",
+    "toss in crushed peanuts and cook for an additional 2 minutes.",
+    "warm corn husks by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "place 1/2 cup of the rice and sprouts mixture onto the center of each corn husk, leaving a 1-inch border around the edges.",
+    "fold the bottom edge of each husk up over the filling, then fold in the sides and roll into a neat package.",
+    "place seam-side down on a plate and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "robata-grill",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "nutty-dense-american-beans-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-american-beans-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:14Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "robata-grill",
+    "primaryIngredient": "bean sprouts",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beans",
+    "descriptor": "Nutty, dense",
+    "dishForm": "Wrap"
+  }
+}
