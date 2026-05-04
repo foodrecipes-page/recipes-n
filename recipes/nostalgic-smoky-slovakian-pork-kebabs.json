@@ -1,0 +1,93 @@
+{
+  "title": "Nostalgic Smoky Slovakian Pork Kebabs",
+  "description": "A funky, gooey, nostalgic Slovakian dish featuring barbeque sauce, smoke-hot, low-glycemic-friendly ingredients, this recipe is sure to satisfy your cravings. It combines the richness of pork with the tanginess of barbeque sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "barbeque sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wood chips",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together barbeque sauce, smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Add the pork cubes to the bowl and toss to coat with the barbeque sauce mixture.",
+    "Thread the pork cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers on the grill and cook for 20 minutes, turning occasionally.",
+    "Add the wood chips to the grill and close the lid to smoke the pork kebabs.",
+    "Cook for an additional 10 minutes, or until the pork is cooked through.",
+    "Remove the skewers from the grill and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbeque",
+    "gluten-free",
+    "low-glycemic",
+    "pork-kebabs",
+    "slovakian-cuisine",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nostalgic-smoky-slovakian-pork-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-smoky-slovakian-pork-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:03:56Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "smoke-hot",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Nostalgic Smoky",
+    "dishForm": "Kebabs"
+  }
+}
