@@ -1,0 +1,103 @@
+{
+  "title": "Nourishing Crisp Uruguayan Lamb Bake",
+  "description": "A flavorful, winey Uruguayan-inspired lamb bake featuring sweet figs and flambéed onions, perfect for post-workout dinner or a keto-friendly meal.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "figs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the lamb shoulder with salt, black pepper, and chili powder.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add the sliced onions to the pot and cook until caramelized, about 10 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the red wine to the pot and cook until reduced by half, about 5 minutes.",
+    "Add the figs, thyme, and browned lamb shoulder to the pot.",
+    "Transfer the pot to the preheated oven and bake for 25 minutes.",
+    "Increase the oven temperature to broil and cook for an additional 5 minutes, until the top is crispy and golden brown.",
+    "Remove from the oven and let rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flambeed-onions",
+    "high-protein",
+    "keto-friendly",
+    "one-pan-meal",
+    "post-workout-dinner",
+    "uruguayan-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 37
+  },
+  "slug": "nourishing-crisp-uruguayan-lamb-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-crisp-uruguayan-lamb-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T03:43:24Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "flambe",
+    "primaryIngredient": "figs",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "lamb",
+    "descriptor": "Nourishing Crisp",
+    "dishForm": "Bake"
+  }
+}
