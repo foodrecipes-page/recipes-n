@@ -1,0 +1,108 @@
+{
+  "title": "Nourishing Bengali Yautia Rajma",
+  "description": "A hearty, umami-packed curry of yautia and rajma with creamy paneer, seasoned with anti-inflammatory spices for a midnight craving.",
+  "cuisine": "Bengali",
+  "diet": [
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yautia beans",
+      "amount": "200g",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "red kidney beans",
+      "amount": "200g",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "paneer",
+      "amount": "150g",
+      "notes": "cut into cubes"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200g"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the soaked yautia and rajma and drain.",
+    "Heat coconut oil in a heavy pot over medium heat and add cumin seeds until they splutter.",
+    "Add ginger garlic paste and sauté until golden.",
+    "Stir in tomato puree, turmeric, coriander, and cumin powders and cook for 5 minutes.",
+    "Add the drained beans and water, bring to a boil, then reduce heat and simmer until beans are tender, about 40 minutes.",
+    "Season with salt and mix in paneer cubes, simmer for another 5 minutes.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot over steamed basmati rice or with rotis, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "bengali",
+    "cheese-pull",
+    "comfort-food",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 55,
+    "fat": 14
+  },
+  "slug": "nourishing-bengali-yautia-rajma",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-bengali-yautia-rajma",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:58:17Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "yautia",
+    "diet": "anti-inflammatory",
+    "region": "bengali",
+    "cuisineAdjective": "Bengali",
+    "mainIngredient": "Yautia",
+    "descriptor": "Nourishing",
+    "dishForm": "Rajma"
+  }
+}
