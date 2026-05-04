@@ -1,0 +1,114 @@
+{
+  "title": "Nutritious Japanese Cassaba Bowl",
+  "description": "A delicious and nutritious Japanese dish featuring cassaba, shio-koji-cure and flavorful sesame seeds. This recipe is also Jain-friendly, which means no onions, garlic, mushrooms, eggs, or any other root vegetables from the Allium family are used.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "jain",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cassaba",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "available at Asian grocery stores or online"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "black or white"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Kombu",
+      "amount": "1 sheet",
+      "notes": "",
+      "notes2": "available at Asian grocery stores or online"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the cassaba into bite-sized pieces and set aside.",
+    "In a small bowl, mix together the shio-koji, sesame seeds, and a pinch of salt.",
+    "In a large saucepan, combine the coconut oil, rice vinegar, maple syrup, ginger, and kombu.",
+    "Bring the mixture to a simmer over medium heat and cook for 10 minutes, stirring occasionally.",
+    "Add the cassaba to the saucepan and cook for an additional 10-12 minutes, or until the cassaba is tender and slightly caramelized.",
+    "Season the dish with salt to taste and serve hot, garnished with sesame oil and additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "japanese",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nutritious-japanese-cassaba-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-japanese-cassaba-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:38:58Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "cassaba",
+    "diet": "jain",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cassaba",
+    "descriptor": "Nutritious",
+    "dishForm": "Bowl"
+  }
+}
