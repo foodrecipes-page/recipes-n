@@ -1,0 +1,113 @@
+{
+  "title": "Nourishing Creamy Kenyan Lime Wrap",
+  "description": "A savory, low-fat wrap bursting with umami, creamy coconut, and zesty lime, steamed in lotus leaves for a weeknight Kenyan treat.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "unwaxed limes",
+      "amount": "6",
+      "notes": "use zest and juice"
+    },
+    {
+      "name": "low-fat shredded coconut",
+      "amount": "200g"
+    },
+    {
+      "name": "low-fat Greek yogurt",
+      "amount": "100g",
+      "notes": "low-fat"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "100g",
+      "notes": "70% cacao"
+    },
+    {
+      "name": "cooked chicken breast",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2",
+      "notes": "cloves, minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "8",
+      "notes": "washed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse lotus leaves under cold water and pat them dry.",
+    "Heat a skillet over medium heat, add olive oil, and sauté onion and garlic until translucent.",
+    "Add diced chicken, ground cumin, smoked paprika, and cook until heated through for about three minutes.",
+    "Stir in shredded coconut and low-fat Greek yogurt, cooking for another two minutes until creamy.",
+    "Remove the pan from heat, cool the mixture to 28°C, then fold in melted dark chocolate gradually until fully incorporated.",
+    "Stir in lime juice, lime zest, and a pinch of sea salt until the filling is evenly combined.",
+    "Lay a lotus leaf flat, spoon 2–3 tablespoons of the filling onto the center, roll tightly, and secure with a kitchen twine.",
+    "Place the wraps seam side down in a steamer basket over boiling water and steam for five minutes, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "kenyan",
+    "low-fat",
+    "umami",
+    "weeknight",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 1880,
+    "protein": 92,
+    "carbs": 123,
+    "fat": 92
+  },
+  "slug": "nourishing-creamy-kenyan-lime-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-creamy-kenyan-lime-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:11:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lime",
+    "descriptor": "Nourishing Creamy",
+    "dishForm": "Wrap"
+  }
+}

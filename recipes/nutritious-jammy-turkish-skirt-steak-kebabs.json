@@ -1,0 +1,110 @@
+{
+  "title": "Nutritious Jammy Turkish Skirt Steak Kebabs",
+  "description": "Kid-friendly Turkish skewers featuring jammy, fragrant seasoning and tender skirt steak, perfect for dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "kid-friendly",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "500g",
+      "notes": "trimmed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey jam",
+      "amount": "1 tbsp",
+      "notes": "low sugar"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "skewers",
+      "amount": "4",
+      "notes": "wooden or metal"
+    }
+  ],
+  "instructions": [
+    "Cut the trimmed skirt steak into 1-inch cubes.",
+    "In a bowl, whisk together olive oil, tomato paste, honey jam, paprika, cumin, oregano, minced garlic, salt, and pepper until smooth.",
+    "Add the steak cubes to the bowl and toss to coat evenly; let marinate for 10 minutes.",
+    "Thread the steak cubes, onion slices, and alternating pieces onto the skewers.",
+    "Preheat a grill or grill pan over medium-high heat.",
+    "Place the skewered kebabs on the grill and cook, turning occasionally, until the steak is browned and cooked to desired doneness, about 5-7 minutes per side.",
+    "While grilling, brush the kebabs with a little extra tomato paste mixture to keep them jammy.",
+    "Remove the kebabs from the grill and let them rest for 3 minutes.",
+    "Serve the kebabs hot, spooning any remaining sauce from the grill pan over the top.",
+    "Garnish with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "easy-dinner",
+    "grilled",
+    "kebab",
+    "kid-friendly",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 383,
+    "protein": 33,
+    "carbs": 4,
+    "fat": 29
+  },
+  "slug": "nutritious-jammy-turkish-skirt-steak-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-jammy-turkish-skirt-steak-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:12:10Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "skirty steak",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "skirt steak",
+    "descriptor": "Nutritious Jammy",
+    "dishForm": "Kebabs"
+  }
+}
