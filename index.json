@@ -250,6 +250,21 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-algerian-fish-tagine",
+    "title": "Nostalgic Algerian Fish Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "fish-recipes",
+      "north-african",
+      "one-pot",
+      "seafood",
+      "tagine-pot"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgic-chewy-american-emmentaler-cheese-braise",
     "title": "Nostalgic Chewy American Emmentaler Cheese Braise",
     "tags": [
