@@ -1,0 +1,95 @@
+{
+  "title": "Nourishing Canadian Taleggio Gratin",
+  "description": "A malty, pillowy, romantic Canadian dish featuring Taleggio cheese, this gratin is a perfect comfort food for a cold winter night, made with satvik-friendly ingredients and a unique ice-bath-shock step.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Taleggio cheese",
+      "amount": "8 oz",
+      "notes": "rind removed, crumbled"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "cubed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the heavy cream, malted milk powder, sea salt, and black pepper, and heat over medium heat, stirring constantly, until the mixture is hot but not boiling.",
+    "Remove the saucepan from the heat and let it cool slightly, then stir in the crumbled Taleggio cheese until it is fully melted and the mixture is smooth.",
+    "Add the cubed whole wheat bread to the cheese mixture and stir until the bread is fully coated.",
+    "Transfer the bread and cheese mixture to a baking dish and dot the top with the unsalted butter.",
+    "Place the baking dish in a large roasting pan and add enough hot water to the roasting pan to come halfway up the sides of the baking dish.",
+    "Bake the gratin for 25 minutes, then remove it from the oven and let it cool for 5 minutes.",
+    "Submerge the baking dish in an ice bath to stop the cooking process, then remove it from the ice bath and sprinkle the top with chopped fresh thyme.",
+    "Serve the gratin hot, garnished with additional fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "one-pan",
+    "satvik-friendly",
+    "vegetarian-friendly",
+    "winter-night"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "nourishing-canadian-taleggio-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-canadian-taleggio-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:43:55Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "taleggio",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Taleggio",
+    "descriptor": "Nourishing",
+    "dishForm": "Gratin"
+  }
+}
