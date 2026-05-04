@@ -1,0 +1,121 @@
+{
+  "title": "Nocturnal North African Moroccan Lamb Mechoui",
+  "description": "A rich and flavorful one-pot dish featuring tender lamb, crispy bread, and a tangy red wine jelly. Serve in a beautiful lacquerware bowl for a truly authentic Moroccan experience.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder (2 lbs)",
+      "amount": "2",
+      "notes": "Bone-in lamb shoulder works best for this recipe."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality extra-virgin olive oil."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped onion adds a sweet and savory flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced garlic is essential for Moroccan flavors."
+    },
+    {
+      "name": "Red wine jelly",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought, red wine jelly makes this dish pop."
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "A drizzle of honey balances out the tanginess."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground cumin is a staple in Moroccan cuisine."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked paprika adds a smoky depth."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher salt for a better texture."
+    },
+    {
+      "name": "Bread",
+      "amount": "1 baguette",
+      "notes": "Cube the bread for crispy texture."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped parsley adds freshness and color."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "A squeeze of lemon juice brightens up the flavors."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large lacquerware bowl over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the bowl and set aside.",
+    "Add the chopped onion to the bowl and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cumin, paprika, and salt to the bowl and stir to combine.",
+    "Return the lamb shoulder to the bowl and add the red wine jelly, honey, and lemon juice.",
+    "Braise the lamb in the bowl over low heat for about 2 hours, or until tender.",
+    "Preheat the oven to 425°F.",
+    "Cube the bread and toss with a little olive oil.",
+    "Spread the bread cubes on a baking sheet and toast in the oven until crispy, about 5-7 minutes.",
+    "To serve, place the braised lamb in the bowl and top with crispy bread, chopped parsley, and a dollop of red wine jelly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 120,
+  "totalTimeMin": 130,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb",
+    "meat-lovers",
+    "moroccan",
+    "one-pot",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 64,
+    "carbs": 48,
+    "fat": 54
+  },
+  "slug": "nocturnal-north-african-moroccan-lamb-mechoui",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nocturnal-north-african-moroccan-lamb-mechoui",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:39:23Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "toast",
+    "primaryIngredient": "red wine jelly",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Lamb",
+    "descriptor": "Nocturnal North African",
+    "dishForm": "Mechoui"
+  }
+}
