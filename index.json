@@ -1113,6 +1113,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-smoky-venezuelan-mackerel-skewers",
+    "title": "Nourishing Smoky Venezuelan Mackerel Skewers",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "pescatarian",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 32,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-sour-irish-thai-lamb-stew",
     "title": "Nourishing Sour Irish Thai Lamb Stew",
     "tags": [
@@ -1719,6 +1734,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-chewy-middle-eastern-almond-cookies",
+    "title": "Nutty Chewy Middle Eastern Almond Cookies",
+    "tags": [
+      "almond-cookies",
+      "chewy",
+      "dessert",
+      "keto-friendly",
+      "pomegranate",
+      "tempered-chocolate"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 29,
     "shard": "n"
   },
   {

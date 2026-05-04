@@ -1,0 +1,104 @@
+{
+  "title": "Nourishing Smoky Venezuelan Mackerel Skewers",
+  "description": "A smoky and velvety Venezuelan dish featuring smoked mackerel, perfect for a crowd, and friendly to ayurvedic rajasic diets. This recipe is a delicious and nourishing option for dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked mackerel",
+      "amount": "1 pound",
+      "notes": "fillets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lime juice, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Add the smoked mackerel fillets to the bowl and marinate for 15 minutes.",
+    "Thread the marinated mackerel onto the soaked wooden skewers.",
+    "Grill the skewers for 8 minutes, turning occasionally, until the mackerel is cooked through.",
+    "Serve the skewers hot, garnished with fresh cilantro and lime wedges.",
+    "Offer a side of quinoa or brown rice to complement the dish.",
+    "Garnish with sliced avocado for added creaminess.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "nourishing-smoky-venezuelan-mackerel-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-venezuelan-mackerel-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:28:42Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "robata-grill",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "mackerel",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Skewers"
+  }
+}

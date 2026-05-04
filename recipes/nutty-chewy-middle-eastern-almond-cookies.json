@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Chewy Middle Eastern Almond Cookies",
+  "description": "Sweet, bouncy cookies that combine almond flour, pomegranate molasses, and tempered dark chocolate for a keto-friendly hangover cure.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "erythritol",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "coconut oil, melted",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dark chocolate 70% cacao",
+      "amount": "6 oz"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "slivered almonds",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F and line a baking sheet with parchment paper.",
+    "Whisk almond flour, coconut flour, erythritol, baking powder, and salt in a large bowl.",
+    "Add melted coconut oil, egg, and vanilla to the dry mix; stir until a sticky dough forms.",
+    "Fold in slivered almonds and pomegranate molasses until evenly distributed.",
+    "Scoop dough onto the prepared sheet with a tablespoon, spacing 2 inches apart.",
+    "Bake for 12 to 14 minutes until edges are golden and centers set.",
+    "Cool the cookies on the sheet for 5 minutes before transferring them to a wire rack to finish cooling.",
+    "Chop the dark chocolate into small pieces and melt it in a double boiler or microwave, stirring every 30 seconds.",
+    "Stir in a teaspoon of pomegranate molasses into the melted chocolate and drizzle the glaze over the cooled cookies.",
+    "Allow the chocolate glaze to set before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 14,
+  "totalTimeMin": 29,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "almond-cookies",
+    "chewy",
+    "dessert",
+    "keto-friendly",
+    "pomegranate",
+    "tempered-chocolate"
+  ],
+  "nutrition": {
+    "calories": 330,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "nutty-chewy-middle-eastern-almond-cookies",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-chewy-middle-eastern-almond-cookies",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:28:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "almonds",
+    "descriptor": "Nutty Chewy",
+    "dishForm": "Cookies"
+  }
+}
