@@ -1,0 +1,101 @@
+{
+  "title": "Noble Brazilian Flour Flatbread",
+  "description": "A buttery, flaky flatbread flavored with fresh thyme and shio-cure, perfect for crowd-pleasing gatherings.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme, finely chopped",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "shio-cure seasoning paste",
+      "amount": "1 tsp",
+      "notes": "contains salt and sugar"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cold water",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a copper mug on medium heat until it is hot.",
+    "Whisk flour, baking powder, salt, thyme, and shio-cure in a large bowl until combined.",
+    "Add butter and olive oil to the dry mix and rub in with fingertips until the mixture resembles coarse crumbs.",
+    "Pour cold water over the mixture and stir with a wooden spoon until a soft dough forms.",
+    "Turn the dough onto a lightly floured surface and knead for 3 minutes until smooth.",
+    "Divide the dough into four equal portions and shape each into a round flatbread.",
+    "Place one flatbread between two pieces of parchment paper and press it into the hot copper mug, cooking for 3 minutes on each side until golden and blistered.",
+    "Remove the flatbread and let it cool on a rack for 1 minute before cutting into wedges.",
+    "Repeat the process with the remaining dough portions.",
+    "Serve warm with a drizzle of olive oil or a sprinkle of fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "copper",
+    "crowd-pleaser",
+    "egg-free",
+    "flaky",
+    "flatbread",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 357,
+    "protein": 6,
+    "carbs": 43,
+    "fat": 16
+  },
+  "slug": "noble-brazilian-flour-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/noble-brazilian-flour-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:50:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "shio-cure",
+    "primaryIngredient": "fresh thyme",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Flour",
+    "descriptor": "Noble",
+    "dishForm": "Flatbread"
+  }
+}
