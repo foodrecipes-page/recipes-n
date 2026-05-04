@@ -1,0 +1,108 @@
+{
+  "title": "Nourishing Charred Malaysian Chicken Stir-fry",
+  "description": "A high-protein, one-pot stir-fry that pairs charred chicken with a sweet applesauce glaze and fresh vegetables for a quick, satisfying meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "400 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "Applesauce",
+      "amount": "120 ml",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "30 ml"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "15 ml"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "150 g"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet or wok over medium-high heat until shimmering.",
+    "Add the chicken cubes and sear for 3-4 minutes, turning until golden brown and almost cooked through.",
+    "Push the chicken to one side and add garlic and ginger, sauté for 30 seconds until fragrant.",
+    "Return the chicken to the skillet and pour in soy sauce, oyster sauce, honey, and applesauce, stirring to coat evenly.",
+    "Add the sliced bell pepper and broccoli florets, stir-frying for 4-5 minutes until vegetables are crisp-tender.",
+    "Reduce heat to medium, cover, and cook for an additional 2 minutes to allow flavors to meld.",
+    "Remove the lid, stir in a splash of water if needed to loosen sauce, and cook until sauce thickens, about 1 minute.",
+    "Taste and adjust seasoning with a pinch of salt or extra soy if desired.",
+    "Transfer the stir-fry to a talavera plate, garnish with sliced green onions.",
+    "Serve hot over steamed rice or enjoy on its own."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "applesauce",
+    "charred",
+    "gluten-free",
+    "high-protein",
+    "malaysian",
+    "meal",
+    "one-pot",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "nourishing-charred-malaysian-chicken-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-charred-malaysian-chicken-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:32:27Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "stir-fry",
+    "primaryIngredient": "applesauce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Nourishing Charred",
+    "dishForm": "Stir-fry"
+  }
+}
