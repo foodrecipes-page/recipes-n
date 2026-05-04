@@ -1,0 +1,110 @@
+{
+  "title": "Nourishing Malaysian Tofu Fried Rice",
+  "description": "Savor a fragrant, savory tofu fried rice infused with smoky caramelized onions, Dutch stroop, and aromatic Malaysian spices, perfect for a brunch that satisfies both plant-based and indulgent cravings.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "cooked jasmine rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Dutch stroop",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion, thinly sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "eggs, beaten",
+      "amount": "2"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large wok over medium-high heat until shimmering.",
+    "Add the sliced onion and saute until translucent and lightly golden.",
+    "Stir in the minced garlic and grated ginger, cooking for 30 seconds until fragrant.",
+    "Push the aromatics to the side, pour in the sesame oil, then add the cubed tofu and fry until golden on all sides, about 5 minutes.",
+    "Toss in the mixed vegetables and cook until just tender, about 3 minutes.",
+    "Push everything to the center, pour in the soy sauce and Dutch stroop, then stir to coat.",
+    "Add the cooked jasmine rice, breaking up clumps, and stir-fry for 4 minutes until well combined and heated through.",
+    "In a small bowl, beat the eggs, then pour into the wok, scrambling until just set.",
+    "Mix in optional chili slices if using, then sprinkle toasted sesame seeds.",
+    "Remove from heat, stir in chopped cilantro, and serve hot with a wedge of lime if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "comfort-food",
+    "easy-ingredients",
+    "fried-rice",
+    "malaysian",
+    "ovo-vegetarian",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 12,
+    "carbs": 32,
+    "fat": 14
+  },
+  "slug": "nourishing-malaysian-tofu-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-malaysian-tofu-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:17:51Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "smoke-cold",
+    "primaryIngredient": "dutch stroop",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Nourishing",
+    "dishForm": "Fried-Rice"
+  }
+}
