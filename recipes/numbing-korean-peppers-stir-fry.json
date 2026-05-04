@@ -1,0 +1,113 @@
+{
+  "title": "Numbing Korean Peppers Stir-fry",
+  "description": "A peppery, dense namul dish featuring pico de gallo sauce and kombu dashi for a quick weeknight dinner.",
+  "cuisine": "korean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red bell pepper",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "shallot",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "pico de gallo",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "kombu dashi extract",
+      "amount": "2 cups",
+      "notes": "vegetarian"
+    },
+    {
+      "name": "kosher soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "to garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a skillet over medium heat.",
+    "Add minced garlic and ginger and sauté for 30 seconds.",
+    "Add sliced bell pepper and shallot and stir-fry until slightly softened, about 3 minutes.",
+    "Pour in kombu dashi, soy sauce, and black pepper, bringing to a gentle simmer.",
+    "Cook the mixture until the sauce thickens and the vegetables are tender, about 5 minutes.",
+    "Fold in pico de gallo and chopped green onion, cooking for an additional 2 minutes.",
+    "Remove from heat and drizzle with a little sesame oil.",
+    "Sprinkle with sesame seeds before serving.",
+    "Plate the dish on a wooden board for an authentic presentation.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "kosher",
+    "low-carb",
+    "namul",
+    "one-pan",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 12
+  },
+  "slug": "numbing-korean-peppers-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/numbing-korean-peppers-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:46:33Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "dashi-extract",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Peppers",
+    "descriptor": "Numbing",
+    "dishForm": "Stir-fry"
+  }
+}
