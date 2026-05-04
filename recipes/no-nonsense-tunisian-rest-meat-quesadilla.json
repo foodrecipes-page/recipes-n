@@ -1,0 +1,107 @@
+{
+  "title": "No-nonsense Tunisian Rest-meat Quesadilla",
+  "description": "A fusion of Tunisian flavors and ovo-vegetarian rest-meat, perfect for a quick weeknight fix.",
+  "cuisine": "tunisian",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rest-meat",
+      "amount": "1 lb",
+      "notes": "Ground lamb or beef"
+    },
+    {
+      "name": "english mustard",
+      "amount": "2 tbsp",
+      "notes": "Dijon or whole-grain mustard"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "Other melty cheeses work too"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1/2 cup",
+      "notes": "Crushed or diced"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp",
+      "notes": "Or 1/4 cup finely chopped onion"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "1 tsp",
+      "notes": "Store-bought or homemade mix"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "For greasing the pan"
+    },
+    {
+      "name": "whole wheat tortillas",
+      "amount": "4",
+      "notes": "Large or extra-large tortillas"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp",
+      "notes": "Ground cumin"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat.",
+    "Add 1 tbsp olive oil and swirl it around to coat the pan.",
+    "Add the onion powder and cook for 1 minute, stirring constantly.",
+    "Add the rest-meat and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the English mustard, canned tomatoes, Tunisian spice blend, and cumin. Cook for 2 minutes.",
+    "Stir in the shredded cheese until it's melted and well combined with the rest-meat mixture.",
+    "Place a whole wheat tortilla in the skillet and sprinkle a quarter of the cheese-rest-meat mixture onto half of the tortilla.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes, until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes, until the other side is crispy and the cheese is melted.",
+    "Repeat with the remaining ingredients to make 3 more quesadillas.",
+    "Cut the quesadillas into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "frenchie",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "no-nonsense-tunisian-rest-meat-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/no-nonsense-tunisian-rest-meat-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T10:32:08Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "rest-meat",
+    "primaryIngredient": "english mustard",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "rest-meat",
+    "descriptor": "No-nonsense",
+    "dishForm": "Quesadilla"
+  }
+}
