@@ -1,0 +1,82 @@
+{
+  "title": "Nourishing Crispy Irish Snap Peas Grill",
+  "description": "A bright, crispy snap pea dish roasted on a robata grill, seasoned with Irish-inspired flavors and served from a kazan cauldron for a hearty brunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sugar snap peas",
+      "amount": "500 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "toasted almond slivers",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to high heat for 5 minutes.",
+    "Rinse the sugar snap peas and pat them dry with a clean towel.",
+    "Toss the peas with olive oil, sea salt, smoked paprika, and lemon zest until evenly coated.",
+    "Spread the peas in a single layer on the grill grates and cook for 3-4 minutes per side until crispy and lightly charred.",
+    "While the peas are grilling, toast almond slivers in a dry skillet until golden.",
+    "Remove the peas from the grill and transfer them to a heat‑proof kazan cauldron.",
+    "Sprinkle chopped mint and toasted almonds over the peas, stirring gently to combine.",
+    "Serve hot, garnished with an extra sprinkle of mint and a squeeze of fresh lemon juice if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "irish",
+    "breakfast"
+  ],
+  "slug": "nourishing-crispy-irish-snap-peas-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-crispy-irish-snap-peas-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:20:57Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "robata-grill",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "snap peas",
+    "descriptor": "Nourishing Crispy",
+    "dishForm": "Grill"
+  }
+}
