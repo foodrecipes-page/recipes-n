@@ -1,0 +1,95 @@
+{
+  "title": "Naturally Crunchy Welsh Berries Eton Mess",
+  "description": "A crunchy and refreshing dessert featuring ground cardamom and yuzu-cure, perfect for warm weather gatherings. This raw-friendly Eton mess is a crowd-pleaser with its herbal notes and crunchy texture.",
+  "cuisine": "British",
+  "diet": [
+    "raw",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh mixed berries",
+      "amount": "2 cups",
+      "notes": "such as strawberries, blueberries, and raspberries"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crunchy granola",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the fresh mixed berries, ground cardamom, and yuzu juice until well combined.",
+    "In a small bowl, mix together the honey and chopped fresh mint leaves until well combined.",
+    "Add the honey and mint mixture to the berry mixture and stir until the honey is fully incorporated.",
+    "In a separate bowl, whip the whipped cream until stiff peaks form.",
+    "Fold the whipped cream into the berry mixture until no white streaks remain.",
+    "Sprinkle the crunchy granola over the top of the berry mixture.",
+    "Garnish with additional chopped fresh mint leaves and yuzu zest if desired.",
+    "Chill in the refrigerator for at least 30 minutes before serving.",
+    "Serve cold and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleaser",
+    "crunchy",
+    "gluten-free",
+    "raw-friendly",
+    "refreshing",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "naturally-crunchy-welsh-berries-eton-mess",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-crunchy-welsh-berries-eton-mess",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:33:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "ground cardomom",
+    "diet": "raw",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "berries",
+    "descriptor": "Naturally Crunchy",
+    "dishForm": "Eton Mess"
+  }
+}
