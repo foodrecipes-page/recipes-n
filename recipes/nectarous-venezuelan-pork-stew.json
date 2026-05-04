@@ -1,0 +1,104 @@
+{
+  "title": "Nectarous Venezuelan Pork Stew",
+  "description": "A winey, molten stew that blends pork shoulder with namul greens and a tropical tamarind-coconut spice mix, ideal for an ovo-vegetarian night.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder steaks",
+      "amount": "800 g",
+      "notes": "about 200 g per steak"
+    },
+    {
+      "name": "White wine",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "30 ml"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "15 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "5 g"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "5 g"
+    },
+    {
+      "name": "Namul blanch-season (mixed greens)",
+      "amount": "150 g"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium-high heat until shimmering.",
+    "Add pork steaks and sear each side until browned, about 3 minutes per side, then remove and set aside.",
+    "In the same pot, sauté onion and garlic until translucent, about 2 minutes.",
+    "Stir in cumin, smoked paprika, and tamarind paste, cooking for 30 seconds to release aromas.",
+    "Pour in white wine, bring to a simmer, and let it reduce by half, about 5 minutes.",
+    "Add coconut milk and soy sauce, stirring to combine, then return pork to the pot.",
+    "Cover and simmer on low heat for 45 minutes, or until pork is tender and juices have thickened.",
+    "While pork cooks, blanch the namul greens in boiling water for 1 minute, then shock in ice water and drain.",
+    "Stir the blanched namul into the stew during the last 5 minutes of cooking.",
+    "Serve hot over white rice or with crusty bread, garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "monsoon",
+    "one-pot",
+    "ovo-vegetarian",
+    "pork-stew",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 30
+  },
+  "slug": "nectarous-venezuelan-pork-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nectarous-venezuelan-pork-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:29:16Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pork",
+    "descriptor": "Nectarous",
+    "dishForm": "Stew"
+  }
+}
