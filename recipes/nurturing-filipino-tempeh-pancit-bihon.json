@@ -1,0 +1,112 @@
+{
+  "title": "Nurturing Filipino Tempeh Pancit Bihon",
+  "description": "A comforting herb-infused pancit that blends crispy tempeh with fresh vegetables and silky rice noodles for a cozy meal.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "medium sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "medium julienned"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "small sliced"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cooked bihon noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Slice tempeh into 1/2-inch cubes and marinate with coconut aminos, minced garlic, and grated ginger for 5 minutes.",
+    "Heat sesame oil in a large pan over medium heat and saute the tempeh cubes until golden brown, about 6 minutes.",
+    "Remove the tempeh and set aside; in the same pan add sliced bell pepper, julienned carrot, and sliced onion, cooking until just tender, about 5 minutes.",
+    "Stir in bean sprouts and cook for another 2 minutes.",
+    "Add the cooked noodles to the pan, pouring in coconut aminos and a splash of water, then stir to combine.",
+    "Return the tempeh to the pan, season with salt and pepper, and cook for an additional 3 minutes to let flavors meld.",
+    "Transfer the pancit to a serving dish and garnish with sliced scallions and toasted sesame seeds.",
+    "Serve hot, optionally squeezing a little lime juice over the top for brightness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cozy",
+    "herbal",
+    "pancit",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "nurturing-filipino-tempeh-pancit-bihon",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nurturing-filipino-tempeh-pancit-bihon",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:19:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "score-fat",
+    "primaryIngredient": "tempeh",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Tempeh",
+    "descriptor": "Nurturing",
+    "dishForm": "Pancit Bihon"
+  }
+}
