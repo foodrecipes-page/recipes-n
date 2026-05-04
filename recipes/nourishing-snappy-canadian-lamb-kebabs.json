@@ -1,0 +1,99 @@
+{
+  "title": "Nourishing Snappy Canadian Lamb Kebabs",
+  "description": "A romantic Canadian dish featuring lamb, with a winey and snappy flavor, perfect for a dinner date, and friendly to dairy-free diets.",
+  "cuisine": "Canadian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together red wine, olive oil, garlic, rosemary, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Grill the lamb kebabs for 8-10 minutes, turning occasionally, until they reach an internal temperature of 145 degrees Fahrenheit.",
+    "While the lamb is grilling, prepare the namul by blanching it in boiling water for 30 seconds, then seasoning it with lemon juice and salt.",
+    "Once the lamb is cooked, let it rest for 5 minutes before serving with the namul and your choice of sides.",
+    "Serve the lamb kebabs hot, garnished with additional rosemary sprigs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "nourishing-snappy-canadian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-snappy-canadian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:21:15Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "lamb",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lamb",
+    "descriptor": "nourishing snappy",
+    "dishForm": "Kebabs"
+  }
+}
