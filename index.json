@@ -2494,6 +2494,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-kenyan-pickle-curry",
+    "title": "Nutty Kenyan Pickle Curry",
+    "tags": [
+      "coconut-milk-based",
+      "jain-friendly",
+      "kenyan-cuisine",
+      "peanut-butter-based",
+      "pickle-relish",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-light-almond-crumble",
     "title": "Nutty, Light Almond Crumble",
     "tags": [
