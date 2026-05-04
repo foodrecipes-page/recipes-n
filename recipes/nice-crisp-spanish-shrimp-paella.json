@@ -1,0 +1,95 @@
+{
+  "title": "Nice Crisp Spanish Shrimp Paella",
+  "description": "A salty and crisp Spanish dish featuring shrimp and Thai sweet basil, cooked in a traditional ttukbaegi earthenware pot, following ayurvedic sattvic friendly principles.",
+  "cuisine": "Spanish",
+  "diet": [
+    "sattvic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a ttukbaegi earthenware pot over medium-high heat.",
+    "Add the shrimp and cook until pink and just cooked through, about 2-3 minutes per side.",
+    "Remove the shrimp from the pot and set aside.",
+    "Add the smoked paprika and salt to the pot and stir for 1 minute.",
+    "Add the Arborio rice to the pot and stir to coat the rice in the oil and spice mixture.",
+    "Add the water to the pot and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Stir in the chopped Thai sweet basil and lemon juice.",
+    "Return the cooked shrimp to the pot and stir to combine.",
+    "Cook for an additional 2 minutes or until the shrimp are heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pot",
+    "sattvic-friendly",
+    "seafood",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "nice-crisp-spanish-shrimp-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-crisp-spanish-shrimp-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:14:58Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "shrimp",
+    "descriptor": "Nice Crisp",
+    "dishForm": "Paella"
+  }
+}
