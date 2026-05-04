@@ -1,0 +1,108 @@
+{
+  "title": "Nostalgic Kenyan Vegetables Wrap",
+  "description": "A funky, light, nostalgic Kenyan wrap grilled on banana leaves, seasoned with rice vinegar and peanut butter.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "banana leaves",
+      "amount": "2 large"
+    },
+    {
+      "name": "cooked brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    }
+  ],
+  "instructions": [
+    "Rinse banana leaves until clean, then pat dry and lay flat on a heatproof surface.",
+    "Heat a grill or skillet over medium-high heat and lightly oil the surface.",
+    "Spread 1 cup cooked rice onto each banana leaf, forming a thin layer about 1 inch thick.",
+    "Evenly distribute sliced carrots, bell pepper, shredded cabbage, and cucumber over the rice.",
+    "In a small bowl, whisk together rice vinegar, soy sauce, peanut butter, grated ginger, and minced garlic until smooth.",
+    "Drizzle the sauce mixture over the vegetables on each leaf and sprinkle toasted sesame seeds.",
+    "Fold the banana leaf over the filling, sealing edges with a teaspoon of water, then grill each wrap for 3-4 minutes per side until the leaf is slightly charred.",
+    "Remove from heat, let rest 1 minute, then unwrap to serve warm.",
+    "Optionally sprinkle chili flakes for heat.",
+    "Serve immediately with a side of fresh lime wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "banana-leaf",
+    "grilled",
+    "kitchen-innovation",
+    "low-calorie",
+    "quick-meal",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 5
+  },
+  "slug": "nostalgic-kenyan-vegetables-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-kenyan-vegetables-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:04:13Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "rice vinegar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Nostalgic",
+    "dishForm": "Wrap"
+  }
+}
