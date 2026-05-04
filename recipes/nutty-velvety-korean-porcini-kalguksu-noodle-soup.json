@@ -1,0 +1,114 @@
+{
+  "title": "Nutty Velvety Korean Porcini Kalguksu Noodle Soup",
+  "description": "A hearty, comforting Korean noodle soup featuring porcini mushrooms and a rich, nutty flavor profile, suitable for meal prep and low-carb diets.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Porcini mushrooms",
+      "amount": "8 oz",
+      "notes": "Fresh or dried, rehydrated according to package instructions"
+    },
+    {
+      "name": "Kalguksu noodles",
+      "amount": "12 oz",
+      "notes": " Korean hand-cut wheat flour noodles, or substitute with soba or rice noodles"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": " toasted and fragrant"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": " Korean chili paste, fermented in soybean paste, rice, and red pepper flakes"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": " sliced and toasted until fragrant"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced and toasted until fragrant"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": " light or dark, choose your flavor profile"
+    },
+    {
+      "name": "Korean chili paste",
+      "amount": "1 tbsp",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": " chopped, for garnish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp",
+      "notes": " toasted and fragrant, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large saucepan over medium heat.",
+    "Sear porcini mushrooms until fragrant, about 3 minutes.",
+    "Add Korean chili flakes, if using, and cook for an additional minute.",
+    "Add gochujang, soy sauce, and Korean chili paste, if using, and stir to combine.",
+    "Add sliced ginger and minced garlic, and cook until fragrant, about 2 minutes.",
+    "Add kalguksu noodles and stir to combine, cooking for an additional 2-3 minutes, or until noodles are tender but still retain some texture.",
+    "Season with toasted sesame oil and serve hot, garnished with chopped scallions and toasted sesame seeds."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kalguksu",
+    "korean",
+    "low-carb",
+    "meal-prep",
+    "noodle-soup",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "nutty-velvety-korean-porcini-kalguksu-noodle-soup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-velvety-korean-porcini-kalguksu-noodle-soup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:54:38Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "smoke",
+    "primaryIngredient": "porcini",
+    "diet": "low-carb",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "porcini",
+    "descriptor": "nutty velvety",
+    "dishForm": "Kalguksu Noodle Soup"
+  }
+}
