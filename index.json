@@ -2739,6 +2739,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutrient-rich-turkish-lamb-tagine",
+    "title": "Nutrient-rich Turkish Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "tagine",
+      "whole30-friendly"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 140,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-bitter-argentinian-rice-stew",
     "title": "Nutritious Bitter Argentinian Rice Stew",
     "tags": [
@@ -2840,6 +2855,20 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-nighttime-arepa-hash",
+    "title": "Nutritious Nighttime Arepa Hash",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "veggie-packed",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {

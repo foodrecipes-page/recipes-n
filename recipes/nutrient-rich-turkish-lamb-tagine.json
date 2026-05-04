@@ -1,0 +1,124 @@
+{
+  "title": "Nutrient-rich Turkish Lamb Tagine",
+  "description": "A comforting and nutritious dish featuring tender lamb, tangy buttermilk, and a sweet lacquer glaze, all within a Whole30-friendly recipe.",
+  "cuisine": "turkish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 300°F (150°C).",
+    "Rinse the lamb shoulder and pat it dry with paper towels.",
+    "Season the lamb with salt, black pepper, and cumin.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Sear the lamb until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the diced onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the buttermilk to the pot and stir to combine.",
+    "Return the lamb to the pot and bring the mixture to a simmer.",
+    "Transfer the pot to the preheated oven and braise the lamb for 2 hours, or until tender.",
+    "Remove the lamb from the pot and set it aside to rest.",
+    "Skim the fat from the surface of the sauce and stir in the sugar and lacquer glaze.",
+    "Serve the lamb with the sauce spooned over the top and garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "tagine",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 10,
+    "fat": 39
+  },
+  "slug": "nutrient-rich-turkish-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutrient-rich-turkish-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T12:44:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "buttermilk",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Nutrient-rich",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Nutritious Nighttime Arepa Hash",
+  "description": "A flavorful, paleo-friendly Venezuelan dish made with ginger garlic paste, tadka, and crispy arepas.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "arepas",
+      "amount": "4",
+      "notes": "preferably paleo-friendly, made from corn flour"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "canned black beans, drained and rinsed",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "diced red onion",
+      "amount": "1",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "plus extra for garnish"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "for frying the arepas"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tsp",
+      "notes": "for serving, store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the diced red onion and cook until translucent, about 3-4 minutes.",
+    "Add the ginger garlic paste and cook for 1 minute, stirring constantly.",
+    "Add the canned black beans and tadka spice blend, and stir to combine.",
+    "Cut the arepas in half and fry in the skillet until crispy and golden, about 2-3 minutes per side.",
+    "Transfer the fried arepas to a plate and top with the black bean mixture.",
+    "Garnish with chopped fresh cilantro and serve with a dollop of mustard on the side.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "veggie-packed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 22,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "nutritious-nighttime-arepa-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-nighttime-arepa-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T12:45:14Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "tadka",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": null,
+    "descriptor": "Nutritious",
+    "dishForm": "Hash"
+  }
+}
