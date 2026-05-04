@@ -1,0 +1,93 @@
+{
+  "title": "Naturally Smoked Argentinian Beef Skewers",
+  "description": "Roasted, juicy, indulgent Argentinian dish featuring vinegar, smoke, and satvik-friendly ingredients, this recipe is perfect for a special occasion",
+  "cuisine": "Argentinian",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "preferably grass fed"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wood chips",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together apple cider vinegar, olive oil, smoked paprika, garlic powder, salt, and black pepper",
+    "Add the beef strips to the bowl and marinate for at least 30 minutes",
+    "Thread the marinated beef strips onto skewers",
+    "Place the skewers on the grill and cook for 10 minutes per side",
+    "Add wood chips to the grill to infuse a smoky flavor",
+    "Cook for an additional 5 minutes or until the beef reaches an internal temperature of 145 degrees Fahrenheit",
+    "Let the skewers rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "smoked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "naturally-smoked-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoked-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:24:03Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "smoke",
+    "primaryIngredient": "vinegar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "naturally smoked",
+    "dishForm": "Skewers"
+  }
+}
