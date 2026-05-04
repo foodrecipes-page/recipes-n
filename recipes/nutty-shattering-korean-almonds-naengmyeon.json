@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Shattering Korean Almonds Naengmyeon",
+  "description": "A cold buckwheat noodle dish with crunchy fried almonds and a spicy, tangy broth that shatters with every bite.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat noodles",
+      "amount": "400g",
+      "notes": "dry"
+    },
+    {
+      "name": "raw almonds",
+      "amount": "200g"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "30g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1l"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3tbsp"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "agave syrup",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the buckwheat noodles according to package instructions until al dente, then drain, rinse with cold water, and set aside.",
+    "Heat sesame oil in a skillet over medium-high heat, add raw almonds, and stir-fry until golden brown and fragrant, about 3-4 minutes, then remove and set aside to cool.",
+    "Whisk together soy sauce, gochugaru, minced ginger, minced garlic, rice vinegar, agave syrup, and a splash of lemon juice to make the spicy sauce.",
+    "Pour vegetable broth into a saucepan, bring to a gentle simmer, and add the spicy sauce mixture, stirring until well combined.",
+    "Transfer the simmering broth into a serving bowl, add the drained noodles, and pour the broth over the noodles until they are fully submerged.",
+    "Sprinkle toasted sesame seeds and fried almonds on top of the noodles, then garnish with julienned cucumber, carrot, and sliced scallions for freshness.",
+    "Optionally, add a few thin radish slices or a sprinkle of chopped cilantro and mint for extra aroma.",
+    "Chill the assembled naengmyeon in the refrigerator for at least 30 minutes before serving.",
+    "When ready to serve, give the bowl a quick stir to mix the flavors and enjoy the nutty, shattering crunch with a spicy, refreshing broth."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "cold-dish",
+    "jain-friendly",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 775,
+    "protein": 25,
+    "carbs": 90,
+    "fat": 35
+  },
+  "slug": "nutty-shattering-korean-almonds-naengmyeon",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-shattering-korean-almonds-naengmyeon",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:56:25Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "mixed spice",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Almonds",
+    "descriptor": "Nutty Shattering",
+    "dishForm": "Naengmyeon"
+  }
+}
