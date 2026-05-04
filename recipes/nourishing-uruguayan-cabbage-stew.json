@@ -1,0 +1,106 @@
+{
+  "title": "Nourishing Uruguayan Cabbage Stew",
+  "description": "A fermented, chewy stew that blends napa cabbage with a warm pasta‑water emulsion, wrapped in a cedar plank for a smoky finish. It is shojin‑friendly and comforting.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "shojin-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Napa cabbage",
+      "amount": "1 head",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Firm tofu",
+      "amount": "100 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "Chili pepper",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C and lightly oil a cedar plank.",
+    "Combine sliced cabbage, minced garlic, grated ginger, soy sauce, miso, rice vinegar, sugar, and sesame oil in a mixing bowl until evenly coated.",
+    "Spread the seasoned cabbage mixture evenly onto the prepared cedar plank.",
+    "Pour vegetable broth over the cabbage, ensuring it covers the surface.",
+    "Place the cedar plank with cabbage into the preheated oven and bake for 25 minutes.",
+    "Remove the plank, stir in cubed tofu and sliced chili pepper, and return to oven for an additional 35 minutes until the cabbage is tender and the broth has reduced to a thick emulsion.",
+    "Remove from oven and let it rest for 10 minutes to allow flavors to meld.",
+    "Serve hot, garnished with extra sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "comfort-food",
+    "fermented",
+    "shojin-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "nourishing-uruguayan-cabbage-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-uruguayan-cabbage-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:00:45Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "napa cabbage",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cabbage",
+    "descriptor": "Nourishing",
+    "dishForm": "Stew"
+  }
+}
