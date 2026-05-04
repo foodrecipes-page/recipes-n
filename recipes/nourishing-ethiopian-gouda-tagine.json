@@ -1,0 +1,100 @@
+{
+  "title": "Nourishing Ethiopian Gouda Tagine",
+  "description": "A cultured and creamy Ethiopian dish featuring Gouda cheese, made vegan-friendly by using plant-based alternatives, and traditionally prepared in an earthenware bowl.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda cheese alternative",
+      "amount": "1 cup",
+      "notes": "such as vegan Gouda or cashew cheese"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "earthenware bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Pound the onions, garlic, and ginger in a mortar and pestle until well combined.",
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the pounded onion mixture to the saucepan and cook until the onions are translucent.",
+    "Stir in the berbere spice and cook for 1 minute.",
+    "Add the Gouda cheese alternative to the saucepan and stir until melted and smooth.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the tagine to the earthenware bowl and serve hot.",
+    "Garnish with chopped fresh herbs, such as parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "earthenware",
+    "ethiopian",
+    "gouda",
+    "one-pot",
+    "tagine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "nourishing-ethiopian-gouda-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-ethiopian-gouda-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:28:41Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "gouda cheese",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "gouda cheese",
+    "descriptor": "nourishing creamy",
+    "dishForm": "Tagine"
+  }
+}
