@@ -1,0 +1,117 @@
+{
+  "title": "Nurturing Irish Rice Pilaf",
+  "description": "A grassy, crisp Irish rice pilaf cooked on a cedar plank. It blends earthy greens and dried cranberries for a macrobiotic-friendly dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "kale",
+      "amount": "1 cup",
+      "notes": "stems removed"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F and line a baking sheet with parchment paper.",
+    "Place a cedar-plank on the prepared sheet and lightly oil it with a small amount of olive oil.",
+    "Rinse brown rice under cold water until clear, then drain.",
+    "In a large skillet, heat 1 tablespoon olive oil over medium heat and sauté onion and garlic until translucent, about 3 minutes.",
+    "Add sliced mushrooms to the skillet and cook until softened, about 4 minutes.",
+    "Stir in rinsed rice, vegetable broth, thyme, salt, and pepper; bring to a simmer.",
+    "Transfer the rice mixture onto the cedar plank, spreading it evenly.",
+    "Bake in the preheated oven for 25 minutes, then remove and stir in kale, cranberries, and parsley; return to oven for another 10 minutes until rice is tender and liquid absorbed.",
+    "Remove from oven, let rest 5 minutes, then sprinkle toasted sesame seeds if using.",
+    "Slice the cedar plank into serving portions and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "crisp",
+    "date-night",
+    "grassy",
+    "irish",
+    "macrobiotic-friendly",
+    "rice-pilaf"
+  ],
+  "nutrition": {
+    "calories": 292,
+    "protein": 3,
+    "carbs": 49,
+    "fat": 5
+  },
+  "slug": "nurturing-irish-rice-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nurturing-irish-rice-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:42:06Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "reduce",
+    "primaryIngredient": "rice",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "rice",
+    "descriptor": "Nurturing",
+    "dishForm": "Pilaf"
+  }
+}
