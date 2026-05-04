@@ -989,6 +989,19 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-aerated-irish-bellflower-root-doraji-confit",
+    "title": "Nostalgic Aerated Irish Bellflower-Root-Doraji Confit",
+    "tags": [
+      "comfort-food",
+      "irish",
+      "one-pan",
+      "pescatarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 32,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgic-algerian-fish-tagine",
     "title": "Nostalgic Algerian Fish Tagine",
     "tags": [
@@ -5762,6 +5775,20 @@
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-moroccan-fish-sellou",
+    "title": "Nutty Moroccan Fish Sellou",
+    "tags": [
+      "fish",
+      "flexitarian",
+      "moroccan",
+      "sous-vide",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {

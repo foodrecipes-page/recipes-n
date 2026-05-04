@@ -1,0 +1,97 @@
+{
+  "title": "Nostalgic Aerated Irish Bellflower-Root-Doraji Confit",
+  "description": "A nostalgic Irish dish featuring bellflower-root-doraji, confit-tomato, and a hint of sea salt, perfect for a pescatarian-friendly dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Doraji",
+      "amount": "2 bulbs",
+      "notes": "Peel and slice the bulb into 1-inch thick rounds."
+    },
+    {
+      "name": "Confit Tomato",
+      "amount": "1 cup",
+      "notes": "Canned confit tomato, drained and chopped."
+    },
+    {
+      "name": "Guanciale",
+      "amount": "6 slices",
+      "notes": "Irish bacon, diced."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted."
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1 teaspoon",
+      "notes": "Flaky."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground."
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "Whipped."
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the diced guanciale and cook until crispy, about 3 minutes.",
+    "Add the sliced doraji and cook until tender, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish",
+    "one-pan",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 26
+  },
+  "slug": "nostalgic-aerated-irish-bellflower-root-doraji-confit",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-aerated-irish-bellflower-root-doraji-confit",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:10Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "bellflower-root-doraji",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "bellflower-root-doraji",
+    "descriptor": "Nostalgic Aerated",
+    "dishForm": "Confit"
+  }
+}

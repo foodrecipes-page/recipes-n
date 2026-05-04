@@ -1,0 +1,81 @@
+{
+  "title": "Nutty Moroccan Fish Sellou",
+  "description": "A light and fluffy Moroccan dish featuring fish sauce and sous-vide cooked fish, suitable for flexitarian diets. Serve warm with a sprinkle of toasted almonds.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 quart",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce (aekjeot)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "1/2 cup",
+      "notes": "",
+      "note": "toasted"
+    }
+  ],
+  "instructions": [
+    "Season the cod fillets with salt and pepper.",
+    "Place the cod fillets in a sous-vide machine at 120°F (49°C) for 30 minutes.",
+    "While the fish is cooking, toast the almonds in a pan over low heat, stirring frequently.",
+    "Combine the fish sauce, water, and a pinch of salt in a saucepan, and heat over low heat, stirring occasionally.",
+    "Once the fish is cooked, remove it from the sous-vide machine and place it on a plate.",
+    "Drizzle the fish sauce mixture over the fish.",
+    "Sprinkle the toasted almonds over the top of the fish.",
+    "Serve warm and enjoy.",
+    "Garnish with fresh parsley, if desired.",
+    "Note: Traditionally, sellou dishes are served with a sweet sauce, but this recipe omits that for a savory flavor.",
+    "Note: Adjust the amount of fish sauce to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "flexitarian",
+    "moroccan",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "nutty-moroccan-fish-sellou",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-moroccan-fish-sellou",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:32Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "fish",
+    "descriptor": "nutty",
+    "dishForm": "Sellou"
+  }
+}
