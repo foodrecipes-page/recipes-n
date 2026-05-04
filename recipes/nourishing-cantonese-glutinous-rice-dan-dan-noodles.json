@@ -1,0 +1,107 @@
+{
+  "title": "Nourishing Cantonese Glutinous Rice Dan Dan Noodles",
+  "description": "Earthy, flaky, and romantic Cantonese noodles made from glutinous rice flour, infused with savory soy, oyster sauce, and a subtle kick of Sichuan peppercorn oil, diabetic-friendly and perfect for lunch.",
+  "cuisine": "cantonese",
+  "diet": [
+    "low-sugar",
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "glutinous rice flour",
+      "amount": "120 g"
+    },
+    {
+      "name": "water",
+      "amount": "100 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions, sliced",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground peanuts",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sichuan peppercorn oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200 ml"
+    }
+  ],
+  "instructions": [
+    "Mix glutinous rice flour, salt, and water to form a smooth dough; knead until elastic; cover and rest for 10 minutes.",
+    "Steam the dough in a steamer for 15 minutes; let it cool, roll into thin sheets, and cut into noodle strands.",
+    "Heat sesame oil in a wok over medium heat; add minced garlic and ginger; stir-fry until fragrant.",
+    "Add vegetable broth, soy sauce, and oyster sauce to the wok; bring to a gentle simmer.",
+    "Toss the steamed noodles into the broth; gently stir to coat all strands.",
+    "Stir in ground peanuts, sliced scallions, and Sichuan peppercorn oil; cook for 2 minutes until heated through.",
+    "Transfer the noodles into serving bowls; drizzle a little extra chili bean paste if desired; garnish with additional scallions.",
+    "Serve hot and enjoy the comforting flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cantonese",
+    "diabetic-friendly",
+    "glutinous-rice",
+    "low-sugar",
+    "noodles",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 8
+  },
+  "slug": "nourishing-cantonese-glutinous-rice-dan-dan-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-cantonese-glutinous-rice-dan-dan-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:26:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "diabetic-friendly",
+    "region": "cantonese",
+    "cuisineAdjective": "Cantonese",
+    "mainIngredient": "Glutinous Rice",
+    "descriptor": "Nourishing",
+    "dishForm": "Dan Dan Noodles"
+  }
+}
