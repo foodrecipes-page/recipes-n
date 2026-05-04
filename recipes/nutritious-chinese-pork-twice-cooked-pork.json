@@ -1,0 +1,103 @@
+{
+  "title": "Nutritious Chinese Pork Twice Cooked Pork",
+  "description": "A traditional Chaozhou dish featuring twice-cooked pork, fermented ingredients, and a cheese-pull effect, made with yellow masarepa and low-sodium seasonings. This recipe is a one-pot wonder, perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "yellow masarepa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fermented bean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pot, combine pork belly, low-sodium soy sauce, rice vinegar, sugar, ginger, and salt, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 1 hour, or until the pork is tender.",
+    "Remove the pork from the pot and let it cool, then slice it into thin strips.",
+    "In the same pot, add the fermented bean paste and cook over medium heat, stirring constantly, until fragrant.",
+    "Add the sliced pork back into the pot and stir to combine with the fermented bean paste.",
+    "Sprinkle the yellow masarepa over the top of the pork and stir to combine.",
+    "Transfer the pot to the preheated oven and bake for 20 minutes, or until the masarepa is golden brown and the pork is crispy.",
+    "Remove the pot from the oven and sprinkle with chopped scallions and black pepper.",
+    "Serve the twice-cooked pork hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 80,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "comfort-food",
+    "low-sodium",
+    "one-pot",
+    "pork-recipes",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "nutritious-chinese-pork-twice-cooked-pork",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-chinese-pork-twice-cooked-pork",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:08:24Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "salt-bake",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "low-sodium",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Nutritious",
+    "dishForm": "Twice Cooked Pork"
+  }
+}
