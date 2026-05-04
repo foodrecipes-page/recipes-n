@@ -1,0 +1,103 @@
+{
+  "title": "Nicely Browned Slovakian Pork Roast",
+  "description": "A comforting, savory, and flaky Slovakian dish featuring barbeque sauce and caramelized onions. Perfect for a Sunday dinner.",
+  "cuisine": "slovakian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, boneless",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "onion, yellow",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic, 3 cloves",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "barbeque sauce",
+      "amount": "250 ml",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened applesauce",
+      "amount": "2 tbsp",
+      "notes": "helps to keep the meat moist"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 160°C (325°F).",
+    "Rub the pork shoulder with salt, black pepper, and caraway seeds, then coat with flour.",
+    "Heat a large skillet over medium-high heat, add oil and brown the pork shoulder on all sides, about 5 minutes per side.",
+    "Transfer the pork to a roasting pan, add sliced onions and garlic around the pork, and pour in the barbeque sauce.",
+    "Cover the pan with a lid and roast in the preheated oven for 2 hours, or until the pork is tender and the onions are caramelized.",
+    "Remove the pork from the oven and let it rest for 10 minutes before slicing it thinly against the grain.",
+    "Serve the pork with the caramelized onions and applesauce.",
+    "Serve with your favorite sides, such as mashed potatoes or braised red cabbage.",
+    "Chill any leftovers in the refrigerator within 2 hours of cooking and reheat safely to 74°C (165°F)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "pork",
+    "roast",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 60,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "nicely-browned-slovakian-pork-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nicely-browned-slovakian-pork-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:12:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "caramelize",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Pork",
+    "descriptor": "Nicely Browned",
+    "dishForm": "Roast"
+  }
+}
