@@ -1,0 +1,107 @@
+{
+  "title": "Nutritious Smoky Kenyan Corn Arepa Quesadilla",
+  "description": "Charred, fluffy Kenyan corn arepas filled with melted mozzarella and a smoky seasoning, a hangover cure packed with nutrients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50 g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "water",
+      "amount": "150 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "150 g"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Whisk the corn flour, all-purpose flour, salt, baking powder, black pepper, smoked paprika, and garlic powder in a bowl.",
+    "Add the water and mix until a soft dough forms, then let it rest for 5 minutes.",
+    "Heat a nonstick skillet over medium heat and drizzle a thin layer of olive oil.",
+    "Roll the dough into thin circles about 6 inches in diameter and cook each side until golden and charred, about 2 minutes per side.",
+    "Sprinkle shredded mozzarella cheese evenly over one half of each arepa while still warm.",
+    "Fold the other half over the cheese and press gently to seal.",
+    "Continue cooking the folded arepas for another 2 minutes until the cheese melts.",
+    "Remove from skillet and let them cool slightly before cutting into wedges.",
+    "Garnish the wedges with fresh cilantro and a squeeze of lime juice.",
+    "Serve immediately and enjoy the smoky, comforting flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-cure",
+    "kenyan",
+    "quick",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "nutritious-smoky-kenyan-corn-arepa-quesadilla",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-smoky-kenyan-corn-arepa-quesadilla",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:06:27Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "corn arepa",
+    "descriptor": "Nutritious Smoky",
+    "dishForm": "quesadilla"
+  }
+}

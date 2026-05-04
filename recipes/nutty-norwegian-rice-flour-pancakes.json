@@ -1,0 +1,99 @@
+{
+  "title": "Nutty Norwegian Rice Flour Pancakes",
+  "description": "Savory Norwegian rice flour pancakes served in a molcajete, perfect for a flexitarian brunch",
+  "cuisine": "Norwegian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups",
+      "notes": "preferably Norwegian short grain rice flour"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Combine rice flour, all purpose flour, and salt in a large bowl",
+    "Whisk together eggs, milk, and water in a separate bowl",
+    "Add the melted butter to the egg mixture and whisk until smooth",
+    "Add the wet ingredients to the dry ingredients and stir until just combined",
+    "Fold in the chopped walnuts and parsley",
+    "Heat a non stick skillet or griddle over medium heat",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle",
+    "Cook the pancakes for 2-3 minutes on the first side, until bubbles appear on the surface",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown",
+    "Serve the pancakes in a molcajete with your choice of toppings, such as sour cream or jam"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-ideas",
+    "brunch-ideas",
+    "flexitarian-friendly",
+    "norwegian-cuisine",
+    "rice-flour-recipes",
+    "walnut-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "nutty-norwegian-rice-flour-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-norwegian-rice-flour-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:05:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "reduce",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "rice flour",
+    "descriptor": "nutty pillowy",
+    "dishForm": "Pancakes"
+  }
+}

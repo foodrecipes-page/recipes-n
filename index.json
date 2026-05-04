@@ -1640,6 +1640,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-smoky-kenyan-corn-arepa-quesadilla",
+    "title": "Nutritious Smoky Kenyan Corn Arepa Quesadilla",
+    "tags": [
+      "hangover-cure",
+      "kenyan",
+      "quick",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
     "slug": "nutsuki-crunch",
     "title": "Nutsuki Crunch",
     "tags": [
@@ -3489,6 +3503,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-norwegian-rice-flour-pancakes",
+    "title": "Nutty Norwegian Rice Flour Pancakes",
+    "tags": [
+      "breakfast-ideas",
+      "brunch-ideas",
+      "flexitarian-friendly",
+      "norwegian-cuisine",
+      "rice-flour-recipes",
+      "walnut-recipes"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
