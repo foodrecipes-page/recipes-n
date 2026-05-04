@@ -1,0 +1,108 @@
+{
+  "title": "Numbing Brazilian Paneer Curry",
+  "description": "A fiery Brazilian-inspired paneer curry that blends shiso leaves, a fiery temper, and Ayurvedic sattvic-friendly ingredients into a cheese-pull, weeknight delight.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "200g"
+    },
+    {
+      "name": "Shiso leaves",
+      "amount": "8 leaves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pot over medium heat until shimmering.",
+    "Add cumin and mustard seeds, letting them crackle for 30 seconds.",
+    "Stir in minced garlic, grated ginger, and shiso leaves, cooking until fragrant, about 1 minute.",
+    "Add red chili powder and turmeric, mixing well to coat the aromatics.",
+    "Pour in coconut milk and fresh lime juice, bringing the mixture to a gentle simmer.",
+    "Gently fold in cubed paneer, then cover and simmer for 5 minutes to allow flavors to meld.",
+    "Season with salt to taste, adjusting the balance of spice and acidity.",
+    "Reduce heat to low, letting the curry thicken slightly while keeping the paneer soft.",
+    "Serve hot, garnishing with extra shiso leaves and a squeeze of lime if desired.",
+    "Pair with steamed rice or warm flatbread for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "cheese-pull",
+    "one-pot",
+    "sattvic",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 8,
+    "carbs": 3,
+    "fat": 26
+  },
+  "slug": "numbing-brazilian-paneer-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/numbing-brazilian-paneer-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:07:23Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "temper",
+    "primaryIngredient": "shiso-leaf",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Paneer",
+    "descriptor": "Numbing",
+    "dishForm": "Curry"
+  }
+}
