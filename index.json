@@ -1740,6 +1740,22 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-uruguayan-chicken-ceviche",
+    "title": "Nourishing Uruguayan Chicken Ceviche",
+    "tags": [
+      "antipasto",
+      "buttery",
+      "chicken",
+      "high-protein",
+      "solo-dinner",
+      "spherify",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 28,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-uruguayan-corn-wrap",
     "title": "Nourishing Uruguayan Corn Wrap",
     "tags": [
@@ -2766,6 +2782,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-ethiopian-fish-tacos",
+    "title": "Nutty Crispy Ethiopian Fish Tacos",
+    "tags": [
+      "crispy",
+      "ethiopian",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {

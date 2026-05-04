@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Crispy Ethiopian Fish Tacos",
+  "description": "A fatty and crispy Ethiopian dish featuring pink food coloring and kombu-cold-extract, perfect for a sick day, pescatarian-friendly fish tacos with a twist.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "pink food coloring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "taco shells",
+      "amount": "8-10 shells"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the cod fillets and cut them into small pieces.",
+    "In a large bowl, mix together the flour, cornstarch, and a pinch of salt.",
+    "Add the pink food coloring and kombu-cold-extract to the bowl and stir until well combined.",
+    "Toss the cod pieces in the bowl to coat them evenly with the flour mixture.",
+    "Heat the peanut oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Fry the cod pieces in batches until they are golden brown and crispy.",
+    "Drain the fried cod on paper towels and sprinkle with chopped peanuts.",
+    "Season with salt and black pepper to taste.",
+    "Serve the crispy cod in taco shells and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "ethiopian",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "nutty-crispy-ethiopian-fish-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-ethiopian-fish-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:51:31Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "pink food colouring",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "fish",
+    "descriptor": "nutty crispy",
+    "dishForm": "Tacos"
+  }
+}

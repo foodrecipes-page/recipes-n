@@ -1,0 +1,109 @@
+{
+  "title": "Nourishing Uruguayan Chicken Ceviche",
+  "description": "Buttery, aerated solo-dinner ceviche featuring San Marzano tomato spheres and high-protein chicken.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skinless chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "clarified butter",
+      "amount": "50g",
+      "notes": "clarified for butter foam"
+    },
+    {
+      "name": "San Marzano tomato, diced",
+      "amount": "100g"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh coriander, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tsp",
+      "notes": "for spherification"
+    },
+    {
+      "name": "calcium lactate",
+      "amount": "1 tsp",
+      "notes": "for calcium bath"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 tsp",
+      "notes": "for butter foam"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp olive oil in a skillet over medium-high heat.",
+    "Add the 200g chicken breast and sear 3-4 minutes per side until golden and cooked through.",
+    "Remove the chicken, let rest 5 minutes, then shred with two forks.",
+    "Whisk 1 tsp sodium alginate with 1 cup water until completely dissolved.",
+    "Whisk 1 tsp calcium lactate with 1 cup water to make the calcium bath.",
+    "Using a syringe or spoon, drop the mixture of 1 tbsp tomato paste, 100g diced San Marzano tomato, 1 tbsp lime juice, and 1 tbsp chopped coriander into the alginate solution, allowing the spheres to set for 2 minutes before removing with a slotted spoon.",
+    "In a bowl, combine shredded chicken, 50g clarified butter, 1 tsp milk, 1 tbsp lime juice, pinch of salt, pepper, and 1 tsp chili flakes, tossing to coat.",
+    "Gently fold the tomato spheres into the chicken mixture, taking care not to break them.",
+    "Drizzle the calcium bath over the dish to set any remaining droplets and create a buttery glaze.",
+    "Finish with an aerated butter foam by whisking the clarified butter with the milk into a light foam, then spoon the foam over the ceviche and garnish with extra coriander and chili flakes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "antipasto",
+    "buttery",
+    "chicken",
+    "high-protein",
+    "solo-dinner",
+    "spherify",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 1080,
+    "protein": 63,
+    "carbs": 8,
+    "fat": 66
+  },
+  "slug": "nourishing-uruguayan-chicken-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-uruguayan-chicken-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:51:24Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "spherify",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Nourishing",
+    "dishForm": "Ceviche"
+  }
+}
