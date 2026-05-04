@@ -1549,6 +1549,37 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-herbal-venezuelan-beef-empanadas",
+    "title": "Nourishing Herbal Venezuelan Beef Empanadas",
+    "tags": [
+      "beef",
+      "empanadas",
+      "herbal",
+      "shortcrust-pastry",
+      "venezuelan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-indian-lentils-samosas",
+    "title": "Nourishing Indian Lentils Samosas",
+    "tags": [
+      "diabetic-friendly",
+      "gluten-free",
+      "high-protein",
+      "post-workout",
+      "quick",
+      "savory",
+      "vegan"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-irish-semolina-stew",
     "title": "Nourishing Irish Semolina Stew",
     "tags": [

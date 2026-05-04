@@ -1,0 +1,117 @@
+{
+  "title": "Nourishing Indian Lentils Samosas",
+  "description": "Salty, creamy lentil samosas made with tortilla wrappers, shio-koji cured for depth, diabetic-friendly and post-workout protein boost.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked red lentils",
+      "amount": "1 cup",
+      "notes": "mashed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "12 small"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and cook them in boiling water until soft, about 15 minutes, then mash them with a fork.",
+    "In a pan, heat 1 tbsp coconut oil over medium heat and sauté onion, garlic, and ginger until fragrant and translucent.",
+    "Stir in cumin, coriander, and garam masala, cooking for 1 minute to bloom the spices.",
+    "Add the mashed lentils, shio-koji, and salt, then pour in coconut milk, stirring until the mixture thickens to a creamy consistency.",
+    "Turn off the heat and let the filling cool slightly.",
+    "Warm the tortillas in a dry skillet for 15 seconds on each side to make them pliable.",
+    "Place a spoonful of the lentil filling in the center of each tortilla, folding the sides over to form a pocket.",
+    "Roll up the tortillas tightly, sealing the edges with a little water if needed.",
+    "In a large skillet, heat the remaining coconut oil over medium-high heat.",
+    "Fry the samosa pockets until golden brown and crisp, about 2-3 minutes per side.",
+    "Remove the samosas from the oil and drain on paper towels.",
+    "Serve the samosas warm, optionally with a squeeze of lemon juice and a side of cilantro yogurt dip."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "high-protein",
+    "post-workout",
+    "quick",
+    "savory",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 7,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "nourishing-indian-lentils-samosas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-indian-lentils-samosas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:09:48Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "tortillas",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Nourishing",
+    "dishForm": "Samosas"
+  }
+}
