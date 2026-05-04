@@ -279,6 +279,22 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-german-cheese-gratin",
+    "title": "Nostalgic German Cheese Gratin",
+    "tags": [
+      "cheese-pull",
+      "german",
+      "lazy-sunday",
+      "mini-gratin",
+      "no-garlic",
+      "no-onion",
+      "potato"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgic-gooey-australian-potato-stir-fry",
     "title": "Nostalgic Gooey Australian Potato Stir-fry",
     "tags": [

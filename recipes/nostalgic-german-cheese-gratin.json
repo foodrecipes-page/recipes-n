@@ -1,0 +1,107 @@
+{
+  "title": "Nostalgic German Cheese Gratin",
+  "description": "A comforting, earthy German cheese gratin that melts into a creamy, sweet treacle glaze, perfect for a relaxed Sunday meal.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "celery root",
+      "amount": "200g"
+    },
+    {
+      "name": "Emmental cheese",
+      "amount": "200g",
+      "notes": "shredded"
+    },
+    {
+      "name": "butter",
+      "amount": "30g",
+      "notes": "melted"
+    },
+    {
+      "name": "whole milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "treacle",
+      "amount": "20g"
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "crème fraîche",
+      "amount": "50g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Peel and thinly slice potatoes and celery root into 2mm rounds.",
+    "In a small bowl, whisk butter, milk, treacle, salt, pepper, and paprika until smooth.",
+    "Grease 4 mini cocottes with a little butter.",
+    "Layer the sliced potatoes and celery root in each cocotte, sprinkling shredded cheese between layers.",
+    "Pour the treacle-milk mixture evenly over the vegetables and cheese.",
+    "Spoon a small amount of crème fraîche on top of each mini gratin.",
+    "Cover the cocottes with foil and bake for 25 minutes.",
+    "Remove foil and bake an additional 5 minutes until the cheese is golden and bubbling.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "german",
+    "lazy-sunday",
+    "mini-gratin",
+    "no-garlic",
+    "no-onion",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 469,
+    "protein": 18,
+    "carbs": 32,
+    "fat": 25
+  },
+  "slug": "nostalgic-german-cheese-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-german-cheese-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:22:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "treacle",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cheese",
+    "descriptor": "Nostalgic",
+    "dishForm": "Gratin"
+  }
+}
