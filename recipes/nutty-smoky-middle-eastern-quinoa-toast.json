@@ -1,0 +1,103 @@
+{
+  "title": "Nutty Smoky Middle Eastern Quinoa Toast",
+  "description": "A smoky and cheesy Middle Eastern dish featuring quinoa and toast, perfect for a lazy Sunday, this recipe is low in fat and rich in flavor.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped pistachios",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a medium saucepan, bring the quinoa and water to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes or until the quinoa is tender.",
+    "While the quinoa is cooking, toast the bread until it is lightly browned.",
+    "In a small bowl, mix together the sumac, smoked paprika, salt, and black pepper.",
+    "Spread the cooked quinoa over the toasted bread, then top with crumbled feta cheese and a sprinkle of the sumac mixture.",
+    "Drizzle the olive oil over the top and sprinkle with chopped pistachios.",
+    "Place the toast under the broiler for 2-3 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "lazy-sunday",
+    "low-fat",
+    "middle-eastern",
+    "quinoa",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nutty-smoky-middle-eastern-quinoa-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-smoky-middle-eastern-quinoa-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:22:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "toast",
+    "primaryIngredient": "quinoa",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "quinoa",
+    "descriptor": "Nutty Smoky",
+    "dishForm": "Toast"
+  }
+}
