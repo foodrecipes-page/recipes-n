@@ -1,0 +1,93 @@
+{
+  "title": "Nourishing Malty Venezuelan Collards Hash",
+  "description": "A hearty, low-carb Venezuelan dish featuring collards, with a malty flavor and a show-off presentation, served on a talavera plate.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "2 bunches",
+      "notes": "chopped"
+    },
+    {
+      "name": "malt extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped collard greens and cook until wilted, about 5 minutes.",
+    "Stir in the malt extract, salt, and black pepper.",
+    "Transfer the mixture to a talavera plate.",
+    "Top with shredded cheese and fold the mixture over the cheese.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-idea",
+    "latin-american",
+    "low-carb",
+    "one-pan",
+    "veggie-packed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "nourishing-malty-venezuelan-collards-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-malty-venezuelan-collards-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:57:47Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "collards",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "collards",
+    "descriptor": "nourishing malty",
+    "dishForm": "Hash"
+  }
+}
