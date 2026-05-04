@@ -1,0 +1,95 @@
+{
+  "title": "Nourishing Pillowy Dutch Beef Casserole",
+  "description": "A hearty Dutch dish featuring tender beef, rich sherry, and sweet candy, all in a pillowy casserole, perfect for a special occasion, and friendly to those who avoid onion and garlic.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Sherry wine",
+      "amount": "1 cup",
+      "notes": "Dry sherry"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Candy",
+      "amount": "1 cup",
+      "notes": "Mixed fruit candy"
+    },
+    {
+      "name": "Mashed potatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the sherry wine, beef broth, flour, salt, and pepper to the skillet, stirring to combine, and bring to a boil.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "Stir in the mixed fruit candy and cook for an additional 2 minutes.",
+    "In a large bowl, combine the cooked beef mixture and mashed potatoes, stirring until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and dot the top with butter.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the top is golden brown and the casserole is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "hearty",
+    "no-garlic",
+    "no-onion",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "nourishing-pillowy-dutch-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-pillowy-dutch-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:54:11Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "candy",
+    "primaryIngredient": "sherry",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "nourishing pillowy",
+    "dishForm": "Casserole"
+  }
+}
