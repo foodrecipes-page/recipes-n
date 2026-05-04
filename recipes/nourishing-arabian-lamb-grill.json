@@ -1,0 +1,105 @@
+{
+  "title": "Nourishing Arabian Lamb Grill",
+  "description": "A cultured, crisp post-workout Saudi Arabian dish featuring lamb leg grilled on a raclette grill with fresh vegetables and aromatic spices.",
+  "cuisine": "Saudi Arab",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg, bone-in, diced",
+      "amount": "800 g"
+    },
+    {
+      "name": "fresh rosemary, chopped",
+      "amount": "10 g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "5 g"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "5 g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "3 g"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon, juiced",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20 ml"
+    },
+    {
+      "name": "baby carrots, sliced",
+      "amount": "200 g"
+    },
+    {
+      "name": "zucchini, sliced",
+      "amount": "200 g"
+    },
+    {
+      "name": "red onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "3 g"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine lamb pieces with rosemary, cumin, coriander, smoked paprika, minced garlic, lemon juice, olive oil, and salt; let marinate for 30 minutes in the refrigerator.",
+    "While the lamb marinates, heat the raclette grill on high until it reaches a crisp surface temperature.",
+    "Arrange baby carrots, sliced zucchini, and red onion on a separate platter and drizzle them with a teaspoon of olive oil, salt, and pepper.",
+    "Place the marinated lamb on the heated grill and sear each side for 4 minutes until a golden crust forms.",
+    "After searing, transfer the lamb to a plate and allow it to rest for 5 minutes to retain juices.",
+    "Using the same raclette grill, gently grill the vegetables for 3 minutes per side, turning occasionally, until they are tender yet still crisp.",
+    "Once grilled, arrange the lamb slices on a serving platter with the roasted vegetables.",
+    "Garnish with a sprinkle of fresh rosemary leaves for an aromatic finish.",
+    "Serve immediately while hot, pairing with a light cucumber yogurt dip if desired."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 14,
+  "totalTimeMin": 49,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "arabian",
+    "family-friendly",
+    "grill",
+    "high-protein",
+    "post-workout",
+    "raclette-grill"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "nourishing-arabian-lamb-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-arabian-lamb-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:15:17Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "lamb leg",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Nourishing",
+    "dishForm": "Grill"
+  }
+}
