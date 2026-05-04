@@ -1,0 +1,120 @@
+{
+  "title": "Nurturing Pungent Thai Apricots Khanom Thai",
+  "description": "A dairy‑free kid‑friendly Thai hot‑pot featuring rehydrated apricots in a spicy coconut broth, served with al dente rice noodles and a cheese‑pull mouthfeel.",
+  "cuisine": "thai",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "120 g",
+      "notes": "soaked in hot water for 10 minutes then drained"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 inch grated"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk smashed"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "500 ml"
+    },
+    {
+      "name": "white rice noodles",
+      "amount": "200 g"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "to garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse dried apricots, soak in hot water for 10 minutes, then drain and chop into bite-sized pieces.",
+    "In a pot, heat vegetable oil over medium heat, add minced garlic, grated galangal, and smashed lemongrass, cooking until aromatic.",
+    "Stir in tamarind paste, soy sauce, brown sugar, and red chili flakes, letting the mixture simmer for 2 minutes.",
+    "Add chopped apricots, coconut milk, lime juice, and kaffir lime leaves, seasoning with salt to taste, and bring to a gentle simmer.",
+    "While the broth simmers, blanch rice noodles in boiling water until al dente, then drain and set aside.",
+    "Ladle the simmering apricot broth into the hot‑pot vessel, placing the blanched noodles at the bottom.",
+    "Let the hot pot steam for 3 minutes, allowing the flavors to meld and the noodles to absorb the broth.",
+    "Transfer the hot pot to a heat‑resistant serving dish, sprinkle fresh cilantro on top for garnish.",
+    "Serve immediately, letting kids dip noodles into the fragrant, pungent broth for a cheese‑pull mouthfeel."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "hot-pot",
+    "khanom-thai",
+    "kid-friendly",
+    "pungent",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 5
+  },
+  "slug": "nurturing-pungent-thai-apricots-khanom-thai",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nurturing-pungent-thai-apricots-khanom-thai",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:56:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "brine-dry",
+    "primaryIngredient": "dried apricots",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Apricots",
+    "descriptor": "Nurturing Pungent",
+    "dishForm": "Khanom Thai"
+  }
+}
