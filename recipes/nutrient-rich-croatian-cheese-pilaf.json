@@ -1,0 +1,107 @@
+{
+  "title": "Nutrient-rich Croatian Cheese Pilaf",
+  "description": "A delicious and healthy Croatian-inspired dish featuring salted butter, cheese, and low-glycemic-friendly ingredients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "comal bread",
+      "amount": "2 cups",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "salted butter is also fine, use as needed"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shredded or grated, low-moisture"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "button or cremini, sliced"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C) and a comal or skillet on medium-high heat.",
+    "Add 1 tablespoon of butter to the comal and toast the bread until crispy and golden brown.",
+    "Remove the bread from the comal and set aside.",
+    "Add the remaining 1 tablespoon of butter to the comal and sauté the mushrooms until they release their moisture and start to brown.",
+    "Add the diced chicken to the comal and cook until browned and cooked through.",
+    "Add the diced onion and minced garlic to the comal and cook until the onion is translucent.",
+    "Stir in the shredded cheese and cook until melted and well combined with the mushroom and chicken mixture.",
+    "Add the toasted bread to the comal and stir until the bread is evenly coated with the cheesy mixture.",
+    "Transfer the comal to the preheated oven and bake for 8-10 minutes, or until the top is golden brown and crispy.",
+    "Remove the comal from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "croatian",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "nutrient-rich-croatian-cheese-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutrient-rich-croatian-cheese-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T06:45:08Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "stir-fry",
+    "primaryIngredient": "salted butter",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "Nutrient-rich",
+    "dishForm": "Pilaf"
+  }
+}
