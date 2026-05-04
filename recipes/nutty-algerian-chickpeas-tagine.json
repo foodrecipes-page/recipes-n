@@ -1,0 +1,102 @@
+{
+  "title": "Nutty Algerian Chickpeas Tagine",
+  "description": "A tangy and fluffy Algerian dish featuring chickpeas and a blend of spices, with a nutty flavor and a hint of sriracha heat, served in a unique nigiri shape, this recipe is also macrobiotic friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned, drained and rinsed"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Stir in the ground cumin, smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the chickpeas, sriracha sauce, and chopped almonds to the saucepan, and stir to combine.",
+    "Reduce the heat to low and simmer the tagine, covered, for 20 minutes, stirring occasionally.",
+    "Use your hands to shape the tagine mixture into small nigiri shapes.",
+    "Serve the nutty Algerian chickpeas tagine hot, garnished with additional chopped almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "macrobiotic",
+    "north-african",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "nutty-algerian-chickpeas-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-algerian-chickpeas-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:23:11Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "sriracha",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "nutty fluffy",
+    "dishForm": "Tagine"
+  }
+}
