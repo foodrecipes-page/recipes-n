@@ -1,0 +1,110 @@
+{
+  "title": "Nourishing Catalan Kabocha Wrap",
+  "description": "A fresh, springy vegetarian wrap inspired by Catalan flavors, featuring sweet kabocha squash and savory fillings wrapped in a corn husk for a healthy meal prep option.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "200 g",
+      "notes": "cut into 1/2 inch thick slices"
+    },
+    {
+      "name": "corn husks",
+      "amount": "8",
+      "notes": "washed and flattened"
+    },
+    {
+      "name": "cooked quinoa",
+      "amount": "150 g",
+      "notes": "cooked"
+    },
+    {
+      "name": "black beans",
+      "amount": "100 g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the corn husks and soak them in warm water for 10 minutes to soften.",
+    "Slice the kabocha squash into 1/2 inch thick rounds and set aside.",
+    "Heat olive oil in a skillet over medium heat and sauté the kabocha slices for 4 minutes on each side until lightly caramelized.",
+    "In the same skillet, add black beans, cumin, smoked paprika, salt and pepper, and cook for 2 minutes until fragrant.",
+    "Stir in the cooked quinoa and let the mixture heat through, then remove from heat.",
+    "Drain the soaked corn husks and pat them dry with a towel.",
+    "Place a spoonful of the quinoa and bean mixture onto the center of each husk, top with a slice of sautéed kabocha and crumble feta cheese.",
+    "Fold the husk edges over the filling, then roll tightly to form a wrap.",
+    "Wrap each corn husk roll in foil and bake at 180°C for 10 minutes to warm the filling.",
+    "Remove from oven, let cool slightly, then cut into bite‑sized pieces and serve or refrigerate for meal‑prep."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cooking-in-corn-husk",
+    "low-carb",
+    "meal-prep",
+    "spicy",
+    "vegan-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "nourishing-catalan-kabocha-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-catalan-kabocha-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:22:13Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "en-croute",
+    "primaryIngredient": "kabocha",
+    "diet": "diabetic-friendly",
+    "region": "catalan",
+    "cuisineAdjective": "Catalan",
+    "mainIngredient": "kabocha",
+    "descriptor": "Nourishing",
+    "dishForm": "Wrap"
+  }
+}
