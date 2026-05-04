@@ -1,0 +1,108 @@
+{
+  "title": "Nicely Nicotine-Noked Andalusian Lamb Kidney Patatas-Bravas Style Cooked Potatoes",
+  "description": "A flavorful Spanish-inspired one-pot dish featuring lamb kidney, served with smoky potatoes.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb kidneys",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "4",
+      "notes": "Optional"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Anti-inflammatory friendly"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coarse sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Baby potatoes, halved",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "Smoky flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large, heavy Dutch oven over medium-high heat.",
+    "Sear the lamb kidneys, browning them on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Reduce heat to medium and add the onion, cooking until translucent, about 5 minutes.",
+    "Add the garlic and cook for an additional 1 minute, until fragrant.",
+    "Add the smoked paprika, salt, and black pepper. Stir to combine.",
+    "Add the potatoes, red pepper flakes, and browned lamb kidneys. Stir to combine.",
+    "Cover and transfer the pot to the preheated oven (400°F / 200°C). Roast for 45 minutes or until the potatoes are tender and the potatoes are nicely browned.",
+    "Remove from the oven and garnish with chopped parsley, if desired.",
+    "Serve hot, garnished with additional parsley and a side of warm crusty bread, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "nicely-nicotine-noked-andalusian-lamb-kidney-patatas-bravas-style-cooked-potatoe",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nicely-nicotine-noked-andalusian-lamb-kidney-patatas-bravas-style-cooked-potatoe",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:59Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "smoke-hot",
+    "primaryIngredient": "lamb kidney",
+    "diet": "anti-inflammatory",
+    "region": "andalusian",
+    "cuisineAdjective": "Andalusian",
+    "mainIngredient": "Lamb Kidney",
+    "descriptor": "Nicely Nicotine-Noked",
+    "dishForm": "Patatas-Bravas Style Cooked Potatoes"
+  }
+}
