@@ -1,0 +1,110 @@
+{
+  "title": "Nourishing Vietnamese Semolina Ca Kho To",
+  "description": "A peppery, creamy, cozy Vietnamese dish featuring cod, tomato‑based sauce, and a semolina thickener for a low‑fat, satisfying meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "400g"
+    },
+    {
+      "name": "low‑fat milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "semolina flour",
+      "amount": "30g"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "150g"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "15ml"
+    },
+    {
+      "name": "white sugar",
+      "amount": "10g"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "small onion",
+      "amount": "1"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "100ml"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cut cod fillets into 1.5 cm pieces and season lightly with salt and white pepper.",
+    "Whisk 30g semolina with 50ml water until smooth to create a slurry.",
+    "Heat 1 tbsp vegetable oil in a saucepan over medium heat and sauté minced garlic and sliced onion until fragrant.",
+    "Add the fish pieces to the pan and sear until the edges turn golden.",
+    "Stir in 150g tomato puree, 15ml fish sauce, 10g sugar, and 100ml water, then bring to a gentle simmer.",
+    "Pour the semolina slurry into the sauce, stir continuously, and cook until the mixture thickens and the fish is fully cooked, about ten minutes.",
+    "Reduce heat, add 200ml low‑fat milk, and let it steam for five minutes, stirring occasionally to keep the sauce creamy.",
+    "Taste and adjust the seasoning with additional fish sauce or pepper if necessary.",
+    "Transfer the dish to a serving platter and sprinkle freshly chopped cilantro on top.",
+    "Serve hot with steamed rice for a hearty, low‑fat Vietnamese meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "creamy",
+    "low-fat",
+    "one-pan",
+    "peppery",
+    "semolina",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 27,
+    "carbs": 16,
+    "fat": 5
+  },
+  "slug": "nourishing-vietnamese-semolina-ca-kho-to",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-vietnamese-semolina-ca-kho-to",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:34:24Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "semolina flour",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "semolina",
+    "descriptor": "Nourishing",
+    "dishForm": "Ca Kho To"
+  }
+}
