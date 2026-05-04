@@ -1,0 +1,106 @@
+{
+  "title": "Nimble Peruvian Chicken Broth",
+  "description": "A malty, aerated broth with grape juice and deglaze fond, featuring tender chicken and aromatic vegetables for a comforting Peruvian flavor.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bone-in chicken thighs",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, quartered"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 sliced"
+    },
+    {
+      "name": "dry white grape juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "deglaze fond (butter or pan drippings)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium-high heat.",
+    "Add whole chicken thighs and brown on all sides until golden, about 8 minutes.",
+    "Remove thighs and set aside; deglaze pot with grape juice, scraping up browned bits.",
+    "Add onion, carrot, celery, paprika, salt, pepper, and bay leaf; sauté until vegetables soften, about 5 minutes.",
+    "Return chicken to pot, pour in water, and bring to a gentle simmer.",
+    "Cover and cook for 45 minutes, or until chicken is tender and easily shredded.",
+    "Remove chicken, shred with two forks, and return meat to the broth.",
+    "Stir in deglaze fond (butter or pan drippings) until melted and incorporated.",
+    "Taste and adjust seasoning; serve hot over quinoa or rice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 55,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "peruvian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "nimble-peruvian-chicken-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-peruvian-chicken-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:05:14Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "grape juice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Nimble",
+    "dishForm": "Broth"
+  }
+}
