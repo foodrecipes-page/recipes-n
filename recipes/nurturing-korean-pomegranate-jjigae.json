@@ -1,0 +1,106 @@
+{
+  "title": "Nurturing Korean Pomegranate Jjigae",
+  "description": "A gentle, garlicky pomegranate jjigae that blends the bright sweetness of pomegranate with a subtle vegetable dashi broth, perfect for kids.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable dashi extract",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "shiitake mushrooms, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tofu, cubed",
+      "amount": "100g"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, combine water and vegetable dashi extract and bring to a gentle boil.",
+    "Add minced garlic and grated ginger, reduce heat and simmer for 2 minutes.",
+    "Stir in sliced shiitake mushrooms and cubed tofu, cook for 5 minutes.",
+    "Add spinach leaves and pomegranate seeds, cook until spinach wilts, about 2 minutes.",
+    "Pour in soy sauce and sesame oil, stirring to combine.",
+    "Season with salt to taste, simmer for another 3 minutes.",
+    "Garnish with toasted sesame seeds before serving.",
+    "Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jeolla",
+    "kid-friendly",
+    "quick",
+    "satvik",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 18,
+    "carbs": 27,
+    "fat": 20
+  },
+  "slug": "nurturing-korean-pomegranate-jjigae",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nurturing-korean-pomegranate-jjigae",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:21:47Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "dashi-extract",
+    "primaryIngredient": "pomegranate",
+    "diet": "satvik",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pomegranate",
+    "descriptor": "Nurturing",
+    "dishForm": "Jjigae"
+  }
+}
