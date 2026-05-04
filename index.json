@@ -620,6 +620,21 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-peppery-mexican-wensleydale-mole-poblano",
+    "title": "Nostalgic Peppery Mexican Wensleydale Mole Poblano",
+    "tags": [
+      "crisp",
+      "lazy-sunday",
+      "mexican",
+      "mole-poblano",
+      "peppery",
+      "wensleydale"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgic-slovakian-galangal-stir-fry",
     "title": "Nostalgic Slovakian Galangal Stir-fry",
     "tags": [

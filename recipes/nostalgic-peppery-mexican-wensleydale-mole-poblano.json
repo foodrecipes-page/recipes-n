@@ -1,0 +1,123 @@
+{
+  "title": "Nostalgic Peppery Mexican Wensleydale Mole Poblano",
+  "description": "A smoky, peppery mole blended with creamy Wensleydale and topped with crisp pumpkin seeds, ideal for a lazy Sunday dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "Mediterranean-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "2",
+      "notes": "roasted and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Wensleydale cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "tortilla chips",
+      "amount": "4 tbsp"
+    }
+  ],
+  "instructions": [
+    "Roast poblano peppers over an open flame until skins blacken, then place in a bowl, cover, and let steam for 10 minutes before peeling and slicing.",
+    "Heat olive oil in a heavy skillet over medium heat and sauté diced onion and carrot until softened, about 5 minutes.",
+    "Add chopped tomato, smoked paprika, black pepper, cocoa powder, and honey to the skillet; cook for another 3 minutes, stirring frequently.",
+    "Pour in vegetable broth, bring the mixture to a gentle simmer, and let it reduce for 10 minutes to concentrate the flavors.",
+    "Transfer the sauce to a blender, blend until smooth, then return it to the skillet and heat through, stirring occasionally.",
+    "Stir in shredded Wensleydale cheese until melted and the mole thickens to a glossy consistency.",
+    "Taste and adjust seasoning with salt if needed, then remove from heat.",
+    "Spoon the mole into a lacquerware bowl, topping with chopped cilantro, toasted pumpkin seeds, and a scattering of tortilla chips for added crunch.",
+    "Let the dish rest for 5 minutes so the flavors meld and the chips crisp up slightly.",
+    "Serve warm as a comforting, peppery main course for a lazy Sunday dinner."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crisp",
+    "lazy-sunday",
+    "mexican",
+    "mole-poblano",
+    "peppery",
+    "wensleydale"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 32,
+    "fat": 18
+  },
+  "slug": "nostalgic-peppery-mexican-wensleydale-mole-poblano",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-peppery-mexican-wensleydale-mole-poblano",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:30:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "rest",
+    "primaryIngredient": "wensleydale",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Wensleydale",
+    "descriptor": "Nostalgic Peppery",
+    "dishForm": "Mole Poblano"
+  }
+}
