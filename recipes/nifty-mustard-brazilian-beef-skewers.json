@@ -1,0 +1,107 @@
+{
+  "title": "Nifty Mustard Brazilian Beef Skewers",
+  "description": "Crispy, mustardy beef skewers cooked on an iron teppan, flavored with smoked salt and Brazilian lime zest, perfect for kids and halal diners.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sirloin beef",
+      "amount": "400g",
+      "notes": "cut into 1.5cm cubes"
+    },
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "halal soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 lime"
+    },
+    {
+      "name": "water",
+      "amount": "50ml"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Thread beef cubes onto soaked wooden skewers evenly spaced."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "halal",
+    "kid-friendly",
+    "mustard",
+    "one-pan",
+    "quick",
+    "skewers",
+    "teppan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 15,
+    "fat": 18
+  },
+  "slug": "nifty-mustard-brazilian-beef-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nifty-mustard-brazilian-beef-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:40:42Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "smoke",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Beef",
+    "descriptor": "Nifty Mustard",
+    "dishForm": "Skewers"
+  }
+}

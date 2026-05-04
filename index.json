@@ -208,6 +208,22 @@
     "shard": "n"
   },
   {
+    "slug": "nectarous-mexican-oysters-tamales",
+    "title": "Nectarous Mexican Oysters Tamales",
+    "tags": [
+      "dairy-free",
+      "flambe",
+      "glassy-jelly",
+      "holiday",
+      "seafood",
+      "show-off",
+      "tamales"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nectarous-peruvian-flour-flatbread",
     "title": "Nectarous Peruvian Flour Flatbread",
     "tags": [
@@ -291,6 +307,23 @@
       "thai"
     ],
     "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nifty-mustard-brazilian-beef-skewers",
+    "title": "Nifty Mustard Brazilian Beef Skewers",
+    "tags": [
+      "brazilian",
+      "halal",
+      "kid-friendly",
+      "mustard",
+      "one-pan",
+      "quick",
+      "skewers",
+      "teppan"
+    ],
+    "cuisine": "Brazilian",
     "totalTimeMin": 25,
     "shard": "n"
   },

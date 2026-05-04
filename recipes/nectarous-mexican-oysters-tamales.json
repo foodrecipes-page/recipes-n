@@ -1,0 +1,111 @@
+{
+  "title": "Nectarous Mexican Oysters Tamales",
+  "description": "Rich, glassy-jelly tamales bursting with fresh oysters, coconut, and a toasted almond finish. A flambé of pineapple juice adds a dramatic finish.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "medium oysters",
+      "amount": "12 medium oysters"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 husks"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "lime juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "100ml"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "roasted almond flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Soak corn husks in warm water for 30 minutes to soften.",
+    "Whisk coconut milk with lime juice, pineapple juice, chili powder, smoked paprika, garlic powder, sea salt, and black pepper until smooth.",
+    "Rinse oysters, shuck, and pat dry, then fold each into the coconut mixture.",
+    "Spread the oyster mixture onto each husk, leaving a 2-inch border, then close the husk and tie with kitchen twine.",
+    "Steam tamales over medium heat for 30 minutes, turning every 10 minutes.",
+    "While tamales steam, heat 1 teaspoon of vegetable oil in a small pan until hot, then pour in 100ml pineapple juice and ignite to flambé.",
+    "Carefully pour the flaming juice over the cooked tamales, letting it splash and caramelize.",
+    "Sprinkle roasted almond flakes and lime zest over the tamales before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "flambe",
+    "glassy-jelly",
+    "holiday",
+    "seafood",
+    "show-off",
+    "tamales"
+  ],
+  "nutrition": {
+    "calories": 2400,
+    "protein": 44,
+    "carbs": 240,
+    "fat": 100
+  },
+  "slug": "nectarous-mexican-oysters-tamales",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nectarous-mexican-oysters-tamales",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:40:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "flambe",
+    "primaryIngredient": "oysters",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Oysters",
+    "descriptor": "Nectarous",
+    "dishForm": "Tamales"
+  }
+}
