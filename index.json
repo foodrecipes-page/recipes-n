@@ -1966,6 +1966,22 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-fermented-korean-cornmeal-mandu-jjigae",
+    "title": "Nourishing Fermented Korean Cornmeal Mandu JJigae",
+    "tags": [
+      "busan",
+      "comfort-food",
+      "fermented",
+      "korean",
+      "low-protein",
+      "one-pan",
+      "soup"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-garlicky-korean-myeongnan-roe-dumplings",
     "title": "Nourishing Garlicky Korean Myeongnan Roe Dumplings",
     "tags": [
@@ -3498,6 +3514,23 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-nourishing-qaqli",
+    "title": "Nutritious Nourishing Qaqli",
+    "tags": [
+      "egg-free",
+      "fish-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "sugar-free",
+      "tomato-free",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 70,
     "shard": "n"
   },
   {
@@ -6514,6 +6547,20 @@
     "tags": [],
     "cuisine": "Syrian",
     "totalTimeMin": null,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-velvety-tunisian-dish-brunch",
+    "title": "Tunisian Nutty Velvety Brunch",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "gluten-free",
+      "high-protein",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {

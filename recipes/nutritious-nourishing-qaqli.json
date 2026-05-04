@@ -1,0 +1,153 @@
+{
+  "title": "Nutritious Nourishing Qaqli",
+  "description": "A citrusy, energizing Egyptian dish featuring cream of tartar, perfect for a weeknight dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For cooking the rice."
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless, skinless."
+    },
+    {
+      "name": "Lemons",
+      "amount": "2",
+      "notes": "Juiced."
+    },
+    {
+      "name": "Grapes",
+      "amount": "1 cup",
+      "notes": "Halved."
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cream of tartar",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Teriyaki sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Teracotta dish",
+      "amount": "",
+      "notes": "For cooking and serving."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the teracotta dish."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the rice and water, and soak for 30 minutes.",
+    "In a large pot, heat 1 tablespoon of olive oil over medium heat, and cook the onions until softened, about 5 minutes.",
+    "Add the garlic and ginger to the pot, and cook for 1 minute, until fragrant.",
+    "Add the chicken breast to the pot, and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cumin, coriander, cream of tartar, salt, and black pepper to the pot, and stir to combine.",
+    "Add the soaked rice to the pot, and stir to combine.",
+    "Cook for 10-15 minutes, or until the rice is tender and fluffy.",
+    "While the rice is cooking, combine the lemon juice, grapes, and teriyaki sauce in a small bowl, and mix well.",
+    "Once the rice is cooked, transfer it to a large terracotta dish, and drizzle with the lemon juice mixture.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve immediately, garnished with chopped parsley and a dollop of pomegranate molasses, if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "fish-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "sugar-free",
+    "tomato-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nutritious-nourishing-qaqli",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-nourishing-qaqli",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:32Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "tagine-cook",
+    "primaryIngredient": "cream of tartar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "egg",
+    "descriptor": "Nourishing Energizing Citrusy",
+    "dishForm": "Tagine"
+  }
+}

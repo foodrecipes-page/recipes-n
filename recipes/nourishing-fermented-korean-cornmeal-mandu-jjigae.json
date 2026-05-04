@@ -1,0 +1,122 @@
+{
+  "title": "Nourishing Fermented Korean Cornmeal Mandu JJigae",
+  "description": "A sour, molten, solo-dinner Korean dish featuring white cornmeal, long-fermentation-dough, and Buddhist-temple-friendly ingredients, served in a solo mandu form and a donabe vessel.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean cornmeal",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1 cup",
+      "notes": "for dough"
+    },
+    {
+      "name": "Fermented Korean chili flakes",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Grated Korean pear",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Korean greens",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine Korean cornmeal and water in a large bowl, mix until smooth.",
+    "Add rice flour, fermented Korean chili flakes, gochujang, sesame oil, garlic, Korean pear, soy sauce, black pepper, and mix until dough forms.",
+    "Knead dough for 10 minutes until it becomes smooth and elastic.",
+    "Wrap dough in plastic wrap and let it ferment at room temperature for 24-48 hours.",
+    "Divide dough into 4-6 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a thin circle, about 1/8 inch thick.",
+    "Place a small amount of fermented Korean greens in the center of each circle, fold the dough over, and press edges together to seal the mandu.",
+    "Heat donabe over medium heat until it reaches 180°F.",
+    "Cook mandu for 5-7 minutes on each side, until it is golden brown and crispy.",
+    "Serve hot, garnished with scallions and additional fermented Korean greens if desired.",
+    "Let the dish sit for 5 minutes before serving to allow flavors to meld together.",
+    "Use a slotted spoon to remove mandu from donabe and place on a plate.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "busan",
+    "comfort-food",
+    "fermented",
+    "korean",
+    "low-protein",
+    "one-pan",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "nourishing-fermented-korean-cornmeal-mandu-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-fermented-korean-cornmeal-mandu-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:38:22Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "white cornmeal",
+    "diet": "buddhist-temple",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Nourishing Fermented",
+    "dishForm": "Mandu JJigae"
+  }
+}
