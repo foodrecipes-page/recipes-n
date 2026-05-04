@@ -982,6 +982,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-crisp-indian-lamb-vada-pav",
+    "title": "Nourishing Crisp Indian Lamb Vada Pav",
+    "tags": [
+      "easy-meals",
+      "gluten-free",
+      "indian-street-food",
+      "lamb-recipes",
+      "nut-free",
+      "snack-ideas"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-crisp-polish-beef-shin-stew",
     "title": "Nourishing Crisp Polish Beef Shin Stew",
     "tags": [
@@ -1548,6 +1563,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-uruguayan-spring-onion-stew",
+    "title": "Nourishing Uruguayan Spring Onion Stew",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "one-pot",
+      "uruguayan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
