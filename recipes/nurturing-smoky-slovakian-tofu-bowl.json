@@ -1,0 +1,116 @@
+{
+  "title": "Nurturing Smoky Slovakian Tofu Bowl",
+  "description": "A resinous, molten, adventurous Slovakian tofu bowl that blends cold water marination, smoke-hot searing and diabetic-friendly flavors.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan",
+    "low-carb",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "14 oz",
+      "notes": "cut into 1 inch cubes after pressing"
+    },
+    {
+      "name": "cold water",
+      "amount": "1 cup",
+      "notes": "used for marinating"
+    },
+    {
+      "name": "liquid smoke",
+      "amount": "1 tbsp",
+      "notes": "provides smoky flavor"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "flavor enhancer"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp",
+      "notes": "marinade base"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "1/2 cup",
+      "notes": "low-carb base"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "bright finish"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for 15 minutes to remove excess moisture, then cut into 1 inch cubes.",
+    "Whisk together cold water, liquid smoke, smoked paprika, garlic powder, and soy sauce to create a marinating liquid.",
+    "Submerge the tofu cubes in the liquid and refrigerate for 30 minutes.",
+    "Heat a nonstick skillet over medium-high heat and add the marinated tofu cubes, cooking until all sides are golden and crispy, about 8 minutes.",
+    "Sauté the cauliflower rice in a separate pan with a splash of water until tender, about 5 minutes.",
+    "Arrange the cooked cauliflower rice as the base in a serving bowl.",
+    "Top the rice with the crispy tofu, diced cucumber, and bell pepper.",
+    "Drizzle lemon juice over the bowl and sprinkle fresh dill.",
+    "Serve immediately to keep the tofu crunchy and the flavors vibrant.",
+    "Enjoy a spicy, smoky Slovakian tofu bowl that is diabetic-friendly and low-carb."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "one-bowl",
+    "smoky",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "nurturing-smoky-slovakian-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nurturing-smoky-slovakian-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:27:54Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "smoke-hot",
+    "primaryIngredient": "cold water",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Nurturing Smoky",
+    "dishForm": "Bowl"
+  }
+}
