@@ -1,0 +1,93 @@
+{
+  "title": "Nourishing German Onion Soup",
+  "description": "A silky, fermented German onion soup with spring onions and shio-koji, flavored and kosher-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium, thinly sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "8 cups, kosher-certified"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened oat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "spring onions",
+      "amount": "3, sliced green parts"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and add sliced onions, cooking until translucent.",
+    "Stir in shio-koji and cook for 2 minutes to release flavor.",
+    "Sprinkle flour over onions and stir, cooking for 1 minute to make a roux.",
+    "Gradually whisk in vegetable broth, stirring continuously until smooth.",
+    "Bring the mixture to a simmer, letting it cook for 20 minutes to blend flavors.",
+    "Whisk oat milk into a small pot until silky, then heat until just warm, not boiling.",
+    "Temper the oat milk by adding a ladle of soup to it then slowly stir the warmed milk back into the soup.",
+    "Finish by seasoning with salt and pepper, then stir in sliced spring onions before serving hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy",
+    "kosher-friendly",
+    "soups",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 7,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "nourishing-german-onion-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-german-onion-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:15:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "spring onions",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Onion",
+    "descriptor": "Nourishing",
+    "dishForm": "Soup"
+  }
+}
