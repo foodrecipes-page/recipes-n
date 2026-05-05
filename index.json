@@ -3878,6 +3878,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-venezuelan-cornstarch-empanadas",
+    "title": "nutritious venezuelan cornstarch empanadas",
+    "tags": [
+      "high-protein",
+      "kid-friendly",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nutsuki-crunch",
     "title": "Nutsuki Crunch",
     "tags": [
@@ -5904,6 +5918,24 @@
     ],
     "cuisine": "Korean Australian",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-korean-vegetable-hwajeon",
+    "title": "Nutty Korean Vegetable Hwajeon",
+    "tags": [
+      "breakfast",
+      "dinner",
+      "easy",
+      "korean",
+      "lunch",
+      "one-pan",
+      "snack",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {

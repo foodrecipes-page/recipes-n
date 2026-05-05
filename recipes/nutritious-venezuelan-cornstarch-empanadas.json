@@ -1,0 +1,106 @@
+{
+  "title": "nutritious venezuelan cornstarch empanadas",
+  "description": "floral and crunchy empanadas made with cornstarch, shio-koji cure, and other wholesome ingredients. these empanadas are suitable for a buddhist temple and are a kid-friendly venezuelan dish.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornstarch",
+      "amount": "1 1/2 cups",
+      "notes": "preferably organic, fine or medium grind"
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "1/4 cup",
+      "notes": "make sure it's vegan friendly"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing the empanadas"
+    },
+    {
+      "name": "yucca flour",
+      "amount": "1 cup",
+      "notes": "optional, for thickening the filling"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups",
+      "notes": "for the dough"
+    },
+    {
+      "name": "corn flour",
+      "amount": "1/2 cup",
+      "notes": "preferably organic, for thickening the filling"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": "dried, for color and flavor"
+    }
+  ],
+  "instructions": [
+    "combine cornstarch, shio-koji cure, and 1/2 cup of water in a bowl to make the filling",
+    "mix until smooth and adjust seasoning as needed",
+    "combine yucca flour and corn flour in a separate bowl if using",
+    "add the mixture to the filling and stir well",
+    "divide the dough into 8-10 equal pieces",
+    "roll each piece into a ball and flatten it slightly using a rolling pin",
+    "brush the edges of the empanada with vegetable oil",
+    "place 1 tablespoon of the filling in the center of each empanada",
+    "fold the empanada in half and press the edges to seal",
+    "repeat with the remaining dough and filling",
+    "heat a non-stick pan over medium heat and cook the empanadas for 2-3 minutes on each side, until golden brown",
+    "serve warm and enjoy"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "nutritious-venezuelan-cornstarch-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-venezuelan-cornstarch-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:51:30Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "cornstarch",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cornstarch",
+    "descriptor": "nutritious",
+    "dishForm": "Empanadas"
+  }
+}
