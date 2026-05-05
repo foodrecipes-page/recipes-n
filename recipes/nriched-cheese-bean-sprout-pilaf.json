@@ -1,0 +1,82 @@
+{
+  "title": "NRiched Cheese Bean Sprout Pilaf",
+  "description": "A savory and comforting vegetarian dish that combines the flavors of cheese with steamed bean sprouts for a perfect sick-day meal in a donabe vessel.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cheese",
+      "amount": 100
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": 250
+    },
+    {
+      "name": "Onion",
+      "amount": 1
+    },
+    {
+      "name": "Garlic",
+      "amount": 3
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": 75
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": 50
+    },
+    {
+      "name": "Wheat Bran (for steaming)",
+      "amount": 250
+    }
+  ],
+  "instructions": [
+    "Chop the onion and garlic finely.",
+    "Blend cheese into a smooth paste with soy sauce until creamy.",
+    "Heat oil in donabe, add onions and garlic for a few minutes, stirring constantly to prevent burning.",
+    "Add blended cheese mixture and stir well. Let it cook for about 10 minutes or until cheese melts completely.",
+    "Add bean sprouts and wheat bran (for steaming).",
+    "Cover the donabe with its lid and steam for about 25 minutes, shaking occasionally to ensure even cooking.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-dish",
+    "gluten-free",
+    "quick-cook",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 25,
+    "carbs": 75,
+    "fat": 20
+  },
+  "slug": "nriched-cheese-bean-sprout-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nriched-cheese-bean-sprout-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T04:21:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "steam",
+    "primaryIngredient": "bean sprouts",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Cheese",
+    "descriptor": "Rich",
+    "dishForm": "Pilaf"
+  }
+}

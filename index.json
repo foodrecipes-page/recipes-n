@@ -3052,6 +3052,20 @@
     "shard": "n"
   },
   {
+    "slug": "nriched-cheese-bean-sprout-pilaf",
+    "title": "NRiched Cheese Bean Sprout Pilaf",
+    "tags": [
+      "american-dish",
+      "gluten-free",
+      "quick-cook",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nuggety-french-potato-polish-skillet",
     "title": "Nuggety French Potato Polish Skillet",
     "tags": [
