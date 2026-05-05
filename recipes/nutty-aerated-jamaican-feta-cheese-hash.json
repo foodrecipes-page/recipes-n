@@ -1,0 +1,97 @@
+{
+  "title": "Nutty Aerated Jamaican Feta Cheese Hash",
+  "description": "A nourishing, energizing breakfast dish featuring cubed feta cheese emulsified with mantecare, showcasing a delightful balance of spicy and nutty flavors.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Feta cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Mantecare",
+      "amount": "20g"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "80g"
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "10g"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "3g"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "20g"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "20g"
+    },
+    {
+      "name": "Crushed thyme",
+      "amount": "5g"
+    },
+    {
+      "name": "Crushed garlic",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a blender or food processor, combine mantecare, peanuts, and crushed red pepper. Blend until smooth.",
+    "Add the cubed feta cheese to the blender and blend until the mixture is evenly distributed.",
+    "Transfer the mixture to a bowl and stir in crushed thyme, crushed garlic, salt, and black pepper.",
+    "Garnish the dish with chopped cilantro and a squeeze of lime juice.",
+    "Serve the Jamaican Feta Cheese Hash hot, garnished with additional cilantro if desired.",
+    "To make the hash more aerated, gently fold in some air using a spatula or whisk before serving.",
+    "If desired, top the hash with some additional peanuts or seeds for added crunch.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "breakfast",
+    "high-protein",
+    "nutty",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "nutty-aerated-jamaican-feta-cheese-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-aerated-jamaican-feta-cheese-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:28Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "feta cheese",
+    "descriptor": "nutty Aerated",
+    "dishForm": "Hash"
+  }
+}

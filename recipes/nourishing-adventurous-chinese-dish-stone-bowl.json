@@ -1,0 +1,131 @@
+{
+  "title": "Stone-Bowl Nourishing Adventure",
+  "description": "A sattvic-friendly, Hakka-inspired dish featuring crunchy vegetables, floral flavors, and a delicious tarragon-tinged sauce, served in a hot stone bowl to add an extra layer of texture and nutrients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tarragon",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce (gluten-free)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey (optional)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the garlic, ginger, and shiitake mushrooms, and cook until the mushrooms are tender, about 5 minutes.",
+    "Add the snow peas and red cabbage, and cook until the vegetables are tender-crisp, about 3-4 minutes.",
+    "In a small bowl, whisk together the soy sauce, rice vinegar, honey (if using), salt, and black pepper.",
+    "Pour the sauce over the vegetables and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the mixture to a hot stone bowl and garnish with cilantro and scallions.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "gluten-free-option",
+    "hakka",
+    "high-protein",
+    "one-pan",
+    "sattvic",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "nourishing-adventurous-chinese-dish-stone-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-adventurous-chinese-dish-stone-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:03Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "tarragon-french",
+    "diet": "ayurvedic-sattvic",
+    "region": "hakka",
+    "cuisineAdjective": "adventurous chinese",
+    "mainIngredient": "dish",
+    "descriptor": "nourishing",
+    "dishForm": "stone-bowl"
+  }
+}

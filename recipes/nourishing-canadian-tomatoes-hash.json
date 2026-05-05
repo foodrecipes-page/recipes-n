@@ -1,0 +1,97 @@
+{
+  "title": "Nourishing Canadian Tomatoes Hash",
+  "description": "A pungent, flaky, lazy-sunday Canadian dish featuring tomatoes, mantecare-emulsify, paleo-friendly. Perfect for a weekend brunch or casual dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "4 large ripe tomatoes",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons manteca (lard)",
+      "amount": "melted",
+      "notes": "or substitute with coconut oil or avocado oil for vegan option"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": ",",
+      "notes": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "beaten",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": " ",
+      "notes": ""
+    },
+    {
+      "name": "Optional: 1/4 cup diced red onion",
+      "amount": " ",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the manteca in a large cast-iron skillet over medium-high heat.",
+    "Add the chopped garlic and saut\u00070 until fragrant.",
+    "Add the chopped tomatoes and cook until they release their juices and start to break down.",
+    "Add the beaten eggs and stir until the eggs start to set.",
+    "Add the chopped parsley and season with salt and pepper to taste.",
+    "Optional: add diced red onion and stir to combine.",
+    "Cook until the eggs are fully set and the tomatoes are tender.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "easy",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "tomato",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "nourishing-canadian-tomatoes-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-canadian-tomatoes-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:11Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "tomatoes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Tomatoes",
+    "descriptor": "Nourishing",
+    "dishForm": "Hash"
+  }
+}
