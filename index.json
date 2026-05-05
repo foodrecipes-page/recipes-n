@@ -2762,6 +2762,24 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-smoked-basque-french-pork-pate",
+    "title": "Nourishing Smoked Basque-French Pork P\u001eat",
+    "tags": [
+      "basque-french",
+      "cream",
+      "fermented",
+      "high-protein",
+      "lotus-leaf-wrap",
+      "one-pan",
+      "pork",
+      "rillettes",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 360,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-smoked-ukrainian-fish-kebabs",
     "title": "Nourishing Smoked Ukrainian Fish Kebabs",
     "tags": [
@@ -4604,6 +4622,20 @@
       "weeknight"
     ],
     "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-ethiopian-mozzarella-jjigae",
+    "title": "nutty crispy ethiopian mozzarella jjigae",
+    "tags": [
+      "high-protein",
+      "mozzarella",
+      "one-pan",
+      "robata-grill",
+      "weeknight"
+    ],
+    "cuisine": "ethiopian",
     "totalTimeMin": 35,
     "shard": "n"
   },

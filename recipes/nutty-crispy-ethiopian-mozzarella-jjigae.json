@@ -1,0 +1,125 @@
+{
+  "title": "nutty crispy ethiopian mozzarella jjigae",
+  "description": "crunchy robata-grilled mozzarella balls mixed with spicy berbere and crunchy peanuts in a comforting fir-fir vessel.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "keto",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mozzarella balls",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mixed peanuts",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "robata oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "firm tofu",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "dried fenugreek leaves",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fryer oil",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the robata oil in a fryer to 350°F (180°C).",
+    "add the mozzarella balls to the fryer and cook until golden brown, about 2-3 minutes per side.",
+    "drain the mozzarella balls on paper towels and set aside.",
+    "heat the fryer oil to 375°F (190°C).",
+    "add the chopped onion, garlic, and peanuts to the fryer oil and cook until lightly browned, about 3-4 minutes.",
+    "add the berbere spice mix, tofu, and fenugreek leaves to the fryer oil and cook for 1-2 minutes, stirring constantly.",
+    "add the cooked mozzarella balls to the fryer oil and stir to combine.",
+    "season with coconut aminos, black pepper, and sesame oil.",
+    "garnish with chopped cilantro and serve warm in firm, fired lacquerware bowls (fir-fir)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mozzarella",
+    "one-pan",
+    "robata-grill",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 70
+  },
+  "slug": "nutty-crispy-ethiopian-mozzarella-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-ethiopian-mozzarella-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "robata-grill",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "mozzarella",
+    "descriptor": "nutty crispy",
+    "dishForm": "Jjigae"
+  }
+}

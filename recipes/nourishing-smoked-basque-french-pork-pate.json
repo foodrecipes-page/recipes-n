@@ -1,0 +1,119 @@
+{
+  "title": "Nourishing Smoked Basque-French Pork P\u001eat",
+  "description": "A fermented, tender, and adventurous French-Basque dish featuring cream and double-fried pork. Perfect for a high-protein friendly meal in a lotus leaf wrap.",
+  "cuisine": "French",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 lb ",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup ",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "pork fat",
+      "amount": "2 tbsp",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup ",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine pork shoulder, garlic, thyme, bay leaves, pork fat, white wine, sugar, smoked paprika, and black pepper. Mix well until the meat is evenly coated with the spice blend.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat your smoker to 225\u0019F (110\u0019C) and smoke the meat for 2 hours, or until it reaches an internal temperature of 160\u0019F (71\u0019C).",
+    "After smoking, transfer the meat to a blender or food processor and blend until it reaches a smooth paste.",
+    "In a small saucepan, heat the heavy cream over low heat until it starts to simmer.",
+    "Add the blended pork paste to the cream and stir until well combined.",
+    "Strain the mixture through a fine-mesh sieve into a clean bowl and discard any solids.",
+    "Transfer the mixture to a clean vessel and refrigerate for at least 2 hours or overnight to allow the flavors to meld.",
+    "To assemble the p\u001eat, place a spoonful of the mixture onto a lotus leaf, followed by a spoonful of double-fried pork (see note).",
+    "Roll up the leaf to form a neat package and serve immediately.",
+    "Note: To double-fry the pork, heat a skillet over medium-high heat and cook the pork in batches until browned, then transfer to a wire rack to cool completely. Repeat the process until the pork is golden brown and crispy."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 240,
+  "totalTimeMin": 360,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "basque-french",
+    "cream",
+    "fermented",
+    "high-protein",
+    "lotus-leaf-wrap",
+    "one-pan",
+    "pork",
+    "rillettes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 70
+  },
+  "slug": "nourishing-smoked-basque-french-pork-pate",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoked-basque-french-pork-pate",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "cream",
+    "diet": "high-protein",
+    "region": "basque-french",
+    "cuisineAdjective": "Basque-French",
+    "mainIngredient": "Pork",
+    "descriptor": "Nourishing Smoked",
+    "dishForm": "Pâté"
+  }
+}
