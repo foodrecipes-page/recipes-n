@@ -1,0 +1,123 @@
+{
+  "title": "Nourishing Smoky Kenyan Hash",
+  "description": "A hearty one-pot dish featuring smoky flavors, crispy edges, and a surprising pop from dried cranberries. Perfect for a vegan keto diet, this dish is ready in under an hour.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan",
+    "keto",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Kale",
+      "amount": "2 cups",
+      "notes": "curly or lacinato work well"
+    },
+    {
+      "name": "Dried Cranberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Red Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh and peeled"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large cast-iron skillet over medium-high heat.",
+    "Add cumin seeds and cook for 1 minute, until fragrant.",
+    "Add chopped red onions and cook for 3-4 minutes, until softened.",
+    "Add diced sweet potatoes and cook for 5 minutes, stirring occasionally.",
+    "Add chopped kale and cook for 2-3 minutes, until wilted.",
+    "Add sliced ginger and cook for 1 minute, until fragrant.",
+    "Add cauliflower florets and cook for 2-3 minutes, until slightly tender.",
+    "Add smoked paprika, black pepper, and dried cranberries. Stir to combine.",
+    "Transfer the skillet to the freezer and chill for 15 minutes to set the flavors.",
+    "Remove the skillet from the freezer and use a spatula to break up any large clumps.",
+    "Return the skillet to medium-high heat and cook for an additional 2-3 minutes, until crispy and golden brown.",
+    "Stir in lemon juice and cook for 1 minute, until heated through.",
+    "Serve hot, garnished with lemon wedges and chopped fresh herbs if desired.",
+    "Transfer the skillet to a wire rack to cool slightly before serving.",
+    "Adjust seasoning as needed with lemon juice, salt, or black pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jain-friendly",
+    "keto",
+    "one-pan",
+    "smoked",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nourishing-smoky-kenyan-dish-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-kenyan-dish-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:11Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "dried cranberries",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "dish",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Hash"
+  }
+}
