@@ -1,0 +1,103 @@
+{
+  "title": "Nutty, Wholesome Ethiopian Reblochon Dolsot Tibs",
+  "description": "Rich, creamy, date-night Ethiopian dish featuring reblochon, steamed in a traditional mushimono steamer, egg-free-friendly, form=tibs, vessel=dolsot-stone-bowl.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Berbere spice mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "coarse"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a traditional mushimono steamer, prepare for steaming by adding a little water to the bottom of the steamer basket.",
+    "Place the onion, garlic, and red bell pepper in the steamer basket, and steam for 5 minutes, or until the vegetables are tender.",
+    "Remove the steamer basket from the heat, and stir in the grated ginger, berbere spice mix, paprika, and salt.",
+    "Add the reblochon cheese to the steamer basket, and stir until the cheese is melted and the mixture is well combined."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "date-night",
+    "ethiopian",
+    "high-protein",
+    "one-pan",
+    "rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 56,
+    "carbs": 24,
+    "fat": 64
+  },
+  "slug": "nutty-wholesome-ethiopian-reblochon-dolsot-tibs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-wholesome-ethiopian-reblochon-dolsot-tibs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "reblochon",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Reblochon",
+    "descriptor": "Nutty, Wholesome",
+    "dishForm": "Dolsot Tibs"
+  }
+}
