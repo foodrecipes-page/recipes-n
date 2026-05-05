@@ -1,0 +1,83 @@
+{
+  "title": "Nutty Cheese-Pull Suspiro-Limeno",
+  "description": "A low-calorie-friendly, show-off Peruvian dish featuring fried ripe bananas folded with a cheese-pull texture and a nutty twist.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe banana",
+      "amount": "2"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "30ml"
+    },
+    {
+      "name": "pecans",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "flax seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Soften coconut cream by microwaving for 20 seconds.",
+    "Add pecans, almond flour, flax seeds, nutritional yeast, vanilla extract, and salt to a blender. Blend until smooth and creamy.",
+    "Fold the blended mixture into the softened coconut cream with ripe banana pieces.",
+    "Shape the mixture into small balls or cups using your hands, then flatten slightly.",
+    "Lightly fry in oil at 160°C (320°F) for about 2-3 minutes on each side until golden brown and crispy.",
+    "Serve hot as a snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 24,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "low-calorie-friendly",
+    "nutty-cheese-pull"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "nutty-cheese-pull-suspiro-limeno",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-cheese-pull-suspiro-limeno",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T18:39:05Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "banana",
+    "descriptor": "Nutty Cheese-Pull",
+    "dishForm": "Suspiro-Limeno"
+  }
+}
