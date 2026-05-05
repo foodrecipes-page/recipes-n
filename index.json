@@ -774,6 +774,21 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-crumbly-turkish-butter-mini-dolma",
+    "title": "Nimble Crumbly Turkish Butter Mini Dolma",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "turkish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-date-mexican-beets-tacos",
     "title": "Nimble Date Mexican Beets Tacos",
     "tags": [
@@ -4946,6 +4961,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 13,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-norwegian-poppy-seeds-flatbread",
+    "title": "Nutty Crispy Norwegian Poppy Seeds Flatbread",
+    "tags": [
+      "breakfast-flatbread",
+      "easy-snorlax",
+      "gluten-free-baking",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {

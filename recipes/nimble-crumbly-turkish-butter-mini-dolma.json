@@ -1,0 +1,128 @@
+{
+  "title": "Nimble Crumbly Turkish Butter Mini Dolma",
+  "description": "A tangy, crumbly, comforting Turkish dish featuring butter, baked in individual mini cocottes, gluten-free friendly. Serve warm, garnished with fresh parsley or dill.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground lamb",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1/2 cup",
+      "notes": "preferably short-grain rice"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "as needed"
+    },
+    {
+      "name": "Gluten-free breadcrumbs",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beaten egg",
+      "amount": "1 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat 1 tablespoon butter in a small saucepan over medium heat.",
+    "Add the ground lamb and cook, breaking it up with a spoon, until it is no longer pink, about 5 minutes.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Stir in the cumin, salt, and black pepper and cook for 1 minute.",
+    "Add the cooked rice to the saucepan and stir to combine.",
+    "Transfer the mixture to a large bowl and stir in the chopped parsley, chopped dill, lemon juice, and beaten egg.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Using a small spoon, fill each mini cocotte about 3/4 full of the lamb and rice mixture.",
+    "Mix the remaining 1 tablespoon butter with the gluten-free breadcrumbs and sprinkle over the filling.",
+    "Cover each cocotte with a small piece of parchment paper and cook in the preheated oven for 15-20 minutes, or until the top is golden brown and the filling is heated through.",
+    "Serve the dolmas warm, garnished with additional parsley or dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "nimble-crumbly-turkish-butter-mini-dolma",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-crumbly-turkish-butter-mini-dolma",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:58Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "bain-marie",
+    "primaryIngredient": "butter",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "butter",
+    "descriptor": "Nimble Crumbly",
+    "dishForm": "Mini Dolma"
+  }
+}
