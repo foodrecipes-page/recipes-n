@@ -1,0 +1,119 @@
+{
+  "title": "Nourishing Crumbly Uruguayan Speck Cazuela",
+  "description": "A crumbly, hangover-cure Uruguayan dish featuring speck, ideal for a weekend breakfast or brunch. This resinous, tamasic-friendly cazuela is easy to prepare and serves as a satisfying meal for special occasions or everyday meals.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Speck, diced",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas, canned",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Knead, homemade or store-bought",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh oregano",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon olive oil in a large cazuela over medium heat.",
+    "Add the diced speck and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped bell pepper and cook until tender, about 3 minutes.",
+    "Add the chickpeas, salt, black pepper, and chopped cilantro. Stir to combine.",
+    "Add the knead to the cazuela, breaking it up with a spoon as it warms through.",
+    "Transfer the cazuela to the preheated oven and bake at 375°F (190°C) for 20-25 minutes, or until the speck is crispy and the mixture is heated through.",
+    "Remove the cazuela from the oven and stir in the chopped fresh oregano and white wine vinegar.",
+    "Serve the nourishing crumbly Uruguayan speck cazuela hot, garnished with additional cilantro if desired.",
+    "Let the cazuela rest for 5-10 minutes before serving to allow the flavors to meld and the speck to crisp up."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "homestyle",
+    "knead",
+    "speck",
+    "uruguayan",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 34
+  },
+  "slug": "nourishing-crumbly-uruguayan-speck-cazuela",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-crumbly-uruguayan-speck-cazuela",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:53Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "knead",
+    "primaryIngredient": "speck",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "speck",
+    "descriptor": "Nourishing crumbly",
+    "dishForm": "Cazuela"
+  }
+}
