@@ -1,0 +1,83 @@
+{
+  "title": "Nostalgic Portuguese Ricotta Roast",
+  "description": "A comforting roasted dish from Portugal featuring ricotta cheese.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-sodium",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ricotta cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "Pork fat",
+      "amount": "120g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Salt-free herb seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together ricotta cheese, garlic, and thyme.",
+    "Season the mixture with salt-free herb seasoning and black pepper.",
+    "Transfer the mixture to a small, oven-safe dish.",
+    "Dot the top with pork fat.",
+    "Roast in the preheated oven for 20 minutes.",
+    "Check if the ricotta is slightly browned and set.",
+    "If not, roast for an additional 5-10 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-dinner",
+    "low-carb",
+    "one-pan",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 25
+  },
+  "slug": "nostalgic-portuguese-ricotta-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-portuguese-ricotta-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:06Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "score-fat",
+    "primaryIngredient": "ricotta",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "ricotta",
+    "descriptor": "Nostalgic",
+    "dishForm": "Roast"
+  }
+}
