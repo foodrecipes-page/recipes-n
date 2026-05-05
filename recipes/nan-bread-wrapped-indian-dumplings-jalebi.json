@@ -1,0 +1,61 @@
+{
+  "title": "Nan Bread Wrapped Indian Dumplings Jalebi",
+  "description": "A twist on the classic gulab-jamun, these Indian dumplings are wrapped in crispy nan bread and served with a side of sweet syrup. Perfect for a lazy Sunday afternoon.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons",
+      "notes": "active dry yeast"
+    }
+  ],
+  "instructions": [
+    "Mix 1 cup of warm water with yeast and let it sit for 5 minutes to activate."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 60,
+  "totalTimeMin": 180,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "indian-sweets",
+    "lazy-sunday",
+    "snack",
+    "south-indian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 90,
+    "fat": 20
+  },
+  "slug": "nan-bread-wrapped-indian-dumplings-jalebi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nan-bread-wrapped-indian-dumplings-jalebi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:35Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "mustard seeds",
+    "diet": "dash",
+    "region": "south",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "dumplings",
+    "descriptor": "Nan Bread Wrapped",
+    "dishForm": "Jalebi"
+  }
+}

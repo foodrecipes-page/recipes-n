@@ -13,6 +13,21 @@
     "shard": "n"
   },
   {
+    "slug": "nan-bread-wrapped-indian-dumplings-jalebi",
+    "title": "Nan Bread Wrapped Indian Dumplings Jalebi",
+    "tags": [
+      "breakfast",
+      "indian-sweets",
+      "lazy-sunday",
+      "snack",
+      "south-indian",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 180,
+    "shard": "n"
+  },
+  {
     "slug": "nasty-aerated-light-egyptian-yakhinja-pilaf",
     "title": "Nasty Aerated Light Egyptian Yakhinja Pilaf",
     "tags": [
@@ -3769,6 +3784,19 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-no-cook-korean-haricot-beans-mixed-rice-bowl",
+    "title": "Nutritious no-cook Korean Haricot beans Mixed-Rice-Bowl",
+    "tags": [
+      "bibimbap",
+      "jeju-island",
+      "korean-cuisine",
+      "plant-based"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {

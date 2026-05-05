@@ -1,0 +1,66 @@
+{
+  "title": "Nutritious no-cook Korean Haricot beans Mixed-Rice-Bowl",
+  "description": "Fresh, light, and show-off Korean dish featuring haricot beans, ferment-jang, and a hint of Buddhist temple tradition, served in a corn-husk wrap.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Haricot beans",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Korean ferment-jang",
+      "amount": "50g",
+      "notes": "preferably homemade"
+    }
+  ],
+  "instructions": [
+    "Combine 200g cooked haricot beans and 100g cooked white rice in a bowl.",
+    "Mix in 20g Korean ferment-jang, 1 tsp rice vinegar, and 1/4 tsp salt.",
+    "Add a splash of water if needed to achieve a creamy consistency.",
+    "Stir in 1 tsp toasted sesame oil and garnish with chopped green onion and 1 tsp toasted sesame seeds.",
+    "Wrap each portion in a corn husk for a unique serving vessel.",
+    "Garnish with additional green onion and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bibimbap",
+    "jeju-island",
+    "korean-cuisine",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "nutritious-no-cook-korean-haricot-beans-mixed-rice-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-no-cook-korean-haricot-beans-mixed-rice-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:34Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "ferment-jang",
+    "primaryIngredient": "haricot beans",
+    "diet": "buddhist-temple",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Haricot beans",
+    "descriptor": "Nutritious no-cook",
+    "dishForm": "Mixed-Rice-Bowl"
+  }
+}
