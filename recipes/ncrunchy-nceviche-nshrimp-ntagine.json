@@ -1,0 +1,68 @@
+{
+  "title": "Ncrunchy Nceviche Nshrimp Ntagine",
+  "description": "Floral, crunchy, indulgent Croatian dish featuring jumbo shrimp, slow-cook, sugar-free-friendly.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jumbo shrimps",
+      "amount": 12
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cilantro",
+      "amount": "3 tablespoons fresh cilantro leaves"
+    },
+    {
+      "name": "lime juice",
+      "amount": "4 tablespoons freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Peel and finely chop onion.",
+    "In a mixing bowl, combine chopped onion and lime juice; set aside.",
+    "Add shrimps and cilantro leaves over the onion-lime mixture.",
+    "Drizzle with olive oil lightly.",
+    "Transfer to an oven-safe dish and place in preheated oven for 25 minutes.",
+    "Remove from oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "floral",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 38,
+    "carbs": 12,
+    "fat": 15
+  },
+  "slug": "ncrunchy-nceviche-nshrimp-ntagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ncrunchy-nceviche-nshrimp-ntagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T08:29:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "slow-cook",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ceviche",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Indulgent Crunchy",
+    "dishForm": "Tagine"
+  }
+}
