@@ -1,0 +1,130 @@
+{
+  "title": "Nourishing Lamination-Puff Ukrainian Morbier Tagine",
+  "description": "Spicy, shaggy, indulgent Ukrainian dish featuring morbier, lamination-puff, and macrobiotic-friendly ingredients, cooked in a traditional tagine pot.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "morbier cheese",
+      "amount": "150g",
+      "notes": "softer portion of morbier cheese separated for melting purposes"
+    },
+    {
+      "name": "lamination-puff pastry",
+      "amount": "1 package",
+      "notes": "",
+      "type": "square puff pastry pieces 6cm x 6cm"
+    },
+    {
+      "name": "kasha",
+      "amount": "200g",
+      "notes": "traditional Ukrainian buckwheat groats",
+      "type": "boiled buckwheat groats with nutty flavor"
+    },
+    {
+      "name": "red onion",
+      "amount": "100g",
+      "notes": "",
+      "type": "thinly sliced red onion rings for garnish"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "",
+      "type": "minced for aromatic flavor"
+    },
+    {
+      "name": "carrots",
+      "amount": "150g",
+      "notes": "peeled and sliced in 1.5cm thick pieces",
+      "type": "sweet and crunchy carrot sticks"
+    },
+    {
+      "name": "celery",
+      "amount": "100g",
+      "notes": "sliced in 1.5cm thick pieces",
+      "type": "crisp and refreshing celery sticks"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "250g",
+      "notes": "",
+      "type": "diced tomatoes with garlic and onion flavors"
+    },
+    {
+      "name": "spices",
+      "amount": "1 tsp",
+      "notes": "mix of paprika, cumin, and coriander for bold flavor",
+      "type": "dry spice blend for tagine stew"
+    },
+    {
+      "name": "olive oil",
+      "amount": "50g",
+      "notes": "",
+      "type": "for brushing pastry before baking"
+    },
+    {
+      "name": "water",
+      "amount": "120ml",
+      "notes": "",
+      "type": "for pastry brushing and simmering stew"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30ml",
+      "notes": "",
+      "type": "freshly squeezed for acidity and brightness"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine pot or a large Dutch oven to 180\u0005e1C (350\u0005e1F) with 20g of olive oil for 10 minutes.",
+    "Add the sliced carrots and celery to the preheated tagine pot and saut\u000160 for 5 minutes until slightly caramelized.",
+    "Add the minced garlic, boiled kasha, diced canned tomatoes, and spice mix to the pot and stir for 2 minutes.",
+    "Separate the softer portion of morbier cheese and add it to the pot, stirring for another 2 minutes.",
+    "Place one square puff pastry piece on top of the stew and fold the edges over to form a shaggy crust, brush with olive oil, and pierce with a fork to allow steam to escape.",
+    "Repeat the pastry layering process 2 more times, allowing each layer to rest and puff before adding the next.",
+    "Brush the top layer of pastry with water, then brush with olive oil and score the pastry with a sharp knife to allow steam to escape.",
+    "Place the tagine pot in the preheated oven and bake for 30 minutes or until the pastry is golden brown and puffed.",
+    "Garnish with thinly sliced red onion rings and serve hot with lemon wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "indulgent",
+    "macrobiotic",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 20,
+    "carbs": 120,
+    "fat": 80
+  },
+  "slug": "nourishing-lamination-puff-ukrainian-morbier-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-lamination-puff-ukrainian-morbier-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:35Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "lamination-puff",
+    "primaryIngredient": "morbier",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Morbier",
+    "descriptor": "Nourishing Lamination-Puff",
+    "dishForm": "Tagine"
+  }
+}

@@ -2575,6 +2575,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-lamination-puff-ukrainian-morbier-tagine",
+    "title": "Nourishing Lamination-Puff Ukrainian Morbier Tagine",
+    "tags": [
+      "gluten-free",
+      "indulgent",
+      "macrobiotic",
+      "one-pan",
+      "vegan"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 65,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-lazy-sunday-spanish-trout-fideua",
     "title": "Nourishing Lazy-Sunday Spanish Trout Fideua",
     "tags": [
@@ -5876,6 +5890,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-gooey-greek-eggplant-moussaka",
+    "title": "Nutty Gooey Greek Eggplant Moussaka",
+    "tags": [
+      "gluten-free",
+      "greek",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "greek",
+    "totalTimeMin": 95,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-gooey-korean-bean-bun",
     "title": "Nutty Gooey Korean Bean Bun",
     "tags": [
@@ -6175,6 +6203,21 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-kenyan-peppers-stew",
+    "title": "Nutty Kenyan Peppers Stew",
+    "tags": [
+      "comfort-food",
+      "cozy",
+      "kenyan",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {

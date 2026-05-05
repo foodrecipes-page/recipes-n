@@ -1,0 +1,120 @@
+{
+  "title": "Nutty Kenyan Peppers Stew",
+  "description": "A flavorful and nutritious stew featuring a mix of peppers, with a nutty twist from cashew cream. Perfect for a cozy dinner on a chilly night.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "mixed peppers (bell, banana, jalape\u00037f)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat.",
+    "Add onion, garlic, and ginger, and cook until the onion is translucent.",
+    "Add mixed peppers, cumin, coriander, salt, and black pepper, and cook for 5 minutes.",
+    "Add soaked cashews, water, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Blend the stew with an immersion blender or a regular blender until mostly smooth.",
+    "Stir in fresh cilantro.",
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cozy",
+    "kenyan",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "nutty-kenyan-peppers-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-kenyan-peppers-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:44Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "reduce",
+    "primaryIngredient": "mixed peppers",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "peppers",
+    "descriptor": "nutty",
+    "dishForm": "stew"
+  }
+}
