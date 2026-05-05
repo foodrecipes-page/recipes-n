@@ -186,6 +186,24 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-malty-korean-eggplant-yakimono",
+    "title": "Naturally Malty Korean Eggplant Yakimono",
+    "tags": [
+      "easy-korean",
+      "eggplant",
+      "gluten-free",
+      "korean",
+      "makhua",
+      "thai",
+      "vegetarian",
+      "weeknight",
+      "yakimono"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-smoked-argentinian-beef-skewers",
     "title": "Naturally Smoked Argentinian Beef Skewers",
     "tags": [
@@ -6387,6 +6405,22 @@
       "walnut-recipes"
     ],
     "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-nourishing-turkish-ground-annatto-kazandibi",
+    "title": "Nutty Nourishing Turkish ground annatto Kazandibi",
+    "tags": [
+      "clay-pot",
+      "meat",
+      "mediterranean",
+      "one-pot",
+      "turkish",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
     "totalTimeMin": 40,
     "shard": "n"
   },
