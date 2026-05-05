@@ -1,0 +1,106 @@
+{
+  "title": "Namul-Blanch-Seasoned Croatian Onions Gallette",
+  "description": "A Croatian-inspired dish featuring red onions, namul-blanch-season, and served in banana leaves. Perfect for a low-carb meal prep.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red onions",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Namul-blanch-season",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Banana leaves",
+      "amount": "4 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine red onions and namul-blanch-season in a large bowl.",
+    "Heat olive oil in a pan over medium heat.",
+    "Add garlic and saut\u00057 until fragrant.",
+    "Add red onion mixture and cook for 5 minutes, stirring occasionally.",
+    "Season with salt and black pepper to taste.",
+    "Add water and stir to combine.",
+    "Spoon mixture onto banana leaves and fold to form a parcel.",
+    "Cook in a steamer basket for 10 minutes, or until the onions are tender.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "meal-prep",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "namul-blanch-seasoned-croatian-onions-gallette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/namul-blanch-seasoned-croatian-onions-gallette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:02:29Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "red onions",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "onions",
+    "descriptor": "namul-blanch-seasoned",
+    "dishForm": "gallette"
+  }
+}
