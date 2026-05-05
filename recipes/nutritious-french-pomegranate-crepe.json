@@ -1,0 +1,78 @@
+{
+  "title": "Nutritious French Pomegranate Crepe",
+  "description": "An earthy and silky French crepe dish featuring pomegranate and pitah bread, perfect for a solo dinner or as a light meal.",
+  "cuisine": "French",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pita bread",
+      "amount": "1"
+    },
+    {
+      "name": "fresh pomegranate seeds",
+      "amount": "200g"
+    },
+    {
+      "name": "orange juice",
+      "amount": "50ml"
+    },
+    {
+      "name": "sugar",
+      "amount": "30g"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "flour",
+      "amount": "120g"
+    }
+  ],
+  "instructions": [
+    "Soak the pita bread in orange juice for at least an hour.",
+    "Combine eggs, sugar, and flour in a bowl. Mix well until smooth.",
+    "Heat a non-stick pan over medium heat. Add enough oil to lightly coat the bottom of the pan.",
+    "Dip each piece of soaked pita into the egg mixture, letting any excess drip off.",
+    "Cook crepe for about 30 seconds on each side or until golden brown.",
+    "Serve with fresh pomegranate seeds and a drizzle of olive oil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "crepe",
+    "earthly",
+    "nutritious",
+    "silkilyoung"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nutritious-french-pomegranate-crepe",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-french-pomegranate-crepe",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T06:38:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "brine-wet",
+    "primaryIngredient": "pita bread",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Pomegranate",
+    "descriptor": "Nutritious",
+    "dishForm": "Crepe"
+  }
+}
