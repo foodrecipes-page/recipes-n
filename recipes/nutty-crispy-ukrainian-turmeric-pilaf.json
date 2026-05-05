@@ -1,0 +1,101 @@
+{
+  "title": "Nutty Crispy Ukrainian Turmeric Pilaf",
+  "description": "A post-workout vegetarian dish featuring turmeric and nuts, cooked on a Bichoton grill for a crispy texture and rich flavor.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ukra偃山茶",
+      "amount": 200,
+      "notes": "Use the correct name for a type of tea"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": 150,
+      "notes": "About 1 cup"
+    },
+    {
+      "name": "Carrots",
+      "amount": 100,
+      "notes": "2-3 medium-sized"
+    },
+    {
+      "name": "Onions",
+      "amount": 50,
+      "notes": "1 small onion"
+    },
+    {
+      "name": "Cashews",
+      "amount": 80,
+      "notes": "About 1/4 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": 2,
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": 5,
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": 30,
+      "notes": "For oiling the grill"
+    }
+  ],
+  "instructions": [
+    "Heat a Bichoton grill to medium-high.",
+    "Soak the Ukra偃山茶 for about an hour and then steep it in hot water for about 5 minutes. Strain out any residue and set aside.",
+    "Trim and dice the carrots into small pieces, finely chop the onion, and crush the cashews lightly.",
+    "In a pan, sauté the onions with turmeric powder until fragrant, add garlic powder, salt, and stir well for 2 minutes.",
+    "Add the soaked Ukra偃山茶 to the pan along with diced carrots and chopped onions. Stir thoroughly and cook for about 5 minutes more.",
+    "Preheat the Bichoton grill to high heat and lightly grease it with coconut oil.",
+    "Divide the carrot mixture evenly onto both halves of the grilled surface, spreading out in a thin layer.",
+    "Once hot, place the cashews on top of the pilaf mixture. Keep the fire under control to avoid burning.",
+    "Cook until the nut coating turns golden brown and crispy, about 3-5 minutes per side. The dish should be perfectly cooked when it’s evenly charred with a nice crunchy texture.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty-crispy",
+    "post-workout",
+    "uconn-special",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 14
+  },
+  "slug": "nutty-crispy-ukrainian-turmeric-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-ukrainian-turmeric-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T18:23:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "turmeric",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Turmeric",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Pilaf"
+  }
+}
