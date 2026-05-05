@@ -1,0 +1,82 @@
+{
+  "title": "Nonyoung Tunisian Chicken Oozy Lemony Stir-fry",
+  "description": "A floral, gooey monsoon Tunisian dish featuring lemongrass, soffritto-base, high-protein-friendly and served on a hot-stone plate.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": 4
+    },
+    {
+      "name": "lamb soffritto",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bouquet garni",
+      "amount": null
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "2-3 threads"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green onions (scallions)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 500°F.",
+    "Sprinkle chicken with lemon juice, dried oregano, and thyme leaves. Sear until golden on both sides.",
+    "Place chicken in a hot-stone plate or cast iron skillet that has been preheated to high heat for at least 3 minutes.",
+    "Add soffritto base to the same pan and cook until fragrant, then add lemon juice and saffron.",
+    "Simmer the mixture with the chicken, ensuring it is evenly coated in sauce. Adjust seasoning if necessary.",
+    "Transfer chicken to a serving dish and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "hot-stone-plate"
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 62,
+    "carbs": 39,
+    "fat": 16
+  },
+  "slug": "nonyoung-tunisian-chicken-oozy-lemony-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nonyoung-tunisian-chicken-oozy-lemony-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T15:46:03Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "soffritto-base",
+    "primaryIngredient": "lemongrass",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Oozy Lemony",
+    "dishForm": "Stir-fry"
+  }
+}
