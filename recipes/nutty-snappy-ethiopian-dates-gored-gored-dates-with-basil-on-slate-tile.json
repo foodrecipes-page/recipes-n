@@ -1,0 +1,68 @@
+{
+  "title": "Nutty Snappy Ethiopian Dates Gored-Gored With Basil On Slate-Tile",
+  "description": "A vegetarian-friendly date-night dish featuring al-dente ethiopian dates with a burst of thai-holy basil krapao on slate-tile, combining nuttiness and snappiness for a memorable meal.",
+  "cuisine": "ethiopian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": 4
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "walnut pieces",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Place dates in a bowl and crush them with your hands or use a fork until they have an al-dente texture.",
+    "In another bowl, mix together crushed dates, walnut pieces, and sesame seeds. Add the basil leaves finely chopped to it.",
+    "Transfer the mixture onto slate-tile and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "ethiopian-dish",
+    "gored-gored",
+    "nutty",
+    "snappy",
+    "thai-basil",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 4
+  },
+  "slug": "nutty-snappy-ethiopian-dates-gored-gored-dates-with-basil-on-slate-tile",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-snappy-ethiopian-dates-gored-gored-dates-with-basil-on-slate-tile",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T20:04:17Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Dates",
+    "descriptor": "Nutty Snappy",
+    "dishForm": "Gored-Gored Dates With Basil On Slate-Tile"
+  }
+}
