@@ -1,0 +1,82 @@
+{
+  "title": "Nuggety French Potato Polish Skillet",
+  "description": "A gluten-free friendly, fermented, shattering, nostalgic Polish dish featuring small potatoes in a mirepoix-base for a perfect side or meal.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "small potatoes",
+      "amount": "200g"
+    },
+    {
+      "name": "mirepoix (1:2:2)",
+      "amount": "300g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "celery sticks",
+      "amount": "50g"
+    },
+    {
+      "name": "onions, thinly sliced",
+      "amount": "100g"
+    },
+    {
+      "name": "peas (optional)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Add unsalted butter and mirepoix to the pan, cooking until they soften, stirring occasionally.",
+    "Add thinly sliced onions and garlic cloves. Cook for about 5 minutes, ensuring the onions are translucent.",
+    "Slice small potatoes into rounds or cubes that will fit in your skillet without overcrowding. Add them to the skillet with peas (if using).",
+    "Stir everything together thoroughly until all ingredients are coated with mirepoix base and evenly distributed.",
+    "Reduce heat to low, cover the skillet, and let it cook for 15 minutes or until potatoes are tender and slightly caramelized on the edges.",
+    "Serve hot as a side dish or main meal. Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "nostalgic",
+    "shattering",
+    "small-potatoes"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 54,
+    "fat": 16
+  },
+  "slug": "nuggety-french-potato-polish-skillet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nuggety-french-potato-polish-skillet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T03:30:44Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "small potatoes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "potato",
+    "descriptor": "Nuggety",
+    "dishForm": "Skillet"
+  }
+}
