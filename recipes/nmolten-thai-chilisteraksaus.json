@@ -1,0 +1,83 @@
+{
+  "title": "Nmolten Thai Chilisteraksaus",
+  "description": "A flavorful herbal, molten dish featuring Italian fennel sausages in a one-pot Thai style recipe, suitable for flexitarian diets.",
+  "cuisine": "Thai (Isaan)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian Fennel Sausages",
+      "amount": "24"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "6 stalks"
+    },
+    {
+      "name": "Galangal",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Kaffir Lime Leaves",
+      "amount": "8"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "300 ml"
+    },
+    {
+      "name": "Fish Oil (or Vegetable Oil)",
+      "amount": "150 ml"
+    },
+    {
+      "name": "Chili Paste",
+      "amount": "4 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add lemongrass, galangal, and fennel sausages. Stir for about 3 minutes.",
+    "Add fish sauce and chili paste. Cook until sausage is well coated, stirring occasionally.",
+    "Pour in coconut milk and kaffir lime leaves. Simmer for another 10 minutes.",
+    "Turn down heat to low, cover the pot, and let it simmer gently for 2 hours.",
+    "Check on the consistency; if too thick, add a bit more water until desired texture is reached."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 100,
+  "totalTimeMin": 100,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "herbal-molten-dish",
+    "isaan-style"
+  ],
+  "nutrition": {
+    "calories": 534,
+    "protein": 27,
+    "carbs": 16,
+    "fat": 30
+  },
+  "slug": "nmolten-thai-chilisteraksaus",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nmolten-thai-chilisteraksaus",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T23:38:35Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "reduce",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "flexitarian",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Italian Fennel Sausages",
+    "descriptor": "Molten",
+    "dishForm": "Nam-Prik Thai Chilisteraksaus"
+  }
+}
