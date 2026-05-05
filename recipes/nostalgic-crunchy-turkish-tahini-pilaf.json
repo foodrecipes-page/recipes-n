@@ -1,0 +1,84 @@
+{
+  "title": "Nostalgic Crunchy Turkish Tahini Pilaf",
+  "description": "A rich, chewy, nostalgic Turkish dish featuring shoyu-koji and stone-bowl-dolsot. Perfect for a low-carb breakfast or snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons tahini",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon shoyu-koji",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup pine nuts, crushed",
+      "amount": ""
+    },
+    {
+      "name": "Vegetable oil for drizzling (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water and transfer to a pot.",
+    "Add 1.5 cups of water or low-sodium vegetable broth, cover, and bring to a boil.",
+    "Reduce heat to low, simmer for about 15 minutes until all water is absorbed.",
+    "Drizzle with oil if using, then fluff quinoa with a fork.",
+    "In another bowl, mix tahini and shoyu-koji. Add salt to taste.",
+    "Stir mixture into warm quinoa, then top with crushed pine nuts and parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "low-carb",
+    "nostalgic",
+    "stone-bowl-dolsot",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 12,
+    "fat": 9
+  },
+  "slug": "nostalgic-crunchy-turkish-tahini-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-crunchy-turkish-tahini-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T01:07:16Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Tahini",
+    "descriptor": "Nostalgic Crunchy",
+    "dishForm": "Pilaf"
+  }
+}
