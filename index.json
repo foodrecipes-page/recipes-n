@@ -6903,5 +6903,20 @@
     "cuisine": "Vietnamese",
     "totalTimeMin": 70,
     "shard": "n"
+  },
+  {
+    "slug": "nwholesome-turkish-rolled-oats-bowl",
+    "title": "NWholesome Turkish Rolled Oats Bowl",
+    "tags": [
+      "diabetic-friendly",
+      "earthly",
+      "midnight",
+      "rolled-oats-bowl",
+      "tender",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 7,
+    "shard": "n"
   }
 ]
