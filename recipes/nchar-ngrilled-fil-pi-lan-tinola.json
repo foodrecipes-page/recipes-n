@@ -1,0 +1,86 @@
+{
+  "title": "Nchar-Ngrilled Fil-Pi Lan Tinola",
+  "description": "A tangy, juicy brunch-mood Filipino dish featuring grilled filipino meat with chilli and high-protein ingredients in a light broth for a nutritious twist.",
+  "cuisine": "Filipino",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fil-pi",
+      "amount": 1
+    },
+    {
+      "name": "water",
+      "amount": 2
+    },
+    {
+      "name": "chili flakes",
+      "amount": 3
+    },
+    {
+      "name": "sesame oil",
+      "amount": 4
+    },
+    {
+      "name": "soy sauce",
+      "amount": 5
+    },
+    {
+      "name": "ginger",
+      "amount": 6
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 7
+    },
+    {
+      "name": "lime juice",
+      "amount": 8
+    }
+  ],
+  "instructions": [
+    "Clean and marinate the fil-pi with water, chili flakes, soy sauce, sesame oil, ginger, and garlic.",
+    "Heat a grill or frying pan. Grill the fil-pi on medium-high heat until charred and cooked through.",
+    "Add water to a pot and bring it to a boil. Reduce heat to low and simmer for 15 minutes with optional garnish like lime juice.",
+    "Place grilled fil-pi in individual plates and serve hot over the broth.",
+    "Serve with your choice of side dishes such as steamed rice, mango salsa or pickled vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-dish",
+    "grilled-fil-pi",
+    "high-protein-friendly",
+    "tangy-juicy",
+    "tinola-style"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "nchar-ngrilled-fil-pi-lan-tinola",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nchar-ngrilled-fil-pi-lan-tinola",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T12:30:34Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "chilli",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Tilapia",
+    "descriptor": "Char-Grilled",
+    "dishForm": "Tinola De Tilapia"
+  }
+}

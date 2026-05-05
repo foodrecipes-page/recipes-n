@@ -206,6 +206,20 @@
     "shard": "n"
   },
   {
+    "slug": "nchar-ngrilled-fil-pi-lan-tinola",
+    "title": "Nchar-Ngrilled Fil-Pi Lan Tinola",
+    "tags": [
+      "filipino-dish",
+      "grilled-fil-pi",
+      "high-protein-friendly",
+      "tangy-juicy",
+      "tinola-style"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "ncrunchy-nceviche-nshrimp-ntagine",
     "title": "Ncrunchy Nceviche Nshrimp Ntagine",
     "tags": [
