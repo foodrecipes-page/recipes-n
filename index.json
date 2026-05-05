@@ -143,6 +143,20 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-fermented-springy-indian-curry",
+    "title": "Naturally Fermented Springy Indian Curry",
+    "tags": [
+      "fermented",
+      "gluten-free",
+      "indian",
+      "sattvic",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-flaky-syrian-dough-flatbread",
     "title": "Naturally Flaky Syrian Dough Flatbread",
     "tags": [
@@ -917,6 +931,22 @@
     ],
     "cuisine": "Slovak",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nimble-smoked-galician-potatoes-patatas-bravas",
+    "title": "Nimble Smoked Galician Potatoes Patatas Bravas",
+    "tags": [
+      "galician",
+      "gluten-free",
+      "one-pan",
+      "patatas-bravas",
+      "spanish",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 52,
     "shard": "n"
   },
   {

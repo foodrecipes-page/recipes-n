@@ -1,0 +1,105 @@
+{
+  "title": "Naturally Fermented Springy Indian Curry",
+  "description": "This traditional Kerala dish features a unique blend of fermented flavors and a tender, springy texture. Served in a mason jar, this meal is perfect for a cozy evening with family and friends.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kashmiri chilies",
+      "amount": "2",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a ttukbaegi earthenware pot, heat 1 tbsp of coconut oil over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and sauté for another minute.",
+    "Add the Kashmiri chilies, turmeric, cumin, and coriander, and stir well.",
+    "Add 1 cup of water and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Prepare a mason jar by washing and drying it thoroughly.",
+    "Transfer the curry mixture to the mason jar and seal it with a lid.",
+    "Place the jar in a warm, draft-free area for 2-3 days, allowing it to ferment.",
+    "Once fermented, refrigerate the curry and serve chilled, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "indian",
+    "sattvic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "naturally-fermented-springy-indian-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-fermented-springy-indian-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:16Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "sake-cooking",
+    "diet": "ayurvedic-sattvic",
+    "region": "kerala",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fermented springy dish",
+    "descriptor": "Naturally Fermented Springy",
+    "dishForm": "Curry"
+  }
+}
