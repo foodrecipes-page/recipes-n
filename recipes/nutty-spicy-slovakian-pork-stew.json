@@ -1,0 +1,113 @@
+{
+  "title": "Nutty Spicy Slovakian Pork Stew",
+  "description": "A spicy and comforting Slovakian dish featuring red wine jelly and tender pork, made with Buddhist temple friendly ingredients and cooked to perfection using sous vide.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "red wine jelly",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide machine to 160 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, brown sugar, smoked paprika, ground cumin, cayenne pepper, salt, and black pepper.",
+    "Add the pork cubes to the bowl and toss to coat with the marinade.",
+    "Seal the pork cubes in a sous vide bag and cook for 24 hours.",
+    "In a large pan, heat 2 tablespoons of oil over medium heat and saute the chopped onions until translucent.",
+    "Add the minced garlic to the pan and cook for 1 minute.",
+    "Stir in the red wine jelly and cook until melted and smooth.",
+    "Add the cooked pork cubes to the pan and toss to coat with the sauce.",
+    "Sprinkle the chopped walnuts over the top of the stew and serve hot.",
+    "Garnish with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 1440,
+  "totalTimeMin": 1470,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "comfort-food",
+    "nutty-flavors",
+    "pork-recipes",
+    "slovakian-cuisine",
+    "slow-cooked",
+    "spicy-dishes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "nutty-spicy-slovakian-pork-stew",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-spicy-slovakian-pork-stew",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-05T21:07:28Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "red wine jelly",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Nutty Spicy",
+    "dishForm": "Stew"
+  }
+}
