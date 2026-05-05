@@ -1,0 +1,114 @@
+{
+  "title": "Nutritious Crunchy Brazilian Grains Paella",
+  "description": "A hearty, crunchy, and festive Brazilian dish made with nutritious grains, perfect for a weeknight dinner. This recipe serves 4-6 people and can be prepared in under 30 minutes.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Black Quinoa",
+      "amount": 1,
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Brazilian Red Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cassava Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Jang",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Grated Fresh Coconut",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "Pink Salt",
+      "amount": 1,
+      "notes": "to taste"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large paella pan over medium-high heat.",
+    "Add the sliced zucchini to the paella pan and cook for 3 minutes, or until tender.",
+    "Add the cooked black quinoa, brown rice, and cassava flour to the paella pan and stir to combine.",
+    "Add the fermented jang, garlic, and vegetable broth to the paella pan and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the grated fresh coconut and Brazilian red peppers to the paella pan and stir to combine.",
+    "Cook for an additional 5 minutes, or until the paella is heated through and the flavors have melded together.",
+    "Season with pink salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nutritious-crunchy-brazilian-grains-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-crunchy-brazilian-grains-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:58Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "ferment-jang",
+    "primaryIngredient": "salt",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "grains",
+    "descriptor": "nutritious crunchy",
+    "dishForm": "Paella"
+  }
+}

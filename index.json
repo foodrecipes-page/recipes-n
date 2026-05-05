@@ -2647,6 +2647,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-moroccan-mushrooms-mechoui",
+    "title": "Nourishing Moroccan Mushrooms Mechoui",
+    "tags": [
+      "comfort-food",
+      "main-course",
+      "moroccan",
+      "one-pan",
+      "sugar-free",
+      "vegan"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-northern-irish-fish-sandwich",
     "title": "Nourishing Northern Irish Fish Sandwich",
     "tags": [
@@ -3687,6 +3702,20 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 110,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-crunchy-brazilian-grains-paella",
+    "title": "Nutritious Crunchy Brazilian Grains Paella",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
