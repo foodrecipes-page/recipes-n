@@ -1,0 +1,68 @@
+{
+  "title": "Nfestive Malty Shattering Yam Pilaf",
+  "description": "A festive malaysian dish featuring gluten-free yams baked in a tava-griddle with coriander leaves for a savory and aromatic meal.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Yams",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coarse Sea Salt",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "Fresh Coriander Leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Ginger Powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your tava-griddle to medium-high heat.",
+    "Trim and peel the yams, then dice them into bite-sized pieces.",
+    "Mix the salt and ginger powder with the diced yams in a mixing bowl.",
+    "Sprinkle the coriander leaves over the yam mixture.",
+    "Transfer the yam mixture evenly onto the heated tava-griddle.",
+    "Cook for 10 minutes on each side or until golden brown and tender.",
+    "Serve hot as an accompaniment to your main meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "savory",
+    "savory-fragrant"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 13,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "nfestive-malty-shattering-yam-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nfestive-malty-shattering-yam-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T02:16:21Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "coriander leaves",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Yam",
+    "descriptor": "Festive Malty Shattering",
+    "dishForm": "Pilaf"
+  }
+}
