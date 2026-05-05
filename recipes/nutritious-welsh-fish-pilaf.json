@@ -1,0 +1,107 @@
+{
+  "title": "Welsh Fish Pilaf",
+  "description": "A comforting and earthy Welsh dish featuring tender fish, herbs, and low-carb-friendly ingredients, cooked in a sealed papillote for maximum flavor. This nutritious pilaf makes for a satisfying lunch or dinner option, perfect for a weeknight meal.",
+  "cuisine": "Welsh",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": "wild-caught, skin removed"
+    },
+    {
+      "name": "Chopped leeks",
+      "amount": "2",
+      "notes": "white and light green parts only"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "cauliflower or white rice, uncooked"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": "fresh thyme can be substituted, chopped"
+    },
+    {
+      "name": "Dried parsley",
+      "amount": "1 tsp",
+      "notes": "fresh parsley can be substituted, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "sea salt or kosher salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the salmon fillets in the center of a large piece of parchment paper.",
+    "Combine the chopped leeks, rice, carrots, onion, garlic, thyme, parsley, salt, and pepper in a bowl and mix well.",
+    "Place the leek mixture around the salmon fillets, leaving a 1-inch border on all sides.",
+    "Fold the parchment paper over the ingredients and secure with kitchen twine.",
+    "Place the papillote on a baking sheet and bake for 15-20 minutes, or until the fish is cooked through and the vegetables are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "nutritious-welsh-fish-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-welsh-fish-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:29Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "papillote",
+    "primaryIngredient": "bouquet garni",
+    "diet": "low-carb",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "Fish",
+    "descriptor": "Nutritious",
+    "dishForm": "Pilaf"
+  }
+}
