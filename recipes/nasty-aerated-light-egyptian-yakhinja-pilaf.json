@@ -1,0 +1,67 @@
+{
+  "title": "Nasty Aerated Light Egyptian Yakhinja Pilaf",
+  "description": "A sweet, light and airy Egyptian pilaf using self-raising flour that's perfect as a snack or dessert. Low-carb-friendly.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup of almond milk",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons honey syrup",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1/4 cup self-raising flour",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch salt",
+      "notes": "optional for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat.",
+    "Add honey syrup and stir until it's fully melted and combined with the almond milk.",
+    "Gradually add self-raising flour, stirring continuously to avoid lumps.",
+    "Cook on medium-high for about 2 minutes or until the mixture thickens slightly.",
+    "Fold in a pinch of salt if using (optional).",
+    "Serve immediately as is, or let cool and serve chilled with fresh fruit."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "honey",
+    "low-carb",
+    "no-baking"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "nasty-aerated-light-egyptian-yakhinja-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nasty-aerated-light-egyptian-yakhinja-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T13:18:56Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "pressure-cook",
+    "primaryIngredient": "self-raising flour",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Yakhinja",
+    "descriptor": "Aerated Light",
+    "dishForm": "Pilaf"
+  }
+}
