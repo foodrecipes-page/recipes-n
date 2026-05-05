@@ -1,0 +1,111 @@
+{
+  "title": "Nimble Italian Smoked Mackerel Panettone",
+  "description": "A light and airy panettone filled with smoked mackerel, perfect for a weeknight dinner. The combination of the fish, vegetables, and Italian seasonings creates a flavorful and aromatic dish.",
+  "cuisine": "Italian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Mackerel",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lardons (small pieces of pancetta)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a pan over medium heat, cook the lardons until crispy, then remove from heat and set aside.",
+    "In the same pan, add the butter and sauté the onion until translucent, about 3 minutes.",
+    "Add the garlic and cook for an additional minute, until fragrant."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 44,
+    "carbs": 18,
+    "fat": 22
+  },
+  "slug": "nimble-italian-smoked-mackerel-panettone",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-italian-smoked-mackerel-panettone",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:03Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "lardons-render",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "smoked-mackerel",
+    "descriptor": "Nimble",
+    "dishForm": "Panettone"
+  }
+}

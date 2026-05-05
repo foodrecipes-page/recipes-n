@@ -833,6 +833,21 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-grilled-kenyan-beetroot-biryani",
+    "title": "Nimble Grilled Kenyan Beetroot Biryani",
+    "tags": [
+      "beetroot",
+      "brunch",
+      "kenyan",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 75,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-irish-pepper-hash",
     "title": "Nimble Irish Pepper Hash",
     "tags": [
@@ -845,6 +860,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 37,
+    "shard": "n"
+  },
+  {
+    "slug": "nimble-italian-smoked-mackerel-panettone",
+    "title": "Nimble Italian Smoked Mackerel Panettone",
+    "tags": [
+      "fish",
+      "high-protein",
+      "italian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {

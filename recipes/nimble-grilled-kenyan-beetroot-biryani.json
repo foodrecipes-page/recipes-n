@@ -1,0 +1,104 @@
+{
+  "title": "Nimble Grilled Kenyan Beetroot Biryani",
+  "description": "A winey, flaky, brunch-mood kenyan dish featuring beetroot, sous-vide, pescatarian-friendly, vessel=binchotan-grill",
+  "cuisine": "kenyan",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": "toasted "
+    },
+    {
+      "name": "fenugreek leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped "
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped "
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated "
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat binchotan grill to 400°f. ",
+    "Soak the basmati rice in water for at least 30 min. ",
+    "Sous-vide beetroot at 180°f for 1 hour and 30 min. ",
+    "Toast the pumpkin seeds on the binchotan grill for 5 min. ",
+    "Heat coconut oil in a pan and sauté the onion and ginger for 5 min. ",
+    "Add fenugreek leaves, salt and lemon juice to the pan and stir for 1 min. ",
+    "Combine cooked basmati rice, beetroot, and toasted pumpkin seeds in a mixing bowl. ",
+    "Fluff the mixture with a fork and serve hot."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 35,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot",
+    "brunch",
+    "kenyan",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 14
+  },
+  "slug": "nimble-grilled-kenyan-beetroot-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-grilled-kenyan-beetroot-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:15Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "sous-vide",
+    "primaryIngredient": "beetroot",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Beetroot",
+    "descriptor": "Nimble Grilled",
+    "dishForm": "Biryani"
+  }
+}
