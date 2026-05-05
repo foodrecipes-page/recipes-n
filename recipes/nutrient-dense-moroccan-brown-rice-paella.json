@@ -1,0 +1,119 @@
+{
+  "title": "Nutrient-Dense Moroccan Brown Rice Paella",
+  "description": "A grassy, velvety, post-workout Moroccan dish featuring brown rice, sashimi-cut, diabetic-friendly. Cook in a large kazan-cauldron with aromatic spices and fresh herbs.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "diabetic",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": "preferably short grain"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "+low-sodium"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large kazan-cauldron over medium-high heat.",
+    "Add onion and cook until translucent, about 3 minutes.",
+    "Add garlic, ginger, cumin, coriander, paprika, and cayenne pepper. Cook for 1 minute.",
+    "Add chicken broth and bring to a boil.",
+    "Add brown rice and stir to coat with the spice mixture.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the liquid is absorbed.",
+    "Fluff the rice with a fork and stir in chopped parsley and lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "moroccan",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nutrient-dense-moroccan-brown-rice-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutrient-dense-moroccan-brown-rice-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:22Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "brown rice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "brown rice",
+    "descriptor": "Nutrient-Dense",
+    "dishForm": "Paella"
+  }
+}
