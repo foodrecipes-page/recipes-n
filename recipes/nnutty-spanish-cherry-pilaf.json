@@ -1,0 +1,73 @@
+{
+  "title": "NNutty Spanish Cherry Pilaf",
+  "description": "A fresh, creamy Mediterranean dish featuring dried cherries in a bhuna sauce for a light and romantic meal.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup dried sour cherries",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 small onion, finely chopped (optional)",
+      "amount": "",
+      "notes": "Use for a richer flavor."
+    },
+    {
+      "name": "1 small bell pepper, finely chopped (optional)",
+      "amount": "",
+      "notes": "Use for added color and sweetness."
+    }
+  ],
+  "instructions": [
+    "Heat butter in a saucepan over medium heat.",
+    "Add dried cherries and cook until softened, about 5 minutes.",
+    "Stir in olive oil and let simmer for another minute.",
+    "If using onion and bell pepper, add at this point and stir well for 1-2 minutes.",
+    "Remove from heat and serve immediately as a side dish or over rice for an extra meal.",
+    "Optional: garnish with fresh herbs like parsley or mint before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "nocumin",
+    "noonion"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 6,
+    "carbs": 36,
+    "fat": 15
+  },
+  "slug": "nnutty-spanish-cherry-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nnutty-spanish-cherry-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T02:18:19Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "bhuna",
+    "primaryIngredient": "dried cherries",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cherry",
+    "descriptor": "Nutty",
+    "dishForm": "Pilaf"
+  }
+}
