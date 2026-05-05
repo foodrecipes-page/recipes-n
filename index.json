@@ -2575,6 +2575,22 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-lazy-sunday-spanish-trout-fideua",
+    "title": "Nourishing Lazy-Sunday Spanish Trout Fideua",
+    "tags": [
+      "anti-inflammatory",
+      "catalan",
+      "comfort-food",
+      "fideua",
+      "lazy-sunday",
+      "spanish",
+      "trout"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-light-korean-red-cabbage-noodles",
     "title": "Nourishing Light Korean Red Cabbage Noodles",
     "tags": [
@@ -3674,6 +3690,20 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 48,
+    "shard": "n"
+  },
+  {
+    "slug": "nutmegy-molten-brazilian-meal-prep-tart",
+    "title": "Nutmegy Molten Brazil Meal-Prep Tart",
+    "tags": [
+      "lacto-vegetarian",
+      "low-carb",
+      "meal-prep",
+      "snack",
+      "tart"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {

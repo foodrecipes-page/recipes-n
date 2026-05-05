@@ -1,0 +1,71 @@
+{
+  "title": "Nutmegy Molten Brazil Meal-Prep Tart",
+  "description": "A tangy and creamy Brazilian-style tart, perfect for meal prep, featuring a nutmeg-infused filling and a crunchy coconut crust.",
+  "cuisine": "Brazilian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375\u00153F (190\u00153C).",
+    "Line a 12-cup muffin tin with paper liners. ",
+    "In a medium bowl, whisk together coconut flakes, sugar, and salt. ",
+    "Add in melted butter and stir until well combined. ",
+    "Press about 1 tablespoon of the coconut mixture into the bottom of each muffin cup. ",
+    "Bake for 10 minutes, or until lightly golden. ",
+    "In a blender or food processor, combine coconut cream, eggs, nutmeg, and sugar. ",
+    "Blend until smooth and creamy. ",
+    "Pour the mixture evenly over the coconut crusts. ",
+    "Bake for an additional 15-20 minutes, or until the filling is set and the edges are lightly golden. ",
+    "Let cool completely in the pan before refrigerating or freezing for meal prep. ",
+    "Serve chilled, garnished with toasted coconut flakes and a sprinkle of nutmeg.",
+    "Servings: 12",
+    "notes: These tarts freeze well for up to 3 months."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "lacto-vegetarian",
+    "low-carb",
+    "meal-prep",
+    "snack",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "nutmegy-molten-brazilian-meal-prep-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutmegy-molten-brazilian-meal-prep-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "nutmeg",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "meal-prep",
+    "descriptor": "nutmegy molten",
+    "dishForm": "tart"
+  }
+}

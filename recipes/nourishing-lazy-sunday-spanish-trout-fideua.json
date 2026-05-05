@@ -1,0 +1,93 @@
+{
+  "title": "Nourishing Lazy-Sunday Spanish Trout Fideua",
+  "description": "A hearty Catalan-inspired dish featuring pan-seared trout, crispy double-rise bread, and a savory sauce to satisfy your lazy Sunday cravings. This anti-inflammatory-friendly recipe is perfect for a comforting weekend meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "6 trout fillets",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "1 loaf double-rise bread",
+      "amount": "1",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "1 onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "1 cup mixed mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 cups fish stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated tomme cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "To assemble the fideua, place a trout fillet on each plate, then spoon the sauce over the top. Top with toasted bread crumbs and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "catalan",
+    "comfort-food",
+    "fideua",
+    "lazy-sunday",
+    "spanish",
+    "trout"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 21,
+    "fat": 33
+  },
+  "slug": "nourishing-lazy-sunday-spanish-trout-fideua",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-lazy-sunday-spanish-trout-fideua",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:27:09Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "trout",
+    "diet": "anti-inflammatory",
+    "region": "catalan",
+    "cuisineAdjective": "Lazy-Sunday Spanish",
+    "mainIngredient": "Trout",
+    "descriptor": "Nourishing",
+    "dishForm": "Fideua"
+  }
+}
