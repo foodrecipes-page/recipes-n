@@ -1,0 +1,65 @@
+{
+  "title": "Nimble Irish Pepper Hash",
+  "description": "A light and pillowy Irish dish featuring peppers, perfect for a quick weeknight meal or brunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 large onion",
+      "amount": "chopped",
+      "notes": "about 2 cups chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large cast-iron skillet over medium-high heat.",
+    "Add the diced bacon and cook until crispy, about 6 minutes.",
+    "Remove the cooked bacon from the skillet and set aside on a paper towel-lined plate.",
+    "Add the chopped onion and bell peppers to the skillet and cook until the vegetables are tender, about 8 minutes.",
+    "Add the minced garlic, thyme, and paprika to the skillet and cook for 1 minute, stirring constantly.",
+    "Stir the cooked bacon back into the skillet and season with flaky sea salt.",
+    "Create 4-6 wells in the vegetables and crack an egg into each well.",
+    "Transfer the skillet to the oven and cook until the eggs are almost set, about 10-12 minutes.",
+    "Remove the skillet from the oven and sprinkle with chopped chives.",
+    "Serve the Nimble Irish Pepper Hash hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "high-protein",
+    "irish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "nimble-irish-pepper-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-irish-pepper-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:09:53Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "flambe",
+    "primaryIngredient": "pepper",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pepper",
+    "descriptor": "Nimble",
+    "dishForm": "Hash"
+  }
+}

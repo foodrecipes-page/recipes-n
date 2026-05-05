@@ -1,0 +1,115 @@
+{
+  "title": "Nutty Syrian Chicken Kebabs",
+  "description": "Umami-rich Syrian dish featuring peanut brittle and grilled chicken, perfect for a low-sodium solo dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "peanut brittle",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "zest of 1 lemon",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat. ",
+    "Thread chicken breast, onion, bell pepper, and lemon zest onto skewers. ",
+    "In a small bowl, mix together peanut brittle, paprika, cumin, coriander, garlic powder, salt-free seasoning blend, and black pepper. ",
+    "Brush skewers with olive oil and sprinkle with peanut brittle mixture. ",
+    "Grill skewers for 10 minutes per side, or until chicken is cooked through. ",
+    "Let skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "low-sodium",
+    "one-pan",
+    "peanut-brittle",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "nutty-syrian-chicken-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-syrian-chicken-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:09:50Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "robata-grill",
+    "primaryIngredient": "peanut brittle",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Nutty",
+    "dishForm": "Kebabs"
+  }
+}

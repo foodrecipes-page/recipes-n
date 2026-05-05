@@ -801,6 +801,21 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-irish-pepper-hash",
+    "title": "Nimble Irish Pepper Hash",
+    "tags": [
+      "breakfast",
+      "easy-to-make",
+      "high-protein",
+      "irish",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 37,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-japanese-chicken-gyoza",
     "title": "Nimble Japanese Chicken Gyoza",
     "tags": [
@@ -6692,6 +6707,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 15,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-syrian-chicken-kebabs",
+    "title": "Nutty Syrian Chicken Kebabs",
+    "tags": [
+      "grilled-chicken",
+      "low-sodium",
+      "one-pan",
+      "peanut-brittle",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
