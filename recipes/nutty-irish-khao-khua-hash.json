@@ -1,0 +1,110 @@
+{
+  "title": "Nutty Irish Khao Khua Hash",
+  "description": "A crunchy, nutty, and flavorful Irish dish made with yuzu, fried khao khua, and vegetables. Perfect for meal prep and egg-free-friendly.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Khao Khua",
+      "amount": "2 cups",
+      "notes": "Fry-grind rice to make khao khua."
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "Unsalted butter."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Yuzu Juice",
+      "amount": "2 tablespoons",
+      "notes": "Fresh yuzu juice."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste."
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional."
+    },
+    {
+      "name": "Chopped Walnuts",
+      "amount": "1/2 cup",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add chopped onion, mushroom, carrot, and zucchini to the skillet. Cook until the vegetables are tender, about 5 minutes.",
+    "Add khao khua to the skillet and stir to combine with the vegetables.",
+    "Add yuzu juice, salt, and black pepper to the skillet. Stir to combine.",
+    "Cook for an additional 2 minutes, stirring frequently.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley and chopped walnuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "high-calorie",
+    "irish-cuisine",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "nutty-irish-khao-khua-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-irish-khao-khua-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:02Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "yuzu",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "khao khua",
+    "descriptor": "nutty",
+    "dishForm": "Hash"
+  }
+}

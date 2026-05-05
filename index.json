@@ -1675,6 +1675,20 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-velvety-spicy-turkish-pork-shoulder-steaks-dumplings",
+    "title": "nostalgic velvety spicy turkish pork shoulder steaks dumplings",
+    "tags": [
+      "comfort-food",
+      "low-fat",
+      "one-pan",
+      "turkish-inspired",
+      "weeknight"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-algerian-kinako-tagine",
     "title": "Nourishing Algerian Kinako Tagine",
     "tags": [
@@ -5950,6 +5964,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-irish-khao-khua-hash",
+    "title": "Nutty Irish Khao Khua Hash",
+    "tags": [
+      "egg-free",
+      "high-calorie",
+      "irish-cuisine",
+      "meal-prep",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 22,
     "shard": "n"
   },
   {

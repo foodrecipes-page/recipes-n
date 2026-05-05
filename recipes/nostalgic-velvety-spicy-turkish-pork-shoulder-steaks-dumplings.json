@@ -1,0 +1,126 @@
+{
+  "title": "nostalgic velvety spicy turkish pork shoulder steaks dumplings",
+  "description": "a rich and savory turkish-inspired dish featuring tender pork shoulder steaks and fluffy dumplings",
+  "cuisine": "turkish",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder steaks",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dumplings"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "water",
+      "amount": "",
+      "notes": "as needed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "season the pork shoulder steaks with salt, black pepper, and cayenne pepper (if using).",
+    "heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "add the paprika and cumin to the skillet and cook for 1 minute.",
+    "add the pork shoulder steaks to the skillet and cook until browned on both sides.",
+    "remove the pork shoulder steaks from the skillet and set aside.",
+    "in a large bowl, combine the flour and a pinch of salt.",
+    "gradually add the beef broth to the bowl, stirring with a fork until the dough comes together.",
+    "turn the dough out onto a floured surface and knead for 5 minutes.",
+    "divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "flatten each ball of dough into a disk shape and wrap each disk around a pork shoulder steak.",
+    "place the wrapped pork shoulder steaks in a large Dutch oven or pot with a lid and add enough water to cover the steaks.",
+    "bring the water to a boil, then cover the pot and transfer it to the oven.",
+    "bake the pork shoulder steaks for 30 minutes, then remove the pot from the oven and simmer on the stovetop for 10 minutes.",
+    "serve the pork shoulder steaks and dumplings hot, garnished with chopped fresh parsley.",
+    "serve with a side of yogurt sauce (see below for recipe).",
+    "yogurt sauce: mix together 1 cup of plain yogurt, 1 tablespoon of lemon juice, and 1 tablespoon of chopped fresh dill. Cover and refrigerate until ready to serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "low-fat",
+    "one-pan",
+    "turkish-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "nostalgic-velvety-spicy-turkish-pork-shoulder-steaks-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-velvety-spicy-turkish-pork-shoulder-steaks-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:47Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "reduce",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pork shoulder steaks",
+    "descriptor": "nostalgic velvety spicy",
+    "dishForm": "Dumplings"
+  }
+}
