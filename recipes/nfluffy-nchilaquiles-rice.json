@@ -1,0 +1,84 @@
+{
+  "title": "Nfluffy NChilaquiles Rice",
+  "description": "A festive Mexican dish featuring sour, fluffy rice with the touch of appleton rum for a festive twist.",
+  "cuisine": "mexican (veracruzan)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long grain rice",
+      "amount": 200
+    },
+    {
+      "name": "water",
+      "amount": 500
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": 30
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": 100
+    },
+    {
+      "name": "appliance of choice (pot, slow cooker, rice cooker)",
+      "amount": ""
+    },
+    {
+      "name": "apleton rum",
+      "amount": 2
+    },
+    {
+      "name": "salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the long grain rice and soak it in water for at least 30 minutes.",
+    "Drain the soaking liquid and transfer the rice into your appliance of choice.",
+    "Add low-sodium chicken broth, apple cider vinegar, and a few pinches of salt to taste.",
+    "Cook on medium heat until all the liquid is absorbed and the rice is fluffy and cooked through.",
+    "In another dish or mixing bowl, mix in the appleton rum with the cooked rice, ensuring it's evenly coated.",
+    "prepTimeMin: 30",
+    "cookTimeMin: 45",
+    "totalTimeMin: 75",
+    "servings: 6-8",
+    "difficulty: medium",
+    "tags: sour-rice, festive-mexican, low-sodium-friendly, appleton-rum",
+    "nutrition: {calories: 300, protein: 15, carbs: 40, fat: 10}"
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mexican-veracruzan",
+    "dinner"
+  ],
+  "slug": "nfluffy-nchilaquiles-rice",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nfluffy-nchilaquiles-rice",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T16:10:42Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "broil",
+    "primaryIngredient": "appleton rum",
+    "diet": "low-sodium",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Rice",
+    "descriptor": "Fluffy",
+    "dishForm": "Chilaquiles Rice"
+  }
+}

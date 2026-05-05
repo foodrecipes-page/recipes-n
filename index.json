@@ -403,6 +403,17 @@
     "shard": "n"
   },
   {
+    "slug": "nfluffy-nchilaquiles-rice",
+    "title": "Nfluffy NChilaquiles Rice",
+    "tags": [
+      "mexican-veracruzan",
+      "dinner"
+    ],
+    "cuisine": "mexican (veracruzan)",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nice-crisp-spanish-shrimp-paella",
     "title": "Nice Crisp Spanish Shrimp Paella",
     "tags": [
