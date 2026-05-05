@@ -2634,6 +2634,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-light-argentinian-chicken-empanadas",
+    "title": "Nourishing Light Argentinian Chicken Empanadas",
+    "tags": [
+      "argentinian",
+      "easy-empanadas",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 65,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-light-korean-red-cabbage-noodles",
     "title": "Nourishing Light Korean Red Cabbage Noodles",
     "tags": [
@@ -3779,6 +3793,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutrient-rich-saudi-arabian-celery-grill",
+    "title": "Saudi-Arabian Celery Grill",
+    "tags": [
+      "celery",
+      "grilled",
+      "middle-eastern",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -6251,6 +6279,22 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-juicy-venezuelan-manchego-quesadilla",
+    "title": "Nutty Juicy Venezuelan Manchego Quesadilla",
+    "tags": [
+      "high-protein",
+      "manchego",
+      "midnight-craving",
+      "one-pan",
+      "quesadilla",
+      "venezuelan",
+      "weeknight"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-kenyan-peppers-stew",
     "title": "Nutty Kenyan Peppers Stew",
     "tags": [
@@ -6657,6 +6701,20 @@
       "roasted-vegetables"
     ],
     "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-russian-peas-borscht",
+    "title": "Nutty Russian Peas Borscht",
+    "tags": [
+      "comfort-food",
+      "one-pan",
+      "russian",
+      "vegan",
+      "winter"
+    ],
+    "cuisine": "russian",
     "totalTimeMin": 50,
     "shard": "n"
   },

@@ -1,0 +1,107 @@
+{
+  "title": "Saudi-Arabian Celery Grill",
+  "description": "A sweet and savory dish featuring the flavors of Saudi Arabia, perfect for a lazy Sunday evening. This recipe uses a binchotan grill for a smoky flavor and paleo-friendly ingredients.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Celery stalks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "Paleo-friendly alternative to butter"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use celery salt for added flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 pound",
+      "notes": "For the grill"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400°F (200°C).",
+    "In a small bowl, mix together the ghee, lemon juice, salt, black pepper, cumin, and paprika.",
+    "Brush the mixture onto the celery stalks, reserving a small amount for serving.",
+    "Place the celery stalks on the grill and cook for 4-5 minutes on each side, or until tender and slightly charred.",
+    "Meanwhile, heat the remaining ghee mixture in a small saucepan over low heat.",
+    "Stir in the chopped parsley and cook for 1-2 minutes, or until fragrant.",
+    "To serve, place the grilled celery stalks on a plate and drizzle with the parsley-infused ghee.",
+    "Garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "celery",
+    "grilled",
+    "middle-eastern",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "nutrient-rich-saudi-arabian-celery-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutrient-rich-saudi-arabian-celery-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:02Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "steam",
+    "primaryIngredient": "celery salt",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Celery",
+    "descriptor": "Nutrient-Rich",
+    "dishForm": "Grill"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "title": "Nutty Juicy Venezuelan Manchego Quesadilla",
+  "description": "A midnight-craving Venezuelan dish featuring nutty, fermented Manchego cheese and a crispy, cheesy exterior.",
+  "cuisine": "Latin American",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fermented cheese rind",
+      "amount": "2 tablespoons",
+      "notes": "Crumbly, tangy, and sweet."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste."
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "1/4 cup",
+      "notes": "For added crunch."
+    },
+    {
+      "name": "Venezuelan cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Place a large skillet over medium heat and add 1 tablespoon olive oil, allowing it to warm up for a minute."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "manchego",
+    "midnight-craving",
+    "one-pan",
+    "quesadilla",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 28,
+    "fat": 35
+  },
+  "slug": "nutty-juicy-venezuelan-manchego-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-juicy-venezuelan-manchego-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:28Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "manchego",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Manchego",
+    "descriptor": "Nutty Juicy",
+    "dishForm": "Quesadilla"
+  }
+}
