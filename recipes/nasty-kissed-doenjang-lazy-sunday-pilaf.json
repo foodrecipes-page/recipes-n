@@ -1,0 +1,91 @@
+{
+  "title": "Nasty-Kissed Doenjang Lazy-Sunday Pilaf",
+  "description": "A pillowy, sour dish perfect for a lazy Sunday meal featuring doenjang, served as a side or main course.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup cooked white rice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp doenjang (Korean fermented bean paste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup shredded green onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp fresh ginger, peeled and grated",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3/4 cup diced cucumber, julienned",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 eggs, cooked and chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp sesame oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a bowl.",
+    "Gently mix until well combined.",
+    "Serve immediately for best texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "doenjang",
+    "irish-style",
+    "lazy-sunday",
+    "martial-arts-inspired",
+    "nut-free-friendly",
+    "sour-diet"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "nasty-kissed-doenjang-lazy-sunday-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nasty-kissed-doenjang-lazy-sunday-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T21:23:40Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "doenjang",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Doenjang",
+    "descriptor": "Lazy-Sunday",
+    "dishForm": "Pilaf"
+  }
+}
