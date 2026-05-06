@@ -1,0 +1,114 @@
+{
+  "title": "Nutritious Roasted Mexican Peach Pozole",
+  "description": "A twist on traditional pozole, this recipe incorporates the sweetness of peaches and the richness of roasted vegetables. Perfect for a cozy dinner or lunch.",
+  "cuisine": "mexican",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 lb",
+      "notes": "sous-vide"
+    },
+    {
+      "name": "peeled, diced peaches",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "hominy",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "peach juice",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Place the chicken breasts in a sous-vide machine and cook at 130°F for 1 hour.",
+    "While the chicken is cooking, roast the peaches in a preheated oven at 400°F for 20 minutes, or until caramelized.",
+    "In a large pot, sauté the chopped onion and minced garlic in a little bit of water until softened.",
+    "Add the diced onion mixture to the pot, along with the ground cumin and smoked paprika. Cook for 1 minute.",
+    "Add the diced hominy, low-sodium chicken broth, and peach juice to the pot. Stir to combine.",
+    "Once the chicken is cooked, remove it from the sous-vide machine and shred it with two forks.",
+    "Add the shredded chicken to the pot and stir to combine.",
+    "Season with salt to taste, then serve hot in individual fondue pots.",
+    "Garnish with fresh cilantro, lime wedges, and diced peaches, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fall",
+    "healthy-dinner",
+    "high-fiber",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "nutritious-roasted-mexican-peach-pozole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-roasted-mexican-peach-pozole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:50Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "sous-vide",
+    "primaryIngredient": "peach juice",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "peach",
+    "descriptor": "Nutritious Roasted",
+    "dishForm": "Pozole"
+  }
+}

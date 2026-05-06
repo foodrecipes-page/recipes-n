@@ -1,0 +1,70 @@
+{
+  "title": "Nutty Flaky Slovakian Baby Pak Koi Lasagna",
+  "description": "A comforting Slovakian dish featuring nutty flaky layers and tender baby pak koi, perfect for a weeknight dinner. This low-calorie-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat lasagna noodles",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1/4 cup",
+      "notes": "makes layers nutty and cheesy"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375F (190C).",
+    "Cook the whole wheat lasagna noodles according to package instructions.",
+    "Sauté the baby pak koi in a little bit of oil until tender.",
+    "In a blender, combine 1/4 cup of nutritional yeast, 1/4 cup of olive oil, and 1 tablespoon of lemon juice to make a cheesy sauce.",
+    "In a separate pan, sauté the mixture from the blender until it thickens.",
+    "Layer the cooked noodles, pak koi mixture, and cheesy sauce in a baking dish.",
+    "Repeat the layers two more times, finishing with a layer of cheesy sauce on top.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and bake for an additional 10-15 minutes, or until the top is golden brown.",
+    "Let the lasagna rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-calorie",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 16
+  },
+  "slug": "nutty-flaky-slovakian-baby-pak-koi-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-flaky-slovakian-baby-pak-koi-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:49Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "en-croute",
+    "primaryIngredient": "baby pak koi",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "baby pak koi",
+    "descriptor": "nutty flaky",
+    "dishForm": "Lasagna"
+  }
+}
