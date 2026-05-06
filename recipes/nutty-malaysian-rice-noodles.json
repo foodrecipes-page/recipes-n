@@ -1,0 +1,116 @@
+{
+  "title": "Nutty Malaysian Rice Noodles",
+  "description": "A kid-friendly, malaysian-inspired dish featuring nutty rice noodles and a fermented sauce. This gluten-free-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "200g",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fermented soybean paste (kicap manis)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "koosh jerky",
+      "amount": "2 tbsp",
+      "notes": "ferment"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large pan over medium heat.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "In a blender, combine kicap manis, koosh jerky, kosher salt, black pepper, sugar, and 2 cups of water. Blend until smooth.",
+    "Add the blended mixture to the pan and stir to combine.",
+    "Add the rice noodles to the pan and stir-fry for 2-3 minutes, until the noodles are coated in the sauce and slightly caramelized.",
+    "Garnish with chopped scallions and chili flakes, to taste.",
+    "Serve hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "nutty-malaysian-rice-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-malaysian-rice-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:52:54Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "ferment",
+    "primaryIngredient": "kosher salt",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "rice",
+    "descriptor": "nutty",
+    "dishForm": "Noodles"
+  }
+}

@@ -4083,6 +4083,22 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-energizing-italian-cabbage-ribollita",
+    "title": "Nutritious energizing Italian cabbage Ribollita",
+    "tags": [
+      "cabbage",
+      "easy",
+      "italian",
+      "keto-friendly",
+      "one-pan",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-french-pomegranate-crepe",
     "title": "Nutritious French Pomegranate Crepe",
     "tags": [
@@ -6708,6 +6724,19 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-malaysian-rice-noodles",
+    "title": "Nutty Malaysian Rice Noodles",
+    "tags": [
+      "gluten-free",
+      "kid-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
