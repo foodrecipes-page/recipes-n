@@ -1,0 +1,111 @@
+{
+  "title": "nutty dense ethiopian turkey neck en-croute",
+  "description": "energizing dish featuring turkey neck, en-croute, and a blend of spices, great for a satisfying meal. traditionally served with a side of injera.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turkey necks",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "injera",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "teff flour",
+      "amount": "1 cup",
+      "notes": "for dusting the turkey necks"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing the turkey necks"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tsp",
+      "notes": "ethiopian spice blend"
+    },
+    {
+      "name": "nut-free spice blend",
+      "amount": "1 tsp",
+      "notes": "custom blend"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400\u00155f.",
+    "in a large bowl, whisk together teff flour, berbere spice, nut-free spice blend, salt, and black pepper.",
+    "add the chopped onion, grated ginger, and minced garlic to the bowl and mix well.",
+    "add the turkey necks to the bowl and toss to coat with the spice mixture.",
+    "brush the turkey necks with olive oil and place them in a large baking dish.",
+    "cover the baking dish with foil and bake for 30 minutes.",
+    "remove the foil and continue baking for an additional 20-25 minutes, or until the turkey necks are cooked through and the internal temperature reaches 165\u00155f.",
+    "serve the turkey necks hot with injera on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "nutty-dense-ethiopian-turkey-neck-en-croute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-ethiopian-turkey-neck-en-croute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:06:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "en-croute",
+    "primaryIngredient": "turkey neck",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "turkey neck",
+    "descriptor": "nutty dense",
+    "dishForm": "en-croute"
+  }
+}
