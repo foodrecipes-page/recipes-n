@@ -1,0 +1,130 @@
+{
+  "title": "Kyushu-Style Pork Noodle Soup",
+  "description": "A hearty, warming Kyushu-inspired dish featuring a rich pork broth, springy noodles, and a hint of fermentation. Cozy up with a steaming bowl on a chilly evening.",
+  "cuisine": "Japanese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, ground",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Kyushu chili bean paste (Korean chili flakes may be substituted)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried shiitake mushrooms",
+      "amount": "6 mushrooms",
+      "notes": ""
+    },
+    {
+      "name": "Pork bones",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Spring onions, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Buckwheat soba noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions, thinly sliced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fermented chili paste (gochujang)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring pork bones to a boil in a large pot of water, then reduce heat to a simmer and cook for 30 minutes.",
+    "Strain the stock through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "In a separate pan, heat sesame oil over medium heat. Add garlic and cook for 1 minute, until fragrant.",
+    "Add ground pork and cook until browned, breaking up with a spoon as it cooks.",
+    "Stir in chili bean paste, miso paste, and soy sauce. Cook for an additional 1-2 minutes.",
+    "Add the fermented chili paste and stir to combine.",
+    "Add the cooked noodles to the broth and stir to combine.",
+    "Season with honey and sesame seeds to taste.",
+    "Divide the noodle mixture among individual bowls and garnish with spring onions, scallions, and additional sesame seeds as desired.",
+    "Serve hot and enjoy!",
+    "Rebroadcast the recipe as needed."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "homemade",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 45,
+    "carbs": 120,
+    "fat": 60
+  },
+  "slug": "noodle-rich-warm-japanese-pork-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/noodle-rich-warm-japanese-pork-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:05:21Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "ferment-jang",
+    "primaryIngredient": "minced pork",
+    "diet": "ovo-vegetarian",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Noodle-rich warm",
+    "dishForm": "Noodles"
+  }
+}

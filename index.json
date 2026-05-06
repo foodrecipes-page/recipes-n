@@ -1307,6 +1307,20 @@
     "shard": "n"
   },
   {
+    "slug": "noodle-rich-warm-japanese-pork-noodles",
+    "title": "Kyushu-Style Pork Noodle Soup",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "homemade",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
     "slug": "nordic-spiced-norwegian-halibut-gratin",
     "title": "Nordic Spiced Norwegian Halibut Gratin",
     "tags": [
