@@ -1,0 +1,80 @@
+{
+  "title": "Nasty Winey Quinoa Pilaf",
+  "description": "This quick-fix Slovakian dish features al-dente quinoa infused with a touch of wine and dark soft brown sugar for a savory-sweet taste.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": 150
+    },
+    {
+      "name": "white wine",
+      "amount": 125
+    },
+    {
+      "name": "dark soft brown sugar",
+      "amount": 30
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4
+    },
+    {
+      "name": "onions, finely chopped",
+      "amount": 100
+    },
+    {
+      "name": "parsley, chopped (for garnish)",
+      "amount": 25
+    },
+    {
+      "name": "olive oil",
+      "amount": 30
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water and drain.",
+    "Heat olive oil in a pan over medium heat. Add onions and sauté until translucent, about 4 minutes.",
+    "Add garlic cloves and cook for an additional minute until fragrant.",
+    "Stir in rinsed quinoa and toast for about 1 minute to coat with oil and develop flavor.",
+    "Pour in white wine and bring to a boil. Reduce heat to low, cover and simmer for 8 minutes or until liquid is absorbed.",
+    "Add dark soft brown sugar and continue cooking, stirring occasionally, for an additional 2-3 minutes or until quinoa is tender and the sauce has thickened slightly.",
+    "Remove from heat, stir in chopped parsley, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "quick-fix",
+    "savory-sweet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 268,
+    "protein": 7,
+    "carbs": 39,
+    "fat": 10
+  },
+  "slug": "nasty-winey-quinoa-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nasty-winey-quinoa-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T14:29:09Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Winey",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Al-dente-finish",
+    "dishForm": "Pilaf"
+  }
+}
