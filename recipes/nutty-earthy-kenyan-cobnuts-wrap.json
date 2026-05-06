@@ -1,0 +1,99 @@
+{
+  "title": "Nutty earthy Kenyan cobnuts wrap",
+  "description": "Snappy and cozy Kenyan dish combining earthy cobnuts with agemono-deep-fry technique, all wrapped in a low-glycemic-friendly lotus leaf.",
+  "cuisine": "Kenyan",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cobnuts",
+      "amount": "250g",
+      "notes": "raw, chopped"
+    },
+    {
+      "name": "Lotus leaves",
+      "amount": "4",
+      "notes": "fresh, cleaned, dried slightly with paper towels"
+    },
+    {
+      "name": "Teff flour",
+      "amount": "2 tbsp",
+      "notes": "all-purpose flour alternative for low-glycemic option"
+    },
+    {
+      "name": "Water",
+      "amount": "90ml",
+      "notes": "for dough"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1L",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "50ml",
+      "notes": "unsweetened, full-fat for moisture"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "chopped, sautéed before filling"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "20g",
+      "notes": "chopped, fresh for garnish"
+    }
+  ],
+  "instructions": [
+    "Prepare the dough by mixing teff flour and water in a bowl",
+    "Knead the dough until smooth and elastic, about 5 minutes",
+    "Divide the dough into 4 equal pieces, shaping each into a ball",
+    "Flatten each ball into a thin circle, about 10 cm in diameter",
+    "Place a spoonful of chopped onion onto one half of each circle",
+    "Add a few pieces of chopped cobnuts on top of the onion",
+    "Fold the other half of the dough over the filling, pressing the edges to seal",
+    "Heat vegetable oil in a deep frying pan to 180\u00140C",
+    "Deep-fry each dough circle for 2-3 minutes on each side, or until golden brown",
+    "Drain the fritters on paper towels"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "kenyan",
+    "low-glycemic",
+    "one-pan",
+    "snappy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-earthy-kenyan-cobnuts-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-earthy-kenyan-cobnuts-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:08:15Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "cobnuts",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cobnuts",
+    "descriptor": "Nutty earthy",
+    "dishForm": "Wrap"
+  }
+}
