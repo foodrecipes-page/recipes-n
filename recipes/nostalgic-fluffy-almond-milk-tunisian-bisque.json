@@ -1,0 +1,79 @@
+{
+  "title": "Nostalgic Fluffy Almond Milk Tunisian Bisque",
+  "description": "A tangy, fluffy almond milk Tunisian bisque that evokes memories with its rich flavor and creamy texture.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup almond milk",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons heavy cream",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup finely chopped fresh parsley",
+      "amount": null
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": null
+    },
+    {
+      "name": "Pinch of freshly ground black pepper",
+      "amount": null
+    },
+    {
+      "name": "2 tablespoons shelled almonds, toasted and coarsely crushed",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 teaspoon orange zest (optional)",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Whisk together almond milk and heavy cream in a saucepan.",
+    "Season with salt and pepper. Bring to simmer over medium heat.",
+    "Reduce heat to low, add parsley, and gently fold in crushed almonds.",
+    "Remove from heat. Stir in orange zest if using.",
+    "Spoon into bowls. Garnish with additional shelled almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "fluffy",
+    "shojin-friendly",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 5,
+    "carbs": 32,
+    "fat": 14
+  },
+  "slug": "nostalgic-fluffy-almond-milk-tunisian-bisque",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-fluffy-almond-milk-tunisian-bisque",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T16:44:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "fold",
+    "primaryIngredient": "almond milk",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Almonds",
+    "descriptor": "Fluffy Nostalgic",
+    "dishForm": "Bisque"
+  }
+}
