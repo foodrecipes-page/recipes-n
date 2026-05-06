@@ -1,0 +1,87 @@
+{
+  "title": "nutty springy portuguese dum bao",
+  "description": "a plant-based portuguese inspired dish featuring crispy dum in a scallop shell with a nutty filling. great for a weeknight dinner or a fun snack to share with friends.",
+  "cuisine": "portuguese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scallion dum wrappers",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "unsalted cashews",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced",
+      "},{": "#1"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "thai fish sauce",
+      "amount": "2 tsp",
+      "notes": "use 1 tsp if you prefer less umami flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "use in a spray bottle for crispy dum"
+    },
+    {
+      "name": "pierce and chopped dried shiitake mushrooms",
+      "amount": "1/2 cup",
+      "notes": "rehydrate and chop before using"
+    }
+  ],
+  "instructions": [
+    "preheat your oven to 400f (200c).",
+    "spray a scallop shell with olive oil and place the dum wrapper in it.",
+    "in a pan heat 1 tsp of olive oil over medium heat, add the garlic and ginger, and sauté until fragrant.",
+    "add the chopped kale, mushrooms, and cashews to the pan and stir fry until the kale is wilted."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 33,
+    "carbs": 34,
+    "fat": 24
+  },
+  "slug": "nutty-springy-portuguese-dum-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-springy-portuguese-dum-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:05Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "dum",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "dum",
+    "descriptor": "nutty springy",
+    "dishForm": "Bao"
+  }
+}
