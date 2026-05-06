@@ -1,0 +1,103 @@
+{
+  "title": "Nutty Malty Gooey Dutch Cookies",
+  "description": "A malty, gooey hangover cure made with peanut cookies and ferment-jang. Easy to make and perfect for a satvik-friendly breakfast or brunch.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "peanut butter cookies",
+      "amount": "4 cups, crushed",
+      "notes": "store-bought or homemade, whatever is convenient"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 cup",
+      "notes": "available at local health food store or online"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 cups",
+      "notes": "use a good quality, organic sugar"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": "freshly grated for the best flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use a flaky sea salt for the best flavor"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "dairy or non-dairy, whatever you prefer"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "to thicken the mixture"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "softened for the best mixing"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Line a 9x13-inch baking dish with parchment paper or a silicone mat.",
+    "In a large mixing bowl, combine the crushed peanut butter cookies, ferment-jang, brown sugar, grated ginger, and salt. Mix until well combined.",
+    "Add the milk and mix until a dough forms.",
+    "Drop the dough by tablespoonfuls onto the prepared baking dish.",
+    "Bake for 20-25 minutes, or until the edges are lightly golden brown.",
+    "Remove the cookies from the oven and let cool for 5 minutes before slicing.",
+    "In a small saucepan, combine the cornstarch and a splash of milk. Whisk until smooth and add the softened butter. Whisk until combined and the butter is melted.",
+    "Pour the glaze over the warm cookies and let cool completely.",
+    "Once the cookies are cool, slice them into bars and serve.",
+    "Store leftover cookies in an airtight container at room temperature for up to 5 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easy",
+    "hangover-cure",
+    "one-pan",
+    "satvik",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 12,
+    "carbs": 120,
+    "fat": 36
+  },
+  "slug": "nutty-malty-gooey-dutch-cookies-cookies",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-malty-gooey-dutch-cookies-cookies",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:36Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "ferment-jang",
+    "primaryIngredient": "peanut cookies",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cookies",
+    "descriptor": "Nutty Malty Gooey",
+    "dishForm": "Cookies"
+  }
+}
