@@ -1,0 +1,117 @@
+{
+  "title": "Nutty Crispy Malaysian Cabbage Satay",
+  "description": "A cozy and flavorful dish featuring Hispi sweetheart cabbage, perfect for a weeknight dinner or special occasion.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hispi sweetheart cabbage",
+      "amount": "1 head",
+      "notes": "about 2 pounds"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated fresh ginger",
+      "amount": "2 tablespoons",
+      "notes": "about 1 inch of fresh ginger"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat canned"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cut the Hispi sweetheart cabbage into thin strips, about 1/4 inch thick.",
+    "In a large bowl, whisk together coconut milk, fish sauce, lime juice, and brown sugar.",
+    "Add the grated ginger and garlic powder to the bowl and whisk until smooth.",
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped peanuts and cook, stirring frequently, until they are lightly toasted and fragrant.",
+    "Add the cabbage to the skillet and cook, stirring frequently, until it is tender and slightly caramelized.",
+    "Add the coconut milk mixture to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook, stirring occasionally, until the sauce has thickened and the cabbage is coated.",
+    "Season the satay with black pepper to taste.",
+    "Transfer the satay to individual fondue pot portions and garnish with chopped cilantro.",
+    "Serve immediately.",
+    "Optional: serve with additional toasted peanuts and lime wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "fondue",
+    "malaysian",
+    "one-pan",
+    "satay",
+    "special-occasion",
+    "weekend",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "nutty-crispy-malaysian-cabbage-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-malaysian-cabbage-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:17Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cabbage",
+    "descriptor": "nutty crispy",
+    "dishForm": "Satay"
+  }
+}

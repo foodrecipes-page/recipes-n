@@ -273,6 +273,21 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-smoky-roasted-german-beef-roast",
+    "title": "Naturally Smoky Roasted German Beef Roast",
+    "tags": [
+      "beef",
+      "german",
+      "one-pan",
+      "roast",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 210,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-spicy-uruguayan-skirt-steak-skewers",
     "title": "Naturally Spicy Uruguayan Skirt Steak Skewers",
     "tags": [
@@ -5181,6 +5196,23 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 13,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-malaysian-cabbage-satay",
+    "title": "Nutty Crispy Malaysian Cabbage Satay",
+    "tags": [
+      "dinner-party",
+      "fondue",
+      "malaysian",
+      "one-pan",
+      "satay",
+      "special-occasion",
+      "weekend",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {

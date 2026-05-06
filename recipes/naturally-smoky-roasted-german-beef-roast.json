@@ -1,0 +1,138 @@
+{
+  "title": "Naturally Smoky Roasted German Beef Roast",
+  "description": "A rich, velvety German dish featuring a beef roast, smoky from the cedar plank. Perfect for a weeknight dinner with a hint of mixed spice.",
+  "cuisine": "German",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "6 pound beef roast (such as top round or rump roast)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup mixed spice blend (containing caraway seeds, coriander, and nutmeg)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons red wine vinegar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried rosemary",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon brown sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Cedar plank (large enough for the roast)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Serves 4-6 people",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Rinse the beef roast and pat it dry with paper towels.",
+    "Season the roast with salt and pepper.",
+    "Mix the spice blend, thyme, and rosemary together in a small bowl and rub the mixture all over the roast, making sure to coat it evenly.",
+    "Place the garlic, beef broth, vinegar, brown sugar, and water in a small saucepan and bring to a simmer over medium heat.",
+    "Reduce the sauce to a glaze and let it cool to room temperature.",
+    "Place a cedar plank on a baking sheet and pour the glaze over it, spreading it evenly with a spatula.",
+    "Place the roast on the plank and brush the top with olive oil.",
+    "Put the baking sheet in the oven and roast for 2 1/2 hours, or until the roast reaches an internal temperature of 135°F (57°C).",
+    "Remove the roast from the oven and let it rest for 10 minutes before slicing and serving.",
+    "Garnish with chopped parsley and serve with boiled potatoes and steamed vegetables, if desired.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with additional parsley before serving, if desired.",
+    "Sliced and served with a side of sauerkraut for a classic German twist.",
+    "Leftovers can be refrigerated for up to 3 days and reheated in a low oven or on the stovetop, covered with a lid.",
+    "Reheat with additional broth if the roast becomes dry during reheating.",
+    "Serve with a side salad or steamed vegetables for a balanced meal.",
+    "Serve with a side of braised red cabbage for a hearty winter meal.",
+    "If desired, serve with a side of egg noodles for a comforting German-inspired dish.",
+    "Reheat with additional broth if the roast becomes dry during reheating, and serve with a side of steamed vegetables for a fresh take on a classic meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "german",
+    "one-pan",
+    "roast",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 72,
+    "carbs": 24,
+    "fat": 52
+  },
+  "slug": "naturally-smoky-roasted-german-beef-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-roasted-german-beef-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "roast",
+    "primaryIngredient": "mixed spice",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "beef",
+    "descriptor": "Naturally smoky roasted",
+    "dishForm": "Roast"
+  }
+}
