@@ -1,0 +1,56 @@
+{
+  "title": "Nutty Korean Chilli Jjigae",
+  "description": "A show-off Korean dish featuring ancho chillies and ssam-wrap, with a twist of ayurvedic-tamasic-friendly ingredients. For a spicy and nutty twist on traditional Korean chilli jjigae.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ancho chillies",
+      "amount": "4",
+      "notes": "Dried"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add ancho chillies and cook for 2 minutes, until fragrant.",
+    "Add 1 onion, diced, and cook for 3 minutes, until softened.",
+    "Add 2 cloves garlic, minced, and cook for 1 minute, until fragrant."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "korean",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "nutty-korean-chilli-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-korean-chilli-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:20Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "ancho chillies",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chilli",
+    "descriptor": "nutty",
+    "dishForm": "Jjigae"
+  }
+}
