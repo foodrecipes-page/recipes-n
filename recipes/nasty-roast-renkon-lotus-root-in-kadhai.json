@@ -1,0 +1,87 @@
+{
+  "title": "Nasty Roast Renkon-Lotus Root in Kadhai",
+  "description": "A yeasty and fluffy Egyptian dish featuring roasted renkon-lotus root, perfect for a indulgent breakfast or light meal.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "renkon-lotus root",
+      "amount": "1 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon fresh or 1 teaspoon dried"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coriander (cilantro)",
+      "amount": "1 tablespoon fresh or 1 teaspoon dried"
+    }
+  ],
+  "instructions": [
+    "Preheat Kadhai to medium-high heat.",
+    "Peel and thinly slice the renkon-lotus root.",
+    "Mince the garlic cloves and finely chop the ginger.",
+    "Mix olive oil, minced garlic, chopped ginger, sesame seeds, salt, cayenne pepper, and coriander in a bowl.",
+    "Toss sliced renkon-lotus root with the spice mixture until well coated.",
+    "Spread the seasoned renkon-lotus root evenly on the Kadhai griddle or frying pan.",
+    "Cook for about 20 minutes or until golden brown and crispy, turning once halfway through cooking time.",
+    "Serve hot as a side dish or in wraps."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "fluffy",
+    "indulgent",
+    "kosher-friendly",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 14
+  },
+  "slug": "nasty-roast-renkon-lotus-root-in-kadhai",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nasty-roast-renkon-lotus-root-in-kadhai",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T16:21:34Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "roast",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "renkon-lotus-root",
+    "descriptor": "Indulgent",
+    "dishForm": "Roast"
+  }
+}
