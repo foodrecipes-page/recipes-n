@@ -1,0 +1,105 @@
+{
+  "title": "Nourishing Molten Kenyan Pilaf",
+  "description": "A soothing, earthy, and comforting pilaf perfect for sick days. Raspberry jam adds a sweet and tangy twist to this keto-friendly dish from Kenya.",
+  "cuisine": "kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Place the wooden board in the oven and warm it for 5 minutes.",
+    "In a large bowl, combine the chicken broth, diced carrots, and sliced sweet potatoes.",
+    "Pour the mixture onto the warmed wooden board and arrange the onions, ginger, cinnamon, and black pepper on top.",
+    "Drizzle the coconut oil over the mixture and spread it evenly.",
+    "Bake for 25 minutes, then stir in the raspberry jam.",
+    "Reduce heat to 350°F (175°C) and cover with parchment paper sealed with foil, creating a papillote.",
+    "Return to the oven and bake for an additional 20 minutes.",
+    "Remove from the oven and let it rest for 5 minutes before serving.",
+    "Slice into portions and serve hot.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kenyan-cuisine",
+    "keto",
+    "one-pan",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "nourishing-molten-kenyan-dish-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-molten-kenyan-dish-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:53:57Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "papillote",
+    "primaryIngredient": "raspberry jam",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "dish",
+    "descriptor": "nourishing molten",
+    "dishForm": "pilaf"
+  }
+}
