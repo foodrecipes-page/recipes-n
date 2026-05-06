@@ -1,0 +1,127 @@
+{
+  "title": "Nourishing Argentinian Long-bean Empanadas",
+  "description": "Resinous, tender, and festive, these empanadas feature long-beans, double-fried for an extra crispy texture, and are Shojin-friendly for a mindful meal.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long-beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "double-fried chicken (KFC)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, salt, and black pepper. Add the cornmeal and stir to combine.",
+    "Add the vegetable shortening and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add the water, stirring with a fork until the dough comes together in a ball.",
+    "Knead the dough on a floured surface for 5-7 minutes, until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces and roll each one into a ball.",
+    "Use a rolling pin to flatten each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of the long-bean and chicken filling in the center of each dough circle.",
+    "Brush the edges of the dough with a little water and fold the dough over the filling, pressing the edges together with a fork to seal the empanada.",
+    "Heat a large skillet or frying pan over medium heat and brush with a little oil.",
+    "Cook the empanadas for 2-3 minutes on each side, until they are golden brown and crispy.",
+    "Serve hot and enjoy!",
+    "Note: Traditionally, empanadas are baked in a wood-fired oven, but you can also bake them in a conventional oven at 375°F (190°C) for 15-20 minutes, until golden brown.",
+    "You can also deep-fry the empanadas if you prefer a crisper exterior.",
+    "Note: For a Shojin-friendly version, use a vegetarian substitute for the chicken or omit it altogether.",
+    "If using chicken, ensure that it is organic and free-range for maximum nutrition.",
+    "Note: You can also use a food processor to quickly chop the long-beans and make the empanada dough.",
+    "Note: Traditionally, empanadas are served as a snack or dessert, but they can also be served as a main course or side dish.",
+    "Note: Empanadas are a great way to use up leftover vegetables and fillings, so feel free to get creative and experiment with different ingredients!"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "double-fried",
+    "empanadas",
+    "long-beans",
+    "shojin-friendly",
+    "south-american",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "nourishing-argentinian-long-bean-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-argentinian-long-bean-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:02:22Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "long-bean",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "long-bean",
+    "descriptor": "nourishing",
+    "dishForm": "Empanadas"
+  }
+}
