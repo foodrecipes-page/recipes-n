@@ -1,0 +1,89 @@
+{
+  "title": "NCreamy Italian Paccheri Casserole",
+  "description": "A fresh and crowd-pleasing Italian dish featuring pico de gallo sauce, packed with plant-based ingredients.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "NCreamy Tomato Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Paccheri pasta",
+      "amount": "200g fresh"
+    },
+    {
+      "name": "Vegan Mozzarella Cheese",
+      "amount": "50g shredded"
+    },
+    {
+      "name": "Spinach",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Canned Tomatoes",
+      "amount": "1 can (400g)"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "Fresh Basil leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "Pico de Gallo Sauce Mix",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Add pasta and cook until al dente.",
+    "Drain the pasta, reserving some cooking liquid. Set aside.",
+    "In a pan, sauté garlic in olive oil until golden brown. Add canned tomatoes, simmer for 10 minutes.",
+    "Mix pico de gallo sauce with reserved pasta water to make sauce base. Add spinach and basil leaves; simmer for another 5 minutes.",
+    "Combine the sauce base into the cooked pasta. Mix in vegan mozzarella cheese. Adjust seasoning as needed.",
+    "Transfer the mixture to a baking dish, top with shredded vegan mozzarella cheese.",
+    "Preheat oven at 180°C (350°F). Bake for 20 minutes or until golden brown and bubbly on top.",
+    "Serve hot, garnished with fresh basil leaves."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "pasta",
+    "plant-based",
+    "quick",
+    "refreshing",
+    "sauce-based",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "ncreamy-italian-paccheri-casserole",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ncreamy-italian-paccheri-casserole",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T18:23:28Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "temper",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Paccheri",
+    "descriptor": "Creamy",
+    "dishForm": "Paccheri Casserole"
+  }
+}
