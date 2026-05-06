@@ -1,0 +1,87 @@
+{
+  "title": "Nasty Shattering Festive Sweet Red Pepper Pasta",
+  "description": "A malty and festive Japanese dish featuring sweet red peppers, bonito-shave, and dash-friendly flavors in a pasta base.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": 200
+    },
+    {
+      "name": "Sweet Red Peppers",
+      "amount": 1
+    },
+    {
+      "name": "Bonito-Shave",
+      "amount": 20
+    },
+    {
+      "name": "Dashi Concentrate",
+      "amount": 40
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": 30
+    },
+    {
+      "name": "Mirin",
+      "amount": 15
+    },
+    {
+      "name": "Ginger",
+      "amount": 2
+    },
+    {
+      "name": "Scallions",
+      "amount": 3
+    },
+    {
+      "name": "Shiso Leaves (Perilla Leaf)",
+      "amount": 4
+    }
+  ],
+  "instructions": [
+    "Heat a pot of water and cook the pasta until al dente.",
+    "In a pan, sauté the sweet red peppers with ginger and scallions for flavor.",
+    "Mix dashi concentrate, soy sauce, mirin, and honey to make a reduction.",
+    "Fold the reduction into the cooked pasta and mix well.",
+    "Add bonito-shave and sliced shiso leaves on top of the pasta."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dash-friendly",
+    "festive",
+    "savory",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "nasty-shattering-festive-sweet-red-pepper-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nasty-shattering-festive-sweet-red-pepper-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T05:32:57Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Sweet Red Peppers",
+    "descriptor": "Malty Shattering Festive",
+    "dishForm": "Pasta"
+  }
+}
