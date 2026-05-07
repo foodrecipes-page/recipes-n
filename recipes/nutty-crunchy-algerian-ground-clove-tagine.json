@@ -1,0 +1,104 @@
+{
+  "title": "nutty Crunchy Algerian Ground Clove Tagine",
+  "description": "savory, crunchy tagine with a sweet lacquer glaze and ground cloves, great for kids and flexitarian diets",
+  "cuisine": "algerian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "whole spice, or ground to taste"
+    },
+    {
+      "name": "ground cloves",
+      "amount": "1/2 teaspoon",
+      "notes": "whole spice, or ground to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium broth"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped, toasted"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "cold water"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought, see notes"
+    }
+  ],
+  "instructions": [
+    "heat olive oil in an earthenware bowl over medium heat",
+    "add chopped onion and cook until softened, about 5 minutes",
+    "add ground cumin and ground cloves, cook for 1 minute",
+    "add chicken broth, almonds, and flour, stir to combine",
+    "bring to a simmer and cook for 5 minutes",
+    "reduce heat to low and stir in cold water",
+    "spread a thin layer of lacquer glaze over the top of the tagine",
+    "transfer the bowl to the oven and bake at 375f for 15 minutes",
+    "serve hot, garnished with chopped almonds and a drizzle of lacquer glaze"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "cinnamon-free",
+    "flexitarian",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "nutty-crunchy-algerian-ground-clove-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crunchy-algerian-ground-clove-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:24:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "ground clove",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Ground Clove",
+    "descriptor": "Nutty Crunchy",
+    "dishForm": "Tagine"
+  }
+}
