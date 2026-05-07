@@ -1,0 +1,90 @@
+{
+  "title": "Nutrient-Infused Italian Foie-Gras Laminated Puff Pasta",
+  "description": "A satvik-friendly, aerated, and citrusy Italian dish featuring foie-gras, lamination-puff, and Binchotan-grill tortellini. This dish is perfect for a sick-day indulgence.",
+  "cuisine": "Italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Foie Gras",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Meyer Lemons",
+      "amount": "2",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "Saffron",
+      "amount": "1/2 tsp",
+      "notes": "infused oil"
+    },
+    {
+      "name": "Black Truffles",
+      "amount": "1/4 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet",
+      "notes": "laminated"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": "aged"
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Binchotan Charcoal",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the Binchotan grill to 400°F (200°C)."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 20,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "binchotan",
+    "foie-gras",
+    "grill",
+    "indulgence",
+    "italian",
+    "puff-pastry",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 648,
+    "protein": 24,
+    "carbs": 34,
+    "fat": 48
+  },
+  "slug": "nutrient-infused-italian-foie-gras-laminated-puff-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutrient-infused-italian-foie-gras-laminated-puff-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:14:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "lamination-puff",
+    "primaryIngredient": "foie-gras",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "foie-gras",
+    "descriptor": "Nutrient-Infused",
+    "dishForm": "Laminated Puff Pasta"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "nighttime crispy charred mediterranean chive tagine",
+  "description": "a vegan-friendly, crispy, and charred mediterranean dish perfect for midnight cravings, served in a kazan cauldron.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chopped chives",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a kazan cauldron over medium heat.",
+    "Add garlic and cook for 1 minute, stirring occasionally.",
+    "Add chopped carrots and zucchini, cook until tender.",
+    "Add lemon juice, smoked paprika, salt, and black pepper, stir to combine.",
+    "Add chives and cook for an additional 2 minutes.",
+    "Using a handheld blender, blend in tahini until smooth.",
+    "Continue cooking for an additional 5 minutes, stirring occasionally.",
+    "Transfer to a serving vessel and serve warm.",
+    "Garnish with additional chives, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "mediterranean",
+    "snack",
+    "tagine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "nighttime-crispy-charred-mediterranean-chive-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nighttime-crispy-charred-mediterranean-chive-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:14:54Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "tadka",
+    "primaryIngredient": "chopped chive",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chive",
+    "descriptor": "Nighttime Crispy Charred",
+    "dishForm": "Tagine"
+  }
+}

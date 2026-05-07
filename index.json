@@ -752,6 +752,20 @@
     "shard": "n"
   },
   {
+    "slug": "nighttime-crispy-charred-mediterranean-chive-tagine",
+    "title": "nighttime crispy charred mediterranean chive tagine",
+    "tags": [
+      "easy-to-make",
+      "mediterranean",
+      "snack",
+      "tagine",
+      "vegan"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nighttime-sizzling-velvet-turkish-lardons-kunefe",
     "title": "Nighttime Sizzling Velvet Turkish Lardons Kunefe",
     "tags": [
@@ -4070,6 +4084,22 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutrient-infused-italian-foie-gras-laminated-puff-pasta",
+    "title": "Nutrient-Infused Italian Foie-Gras Laminated Puff Pasta",
+    "tags": [
+      "binchotan",
+      "foie-gras",
+      "grill",
+      "indulgence",
+      "italian",
+      "puff-pastry",
+      "sick-day"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 80,
     "shard": "n"
   },
   {
