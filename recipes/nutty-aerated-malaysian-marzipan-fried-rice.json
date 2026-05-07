@@ -1,0 +1,117 @@
+{
+  "title": "Nutty Aerated Malaysian Marzipan Fried-Rice",
+  "description": "A nostalgic and paleo-friendly Malaysian dish featuring marzipan, with a nutty and aerated twist.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "marzipan",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced or slivered"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": " shredded coconut",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add sliced almonds and cook until lightly toasted, stirring frequently.",
+    "Push almonds to one side of the skillet.",
+    "Add eggs to the other side and scramble until cooked through.",
+    "Mix eggs with almonds.",
+    "Add cooked rice to the skillet and stir-fry with eggs and almonds for 2 minutes.",
+    "Add marzipan, peanut butter, honey, vanilla extract, and salt to the skillet, stirring constantly.",
+    "Continue to stir-fry for another 2 minutes, until marzipan is well coated with the rice mixture.",
+    "Transfer the mixture to a serving platter or individual plates.",
+    "Sprinkle shredded coconut on top, if using.",
+    "Serve hot, garnished with additional sliced almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "malaysian",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 14,
+    "carbs": 70,
+    "fat": 24
+  },
+  "slug": "nutty-aerated-malaysian-marzipan-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-aerated-malaysian-marzipan-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:27:06Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "marzipan",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "marzipan",
+    "descriptor": "nutty aerated",
+    "dishForm": "Fried-Rice"
+  }
+}

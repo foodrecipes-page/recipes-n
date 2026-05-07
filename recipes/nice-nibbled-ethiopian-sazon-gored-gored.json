@@ -1,0 +1,116 @@
+{
+  "title": "Ethiopian Sazon Gored-Gored",
+  "description": "Roasted, creamy, light dish featuring sazon and coconut cream, perfect for a weeknight dinner. Serve with injera or rice for a filling meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sazón",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix together sazón, coconut cream, onion, ginger, garlic, cilantro, red pepper, salt, and black pepper in a bowl.",
+    "Toss carrots and potatoes with a little oil and roast in the oven for 15 minutes.",
+    "Add the roasted vegetables to the bowl with the sazón mixture and stir to combine.",
+    "Transfer the mixture to a baking dish and top with yogurt.",
+    "Bake for an additional 10-15 minutes, until the top is lightly browned.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "ethiopian",
+    "one-pan",
+    "roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "nice-nibbled-ethiopian-sazon-gored-gored",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-nibbled-ethiopian-sazon-gored-gored",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:27:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "sazon",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "sazon",
+    "descriptor": "nice nibbled",
+    "dishForm": "Gored-Gored"
+  }
+}

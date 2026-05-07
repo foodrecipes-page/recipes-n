@@ -649,6 +649,20 @@
     "shard": "n"
   },
   {
+    "slug": "nice-nibbled-ethiopian-sazon-gored-gored",
+    "title": "Ethiopian Sazon Gored-Gored",
+    "tags": [
+      "creamy",
+      "ethiopian",
+      "one-pan",
+      "roasted",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nice-springy-mexican-peppers-chiles-rellenos",
     "title": "Nice Springy Mexican Peppers Chiles Rellenos",
     "tags": [
@@ -4663,6 +4677,21 @@
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-aerated-malaysian-marzipan-fried-rice",
+    "title": "Nutty Aerated Malaysian Marzipan Fried-Rice",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "malaysian",
+      "one-pan",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 27,
     "shard": "n"
   },
   {
