@@ -1,0 +1,66 @@
+{
+  "title": "Nutritious Crunchy Egyptian Porcini Meal-Prep",
+  "description": "A hearty vegan-friendly Egyptian-inspired meal-prep dish featuring bitter porcini and double-fried koftas, perfect for a weeknight dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Porcini mushrooms",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Kofta mix (made with chickpeas and quinoa)",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": " thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "nutritious-crunchy-egyptian-porcini-meal-prep",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-crunchy-egyptian-porcini-meal-prep",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:13:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "porcini",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "porcini",
+    "descriptor": "nutritious crunchy",
+    "dishForm": "Meal-Prep"
+  }
+}

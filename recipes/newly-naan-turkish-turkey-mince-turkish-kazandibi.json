@@ -1,0 +1,113 @@
+{
+  "title": "Newly Naan Turkish Turkey Mince Turkish Kazandibi",
+  "description": "A fresh and fluffy Turkish dish featuring turkey mince, perfect for a date night. A twist on traditional Turkish kazandibi, made in a bento box for an elegant presentation.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey mince",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "100g",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a small amount of oil in a bento box over medium heat.",
+    "Add the onion and garlic and cook until softened, about 3 minutes.",
+    "Add the turkey mince and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the ferment-jang, cumin, coriander, salt, and pepper, and stir to combine.",
+    "If using yogurt, stir it in at this point.",
+    "Transfer the mixture to a small bowl and set aside to cool slightly.",
+    "Divide the mixture into 4-6 portions, depending on serving size.",
+    "Shape each portion into a small patty or oval shape.",
+    "Place the patties in the bento box and cover with a lid.",
+    "Cook for an additional 5-7 minutes, until the turkey is cooked through and the mixture is heated through.",
+    "Serve hot, garnished with chopped parsley and your choice of sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "egg-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 63,
+    "carbs": 8,
+    "fat": 26
+  },
+  "slug": "newly-naan-turkish-turkey-mince-turkish-kazandibi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/newly-naan-turkish-turkey-mince-turkish-kazandibi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:13:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "ferment-jang",
+    "primaryIngredient": "turkey mince",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "turkey mince",
+    "descriptor": "Newly Naan",
+    "dishForm": "Turkish Kazandibi"
+  }
+}

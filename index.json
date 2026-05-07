@@ -551,6 +551,22 @@
     "shard": "n"
   },
   {
+    "slug": "newly-naan-turkish-turkey-mince-turkish-kazandibi",
+    "title": "Newly Naan Turkish Turkey Mince Turkish Kazandibi",
+    "tags": [
+      "date-night",
+      "egg-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nfestive-malty-shattering-yam-pilaf",
     "title": "Nfestive Malty Shattering Yam Pilaf",
     "tags": [
@@ -4156,6 +4172,20 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-crunchy-egyptian-porcini-meal-prep",
+    "title": "Nutritious Crunchy Egyptian Porcini Meal-Prep",
+    "tags": [
+      "easy-weeknight",
+      "gluten-free",
+      "high-fiber",
+      "one-pan",
+      "vegan"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
