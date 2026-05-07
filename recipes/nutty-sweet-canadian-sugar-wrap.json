@@ -1,0 +1,120 @@
+{
+  "title": "Nutty Sweet Canadian Sugar Wrap",
+  "description": "Buttery, chewy, and sweet, this Canadian dish is a perfect date-night treat, featuring a delicate balance of sugar and marinate, all wrapped up in a keto-friendly corn-husk vessel.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Marinade (see below)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pecans",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Corn husks",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small saucepan, combine the granulated sugar, brown sugar, and 2 tablespoons of butter. Heat over medium heat, stirring occasionally, until the sugar dissolves and starts to caramelize.",
+    "Set the saucepan aside to cool slightly.",
+    "In a separate bowl, whisk together the coconut oil, marinade, pecans, maple syrup, cornstarch, salt, and vanilla extract.",
+    "Add the whisked mixture to the saucepan with the sugar mixture and stir until well combined.",
+    "Stuff each corn husk with the mixture, leaving a small border around the edges.",
+    "Fold the bottom edge of the corn husk up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Place the wraps in a baking dish and bake for 15-20 minutes, or until the tops are lightly golden brown.",
+    "Serve warm, topped with whipped heavy cream if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "corn-husk",
+    "date-night",
+    "keto",
+    "sugar",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 36
+  },
+  "slug": "nutty-sweet-canadian-sugar-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-sweet-canadian-sugar-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:30:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "marinate",
+    "primaryIngredient": "sugar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "sugar",
+    "descriptor": "nutty sweet",
+    "dishForm": "wrap"
+  }
+}
