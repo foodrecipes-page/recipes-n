@@ -1,0 +1,122 @@
+{
+  "title": "nutty chewy Russian new potatoes borscht",
+  "description": "a hearty russian-inspired dish featuring new potatoes, deglazed with a mixture of vegetable broth and vinegar, to create a nutty and chewy texture, making it an ideal hangover cure.",
+  "cuisine": "russian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dill weed",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat.",
+    "add the chopped onion and sauté until translucent, about 5 minutes.",
+    "add the minced garlic and sauté for another minute.",
+    "add the caraway seeds and dried dill weed, and sauté for 1 minute, until fragrant.",
+    "add the chopped potatoes, vegetable broth, water, salt, and pepper, and bring to a boil.",
+    "reduce the heat to low, cover, and simmer for 20 minutes, or until the potatoes are tender.",
+    "use a slotted spoon to remove the potatoes from the saucepan, and mash them slightly with a fork.",
+    "return the potatoes to the saucepan, and stir in the apple cider vinegar, maple syrup, and chopped onion.",
+    "continue to simmer for another 10 minutes, stirring occasionally, until the liquid has thickened and the potatoes are coated in a sticky glaze.",
+    "taste and adjust the seasoning as needed.",
+    "serve hot, garnished with additional chopped fresh dill, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-for-dinner",
+    "gluten-free",
+    "one-pan",
+    "russian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 9,
+    "carbs": 80,
+    "fat": 10
+  },
+  "slug": "nutty-chewy-russian-new-potatoes-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-chewy-russian-new-potatoes-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:12:33Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "new potatoes",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "new potatoes",
+    "descriptor": "nutty chewy",
+    "dishForm": "Borscht"
+  }
+}

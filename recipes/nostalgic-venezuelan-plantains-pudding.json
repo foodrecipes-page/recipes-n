@@ -1,0 +1,87 @@
+{
+  "title": "Nostalgic Venezuelan Plantains Pudding",
+  "description": "A comforting and nostalgic dessert from Venezuela, made with plantains, sesame seed oil, and a hint of cinnamon.",
+  "cuisine": "venezuelan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe plantains",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel the plantains and cut them into 1-inch pieces.",
+    "In a large saucepan, combine the plantains, sesame seed oil, sugar, water, cinnamon powder, and salt.",
+    "Bring the mixture to a boil over medium heat, stirring occasionally.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the plantains are tender.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Use a potato masher or a fork to mash the plantains until they're mostly smooth.",
+    "Return the saucepan to the stovetop and cook over low heat, stirring constantly, for 5-7 minutes, or until the pudding has thickened slightly.",
+    "Remove the saucepan from the heat and let it cool completely.",
+    "Chill the pudding in the refrigerator for at least 2 hours, or until it's cold and set.",
+    "Serve the pudding cold, garnished with a sprinkle of cinnamon powder, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 27,
+  "totalTimeMin": 42,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dessert",
+    "plantains",
+    "south-american",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "nostalgic-venezuelan-plantains-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-venezuelan-plantains-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:11:43Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "reduce",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantains",
+    "descriptor": "Nostalgic",
+    "dishForm": "Pudding"
+  }
+}

@@ -1888,6 +1888,20 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-venezuelan-plantains-pudding",
+    "title": "Nostalgic Venezuelan Plantains Pudding",
+    "tags": [
+      "comfort-food",
+      "dessert",
+      "plantains",
+      "south-american",
+      "venezuelan"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 42,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-adventurous-chinese-dish-stone-bowl",
     "title": "Stone-Bowl Nourishing Adventure",
     "tags": [
@@ -4903,6 +4917,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-chewy-russian-new-potatoes-borscht",
+    "title": "nutty chewy Russian new potatoes borscht",
+    "tags": [
+      "breakfast-for-dinner",
+      "gluten-free",
+      "one-pan",
+      "russian",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 75,
     "shard": "n"
   },
   {
