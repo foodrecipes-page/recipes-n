@@ -1,0 +1,102 @@
+{
+  "title": "Nostalgic Velvet Chicken Pilaf",
+  "description": "A velvety Russian dish featuring chicken and mushimono-steamed vegetables with umami flavors that evokes a sense of nostalgia.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": 200
+    },
+    {
+      "name": "onion",
+      "amount": 100
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": 80
+    },
+    {
+      "name": "green peas",
+      "amount": 150
+    },
+    {
+      "name": "carrots",
+      "amount": 120
+    },
+    {
+      "name": "celery stalks",
+      "amount": 60
+    },
+    {
+      "name": "mushroom broth",
+      "amount": ""
+    },
+    {
+      "name": "salt",
+      "amount": 5
+    },
+    {
+      "name": "black pepper",
+      "amount": 3
+    },
+    {
+      "name": "unsalted butter",
+      "amount": 80
+    },
+    {
+      "name": "soy sauce",
+      "amount": 10
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "Dice chicken and onions into small pieces, mince garlic, slice mushrooms and celery.",
+    "Steam mushimono-style with 500ml mushroom broth in a lazy-susan-spinner at 180C for about 15 minutes.",
+    "In a pan on medium heat, melt butter until foamy. Add minced garlic, stir for 30 seconds.",
+    "Add chicken and onion pieces to the pan, cook for 4 minutes on each side until golden brown.",
+    "Stir in sliced mushrooms and green peas with salt and pepper. Cook for another minute or two.",
+    "Pour into a lazy-susan-spinner serving bowl and drizzle with soy sauce before serving hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lazy-susan-spinner",
+    "narrative-dish",
+    "satiq-friendly",
+    "umami",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "nostalgic-velvet-chicken-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-velvet-chicken-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T15:21:54Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "chicken",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Nostalgic Velvet",
+    "dishForm": "Pilaf"
+  }
+}
