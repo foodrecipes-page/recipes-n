@@ -1337,6 +1337,20 @@
     "shard": "n"
   },
   {
+    "slug": "noodle-light-vietnamese-rice-noodles-pho",
+    "title": "Noodle Light Vietnamese Rice Noodles Pho",
+    "tags": [
+      "beef",
+      "light",
+      "rice-noodles",
+      "snack",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "noodle-rich-warm-japanese-pork-noodles",
     "title": "Kyushu-Style Pork Noodle Soup",
     "tags": [

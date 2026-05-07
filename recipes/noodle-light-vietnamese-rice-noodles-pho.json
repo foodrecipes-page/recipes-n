@@ -1,0 +1,117 @@
+{
+  "title": "Noodle Light Vietnamese Rice Noodles Pho",
+  "description": "A yeasty, shaggy, light Vietnamese dish featuring vermicelli rice noodles, perfect for a snack or light lunch.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vermicelli rice noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Beef strips",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring beef broth to a boil in a large iron teppan or pot over high heat.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Slice the onion and ginger and add to the pot.",
+    "Slice the beef strips and cook in the pot for 3-4 minutes, or until browned.",
+    "Add the fish sauce, soy sauce, and sugar to the pot and stir to combine.",
+    "Cook the vermicelli rice noodles according to the package instructions and set aside.",
+    "Add the cilantro, lime wedges, and sliced green onions to the pot and stir to combine.",
+    "Serve the noodles in bowls and top with the beef and onion mixture.",
+    "Garnish with bean sprouts and additional cilantro if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "light",
+    "rice-noodles",
+    "snack",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "noodle-light-vietnamese-rice-noodles-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/noodle-light-vietnamese-rice-noodles-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:18:51Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Rice noodles",
+    "descriptor": "Noodle Light",
+    "dishForm": "Pho"
+  }
+}
