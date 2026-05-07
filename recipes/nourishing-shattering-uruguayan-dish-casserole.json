@@ -1,0 +1,126 @@
+{
+  "title": "nourishing shattering uruguayan casserole",
+  "description": "a post-workout, winey, shattering, uruguayan dish featuring tomato sauce and en-croute, perfect for individual-mini-cocotte servings",
+  "cuisine": "uruguayan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "0.5",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 200\u000156c (400\u000176f).",
+    "in a pan over medium heat, cook the ground beef until browned, breaking it up with a spoon as it cooks.",
+    "add the onion, garlic, and red bell pepper to the pan and cook until the vegetables are softened.",
+    "stir in the chili powder, paprika, salt, and black pepper.",
+    "add the canned diced tomatoes and tomato paste to the pan and stir to combine.",
+    "in a separate bowl, mix together the feta cheese and a pinch of salt.",
+    "grease six individual-mini-cocotte vessels with olive oil.",
+    "divide the meat mixture among the vessels, then top each with a spoonful of the feta cheese mixture.",
+    "cover the vessels with foil and bake for 20 minutes.",
+    "remove the foil and bake for an additional 10-15 minutes, or until the feta cheese is golden brown and the casserole is bubbly.",
+    "serve hot, garnished with chopped fresh parsley, if desired.",
+    "let the casserole rest for a few minutes before serving, allowing the juices to redistribute and the feta cheese to set.",
+    "be careful when removing the casserole from the oven, as the cheese will be molten and the vessels may be hot to the touch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "en-croute",
+    "fodmap-friendly",
+    "individual-serving",
+    "one-pan",
+    "post-workout",
+    "shattering",
+    "uruguayan",
+    "weeknight",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-shattering-uruguayan-dish-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-shattering-uruguayan-dish-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:10:07Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "en-croute",
+    "primaryIngredient": "tomato sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "dish",
+    "descriptor": "Nourishing Shattering",
+    "dishForm": "Casserole"
+  }
+}
