@@ -1,0 +1,115 @@
+{
+  "title": "Nutritious No-Cook Mediterranean Rest-Meat Bowl",
+  "description": "A delicious, dairy-free-friendly, no-cook Mediterranean dish featuring rest-meat and v sterbottensost cheese.",
+  "cuisine": "Mediterranean",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "V sterbottensost cheese",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Rest-meat",
+      "amount": "6 oz",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/8 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sliced rest-meat, olives, artichoke hearts, and cheese.",
+    "In a small bowl, whisk together the lemon juice, olive oil, salt, black pepper, and garlic powder.",
+    "Pour the dressing over the rest-meat mixture and toss to combine.",
+    "Stir in the chopped parsley and mint.",
+    "Transfer the mixture to a mason jar and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the jar a good shake to redistribute the ingredients.",
+    "Serve chilled, garnished with additional parsley and mint if desired.",
+    "Note: This dish is best served within a day of preparation, as the flavors will continue to meld and the cheese will soften.",
+    "You can also customize this recipe by adding or substituting other ingredients to suit your taste preferences.",
+    "For a creamier dressing, feel free to add a tablespoon or two of hummus or Greek yogurt.",
+    "For a spicier dressing, add a pinch of red pepper flakes or a minced jalapeño pepper."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "low-carb",
+    "mason-jar",
+    "mediterranean",
+    "no-cook",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "nutritious-no-cook-mediterranean-rest-meat-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-no-cook-mediterranean-rest-meat-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:41:09Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "rest-meat",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "rest-meat",
+    "descriptor": "Nutritious No-Cook",
+    "dishForm": "Bowl"
+  }
+}
