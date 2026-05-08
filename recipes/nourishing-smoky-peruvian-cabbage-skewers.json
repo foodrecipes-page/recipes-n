@@ -1,0 +1,102 @@
+{
+  "title": "Nourishing Smoky Peruvian Cabbage Skewers",
+  "description": "A smoky and flavorful Peruvian dish featuring white cabbage and pickle, perfect for a midnight craving. This recipe is dash-friendly and served on a bamboo tray.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "1 head",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lime juice, smoked paprika, salt, and black pepper.",
+    "Add the cabbage, pickle, red onion, aji amarillo pepper, and garlic to the bowl and toss to coat.",
+    "Thread the cabbage mixture onto bamboo skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the cabbage is tender and slightly charred.",
+    "Serve the skewers hot on a bamboo tray, garnished with additional pickle and aji amarillo pepper if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-tray",
+    "gluten-free",
+    "midnight-craving",
+    "peruvian",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "nourishing-smoky-peruvian-cabbage-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-peruvian-cabbage-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:38:13Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "pickle",
+    "primaryIngredient": "white cabbage",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cabbage",
+    "descriptor": "nourishing smoky",
+    "dishForm": "Skewers"
+  }
+}

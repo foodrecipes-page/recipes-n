@@ -3399,6 +3399,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-dense-uruguayan-morcilla-stew",
+    "title": "Nourishing Dense Uruguayan Morcilla Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "hearty-stew",
+      "low-fodmap",
+      "one-pot",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-double-fried-slovakian-cheese-dumplings",
     "title": "Nourishing Double Fried Slovakian Cheese Dumplings",
     "tags": [
@@ -4693,6 +4708,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-peruvian-cabbage-skewers",
+    "title": "Nourishing Smoky Peruvian Cabbage Skewers",
+    "tags": [
+      "bamboo-tray",
+      "gluten-free",
+      "midnight-craving",
+      "peruvian",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 32,
     "shard": "n"
   },
   {
@@ -9473,6 +9503,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-mediterranean-pistachio-skillet",
+    "title": "Nutty Mediterranean Pistachio Skillet",
+    "tags": [
+      "healthy-eating",
+      "kid-friendly",
+      "mediterranean-cuisine",
+      "one-pan",
+      "paleo-diet",
+      "quick-meal"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
