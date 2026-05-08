@@ -1,0 +1,103 @@
+{
+  "title": "Nice Garlicky Filipino Vegetable Lumpia",
+  "description": "A garlicky and snappy Filipino dish featuring Thai chilli jam and wok-hei, perfect for a weeknight meal, this plant-based friendly recipe is made into lumpia form",
+  "cuisine": "Filipino",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai chilli jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "lumpia wrappers",
+      "amount": "12-15 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the shredded cabbage and grated carrots, cook until they start to soften, about 2 minutes.",
+    "Add the Thai chilli jam, salt, and black pepper, stir-fry for another minute.",
+    "Lay a lumpia wrapper on a flat surface, place about 1 tablespoon of the vegetable mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with water, fold the bottom half over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Fry the lumpia in hot oil until golden brown, about 3-4 minutes on each side.",
+    "Drain the lumpia on paper towels and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "garlicky",
+    "lumpia",
+    "plant-based",
+    "snappy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "nice-garlicky-filipino-vegetable-lumpia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-garlicky-filipino-vegetable-lumpia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:25:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "wok-hei",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "vegetables",
+    "descriptor": "Nice Garlicky",
+    "dishForm": "Lumpia"
+  }
+}
