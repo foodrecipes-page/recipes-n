@@ -1,0 +1,92 @@
+{
+  "title": "Nutritious Smoked Algerian Salmon Poke",
+  "description": "A fresh and healthy Algerian dish featuring hot smoked flaked salmon, ferment jang, and keto friendly ingredients, perfect for a light lunch or dinner",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "1 pound",
+      "notes": "hot smoked and flaked"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the smoked salmon, ferment jang, lemon juice, and olive oil, and mix well.",
+    "Add the chopped onion and cucumber to the bowl and stir gently to combine.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the mixture a good stir and adjust the seasoning if needed.",
+    "Serve the poke in small bowls or glasses, garnished with additional chopped onion and cucumber if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-cuisine",
+    "ferment-jang",
+    "gluten-free",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "smoked-salmon"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "nutritious-smoked-algerian-salmon-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-smoked-algerian-salmon-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:56:03Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "ferment-jang",
+    "primaryIngredient": "hot smoked flaked salmon",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "salmon",
+    "descriptor": "Nutritious Smoked",
+    "dishForm": "Poke"
+  }
+}
