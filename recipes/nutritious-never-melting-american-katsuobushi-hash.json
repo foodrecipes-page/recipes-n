@@ -1,0 +1,95 @@
+{
+  "title": "Never Melting American Katsuobushi Hash",
+  "description": "A rich, buttery American dish featuring katsuobushi and tempering chocolate, perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Katsuobushi (Dried Bonito Flakes)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tempering Chocolate (Cocoa Nibs and Cocoa Powder)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cheddar Cheese (optional)",
+      "amount": "1 cup, grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal or a large non-stick skillet over medium heat.",
+    "In a medium bowl, whisk together the flour, eggs, milk, tempering chocolate, salt, and paprika.",
+    "Add the katsuobushi and whisk until combined.",
+    "Heat 1 tablespoon of butter in the comal or skillet. Using a 1/4 cup measuring cup, scoop the batter onto the comal or skillet.",
+    "Cook for 2-3 minutes or until the edges start to set.",
+    "Flip the patties and cook for an additional 2-3 minutes or until golden brown.",
+    "Repeat the process with the remaining batter, adding more butter as needed.",
+    "If using cheese, sprinkle on top of the hash and cook until melted.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-for-dinner",
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "nutritious-never-melting-american-katsuobushi-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-never-melting-american-katsuobushi-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:11:50Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "katsuobushi",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Katsuobushi",
+    "descriptor": "Nutritious Never Melting",
+    "dishForm": "Hash"
+  }
+}

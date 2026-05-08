@@ -1,0 +1,111 @@
+{
+  "title": "Nourishing Mexican Cheese Quesadilla",
+  "description": "A savory and satisfying Mexican dish featuring melted cheese and a hint of rum, perfect for a lazy Sunday, this recipe is ayurvedic tamasic friendly and made with score fat on a tava griddle.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tortilla",
+      "amount": "4 large",
+      "notes": "whole wheat or corn"
+    },
+    {
+      "name": "cheese",
+      "amount": "2 cups shredded",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "rum",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "score fat",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the tava griddle over medium heat and brush with score fat or oil.",
+    "In a large bowl, mix together the diced onion, bell pepper, and tomato.",
+    "Add the shredded cheese to the bowl and mix well.",
+    "Add the rum to the bowl, if using, and mix well.",
+    "Place a tortilla on the griddle and sprinkle a quarter of the cheese mixture on half of the tortilla.",
+    "Fold the tortilla in half to enclose the cheese mixture and cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy and the cheese is melted.",
+    "Repeat with the remaining tortillas and cheese mixture.",
+    "Cut the quesadillas into wedges and serve hot with chopped cilantro, if desired.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "gluten-free",
+    "lazy-sunday",
+    "mexican-cuisine",
+    "one-pan",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nourishing-mexican-cheese-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-mexican-cheese-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:11:47Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "score-fat",
+    "primaryIngredient": "rum",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cheese",
+    "descriptor": "Nourishing Nacho",
+    "dishForm": "Quesadilla"
+  }
+}
