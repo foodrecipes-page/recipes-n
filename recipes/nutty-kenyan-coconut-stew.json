@@ -1,0 +1,110 @@
+{
+  "title": "Nutty Kenyan Coconut Stew",
+  "description": "A hearty and comforting Kenyan stew made with coconut flakes and nuts, perfect for a sick day. This low-calorie-friendly dish is cooked in a traditional ttukbaegi earthenware pot.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut flakes",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the melted coconut oil in a ttukbaegi earthenware pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute.",
+    "Add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chopped peanuts, coconut flakes, vegetable broth, salt, and black pepper, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the pot from the heat and let it cool slightly before serving.",
+    "Serve the stew hot, garnished with additional coconut flakes and peanuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "comfort-food",
+    "gluten-free",
+    "kenyan-cuisine",
+    "low-calorie",
+    "nutty",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "nutty-kenyan-coconut-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-kenyan-coconut-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:57:24Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "coconut flakes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "coconut",
+    "descriptor": "Nutty Crumbly",
+    "dishForm": "Stew"
+  }
+}
