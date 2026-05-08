@@ -2101,6 +2101,21 @@
     "shard": "n"
   },
   {
+    "slug": "noble-dark-ukrainian-chocolate-stir-fry",
+    "title": "Noble Dark Ukrainian Chocolate Stir Fry",
+    "tags": [
+      "dark-chocolate",
+      "gluten-free",
+      "romantic-dinner",
+      "special-occasion",
+      "stir-fry",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "noble-mexican-noodles-horchata",
     "title": "Noble Mexican Noodles Horchata",
     "tags": [
@@ -6558,6 +6573,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutmeg-crisp-moroccan-green-pepper-tagine",
+    "title": "Nutmeg Crisp Moroccan Green Pepper Tagine",
+    "tags": [
+      "high-protein",
+      "moroccan",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
     "slug": "nutmeg-infused-egyptian-date-tagine",
     "title": "Nutmeg Infused Egyptian Date Tagine",
     "tags": [
@@ -7402,6 +7431,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-portuguese-chicken-skillet",
+    "title": "Nutritious Portuguese Chicken Skillet",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "low-fat",
+      "meal-prep",
+      "one-pan",
+      "portuguese-cuisine"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {

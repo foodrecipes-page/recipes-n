@@ -1,0 +1,105 @@
+{
+  "title": "Nutritious Portuguese Chicken Skillet",
+  "description": "A delicious and healthy Portuguese dish featuring chicken, hazelnuts, and a blend of spices, perfect for a low-fat meal prep option. This skillet dish is packed with nutrients and flavor.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chicken to the skillet and cook until browned on all sides, about 5-6 minutes.",
+    "Add the chopped hazelnuts, paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Reduce the heat to medium-low and let cook, covered, for 15-20 minutes, or until the chicken is cooked through.",
+    "Stir in the chopped parsley and serve hot.",
+    "Let cool completely before refrigerating or freezing for meal prep."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-fat",
+    "meal-prep",
+    "one-pan",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "nutritious-portuguese-chicken-skillet",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-portuguese-chicken-skillet",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T21:09:23Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "hazlenuts",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Nutritious",
+    "dishForm": "Skillet"
+  }
+}

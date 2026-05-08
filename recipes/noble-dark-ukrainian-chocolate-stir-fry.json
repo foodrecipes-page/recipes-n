@@ -1,0 +1,102 @@
+{
+  "title": "Noble Dark Ukrainian Chocolate Stir Fry",
+  "description": "A romantic Ukrainian dish featuring dark chocolate and stir-fry, with a peppery and silky texture, perfect for a special occasion. This dish combines the richness of dark chocolate with the savory flavors of Ukrainian cuisine.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dark chocolate",
+      "amount": "8 oz",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3 minutes.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the paprika, salt, and black pepper, and stir to combine.",
+    "Add the dark chocolate and stir until melted and well combined.",
+    "Add the heavy cream and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes, or until the sauce has thickened.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dark-chocolate",
+    "gluten-free",
+    "romantic-dinner",
+    "special-occasion",
+    "stir-fry",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "noble-dark-ukrainian-chocolate-stir-fry",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/noble-dark-ukrainian-chocolate-stir-fry",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T21:09:16Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "dark chocolate",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chocolate",
+    "descriptor": "Noble Dark",
+    "dishForm": "Stir-fry"
+  }
+}
