@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Smoky Moroccan Lamb Tagine",
+  "description": "A comforting Moroccan dish featuring lamb, carnaroli rice, and a blend of aromatic spices, with a nutty and smoky flavor profile, and a grassy, glassy-jelly texture from the addition of apricot jam and pomegranate molasses.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "carnaroli rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the smoked paprika, ground cumin, and ground coriander, and cook for 1 minute, stirring constantly.",
+    "Add the carnaroli rice, apricot jam, pomegranate molasses, salt, and black pepper, and stir to combine.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 1 1/2 hours, or until the lamb is tender and the rice is cooked.",
+    "Stir in the chopped almonds and cook for an additional 5 minutes.",
+    "Serve the tagine hot, garnished with additional chopped almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lamb",
+    "moroccan",
+    "nutty",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "nutty-smoky-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-smoky-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:48:26Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "wok-hei",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Nutty Smoky",
+    "dishForm": "Tagine"
+  }
+}
