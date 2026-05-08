@@ -1,0 +1,94 @@
+{
+  "title": "Nice Fluffy Malaysian Noodle Dish",
+  "description": "A sweet and fluffy Malaysian noodle dish featuring apricot jam, this ovo-vegetarian-friendly recipe is perfect for a quick and energizing meal. The al-dente finish of the noodles provides a satisfying texture to the dish.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "200g",
+      "notes": "dried"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "100g",
+      "notes": "fresh"
+    },
+    {
+      "name": "scrambled eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions until they are al-dente, then set aside.",
+    "Heat the vegetable oil in a large wok or frying pan over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add the bean sprouts and cook until they are tender, about 2-3 minutes.",
+    "Push the vegetables to one side of the pan, then add a little more oil if necessary and scramble in the eggs until they are cooked through.",
+    "Mix the eggs with the vegetables, then add the cooked noodles, apricot jam, and soy sauce to the pan.",
+    "Stir everything together to combine, ensuring the noodles are well coated with the sauce.",
+    "Serve the noodle dish hot, garnished with sliced green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy-cooking",
+    "malaysian-cuisine",
+    "noodle-dish",
+    "quick-meal",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nice-fluffy-malaysian-noodle-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-fluffy-malaysian-noodle-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:36:44Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "apricot jam",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "noodles",
+    "descriptor": "nice fluffy",
+    "dishForm": "Noodles"
+  }
+}

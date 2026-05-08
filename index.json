@@ -1093,6 +1093,20 @@
     "shard": "n"
   },
   {
+    "slug": "nice-fluffy-malaysian-noodle-dish",
+    "title": "Nice Fluffy Malaysian Noodle Dish",
+    "tags": [
+      "easy-cooking",
+      "malaysian-cuisine",
+      "noodle-dish",
+      "quick-meal",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nice-garlicky-filipino-vegetable-lumpia",
     "title": "Nice Garlicky Filipino Vegetable Lumpia",
     "tags": [
