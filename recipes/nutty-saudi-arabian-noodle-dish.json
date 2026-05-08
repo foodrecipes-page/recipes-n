@@ -1,0 +1,105 @@
+{
+  "title": "Nutty Saudi Arabian Noodle Dish",
+  "description": "A sour and juicy noodle dish featuring agemono deep fried ingredients, served on a wooden board, inspired by Mediterranean and Saudi Arabian flavors. This dish is perfect for a monsoon day.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz",
+      "notes": "thin and dry"
+    },
+    {
+      "name": "Pine nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil and cook the rice noodles according to the package instructions.",
+    "Heat the olive oil in a deep frying pan over medium heat.",
+    "Add the chopped pine nuts to the pan and fry until golden brown.",
+    "Remove the pine nuts from the pan and set aside.",
+    "Add the minced garlic and grated ginger to the pan and fry for 1 minute.",
+    "Add the cumin, paprika, and salt to the pan and fry for 1 minute.",
+    "Add the cooked noodles to the pan and stir to combine with the spice mixture.",
+    "Squeeze the lemon juice over the noodles and stir to combine.",
+    "Add the fried pine nuts to the noodles and stir to combine.",
+    "Serve the noodle dish on a wooden board and garnish with additional pine nuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "middle-eastern",
+    "noodle-dish",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-saudi-arabian-noodle-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-saudi-arabian-noodle-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:52:34Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "noodles",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "noodles",
+    "descriptor": "Nutty",
+    "dishForm": "Noodles"
+  }
+}
