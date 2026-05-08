@@ -1,0 +1,94 @@
+{
+  "title": "Nutty Vietnamese Date Mi Quang",
+  "description": "A yeasty, crumbly, date-night Vietnamese dish featuring amaretti, cooked in a ttukbaegi earthenware vessel, served in a molcajete, diabetic-friendly and delicious.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "amaretti cookies",
+      "amount": "12",
+      "notes": "crushed"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grilled chicken",
+      "amount": "1 pound"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware vessel over medium heat.",
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "Grill the chicken and slice it into thin strips.",
+    "In a small bowl, whisk together the fish sauce, lime juice, and sesame oil.",
+    "Add the crushed amaretti cookies to the bowl and stir to combine.",
+    "Add the cooked noodles, grilled chicken, and chopped peanuts to the bowl and toss to combine.",
+    "Season with salt to taste.",
+    "Transfer the mixture to a molcajete and serve immediately.",
+    "Garnish with additional peanuts and amaretti cookies if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "diabetic-friendly",
+    "gluten-free",
+    "nutty-flavors",
+    "one-pot",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nutty-vietnamese-date-mi-quang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-vietnamese-date-mi-quang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:00:49Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "amaretti",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "dates",
+    "descriptor": "nutty crunchy",
+    "dishForm": "Mi Quang"
+  }
+}
