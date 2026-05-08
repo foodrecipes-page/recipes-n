@@ -1,0 +1,118 @@
+{
+  "title": "nutty vietnamese mung-bean-sprout-sukju spring-rolls",
+  "description": "a nostalgic vietnamese dish featuring spherified mung-bean-sprout-sukju, crunchy vegetables, and a nutty sauce. perfect for a keto-friendly snack or lunch.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "keto",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mung-bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sukju (korean glass noodles)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "nutty sauce (see below)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "immerse the mung-bean sprouts in cold water for at least 4 hours or overnight.",
+    "drain and rinse the mung-bean sprouts, then set aside.",
+    "pulse the cauliflower in a food processor until it resembles rice.",
+    "sauté the cauliflower 'rice' in coconut oil until lightly browned, about 5 minutes.",
+    "add the minced garlic and ginger to the cauliflower and stir-fry for 1 minute.",
+    "season the cauliflower mixture with fish sauce and lime juice.",
+    "mix the mung-bean sprouts, sukju, carrots, and cucumber in a bowl.",
+    "add the nutty sauce to the vegetable mixture and stir until well combined.",
+    "spherify the mixture using sodium alginate and water according to the manufacturer's instructions.",
+    "heat a small amount of oil in a pan over medium heat.",
+    "fry the spherified spring rolls until crispy and golden brown, about 5 minutes per side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "keto",
+    "spherification",
+    "spring-rolls",
+    "vegetarian",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "nutty-vietnamese-mung-bean-sprout-sukju-spring-rolls",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-vietnamese-mung-bean-sprout-sukju-spring-rolls",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:31:25Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "spherify",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "mung-bean-sprout-sukju",
+    "descriptor": "nutty",
+    "dishForm": "Spring-Rolls"
+  }
+}
