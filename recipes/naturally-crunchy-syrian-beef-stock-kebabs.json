@@ -1,0 +1,103 @@
+{
+  "title": "Naturally Crunchy Syrian Beef Stock Kebabs",
+  "description": "A winey, crunchy, nostalgic Syrian dish featuring beef stock, grill, and vegan-friendly options, this recipe is perfect for those looking for a flavorful and textured meal. The combination of beef stock and crunchy elements creates a unique taste experience.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Crunchy chickpeas",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, making sure it reaches a safe internal temperature of 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together beef stock, red wine, olive oil, paprika, garlic powder, salt, and black pepper.",
+    "Add the cubed tofu to the bowl and marinate for at least 30 minutes, making sure it reaches a safe internal temperature of 165 degrees Fahrenheit.",
+    "Thread the marinated tofu onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until they are golden brown and crispy on the outside.",
+    "While the kebabs are grilling, heat the crunchy chickpeas in a pan over medium heat for 5 minutes, stirring frequently.",
+    "Once the kebabs are done, brush them with the remaining marinade and top with crunchy chickpeas and chopped parsley.",
+    "Serve the kebabs hot, garnished with additional parsley if desired.",
+    "To ensure food safety, always cook the tofu to an internal temperature of 165 degrees Fahrenheit and refrigerate any leftovers promptly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "syrian-cuisine",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "naturally-crunchy-syrian-beef-stock-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-crunchy-syrian-beef-stock-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:43:36Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "beef stock",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "beef stock",
+    "descriptor": "naturally crunchy",
+    "dishForm": "Kebabs"
+  }
+}

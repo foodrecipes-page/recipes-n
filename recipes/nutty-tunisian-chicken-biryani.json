@@ -1,0 +1,93 @@
+{
+  "title": "Nutty Tunisian Chicken Biryani",
+  "description": "A nutty and juicy Tunisian dish featuring biryani masala, perfect for a solo dinner, this recipe is egg-free friendly and easy to make.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "biryani masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chicken to the skillet and cook until it is browned and cooked through, about 5-7 minutes.",
+    "Add the biryani masala to the skillet and stir to combine.",
+    "Add the basmati rice to the skillet and stir to combine with the chicken and masala mixture.",
+    "Add the chopped almonds to the skillet and stir to combine.",
+    "Season the mixture with salt to taste.",
+    "Transfer the mixture to a serving dish and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-dish",
+    "dairy-free",
+    "gluten-free",
+    "middle-eastern",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nutty-tunisian-chicken-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tunisian-chicken-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:42:59Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "biryani masala",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "nutty juicy",
+    "dishForm": "Biryani"
+  }
+}

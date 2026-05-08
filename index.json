@@ -182,6 +182,21 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-crunchy-syrian-beef-stock-kebabs",
+    "title": "Naturally Crunchy Syrian Beef Stock Kebabs",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "syrian-cuisine",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-crunchy-welsh-berries-eton-mess",
     "title": "Naturally Crunchy Welsh Berries Eton Mess",
     "tags": [
@@ -5029,6 +5044,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-middle-eastern-pork-back-ribs-shawarma",
+    "title": "Nutritious Middle Eastern Pork Back Ribs Shawarma",
+    "tags": [
+      "dinner-ideas",
+      "fermented-food",
+      "middle-eastern",
+      "one-pot",
+      "pork-recipes",
+      "shawarma"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 150,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-mild-saudi-arabian-chicken-tagine",
     "title": "Nutritious Mild Saudi Arabian Chicken Tagine",
     "tags": [
@@ -6983,6 +7013,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-filipino-king-prawns-bicol-express",
+    "title": "Nutty Filipino King Prawns Bicol Express",
+    "tags": [
+      "filipino-food",
+      "keto-recipes",
+      "low-carb-dinners",
+      "nutty-flavors",
+      "seafood-recipes",
+      "spicy-food"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-filipino-peanuts-hash",
     "title": "Nutty Filipino Peanuts Hash",
     "tags": [
@@ -8916,6 +8961,21 @@
       "vegan-friendly"
     ],
     "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-tunisian-chicken-biryani",
+    "title": "Nutty Tunisian Chicken Biryani",
+    "tags": [
+      "chicken-dish",
+      "dairy-free",
+      "gluten-free",
+      "middle-eastern",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
     "totalTimeMin": 35,
     "shard": "n"
   },

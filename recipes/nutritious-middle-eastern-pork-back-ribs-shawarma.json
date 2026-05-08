@@ -1,0 +1,107 @@
+{
+  "title": "Nutritious Middle Eastern Pork Back Ribs Shawarma",
+  "description": "A one-pot Middle Eastern dish featuring pork back ribs, served in a shawarma style, this recipe combines the flavors of the region with a twist of fermented and steamed ingredients, making it a unique and delicious meal option.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "2 pounds",
+      "notes": "fermented for 24 hours"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the fermented pork back ribs to the pot, and sprinkle with cumin, coriander, paprika, salt, and black pepper.",
+    "Cover the pot and transfer it to the preheated oven, where it will cook for 2 hours, or until the meat is tender and falling off the bone.",
+    "While the ribs are cooking, prepare the mushimono steam by bringing a pot of water to a boil, then reducing the heat to a simmer.",
+    "Once the ribs are done, remove them from the pot and let them cool for a few minutes before shredding the meat into bite-sized pieces.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "Assemble the shawarma by spreading a layer of tahini sauce on each piece of pita bread, followed by a portion of the shredded pork and a sprinkle of sumac."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "fermented-food",
+    "middle-eastern",
+    "one-pot",
+    "pork-recipes",
+    "shawarma"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "nutritious-middle-eastern-pork-back-ribs-shawarma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-middle-eastern-pork-back-ribs-shawarma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:44:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "pork back ribs",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "Nutritious Bouncy",
+    "dishForm": "Shawarma"
+  }
+}

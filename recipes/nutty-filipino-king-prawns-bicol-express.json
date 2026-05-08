@@ -1,0 +1,111 @@
+{
+  "title": "Nutty Filipino King Prawns Bicol Express",
+  "description": "A funky, crunchy, and comforting Filipino dish featuring king prawns, served in a Bicol Express style, with a keto-friendly twist, on a tagliere vessel.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped nuts",
+      "amount": "1/4 cup",
+      "notes": "such as almonds or pecans"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Add the sliced chili peppers and cook for 2 minutes, until fragrant.",
+    "Add the king prawns and cook until pink and fully cooked, about 5 minutes.",
+    "Add the fish sauce, lemon juice, chopped nuts, salt, and black pepper, and stir to combine.",
+    "Reduce heat to low and simmer for 2 minutes, until the sauce has thickened slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Nutty Filipino King Prawns Bicol Express on a tagliere vessel, garnished with additional chopped nuts and chili peppers if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "keto-recipes",
+    "low-carb-dinners",
+    "nutty-flavors",
+    "seafood-recipes",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "nutty-filipino-king-prawns-bicol-express",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-filipino-king-prawns-bicol-express",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:43:17Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "king prawns",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "king prawns",
+    "descriptor": "Nutty Crunchy",
+    "dishForm": "Bicol Express"
+  }
+}
