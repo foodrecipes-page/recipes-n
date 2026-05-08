@@ -1,0 +1,116 @@
+{
+  "title": "Nutty American Pasta Lasagna",
+  "description": "A rich, springy, comforting American dish featuring Parmigiano-Reggiano and fermented kimchi, suitable for vegetarians.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": "fresh or dry"
+    },
+    {
+      "name": "Fermented kimchi",
+      "amount": "1/2 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Parmigiano-Reggiano",
+      "amount": "2 cups grated",
+      "notes": ""
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a mixing bowl, combine ricotta cheese, Parmigiano-Reggiano, caramelized onions, garlic, salt, and black pepper. Set aside.",
+    "Transfer the cooked noodles to a baking dish and spread a layer of the ricotta mixture on top of the noodles.",
+    "Next, add a layer of fermented kimchi followed by a layer of lasagna noodles.",
+    "Repeat the layers of ricotta mixture, kimchi, and noodles until all the ingredients have been used.",
+    "Top the final layer of noodles with a mixture of Parmigiano-Reggiano, Panko breadcrumbs, and chopped fresh basil.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for another 10-15 minutes, or until the top is golden brown and the dish is bubbly.",
+    "Remove from the oven and let it cool for a few minutes before serving.",
+    "Serve hot and garnish with additional chopped basil, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "high-protein",
+    "italian-inspired",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 27,
+    "carbs": 44,
+    "fat": 20
+  },
+  "slug": "nutty-american-pasta-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-american-pasta-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:45:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pasta",
+    "descriptor": "nutty",
+    "dishForm": "Lasagna"
+  }
+}
