@@ -1,0 +1,99 @@
+{
+  "title": "Nutty Smoky Korean Rice Tteok",
+  "description": "A smoky and adventurous Korean dish featuring stout and coconut cream, with a bouncy qq texture and anti-inflammatory friendly ingredients, formed into tteok",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Korean rice flour",
+      "amount": "2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "Stout beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chopped nuts",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the Korean rice flour, smoked paprika, turmeric, and salt, and whisk to combine",
+    "In a separate bowl, whisk together the stout beer, coconut cream, and sesame oil",
+    "Add the wet ingredients to the dry ingredients and stir to form a dough",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes",
+    "Divide the dough into 8 equal pieces and shape each piece into a small ball",
+    "Flatten each ball into a disk shape and cook in a non-stick pan over medium heat for 3-4 minutes per side",
+    "Garnish with chopped nuts and grated ginger, and serve warm"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-cuisine",
+    "nutty",
+    "smoky",
+    "snack",
+    "tteok",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "nutty-smoky-korean-rice-tteok",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-smoky-korean-rice-tteok",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:52:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "stout",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "Nutty Smoky",
+    "dishForm": "Tteok"
+  }
+}
