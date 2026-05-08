@@ -1,0 +1,91 @@
+{
+  "title": "Nourishing Smoky Australian Chicken Skewers",
+  "description": "A low-fat friendly Australian dish featuring smoky chicken skewers grilled on a robata grill and served with a tangy green salsa, perfect for a lazy Sunday afternoon.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Green salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "Thread the chicken pieces onto the bamboo skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together the olive oil, salt, black pepper, paprika, and garlic powder.",
+    "Brush the mixture onto both sides of the chicken skewers.",
+    "Grill the chicken skewers for 10-12 minutes, turning occasionally, until they reach an internal temperature of 165 degrees.",
+    "Meanwhile, heat the green salsa in a small saucepan over low heat.",
+    "Once the chicken is cooked, place the skewers on a salt block to keep warm.",
+    "Serve the chicken skewers with the warm green salsa spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "grilled-chicken",
+    "lazy-sunday",
+    "low-fat",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "nourishing-smoky-australian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-australian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:45:32Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "robata-grill",
+    "primaryIngredient": "green salsa",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Skewers"
+  }
+}
