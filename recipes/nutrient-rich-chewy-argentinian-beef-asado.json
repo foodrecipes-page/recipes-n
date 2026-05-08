@@ -1,0 +1,123 @@
+{
+  "title": "Nutrient-rich, Chewy Argentinian Beef Asado",
+  "description": "A malty, chewy Argentine dish featuring blackberries, cure, low-glycemic-friendly, and cooked on a tava-griddle.",
+  "cuisine": "Argentine",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grass-fed beef (1 pound)",
+      "amount": "450g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Blackberry jam (1/4 cup)",
+      "amount": "60g",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Smoked paprika (2 tablespoons)",
+      "amount": "30g",
+      "notes": "Smoked flavor enhances the dish"
+    },
+    {
+      "name": "Garlic powder (1 teaspoon)",
+      "amount": "5g",
+      "notes": "Dehydrated garlic for added flavor"
+    },
+    {
+      "name": "Onion powder (1 teaspoon)",
+      "amount": "5g",
+      "notes": "Dehydrated onion for added flavor"
+    },
+    {
+      "name": "Salt (1 teaspoon)",
+      "amount": "5g",
+      "notes": "Seasoning"
+    },
+    {
+      "name": "Black pepper (1/2 teaspoon)",
+      "amount": "2g",
+      "notes": "Ground black pepper"
+    },
+    {
+      "name": "Cure (1/4 cup)",
+      "amount": "60g",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Chimichurri sauce (1/4 cup)",
+      "amount": "60g",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Lime juice (2 tablespoons)",
+      "amount": "30g",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Fresh cilantro (chopped, 1/4 cup)",
+      "amount": "15g",
+      "notes": "Garnish"
+    },
+    {
+      "name": "Blackberries (1 cup)",
+      "amount": "150g",
+      "notes": "Fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Preheat tava-griddle to medium-high heat (400°F).",
+    "In a small bowl, mix together blackberry jam, smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Rub the mixture evenly onto both sides of the beef cubes.",
+    "Place the beef cubes on the preheated tava-griddle and cook for 3-4 minutes per side, or until browned.",
+    "Transfer the beef to a plate and set aside.",
+    "In the same tava-griddle, add the cure and cook for 1-2 minutes, stirring frequently, until fragrant.",
+    "Add the chimichurri sauce and cook for an additional minute, stirring constantly.",
+    "Return the beef to the tava-griddle and coat with the cure and chimichurri sauce mixture.",
+    "Cook for an additional 2-3 minutes, turning frequently, until the beef is cooked to your desired level of doneness.",
+    "Serve hot, garnished with fresh cilantro and blackberries.",
+    "Drizzle with lime juice and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentine",
+    "beef",
+    "dinner",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "nutrient-rich-chewy-argentinian-beef-asado",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutrient-rich-chewy-argentinian-beef-asado",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:53:49Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "cure",
+    "primaryIngredient": "blackberries",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Nutrient-rich, Chewy",
+    "dishForm": "Asado"
+  }
+}

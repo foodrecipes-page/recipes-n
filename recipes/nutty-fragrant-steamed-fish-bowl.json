@@ -1,0 +1,124 @@
+{
+  "title": "Nutty Fragrant Steamed Fish Bowl",
+  "description": "A Jeju-inspired solo dinner featuring a mustardy, snappy steamed fish dish with lemongrass and a hint of nuttiness.",
+  "cuisine": "korean",
+  "diet": [
+    "sattvic",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemon grass",
+      "amount": "3 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "mustard oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "anchovy-free fish fillet",
+      "amount": "1 fillet",
+      "notes": ""
+    },
+    {
+      "name": "walnut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the kadhai and steam it for 5 minutes.",
+    "Chop the lemongrass, ginger, and green onions.",
+    "In a small bowl, mix together the mustard oil, turmeric powder, salt, and black pepper.",
+    "Place a fillet of fish in the kadhai, and brush the mixture evenly over both sides of the fish.",
+    "Sprinkle a pinch of chopped cilantro and chopped green onions over the fish for garnish.",
+    "Pour 2 tablespoons of coconut milk over the fish for added moisture and flavor.",
+    "Place a cup of brown rice in a separate bowl for serving.",
+    "Steam the fish for 8-10 minutes, or until it is cooked through and flaky.",
+    "Serve the steamed fish over the brown rice, garnished with additional chopped cilantro and green onions if desired.",
+    "Drizzle the walnut oil over the top of the dish for a finishing touch.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "high-protein",
+    "korean-cuisine",
+    "low-carb",
+    "one-pan",
+    "sattvic",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "nutty-fragrant-steamed-fish-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-fragrant-steamed-fish-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:54:09Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "papillote",
+    "primaryIngredient": "lemongrass",
+    "diet": "ayurvedic-sattvic",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Fish",
+    "descriptor": "Nutty, Fragrant Steamed",
+    "dishForm": "Bowl"
+  }
+}

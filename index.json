@@ -4511,6 +4511,22 @@
     "shard": "n"
   },
   {
+    "slug": "nutrient-rich-chewy-argentinian-beef-asado",
+    "title": "Nutrient-rich, Chewy Argentinian Beef Asado",
+    "tags": [
+      "argentine",
+      "beef",
+      "dinner",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Argentine",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutrient-rich-croatian-cheese-pilaf",
     "title": "Nutrient-rich Croatian Cheese Pilaf",
     "tags": [
@@ -6949,6 +6965,23 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-fragrant-steamed-fish-bowl",
+    "title": "Nutty Fragrant Steamed Fish Bowl",
+    "tags": [
+      "healthy",
+      "high-protein",
+      "korean-cuisine",
+      "low-carb",
+      "one-pan",
+      "sattvic",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
