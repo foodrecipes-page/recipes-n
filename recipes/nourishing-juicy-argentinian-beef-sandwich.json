@@ -1,0 +1,101 @@
+{
+  "title": "Nourishing Juicy Argentinian Beef Sandwich",
+  "description": "A tangy and festive Argentinian dish featuring grilled beef, served on a low-glycemic-friendly bread roll with toast, this sandwich is perfect for a quick lunch or dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grass Fed Beef",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Bread Rolls",
+      "amount": "4",
+      "notes": "low-glycemic-friendly"
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Provolone Cheese",
+      "amount": "4 slices",
+      "notes": "low-fat"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 375 degrees Fahrenheit.",
+    "Season the beef strips with salt and pepper.",
+    "Grill the beef for 5 minutes per side, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Toast the bread rolls on the grill for 2 minutes.",
+    "Spread a layer of chimichurri sauce on each bread roll.",
+    "Assemble the sandwiches by placing a few slices of beef on each roll, followed by a slice of cheese, some lettuce, tomato, and red onion.",
+    "Top with a sprinkle of parsley.",
+    "Serve immediately and enjoy.",
+    "Let the sandwiches rest for a few minutes before serving.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "sandwich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-juicy-argentinian-beef-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-juicy-argentinian-beef-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:15:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "toast",
+    "primaryIngredient": "bread rolls",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "nourishing juicy",
+    "dishForm": "Sandwich"
+  }
+}

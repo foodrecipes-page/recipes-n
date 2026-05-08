@@ -1,0 +1,96 @@
+{
+  "title": "Nice Light Chinese Cheese Chow Fun",
+  "description": "A light and charred Chinese dish featuring shredded Monterey Jack cheese, this low-carb-friendly recipe is a twist on traditional chow fun.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "1 cup shredded",
+      "notes": "low moisture content"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1/2 cup",
+      "notes": "low carb, gluten free"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry until fragrant.",
+    "Add the rice noodles and stir-fry for 2-3 minutes, until they start to char.",
+    "Push the noodles to one side of the wok, then add the remaining 1 tablespoon of vegetable oil.",
+    "Add the shredded Monterey Jack cheese and stir-fry until it starts to melt and emulsify.",
+    "Combine the cheese and noodles, then add the soy sauce and stir-fry for another minute.",
+    "Stir in the chopped scallions and sesame oil.",
+    "Season with salt to taste, then serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "chinese-inspired",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "nice-light-chinese-cheese-chow-fun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-light-chinese-cheese-chow-fun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:15:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "light",
+    "mood": "light",
+    "technique": "emulsify",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "cheese",
+    "descriptor": "Nice Light",
+    "dishForm": "Chow Fun"
+  }
+}
