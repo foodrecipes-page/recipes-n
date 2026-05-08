@@ -1,0 +1,96 @@
+{
+  "title": "Nourishing Steamed Venezuelan Fish Ceviche",
+  "description": "A pescatarian friendly dish featuring vinaigrette dressing and steam, this Venezuelan fish ceviche is a quick fix earthy and molten meal, served on a hot stone plate.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Minced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Hot stone plate",
+      "amount": "1",
+      "notes": "preheated"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot stone plate in the oven at 400 degrees Fahrenheit for 10 minutes.",
+    "Cut the fish fillets into small pieces and place them in a steamer basket.",
+    "Steam the fish for 5 minutes or until it is cooked through.",
+    "In a bowl, mix together lime juice, olive oil, minced onion, minced garlic, chopped cilantro, salt, and pepper.",
+    "Add the steamed fish to the bowl and toss to coat with the vinaigrette dressing.",
+    "Remove the hot stone plate from the oven and place the fish mixture on it.",
+    "Let it sit for 1 minute to allow the flavors to meld together.",
+    "Serve the steamed Venezuelan fish ceviche immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "quick-fix",
+    "steamed",
+    "vinaigrette"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "nourishing-steamed-venezuelan-fish-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-steamed-venezuelan-fish-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:50:42Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "steam",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "fish",
+    "descriptor": "nourishing steamed",
+    "dishForm": "Ceviche"
+  }
+}
