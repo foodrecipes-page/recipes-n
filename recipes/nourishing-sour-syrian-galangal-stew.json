@@ -1,0 +1,102 @@
+{
+  "title": "Nourishing Sour Syrian Galangal Stew",
+  "description": "A sour and flavorful Syrian stew featuring galangal, perfect for a crowd, made in a hot pot vessel and grilled to perfection with a yakimono grill, Whole30 friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "Whole30",
+    "Paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the hot pot vessel over medium heat.",
+    "Add the sliced onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the lamb shoulder and cook until browned on all sides.",
+    "Add the sliced galangal, sumac, lemon juice, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Preheat the yakimono grill to medium high heat.",
+    "Grill the stew for 5 minutes, or until the galangal is caramelized and the sauce is thickened.",
+    "Serve the stew hot, garnished with fresh parsley or cilantro.",
+    "Refrigerate or freeze any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "galangal",
+    "hot-pot",
+    "lamb-shoulder",
+    "paleo",
+    "syrian-cuisine",
+    "whole30",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-sour-syrian-galangal-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-sour-syrian-galangal-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:07:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "galangal",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "galangal",
+    "descriptor": "nourishing sour",
+    "dishForm": "Stew"
+  }
+}
