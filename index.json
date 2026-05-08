@@ -6972,6 +6972,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crisp-mediterranean-lamb-kebabs",
+    "title": "Nutty Crisp Mediterranean Lamb Kebabs",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "lamb",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-crisp-philippine-cassava-stir-fry",
     "title": "Nutty Crisp Philippine Cassava Stir-fry",
     "tags": [
@@ -9993,6 +10008,21 @@
     "tags": [],
     "cuisine": "Kenyan",
     "totalTimeMin": null,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-thai-chicken-curry",
+    "title": "Nutty Thai Chicken Curry",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "peanut-based",
+      "post-workout",
+      "thai-curry",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {

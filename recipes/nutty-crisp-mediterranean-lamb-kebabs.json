@@ -1,0 +1,98 @@
+{
+  "title": "Nutty Crisp Mediterranean Lamb Kebabs",
+  "description": "A briny, crisp, and cozy Mediterranean dish featuring black treacle and rest-meat, made with ayurvedic-rajasic-friendly ingredients",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "black treacle",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together black treacle, olive oil, lemon juice, garlic, salt, and black pepper",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade",
+    "Thread the lamb pieces onto skewers, leaving a small space between each piece",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked to an internal temperature of 145 degrees",
+    "While the kebabs are cooking, toast the pine nuts in a small skillet over medium heat",
+    "Once the kebabs are done, brush with toasted pine nuts and sprinkle with chopped parsley",
+    "Serve the kebabs hot, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "lamb",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutty-crisp-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crisp-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:54:22Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "rest-meat",
+    "primaryIngredient": "black treacle",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Nutty Crisp",
+    "dishForm": "Kebabs"
+  }
+}

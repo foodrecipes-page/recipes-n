@@ -1,0 +1,105 @@
+{
+  "title": "Nutty Thai Chicken Curry",
+  "description": "A peppery and creamy Thai dish featuring dark brown sugar, perfect for a post-workout meal, made in a ceramic tagine with a pasta water emulsion.",
+  "cuisine": "Thai",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the ceramic tagine over medium heat and add the peanut butter to melt.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the chicken to the tagine and cook until browned on all sides, about 5 minutes.",
+    "Add the dark brown sugar, fish sauce, and lime juice to the tagine and stir to combine.",
+    "Pour in the coconut milk and pasta water, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 15 minutes, or until the chicken is cooked through.",
+    "Season the curry with salt and black pepper to taste.",
+    "Garnish the curry with chopped peanuts and serve hot.",
+    "Serve the curry over rice or noodles, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "peanut-based",
+    "post-workout",
+    "thai-curry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "nutty-thai-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-thai-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:54:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "nutty creamy",
+    "dishForm": "Curry"
+  }
+}
