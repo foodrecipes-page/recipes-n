@@ -1,0 +1,95 @@
+{
+  "title": "Nutty Browned Portuguese Spaghetti Pasta",
+  "description": "A buttery and glassy-jelly Portuguese dish featuring spaghetti, lardons-render, and paleo-friendly ingredients, perfect for a brunch mood. This recipe combines the richness of lardons with the simplicity of spaghetti.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 oz",
+      "notes": "rendered"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paleo-friendly parmesan cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to the package instructions.",
+    "In a large skillet, melt the butter over medium heat and add the lardons, cooking until browned and crispy.",
+    "Add the olive oil, garlic, salt, and black pepper to the skillet and stir to combine.",
+    "In a large serving dish, combine the cooked spaghetti, browned lardons, and garlic mixture.",
+    "Top the spaghetti with chopped walnuts and paleo-friendly parmesan cheese.",
+    "Toss the spaghetti to combine all the ingredients.",
+    "Serve the Nutty Browned Portuguese Spaghetti Pasta hot and enjoy.",
+    "Garnish with additional chopped walnuts and parmesan cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "nutty-flavors",
+    "one-pan-meals",
+    "paleo-friendly",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "nutty-browned-portuguese-spaghetti-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-browned-portuguese-spaghetti-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:47:36Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "lardons-render",
+    "primaryIngredient": "spaghetti",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "spaghetti",
+    "descriptor": "Nutty Browned",
+    "dishForm": "Pasta"
+  }
+}

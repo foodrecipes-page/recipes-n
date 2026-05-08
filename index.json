@@ -3140,6 +3140,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-pillowy-italian-portobello-mushrooms-saltimbocca",
+    "title": "Nourishing Pillowy Italian Portobello Mushrooms Saltimbocca",
+    "tags": [
+      "italian",
+      "meal-prep",
+      "mushroom",
+      "one-pan",
+      "saltimbocca",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-pillowy-ukrainian-hummus-dumplings",
     "title": "Nourishing Pillowy Ukrainian Hummus Dumplings",
     "tags": [
@@ -4161,6 +4176,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutrient-rich-turkish-beans-fasulye",
+    "title": "Turkish Beans Fasulye",
+    "tags": [
+      "beans",
+      "gluten-free",
+      "one-pan",
+      "turkish",
+      "vegetarian"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nutrient-rich-turkish-lamb-tagine",
     "title": "Nutrient-rich Turkish Lamb Tagine",
     "tags": [
@@ -4818,6 +4847,18 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-bouncy-ukrainian-pork-grill",
+    "title": "nutty, bouncy ukrainian pork grill",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-british-fish-chips-and-fish",
     "title": "Nutty British Fish Chips and Fish",
     "tags": [
@@ -4831,6 +4872,20 @@
       "weeknight"
     ],
     "cuisine": "british",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-browned-portuguese-spaghetti-pasta",
+    "title": "Nutty Browned Portuguese Spaghetti Pasta",
+    "tags": [
+      "brunch-ideas",
+      "nutty-flavors",
+      "one-pan-meals",
+      "paleo-friendly",
+      "portuguese-cuisine"
+    ],
+    "cuisine": "Portuguese",
     "totalTimeMin": 35,
     "shard": "n"
   },
@@ -7064,6 +7119,22 @@
       "weeknight"
     ],
     "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-mexican-comte-tacos",
+    "title": "nutty mexican comte tacos",
+    "tags": [
+      "breakfast-brunch",
+      "easy-to-make",
+      "lunch",
+      "mexican",
+      "nutty",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "n"
   },

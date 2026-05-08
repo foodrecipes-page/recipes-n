@@ -1,0 +1,92 @@
+{
+  "title": "nutty, bouncy ukrainian pork grill",
+  "description": "quick-fix ukrainian dish featuring pork tenderloin and a nutty fermented twist.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "500",
+      "notes": "1 pork tenderloin, trimmed of excess fat"
+    },
+    {
+      "name": "fermented garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a comal or large skillet over medium-high heat.",
+    "add a pinch of salt and pepper to the oil, and swirl to combine.",
+    "add the pork tenderloin to the comal, and sear until browned on all sides, about 5 minutes.",
+    "remove the pork from the comal, and set aside to rest.",
+    "add the minced fermented garlic to the comal, and cook for 1 minute.",
+    "add the chopped walnuts to the comal, and cook for an additional minute.",
+    "add the dried thyme to the comal, and cook for 30 seconds.",
+    "return the pork to the comal, and coat with the nutty garlic and walnut mixture.",
+    "transfer the pork to a plate, and garnish with chopped parsley.",
+    "serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "nutty-bouncy-ukrainian-pork-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-bouncy-ukrainian-pork-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:47:17Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "ferment",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Pork",
+    "descriptor": "Nutty, Bouncy",
+    "dishForm": "Grill"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Nourishing Pillowy Italian Portobello Mushrooms Saltimbocca",
+  "description": "A peppery, pillowy, vegetarian-friendly Italian dish featuring dry white wine and ferment-kimchi, perfect for a satisfying meal prep solution.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "12 large",
+      "notes": "stem removed and caps sliced 1/2 inch thick"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh sage leaves",
+      "amount": "12"
+    },
+    {
+      "name": "Provolone cheese",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat olive oil over medium heat and saute garlic until fragrant.",
+    "Add sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add dry white wine to the skillet and cook until the liquid is almost completely reduced.",
+    "Stir in chopped ferment-kimchi and cook for an additional 2 minutes.",
+    "Butter one side of each provolone cheese slice.",
+    "To assemble the saltimbocca, place a cooked mushroom slice on a flat surface, then top with a sage leaf, a slice of provolone cheese buttered side up, and finally another mushroom slice.",
+    "Place the saltimbocca on a baking sheet lined with parchment paper and bake in the preheated oven for 15 minutes or until the cheese is melted and bubbly.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "meal-prep",
+    "mushroom",
+    "one-pan",
+    "saltimbocca",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "nourishing-pillowy-italian-portobello-mushrooms-saltimbocca",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-pillowy-italian-portobello-mushrooms-saltimbocca",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:46:50Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "dry white wine",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "portobello mushrooms",
+    "descriptor": "nourishing pillowy",
+    "dishForm": "Saltimbocca"
+  }
+}

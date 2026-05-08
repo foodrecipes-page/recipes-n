@@ -1,0 +1,72 @@
+{
+  "title": "nutty mexican comte tacos",
+  "description": "a rich, nutty, and velvety taco recipe featuring comte cheese, perfect for festive mexican nights. this recipe is low in sodium, making it a great option for those watching their salt intake.",
+  "cuisine": "mexican",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "comte cheese",
+      "amount": "200g",
+      "notes": "a rich and creamy french cheese"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 200f.",
+    "in a blender or food processor, combine chipotle peppers, adobo sauce, salt-free seasoning blend, and a pinch of black pepper. blend until smooth.",
+    "in a medium skillet, melt 1 tablespoon of unsalted butter over medium heat. add the chopped onion and cook until translucent, about 5 minutes.",
+    "add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "add the radishes and cook for 2-3 minutes, until slightly tender.",
+    "add the chopped cilantro, a squeeze of lime juice, and a sprinkle of cumin. cook for 1 minute, until the flavors have melded together.",
+    "warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "in a large skillet, heat 1 tablespoon of olive oil over medium heat. add 1 tablespoon of nonstick cooking spray and swirl to coat.",
+    "add 2-3 tortillas to the skillet and cook for 30-45 seconds on each side, until slightly charred and pliable.",
+    "repeat with the remaining tortillas.",
+    "in a medium bowl, combine the crumbled comte cheese, chopped walnuts, and a sprinkle of cumin. mix until well combined.",
+    "to assemble the tacos, place a few spoonfuls of the chipotle sauce onto a warmed tortilla, followed by a spoonful of the comte cheese mixture.",
+    "top with a sprinkle of honey, a dollop of sour cream, a sprinkle of cotija cheese, and a sprinkle of chopped pecans.",
+    "repeat with the remaining ingredients and serve immediately.",
+    "garnish with sliced scallions, radishes, and a sprinkle of cilantro, if desired.",
+    "serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-brunch",
+    "easy-to-make",
+    "lunch",
+    "mexican",
+    "nutty",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nutty-mexican-comte-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-mexican-comte-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:47:20Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "bain-marie",
+    "primaryIngredient": "comte",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "comte",
+    "descriptor": "nutty",
+    "dishForm": "tacos"
+  }
+}
