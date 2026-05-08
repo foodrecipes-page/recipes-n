@@ -1,0 +1,97 @@
+{
+  "title": "Nutty Smoky Fujian Pork Noodles",
+  "description": "A salty and snappy Chinese dish featuring dark soft brown sugar and smoky flavors, perfect for a date night.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the pork and cook until browned, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the smoked paprika, dark brown sugar, soy sauce, and rice vinegar, and stir to combine.",
+    "Cook for an additional 2 minutes, until the sauce has thickened.",
+    "Cook the rice noodles according to the package instructions.",
+    "Add the cooked noodles to the skillet and toss to combine with the pork and sauce.",
+    "Serve immediately, garnished with chopped scallions and sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "date-night",
+    "gluten-free",
+    "noodle-dish",
+    "pork-recipe",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "nutty-smoky-fujian-pork-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-smoky-fujian-pork-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:01:01Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "smoke-cold",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "gluten-free",
+    "region": "fujian",
+    "cuisineAdjective": "Fujian",
+    "mainIngredient": "pork",
+    "descriptor": "nutty smoky",
+    "dishForm": "Noodles"
+  }
+}
