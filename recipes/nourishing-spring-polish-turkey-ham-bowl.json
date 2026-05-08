@@ -1,0 +1,108 @@
+{
+  "title": "Nourishing Spring Polish Turkey Ham Bowl",
+  "description": "A hearty and flavorful Polish-inspired dish featuring turkey ham, served in a lacquerware bowl, perfect for a spring brunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turkey ham",
+      "amount": "12 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": " cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, apple cider vinegar, dijon mustard, salt, and pepper to make the marinade.",
+    "Add the thinly sliced turkey ham to the marinade and toss to coat.",
+    "Let the turkey ham marinate for at least 30 minutes.",
+    "In a separate bowl, combine mixed greens, cherry tomatoes, cucumber, and red onion.",
+    "To assemble the bowls, divide the mixed greens mixture among four lacquerware bowls.",
+    "Top each bowl with a few slices of the marinated turkey ham.",
+    "Sprinkle crumbly feta cheese over the top of each bowl.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional cherry tomatoes and cucumber slices, if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-ideas",
+    "easy-meals",
+    "healthy-bowls",
+    "polish-cuisine",
+    "spring-inspired",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-spring-polish-turkey-ham-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-spring-polish-turkey-ham-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:16:26Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "marinate",
+    "primaryIngredient": "turkey ham",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "turkey ham",
+    "descriptor": "Nourishing Spring",
+    "dishForm": "Bowl"
+  }
+}
