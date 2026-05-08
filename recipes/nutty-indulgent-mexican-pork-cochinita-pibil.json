@@ -1,0 +1,98 @@
+{
+  "title": "Nutty Indulgent Mexican Pork Cochinita Pibil",
+  "description": "This dish is a floral and springy Mexican recipe featuring desiccated coconut and air-fried pork, making it a macrobiotic-friendly and indulgent meal option.",
+  "cuisine": "Mexican",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "desiccated coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "2",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a blender or food processor, combine desiccated coconut, roasted poblano peppers, onion, garlic, cumin, coriander, lime juice, and olive oil to make a marinade.",
+    "Place the pork shoulder in a large bowl and pour the marinade over it, making sure the pork is fully coated.",
+    "Let the pork marinate for at least 2 hours or overnight.",
+    "Remove the pork from the marinade and place it in the air fryer basket.",
+    "Cook the pork in the air fryer for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the pork rest for 10 minutes before slicing it thinly against the grain.",
+    "Serve the sliced pork with additional desiccated coconut and roasted poblano peppers on top, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "cochinita-pibil",
+    "desiccated-coconut",
+    "macrobiotic",
+    "mexican-food",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "nutty-indulgent-mexican-pork-cochinita-pibil",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-indulgent-mexican-pork-cochinita-pibil",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:10:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "macrobiotic",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "Nutty Indulgent",
+    "dishForm": "Cochinita Pibil"
+  }
+}
