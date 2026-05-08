@@ -1,0 +1,99 @@
+{
+  "title": "Nourishing Shattering Korean Casabe Songpyeon",
+  "description": "Savory Korean dish featuring casabe, namul-blanch-season, and egg-free-friendly ingredients, formed into songpyeon, a crowd-pleasing snack",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Casabe",
+      "amount": "2 cups",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "Namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the crushed casabe, blanched and seasoned namul, sesame oil, soy sauce, rice vinegar, grated ginger, minced garlic, salt, and black pepper.",
+    "Knead the mixture until it forms a dough.",
+    "Divide the dough into small balls and shape each into a songpyeon form.",
+    "Place the songpyeon on a baking sheet lined with parchment paper.",
+    "Bake the songpyeon for 20 minutes or until they are lightly browned.",
+    "Remove the songpyeon from the oven and let them cool on a wire rack.",
+    "Serve the songpyeon warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "easy-to-make",
+    "gluten-free",
+    "korean-snack",
+    "savory",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "nourishing-shattering-korean-casabe-songpyeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-shattering-korean-casabe-songpyeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:45:33Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "casabe",
+    "diet": "egg-free",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "casabe",
+    "descriptor": "Nourishing Shattering",
+    "dishForm": "Songpyeon"
+  }
+}
