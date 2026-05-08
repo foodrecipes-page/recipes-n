@@ -1,0 +1,108 @@
+{
+  "title": "Nutty American Broad Beans Pasta",
+  "description": "A buttery and creamy weeknight American dish featuring broad beans, with a soffritto-base and vegan-friendly ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "broad beans",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, saute the chopped onion, garlic, carrots, and celery in vegan butter until the vegetables are tender.",
+    "Add the broad beans to the skillet and cook for an additional 2-3 minutes.",
+    "Stir in the nutritional yeast, lemon juice, salt, and black pepper.",
+    "Combine the cooked pasta and soffritto mixture in a large bowl and toss to combine.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Let the dish cool for a few minutes before serving.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-cuisine",
+    "broad-beans",
+    "one-pan",
+    "pasta-dish",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nutty-american-broad-beans-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-american-broad-beans-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:23:35Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "soffritto-base",
+    "primaryIngredient": "broad beans",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "broad beans",
+    "descriptor": "nutty creamy",
+    "dishForm": "Pasta"
+  }
+}

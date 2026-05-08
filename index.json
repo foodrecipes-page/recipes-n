@@ -6387,6 +6387,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-american-broad-beans-pasta",
+    "title": "Nutty American Broad Beans Pasta",
+    "tags": [
+      "american-cuisine",
+      "broad-beans",
+      "one-pan",
+      "pasta-dish",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-american-pasta-lasagna",
     "title": "Nutty American Pasta Lasagna",
     "tags": [
