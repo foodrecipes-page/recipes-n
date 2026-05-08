@@ -331,6 +331,20 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-earthy-venezuelan-water-chestnut-casserole",
+    "title": "Venezuelan Water Chestnut Casserole",
+    "tags": [
+      "earth-friendly",
+      "latin-american",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-fermented-springy-indian-curry",
     "title": "Naturally Fermented Springy Indian Curry",
     "tags": [
@@ -4798,6 +4812,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 60,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-filipino-duck-confit",
+    "title": "Nourishing Smoky Filipino Duck Confit",
+    "tags": [
+      "filipino",
+      "one-pan",
+      "plant-based",
+      "romantic",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {

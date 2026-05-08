@@ -1,0 +1,103 @@
+{
+  "title": "Nourishing Smoky Filipino Duck Confit",
+  "description": "A smoky and pillowy Filipino dish featuring duck, served in a scallop shell, perfect for a romantic evening, this plant-based friendly recipe uses tofu instead of traditional duck.",
+  "cuisine": "Filipino",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "filipino vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, filipino vinegar, coconut oil, garlic, ginger, salt, black pepper, and chili flakes.",
+    "Add the tofu to the bowl and toss to coat with the smoky mixture.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the tofu from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "Spoon the tofu mixture into the scallop shells, leaving a small border around the edges.",
+    "Place the scallop shells on a baking sheet lined with parchment paper and bake for 25 minutes.",
+    "Remove the scallop shells from the oven and let them cool for a few minutes before serving.",
+    "Serve the smoky tofu confit in the scallop shells, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "one-pan",
+    "plant-based",
+    "romantic",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "nourishing-smoky-filipino-duck-confit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-filipino-duck-confit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:47:49Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "emulsify",
+    "primaryIngredient": "duck",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "duck",
+    "descriptor": "nourishing smoky",
+    "dishForm": "Confit"
+  }
+}
