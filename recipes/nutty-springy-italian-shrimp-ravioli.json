@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Springy Italian Shrimp Ravioli",
+  "description": "A savory Italian dish featuring dried shrimp and tempering chocolate in a ravioli form, cooked in a donabe vessel, inspired by Calabrian cuisine.",
+  "cuisine": "Italian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried shrimp",
+      "amount": "1 cup",
+      "notes": "rehydrated"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe vessel over medium heat.",
+    "Combine rehydrated dried shrimp, chopped tempering chocolate, minced garlic, and chopped pine nuts in a bowl.",
+    "In a separate bowl, mix together all purpose flour, eggs, olive oil, salt, and black pepper to form a dough.",
+    "Roll out the dough into a thin sheet and use a cookie cutter to create ravioli shapes.",
+    "Place a spoonful of the shrimp and chocolate mixture in the center of each ravioli shape.",
+    "Fold the dough over the filling to form a triangle or a square shape, and press the edges together to seal the ravioli.",
+    "Carefully place the ravioli in the preheated donabe vessel.",
+    "Cook the ravioli for 5 minutes on each side, or until they are golden brown and cooked through.",
+    "Serve the ravioli hot, topped with grated parmesan cheese."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "donabe",
+    "italian-cuisine",
+    "kosher-friendly",
+    "seafood",
+    "spring-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "nutty-springy-italian-shrimp-ravioli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-springy-italian-shrimp-ravioli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:38:58Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "dried shrimp",
+    "diet": "kosher",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Nutty Springy",
+    "dishForm": "Ravioli"
+  }
+}
