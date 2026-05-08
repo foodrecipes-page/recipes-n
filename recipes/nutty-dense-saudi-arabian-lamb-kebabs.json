@@ -1,0 +1,106 @@
+{
+  "title": "Nutty Dense Saudi Arabian Lamb Kebabs",
+  "description": "A spicy and dense Saudi Arabian dish featuring sumac, perfect for kids and adults alike, served in a copper mug.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, combine the ground lamb, sumac, olive oil, onion, garlic, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Mix the ingredients together with your hands or a wooden spoon until just combined.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until they are cooked through.",
+    "While the kebabs are cooking, toast the chopped almonds in a small skillet over medium heat until fragrant.",
+    "Once the kebabs are done, brush them with the deglaze fond and sprinkle with toasted almonds.",
+    "Serve the kebabs in a copper mug with your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kid-friendly",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "nutty-dense-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:30:23Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "sumac",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Nutty Dense",
+    "dishForm": "Kebabs"
+  }
+}
