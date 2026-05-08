@@ -1,0 +1,109 @@
+{
+  "title": "Nutty Smoked Malaysian Chicken Skewers",
+  "description": "Charred and light, these comforting Malaysian chicken skewers feature sansho and render-fat for a diabetic-friendly dish, grilled to perfection on a robata-grill.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sansho pepper",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "render-fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "reduced-sugar"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut milk, fish sauce, lime juice, brown sugar, and salt.",
+    "Add the chicken pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the melted render-fat onto the chicken skewers.",
+    "Sprinkle the ground sansho pepper and chopped peanuts over the chicken skewers.",
+    "Grill the skewers on the robata-grill for 10-12 minutes, turning occasionally.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "grilled",
+    "high-protein",
+    "malaysian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "nutty-smoked-malaysian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-smoked-malaysian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:05:38Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "render-fat",
+    "primaryIngredient": "sansho",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "nutty smoked",
+    "dishForm": "Skewers"
+  }
+}
