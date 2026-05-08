@@ -1,0 +1,93 @@
+{
+  "title": "Naturally Smoky Yucatecan Pickles Horchata",
+  "description": "A unique and refreshing horchata featuring smoky dill pickles, perfect for a date night with a Mexican twist",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dill pickles",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2",
+      "notes": "whole"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine the rice, water, and cinnamon sticks in a large pot and bring to a boil over high heat",
+    "Reduce the heat to low, cover, and simmer for 20 minutes or until the rice is tender",
+    "Strain the rice mixture through a cheesecloth into a large bowl, discarding the solids",
+    "Add the chopped dill pickles, smoked paprika, vanilla extract, dates, and lime juice to the bowl and stir to combine",
+    "Chill the mixture in the refrigerator for at least 2 hours to allow the flavors to meld",
+    "Stir the horchata well before serving and serve cold",
+    "Garnish with additional chopped dill pickles and a sprinkle of smoked paprika, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "mexican-inspired",
+    "refreshing-beverages",
+    "smoky-flavors",
+    "unique-drinks"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 55,
+    "fat": 1
+  },
+  "slug": "naturally-smoky-yucatecan-pickles-horchata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-yucatecan-pickles-horchata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:04:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "dill pickles",
+    "diet": "egg-free",
+    "region": "yucatecan",
+    "cuisineAdjective": "Yucatecan",
+    "mainIngredient": "pickles",
+    "descriptor": "Naturally Smoky",
+    "dishForm": "Horchata"
+  }
+}
