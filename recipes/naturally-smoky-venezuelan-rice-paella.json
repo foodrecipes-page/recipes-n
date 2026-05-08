@@ -1,0 +1,95 @@
+{
+  "title": "Naturally Smoky Venezuelan Rice Paella",
+  "description": "A charred and aerated solo dinner dish featuring paella rice and ferment jang, this recipe is FODMAP friendly and perfect for a weeknight meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten free",
+    "low lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "use short grain rice"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "2 tablespoons",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic infused oil",
+      "amount": "1 tablespoon",
+      "notes": "use FODMAP friendly garlic oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium high heat.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the paella rice and cook for 2 minutes, stirring constantly, until the rice is coated in the oil and spice mixture.",
+    "Add the ferment jang and cook for 1 minute, stirring constantly.",
+    "Add the garlic infused oil and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove the pan from the heat and let it cool for 5 minutes.",
+    "Fluff the rice with a fork and season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "low-lactose",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "naturally-smoky-venezuelan-rice-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-venezuelan-rice-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:56:25Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "ferment-jang",
+    "primaryIngredient": "paella rice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "rice",
+    "descriptor": "Naturally Smoky",
+    "dishForm": "Paella"
+  }
+}

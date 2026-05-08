@@ -1,0 +1,95 @@
+{
+  "title": "Nimble Roasted Syrian Lamb Kebabs",
+  "description": "Quick and flavorful Syrian lamb kebabs roasted to perfection with fines herbes and steamed in leaf wraps, perfect for a low fat friendly meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fines herbes",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh parsley, dill, and mint"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "leaf wraps",
+      "amount": "4-6 pieces",
+      "notes": "such as grape or collard green leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, fines herbes, garlic, lemon juice, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast for 15 minutes.",
+    "While the lamb is roasting, prepare the leaf wraps by blanching them in boiling water for 30 seconds.",
+    "After the lamb has roasted for 15 minutes, remove it from the oven and wrap each skewer in a leaf wrap.",
+    "Return the wrapped skewers to the oven and steam for an additional 5 minutes.",
+    "Remove the skewers from the oven and let them rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-fat",
+    "middle-eastern",
+    "quick-fix",
+    "roasted",
+    "spring-inspired",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "nimble-roasted-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-roasted-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:56:03Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "fines-herbes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Nimble Roasted",
+    "dishForm": "Kebabs"
+  }
+}

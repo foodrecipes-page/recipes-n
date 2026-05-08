@@ -1,0 +1,107 @@
+{
+  "title": "Nutty Crispy Uruguayan Beef Tagine",
+  "description": "A peppery and crispy Uruguayan dish featuring pecan nuts and rest meat, perfect for a lazy Sunday, this recipe is ayurvedic tamasic friendly and cooked in a ceramic tagine.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "pecan nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in the ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the beef brisket pieces and cook until they are browned on all sides.",
+    "Add the chopped pecan nuts, smoked paprika, black pepper, and salt, and stir to combine.",
+    "Pour in the beef broth and bring the mixture to a simmer.",
+    "Cover the tagine with a lid and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the beef is tender and the sauce has thickened.",
+    "Remove the tagine from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "ceramic-cooking",
+    "gluten-free",
+    "lazy-sunday",
+    "meat-based",
+    "nutty-flavors",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "nutty-crispy-uruguayan-beef-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-uruguayan-beef-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:55:58Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "rest-meat",
+    "primaryIngredient": "pecan nuts",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Tagine"
+  }
+}

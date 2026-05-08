@@ -597,6 +597,21 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-smoky-venezuelan-rice-paella",
+    "title": "Naturally Smoky Venezuelan Rice Paella",
+    "tags": [
+      "fodmap-friendly",
+      "gluten-free",
+      "low-lactose",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-smoky-yucatecan-pickles-horchata",
     "title": "Naturally Smoky Yucatecan Pickles Horchata",
     "tags": [
@@ -1851,6 +1866,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nimble-roasted-syrian-lamb-kebabs",
+    "title": "Nimble Roasted Syrian Lamb Kebabs",
+    "tags": [
+      "low-fat",
+      "middle-eastern",
+      "quick-fix",
+      "roasted",
+      "spring-inspired",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -8715,6 +8745,22 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-uruguayan-beef-tagine",
+    "title": "Nutty Crispy Uruguayan Beef Tagine",
+    "tags": [
+      "beef-recipes",
+      "ceramic-cooking",
+      "gluten-free",
+      "lazy-sunday",
+      "meat-based",
+      "nutty-flavors",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 180,
     "shard": "n"
   },
   {
