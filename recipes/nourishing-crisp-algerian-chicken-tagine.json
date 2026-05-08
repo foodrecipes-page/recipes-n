@@ -1,0 +1,108 @@
+{
+  "title": "Nourishing Crisp Algerian Chicken Tagine",
+  "description": "This salty and crisp Algerian dish features chicken cooked in a tagine, perfect for a romantic dinner, and is low in glycemic index for a healthier meal option.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, ginger, paprika, cumin, cayenne pepper, salt, and black pepper.",
+    "Add the chicken thighs to the bowl and toss to coat evenly with the marinade.",
+    "Heat a large Dutch oven over medium-high heat and sear the chicken thighs until browned on both sides.",
+    "Add the chopped onion to the pot and cook until it is translucent and starting to caramelize.",
+    "Add the chicken broth to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 30 minutes, then remove the lid and continue baking for an additional 20 minutes, or until the chicken is cooked through and the skin is crispy.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-chicken",
+    "gluten-free",
+    "low-glycemic",
+    "north-african",
+    "one-pot",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "nourishing-crisp-algerian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-crisp-algerian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:47:36Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "tagine-cook",
+    "primaryIngredient": "chicken",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing Crisp",
+    "dishForm": "Tagine"
+  }
+}

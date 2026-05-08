@@ -1,0 +1,105 @@
+{
+  "title": "Nutritious Roasted Mediterranean Duck Skewers",
+  "description": "A low-calorie, post-workout Mediterranean dish featuring roasted duck skewers with duck sauce and nuka-pickle, served in a copper mug.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "duck sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "copper mugs",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the duck breast pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together the duck sauce, olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+    "Brush the mixture onto the duck skewers, making sure they are fully coated.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast for 20 minutes.",
+    "After 20 minutes, increase the oven temperature to broil and cook for an additional 5 minutes, or until the duck is shattering and slightly charred.",
+    "While the duck is cooking, prepare the nuka-pickle by chopping it into small pieces.",
+    "Once the duck is done, remove it from the oven and let it rest for a few minutes.",
+    "Serve the duck skewers in copper mugs, topped with chopped nuka-pickle and a side of duck sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "mediterranean",
+    "post-workout",
+    "protein-rich",
+    "roasted",
+    "shattering"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "nutritious-roasted-mediterranean-duck-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-roasted-mediterranean-duck-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:47:41Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "duck sauce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "duck",
+    "descriptor": "Nutritious Roasted",
+    "dishForm": "Skewers"
+  }
+}

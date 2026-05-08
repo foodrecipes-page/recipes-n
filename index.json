@@ -2552,6 +2552,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-crisp-algerian-chicken-tagine",
+    "title": "Nourishing Crisp Algerian Chicken Tagine",
+    "tags": [
+      "crispy-chicken",
+      "gluten-free",
+      "low-glycemic",
+      "north-african",
+      "one-pot",
+      "romantic-dinner"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-crisp-indian-lamb-vada-pav",
     "title": "Nourishing Crisp Indian Lamb Vada Pav",
     "tags": [
@@ -4659,6 +4674,22 @@
     "shard": "n"
   },
   {
+    "slug": "nutrient-dense-aromatic-mediterranean-lentils-wrap",
+    "title": "Nutrient-dense Aromatic Mediterranean Lentils Wrap",
+    "tags": [
+      "dinner",
+      "gluten-free",
+      "low-carb",
+      "mediterranean",
+      "one-pot",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutrient-dense-moroccan-brown-rice-paella",
     "title": "Nutrient-Dense Moroccan Brown Rice Paella",
     "tags": [
@@ -5268,6 +5299,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-roasted-mediterranean-duck-skewers",
+    "title": "Nutritious Roasted Mediterranean Duck Skewers",
+    "tags": [
+      "low-calorie",
+      "mediterranean",
+      "post-workout",
+      "protein-rich",
+      "roasted",
+      "shattering"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
