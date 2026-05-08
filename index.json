@@ -1526,6 +1526,21 @@
     "shard": "n"
   },
   {
+    "slug": "nighttime-craving-mediterranean-duck-legs-nigiri",
+    "title": "nighttime craving mediterranean duck legs nigiri",
+    "tags": [
+      "easy-snack",
+      "high-protein",
+      "low-calorie",
+      "mediterranean",
+      "one-pan",
+      "sushi"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 75,
+    "shard": "n"
+  },
+  {
     "slug": "nighttime-crispy-charred-mediterranean-chive-tagine",
     "title": "nighttime crispy charred mediterranean chive tagine",
     "tags": [
@@ -3226,6 +3241,21 @@
       "midnight-cravings"
     ],
     "cuisine": "brazilian",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-brazilian-buttermilk-pudding",
+    "title": "Nourishing Brazilian Buttermilk Pudding",
+    "tags": [
+      "brazilian-cuisine",
+      "coconut-based",
+      "comfort-food",
+      "desserts",
+      "high-protein",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
     "totalTimeMin": 25,
     "shard": "n"
   },
@@ -5353,6 +5383,20 @@
       "savory-dishes"
     ],
     "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-savory-portuguese-leek-stew",
+    "title": "Nourishing Savory Portuguese Leek Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "one-pot",
+      "plant-based",
+      "portuguese-cuisine"
+    ],
+    "cuisine": "Portuguese",
     "totalTimeMin": 50,
     "shard": "n"
   },

@@ -1,0 +1,98 @@
+{
+  "title": "Nourishing Savory Portuguese Leek Stew",
+  "description": "A hearty and comforting stew featuring leeks, mustard, and tempering chocolate, perfect for a chilly evening, this plant-based friendly dish is a twist on traditional Portuguese cuisine.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leeks",
+      "amount": "4 medium",
+      "notes": "cleaned and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the sliced leeks and cook until they are softened and lightly browned.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the mustard and tempering chocolate until the chocolate is melted and well combined.",
+    "Add the vegetable broth, potatoes, salt, and black pepper to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes, or until the potatoes are tender.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Let the stew cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "one-pot",
+    "plant-based",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nourishing-savory-portuguese-leek-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-savory-portuguese-leek-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:29:30Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "leek",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "leek",
+    "descriptor": "nourishing savory",
+    "dishForm": "Stew"
+  }
+}

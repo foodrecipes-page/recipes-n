@@ -1,0 +1,113 @@
+{
+  "title": "nighttime craving mediterranean duck legs nigiri",
+  "description": "earthly, dense, midnight-craving mediterranean dish featuring duck legs nigiri, shaped for low-calorie-friendly satisfaction",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "1 cup",
+      "notes": "short grain, Japanese-style"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted, sliced"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": "canned, drained"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "2 oz",
+      "notes": "crumbly, chopped"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "diced, packed in oil"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the duck legs with salt and pepper.",
+    "In a large bowl, whisk together lemon juice and olive oil.",
+    "Add the sliced olives, artichoke hearts, sun-dried tomatoes, and chopped parsley to the bowl, and toss to combine.",
+    "In a separate saucepan, cook the sushi rice according to package instructions.",
+    "Once the rice is cooked, let it cool to room temperature.",
+    "Shape the cooled rice into nigiri shapes.",
+    "Place a piece of cooked sushi rice on each nigiri shape.",
+    "Top each nigiri with a piece of roasted duck leg.",
+    "Drizzle the lemon-olive oil mixture over the top of each nigiri."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-snack",
+    "high-protein",
+    "low-calorie",
+    "mediterranean",
+    "one-pan",
+    "sushi"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "nighttime-craving-mediterranean-duck-legs-nigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nighttime-craving-mediterranean-duck-legs-nigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:33Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "duck legs",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "duck legs",
+    "descriptor": "nighttime craving",
+    "dishForm": "Nigiri"
+  }
+}

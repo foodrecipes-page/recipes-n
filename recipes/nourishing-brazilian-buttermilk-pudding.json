@@ -1,0 +1,101 @@
+{
+  "title": "Nourishing Brazilian Buttermilk Pudding",
+  "description": "A creamy and tangy dessert recipe inspired by Brazilian cuisine, made with buttermilk and a hint of tropical flavor.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "paleo-friendly",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "large egg yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "freshly squeezed lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, warm the coconut oil over low heat.",
+    "In a separate mixing bowl, whisk together the egg yolks and coconut sugar until pale and thickened.",
+    "Gradually pour the warm coconut oil into the egg yolk mixture, whisking constantly to prevent scrambling.",
+    "Add the unsweetened shredded coconut, salt, and lime zest to the bowl and whisk until well combined.",
+    "Pour in the buttermilk and whisk until the mixture is smooth and free of lumps.",
+    "Pour the mixture into a copper pot or a medium saucepan set over medium heat.",
+    "Cook the pudding over medium heat, stirring constantly, until it thickens and coats the back of a spoon, about 10 minutes.",
+    "Remove the pudding from the heat and stir in the freshly squeezed lime juice.",
+    "Let the pudding cool to room temperature, then cover and refrigerate until chilled.",
+    "Serve the pudding chilled, garnished with toasted coconut flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "coconut-based",
+    "comfort-food",
+    "desserts",
+    "high-protein",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 14
+  },
+  "slug": "nourishing-brazilian-buttermilk-pudding",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-brazilian-buttermilk-pudding",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T22:28:09Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "buttermilk",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "buttermilk",
+    "descriptor": "Nourishing",
+    "dishForm": "Pudding"
+  }
+}
