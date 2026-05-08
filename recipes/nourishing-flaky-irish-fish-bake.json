@@ -1,0 +1,107 @@
+{
+  "title": "Nourishing Flaky Irish Fish Bake",
+  "description": "Fermented fish dish with flaky texture, served solo for dinner, using anti-inflammatory-friendly ingredients, featuring mayonnaise and Korea's fermented paste, jang.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Jang",
+      "amount": "2 tbsp",
+      "notes": "Korean fermented paste, adjust to taste."
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "Chopped Dill",
+      "amount": "1 tsp",
+      "notes": "Freshly chopped."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "",
+      "notes": "Optional, for garnish."
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": "Thinly sliced, for serving."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper, creating a small lip around the edges to contain juices.",
+    "Place cod fillets on the prepared baking sheet, drizzle with lemon juice, and sprinkle with chopped dill, salt, and black pepper.",
+    "Spread fermented jang and mayonnaise on top of the fish fillets, leaving a small border around the edges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner-option",
+    "fermented",
+    "gluten-free",
+    "healthy-fat",
+    "korean-influenced",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "nourishing-flaky-irish-fish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-flaky-irish-fish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "ferment-jang",
+    "primaryIngredient": "mayonnaise",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Fish",
+    "descriptor": "Nourishing Flaky",
+    "dishForm": "Bake"
+  }
+}

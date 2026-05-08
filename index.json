@@ -2265,6 +2265,20 @@
     "shard": "n"
   },
   {
+    "slug": "noisy-stone-fractured-norwegian-dates-stone-bowl-dolsot",
+    "title": "noisy stone-fractured norwegian dates stone-bowl-dolsot",
+    "tags": [
+      "dairy-free",
+      "fermented",
+      "monsoon",
+      "norwegian",
+      "shattering"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nonyoung-tunisian-chicken-oozy-lemony-stir-fry",
     "title": "Nonyoung Tunisian Chicken Oozy Lemony Stir-fry",
     "tags": [
@@ -4125,6 +4139,23 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-flaky-irish-fish-bake",
+    "title": "Nourishing Flaky Irish Fish Bake",
+    "tags": [
+      "comfort-food",
+      "dinner-option",
+      "fermented",
+      "gluten-free",
+      "healthy-fat",
+      "korean-influenced",
+      "low-carb",
+      "one-pan"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
