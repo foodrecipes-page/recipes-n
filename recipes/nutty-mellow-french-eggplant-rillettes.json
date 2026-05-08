@@ -1,0 +1,106 @@
+{
+  "title": "Nutty Mellow French Eggplant Rillettes",
+  "description": "A malty, creamy French dish featuring eggplant, perfect for a weeknight dinner, with the added depth of kombu cold extract and ayurvedic rajasic friendly ingredients, served in a tandoor clay pot.",
+  "cuisine": "Basque-French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "any variety"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the eggplants in half lengthwise and score the flesh in a crisscross pattern.",
+    "Place the eggplants on a baking sheet lined with parchment paper and roast for 30 minutes.",
+    "Remove the eggplants from the oven and let them cool slightly.",
+    "Scoop the flesh out of the eggplants and place it in a blender or food processor.",
+    "Add the kombu cold extract, olive oil, garlic, shallots, hazelnuts, heavy cream, salt, and black pepper to the blender.",
+    "Blend the mixture until it is smooth and creamy.",
+    "Transfer the mixture to a tandoor clay pot or a serving dish.",
+    "Garnish with chopped fresh parsley and serve warm.",
+    "Serve the rillettes with crackers or bread for a delicious and easy dinner."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french",
+    "gluten-free",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "nutty-mellow-french-eggplant-rillettes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-mellow-french-eggplant-rillettes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:16:31Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "eggplant",
+    "diet": "ayurvedic-rajasic",
+    "region": "basque-french",
+    "cuisineAdjective": "French",
+    "mainIngredient": "eggplant",
+    "descriptor": "Nutty Mellow",
+    "dishForm": "Rillettes"
+  }
+}
