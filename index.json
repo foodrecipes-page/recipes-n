@@ -363,6 +363,20 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-roasted-indian-chicken-kebabs",
+    "title": "Naturally Roasted Indian Chicken Kebabs",
+    "tags": [
+      "high-protein",
+      "indian-food",
+      "kid-friendly",
+      "roasted-chicken",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-roasted-uruguayan-rhubarb-roast",
     "title": "Naturally Roasted Uruguayan Rhubarb Roast",
     "tags": [
@@ -6257,6 +6271,20 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 32,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-bitter-kenyan-meat-stew",
+    "title": "Nutty Bitter Kenyan Meat Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "special-occasion",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 110,
     "shard": "n"
   },
   {

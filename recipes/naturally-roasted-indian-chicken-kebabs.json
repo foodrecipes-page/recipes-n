@@ -1,0 +1,103 @@
+{
+  "title": "Naturally Roasted Indian Chicken Kebabs",
+  "description": "A juicy and flavorful Indian dish featuring roasted chicken, shallots, and render-fat, perfect for kids and adults alike, with a high protein content.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together ghee or oil, garam masala, cumin powder, coriander powder, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and roast for 20 minutes.",
+    "While the chicken is roasting, mix the chopped shallots with a pinch of salt and let it sit for 5 minutes to allow the shallots to soften.",
+    "After 20 minutes of roasting, brush the softened shallots onto the chicken pieces.",
+    "Return the skewers to the oven and continue roasting for an additional 10-12 minutes, or until the chicken is cooked through.",
+    "Remove the skewers from the oven and brush with lemon juice.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "indian-food",
+    "kid-friendly",
+    "roasted-chicken",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "naturally-roasted-indian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-roasted-indian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:18:03Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "render-fat",
+    "primaryIngredient": "shallots",
+    "diet": "high-protein",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Naturally Roasted",
+    "dishForm": "Kebabs"
+  }
+}
