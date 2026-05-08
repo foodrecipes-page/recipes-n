@@ -1,0 +1,104 @@
+{
+  "title": "Nice Spicy Mexican Fish Tacos",
+  "description": "A pescatarian friendly Mexican dish featuring panang paste and sauteed fish, perfect for a weeknight dinner. This kid friendly recipe is a twist on traditional tacos with a floral and shattering crunch from the poblano peppers.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "panang paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the diced poblano peppers and cook for an additional 2 minutes.",
+    "Add the panang paste and cook for 1 minute, stirring constantly.",
+    "Add the cod fillets and cook until opaque and flaky, about 3-4 minutes per side.",
+    "Season the fish with salt and pepper to taste.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a piece of the fish onto a tortilla and topping with onion, poblano peppers, and cilantro.",
+    "Drizzle the lime juice over the top of the tacos and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "mexican",
+    "one-pan",
+    "pescatarian",
+    "tacos",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "nice-spicy-mexican-fish-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-spicy-mexican-fish-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:50:45Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "saute",
+    "primaryIngredient": "panang-paste",
+    "diet": "pescatarian",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "fish",
+    "descriptor": "Nice spicy",
+    "dishForm": "Tacos"
+  }
+}

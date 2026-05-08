@@ -931,6 +931,21 @@
     "shard": "n"
   },
   {
+    "slug": "nice-spicy-mexican-fish-tacos",
+    "title": "Nice Spicy Mexican Fish Tacos",
+    "tags": [
+      "fish",
+      "mexican",
+      "one-pan",
+      "pescatarian",
+      "tacos",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 27,
+    "shard": "n"
+  },
+  {
     "slug": "nice-springy-mexican-peppers-chiles-rellenos",
     "title": "Nice Springy Mexican Peppers Chiles Rellenos",
     "tags": [
