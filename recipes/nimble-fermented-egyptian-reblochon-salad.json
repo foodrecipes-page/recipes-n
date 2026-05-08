@@ -1,0 +1,91 @@
+{
+  "title": "Nimble Fermented Egyptian Reblochon Salad",
+  "description": "A light and refreshing lacto-vegetarian salad featuring fermented reblochon cheese, fresh Egyptian herbs, and a tangy brine.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "8 oz",
+      "notes": "fermented"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, fresh"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together lemon juice and olive oil to make a vinaigrette.",
+    "In a large bowl, combine reblochon cheese, olives, parsley, cilantro, and garlic.",
+    "Drizzle the vinaigrette over the cheese mixture and toss to combine.",
+    "Season with salt to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good stir and adjust the seasoning if needed.",
+    "Transfer the salad to a talavera plate and serve chilled.",
+    "Garnish with additional parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "european",
+    "fermented",
+    "lacto-vegetarian",
+    "reblochon",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 16
+  },
+  "slug": "nimble-fermented-egyptian-reblochon-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-fermented-egyptian-reblochon-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:01:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "brine-wet",
+    "primaryIngredient": "reblochon",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Reblochon",
+    "descriptor": "Nimble Fermented",
+    "dishForm": "Salad"
+  }
+}
