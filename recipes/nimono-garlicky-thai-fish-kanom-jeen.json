@@ -1,0 +1,99 @@
+{
+  "title": "Nimono Garlicky Thai Fish Kanom Jeen",
+  "description": "A garlicky and crisp one-pot Thai dish featuring fish sauce and aekjeot, simmered in a nimono style and served with kanom jeen, this recipe is keto friendly and perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "use aekjeot for authentic flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai fish balls",
+      "amount": "1 package",
+      "notes": "found in most Asian markets"
+    },
+    {
+      "name": "kanom jeen",
+      "amount": "1 package",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bird's eye chili",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pot over medium heat.",
+    "Add the minced garlic and cook until fragrant, about 1 minute.",
+    "Add the sliced bird's eye chili and cook for another minute.",
+    "Add the fish sauce, fish balls, and lemon juice, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Add the kanom jeen to the pot and stir to combine with the sauce.",
+    "Cook for an additional 2 minutes, until the noodles are well coated.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the nimono garlicky Thai fish kanom jeen hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "thai-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 32
+  },
+  "slug": "nimono-garlicky-thai-fish-kanom-jeen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nimono-garlicky-thai-fish-kanom-jeen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:49:47Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "keto",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "fish",
+    "descriptor": "Nimono Garlicky",
+    "dishForm": "Kanom Jeen"
+  }
+}

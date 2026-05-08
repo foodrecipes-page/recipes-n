@@ -1,0 +1,98 @@
+{
+  "title": "Nutty Mexican Corn Tacos",
+  "description": "A nutty and crumbly Mexican dish featuring salted butter and wok-hei, inspired by the cuisine of Veracruz, with a low glycemic index.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "preferably day-old tortillas"
+    },
+    {
+      "name": "salted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grilled corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cotija cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or wok over medium-high heat.",
+    "Add the pumpkin seeds and cook, stirring frequently, until fragrant and lightly browned.",
+    "Add the salted butter to the skillet and let it melt, stirring to combine with the pumpkin seeds.",
+    "Add the diced red onion to the skillet and cook, stirring occasionally, until it is translucent and starting to caramelize.",
+    "Add the grilled corn kernels, chili powder, and a pinch of salt to the skillet, stirring to combine.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the corn and onion mixture onto a tortilla, followed by a sprinkle of crumbly cotija cheese and a squeeze of lime juice.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-glycemic",
+    "mexican-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "nutty-mexican-corn-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-mexican-corn-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:49:30Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "wok-hei",
+    "primaryIngredient": "salted butter",
+    "diet": "low-glycemic",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "Nutty Crunchy",
+    "dishForm": "Tacos"
+  }
+}
