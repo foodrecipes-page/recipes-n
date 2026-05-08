@@ -1,0 +1,95 @@
+{
+  "title": "Nourishing Sweet Polish Plum Crumble",
+  "description": "A macrobiotic-friendly dessert featuring robata-grilled plums and a crumbly topping, perfect for midnight cravings. This dish combines the sweetness of plums with the warmth of bay leaf.",
+  "cuisine": "Polish",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plums",
+      "amount": "6 medium",
+      "notes": "any variety, sliced"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "rolled"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 375 degrees Fahrenheit.",
+    "Grill the sliced plums for 2 minutes on each side, until they develop a slight char.",
+    "In a large bowl, mix together the oats, almond flour, coconut sugar, and sea salt.",
+    "Add the chopped walnuts to the bowl and stir until they are evenly distributed.",
+    "In a small saucepan, melt the coconut oil over low heat.",
+    "Add the melted coconut oil to the bowl and stir until the mixture forms a crumbly topping.",
+    "In a separate bowl, mix together the grilled plums and bay leaves.",
+    "Transfer the plum mixture to a baking dish and top with the crumbly topping.",
+    "Bake in a preheated oven at 375 degrees Fahrenheit for 25 minutes, until the topping is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "macrobiotic-friendly",
+    "polish-desserts",
+    "robata-grilled",
+    "sweet-treats",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "nourishing-sweet-polish-plum-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-sweet-polish-plum-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:09:27Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "robata-grill",
+    "primaryIngredient": "bay leaf",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "plums",
+    "descriptor": "Nourishing Sweet",
+    "dishForm": "Crumble"
+  }
+}
