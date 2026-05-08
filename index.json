@@ -4026,6 +4026,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-juicy-canadian-beef-bowl",
+    "title": "Nourishing Juicy Canadian Beef Bowl",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-juicy-dutch-pork-stew",
     "title": "Nourishing Juicy Dutch Pork Stew",
     "tags": [
@@ -9291,6 +9305,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-gooey-indian-shrimp-korma",
+    "title": "Nutty Gooey Indian Shrimp Korma",
+    "tags": [
+      "creamy",
+      "indian-cuisine",
+      "nutty",
+      "pasta",
+      "seafood",
+      "special-occasion"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-gooey-korean-bean-bun",
     "title": "Nutty Gooey Korean Bean Bun",
     "tags": [
@@ -10846,6 +10875,21 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-spicy-jamaican-semolina-pilaf",
+    "title": "Nutty Spicy Jamaican Semolina Pilaf",
+    "tags": [
+      "gluten-free",
+      "jamaican-cuisine",
+      "meal-prep",
+      "one-pot",
+      "spicy-food",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {

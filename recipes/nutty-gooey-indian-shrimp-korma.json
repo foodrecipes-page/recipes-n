@@ -1,0 +1,105 @@
+{
+  "title": "Nutty Gooey Indian Shrimp Korma",
+  "description": "A rich and creamy Indian-inspired dish featuring shrimp, rigatoni, and a blend of spices, perfect for a special occasion. This pescatarian-friendly recipe combines the flavors of Mangalorean cuisine with a char-grilled twist.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "12 oz",
+      "notes": "dry"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "chopped nuts",
+      "amount": "1/4 cup",
+      "notes": "such as almonds or cashews"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rigatoni according to package instructions until al dente.",
+    "In a large skillet, heat the vegetable oil over medium-high heat and char-grill the shrimp until pink and cooked through.",
+    "In the same skillet, add the chopped onion and cook until translucent, then add the minced garlic and cook for an additional minute.",
+    "Stir in the garam masala, coriander, and cumin, and cook for 1 minute, until fragrant.",
+    "Pour in the coconut milk and bring the mixture to a simmer, then reduce the heat to low and let cook for 5 minutes, until the sauce has thickened.",
+    "Stir in the chopped nuts and cook for an additional minute, until well combined.",
+    "Add the cooked rigatoni to the skillet and toss with the sauce until well coated.",
+    "Add the char-grilled shrimp to the skillet and toss with the rigatoni and sauce until well combined.",
+    "Season with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "indian-cuisine",
+    "nutty",
+    "pasta",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "nutty-gooey-indian-shrimp-korma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-gooey-indian-shrimp-korma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:35:17Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "rigatoni",
+    "diet": "pescatarian",
+    "region": "mangalorean",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Nutty Gooey",
+    "dishForm": "Korma"
+  }
+}

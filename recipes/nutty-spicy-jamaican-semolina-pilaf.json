@@ -1,0 +1,101 @@
+{
+  "title": "Nutty Spicy Jamaican Semolina Pilaf",
+  "description": "A spicy and fluffy meal prep dish featuring semolina with an al dente finish, this Jamaican pilaf is perfect for a weeknight dinner, served from a lazy Susan spinner for easy access.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "fodmap friendly",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "2 cups",
+      "notes": "fine semolina flour"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced, seeds removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the diced scotch bonnet peppers and cook for an additional 2 minutes.",
+    "Add the thyme, allspice, and salt, and stir to combine.",
+    "Add the semolina and stir to combine, cooking for 1-2 minutes.",
+    "Add the water and bring to a boil, then reduce the heat to low and cover.",
+    "Simmer for 15-20 minutes, or until the semolina is cooked and fluffy.",
+    "Stir in the chopped peanuts and serve hot from a lazy Susan spinner."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jamaican-cuisine",
+    "meal-prep",
+    "one-pot",
+    "spicy-food",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "nutty-spicy-jamaican-semolina-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-spicy-jamaican-semolina-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:36:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "semolina",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "semolina",
+    "descriptor": "Nutty Spicy",
+    "dishForm": "Pilaf"
+  }
+}
