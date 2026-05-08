@@ -1,0 +1,121 @@
+{
+  "title": "Nutty Molten Vietnamese Chicken Bun Cha",
+  "description": "Funky, molten Vietnamese dish featuring white wine and caramelized onions, perfect for a solo dinner.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "halal"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": "halal"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and add coconut oil.",
+    "Add sliced onions and cook, stirring occasionally, until they are caramelized and golden brown, about 8 minutes.",
+    "Add minced garlic and cook for 1 minute, stirring constantly.",
+    "Add chicken breast and cook for 2-3 minutes per side, or until cooked through.",
+    "Remove chicken from the skillet and set aside.",
+    "Add white wine to the skillet and cook, stirring to scrape up any browned bits, until the liquid is almost completely evaporated, about 2 minutes.",
+    "Add soy sauce, fish sauce, brown sugar, nutmeg, salt, and black pepper to the skillet and stir to combine.",
+    "Return the chicken to the skillet and toss to coat with the sauce.",
+    "Transfer the chicken to a serving plate and top with caramelized onions and chopped peanuts.",
+    "Serve immediately and enjoy!",
+    "Note: If desired, serve with steamed bok choy or noodles on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "high-protein",
+    "one-pan",
+    "solo-dinner",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "nutty-molten-vietnamese-chicken-bun-cha",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-molten-vietnamese-chicken-bun-cha",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:01:29Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "caramelize",
+    "primaryIngredient": "white wine",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Nutty Molten",
+    "dishForm": "Bun Cha"
+  }
+}
