@@ -1,0 +1,108 @@
+{
+  "title": "Nutritious Canadian Rice Pilaf",
+  "description": "A nutritious, gluten-free-friendly rice pilaf dish from Canada, featuring pineapple, khao kua, and perfect for meal prep.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "khao kua (fry grind rice)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "soy sauce (gluten-free)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Sauté the onion and garlic until softened, about 3 minutes.",
+    "Add the almonds and cook for 1 minute.",
+    "Add the khao kua and cook for 2 minutes, stirring constantly.",
+    "Add the pineapple, coconut milk, soy sauce, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-12 minutes, or until the liquid has been absorbed and the khao kua is tender.",
+    "Stir in the chopped cilantro and grated ginger.",
+    "Remove from heat and let cool slightly.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "gluten-free",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "nutritious-canadian-rice-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-canadian-rice-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:45:52Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "pineapple",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "rice",
+    "descriptor": "Nutritious",
+    "dishForm": "Pilaf"
+  }
+}
