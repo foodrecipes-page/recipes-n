@@ -1,0 +1,99 @@
+{
+  "title": "Naturally Crumbly Italian Veal Vitello Tonnato",
+  "description": "A pungent and crumbly Italian dish featuring soured cream and chive dip, pickle, and raw-friendly veal, originating from the Venetian region. This festive dish is perfect for special occasions.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal cutlets",
+      "amount": "1 pound",
+      "notes": "preferably from the round"
+    },
+    {
+      "name": "soured cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "pickles",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Pound the veal cutlets to a thickness of about 1/4 inch to ensure even cooking.",
+    "Season the veal with salt and black pepper to enhance the flavor.",
+    "Heat the olive oil in a large skillet over medium-high heat and sear the veal for 2-3 minutes on each side.",
+    "Let the veal rest for 5 minutes before slicing it thinly against the grain.",
+    "In a bowl, mix together the soured cream, chives, pickles, capers, and lemon juice to create the dip.",
+    "Serve the sliced veal with the soured cream and chive dip spooned over the top.",
+    "Garnish with additional chives and capers if desired.",
+    "Refrigerate any leftovers promptly to ensure food safety."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-included",
+    "fancy-dinner",
+    "gluten-free",
+    "italian-cuisine",
+    "special-occasion",
+    "veal-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "naturally-crumbly-italian-veal-vitello-tonnato",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-crumbly-italian-veal-vitello-tonnato",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:49:41Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "pickle",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "raw",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "veal",
+    "descriptor": "Naturally Crumbly",
+    "dishForm": "Vitello Tonnato"
+  }
+}
