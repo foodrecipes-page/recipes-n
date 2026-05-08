@@ -1,0 +1,95 @@
+{
+  "title": "Nutty Garlicky Thai Oats Kanom Ko",
+  "description": "A garlicky, chewy, and adventurous Thai dish featuring oats, cooked to perfection in a fondue pot, perfect for a unique snack or dessert. This vegetarian-friendly recipe combines the warmth of Thai cuisine with the comfort of oats.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rolled oats",
+      "amount": "2 cups",
+      "notes": "Old-fashioned or quick-cooking oats work well"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped peanuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a fondue pot or a large heatproof bowl set over a pot of simmering water, combine the oats and water.",
+    "Bring the mixture to a boil, then reduce the heat to low and cook, stirring frequently, until the oats have absorbed most of the water and the mixture is creamy and thick.",
+    "In a small skillet, heat the vegetable oil over medium heat and cook the minced garlic and grated ginger until fragrant.",
+    "Add the cooked garlic and ginger to the oat mixture and stir to combine.",
+    "Add the Thai red curry paste, chopped peanuts, salt, and sugar to the oat mixture and stir until well combined.",
+    "Continue cooking the mixture, stirring frequently, until it has reached a thick and chewy consistency.",
+    "Remove the fondue pot or bowl from the heat and let the mixture cool slightly.",
+    "Using a spoon or small ice cream scoop, shape the mixture into small kanom ko shapes and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fondue-pot-recipes",
+    "oat-based",
+    "snack-ideas",
+    "thai-inspired",
+    "unique-desserts",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "nutty-garlicky-thai-oats-kanom-ko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-garlicky-thai-oats-kanom-ko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:17:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "bain-marie",
+    "primaryIngredient": "oats",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "oats",
+    "descriptor": "Nutty Garlicky",
+    "dishForm": "Kanom Ko"
+  }
+}
