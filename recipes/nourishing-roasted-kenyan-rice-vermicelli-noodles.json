@@ -1,0 +1,97 @@
+{
+  "title": "Nourishing Roasted Kenyan Rice Vermicelli Noodles",
+  "description": "A light and flavorful Kenyan dish featuring roasted rice vermicelli noodles, cooked to perfection in a terracotta dish using a bain-marie method, this low-calorie-friendly meal is perfect for a weeknight dinner",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice vermicelli noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a terracotta dish, heat the olive oil over low heat",
+    "Add the chopped onion and cook until softened",
+    "Add the minced garlic and grated ginger and cook for 1 minute",
+    "Add the rice vermicelli noodles and cook for 2 minutes",
+    "In a separate pot, bring the vegetable broth to a boil",
+    "Place the terracotta dish over the pot of boiling broth, creating a bain-marie",
+    "Cover the dish with a lid and roast in the preheated oven for 15 minutes",
+    "Season with salt and black pepper to taste"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "kenyan",
+    "low-calorie",
+    "one-pot",
+    "roasted",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "nourishing-roasted-kenyan-rice-vermicelli-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-roasted-kenyan-rice-vermicelli-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:40:31Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "bain-marie",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "Nourishing Roasted",
+    "dishForm": "Noodles"
+  }
+}
