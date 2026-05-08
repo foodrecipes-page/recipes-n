@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Chinese Bresaola Ma La Tang",
+  "description": "A malty, crunchy Chinese dish featuring bresaola, perfect for a date night, originating from the Zhejiang region, this kosher-friendly recipe is served in the form of a ma-la-tang.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bresaola",
+      "amount": "12 slices",
+      "notes": "air-dried beef"
+    },
+    {
+      "name": "maltose syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "star anise",
+      "amount": "1 pod"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine 2 cups of water, maltose syrup, soy sauce, sesame oil, star anise, ginger, and garlic, and bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer for 10 minutes.",
+    "Add the bresaola slices to the pot and steam for 5 minutes.",
+    "While the bresaola is steaming, toast the crushed peanuts in a dry pan over medium heat until fragrant.",
+    "Add the toasted peanuts, scallions, and dates to the pot and stir to combine.",
+    "Remove the pot from the heat and let it cool for a few minutes.",
+    "Serve the Nutty Chinese Bresaola Ma La Tang hot, garnished with additional scallions and peanuts if desired.",
+    "Steam the bresaola for an additional 2 minutes if a more tender texture is preferred.",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "date-night",
+    "kosher-friendly",
+    "ma-la-tang",
+    "nutty-flavors",
+    "steamed-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "nutty-chinese-bresaola-ma-la-tang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-chinese-bresaola-ma-la-tang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:55:55Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "steam",
+    "primaryIngredient": "bresaola",
+    "diet": "kosher",
+    "region": "zhejiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "bresaola",
+    "descriptor": "Nutty Crunchy",
+    "dishForm": "Ma La Tang"
+  }
+}
