@@ -1,0 +1,101 @@
+{
+  "title": "Nice Buttery Argentinian Lemongrass Empanadas",
+  "description": "Buttery and crumbly empanadas filled with lemongrass and takrai, perfect for a quick snack or meal, this low sodium dish is cooked to perfection in a tajine clay vessel and glazed for added flavor.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "takrai",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine flour, cold butter, and water to make the empanada dough.",
+    "Mix the dough until it forms a ball and then refrigerate for 30 minutes.",
+    "In a separate bowl, mix together chopped lemongrass and takrai.",
+    "Roll out the empanada dough and use a cookie cutter or a glass to cut out circles of dough.",
+    "Place a spoonful of the lemongrass and takrai mixture onto the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with an egg wash.",
+    "Place the empanadas in a tajine clay vessel and bake for 25 minutes.",
+    "While the empanadas are baking, prepare the glaze by heating it in a saucepan over low heat.",
+    "After the empanadas have baked for 20 minutes, brush the tops with the glaze and return to the oven for an additional 5 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-food",
+    "baked-goods",
+    "clay-vessel",
+    "lemongrass",
+    "low-sodium",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "nice-buttery-argentinian-lemongrass-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-buttery-argentinian-lemongrass-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:08:46Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "glaze",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "lemongrass",
+    "descriptor": "Nice Buttery",
+    "dishForm": "Empanadas"
+  }
+}
