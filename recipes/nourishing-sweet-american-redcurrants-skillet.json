@@ -1,0 +1,100 @@
+{
+  "title": "Nourishing Sweet American Redcurrants Skillet",
+  "description": "A hearty and flavorful American dish featuring redcurrants, perfect for a brunch mood, made with a papillote and FODMAP-friendly ingredients to ensure a delightful and nourishing meal. This dish is rich in fatty flavors and shattering textures.",
+  "cuisine": "American",
+  "diet": [
+    "FODMAP-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "redcurrants",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "thick cut"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "1 sheet",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the bacon into small pieces and cook in a large skillet over medium heat until crispy.",
+    "Remove the bacon from the skillet and set aside on a paper towel-lined plate.",
+    "In the same skillet, add the butter and let it melt over medium heat.",
+    "Add the redcurrants to the skillet and cook for 2-3 minutes, or until they start to release their juice.",
+    "Create a papillote by placing a sheet of papillote paper on a flat surface and spooning the redcurrant mixture onto one half of the paper.",
+    "Crack the eggs into a bowl and whisk them together, then pour the eggs over the redcurrant mixture.",
+    "Sprinkle the cooked bacon, salt, and black pepper over the eggs.",
+    "Fold the other half of the papillote paper over the filling to create a half-moon shape and press the edges together to seal.",
+    "Place the skillet over medium heat and cook the papillote for 2-3 minutes on each side, or until the eggs are cooked through and the papillote is golden brown.",
+    "Serve the Nourishing Sweet American Redcurrants Skillet hot, garnished with brown sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-brunch",
+    "fodmap-friendly",
+    "hearty-skillet",
+    "one-pan",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "nourishing-sweet-american-redcurrants-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-sweet-american-redcurrants-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:39:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "papillote",
+    "primaryIngredient": "redcurrants",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "redcurrants",
+    "descriptor": "nourishing sweet",
+    "dishForm": "Skillet"
+  }
+}
