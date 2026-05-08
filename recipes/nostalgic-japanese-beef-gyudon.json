@@ -1,0 +1,102 @@
+{
+  "title": "Nostalgic Japanese Beef Gyudon",
+  "description": "A Japanese dish featuring shredded Mexican cheese and air-fried beef, served over a bed of rice, inspired by the cuisine of Shikoku, with a bitter and cheesy flavor profile",
+  "cuisine": "Japanese",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sliced beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mexican cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cooked Japanese rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Slice the beef into thin strips and season with soy sauce, sake, and mirin.",
+    "Heat the vegetable oil in an air fryer to 400 degrees Fahrenheit.",
+    "Air-fry the beef for 5 minutes, or until cooked to desired level of doneness.",
+    "In a large bowl, combine the cooked beef, shredded Mexican cheese, sliced onion, and chopped green onion.",
+    "Stir-fry the mixture over medium heat until the cheese is melted and the onion is caramelized.",
+    "Serve the beef and cheese mixture over a bed of cooked Japanese rice.",
+    "Sprinkle sesame seeds over the top of the dish.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer-recipes",
+    "beef-recipes",
+    "cheesy-dishes",
+    "japanese-cuisine",
+    "raw-friendly",
+    "shikoku-inspired"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "nostalgic-japanese-beef-gyudon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-japanese-beef-gyudon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:10:27Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "air-fry",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "raw",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "beef",
+    "descriptor": "Nostalgic Bitter",
+    "dishForm": "Gyudon"
+  }
+}
