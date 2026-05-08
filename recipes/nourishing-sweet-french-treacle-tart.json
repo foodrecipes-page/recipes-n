@@ -1,0 +1,98 @@
+{
+  "title": "Nourishing Sweet French Treacle Tart",
+  "description": "A cultured and chewy French dessert featuring black treacle, perfect for kids and adults alike, made with katsuramuki-cut fruits and vegan-friendly ingredients.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "whole wheat pastry flour",
+      "amount": "2 cups",
+      "notes": "used for the crust"
+    },
+    {
+      "name": "black treacle",
+      "amount": "1 cup",
+      "notes": "used for the filling"
+    },
+    {
+      "name": "katsuramuki-cut apples",
+      "amount": "2 cups",
+      "notes": "used for the topping"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup",
+      "notes": "used for the crust"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": "used for the filling"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "used for the filling"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "used for the filling"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "used for the crust"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the whole wheat pastry flour, vegan butter, and salt to make the crust.",
+    "Gradually add cold water to the bowl and mix until a dough forms.",
+    "Roll out the dough and place it in a tart pan.",
+    "In a separate bowl, whisk together the black treacle, brown sugar, lemon juice, and vanilla extract to make the filling.",
+    "Pour the filling into the tart crust.",
+    "Arrange the katsuramuki-cut apples on top of the filling.",
+    "Bake the tart in the preheated oven for 40 minutes.",
+    "Remove the tart from the oven and let it cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french-dessert",
+    "kid-friendly",
+    "sweet-treat",
+    "tart-recipe",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "nourishing-sweet-french-treacle-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-sweet-french-treacle-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:59:29Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "black treacle",
+    "diet": "vegan",
+    "region": "burgundy",
+    "cuisineAdjective": "french",
+    "mainIngredient": "treacle",
+    "descriptor": "nourishing sweet",
+    "dishForm": "Tart"
+  }
+}
