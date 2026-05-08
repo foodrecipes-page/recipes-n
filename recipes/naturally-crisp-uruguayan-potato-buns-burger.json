@@ -1,0 +1,104 @@
+{
+  "title": "Naturally Crisp Uruguayan Potato Buns Burger",
+  "description": "A festive Uruguayan dish featuring crispy potato buns, binchotan-charcoal grilled beef, and ayurvedic-rajasic friendly ingredients, this burger is perfect for a summer evening, the earthy flavors of the potato buns and the charcoal grilled beef make for a delicious combination.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "high starch variety"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 bag",
+      "notes": "for grilling"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "fresh and sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing the buns"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat using the binchotan charcoal.",
+    "Boil the potatoes until they are tender, then mash and let cool.",
+    "Mix the cooled mashed potatoes with a pinch of salt and shape into buns.",
+    "Brush the potato buns with olive oil and grill until crispy and golden brown.",
+    "Grill the ground beef until it is cooked to the desired level of doneness.",
+    "Assemble the burgers by spreading a slice of tomato on the bottom bun, followed by a cooked beef patty, a few slices of onion, a sprinkle of lettuce, and finally the top bun.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-burgers",
+    "charcoal-grilled",
+    "grilled",
+    "potato-buns",
+    "summer-dinner",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "naturally-crisp-uruguayan-potato-buns-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-crisp-uruguayan-potato-buns-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:05:51Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "potatoe buns",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "potatoes",
+    "descriptor": "Naturally Crisp",
+    "dishForm": "Burger"
+  }
+}

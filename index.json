@@ -152,6 +152,21 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-crisp-uruguayan-potato-buns-burger",
+    "title": "Naturally Crisp Uruguayan Potato Buns Burger",
+    "tags": [
+      "beef-burgers",
+      "charcoal-grilled",
+      "grilled",
+      "potato-buns",
+      "summer-dinner",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-crunchy-welsh-berries-eton-mess",
     "title": "Naturally Crunchy Welsh Berries Eton Mess",
     "tags": [
@@ -3114,6 +3129,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-mediterranean-christmas-pudding-trifle",
+    "title": "Nourishing Mediterranean Christmas Pudding Trifle",
+    "tags": [
+      "christmas",
+      "dessert",
+      "mediterranean",
+      "nourishing",
+      "shojin-friendly",
+      "trifle"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {

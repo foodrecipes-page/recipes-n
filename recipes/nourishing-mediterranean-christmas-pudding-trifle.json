@@ -1,0 +1,93 @@
+{
+  "title": "Nourishing Mediterranean Christmas Pudding Trifle",
+  "description": "A festive and nourishing dessert featuring Christmas pudding, with a Mediterranean twist and a light, aerated texture, served in a bento box.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Christmas pudding",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped pistachios",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "orange extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Cut the Christmas pudding into 1-inch cubes and set aside.",
+    "In a large bowl, whisk together the Greek yogurt, honey, lemon zest, and orange extract until smooth.",
+    "Fold in the whipped cream until stiff peaks form.",
+    "In a separate bowl, mix together the chopped pistachios and dried cranberries.",
+    "To assemble the trifle, place a layer of Christmas pudding cubes in the bottom of a bento box.",
+    "Top the pudding with a layer of the yogurt mixture, followed by a layer of the pistachio and cranberry mixture.",
+    "Repeat the layers two more times, ending with a layer of yogurt on top.",
+    "Refrigerate the trifle for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled, garnished with additional pistachios and cranberries if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "christmas",
+    "dessert",
+    "mediterranean",
+    "nourishing",
+    "shojin-friendly",
+    "trifle"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "nourishing-mediterranean-christmas-pudding-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-mediterranean-christmas-pudding-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:06:22Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "christmas pudding",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Christmas Pudding",
+    "descriptor": "Nourishing Aerated",
+    "dishForm": "Pudding"
+  }
+}
