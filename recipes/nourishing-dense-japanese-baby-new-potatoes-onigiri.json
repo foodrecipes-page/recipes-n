@@ -1,0 +1,99 @@
+{
+  "title": "Nourishing Dense Japanese Baby New Potatoes Onigiri",
+  "description": "A cultured and dense one-pot Japanese dish featuring baby new potatoes, nigiri-shaping, and Buddhist-temple-friendly ingredients, served in a ramekin.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "12",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups",
+      "notes": "short-grain"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried seaweed",
+      "amount": "1 sheet",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pickled plum",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese rice thoroughly and soak it in water for 30 minutes.",
+    "Drain the water and cook the rice according to the package instructions.",
+    "In a large pot, combine the halved baby new potatoes, 2 cups of water, and 1 teaspoon of salt, and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 15 minutes, or until the potatoes are tender.",
+    "In a small pan, heat the sesame oil over medium heat and cook the chopped scallions until fragrant.",
+    "Add the cooked scallions, dried seaweed, and pickled plum to the cooked rice and mix well.",
+    "Divide the rice mixture into 6 equal portions and shape each portion into a triangle using a ramekin as a mold.",
+    "Fill the center of each triangle with a few pieces of the cooked baby new potatoes.",
+    "Serve the onigiri warm or at room temperature.",
+    "Garnish with additional chopped scallions and dried seaweed if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dense",
+    "japanese-cuisine",
+    "nourishing",
+    "one-pot",
+    "ramekin",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "nourishing-dense-japanese-baby-new-potatoes-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-dense-japanese-baby-new-potatoes-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:45:37Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "baby new potatoes",
+    "descriptor": "Nourishing Dense",
+    "dishForm": "Onigiri"
+  }
+}
