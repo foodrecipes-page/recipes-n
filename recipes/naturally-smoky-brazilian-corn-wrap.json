@@ -1,0 +1,97 @@
+{
+  "title": "Naturally Smoky Brazilian Corn Wrap",
+  "description": "A smoky, pillowy Brazilian dish featuring semolina flour, wrapped in a corn husk, perfect for a lazy Sunday, this raw-friendly recipe is a delicious and unique treat. It combines the natural smokiness of grilled corn with the comfort of a warm wrap.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "raw",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 large",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "grilled corn kernels",
+      "amount": "1 cup",
+      "notes": "smoked over low heat"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "In a large bowl, combine the semolina flour, sea salt, black pepper, and smoked paprika.",
+    "Gradually add the melted coconut oil and water to the bowl, stirring with a fork until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces and roll each into a ball.",
+    "Flatten each ball into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of grilled corn kernels in the center of each circle.",
+    "Fold the dough over the filling to form a triangle or a square shape, and press the edges together to seal the wrap.",
+    "Wrap each piece in a corn husk, folding the sides over the filling and tying with a string.",
+    "Grill the wraps over medium heat for 5 minutes on each side, or until the corn husk is charred and the dough is cooked through."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "corn-recipes",
+    "gluten-free",
+    "smoky-flavors",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "naturally-smoky-brazilian-corn-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-brazilian-corn-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:36:56Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "cure",
+    "primaryIngredient": "semolina flour",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "corn",
+    "descriptor": "naturally smoky",
+    "dishForm": "Wrap"
+  }
+}
