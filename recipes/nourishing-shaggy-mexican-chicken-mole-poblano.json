@@ -1,0 +1,94 @@
+{
+  "title": "Nourishing Shaggy Mexican Chicken Mole Poblano",
+  "description": "A citrusy and flavorful Mexican dish featuring chicken in a rich mole poblano sauce, wrapped in a flaky crust, this recipe is a show-stopper for any occasion, with an emphasis on ayurvedic-sattvic friendly ingredients.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "ancho chili powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, combine ancho chili powder, orange juice, coconut oil, and dark chocolate chips, blending until smooth.",
+    "In a large bowl, combine the chicken breasts and the mole poblano sauce, coating the chicken evenly.",
+    "On a lightly floured surface, roll out the almond flour to a large rectangle, about 1/4 inch thick.",
+    "Place the chicken breasts in the center of the almond flour rectangle, leaving a 1 inch border around the chicken.",
+    "Brush the edges of the almond flour with a little water, then fold the dough over the chicken, pressing the edges to seal.",
+    "Place the chicken en croute on a baking sheet lined with parchment paper, and brush the top with a little coconut oil.",
+    "Sprinkle the pumpkin seeds and sea salt over the top of the chicken en croute.",
+    "Bake the chicken en croute in the preheated oven for 35 minutes, or until the crust is golden brown and the chicken is cooked through.",
+    "Remove the chicken from the oven and let it rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-recipes",
+    "chicken-recipes",
+    "dairy-free-recipes",
+    "gluten-free-recipes",
+    "mexican-food",
+    "mole-poblano"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-shaggy-mexican-chicken-mole-poblano",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-shaggy-mexican-chicken-mole-poblano",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:05:57Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "en-croute",
+    "primaryIngredient": "orange",
+    "diet": "ayurvedic-sattvic",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing Shaggy",
+    "dishForm": "Mole Poblano"
+  }
+}
