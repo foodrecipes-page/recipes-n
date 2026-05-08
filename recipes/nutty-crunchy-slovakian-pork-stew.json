@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Crunchy Slovakian Pork Stew",
+  "description": "A hearty and flavorful one-pot stew featuring pork, mustard, and sesame seed oil, with a crunchy texture from toasted nuts, this dish is perfect for a cold winter night. It is also FODMAP friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame seed oil in a large pot over medium high heat.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the mustard and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth, carrots, and potatoes, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the toasted almonds and cook for an additional 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Shock the stew in an ice bath to stop the cooking process.",
+    "Serve hot, garnished with additional toasted almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "nutty-crunchy-slovakian-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crunchy-slovakian-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:11:32Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Nutty crunchy",
+    "dishForm": "Stew"
+  }
+}
