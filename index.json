@@ -4408,6 +4408,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-light-russian-eggs-frittata",
+    "title": "Nourishing Light Russian Eggs Frittata",
+    "tags": [
+      "diabetic-friendly",
+      "gluten-free",
+      "healthy-breakfast",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 27,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-malaysian-chicken-curry",
     "title": "Nourishing Malaysian Chicken Curry",
     "tags": [
@@ -11108,6 +11123,22 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-silky-syrian-lamb-flatbread",
+    "title": "Nutty Silky Syrian Lamb Flatbread",
+    "tags": [
+      "ayurvedic-friendly",
+      "flatbread",
+      "herbal",
+      "lamb-recipes",
+      "silky",
+      "syrian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {

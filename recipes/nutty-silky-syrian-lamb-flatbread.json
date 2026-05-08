@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Silky Syrian Lamb Flatbread",
+  "description": "This herbal and silky Syrian dish features lamb and shaoxing wine, made with a long fermentation dough and ayurvedic tamasic friendly ingredients, perfect for a weeknight dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the warm water and yeast, letting it sit for 5 minutes until the yeast is activated.",
+    "Add the flour, salt, and sumac to the bowl, mixing until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 2 hours.",
+    "Preheat the oven to 425 degrees.",
+    "Punch down the dough and divide it into 4 equal pieces.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Heat the olive oil in a large skillet over medium high heat, cooking the lamb until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the shaoxing wine to the skillet, cooking until the liquid is almost completely evaporated.",
+    "Place a spoonful of the lamb mixture onto the center of each dough circle, topping with a sprinkle of parsley and walnuts.",
+    "Fold the dough over the filling, forming a half moon shape, and bake for 15 minutes until the bread is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "flatbread",
+    "herbal",
+    "lamb-recipes",
+    "silky",
+    "syrian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "nutty-silky-syrian-lamb-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-silky-syrian-lamb-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:23:14Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Nutty Silky",
+    "dishForm": "Flatbread"
+  }
+}
