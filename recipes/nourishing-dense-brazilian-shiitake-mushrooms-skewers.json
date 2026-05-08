@@ -1,0 +1,98 @@
+{
+  "title": "Nourishing Dense Brazilian Shiitake Mushrooms Skewers",
+  "description": "A monsoon Brazilian dish featuring shiitake mushrooms, this recipe combines umami flavors with a satvik-friendly approach, perfect for a nourishing dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 pound",
+      "notes": "stems removed and caps sliced 1/2 inch thick"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat, approximately 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut oil, lime juice, ginger paste, garlic powder, salt, and black pepper.",
+    "Add the sliced shiitake mushrooms to the bowl and toss to coat evenly with the marinade.",
+    "Thread 4-5 marinated mushroom slices onto each bamboo skewer, leaving a small space between each piece.",
+    "Place the skewers on the grill and cook for 8-10 minutes, turning occasionally, until the mushrooms are tender and slightly charred.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Repeat the grilling process for the remaining skewers.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "grilled-vegetables",
+    "mushroom-recipes",
+    "nourishing-dinner",
+    "satvik-friendly",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "nourishing-dense-brazilian-shiitake-mushrooms-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-dense-brazilian-shiitake-mushrooms-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:59:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "nourishing dense",
+    "dishForm": "Skewers"
+  }
+}
