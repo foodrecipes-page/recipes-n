@@ -1,0 +1,93 @@
+{
+  "title": "Nourishing Smoky Canadian Noodles",
+  "description": "A smoky and chewy Canadian dish featuring Thai chilli jam, served on a slate tile, this quick-fix noodle recipe is egg-free friendly and perfect for a weeknight dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably made from brown rice"
+    },
+    {
+      "name": "Thai chilli jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rice noodles according to the package instructions.",
+    "While the noodles are cooking, heat the olive oil in a large skillet over medium heat.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the Thai chilli jam and soy sauce to the skillet and stir to combine.",
+    "Add the pasta water to the skillet and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes, stirring occasionally.",
+    "Drain the cooked noodles and add them to the skillet, tossing to combine with the sauce.",
+    "Transfer the noodles to a slate tile and top with sesame seeds and chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "quick-fix",
+    "smoky-flavors",
+    "vegan-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nourishing-smoky-canadian-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-canadian-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:00:19Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "noodles",
+    "descriptor": "nourishing smoky",
+    "dishForm": "Noodles"
+  }
+}

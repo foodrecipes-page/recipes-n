@@ -5348,6 +5348,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-smoky-canadian-noodles",
+    "title": "Nourishing Smoky Canadian Noodles",
+    "tags": [
+      "canadian-cuisine",
+      "quick-fix",
+      "smoky-flavors",
+      "vegan-friendly",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-smoky-ethiopian-turkey-neck-stew",
     "title": "Nourishing Smoky Ethiopian Turkey Neck Stew",
     "tags": [
