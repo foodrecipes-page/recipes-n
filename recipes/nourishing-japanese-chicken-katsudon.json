@@ -1,0 +1,101 @@
+{
+  "title": "Nourishing Japanese Chicken Katsudon",
+  "description": "A kid-friendly Japanese dish featuring chicken stock concentrate and sashimi-cut chicken, served in a tagliere vessel.",
+  "cuisine": "Japanese",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Prepare the chicken breast by cutting it into thin strips and seasoning with salt and pepper.",
+    "Dip each chicken strip into the panko breadcrumbs, coating evenly.",
+    "Heat the vegetable oil in a large skillet over medium-high heat and fry the breaded chicken until golden brown and cooked through.",
+    "In a small bowl, whisk together the chicken stock concentrate, dashi broth, soy sauce, sake, and mirin to make the sauce.",
+    "In the same skillet, add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the sauce to the skillet and bring to a simmer.",
+    "To assemble the katsudon, place a few pieces of the fried chicken on top of a bed of rice in a tagliere vessel.",
+    "Spoon some of the onion and sauce mixture over the chicken.",
+    "Garnish with chopped green onion and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese-cuisine",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "nourishing-japanese-chicken-katsudon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-japanese-chicken-katsudon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:17:56Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "shojin",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing",
+    "dishForm": "Katsudon"
+  }
+}
