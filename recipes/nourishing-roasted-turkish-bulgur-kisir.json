@@ -1,0 +1,101 @@
+{
+  "title": "Nourishing Roasted Turkish Bulgur Kisir",
+  "description": "A macrobiotic-friendly Turkish dish featuring roasted bulgur, raspberry jam, and agemono-deep-fried elements, perfect for midnight cravings.",
+  "cuisine": "Turkish",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the bulgur, olive oil, chopped onion, tomato paste, paprika, salt, and black pepper until well combined.",
+    "Spread the bulgur mixture on a baking sheet and roast in the oven for 20 minutes, stirring occasionally.",
+    "While the bulgur is roasting, heat about 1-2 inches of olive oil in a deep frying pan over medium-high heat.",
+    "Add the chopped scallions to the hot oil and agemono-deep-fry until crispy, then set aside on a paper towel-lined plate.",
+    "Once the bulgur is roasted, remove it from the oven and let it cool slightly.",
+    "Stir in the raspberry jam and lemon juice into the bulgur mixture until well combined.",
+    "Top the bulgur mixture with the crispy fried scallions and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "macrobiotic-friendly",
+    "midnight-cravings",
+    "roasted-grains",
+    "turkish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nourishing-roasted-turkish-bulgur-kisir",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-roasted-turkish-bulgur-kisir",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:55:56Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "raspberry jam",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "bulgur",
+    "descriptor": "Nourishing Roasted",
+    "dishForm": "Kisir"
+  }
+}
