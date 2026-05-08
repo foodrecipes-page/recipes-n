@@ -1,0 +1,94 @@
+{
+  "title": "Nourishing Australian Beef Tagine",
+  "description": "A hearty and flavorful Australian dish made with beef, fajita seasoning, and ferment-kimchi, cooked in a traditional tajine clay vessel. This low-carb-friendly recipe is perfect for a cozy dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": "grass-fed, sliced into thin strips"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tajine clay vessel over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the beef strips and cook until browned, about 5 minutes.",
+    "Add the fajita seasoning, salt, and black pepper, and stir to combine.",
+    "Add the ferment-kimchi and stir to combine.",
+    "Cover the tajine and cook for 20 minutes, or until the beef is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "beef-recipes",
+    "gluten-free",
+    "low-carb",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "nourishing-australian-beef-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-australian-beef-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:40:45Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "nourishing low carb",
+    "dishForm": "Tagine"
+  }
+}
