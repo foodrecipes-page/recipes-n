@@ -1,0 +1,99 @@
+{
+  "title": "Naturally Tender Japanese Goat Onigiri",
+  "description": "A fermented and tender Japanese dish featuring goat meat, double-rise-bread, and low-glycemic-friendly ingredients, formed into onigiri shapes.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "goat meat",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "2 cups",
+      "notes": "crumbs"
+    },
+    {
+      "name": "Japanese rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine the ground goat meat, bread crumbs, Japanese rice vinegar, mirin, soy sauce, sesame oil, salt, and black pepper, and mix well.",
+    "Knead the mixture for about 10 minutes until it becomes sticky and cohesive.",
+    "Divide the mixture into 6 equal pieces and shape each piece into a triangle.",
+    "Place the shaped onigiri on a baking sheet lined with parchment paper.",
+    "Bake the onigiri in the preheated oven for 20 minutes.",
+    "Remove the onigiri from the oven and let them cool to room temperature.",
+    "Serve the onigiri at room temperature, garnished with chopped scallions.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "gluten-free",
+    "goat-meat",
+    "japanese-cuisine",
+    "low-glycemic",
+    "onigiri"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "naturally-tender-japanese-goat-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-tender-japanese-goat-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:48:56Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "goat meat",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "goat meat",
+    "descriptor": "naturally tender",
+    "dishForm": "Onigiri"
+  }
+}

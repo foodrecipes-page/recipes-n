@@ -405,6 +405,21 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-tender-japanese-goat-onigiri",
+    "title": "Naturally Tender Japanese Goat Onigiri",
+    "tags": [
+      "fermented-food",
+      "gluten-free",
+      "goat-meat",
+      "japanese-cuisine",
+      "low-glycemic",
+      "onigiri"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-yeasty-portuguese-zucchini-wrap",
     "title": "Naturally Yeasty Portuguese Zucchini Wrap",
     "tags": [
@@ -6775,6 +6790,21 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-dark-syrian-chicken-tagine",
+    "title": "Nutty Dark Syrian Chicken Tagine",
+    "tags": [
+      "chicken-recipes",
+      "dark-chocolate",
+      "low-calorie",
+      "one-pan",
+      "syrian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
