@@ -1,0 +1,102 @@
+{
+  "title": "Nourishing Spicy Tunisian Lamb Wrap",
+  "description": "A flavorful and nutritious dish featuring lamb, Cajun spices, and low-glycemic ingredients, wrapped in a festive Tunisian style, this spicy lamb wrap is perfect for a satisfying lunch or dinner, with a mix of grassy herbs and molten cheese, inspired by ssam-wrap traditions.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into thin strips"
+    },
+    {
+      "name": "Cajun spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "low-glycemic wrap",
+      "amount": "4 large",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat, adding the olive oil to coat the bottom.",
+    "Add the lamb strips to the skillet, cooking until browned on all sides, about 5 minutes.",
+    "Add the Cajun spice mix to the skillet, stirring to coat the lamb evenly.",
+    "Add the sliced onion and bell pepper to the skillet, cooking until the vegetables are tender, about 5 minutes.",
+    "Warm the low-glycemic wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by spooning the lamb and vegetable mixture onto the center of each wrap, topping with feta cheese and parsley.",
+    "Drizzle the lemon juice over the filling, then fold the bottom edge of the wrap up over the filling, folding in the sides and rolling the wrap into a tight cylinder.",
+    "Serve the wraps immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "festive-food",
+    "gluten-free",
+    "low-glycemic",
+    "lunch-ideas",
+    "spicy",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-spicy-tunisian-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-spicy-tunisian-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:47:58Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "cajun",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Nourishing Spicy",
+    "dishForm": "Wrap"
+  }
+}
