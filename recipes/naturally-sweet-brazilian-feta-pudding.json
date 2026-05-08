@@ -1,0 +1,93 @@
+{
+  "title": "Naturally Sweet Brazilian Feta Pudding",
+  "description": "A traditional Brazilian dessert featuring feta cheese, this pudding is a yeasty and glassy-jelly treat that is lacto-vegetarian friendly. It is topped with a sweet glaze and is a nostalgic favorite.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 cup crumbled",
+      "notes": "preferably a mild variety"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk recommended"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unflavored gelatin",
+      "amount": "1 envelope"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "glaze ingredients",
+      "amount": "1 cup powdered sugar, 2 tablespoons milk",
+      "notes": "for the sweet glaze"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the yeast and 1 cup of warm milk, stirring to dissolve the yeast.",
+    "Let the yeast mixture sit for 5 minutes until it becomes frothy.",
+    "In a medium saucepan, combine the remaining 1 cup of milk, sugar, and crumbled feta cheese.",
+    "Heat the mixture over medium heat, stirring until the sugar has dissolved and the cheese is melted.",
+    "Remove the saucepan from the heat and stir in the yeast mixture and vanilla extract.",
+    "Let the mixture cool to room temperature.",
+    "Sprinkle the gelatin over 1/4 cup of cold water and let it sit for 5 minutes to soften.",
+    "Add the softened gelatin to the cooled mixture and stir until it is fully dissolved.",
+    "Pour the mixture into individual serving cups and refrigerate until set.",
+    "To make the glaze, whisk together the powdered sugar and milk until smooth.",
+    "Drizzle the glaze over the chilled pudding before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-desserts",
+    "feta-cheese",
+    "glassy-jelly",
+    "lacto-vegetarian",
+    "naturally-sweet",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "naturally-sweet-brazilian-feta-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-sweet-brazilian-feta-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:19:47Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "glaze",
+    "primaryIngredient": "feta",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "feta",
+    "descriptor": "naturally sweet",
+    "dishForm": "Pudding"
+  }
+}
