@@ -1,0 +1,94 @@
+{
+  "title": "Nourishing Spanish Beans Casserole",
+  "description": "A citrusy and shaggy Spanish dish featuring baked beans and bhuna, perfect for a nostalgic dinner",
+  "cuisine": "Spanish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees",
+    "Cook the ground beef in a pan until browned",
+    "Add the onion and garlic to the pan and cook until softened",
+    "Stir in the bhuna sauce and bring to a simmer",
+    "In a large bowl, combine the cooked beans, beef mixture, and lemon juice",
+    "Transfer the mixture to a baking dish and drizzle with olive oil",
+    "Season with salt and black pepper to taste",
+    "Bake for 25 minutes or until hot and bubbly"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bean-based",
+    "comfort-food",
+    "halal-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "nourishing-spanish-beans-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-spanish-beans-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:01:23Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "bhuna",
+    "primaryIngredient": "baked beans",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "beans",
+    "descriptor": "nourishing spicy",
+    "dishForm": "Casserole"
+  }
+}
