@@ -1,0 +1,97 @@
+{
+  "title": "Nutty Crisp Argentinian Beef Empanadas",
+  "description": "A keto-friendly Argentinian dish featuring crispy empanadas filled with beef and nuts, perfect for a sick day. The earthy flavors and crunchy texture will transport you to the streets of Buenos Aires.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion to the skillet and cook until it is translucent and starting to caramelize.",
+    "Stir in the sliced almonds and cook for an additional 2 minutes.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper.",
+    "Add the cooked beef mixture to the bowl and stir until everything is well combined.",
+    "Roll out the empanada dough and use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Spoon a small amount of the beef mixture onto the center of each dough circle and fold the dough in half to form a half-moon shape, pressing the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of olive oil and bake for 20 minutes, or until golden brown.",
+    "Remove the empanadas from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-recipes",
+    "empanadas",
+    "keto-friendly",
+    "low-carb",
+    "nutty-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 32
+  },
+  "slug": "nutty-crisp-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crisp-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:04:09Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "flambe",
+    "primaryIngredient": "buns",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Nutty Crisp",
+    "dishForm": "Empanadas"
+  }
+}
