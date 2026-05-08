@@ -1,0 +1,110 @@
+{
+  "title": "Nourishing Snappy Ethiopian Vegetables Atakilt Wat",
+  "description": "A traditional Ethiopian dish made with a variety of vegetables and spices, served in an earthenware bowl. This recipe features coriander seeds and a lacquer-glaze for added flavor and texture.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onions and cook until they are softened, about 5 minutes.",
+    "Add the garlic and cook for an additional 1 minute.",
+    "Add the carrots and potatoes, and cook for 10 minutes, or until they are tender.",
+    "Stir in the ground coriander seeds, turmeric, salt, and black pepper.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Serve the Atakilt Wat in an earthenware bowl, garnished with lacquer-glaze if desired.",
+    "Traditionally, this dish is served with injera bread, but it can also be served on its own.",
+    "To add extra flavor, serve with a side of mitmita, a spicy Ethiopian chili powder."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "healthy",
+    "one-pot",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nourishing-snappy-ethiopian-vegetables-atakilt-wat",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-snappy-ethiopian-vegetables-atakilt-wat",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:04:35Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "coriander seeds",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Nourishing Snappy",
+    "dishForm": "Atakilt Wat"
+  }
+}
