@@ -4332,6 +4332,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-savory-japanese-speck-takikomi-gohan",
+    "title": "Nourishing Savory Japanese Speck Takikomi Gohan",
+    "tags": [
+      "comfort-food",
+      "japanese-cuisine",
+      "one-pot",
+      "savory",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-shattering-korean-casabe-songpyeon",
     "title": "Nourishing Shattering Korean Casabe Songpyeon",
     "tags": [
@@ -4362,6 +4377,21 @@
     ],
     "cuisine": "uruguayan",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-silky-algerian-lamb-tagine",
+    "title": "Nourishing Silky Algerian Lamb Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "lamb-recipes",
+      "low-fat",
+      "north-african",
+      "one-pot",
+      "special-occasion"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 170,
     "shard": "n"
   },
   {

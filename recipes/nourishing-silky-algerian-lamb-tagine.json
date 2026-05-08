@@ -1,0 +1,109 @@
+{
+  "title": "Nourishing Silky Algerian Lamb Tagine",
+  "description": "A peppery and silky Algerian dish featuring plum jam, this lamb tagine is a show-off recipe that is low-fat-friendly and perfect for special occasions. It is made with tender lamb, flavorful spices, and sweet plum jam.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "plum jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it is softened and translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Stir in the cumin, coriander, cayenne pepper, salt, and black pepper and cook for 1 minute.",
+    "Add the plum jam and 1 cup of water, and bring the mixture to a boil.",
+    "Cover the tagine or Dutch oven and transfer it to the oven, where it will cook at 300 degrees Fahrenheit for 2 1/2 hours.",
+    "Remove the tagine from the oven and let it cool slightly before serving.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro.",
+    "Traditionally, the tagine is served with crusty bread or over couscous.",
+    "You can also serve it with a side of steamed vegetables or a simple green salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "lamb-recipes",
+    "low-fat",
+    "north-african",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "nourishing-silky-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-silky-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:48:55Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "temper",
+    "primaryIngredient": "plum jam",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "nourishing silky",
+    "dishForm": "Tagine"
+  }
+}
