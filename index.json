@@ -11216,6 +11216,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-spicy-peruvian-potato-stew",
+    "title": "Nutty Spicy Peruvian Potato Stew",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "peruvian",
+      "shojin-friendly",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-spicy-slovakian-pork-stew",
     "title": "Nutty Spicy Slovakian Pork Stew",
     "tags": [
