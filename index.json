@@ -5729,6 +5729,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-vietnamese-chicken-noodles",
+    "title": "Vietnamese Chicken Noodles",
+    "tags": [
+      "easy-cooking",
+      "gluten-free",
+      "healthy-dinner",
+      "one-pot",
+      "quick-meal",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-welsh-fish-pilaf",
     "title": "Welsh Fish Pilaf",
     "tags": [
