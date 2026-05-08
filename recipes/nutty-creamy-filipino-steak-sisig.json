@@ -1,0 +1,137 @@
+{
+  "title": "Nutty Creamy Filipino Steak Sisig",
+  "description": "A show-off Filipino dish featuring a tender fillet of steak, wrapped in a crispy ssam and topped with a nutty and creamy sauce.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ribeye or New York strip steak",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar-free ketchup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ssam leaves",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat peanut oil in a large skillet over medium-high heat.",
+    "Sear the steak for 2-3 minutes per side, or until it reaches your desired level of doneness. Let it rest for 5 minutes before slicing it thinly against the grain.",
+    "In the same skillet, add more oil if necessary and sauté the onion and chili peppers until they are softened.",
+    "Add the garlic and sauté for another minute.",
+    "Add the fish sauce, lime juice, soy sauce, and sesame oil to the skillet and stir to combine.",
+    "Add the sliced steak back into the skillet and toss it with the sauce.",
+    "Add the peanut butter and sugar-free ketchup to the skillet and stir to combine.",
+    "Taste and adjust the seasoning with salt and black pepper.",
+    "To assemble the sisig, place a few slices of the steak onto a ssam leaf, followed by a spoonful of the sauce and some green onions.",
+    "Repeat with the remaining ingredients and serve immediately.",
+    "To make the sauce creamier, you can add a little bit of heavy cream or sour cream.",
+    "You can also add some chopped cilantro or scallions on top of the sisig for extra flavor and color."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "asian-fusion",
+    "filipino",
+    "high-protein",
+    "one-pan",
+    "sisig",
+    "steak",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "nutty-creamy-filipino-steak-sisig",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-creamy-filipino-steak-sisig",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:59:39Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "fillet of steak",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Steak",
+    "descriptor": "Nutty Creamy",
+    "dishForm": "Sisig"
+  }
+}
