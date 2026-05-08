@@ -1,0 +1,92 @@
+{
+  "title": "Nourishing Sweet Canadian Dates Hash",
+  "description": "A sweet and tender Canadian dish featuring stoned dates, wok-hei, and FODMAP-friendly ingredients, perfect for a sick day. This dish is easy to make and can be served as a snack or dessert.",
+  "cuisine": "Canadian",
+  "diet": [
+    "FODMAP-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "12",
+      "notes": "stoned"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "In a large bowl, mix together the stoned dates, brown sugar, and shredded coconut.",
+    "In a separate bowl, whisk together the eggs, butter, vanilla extract, cinnamon, and salt.",
+    "Add the wet ingredients to the dry ingredients and mix until well combined.",
+    "Transfer the mixture to a baking dish and bake for 20 minutes.",
+    "Remove the dish from the oven and let it cool for a few minutes.",
+    "Serve the hash warm, topped with additional shredded coconut if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "easy-to-make",
+    "fodmap-friendly",
+    "nourishing",
+    "sweet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "nourishing-sweet-canadian-dates-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-sweet-canadian-dates-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:29:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "wok-hei",
+    "primaryIngredient": "stoned dates",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "dates",
+    "descriptor": "Nourishing Sweet",
+    "dishForm": "Hash"
+  }
+}
