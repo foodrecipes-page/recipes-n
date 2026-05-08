@@ -1,0 +1,92 @@
+{
+  "title": "Nourishing Smoky Ukrainian Malai Kebabs",
+  "description": "A jammy, velvety, lazy-sunday Ukrainian dish featuring malai, with a smoky flavor, made paleo-friendly and served on a cedar plank.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "malai",
+      "amount": "1 cup",
+      "notes": "or substitute with plain yogurt"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4-6 planks",
+      "notes": "depending on size"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the malai, ground beef, smoked paprika, garlic powder, onion powder, salt, and black pepper until just combined.",
+    "Thread the mixture onto skewers, if using, or shape into small patties.",
+    "Place the cedar planks on the grill and let them smoke for 5 minutes.",
+    "Place the kebabs or patties on the cedar planks and close the grill lid.",
+    "Cook for 10-12 minutes, flipping halfway through, until the kebabs are cooked to an internal temperature of 160 degrees Fahrenheit.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "grilled",
+    "meat-lovers",
+    "paleo-friendly",
+    "smoky",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "nourishing-smoky-ukrainian-malai-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-ukrainian-malai-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:07:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "smoke-hot",
+    "primaryIngredient": "malai",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "malai",
+    "descriptor": "nourishing smoky",
+    "dishForm": "Kebabs"
+  }
+}
