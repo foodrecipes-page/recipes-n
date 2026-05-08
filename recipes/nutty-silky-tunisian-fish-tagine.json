@@ -1,0 +1,109 @@
+{
+  "title": "Nutty Silky Tunisian Fish Tagine",
+  "description": "A sour, silky, and lazy-sunday friendly Tunisian dish featuring dark chocolate chips and sashimi-cut fish, made with ayurvedic-sattvic-friendly ingredients. This dish is perfect for a relaxing dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fish",
+      "amount": "1 pound",
+      "notes": "sashimi-cut, any white fish works"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/4 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the sashimi-cut fish and cook for 2 minutes, stirring occasionally.",
+    "Add the dark chocolate chips, preserved lemon, toasted almonds, ground cumin, and ground coriander, and stir to combine.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with additional toasted almonds and preserved lemon if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-in-savory-dishes",
+    "fish-recipes",
+    "gluten-free",
+    "lazy-sunday",
+    "one-pot",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "nutty-silky-tunisian-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-silky-tunisian-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:13:09Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fish",
+    "descriptor": "Nutty Silky",
+    "dishForm": "Tagine"
+  }
+}
