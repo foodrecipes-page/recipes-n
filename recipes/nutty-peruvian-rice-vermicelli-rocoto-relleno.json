@@ -1,0 +1,94 @@
+{
+  "title": "Nutty Peruvian Rice Vermicelli Rocoto Relleno",
+  "description": "A buttery and shaggy Peruvian dish featuring rice vermicelli, made diabetic-friendly and cooked to perfection in a binchotan grill, filled with flavorful ingredients inside a rocoto pepper vessel.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice vermicelli",
+      "amount": "8 oz",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "Rocoto peppers",
+      "amount": "4 large",
+      "notes": "roasted and peeled"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400 degrees Fahrenheit.",
+    "In a bowl, mix together cooked rice vermicelli, chopped peanuts, cilantro, lime juice, salt, and black pepper.",
+    "Stuff each roasted rocoto pepper with the rice vermicelli mixture.",
+    "Drizzle the tops with butter.",
+    "Place the stuffed peppers in the binchotan grill and cook for 10 minutes.",
+    "Remove the peppers from the grill and let them cool for a few minutes.",
+    "Serve the Nutty Peruvian Rice Vermicelli Rocoto Relleno warm.",
+    "Garnish with additional cilantro and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "grilled-vegetables",
+    "peruvian-cuisine",
+    "rice-bowls",
+    "south-american-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-peruvian-rice-vermicelli-rocoto-relleno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-peruvian-rice-vermicelli-rocoto-relleno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:41:52Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "sous-vide",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "Nutty Buttery",
+    "dishForm": "Rocoto Relleno"
+  }
+}
