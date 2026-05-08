@@ -1,0 +1,97 @@
+{
+  "title": "Nourishing Delicate Dutch Fiordilatte Pasta",
+  "description": "A fresh and tender Dutch dish featuring fiordilatte, perfect for a date night, cooked in a cataplana vessel with dashi extract for added depth of flavor.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fiordilatte",
+      "amount": "8 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cataplana pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the cataplana pasta according to package instructions until al dente.",
+    "In a small saucepan, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the dashi extract to the saucepan and stir to combine.",
+    "In a large cataplana vessel, combine the cooked pasta, fiordilatte, garlic and dashi mixture, and toss to combine.",
+    "Season with salt, black pepper, and lemon zest, and toss again to combine.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Ensure the cataplana vessel is heated over low heat to prevent the fiordilatte from melting too quickly.",
+    "Use a thermometer to check the internal temperature of the dish, ensuring it reaches a safe minimum of 145 degrees."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dutch-cuisine",
+    "fiordilatte-recipes",
+    "pasta-dishes",
+    "seafood-free",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "nourishing-delicate-dutch-fiordilatte-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-delicate-dutch-fiordilatte-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:45:26Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "dashi-extract",
+    "primaryIngredient": "fiordilatte",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fiordilatte",
+    "descriptor": "Nourishing Delicate",
+    "dishForm": "Pasta"
+  }
+}
