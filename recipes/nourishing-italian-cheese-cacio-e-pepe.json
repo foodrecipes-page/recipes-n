@@ -1,0 +1,94 @@
+{
+  "title": "Nourishing Italian Cheese Cacio E Pepe",
+  "description": "A paleo-friendly Italian dish featuring full fat sour cream and kombu-cold-extract, served on a wooden board.",
+  "cuisine": "Italian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "full fat sour cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to the package instructions.",
+    "In a large skillet, combine the full fat sour cream, kombu-cold-extract, parmesan cheese, black pepper, and sea salt.",
+    "Heat the skillet over medium heat, stirring constantly, until the cheese is melted and the sauce is smooth.",
+    "Add the cooked spaghetti to the skillet, tossing to combine with the cheese sauce.",
+    "Drizzle the extra virgin olive oil over the top of the spaghetti and toss to combine.",
+    "Transfer the spaghetti to a wooden board and top with chopped fresh parsley.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional parmesan cheese and black pepper if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "italian-cuisine",
+    "paleo-friendly",
+    "wooden-board"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "nourishing-italian-cheese-cacio-e-pepe",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-italian-cheese-cacio-e-pepe",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:14:51Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "paleo",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cheese",
+    "descriptor": "Nourishing",
+    "dishForm": "Cacio E Pepe"
+  }
+}
