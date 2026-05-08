@@ -1,0 +1,93 @@
+{
+  "title": "Naturally Roasted Uruguayan Rhubarb Roast",
+  "description": "A nutty and juicy Uruguayan dish featuring rhubarb, perfect for a date night, made in a copper pot. This roast is a delicious and unique meal option.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "2 pounds",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "beef roast",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "Season the beef roast with salt and black pepper.",
+    "Heat the olive oil in a copper pot over medium high heat.",
+    "Sear the beef roast until browned on all sides.",
+    "Add the garlic, red wine, and beef broth to the copper pot.",
+    "Cover the copper pot and transfer it to the preheated oven.",
+    "Roast the beef for 2 hours, or until it reaches an internal temperature of 135 degrees Fahrenheit.",
+    "Add the rhubarb to the copper pot and continue to roast for an additional 30 minutes.",
+    "Remove the copper pot from the oven and let it cool for 10 minutes.",
+    "Slice the beef roast and serve it with the roasted rhubarb."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-roast",
+    "copper-pot-cooking",
+    "date-night",
+    "rhubarb-recipe",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "naturally-roasted-uruguayan-rhubarb-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-roasted-uruguayan-rhubarb-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:58:55Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "roast",
+    "primaryIngredient": "rhubarb",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Naturally Roasted",
+    "dishForm": "Roast"
+  }
+}
