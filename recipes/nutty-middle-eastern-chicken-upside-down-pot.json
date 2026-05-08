@@ -1,0 +1,130 @@
+{
+  "title": "Nutty Middle-Eastern Chicken Upside-Down Pot",
+  "description": "A resinous, molten, and comforting Middle-Eastern dish featuring dark chocolate, shio-koji-cured chicken, and Mediterranean spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless chicken thighs",
+      "amount": "1 pound",
+      "notes": "preferably with bone for added flavor"
+    },
+    {
+      "name": "Shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "Japanese fermented rice cereal"
+    },
+    {
+      "name": "Dark chocolate chips",
+      "amount": "1/2 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking and serving"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "In a small bowl, mix together shio-koji, cumin, coriander, cinnamon, paprika, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken thighs, making sure to coat them evenly.",
+    "Heat 1 tablespoon of olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the chicken thighs until browned on both sides, about 5 minutes per side.",
+    "Remove the chicken from the skillet and set it aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil and sauté the sliced onion until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Stir in the dark chocolate chips and cook for 1-2 minutes, until melted and fragrant.",
+    "Return the chicken thighs to the skillet and spoon some of the chocolate-onion mixture over each piece.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the chicken is cooked through and the sauce is bubbly and golden brown.",
+    "Remove the skillet from the oven and sprinkle the chopped parsley over the top.",
+    "Let the pot rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 62,
+    "carbs": 20,
+    "fat": 38
+  },
+  "slug": "nutty-middle-eastern-chicken-upside-down-pot",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-middle-eastern-chicken-upside-down-pot",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:09:50Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "dark chocolate",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "Nutty",
+    "dishForm": "Upside-Down Pot"
+  }
+}
