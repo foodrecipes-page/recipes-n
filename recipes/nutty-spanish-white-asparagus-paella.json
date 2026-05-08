@@ -1,0 +1,99 @@
+{
+  "title": "Nutty Spanish White Asparagus Paella",
+  "description": "A quick and delicious Spanish dish featuring white asparagus and a nutty flavor, perfect for a weeknight dinner",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups",
+      "notes": "low-carb substitute for traditional rice"
+    }
+  ],
+  "instructions": [
+    "Preheat the lazy-susan-spinner vessel over medium-high heat",
+    "Add the sliced almonds to the vessel and cook until lightly toasted",
+    "Add the chicken breast to the vessel and cook until browned on all sides",
+    "Add the white asparagus to the vessel and cook until tender",
+    "Add the olive oil, smoked paprika, salt, and black pepper to the vessel and stir to combine",
+    "Add the chicken broth to the vessel and bring to a boil",
+    "Reduce the heat to low and simmer for 10 minutes",
+    "Stir in the cauliflower rice and cook until heated through",
+    "Serve the paella hot, garnished with additional sliced almonds if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "nutty",
+    "one-pan",
+    "quick-fix",
+    "spanish-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "nutty-spanish-white-asparagus-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-spanish-white-asparagus-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:44:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "knead",
+    "primaryIngredient": "white asparagus",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "white asparagus",
+    "descriptor": "nutty quick",
+    "dishForm": "Paella"
+  }
+}
