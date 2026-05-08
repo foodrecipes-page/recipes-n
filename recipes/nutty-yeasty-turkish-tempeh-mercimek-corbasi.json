@@ -1,0 +1,114 @@
+{
+  "title": "Nutty Yeasty Turkish Tempeh Mercimek Corbasi",
+  "description": "A yeasty, chewy, Turkish-inspired mercimek corbasi featuring tempeh, perfect for a low-calorie friendly brunch, with a mirepoix base and nutty flavors.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "8 oz",
+      "notes": "crumbled"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": "nutty flavor"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "concentrated"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, saute the chopped onion, carrot, and celery in a little water until they are tender.",
+    "Add the crumbled tempeh and cook for about 5 minutes, stirring occasionally, until it is lightly browned.",
+    "Add the red lentils, vegetable broth, nutritional yeast, tomato paste, smoked paprika, salt, and black pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for about 30 minutes, or until the lentils are tender.",
+    "Use an immersion blender to puree the soup to your desired consistency.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the mercimek corbasi hot, garnished with chopped fresh herbs if desired.",
+    "Let it cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-idea",
+    "lentil-based",
+    "low-calorie",
+    "nutty-flavors",
+    "turkish-inspired",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "nutty-yeasty-turkish-tempeh-mercimek-corbasi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-yeasty-turkish-tempeh-mercimek-corbasi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:38:35Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "tempeh",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "tempeh",
+    "descriptor": "Nutty Yeasty",
+    "dishForm": "Mercimek Corbasi"
+  }
+}
