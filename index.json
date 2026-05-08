@@ -3353,6 +3353,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-dense-syrian-fennel-pilaf",
+    "title": "Nourishing Dense Syrian Fennel Pilaf",
+    "tags": [
+      "comfort-food",
+      "fennel-recipes",
+      "one-pan",
+      "rice-bowls",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-double-fried-slovakian-cheese-dumplings",
     "title": "Nourishing Double Fried Slovakian Cheese Dumplings",
     "tags": [
@@ -9384,6 +9398,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-mexican-chocolate-empanadas",
+    "title": "Nutty Mexican Chocolate Empanadas",
+    "tags": [
+      "ayurvedic-friendly",
+      "chocolate-treats",
+      "cozy-desserts",
+      "mexican-dishes",
+      "nutty-delights",
+      "vegetarian-options"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {

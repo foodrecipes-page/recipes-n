@@ -1,0 +1,101 @@
+{
+  "title": "Nutty Mexican Chocolate Empanadas",
+  "description": "A cozy Mexican dish featuring dark chocolate chips and herbal notes, perfect for a cold evening. This recipe incorporates ayurvedic tamasic friendly ingredients for a balanced treat.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "anise seeds",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": "whole"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "kosher"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, cinnamon, anise seeds, and salt.",
+    "Add the beaten egg, milk, and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of dark chocolate chips and a sprinkle of chopped walnuts in the center of each circle.",
+    "Fold the dough over the filling to form a half moon shape and press the edges to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Remove the empanadas from the oven and let them cool on a wire rack for 10 minutes.",
+    "Submerge the empanadas in an ice bath for 30 seconds to stop the cooking process."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "chocolate-treats",
+    "cozy-desserts",
+    "mexican-dishes",
+    "nutty-delights",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "nutty-mexican-chocolate-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-mexican-chocolate-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:05:49Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chocolate",
+    "descriptor": "Nutty Gooey",
+    "dishForm": "Empanadas"
+  }
+}
