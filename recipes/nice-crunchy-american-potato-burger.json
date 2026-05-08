@@ -1,0 +1,99 @@
+{
+  "title": "Nice Crunchy American Potato Burger",
+  "description": "A quick-fix American dish featuring potato buns and wood-fired baked patties, suitable for a Buddhist temple gathering.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potato buns",
+      "amount": "4",
+      "notes": "wood-fired baked"
+    },
+    {
+      "name": "black bean patties",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 cup",
+      "notes": "cooked in olive oil"
+    },
+    {
+      "name": "mushroom slices",
+      "amount": "1 cup",
+      "notes": "grilled or sauteed"
+    },
+    {
+      "name": "vegan mayo",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "tomato slices",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "pickles",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "Bake the potato buns for 10 minutes or until lightly toasted.",
+    "Grill or saute the mushroom slices until tender.",
+    "Caramelize the onions in olive oil until golden brown.",
+    "Assemble the burgers by spreading vegan mayo on the buns, followed by a black bean patty, caramelized onions, mushroom slices, shredded lettuce, tomato slices, and pickles.",
+    "Serve immediately and enjoy.",
+    "Consider adding a side of sweet potato fries or a green salad for a complete meal.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-classics",
+    "crunchy-texture",
+    "easy-meal",
+    "quick-fix",
+    "vegetarian-friendly",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "nice-crunchy-american-potato-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-crunchy-american-potato-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:32:30Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "potatoe buns",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "potato",
+    "descriptor": "Nice Crunchy",
+    "dishForm": "Burger"
+  }
+}

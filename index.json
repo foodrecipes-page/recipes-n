@@ -871,6 +871,21 @@
     "shard": "n"
   },
   {
+    "slug": "nice-crunchy-american-potato-burger",
+    "title": "Nice Crunchy American Potato Burger",
+    "tags": [
+      "american-classics",
+      "crunchy-texture",
+      "easy-meal",
+      "quick-fix",
+      "vegetarian-friendly",
+      "wood-fired"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nice-crunchy-greek-duck-baklava",
     "title": "Nice Crunchy Greek Duck Baklava",
     "tags": [
