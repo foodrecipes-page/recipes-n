@@ -4899,6 +4899,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-australian-lamb-casserole",
+    "title": "Nutritious Australian Lamb Casserole",
+    "tags": [
+      "australian-cuisine",
+      "comfort-food",
+      "gluten-free",
+      "low-calorie",
+      "one-pot"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 110,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-bitter-argentinian-rice-stew",
     "title": "Nutritious Bitter Argentinian Rice Stew",
     "tags": [
@@ -6057,6 +6071,20 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-creamy-ethiopian-chinese-leaf-stew",
+    "title": "Nutty Creamy Ethiopian Chinese Leaf Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "international",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian Chinese",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
