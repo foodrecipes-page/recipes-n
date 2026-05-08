@@ -1,0 +1,94 @@
+{
+  "title": "Nutty Velvety French Pistachio Tart",
+  "description": "A fresh and velvety French dessert featuring unsalted pistachio and render-fat, perfect for those looking for a low-glycemic-friendly treat. This tart is a delightful combination of flavors and textures.",
+  "cuisine": "French",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted pistachio",
+      "amount": "1 1/2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "render-fat",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the almond flour, granulated sweetener, and salt.",
+    "Add the chopped pistachio to the bowl and stir until well combined.",
+    "In a large bowl, whisk together the eggs, render-fat, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and stir until a smooth dough forms.",
+    "Roll out the dough on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Trim the edges and press the dough into the corners of the pan.",
+    "Bake the tart shell for 20 minutes, then set aside to cool.",
+    "In a small bowl, whip the heavy cream until stiff peaks form.",
+    "Spread the whipped cream over the cooled tart shell and top with additional chopped pistachio if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french-pastry",
+    "low-glycemic",
+    "nutty-flavors",
+    "special-occasion",
+    "velvety-texture"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "nutty-velvety-french-pistachio-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-velvety-french-pistachio-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:17:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "render-fat",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "low-glycemic",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "pistachio",
+    "descriptor": "Nutty Velvety",
+    "dishForm": "Tart"
+  }
+}
