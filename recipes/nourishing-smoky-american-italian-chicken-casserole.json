@@ -1,0 +1,100 @@
+{
+  "title": "Nourishing Smoky American Italian Chicken Casserole",
+  "description": "A comforting and creamy casserole featuring Italian seasoning and a smoky flavor, made with fresh ingredients and Ayurvedic-sattvic friendly principles.",
+  "cuisine": "American Italian",
+  "diet": [
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14.5 ounces"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, Italian seasoning, garlic powder, and onion powder.",
+    "Add the chicken to the bowl and toss to coat evenly with the spice mixture.",
+    "In a large skillet, cook the chicken over medium-high heat until browned and cooked through.",
+    "In a separate bowl, combine the canned diced tomatoes and plain Greek yogurt.",
+    "In a 9x13 inch baking dish, arrange a layer of cooked chicken.",
+    "Spread half of the tomato-yogurt mixture over the chicken.",
+    "Sprinkle with half of the shredded mozzarella cheese.",
+    "Repeat the layers, starting with the chicken, then the remaining tomato-yogurt mixture, and finally the remaining mozzarella cheese.",
+    "Top with chopped fresh basil leaves.",
+    "Bake for 25-30 minutes or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "italian-inspired",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 24
+  },
+  "slug": "nourishing-smoky-american-italian-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-american-italian-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:16:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "smoke-hot",
+    "primaryIngredient": "italian seasoning",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "American Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Casserole"
+  }
+}

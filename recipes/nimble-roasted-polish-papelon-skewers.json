@@ -1,0 +1,96 @@
+{
+  "title": "Nimble Roasted Polish Papelon Skewers",
+  "description": "A traditional Polish dish featuring roasted papelon, this recipe is a low-calorie and flavorful showstopper, perfect for any occasion. It is made with a tempering process to achieve a flaky texture.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "papelon",
+      "amount": "1 cup",
+      "notes": "dried and shredded"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, salt, black pepper, and paprika.",
+    "Add the chopped onion and minced garlic to the bowl and mix until they are well coated with the oil mixture.",
+    "Add the chicken breast pieces to the bowl and mix until they are well coated with the oil mixture.",
+    "Thread the chicken and onion mixture onto skewers, leaving a small space between each piece.",
+    "Place the skewers in a large wok and roast in the oven for 20 minutes.",
+    "Remove the wok from the oven and add the shredded papelon to the wok.",
+    "Return the wok to the oven and continue to roast for an additional 10 minutes, or until the papelon is crispy and golden brown.",
+    "Remove the wok from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "low-calorie",
+    "one-pan",
+    "polish-cuisine",
+    "roasted-vegetables",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "nimble-roasted-polish-papelon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-roasted-polish-papelon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:16:08Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "temper",
+    "primaryIngredient": "papelon",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "papelon",
+    "descriptor": "Nimble Roasted",
+    "dishForm": "Skewers"
+  }
+}

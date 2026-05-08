@@ -1751,6 +1751,21 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-roasted-polish-papelon-skewers",
+    "title": "Nimble Roasted Polish Papelon Skewers",
+    "tags": [
+      "chicken-recipes",
+      "low-calorie",
+      "one-pan",
+      "polish-cuisine",
+      "roasted-vegetables",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-seafood-spanish-octopus-paella",
     "title": "Nimble Seafood Spanish Octopus Paella",
     "tags": [
@@ -4986,6 +5001,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-american-italian-chicken-casserole",
+    "title": "Nourishing Smoky American Italian Chicken Casserole",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "italian-inspired",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "American Italian",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
