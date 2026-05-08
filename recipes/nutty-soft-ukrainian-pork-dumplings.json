@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Soft Ukrainian Pork Dumplings",
+  "description": "A fresh and pillowy Ukrainian dish featuring pork and nuts, perfect for a date night, made with canola oil and a deglaze for a low-fat friendly meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, chopped walnuts, onion, garlic, salt, and black pepper, and mix well with your hands until just combined.",
+    "In a separate bowl, whisk together the flour and egg, and then add this mixture to the pork mixture, mixing until a dough forms.",
+    "Knead the dough on a floured surface for 5 minutes, until it becomes smooth and elastic.",
+    "Divide the dough into 20 equal pieces, and roll each piece into a ball.",
+    "Flatten each ball into a disk shape, and then use a fork to crimp the edges.",
+    "Heat the canola oil in a large skillet over medium heat, and then add the dumplings, being careful not to overcrowd the skillet.",
+    "Cook the dumplings for 3-4 minutes on each side, until they are golden brown and cooked through.",
+    "Remove the dumplings from the skillet, and then deglaze the skillet with the chicken broth, scraping up any browned bits from the bottom.",
+    "Serve the dumplings hot, with the deglazed sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "low-fat",
+    "nutty-flavors",
+    "pork-dishes",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "nutty-soft-ukrainian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-soft-ukrainian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:50:30Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "deglaze",
+    "primaryIngredient": "canola oil",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "nutty soft",
+    "dishForm": "Dumplings"
+  }
+}
