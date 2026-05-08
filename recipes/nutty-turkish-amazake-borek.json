@@ -1,0 +1,99 @@
+{
+  "title": "Nutty Turkish Amazake Borek",
+  "description": "A nutty and chewy Turkish dish featuring amazake, perfect for a hangover cure, made with a lacquer glaze and satvik friendly ingredients. This borek is a delicious and satisfying treat.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "amazake",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the phyllo dough and cut it into 4 equal pieces.",
+    "In a bowl, mix together the amazake, chopped walnuts, lacquer glaze, salt, and black pepper.",
+    "Place a quarter of the amazake mixture onto the center of each phyllo piece.",
+    "Brush the edges of the phyllo with olive oil and fold the dough into triangles.",
+    "Place the borek on a baking sheet lined with parchment paper and brush with olive oil.",
+    "Bake the borek for 25 minutes or until golden brown.",
+    "Remove from the oven and garnish with sesame seeds.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "nutty-treats",
+    "satvik-recipes",
+    "turkish-food",
+    "vegetarian-breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "nutty-turkish-amazake-borek",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-turkish-amazake-borek",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:16:16Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "amazake",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "amazake",
+    "descriptor": "Nutty Chewy",
+    "dishForm": "Borek"
+  }
+}
