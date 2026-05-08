@@ -271,6 +271,22 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-dense-vietnamese-lemongrass-noodles",
+    "title": "Naturally Dense Vietnamese Lemongrass Noodles",
+    "tags": [
+      "agave-leaf",
+      "caramelized",
+      "jain-friendly",
+      "lemongrass",
+      "malty",
+      "noodles",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-fermented-springy-indian-curry",
     "title": "Naturally Fermented Springy Indian Curry",
     "tags": [
@@ -9469,6 +9485,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-syrian-bowtie-pasta-tagine",
+    "title": "Nutty Syrian Bowtie Pasta Tagine",
+    "tags": [
+      "flexitarian",
+      "lazy-sunday",
+      "nutty",
+      "one-pot",
+      "pasta-dish",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {

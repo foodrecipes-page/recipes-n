@@ -1,0 +1,96 @@
+{
+  "title": "Naturally Dense Vietnamese Lemongrass Noodles",
+  "description": "A malty and dense Vietnamese dish featuring lemongrass and caramelized onions, served in an agave leaf vessel, this jain-friendly meal is perfect for a light lunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "8 oz",
+      "notes": "preferably brown rice noodles"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Agave Leaf",
+      "amount": "4 leaves",
+      "notes": "for serving"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Malty Rice Syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to package instructions.",
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the sliced onions to the skillet and cook, stirring occasionally, until they are caramelized and golden brown.",
+    "Add the bruised lemongrass to the skillet and cook for an additional 2 minutes.",
+    "Stir in the malty rice syrup, salt, and black pepper.",
+    "Combine the cooked noodles and skillet mixture in a large bowl and toss to combine.",
+    "Spoon the noodle mixture into the agave leaves and serve immediately.",
+    "Fold the agave leaves over the noodles to form a bundle and secure with a toothpick if needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agave-leaf",
+    "caramelized",
+    "jain-friendly",
+    "lemongrass",
+    "malty",
+    "noodles",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "naturally-dense-vietnamese-lemongrass-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-dense-vietnamese-lemongrass-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:49:12Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "caramelize",
+    "primaryIngredient": "lemongrass",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "lemongrass",
+    "descriptor": "naturally dense",
+    "dishForm": "Noodles"
+  }
+}
