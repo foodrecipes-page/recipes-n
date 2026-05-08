@@ -1,0 +1,98 @@
+{
+  "title": "Nourishing Silky Thai Chicken Curry",
+  "description": "A sour and silky Thai chicken curry featuring red curry paste and dashi extract, perfect for a post-workout meal, and friendly for those who avoid onion and garlic.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add the red curry paste to cook for 1 minute.",
+    "Add the chicken breast to the skillet and cook until browned on all sides and cooked through.",
+    "Remove the chicken from the skillet and set aside to rest.",
+    "Add the dashi extract, fish sauce, and lime juice to the skillet and stir to combine.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Add the sliced bell peppers to the skillet and cook until tender.",
+    "Return the chicken to the skillet and stir to coat with the curry sauce.",
+    "Season the curry with salt and pepper to taste.",
+    "Serve the curry hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "no-onion-no-garlic",
+    "post-workout",
+    "silky-curry",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "nourishing-silky-thai-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-silky-thai-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:29:22Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "dashi-extract",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing Silky",
+    "dishForm": "Curry"
+  }
+}
