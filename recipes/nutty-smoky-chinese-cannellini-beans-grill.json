@@ -1,0 +1,101 @@
+{
+  "title": "Nutty Smoky Chinese Cannellini Beans Grill",
+  "description": "A smoky and tender lacto-vegetarian Chinese dish featuring cannellini beans, inspired by Xinjiang cuisine, grilled to perfection on a robata grill.",
+  "cuisine": "Chinese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 cup",
+      "notes": "dried, soaked overnight and drained"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, lacto-vegetarian friendly"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat, approximately 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, soy sauce, rice vinegar, sesame oil, minced garlic, grated ginger, and crushed red pepper.",
+    "Add the soaked and drained cannellini beans to the bowl and toss to coat evenly with the smoky sauce.",
+    "Thread the coated cannellini beans onto skewers, leaving a small space between each bean.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the beans are tender and slightly charred.",
+    "While the beans are grilling, prepare the topping by mixing together chopped scallions and crumbly feta cheese.",
+    "Once the beans are done, remove from heat and top with the scallion and feta cheese mixture.",
+    "Serve immediately, garnished with additional scallions and sesame oil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "grilled",
+    "high-protein",
+    "lacto-vegetarian",
+    "nutty",
+    "smoky",
+    "xinjiang-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nutty-smoky-chinese-cannellini-beans-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-smoky-chinese-cannellini-beans-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:42:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "robata-grill",
+    "primaryIngredient": "cannellini beans",
+    "diet": "lacto-vegetarian",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "Nutty Smoky",
+    "dishForm": "Grill"
+  }
+}
