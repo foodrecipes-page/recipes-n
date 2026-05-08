@@ -4146,6 +4146,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-light-irish-snow-peas-bowl",
+    "title": "Nourishing Light Irish Snow Peas Bowl",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "snow-peas",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-light-korean-red-cabbage-noodles",
     "title": "Nourishing Light Korean Red Cabbage Noodles",
     "tags": [
@@ -8437,6 +8451,22 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crunchy-spanish-gorgonzola-pasta",
+    "title": "Nutty Crunchy Spanish Gorgonzola Pasta",
+    "tags": [
+      "crunchy",
+      "gorgonzola",
+      "nutty",
+      "one-pan",
+      "pasta",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 27,
     "shard": "n"
   },
   {
