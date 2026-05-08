@@ -3381,6 +3381,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-indian-lentil-curry",
+    "title": "Nourishing Indian Lentil Curry",
+    "tags": [
+      "high-protein",
+      "indian-cuisine",
+      "lentil-based",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-indian-lentils-samosas",
     "title": "Nourishing Indian Lentils Samosas",
     "tags": [
@@ -3528,6 +3543,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 200,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-juicy-korean-green-pepper-gimbap",
+    "title": "Nourishing Juicy Korean Green Pepper Gimbap",
+    "tags": [
+      "gimbap-recipes",
+      "healthy-eating",
+      "korean-food",
+      "low-sodium",
+      "lunch-ideas",
+      "vegetarian"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -5951,6 +5981,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-uruguayan-bean-sprouts-skillet",
+    "title": "Nutritious Uruguayan Bean Sprouts Skillet",
+    "tags": [
+      "easy",
+      "low-calorie",
+      "one-pan",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {

@@ -1,0 +1,102 @@
+{
+  "title": "Nourishing Juicy Korean Green Pepper Gimbap",
+  "description": "A pungent and cozy Korean dish from the Gangwon region, featuring green peppers in a low-sodium gimbap, served in a lacquerware bowl.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green peppers",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "korean rice",
+      "amount": "2 cups cooked"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon low-sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dried seaweed sheets",
+      "amount": "1 package"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup grated"
+    }
+  ],
+  "instructions": [
+    "Prepare the lacquerware bowl by gently washing it with warm water and letting it dry.",
+    "Cut the green peppers into thin strips and set them aside.",
+    "In a small bowl, whisk together the sesame oil, soy sauce, rice vinegar, salt, and black pepper to create the emulsified sauce.",
+    "Add the cooked korean rice to the bowl with the emulsified sauce and mix well.",
+    "Lay a dried seaweed sheet flat on a cutting board.",
+    "Spread a thin layer of the rice mixture onto the seaweed sheet, leaving a 1-inch border at the top.",
+    "Arrange the green pepper strips, spinach leaves, and grated carrots horizontally across the middle of the rice.",
+    "Roll the gimbap tightly using a bamboo sushi mat or a clean tea towel.",
+    "Repeat the process with the remaining ingredients to make more gimbap rolls.",
+    "Slice the gimbap into 1-inch thick rounds and serve in the lacquerware bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gimbap-recipes",
+    "healthy-eating",
+    "korean-food",
+    "low-sodium",
+    "lunch-ideas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nourishing-juicy-korean-green-pepper-gimbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-juicy-korean-green-pepper-gimbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:22:49Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "emulsify",
+    "primaryIngredient": "green pepper",
+    "diet": "low-sodium",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "green pepper",
+    "descriptor": "Nourishing Juicy",
+    "dishForm": "Gimbap"
+  }
+}

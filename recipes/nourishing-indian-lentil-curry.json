@@ -1,0 +1,100 @@
+{
+  "title": "Nourishing Indian Lentil Curry",
+  "description": "A garlicky and energizing Indian dish featuring cider vinegar and ferment-kimchi, this lentil curry is a satvik-friendly option for a healthy meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat.",
+    "Add the minced garlic and saute for 1 minute.",
+    "Add the chopped onion and saute until it is translucent.",
+    "Add the curry powder and turmeric, and stir for 1 minute.",
+    "Add the red lentils, cider vinegar, and salt, and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the chopped ferment-kimchi.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "indian-cuisine",
+    "lentil-based",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "nourishing-indian-lentil-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-indian-lentil-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:22:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cider vinegar",
+    "diet": "satvik",
+    "region": "tamil",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Nourishing",
+    "dishForm": "Curry"
+  }
+}
