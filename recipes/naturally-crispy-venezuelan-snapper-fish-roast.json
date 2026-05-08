@@ -1,0 +1,109 @@
+{
+  "title": "Naturally Crispy Venezuelan Snapper Fish Roast",
+  "description": "This vegan friendly dish features snapper fish with a yeasty and crispy exterior, showcasing the flavors of Venezuela. The roast is made with a variety of ingredients to create a delicious and show stopping meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fish",
+      "amount": "4 fillets",
+      "notes": "fresh"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet",
+      "notes": "active dry"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the snapper fish fillets and pat them dry with paper towels.",
+    "In a large bowl, whisk together the yeast, lemon juice, olive oil, garlic, onion, bell pepper, tomato, paprika, salt, and black pepper.",
+    "Add the snapper fish fillets to the bowl and marinate for at least 30 minutes.",
+    "Remove the fish from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Roast the fish in the preheated oven for 20 minutes.",
+    " Increase the oven temperature to broil and cook for an additional 5 minutes, or until the fish is crispy and golden brown.",
+    "Remove the fish from the oven and let it rest for 5 minutes before serving.",
+    "Serve the fish hot, garnished with fresh herbs and lemon wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "naturally-crispy-venezuelan-snapper-fish-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-crispy-venezuelan-snapper-fish-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:18:14Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "roast",
+    "primaryIngredient": "snapper fish",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "snapper fish",
+    "descriptor": "Naturally Crispy",
+    "dishForm": "Roast"
+  }
+}
