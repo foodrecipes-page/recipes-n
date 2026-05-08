@@ -1,0 +1,111 @@
+{
+  "title": "Nutty Crunchy Filipino Beetroot Tinola",
+  "description": "A rich and crunchy Filipino dish featuring cooked beetroot and double-fry chicken, perfect for a weeknight dinner. This keto-friendly recipe is a twist on the traditional tinola dish.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "chicken pieces",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium-high heat.",
+    "Double-fry the chicken pieces until crispy and golden brown, then set aside.",
+    "In the same pot, sauté the chopped onion, minced garlic, and grated ginger until the onion is translucent.",
+    "Add the diced beetroot and cook until it starts to soften.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and let it simmer for 10 minutes.",
+    "Add the fish sauce, salt, and black pepper, and stir to combine.",
+    "Add the double-fried chicken pieces back into the pot and stir to coat with the sauce.",
+    "Sprinkle the chopped peanuts on top and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot-recipes",
+    "chicken-recipes",
+    "filipino-food",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "nutty-crunchy-filipino-beetroot-tinola",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crunchy-filipino-beetroot-tinola",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:48:20Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beetroot",
+    "descriptor": "Nutty Crunchy",
+    "dishForm": "Tinola"
+  }
+}
