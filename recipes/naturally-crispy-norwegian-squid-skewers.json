@@ -1,0 +1,97 @@
+{
+  "title": "Naturally Crispy Norwegian Squid Skewers",
+  "description": "A jammy and crispy Norwegian dish featuring squid, this recipe is a unique and adventurous take on traditional seafood, boiled to perfection and served in a bamboo steamer, making it vegetarian friendly by omitting typical seafood accompaniments.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid tubes",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic powder, paprika, salt, and black pepper.",
+    "Add the squid pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated squid pieces onto the bamboo skewers, leaving a small space between each piece.",
+    "Place the skewers in a bamboo steamer and steam for 5 minutes.",
+    "Remove the skewers from the steamer and place them on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 10-12 minutes, or until crispy and golden brown.",
+    "Remove the skewers from the oven and sprinkle with chopped parsley.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "crispy",
+    "norwegian",
+    "seafood",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "naturally-crispy-norwegian-squid-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-crispy-norwegian-squid-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:32:49Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "squid",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "squid",
+    "descriptor": "naturally crispy",
+    "dishForm": "Skewers"
+  }
+}
