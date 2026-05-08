@@ -1,0 +1,112 @@
+{
+  "title": "Nice and Dense Filipino Beets Robata-Style Lechon",
+  "description": "A rich and flavorful Filipino-inspired dish featuring beets, lechon, and robata-grill, perfect for a lazy Sunday. This recipe is Jain-friendly and features a dense, spicy flavor profile.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "juice only"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "anise",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400°F (200°C).",
+    "In a blender or food processor, combine beetroot, lemon juice, coconut oil, onion, garlic, anise, black pepper, apple cider vinegar, brown sugar, and water. Blend until smooth.",
+    "Transfer the mixture to a large bowl and refrigerate for at least 2 hours or overnight.",
+    "Thread the mixture onto bamboo skewers, leaving a 1-inch space between each piece.",
+    "Grill the skewers over medium-high heat for 10-12 minutes, turning occasionally, or until the beets are tender and slightly charred.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "gluten-free",
+    "one-pan",
+    "robata-grill",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 4,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "nice-and-dense-filipino-beets-robata-style-lechon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-and-dense-filipino-beets-robata-style-lechon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:09:48Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "robata-grill",
+    "primaryIngredient": "beets",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Beets",
+    "descriptor": "Nice and Dense",
+    "dishForm": "Robata-Style Lechon"
+  }
+}
