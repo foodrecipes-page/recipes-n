@@ -1,0 +1,101 @@
+{
+  "title": "Nutty Velvety Middle Eastern Chestnuts Shakshuka",
+  "description": "A bitter and velvety Middle Eastern dish featuring chestnuts, salt-bake, and Buddhist-temple-friendly ingredients, served in a shakshuka form on a salt block vessel.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 cup",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block vessel to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped chestnuts with 1 tablespoon of olive oil, paprika, cumin, salt, and black pepper until they are evenly coated.",
+    "Spread the chestnuts on the preheated salt block vessel and roast for 20 minutes.",
+    "In a large skillet, heat the remaining 1 tablespoon of olive oil over medium heat.",
+    "Add the chopped onions to the skillet and cook until they are softened and translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Stir in the tomato puree and bring the mixture to a simmer.",
+    "Create 4 wells in the tomato mixture and crack an egg into each well.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the skillet to the oven and bake at 375 degrees Fahrenheit for 15 minutes.",
+    "Remove the skillet from the oven and top with the roasted chestnuts."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "middle-eastern",
+    "one-pan",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "nutty-velvety-middle-eastern-chestnuts-shakshuka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-velvety-middle-eastern-chestnuts-shakshuka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:41:40Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "salt-bake",
+    "primaryIngredient": "chestnuts",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chestnuts",
+    "descriptor": "Nutty Velvety",
+    "dishForm": "Shakshuka"
+  }
+}
