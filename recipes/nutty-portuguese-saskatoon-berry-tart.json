@@ -1,0 +1,101 @@
+{
+  "title": "Nutty Portuguese Saskatoon Berry Tart",
+  "description": "A buttery and crispy Portuguese tart featuring Saskatoon berries and tempering chocolate, perfect for a low-carb friendly dessert. This festive dish is sure to impress your guests.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "Saskatoon berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/4 cup",
+      "notes": "low-carb friendly"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the almond flour and granulated sweetener.",
+    "Add the melted butter, eggs, and vanilla extract to the bowl and mix until a dough forms.",
+    "Roll out the dough on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Arrange the Saskatoon berries on top of the dough, leaving a 1-inch border around the edges.",
+    "Melt the tempering chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Drizzle the melted chocolate over the Saskatoon berries.",
+    "Sprinkle the chopped walnuts over the top of the tart, if using.",
+    "Bake the tart for 35-40 minutes, or until the crust is golden brown and the filling is set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "berry-tarts",
+    "chocolate-desserts",
+    "gluten-free",
+    "low-carb",
+    "portuguese-desserts",
+    "walnut-toppings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "nutty-portuguese-saskatoon-berry-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-portuguese-saskatoon-berry-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:54:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "saskatoon berries",
+    "descriptor": "Nutty Buttery",
+    "dishForm": "Tart"
+  }
+}
