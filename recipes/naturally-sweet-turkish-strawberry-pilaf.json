@@ -1,0 +1,100 @@
+{
+  "title": "Naturally Sweet Turkish Strawberry Pilaf",
+  "description": "A briny and shaggy crowd-pleaser Turkish dish featuring strawberries and lamination-puff, perfect for vegetarians",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "2 cups",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until softened.",
+    "Add the sliced strawberries to the skillet and cook for an additional 2 minutes.",
+    "In a large bowl, combine the cooked strawberry and onion mixture, basmati rice, salt, and black pepper, and stir to combine.",
+    "Spoon the rice mixture onto one half of the puff pastry, leaving a 1/2 inch border around the edges.",
+    "Sprinkle the crumbly feta cheese over the top of the rice mixture.",
+    "Fold the other half of the puff pastry over the filling and press the edges to seal.",
+    "Brush the top of the pastry with a little bit of water and sprinkle with chopped fresh parsley.",
+    "Bake the pilaf in the preheated oven for 25 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "pilaf-recipes",
+    "strawberry-recipes",
+    "turkish-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "naturally-sweet-turkish-strawberry-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-sweet-turkish-strawberry-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:58:13Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "lamination-puff",
+    "primaryIngredient": "strawberries",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "strawberries",
+    "descriptor": "naturally sweet",
+    "dishForm": "Pilaf"
+  }
+}
