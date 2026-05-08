@@ -3670,6 +3670,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-smoky-jamaican-chicken-curry",
+    "title": "Nourishing Smoky Jamaican Chicken Curry",
+    "tags": [
+      "fodmap-friendly",
+      "gluten-free",
+      "hangover-cure",
+      "jamaican-cuisine",
+      "one-pot",
+      "smoky-flavors"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-smoky-kenyan-dish-hash",
     "title": "Nourishing Smoky Kenyan Hash",
     "tags": [
@@ -3683,6 +3698,21 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-polish-black-beans-skillet",
+    "title": "Nourishing Smoky Polish Black Beans Skillet",
+    "tags": [
+      "black-beans",
+      "one-pot",
+      "polish",
+      "smoky",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {

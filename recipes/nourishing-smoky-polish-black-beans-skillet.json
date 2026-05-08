@@ -1,0 +1,98 @@
+{
+  "title": "Nourishing Smoky Polish Black Beans Skillet",
+  "description": "A hearty one-pot Polish dish featuring charred black beans, this skillet is perfect for a weeknight dinner, with a smoky flavor from broiling and satvik-friendly ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a large oven-safe skillet over medium-high heat.",
+    "Add the chopped onion and cook until it starts to char, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Stir in the smoked paprika, caraway seeds, salt, and pepper, and cook for 1 minute.",
+    "Add the cooked black beans, tomato paste, and vegetable broth to the skillet, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, stirring occasionally.",
+    "Transfer the skillet to the broiler and cook until the top is lightly charred, about 2-3 minutes.",
+    "Remove the skillet from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-beans",
+    "one-pot",
+    "polish",
+    "smoky",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "nourishing-smoky-polish-black-beans-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-polish-black-beans-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:29:33Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "black beans",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "black beans",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Skillet"
+  }
+}
