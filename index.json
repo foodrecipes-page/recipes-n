@@ -5817,6 +5817,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-mexican-shrimp-tacos",
+    "title": "Nutritious Mexican Shrimp Tacos",
+    "tags": [
+      "brunch",
+      "high-protein",
+      "low-carb",
+      "mexican",
+      "seafood",
+      "spicy"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-middle-eastern-pork-back-ribs-shawarma",
     "title": "Nutritious Middle Eastern Pork Back Ribs Shawarma",
     "tags": [

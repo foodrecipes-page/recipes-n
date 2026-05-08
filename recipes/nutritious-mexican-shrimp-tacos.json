@@ -1,0 +1,106 @@
+{
+  "title": "Nutritious Mexican Shrimp Tacos",
+  "description": "A spicy and light Veracruzan dish featuring oregano and high protein friendly ingredients, served in scallop shells. This recipe is perfect for a brunch mood meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the shrimp under cold water and pat them dry with paper towels.",
+    "In a large bowl, whisk together lime juice, olive oil, garlic, cayenne pepper, salt, and oregano.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Let the shrimp marinate for 10-15 minutes in the refrigerator.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the shrimp from the marinade and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a cooked shrimp on each tortilla, then topping with scallions, cilantro, and any desired additional toppings.",
+    "Serve the tacos in scallop shells, if desired, and garnish with additional cilantro and lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "high-protein",
+    "low-carb",
+    "mexican",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "nutritious-mexican-shrimp-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-mexican-shrimp-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:03:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "bain-marie",
+    "primaryIngredient": "oregano",
+    "diet": "high-protein",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "shrimp",
+    "descriptor": "Nutritious Spicy",
+    "dishForm": "Tacos"
+  }
+}
