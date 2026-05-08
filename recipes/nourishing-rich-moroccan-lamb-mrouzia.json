@@ -1,0 +1,109 @@
+{
+  "title": "Nourishing Rich Moroccan Lamb Mrouzia",
+  "description": "A resinous and pillowy Moroccan dish featuring lamb, mayonnaise, and a rich deglaze fond, made low-fat-friendly, in the traditional form of mrouzia. This indulgent dish is perfect for special occasions.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled, grated"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion, minced garlic, and grated ginger to the pot, cooking until the onion is translucent.",
+    "Add the mayonnaise, honey, raisins, almonds, cinnamon, and black pepper to the pot, stirring to combine.",
+    "Cover the pot and transfer it to the preheated oven, cooking for 2.5 hours.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Using a slotted spoon, remove the lamb and onion mixture from the pot and place it on a serving platter.",
+    "Place the pot over medium heat and bring the sauce to a simmer, scraping up any browned bits from the bottom of the pot.",
+    "Simmer the sauce for 10 minutes, or until it has thickened slightly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "indulgent",
+    "lamb",
+    "low-fat",
+    "moroccan",
+    "one-pot",
+    "rich",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "nourishing-rich-moroccan-lamb-mrouzia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-rich-moroccan-lamb-mrouzia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:46:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "mayonnaise",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Nourishing Rich",
+    "dishForm": "Mrouzia"
+  }
+}
