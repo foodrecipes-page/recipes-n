@@ -1,0 +1,103 @@
+{
+  "title": "nutty dense Brazilian genmaicha stew",
+  "description": "A hearty, comforting stew from Brazil featuring nutty genmaicha tea and a variety of vegetables. Perfect for a low-sodium dinner option.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "genmaicha tea",
+      "amount": "2 cups",
+      "notes": "loose-leaf"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "chicken broth or water"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast and cook until browned on all sides, about 5-6 minutes.",
+    "Add the genmaicha tea, brown rice, diced tomatoes, water, and chopped spinach to the pot.",
+    "Stir to combine, then bring the mixture to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Stir in the chopped red bell pepper and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Shred the cooked chicken and return to the pot for easy serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "low-sodium",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "nutty-dense-brazilian-genmaicha-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-brazilian-genmaicha-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:52:06Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "brine-wet",
+    "primaryIngredient": "genmaicha",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "genmaicha",
+    "descriptor": "nutty dense",
+    "dishForm": "Stew"
+  }
+}
