@@ -1,0 +1,107 @@
+{
+  "title": "Nourishing Crunchy Dutch Beef Stew",
+  "description": "A hearty and flavorful Dutch stew featuring tender beef, crunchy vegetables, and a rich broth, made without onions or garlic",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button mushrooms, sliced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "hot"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": " Worcestershire sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Render the lardons in a large Dutch oven over medium heat until crispy",
+    "Remove the lardons from the pot and set aside",
+    "Add the beef to the pot and cook until browned on all sides",
+    "Add the carrots, celery, and mushrooms to the pot and cook until the vegetables are tender",
+    "Add the hot beef broth, tomato paste, Worcestershire sauce, thyme, salt, and pepper to the pot and stir to combine",
+    "Return the lardons to the pot and bring the stew to a boil",
+    "Reduce the heat to low and simmer the stew for 1 1/2 hours",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "gluten-free",
+    "hearty-stew",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "nourishing-crunchy-dutch-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-crunchy-dutch-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:25:41Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "lardons-render",
+    "primaryIngredient": "hot beef stock",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "Nourishing Crunchy",
+    "dishForm": "Stew"
+  }
+}
