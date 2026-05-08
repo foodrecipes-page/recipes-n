@@ -1,0 +1,92 @@
+{
+  "title": "Nourishing Buttery Croatian Melon Skillet",
+  "description": "A buttery and gooey Croatian dish featuring melons, perfect for a midnight craving, made with anti-inflammatory friendly ingredients and cooked in a comal",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "melons",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium heat",
+    "In a small bowl, whisk together honey, lemon juice, ginger, turmeric, salt, and black pepper",
+    "Add the diced melons to the comal and cook for 5 minutes",
+    "Add the butter to the comal and let it melt",
+    "Pour the honey and spice mixture over the melons and butter",
+    "Stir everything together and cook for an additional 5 minutes",
+    "Use a sous-vide machine to warm the mixture to 160 degrees Fahrenheit",
+    "Serve the Nourishing Buttery Croatian Melon Skillet hot and enjoy"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "gluten-free",
+    "midnight-craving",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "nourishing-buttery-croatian-melon-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-buttery-croatian-melon-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:20:34Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "sous-vide",
+    "primaryIngredient": "melons",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "melons",
+    "descriptor": "Nourishing Buttery",
+    "dishForm": "Skillet"
+  }
+}
