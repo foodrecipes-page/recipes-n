@@ -1,0 +1,102 @@
+{
+  "title": "Nourishing Crispy Italian Chicken Pilaf",
+  "description": "A herbal and crispy Italian dish featuring jasmine rice and salt-baked chicken, perfect for a sick day, with a low-fat friendly twist from the Puglian region.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the chicken, salt, thyme, and rosemary.",
+    "Heat the olive oil in a large skillet over medium-high heat and cook the chicken until browned on all sides.",
+    "Transfer the chicken to a baking dish and bake in the oven for 20 minutes.",
+    "In the same skillet, add the chicken broth and bring to a boil.",
+    "Add the jasmine rice to the skillet, cover, and reduce heat to low.",
+    "Simmer the rice for 15 minutes or until the liquid is absorbed.",
+    "Fluff the cooked rice with a fork and stir in the parmesan cheese and parsley.",
+    "Serve the crispy chicken on top of the rice pilaf and drizzle with lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "crispy",
+    "herbal",
+    "italian-food",
+    "low-fat",
+    "puglian-cuisine",
+    "rice-bowls"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "nourishing-crispy-italian-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-crispy-italian-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:45:54Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "salt-bake",
+    "primaryIngredient": "jasmine rice",
+    "diet": "low-fat",
+    "region": "puglian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing Crispy",
+    "dishForm": "Pilaf"
+  }
+}
