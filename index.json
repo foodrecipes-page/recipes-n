@@ -6142,6 +6142,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-velvety-brazilian-chicken-stew",
+    "title": "Nourishing Velvety Brazilian Chicken Stew",
+    "tags": [
+      "brazilian-cuisine",
+      "comfort-food",
+      "gluten-free",
+      "nut-free",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-velvety-croatian-fish-stew",
     "title": "Croatian Fish Stew",
     "tags": [
@@ -7987,6 +8002,21 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-brazilian-buckwheat-empanadas",
+    "title": "Nutty Brazilian Buckwheat Empanadas",
+    "tags": [
+      "brazilian-food",
+      "buckwheat-recipes",
+      "empanadas",
+      "kid-friendly",
+      "snack-ideas",
+      "vegan-recipes"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {

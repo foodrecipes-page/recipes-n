@@ -1,0 +1,91 @@
+{
+  "title": "Nutty Brazilian Buckwheat Empanadas",
+  "description": "A kid-friendly Brazilian dish featuring buckwheat flour and nuka-pickle, served in a scallop shell vessel, this vegan-friendly recipe is perfect for a snack or lunch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "2 cups",
+      "notes": "make sure it is vegan-friendly"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scalloped shells",
+      "amount": "12",
+      "notes": "vessel for empanadas"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine buckwheat flour, nuka-pickle, salt, and sugar.",
+    "Add melted vegan butter and water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place it into a scalloped shell.",
+    "Bake the empanadas for 20 minutes or until they are golden brown.",
+    "Remove the empanadas from the oven and let them cool for 5 minutes.",
+    "Serve the empanadas warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "buckwheat-recipes",
+    "empanadas",
+    "kid-friendly",
+    "snack-ideas",
+    "vegan-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "nutty-brazilian-buckwheat-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-brazilian-buckwheat-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:14:01Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "buckwheat",
+    "descriptor": "nutty chewy",
+    "dishForm": "Empanadas"
+  }
+}
