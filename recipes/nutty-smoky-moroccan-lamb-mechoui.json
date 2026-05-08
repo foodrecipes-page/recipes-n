@@ -1,0 +1,103 @@
+{
+  "title": "Nutty Smoky Moroccan Lamb Mechoui",
+  "description": "A smoky and silky Moroccan dish featuring lamb, flaked almonds, and confit tomato, perfect for a solo dinner, with an ayurvedic rajasic friendly twist.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "flaked almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together smoked paprika, ground cumin, salt, and black pepper.",
+    "Rub the spice mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Sear the lamb shoulder until browned on all sides, then remove it from the pot and set it aside.",
+    "Add the confit tomato to the pot and cook for 2 minutes, stirring occasionally.",
+    "Add the flaked almonds to the pot and cook for 1 minute, stirring constantly.",
+    "Return the lamb shoulder to the pot and add the chopped parsley and lemon juice.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "one-pot-meals",
+    "smoky-flavors",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "nutty-smoky-moroccan-lamb-mechoui",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-smoky-moroccan-lamb-mechoui",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:58:32Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "confit-tomato",
+    "primaryIngredient": "flaked almonds",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Nutty Smoky",
+    "dishForm": "Mechoui"
+  }
+}
