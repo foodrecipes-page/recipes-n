@@ -1,0 +1,111 @@
+{
+  "title": "Nourishing Smoky Vietnamese Black Beans Pho Bo",
+  "description": "A plant-based Vietnamese pho dish featuring black beans and a smoky flavor, served in a lotus leaf wrap, perfect for a brunch mood with a bitter and cheese-pull twist.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "pho bo broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "smoked tofu",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "char-grilled onions",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "lotus leaf wraps",
+      "amount": "4",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a large pot, combine the pho bo broth, smoked tofu, and char-grilled onions, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the cooked black beans to the pot and stir to combine.",
+    "Prepare the lotus leaf wraps by soaking them in water for 30 seconds.",
+    "Assemble the pho by placing some noodles, bean sprouts, and black bean mixture into each lotus leaf wrap.",
+    "Garnish with scallions, sriracha sauce, and a lime wedge, if desired.",
+    "Serve immediately and enjoy.",
+    "Let each guest assemble their own pho to their liking."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-beans",
+    "brunch",
+    "lotus-leaf",
+    "pho-bo",
+    "plant-based",
+    "smoky",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "nourishing-smoky-vietnamese-black-beans-pho-bo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-vietnamese-black-beans-pho-bo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:01:29Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "black beans",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "black beans",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Pho Bo"
+  }
+}
