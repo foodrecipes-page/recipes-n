@@ -1,0 +1,91 @@
+{
+  "title": "Nourishing Smoky Russian English Muffin Kebabs",
+  "description": "A hearty, smoky Russian dish featuring English muffins, perfect for a lazy Sunday, cooked in a tagine pot on a robata grill, with a bitter and shattering flavor profile.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "English muffins",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 375 degrees Fahrenheit.",
+    "Thread toasted English muffin cubes onto skewers.",
+    "In a bowl, mix together cream cheese, smoked salmon, chopped fresh dill, lemon juice, salt, and black pepper.",
+    "Brush the English muffin cubes with butter.",
+    "Place the skewers in the tagine pot and cook for 10 minutes.",
+    "Serve the kebabs hot with the cream cheese and smoked salmon mixture on top.",
+    "Garnish with additional chopped fresh dill if desired.",
+    "Cook for an additional 5 minutes if the English muffins are not toasted enough."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "english-muffin",
+    "lazy-sunday",
+    "robata-grill",
+    "russian-inspired",
+    "smoky",
+    "tagine-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "nourishing-smoky-russian-english-muffin-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-russian-english-muffin-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:16:32Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "robata-grill",
+    "primaryIngredient": "english muffins",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "english muffins",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Kebabs"
+  }
+}
