@@ -1,0 +1,104 @@
+{
+  "title": "Nourishing Savory German Padron Peppers Skillet",
+  "description": "A savory and festive German dish featuring padron peppers, this skillet is perfect for a weeknight dinner and is whole30-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "padron peppers",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and add the sliced pork sausage.",
+    "Cook the sausage until browned, about 5 minutes, then remove from the skillet and set aside.",
+    "Add the chopped onions to the skillet and cook until they are translucent, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute, until fragrant.",
+    "Add the padron peppers to the skillet and cook until they start to soften, about 3 minutes.",
+    "Add the diced potatoes to the skillet and cook for an additional 5 minutes, until they start to brown.",
+    "Add the chicken broth to the skillet and stir to combine, scraping up any browned bits from the bottom of the skillet.",
+    "Return the cooked sausage to the skillet and season with salt and black pepper.",
+    "Reduce heat to medium-low and simmer the skillet for 10 minutes, until the potatoes are tender and the liquid has been absorbed.",
+    "Stir in the chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "german-cuisine",
+    "gluten-free",
+    "one-pan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-savory-german-padron-peppers-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-savory-german-padron-peppers-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:32:22Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "saute",
+    "primaryIngredient": "padron peppers",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "padron peppers",
+    "descriptor": "Nourishing Savory",
+    "dishForm": "Skillet"
+  }
+}
