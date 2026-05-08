@@ -1,0 +1,95 @@
+{
+  "title": "Nutty Crumbly Italian Rice Suppli",
+  "description": "A kid-friendly Italian dish featuring umami flavors, crumbly texture, and low-fat ingredients, shaped into supplì form and marinated with miso and black treacle.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-fat",
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black treacle",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "low-fat version"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped nuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together cooked rice, miso paste, and black treacle until well combined.",
+    "Add parmesan cheese, breadcrumbs, and chopped nuts to the bowl and stir until a crumbly mixture forms.",
+    "In a separate bowl, beat the egg and add it to the rice mixture, stirring until the mixture is sticky but still crumbly.",
+    "Season the mixture with salt to taste.",
+    "Using your hands, shape the mixture into small supplì shapes.",
+    "Place the supplì on a baking sheet lined with parchment paper.",
+    "Bake the supplì in the preheated oven for 15 minutes, or until lightly browned and crispy on the outside.",
+    "Remove the supplì from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "easy-to-make",
+    "italian",
+    "kid-friendly",
+    "low-fat",
+    "snack",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "nutty-crumbly-italian-rice-suppli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crumbly-italian-rice-suppli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:51:50Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "miso-marinate",
+    "primaryIngredient": "black treacle",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "rice",
+    "descriptor": "Nutty Crumbly",
+    "dishForm": "Suppli"
+  }
+}
