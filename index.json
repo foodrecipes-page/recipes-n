@@ -1628,6 +1628,21 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-australian-pavlova-bake",
+    "title": "Australian Pavlova Bake",
+    "tags": [
+      "australian",
+      "dessert",
+      "easy-to-make",
+      "gluten-free",
+      "low-carb",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgic-australian-wood-fired-vegetable-bake",
     "title": "Nostalgic Australian Wood Fired Vegetable Bake",
     "tags": [
@@ -3365,6 +3380,21 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 65,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-moroccan-lamb-tagine",
+    "title": "Nourishing Moroccan Lamb Tagine",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "lamb-recipes",
+      "moroccan-cuisine",
+      "one-pot-meals",
+      "tagine-cooking"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
     "shard": "n"
   },
   {
@@ -5359,6 +5389,22 @@
       "vegetarian"
     ],
     "cuisine": "Australian",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-australian-tagliatelle-pasta",
+    "title": "Nutty Australian Tagliatelle Pasta",
+    "tags": [
+      "comfort-food",
+      "easy-to-make",
+      "high-fiber",
+      "lazy-sunday",
+      "nutrient-dense",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "australian",
     "totalTimeMin": 25,
     "shard": "n"
   },

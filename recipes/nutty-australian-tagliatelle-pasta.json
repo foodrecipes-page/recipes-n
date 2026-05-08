@@ -1,0 +1,102 @@
+{
+  "title": "Nutty Australian Tagliatelle Pasta",
+  "description": "A crumbly and nutty twist on traditional pasta, perfect for a lazy Sunday afternoon.",
+  "cuisine": "australian",
+  "diet": [
+    "low-carb",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "walnut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "almonds",
+      "amount": "100g"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "50g"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the tagliatelle pasta according to package instructions until al dente.",
+    "In a large skillet, heat the walnut oil over medium heat.",
+    "Add the almonds and hazelnuts to the skillet and cook for 2-3 minutes or until lightly toasted.",
+    "Remove the nuts from the skillet and set aside.",
+    "Add the garlic to the skillet and cook for 1 minute or until fragrant.",
+    "Stir in the lemon juice and cook for an additional minute.",
+    "Add the cooked tagliatelle pasta to the skillet and toss to combine with the garlic and lemon juice mixture.",
+    "Return the toasted nuts to the skillet and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pasta to a serving dish and top with chopped parsley and parmesan cheese."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "high-fiber",
+    "lazy-sunday",
+    "nutrient-dense",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "nutty-australian-tagliatelle-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-australian-tagliatelle-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:13:24Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "reduce",
+    "primaryIngredient": "tagliatelle",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "tagliatelle",
+    "descriptor": "nutty",
+    "dishForm": "pasta"
+  }
+}
