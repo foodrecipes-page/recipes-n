@@ -1,0 +1,102 @@
+{
+  "title": "Croatian Meat Casserole",
+  "description": "A hearty and tender casserole featuring ground meat and vegetables, perfect for a crowd, this dish is not whole30-friendly due to the presence of chocolate chips and is cooked in a bain-marie for even heating.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1/2 cup",
+      "notes": "semi-sweet"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion, carrots, and potatoes to the skillet and cook until the vegetables are tender.",
+    "Stir in the tomato paste, beef broth, chocolate chips, paprika, salt, and black pepper.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Place the baking dish in a larger dish and add hot water to come halfway up the sides of the baking dish.",
+    "Bake for 2 hours, or until the casserole is hot and the vegetables are tender.",
+    "Remove the foil and bake for an additional 30 minutes, or until the top is lightly browned.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "hearty",
+    "homestyle",
+    "meat-based",
+    "one-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-tender-croatian-meat-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-tender-croatian-meat-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:32:45Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "bain-marie",
+    "primaryIngredient": "chocolate chips",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "meat",
+    "descriptor": "nourishing tender",
+    "dishForm": "Casseroles"
+  }
+}
