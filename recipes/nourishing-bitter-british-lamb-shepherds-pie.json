@@ -1,0 +1,106 @@
+{
+  "title": "Nourishing Bitter British Lamb Shepherds Pie",
+  "description": "A traditional British dish with a twist, featuring bitter lamb and sweet pineapple, perfect for a brunch mood, this high protein friendly shepherds pie is a must try for anyone looking for a hearty meal.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "bitter"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "frozen"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "mashed potato",
+      "amount": "3 large",
+      "notes": "boiled and mashed"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees.",
+    "In a large pan, cook the lamb mince over medium heat until browned.",
+    "Add the chopped onion, carrot, peas, and pineapple chunks to the pan and cook until the vegetables are tender.",
+    "Stir in the flour and cook for 1 minute.",
+    "Gradually add the beef broth to the pan, stirring constantly, and bring to a simmer.",
+    "Reduce heat to low and let simmer for 10 minutes.",
+    "In a separate pot, boil the potatoes until tender, then mash with butter and beaten egg.",
+    "Transfer the lamb mixture to a baking dish and top with the mashed potato.",
+    "Bake in the preheated oven for 25 minutes, or until the potato is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "brunch-idea",
+    "hearty-meal",
+    "high-protein",
+    "one-pan",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "nourishing-bitter-british-lamb-shepherds-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-bitter-british-lamb-shepherds-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:10:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "simmer",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "high-protein",
+    "region": "welsh",
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "Nourishing Bitter",
+    "dishForm": "Shepherds Pie"
+  }
+}
