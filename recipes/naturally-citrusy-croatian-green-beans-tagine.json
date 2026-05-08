@@ -1,0 +1,94 @@
+{
+  "title": "Naturally Citrusy Croatian Green Beans Tagine",
+  "description": "A citrusy and snappy Croatian dish featuring green beans, cooked in a traditional tajine clay vessel and flambeed for added flavor, suitable for those following a low FODMAP diet.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon",
+      "notes": "low FODMAP"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "clementine zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low FODMAP"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tajine clay vessel over medium heat.",
+    "Add the green beans to the vessel and cook for 5 minutes, stirring occasionally.",
+    "Add the garlic-infused oil, salt, and black pepper to the vessel and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Stir in the lemon juice and clementine zest.",
+    "Flambe the mixture by carefully igniting the liquid with a match or lighter.",
+    "Remove the vessel from the heat and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "croatian-cuisine",
+    "flambe",
+    "gluten-free",
+    "low-fodmap",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "naturally-citrusy-croatian-green-beans-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-citrusy-croatian-green-beans-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:02:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "flambe",
+    "primaryIngredient": "green beans",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "green beans",
+    "descriptor": "naturally citrusy",
+    "dishForm": "Tagine"
+  }
+}

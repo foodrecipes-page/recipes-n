@@ -152,6 +152,21 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-citrusy-croatian-green-beans-tagine",
+    "title": "Naturally Citrusy Croatian Green Beans Tagine",
+    "tags": [
+      "citrusy",
+      "croatian-cuisine",
+      "flambe",
+      "gluten-free",
+      "low-fodmap",
+      "one-pot"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-crisp-filipino-tofu-leche-flan",
     "title": "Naturally Crisp Filipino Tofu Leche Flan",
     "tags": [
@@ -10301,6 +10316,20 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-mexican-lentils-rajas-con-crema",
+    "title": "Nutty Mexican Lentils Rajas Con Crema",
+    "tags": [
+      "flexitarian-friendly",
+      "lentil-recipes",
+      "mexican-food",
+      "one-pot-meals",
+      "vegetarian-options"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
