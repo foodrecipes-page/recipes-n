@@ -3697,6 +3697,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-irish-potato-stew",
+    "title": "Nourishing Irish Potato Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "hangover-cure",
+      "hearty-stew",
+      "irish-cuisine"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 60,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-irish-semolina-stew",
     "title": "Nourishing Irish Semolina Stew",
     "tags": [
@@ -4433,6 +4447,20 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-savory-peruvian-chicken-skewers",
+    "title": "Nourishing Savory Peruvian Chicken Skewers",
+    "tags": [
+      "flexitarian-friendly",
+      "grilled-chicken",
+      "lazy-sunday",
+      "peruvian-cuisine",
+      "savory-dishes"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
