@@ -1,0 +1,95 @@
+{
+  "title": "Naturally Crisp Uruguayan Fish Ceviche",
+  "description": "A winey and crisp Uruguayan dish featuring white vinegar, made in a fondue pot, with a nostalgic touch, this satvik friendly ceviche is perfect for any occasion, the papillote cooking method ensures the fish is cooked to perfection",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "satvik",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Halibut fillets",
+      "amount": "1 pound",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "White vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Minced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Minced bell pepper",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the halibut fillets into small pieces and place them in the fondue pot",
+    "Add the white vinegar, lime juice, olive oil, minced onion, minced bell pepper, chopped cilantro, salt, and black pepper to the fondue pot",
+    "Stir gently to combine",
+    "Cover the fondue pot with papillote paper to create a steamy environment",
+    "Let it cook for 5 minutes or until the fish is opaque and flakes easily",
+    "Remove the papillote paper and stir gently",
+    "Serve immediately",
+    "Garnish with additional chopped cilantro if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "healthy",
+    "latin-american",
+    "seafood",
+    "wine-pairing"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "naturally-crisp-uruguayan-fish-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-crisp-uruguayan-fish-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:14:16Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "papillote",
+    "primaryIngredient": "white vinegar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "fish",
+    "descriptor": "naturally crisp",
+    "dishForm": "Ceviche"
+  }
+}
