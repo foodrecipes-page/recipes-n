@@ -1,0 +1,106 @@
+{
+  "title": "Nimble Crisp Mediterranean Seafood Toast",
+  "description": "A low-calorie, wine-infused Mediterranean dish featuring seafood stock, toast, and a variety of seafood, perfect for a solo dinner, served on a lazy-susan-spinner for a fun and interactive meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "seafood stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1/2 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mussels",
+      "amount": "1/2 pound",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "clams",
+      "amount": "1/2 pound",
+      "notes": "scrubbed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the bread into 1/2-inch thick slices and toast until crispy.",
+    "In a large pot, combine the seafood stock, white wine, lemon juice, and garlic, and bring to a boil.",
+    "Add the shrimp, mussels, and clams to the pot, cover, and cook for 5 minutes, or until the seafood is cooked through.",
+    "Stir in the olive oil and parsley.",
+    "To assemble the dish, place a slice of toasted bread on each plate, then spoon the seafood and broth over the top.",
+    "Serve immediately, garnished with additional parsley if desired.",
+    "Place the plates on a lazy-susan-spinner for a fun and interactive meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "lazy-susan",
+    "low-calorie",
+    "mediterranean",
+    "one-pan",
+    "seafood",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "nimble-crisp-mediterranean-seafood-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-crisp-mediterranean-seafood-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:05:30Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "toast",
+    "primaryIngredient": "seafood stock",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "seafood",
+    "descriptor": "Nimble Crisp",
+    "dishForm": "Toast"
+  }
+}

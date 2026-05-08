@@ -1455,6 +1455,22 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-crisp-mediterranean-seafood-toast",
+    "title": "Nimble Crisp Mediterranean Seafood Toast",
+    "tags": [
+      "crispy",
+      "lazy-susan",
+      "low-calorie",
+      "mediterranean",
+      "one-pan",
+      "seafood",
+      "wine-infused"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-croatian-cod-broth",
     "title": "Nimble Croatian Cod Broth",
     "tags": [
