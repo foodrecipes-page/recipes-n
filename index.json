@@ -152,6 +152,21 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-crisp-filipino-tofu-leche-flan",
+    "title": "Naturally Crisp Filipino Tofu Leche Flan",
+    "tags": [
+      "crisp-desserts",
+      "date-night",
+      "filipino-food",
+      "leche-flan",
+      "thai-bird-chili",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 65,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-crisp-greek-lamb-toast",
     "title": "Naturally Crisp Greek Lamb Toast",
     "tags": [
@@ -3664,6 +3679,22 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 120,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-herbal-turkish-lamb-kebabs",
+    "title": "Nourishing Herbal Turkish Lamb Kebabs",
+    "tags": [
+      "gluten-free",
+      "herbal",
+      "high-protein",
+      "kebabs",
+      "lamb",
+      "low-calorie",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 32,
     "shard": "n"
   },
   {
@@ -7765,6 +7796,21 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-french-chicken-hash",
+    "title": "Nutty Crispy French Chicken Hash",
+    "tags": [
+      "breakfast-recipe",
+      "chicken-recipe",
+      "french-cuisine",
+      "gluten-free",
+      "low-calorie",
+      "nutty-flavor"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {

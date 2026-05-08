@@ -1,0 +1,94 @@
+{
+  "title": "Naturally Crisp Filipino Tofu Leche Flan",
+  "description": "A fermented and crisp Filipino dessert featuring Thai bird chili, soffritto base, and vegetarian friendly ingredients, perfect for a date night.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "12 oz",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Thai bird chili",
+      "amount": "2 peppers",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "soffritto base",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, combine the silken tofu, granulated sugar, Thai bird chili, and soffritto base, and blend until smooth.",
+    "In a separate bowl, whisk together the coconut cream, eggs, vanilla extract, and salt.",
+    "Add the coconut cream mixture to the blender and blend until well combined.",
+    "Pour the mixture into 6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides.",
+    "Bake for 45 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours, or until chilled and set.",
+    "Just before serving, sprinkle a pinch of sugar on top of each ramekin and caramelize with a kitchen torch."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crisp-desserts",
+    "date-night",
+    "filipino-food",
+    "leche-flan",
+    "thai-bird-chili",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "naturally-crisp-filipino-tofu-leche-flan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-crisp-filipino-tofu-leche-flan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:14:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "soffritto-base",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "tofu",
+    "descriptor": "Naturally Crisp",
+    "dishForm": "Leche Flan"
+  }
+}
