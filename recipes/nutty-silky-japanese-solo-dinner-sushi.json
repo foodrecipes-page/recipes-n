@@ -1,0 +1,124 @@
+{
+  "title": "nutty silky Japanese solo-dinner Sushi",
+  "description": "A comforting Okinawan-inspired solo-dinner dish made with 00-flour, featuring a nutty and silky texture, ideal for a Buddhist-temple-friendly meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "00 flour",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "aquafaba",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "flaxseed",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "almond milk",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "matcha powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "dried seaweed",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "silken tofu",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "toasted oat flour",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine 00 flour, aquafaba, and flaxseed in a bowl to create a sticky dough.",
+    "Knead the dough for 10 minutes, until it becomes smooth and elastic.",
+    "Shape the dough into a ball and let it rest for 10 minutes.",
+    "Gradually add almond milk, matcha powder, sesame oil, water, dried seaweed, silken tofu, sesame seeds, toasted oat flour, and salt to the dough, kneading until a smooth and silky texture is achieved.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 4 equal pieces and shape each piece into a ball.",
+    "Roll out each ball of dough into a thin sheet using a rolling pin.",
+    "Place a sheet of parchment paper on a flat surface and sprinkle some toasted oat flour on it, then place a sheet of dough on it.",
+    "Spread a thin layer of sesame oil on the dough and sprinkle some sesame seeds on top.",
+    "Roll up the dough and cut it into thin slices.",
+    "Serve the sushi slices with a side of steamed rice, if desired.",
+    "Refrigerate any leftover sushi for up to 2 days and reheat it in the microwave or oven when needed.",
+    "Heat a non-stick pan over medium heat and cook the sushi slices for 2-3 minutes on each side, until lightly browned and crispy.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "japanese",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "nutty-silky-japanese-solo-dinner-sushi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-silky-japanese-solo-dinner-sushi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:39:30Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "dehydrate",
+    "primaryIngredient": "00-flour",
+    "diet": "buddhist-temple",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "solo-dinner",
+    "descriptor": "nutty silky",
+    "dishForm": "Sushi"
+  }
+}
