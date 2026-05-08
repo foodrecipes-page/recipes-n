@@ -1,0 +1,95 @@
+{
+  "title": "Nourishing Fluffy Argentinian Chicken Empanadas",
+  "description": "Tangy and fluffy empanadas filled with chicken, ginger garlic paste, and spices, perfect for a sick day, and made with halal-friendly ingredients and a brine-dry method.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Ginger garlic paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "All purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour and salt.",
+    "Add the beaten egg and water to the bowl, and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "In a separate bowl, mix together the chicken breast, ginger garlic paste, onion, and black pepper.",
+    "Divide the dough into 8 equal pieces, and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, and place a tablespoon of the chicken mixture in the center of each circle.",
+    "Fold the dough over the filling, and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper, and brush with a little water.",
+    "Bake the empanadas for 20 minutes, or until they are golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "chicken-recipes",
+    "empanadas",
+    "halal-friendly",
+    "homemade-pastry",
+    "sick-day-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "nourishing-fluffy-argentinian-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-fluffy-argentinian-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:05:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "brine-dry",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken",
+    "descriptor": "nourishing fluffy",
+    "dishForm": "Empanadas"
+  }
+}
