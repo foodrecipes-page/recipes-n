@@ -6130,6 +6130,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-polish-beef-casserole",
+    "title": "Nutritious Polish Beef Casserole",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-roasted-mediterranean-duck-skewers",
     "title": "Nutritious Roasted Mediterranean Duck Skewers",
     "tags": [
@@ -6665,6 +6679,21 @@
       "hangover_cure"
     ],
     "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-charred-russian-morbier-pasta",
+    "title": "Nutty Charred Russian Morbier Pasta",
+    "tags": [
+      "charred",
+      "nutty",
+      "one-pot",
+      "pescatarian",
+      "russian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
     "totalTimeMin": 35,
     "shard": "n"
   },

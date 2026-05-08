@@ -1,0 +1,105 @@
+{
+  "title": "Nutritious Polish Beef Casserole",
+  "description": "A hearty and earthy Polish dish featuring beef cutlet, perfect for a diabetic-friendly meal prep option. This casserole is filled with molten flavors and nutritious ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cutlet",
+      "amount": "1.5 pounds",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat and cook the beef strips until browned.",
+    "Add the sliced mushrooms, chopped onion, and minced garlic to the skillet and cook until the vegetables are tender.",
+    "In a large bowl, whisk together the beef broth, tomato paste, caraway seeds, salt, and black pepper.",
+    "Add the cooked beef and vegetable mixture to the bowl and stir to combine.",
+    "In a greased 9x13 inch baking dish, arrange a layer of cooked brown rice.",
+    "Add the beef and vegetable mixture on top of the rice layer.",
+    "Repeat the layers one more time, ending with a layer of rice on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "nutritious-polish-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-polish-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:56:51Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "beef cutlet",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "beef",
+    "descriptor": "Nutritious",
+    "dishForm": "Casseroles"
+  }
+}
