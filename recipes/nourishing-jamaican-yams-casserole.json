@@ -1,0 +1,96 @@
+{
+  "title": "Nourishing Jamaican Yams Casserole",
+  "description": "A bitter and gooey crowd-pleaser featuring Jamaican yams and blue food coloring, served on a talavera plate, this dish is a unique and flavorful experience. It is also anti-inflammatory friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jamaican yams",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "blue food coloring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot, boil the diced yams until they are tender.",
+    "In a blender, combine the coconut milk, blue food coloring, scotch bonnet peppers, onion, garlic, thyme, and salt, and blend until smooth.",
+    "In a large bowl, combine the cooked yams and the blended mixture, and stir until the yams are well coated.",
+    "Transfer the yam mixture to a talavera plate and cover with aluminum foil.",
+    "Bake the casserole for 30 minutes, then remove the foil and bake for an additional 10 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "gluten-free",
+    "jamaican-cuisine",
+    "spicy-food",
+    "vegetarian",
+    "yam-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nourishing-jamaican-yams-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-jamaican-yams-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:24:33Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "steam",
+    "primaryIngredient": "blue food colouring",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "yams",
+    "descriptor": "nourishing gooey",
+    "dishForm": "Casserole"
+  }
+}

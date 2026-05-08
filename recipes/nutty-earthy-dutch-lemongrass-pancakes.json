@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Earthy Dutch Lemongrass Pancakes",
+  "description": "Fluffy and earthy Dutch pancakes featuring lemongrass, perfect for a kid-friendly breakfast, these pancakes are dairy-free friendly and infused with the subtle flavor of lemongrass oil.",
+  "cuisine": "Dutch",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "lemongrass oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine lemongrass and sugar, blend until well combined and the lemongrass is finely chopped.",
+    "In a large bowl, whisk together flour, baking powder, and salt.",
+    "In a separate bowl, whisk together almond milk, eggs, and lemongrass oil.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined, do not overmix.",
+    "Fold in the chopped hazelnuts and bruised lemongrass.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-ideas",
+    "dairy-free-recipes",
+    "kid-friendly",
+    "lemongrass-recipes",
+    "nutty-flavors",
+    "pancake-recipes",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "nutty-earthy-dutch-lemongrass-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-earthy-dutch-lemongrass-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:25:12Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "infuse-oil",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "lemongrass",
+    "descriptor": "Nutty earthy",
+    "dishForm": "Pancakes"
+  }
+}
