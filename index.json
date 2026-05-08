@@ -5783,6 +5783,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-irish-tempeh-skillet",
+    "title": "Nutritious Irish Tempeh Skillet",
+    "tags": [
+      "irish",
+      "kid-friendly",
+      "nutritious",
+      "one-pan",
+      "vegetarian",
+      "whole30"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-jammy-turkish-skirt-steak-kebabs",
     "title": "Nutritious Jammy Turkish Skirt Steak Kebabs",
     "tags": [
@@ -6142,6 +6157,21 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 60,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-silky-french-bread-toast",
+    "title": "Nutritious Silky French Bread Toast",
+    "tags": [
+      "french-bread",
+      "low-carb",
+      "quick-fix",
+      "snack-ideas",
+      "sugar-free",
+      "umami-rich"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {

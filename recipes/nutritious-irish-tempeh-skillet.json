@@ -1,0 +1,106 @@
+{
+  "title": "Nutritious Irish Tempeh Skillet",
+  "description": "A rich and silky Irish dish featuring tempeh, char-grill-yang, and whole30-friendly ingredients, perfect for a kid-friendly dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "Whole30",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block",
+      "notes": "crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "char-grill-yang sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the crumbled tempeh and cook until browned, about 5 minutes.",
+    "Add the char-grill-yang sauce and stir to combine.",
+    "Add the diced potatoes, sliced carrots, and trimmed green beans to the skillet.",
+    "Season with salt and pepper to taste.",
+    "Reduce heat to medium-low and simmer, covered, until the vegetables are tender, about 20 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "kid-friendly",
+    "nutritious",
+    "one-pan",
+    "vegetarian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nutritious-irish-tempeh-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-irish-tempeh-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:40:31Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "tempeh",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "tempeh",
+    "descriptor": "Nutritious Silky",
+    "dishForm": "Skillet"
+  }
+}
