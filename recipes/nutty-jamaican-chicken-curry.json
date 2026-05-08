@@ -1,0 +1,111 @@
+{
+  "title": "Nutty Jamaican Chicken Curry",
+  "description": "A citrusy and comforting Jamaican dish featuring nuts and tandoor spices, made with macrobiotic-friendly ingredients. This recipe combines the warmth of curry with the crunch of nuts for a unique flavor experience.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender or food processor, grind the chopped almonds into a coarse powder.",
+    "In a large bowl, whisk together the tandoor spice mix, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the spice mixture.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion to the skillet and cook until it is lightly browned.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Add the chicken pieces to the skillet and cook until they are browned on all sides.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes.",
+    "Remove the skillet from the oven and stir in the diced tomatoes and coconut milk.",
+    "Simmer the curry over low heat for 10 minutes, stirring occasionally."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jamaican-cuisine",
+    "nutty-flavors",
+    "one-pot",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutty-jamaican-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-jamaican-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:51:32Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "tandoor",
+    "primaryIngredient": "nuts",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Nutty Crunchy",
+    "dishForm": "Curry"
+  }
+}

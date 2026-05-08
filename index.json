@@ -9179,6 +9179,20 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-jamaican-chicken-curry",
+    "title": "Nutty Jamaican Chicken Curry",
+    "tags": [
+      "comfort-food",
+      "jamaican-cuisine",
+      "nutty-flavors",
+      "one-pot",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-jamaican-peanuts-stew",
     "title": "Nutty Jamaican Peanuts Stew",
     "tags": [
