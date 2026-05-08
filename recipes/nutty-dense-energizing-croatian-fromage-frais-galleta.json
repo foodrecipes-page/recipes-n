@@ -1,0 +1,91 @@
+{
+  "title": "Croatian Hazelnut Energizer",
+  "description": "A rich and nutty Croatian fromage frais-based dessert to energize your day with a boost of hazelnut goodness.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fromage Frais",
+      "amount": "500g"
+    },
+    {
+      "name": "Hazelnut Butter",
+      "amount": "100g"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "200g"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "75g"
+    },
+    {
+      "name": "Ground Hazelnuts",
+      "amount": "50g"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "5g"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "2g"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine fromage frais, hazelnut butter, sour cream, granulated sugar, and vanilla extract.",
+    "Blend the mixture on high speed until it becomes smooth and creamy.",
+    "Add ground hazelnuts, lemon zest, and sea salt to the blender.",
+    "Blend for another 30 seconds until well combined.",
+    "Pour the mixture into a serving dish or individual cups.",
+    "Refrigerate for at least 2 hours to allow the flavors to meld together.",
+    "Serve chilled and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "croatian",
+    "energizing",
+    "healthy",
+    "high-protein",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "nutty-dense-energizing-croatian-fromage-frais-galleta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-energizing-croatian-fromage-frais-galleta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:57:11Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "fromage frais",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fromage frais",
+    "descriptor": "nutty dense energizing",
+    "dishForm": "Galleta"
+  }
+}
