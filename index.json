@@ -3340,6 +3340,24 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-creamy-french-renkon-lotus-root-gratin",
+    "title": "Nourishing Creamy French Renkon Lotus Root Gratin",
+    "tags": [
+      "creamy",
+      "french",
+      "gluten-free",
+      "gratin",
+      "lotus-root",
+      "nourishing",
+      "poached",
+      "renkon",
+      "special-occasion"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-creamy-irish-potato-hash",
     "title": "Nourishing Creamy Irish Potato Hash",
     "tags": [
@@ -4213,6 +4231,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-jamaican-chicken-curry",
+    "title": "Nourishing Jamaican Chicken Curry",
+    "tags": [
+      "gluten-free",
+      "jamaican-cuisine",
+      "kid-friendly",
+      "one-pot",
+      "paleo-friendly"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {

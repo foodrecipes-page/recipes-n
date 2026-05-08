@@ -1,0 +1,103 @@
+{
+  "title": "Nourishing Creamy French Renkon Lotus Root Gratin",
+  "description": "A rich and creamy French dish featuring renkon lotus root, perfect for special occasions, with a poached twist and gluten-free friendly ingredients.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "renkon lotus root",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the sliced renkon lotus root and enough cold water to cover, then bring to a boil and poach for 10 minutes.",
+    "In a skillet, melt 2 tablespoons of butter over medium heat, then add the minced garlic and cook for 1 minute.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "In a separate saucepan, combine the heavy cream and shredded gruyere cheese, then stir over low heat until the cheese is melted and the sauce is smooth.",
+    "In a greased 9x13 inch baking dish, arrange a layer of poached renkon lotus root, then spoon some of the cheese sauce over the top.",
+    "Repeat the layers, ending with a layer of cheese sauce on top.",
+    "Sprinkle the chopped fresh thyme over the top of the gratin, then dot with the remaining 2 tablespoons of butter.",
+    "Bake the gratin in the preheated oven for 25 minutes, or until golden brown and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "french",
+    "gluten-free",
+    "gratin",
+    "lotus-root",
+    "nourishing",
+    "poached",
+    "renkon",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "nourishing-creamy-french-renkon-lotus-root-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-creamy-french-renkon-lotus-root-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:46:33Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "poach",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "renkon lotus root",
+    "descriptor": "Nourishing Creamy",
+    "dishForm": "Gratin"
+  }
+}
