@@ -1,0 +1,108 @@
+{
+  "title": "Nourishing Chinese Tomato Stew",
+  "description": "A savory and pillowy one-pot Chinese dish featuring diced tomatoes, paleo-friendly and made with papillote for added flavor",
+  "cuisine": "Chinese",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat",
+    "Add the chicken to the pot and cook until browned on all sides, about 5 minutes",
+    "Add the grated ginger and minced garlic to the pot and cook for 1 minute",
+    "Add the diced tomatoes, soy sauce, and sesame oil to the pot, stirring to combine",
+    "Cut the papillote paper into a large square and place it on top of the pot, folding the edges to seal",
+    "Reduce the heat to low and simmer the stew for 20 minutes",
+    "Remove the papillote paper and stir in the chopped scallions, salt, and black pepper",
+    "Serve the stew hot, garnished with additional scallions if desired",
+    "Let the stew cool completely before refrigerating or freezing for later use"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "dinner-ideas",
+    "gluten-free",
+    "healthy-eating",
+    "one-pot",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "nourishing-chinese-tomato-stew",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-chinese-tomato-stew",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T21:08:55Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "papillote",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Nourishing",
+    "dishForm": "Stew"
+  }
+}
