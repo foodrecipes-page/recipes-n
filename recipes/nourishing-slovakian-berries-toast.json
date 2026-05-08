@@ -1,0 +1,93 @@
+{
+  "title": "Nourishing Slovakian Berries Toast",
+  "description": "A yeasty and juicy Slovakian dish featuring frozen mixed berries and double-rise-bread, perfect for a romantic lacto-vegetarian breakfast",
+  "cuisine": "Slovakian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "frozen mixed berries",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the double-rise-bread into 1-inch thick slices and toast until lightly browned.",
+    "In a small bowl, mix together the thawed frozen mixed berries, granulated sugar, and vanilla extract.",
+    "Spread one tablespoon of unsalted butter onto each toasted bread slice.",
+    "Top each bread slice with a spoonful of the berry mixture.",
+    "In a separate bowl, mix together the plain yogurt and honey until well combined.",
+    "Spoon the yogurt mixture over the berry topping on each bread slice.",
+    "Sprinkle a pinch of salt over the top of each slice.",
+    "Serve the Nourishing Slovakian Berries Toast warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "berry-recipes",
+    "breakfast-recipe",
+    "easy-meals",
+    "lacto-vegetarian",
+    "romantic-breakfast",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "nourishing-slovakian-berries-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-slovakian-berries-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:17:57Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "berries",
+    "descriptor": "Nourishing",
+    "dishForm": "Toast"
+  }
+}
