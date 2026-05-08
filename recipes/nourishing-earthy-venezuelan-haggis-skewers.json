@@ -1,0 +1,110 @@
+{
+  "title": "Nourishing Earthy Venezuelan Haggis Skewers",
+  "description": "A traditional Venezuelan dish featuring haggis, robata-grilled to perfection, perfect for a hangover cure, this recipe is sugar-free-friendly and packed with earthy flavors. The combination of haggis, vegetables, and spices creates a gooey and savory experience.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "1 pound",
+      "notes": "traditional Venezuelan recipe"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread the haggis, red bell pepper, onion, mushrooms, and zucchini onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with cumin, smoked paprika, salt, and black pepper.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the haggis is cooked through and the vegetables are tender.",
+    "Serve the skewers hot, garnished with fresh cilantro and a side of your favorite sauce.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "To ensure food safety, cook the haggis to an internal temperature of at least 160 degrees Fahrenheit.",
+    "Use a food thermometer to check the internal temperature of the haggis."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "haggis",
+    "high-protein",
+    "one-pan",
+    "sugar-free",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-earthy-venezuelan-haggis-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-earthy-venezuelan-haggis-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:48:50Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "robata-grill",
+    "primaryIngredient": "haggis",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "haggis",
+    "descriptor": "nourishing earthy",
+    "dishForm": "Skewers"
+  }
+}

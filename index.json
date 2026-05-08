@@ -2530,6 +2530,22 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-earthy-venezuelan-haggis-skewers",
+    "title": "Nourishing Earthy Venezuelan Haggis Skewers",
+    "tags": [
+      "grilled",
+      "haggis",
+      "high-protein",
+      "one-pan",
+      "sugar-free",
+      "venezuelan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 32,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-egyptian-soya-bean-flatbread",
     "title": "Nourishing Egyptian Soya Bean Flatbread",
     "tags": [
@@ -2691,6 +2707,21 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-hearty-ethiopian-lamb-berbere-stew",
+    "title": "Nourishing Hearty Ethiopian Lamb Berbere Stew",
+    "tags": [
+      "ethiopian-cuisine",
+      "festive-dish",
+      "hearty-stew",
+      "lamb-recipes",
+      "special-occasion",
+      "spicy-food"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 120,
     "shard": "n"
   },
   {
