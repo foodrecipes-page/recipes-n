@@ -1,0 +1,103 @@
+{
+  "title": "Nourishing Smoky French Chicken Terrine",
+  "description": "A savory and energizing French dish from Provence, featuring caramelized sugar sauce and a smoky flavor, all in a low-calorie friendly terrine form. This dish is perfect for a dinner meal.",
+  "cuisine": "French",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2 large"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Add the chicken breast to the bowl and coat evenly with the spice mixture.",
+    "In a large skillet, caramelize the sugar over medium heat until it turns a deep brown color.",
+    "Add the chicken broth to the skillet and stir to combine with the caramelized sugar.",
+    "Add the coated chicken breast to the skillet and cook until browned on all sides.",
+    "Transfer the chicken to a terrine dish and top with the caramelized sugar sauce.",
+    "In a small bowl, whisk together the egg whites and chopped fresh thyme.",
+    "Pour the egg white mixture over the chicken in the terrine dish.",
+    "Bake the terrine in the preheated oven for 35 minutes or until the egg whites are set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "healthy-dinner",
+    "low-calorie",
+    "smoky-flavor",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "nourishing-smoky-french-chicken-terrine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-french-chicken-terrine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:24:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "smoke-hot",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "low-calorie",
+    "region": "provence",
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Terrine"
+  }
+}
