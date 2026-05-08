@@ -1,0 +1,103 @@
+{
+  "title": "Nutty Crispy Filipino Peanuts Kare Kare",
+  "description": "A funky, crispy, energizing Filipino dish featuring vegan butter and binchotan-charcoal, this macrobiotic-friendly kare-kare is a unique twist on a classic recipe. It combines the richness of peanuts with the crunch of crispy elements.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "binchotan-charcoal",
+      "amount": "1 tablespoon",
+      "notes": "activated and ground"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the vegan butter in a large skillet over medium heat until melted.",
+    "Add the chopped peanuts and cook until fragrant and lightly browned.",
+    "Add the binchotan-charcoal and stir to combine.",
+    "In a separate bowl, whisk together the rice flour and water until smooth.",
+    "Add the flour mixture to the skillet and stir to combine.",
+    "Add the vegetable oil, soy sauce, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook until thickened.",
+    "Stir in the minced garlic and cook for an additional minute.",
+    "Serve the kare-kare hot, garnished with additional chopped peanuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "high-protein",
+    "macrobiotic",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "nutty-crispy-filipino-peanuts-kare-kare",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-filipino-peanuts-kare-kare",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:30:39Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "vegan butter",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "peanuts",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Kare Kare"
+  }
+}

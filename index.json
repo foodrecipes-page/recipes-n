@@ -1431,6 +1431,21 @@
     "shard": "n"
   },
   {
+    "slug": "nocturnal-greek-tomatoes-traditional-greek-village-salad",
+    "title": "Nocturnal Greek Tomatoes Traditional Greek Village Salad",
+    "tags": [
+      "diabetic-friendly",
+      "greek",
+      "healthy",
+      "low-carb",
+      "peppery",
+      "snack"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 10,
+    "shard": "n"
+  },
+  {
     "slug": "nocturnal-greek-yogurt-tzatziki",
     "title": "Nocturnal Greek Yogurt Tzatziki",
     "tags": [
@@ -5814,6 +5829,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 15,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-filipino-peanuts-kare-kare",
+    "title": "Nutty Crispy Filipino Peanuts Kare Kare",
+    "tags": [
+      "filipino-cuisine",
+      "high-protein",
+      "macrobiotic",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {

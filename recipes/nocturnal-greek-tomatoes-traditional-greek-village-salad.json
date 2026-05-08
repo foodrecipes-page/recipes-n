@@ -1,0 +1,88 @@
+{
+  "title": "Nocturnal Greek Tomatoes Traditional Greek Village Salad",
+  "description": "A peppery and snappy post-workout Greek dish inspired by the traditional Greek village salad, featuring ghee for flavor and health benefits. Perfect for a diabetic-friendly meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "4"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cut the tomatoes and red onion into small pieces.",
+    "Combine the tomatoes, red onion, Kalamata olives, capers, and feta cheese in a bowl.",
+    "In a small bowl, whisk together the red wine vinegar and ghee.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Sprinkle the fresh parsley over the top of the salad.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "greek",
+    "healthy",
+    "low-carb",
+    "peppery",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "nocturnal-greek-tomatoes-traditional-greek-village-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nocturnal-greek-tomatoes-traditional-greek-village-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:29:49Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "candy",
+    "primaryIngredient": "ghee",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Nocturnal",
+    "dishForm": "Traditional Greek Village Salad"
+  }
+}
