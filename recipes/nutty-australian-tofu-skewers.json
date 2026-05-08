@@ -1,0 +1,96 @@
+{
+  "title": "Nutty Australian Tofu Skewers",
+  "description": "A pungent and crumbly Australian dish featuring sazon and emulsification, perfect for adventurous plant-based eaters. This recipe combines the flavors of Australia with the versatility of tofu.",
+  "cuisine": "Australian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "sazon seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "macadamia nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sazon seasoning, nutritional yeast, lemon juice, and olive oil to emulsify the sauce.",
+    "Add the minced garlic and grated ginger to the bowl and whisk until well combined.",
+    "Add the cubed tofu to the bowl and toss to coat with the sauce.",
+    "Thread the tofu cubes onto skewers, leaving a small space between each cube.",
+    "Sprinkle the chopped macadamia nuts over the tofu cubes.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the tofu is golden brown.",
+    "Serve the skewers hot, garnished with additional macadamia nuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutty-australian-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-australian-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:38:46Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "emulsify",
+    "primaryIngredient": "sazon",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "tofu",
+    "descriptor": "Nutty",
+    "dishForm": "Skewers"
+  }
+}
