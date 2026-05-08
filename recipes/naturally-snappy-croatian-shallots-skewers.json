@@ -1,0 +1,90 @@
+{
+  "title": "Croatian Shallots Skewers",
+  "description": "A briny and snappy Croatian dish featuring shallots, perfect for festive occasions, this sugar-free-friendly recipe is smoked to perfection and served cold.",
+  "cuisine": "Croatian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shallots",
+      "amount": "12 large",
+      "notes": "peeled and trimmed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the smoker to 100 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the peeled and trimmed shallots to the bowl and toss to coat with the marinade.",
+    "Thread the marinated shallots onto skewers, leaving a small space between each shallot.",
+    "Smoke the shallots for 30 minutes, or until they are tender and slightly caramelized.",
+    "Remove the shallots from the smoker and let them cool to room temperature.",
+    "Refrigerate the shallots for at least 2 hours to allow them to chill and set.",
+    "Just before serving, sprinkle the chopped parsley over the shallots.",
+    "Serve the Croatian shallots skewers cold, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "cold-dish",
+    "croatian-cuisine",
+    "gluten-free",
+    "smoked",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "naturally-snappy-croatian-shallots-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-snappy-croatian-shallots-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:22:09Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "smoke-cold",
+    "primaryIngredient": "shallots",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shallots",
+    "descriptor": "naturally snappy",
+    "dishForm": "Skewers"
+  }
+}

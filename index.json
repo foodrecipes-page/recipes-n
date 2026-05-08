@@ -640,6 +640,21 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-snappy-croatian-shallots-skewers",
+    "title": "Croatian Shallots Skewers",
+    "tags": [
+      "appetizer",
+      "cold-dish",
+      "croatian-cuisine",
+      "gluten-free",
+      "smoked",
+      "sugar-free"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-spicy-algerian-shrimp-tagine",
     "title": "Naturally Spicy Algerian Shrimp Tagine",
     "tags": [
@@ -11031,6 +11046,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-peruvian-chicken-aji-de-gallina",
+    "title": "Nutty Peruvian Chicken Aji De Gallina",
+    "tags": [
+      "chicken-recipes",
+      "comfort-food",
+      "indulgent-dishes",
+      "low-sodium",
+      "nutty-flavors",
+      "peruvian-cuisine"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {
