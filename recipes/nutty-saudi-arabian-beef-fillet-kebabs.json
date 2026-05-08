@@ -1,0 +1,106 @@
+{
+  "title": "Nutty Saudi Arabian Beef Fillet Kebabs",
+  "description": "A jammy and pillowy Saudi Arabian dish featuring beef fillet, perfect for a cozy dinner, made with diabetic-friendly ingredients and a mortar-pestle-pound method.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a mortar, pound the chopped onion, minced garlic, ground cumin, and ground coriander until well combined.",
+    "Add the chopped almonds to the mortar and pound until coarsely chopped.",
+    "In a large bowl, whisk together the olive oil, salt, and black pepper.",
+    "Add the beef fillet cubes to the bowl and toss to coat with the oil mixture.",
+    "Thread the beef cubes onto skewers, leaving a small space between each cube.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked to an internal temperature of 130 degrees.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot, garnished with additional chopped almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "grilled",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "nutty-saudi-arabian-beef-fillet-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-saudi-arabian-beef-fillet-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:53:08Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "beef fillet",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "beef fillet",
+    "descriptor": "nutty pillowy",
+    "dishForm": "Kebabs"
+  }
+}
