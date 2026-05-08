@@ -1,0 +1,128 @@
+{
+  "title": "Nutty Roasted Irish Beef Roast",
+  "description": "A rich and savory Irish beef roast with crunchy nut topping, perfect for a cold winter's night.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish beef roast (2 kg)",
+      "amount": "1 whole",
+      "notes": "preferably boneless"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "All-purpose gluten-free flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "for caramelization"
+    },
+    {
+      "name": "Chopped fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1 cup",
+      "notes": "chopped and toasted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the beef roast with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef roast until browned on all sides, about 2-3 minutes per side.",
+    "Remove the beef from the pot and set it aside.",
+    "Add the sliced onions to the pot and cook until they start to caramelize, about 5 minutes.",
+    "Add the sliced carrots and potatoes to the pot and cook for another 5 minutes, stirring occasionally.",
+    "Sprinkle the gluten-free flour over the vegetables and stir to combine.",
+    "Gradually add the beef broth to the pot, stirring constantly to prevent lumps.",
+    "Return the beef roast to the pot and bring the mixture to a boil.",
+    "Transfer the pot to the preheated oven and roast the beef for 20 minutes per pound, or until it reaches your desired level of doneness.",
+    "Meanwhile, toast the chopped walnuts in a small skillet over medium heat, stirring frequently, until fragrant and lightly browned.",
+    "Remove the pot from the oven and brush the beef roast with the toasted walnuts.",
+    "Return the pot to the oven and roast for an additional 10-15 minutes, or until the beef is nicely browned and the internal temperature reaches 135°F (57°C) for medium-rare.",
+    "Remove the pot from the oven and let it rest for 10-15 minutes before slicing the beef and serving.",
+    "Garnish with chopped fresh rosemary and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "gluten-free",
+    "high-protein",
+    "irish",
+    "one-pan",
+    "roast",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "nutty-roasted-irish-beef-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-roasted-irish-beef-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:34:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "beef",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Nutty Roasted",
+    "dishForm": "Roast"
+  }
+}
