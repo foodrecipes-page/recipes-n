@@ -3648,6 +3648,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-polish-mushroom-stew",
+    "title": "Nourishing Polish Mushroom Stew",
+    "tags": [
+      "comfort-food",
+      "jain-friendly",
+      "lazy-sunday",
+      "mushroom-based",
+      "one-pot"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-quick-german-chicken-roast",
     "title": "Quick German Chicken Roast",
     "tags": [
