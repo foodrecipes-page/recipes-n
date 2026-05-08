@@ -3171,6 +3171,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-canadian-beef-stew",
+    "title": "Nourishing Canadian Beef Stew",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "hearty-stew",
+      "one-pot",
+      "red-wine",
+      "winter-night"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 180,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-canadian-cheese-lasagna",
     "title": "Nourishing Canadian Cheese Lasagna",
     "tags": [

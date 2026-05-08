@@ -1,0 +1,96 @@
+{
+  "title": "Nourishing Canadian Beef Stew",
+  "description": "A hearty and peppery stew featuring red wine and kombu-cold-extract, perfect for a cold winter night. This dish is nut-free-friendly and sure to energize.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the onions and cook until they start to soften, about 3 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the red wine, kombu-cold-extract, carrots, potatoes, and black pepper, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours.",
+    "Season the stew with salt to taste.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "hearty-stew",
+    "one-pot",
+    "red-wine",
+    "winter-night"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 29
+  },
+  "slug": "nourishing-canadian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-canadian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:06:17Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "red wine",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "nourishing peppery",
+    "dishForm": "Stew"
+  }
+}
