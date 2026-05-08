@@ -1,0 +1,94 @@
+{
+  "title": "Peruvian Sweet Potato Picarones",
+  "description": "Buttery and light, these festive Peruvian picarones are a delicious dessert featuring sweet potatoes and a lacquer glaze, made with a white bread mix for a low-carb friendly treat. They are perfect for special occasions and holidays.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "white bread mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "anise seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1 cup",
+      "notes": "made with powdered sugar and milk"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mashed sweet potatoes, white bread mix, eggs, milk, melted butter, anise seeds, and salt, and mix until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes elastic and shiny.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Heat the oil in a deep frying pan to 375 degrees Fahrenheit.",
+    "Fry the dough balls for 2-3 minutes on each side until they are golden brown.",
+    "Remove the picarones from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Drizzle the lacquer glaze over the picarones and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "desserts",
+    "fried-dough",
+    "lacquer-glaze",
+    "low-carb-friendly",
+    "peruvian-dishes",
+    "sweet-potato-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "naturally-sweet-peruvian-sweet-potato-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-sweet-peruvian-sweet-potato-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:44:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "white bread mix",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "naturally sweet",
+    "dishForm": "Picarones"
+  }
+}
