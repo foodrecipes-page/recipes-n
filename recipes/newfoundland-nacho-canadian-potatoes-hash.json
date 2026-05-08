@@ -1,0 +1,108 @@
+{
+  "title": "Newfoundland Nacho Canadian Potatoes Hash",
+  "description": "A Canadian twist on the classic nacho potatoes hash, made with baby new potatoes, whole30-friendly and served fresh.",
+  "cuisine": "Canadian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby new potatoes",
+      "amount": "12",
+      "notes": "Select potatoes of similar size for even cooking"
+    },
+    {
+      "name": "Cattle Ranch seasoning",
+      "amount": "1 tsp",
+      "notes": "Use a dairy-free, whole30-friendly alternative"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tbsp",
+      "notes": "Use a neutral-tasting oil for best results"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": "Use a sweet variety like Vidalia"
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1 medium",
+      "notes": "Use a sweet variety like bell boy"
+    },
+    {
+      "name": "Chopped jalapeno",
+      "amount": "2",
+      "notes": "Remove seeds and membranes for less heat"
+    },
+    {
+      "name": "Crumbled bacon",
+      "amount": "4 slices",
+      "notes": "Use a dairy-free, whole30-friendly alternative"
+    },
+    {
+      "name": "Shredded cheddar cheese (dairy-free alternative)",
+      "amount": "1/2 cup",
+      "notes": "Use a dairy-free, whole30-friendly alternative"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi-earthenware cook to 425°F (220°C).",
+    "Wash the baby potatoes and pat them dry with paper towels.",
+    "Cut the potatoes into 1/2-inch cubes and place them in the preheated cook.",
+    "Drizzle the avocado oil over the potatoes and sprinkle with Cattle Ranch seasoning.",
+    "Toss the potatoes to coat them evenly with the oil and seasoning.",
+    "Add the chopped onion, bell pepper, and jalapeno to the cook and toss to combine.",
+    "Cook for 10 minutes or until the potatoes are tender and lightly browned.",
+    "Add the crumbled bacon to the cook and toss to combine.",
+    "Cook for an additional 2-3 minutes or until the bacon is crispy.",
+    "Sprinkle the shredded cheese over the top of the potatoes and cook for an additional 1-2 minutes or until melted.",
+    "Remove the cook from the heat and sprinkle with chopped cilantro.",
+    "Serve the Newfoundland Nacho Canadian Potatoes Hash hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "newfoundland-nacho-canadian-potatoes-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/newfoundland-nacho-canadian-potatoes-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:58:53Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Newfoundland Nacho",
+    "dishForm": "Hash"
+  }
+}
