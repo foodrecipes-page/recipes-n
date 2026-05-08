@@ -1,0 +1,109 @@
+{
+  "title": "Naturally Indulgent Argentinian Chorizo Casserole",
+  "description": "A rich and savory Argentinian dish featuring chorizo, perfect for a special occasion, with a lacquer glaze and herbal notes, this ovo-vegetarian friendly casserole is sure to delight.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian chorizo",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "terracotta dish",
+      "amount": "1",
+      "notes": "9x13 inch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the sliced chorizo until browned.",
+    "In a large bowl, whisk together the beaten eggs, ricotta cheese, chopped parsley, chopped oregano, salt, and black pepper.",
+    "Add the cooked chorizo to the egg mixture and stir to combine.",
+    "Pour the mixture into the terracotta dish and smooth the top.",
+    "Drizzle the lacquer glaze over the top of the casserole.",
+    "Bake the casserole for 35 minutes, or until the edges are golden brown and the center is set.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving.",
+    "Serve the casserole hot, garnished with additional parsley and oregano if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "casseroles",
+    "chorizo-recipes",
+    "herbal-notes",
+    "ovo-vegetarian",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "naturally-indulgent-argentinian-chorizo-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-indulgent-argentinian-chorizo-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:35:26Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "chorizo",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chorizo",
+    "descriptor": "naturally indulgent",
+    "dishForm": "Casserole"
+  }
+}
