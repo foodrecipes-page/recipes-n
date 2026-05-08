@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Crispy Irish Potato Skillet",
+  "description": "A hearty one-pot Irish dish featuring crispy potatoes and a nutty flavor, made with rice wine and shio-cure for added depth, suitable for a jain-friendly diet. This recipe is perfect for a comforting dinner.",
+  "cuisine": "irish",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "rice wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cashews",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced potatoes and cook for 5 minutes on each side, or until crispy and golden brown.",
+    "Remove the potatoes from the skillet and set aside.",
+    "Add the chopped onions to the skillet and cook until they are translucent and starting to caramelize.",
+    "Add the minced garlic to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the rice wine, shio-cure, salt, and black pepper to the skillet and stir to combine.",
+    "Return the potatoes to the skillet and stir to coat with the sauce.",
+    "Cook for an additional 2 minutes, or until the potatoes are heated through.",
+    "Stir in the chopped cashews and cook for 1 minute, or until fragrant."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crispy-potatoes",
+    "irish-cuisine",
+    "jain-friendly",
+    "nutty-flavors",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-crispy-irish-potato-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-irish-potato-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:29:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "shio-cure",
+    "primaryIngredient": "rice wine",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Skillet"
+  }
+}
