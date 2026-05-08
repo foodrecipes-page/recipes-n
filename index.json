@@ -3473,6 +3473,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-chinese-tofu-mapo-tofu",
+    "title": "Nourishing Chinese Tofu Mapo Tofu",
+    "tags": [
+      "chinese-food",
+      "high-protein",
+      "macrobiotic",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-chinese-tomato-stew",
     "title": "Nourishing Chinese Tomato Stew",
     "tags": [
