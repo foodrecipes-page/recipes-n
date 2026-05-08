@@ -1,0 +1,121 @@
+{
+  "title": "Nutty Chewy Canadian Brisket Pulled",
+  "description": "A hearty, nutty, and chewy Canadian-inspired slow-cooked beef brisket dish, perfect for a cold winter evening. Serve with gluten-free buns and your favourite toppings.",
+  "cuisine": "Canadian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Brisket",
+      "amount": "2 pounds",
+      "notes": "Choice of flat cut or point cut, or a combination of both."
+    },
+    {
+      "name": "Gluten-free Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grass-fed Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Flaked Bonito",
+      "amount": "1 teaspoon",
+      "notes": "Dried bonito shavings, found in most Asian markets."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Optional, omit if you're watching sodium."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional, omit if you're watching sodium."
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "2 tablespoons",
+      "notes": "Optional, adds nutty flavour."
+    }
+  ],
+  "instructions": [
+    "Season the beef brisket with salt, black pepper, and your choice of optional spices.",
+    "In a large Dutch oven, heat the gluten-free soy sauce over medium heat until fragrant.",
+    "Add the grass-fed butter and melt, then add the ground cumin, ground coriander, smoked paprika, and nutmeg.",
+    "Add the beef brisket to the pot and sear until browned on all sides, about 5 minutes per side.",
+    "Transfer the pot to the oven and braise the beef for 2 1/2 hours, or until tender and easily shredded with a fork.",
+    "While the brisket is cooking, mix the maple syrup, flaked bonito, and nutritional yeast in a small bowl (if using).",
+    "Once the brisket is done, remove it from the pot and shred it with two forks.",
+    "Return the shredded brisket to the pot and stir to coat with the braising liquid and nutty maple syrup mixture.",
+    "Let the brisket rest for 10 minutes before serving, allowing the juices to redistribute.",
+    "Serve the Nutty Chewy Canadian Brisket Pulled on gluten-free buns with your favourite toppings, such as diced onions, pickled carrots, and creamy horseradish sauce.",
+    "Garnish with chopped fresh parsley or thyme, if desired.",
+    "Optional: serve with a side of coleslaw or pickles for a refreshing contrast to the rich brisket.",
+    "Optional: offer a variety of toppings, such as diced jalapeños, sliced scallions, or crumbled blue cheese, to cater to different tastes.",
+    "When serving, consider the presentation: arrange the shredded brisket on the buns in a decorative pattern, or add a sprinkle of chopped fresh herbs for colour and visual appeal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "canadian",
+    "comfort-food",
+    "fall-winter",
+    "gluten-free",
+    "one-pan",
+    "slow-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 70,
+    "carbs": 20,
+    "fat": 50
+  },
+  "slug": "nutty-chewy-canadian-brisket-pulled",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-chewy-canadian-brisket-pulled",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:49:35Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "bonito-shave",
+    "primaryIngredient": "beef brisket",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "brisket",
+    "descriptor": "nutty chewy",
+    "dishForm": "Pulled"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Nicely Smoked German Smoked Turkey Neck Pilaf",
+  "description": "A spicy, crisp and adventurous German dish featuring smoked turkey neck, serving as a plant-based-friendly option. This recipe is best prepared using a tava-griddle.",
+  "cuisine": "german",
+  "diet": [
+    null,
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Turkey Neck",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Lamination-Puff Pastry",
+      "amount": "1",
+      "notes": "homemade or store-bought, vegan-friendly"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the tava-griddle over medium heat.",
+    "Cut the smoked turkey neck into 1-inch pieces and set aside.",
+    "Roll out the lamination-puff pastry to a thickness of 1/8 inch.",
+    "Cut the pastry into 4 equal pieces and set aside.",
+    "Chop the onion and saut\u0018 it in a pan until translucent.",
+    "Add the garlic, chili flakes, paprika, turmeric, salt, and black pepper to the pan and stir for 1 minute.",
+    "Add the vegan broth to the pan and bring to a boil.",
+    "Add the chopped onion and turkey neck to the pan and stir to combine.",
+    "Place one of the pastry pieces into the pan, pressing the edges to seal the filling inside.",
+    "Cook for 4-5 minutes or until the pastry is golden brown and the filling is heated through.",
+    "Repeat the process with the remaining pastry pieces and filling.",
+    "Garnish with fresh parsley and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "one-pan",
+    "pilaf",
+    "smoked",
+    "turkey",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "nicely-smoked-german-smoked-turkey-neck-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nicely-smoked-german-smoked-turkey-neck-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:49:46Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "lamination-puff",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Smoked Turkey Neck",
+    "descriptor": "Nicely Smoked",
+    "dishForm": "Pilaf"
+  }
+}

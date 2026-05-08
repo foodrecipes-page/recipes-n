@@ -705,6 +705,21 @@
     "shard": "n"
   },
   {
+    "slug": "nicely-smoked-german-smoked-turkey-neck-pilaf",
+    "title": "Nicely Smoked German Smoked Turkey Neck Pilaf",
+    "tags": [
+      "german",
+      "one-pan",
+      "pilaf",
+      "smoked",
+      "turkey",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "n"
+  },
+  {
     "slug": "nifty-crunchy-thai-chicken-noodles",
     "title": "Nifty Crunchy Thai Chicken Noodles",
     "tags": [
@@ -5000,6 +5015,23 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 12,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-chewy-canadian-brisket-pulled",
+    "title": "Nutty Chewy Canadian Brisket Pulled",
+    "tags": [
+      "beef",
+      "canadian",
+      "comfort-food",
+      "fall-winter",
+      "gluten-free",
+      "one-pan",
+      "slow-cooked",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 170,
     "shard": "n"
   },
   {
