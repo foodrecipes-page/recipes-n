@@ -1,0 +1,119 @@
+{
+  "title": "Nutritious New England Italian Fish Orecchiette",
+  "description": "A rich and flavorful pescatarian dish featuring flaky fish, dried mint, and a medley of New England-inspired ingredients. This orecchiette recipe is perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "pescatarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "orecchiette pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "salmon fillet",
+      "amount": "1 lb",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the orecchiette pasta according to package instructions until al dente.",
+    "While the pasta is cooking, heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the salmon fillet to the skillet and cook for 2-3 minutes per side, or until cooked through.",
+    "Remove the salmon from the skillet and set aside.",
+    "Add the crushed dried mint and cook for an additional 1 minute.",
+    "Add the white wine and chicken broth to the skillet and cook until the liquid has reduced by half.",
+    "Stir in the parmesan cheese until melted.",
+    "Return the cooked orecchiette pasta to the skillet and toss with the mint-infused sauce.",
+    "Serve the pasta hot, topped with the cooked salmon and chopped parsley.",
+    "Garnish with lemon wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "flaky-fish",
+    "italian",
+    "low-carb",
+    "one-pan",
+    "orecchiette",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nutritious-new-england-italian-fish-orecchiette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-new-england-italian-fish-orecchiette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:30:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "blanch",
+    "primaryIngredient": "dried mint",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "fish",
+    "descriptor": "Nutritious New England",
+    "dishForm": "Orecchiette"
+  }
+}
