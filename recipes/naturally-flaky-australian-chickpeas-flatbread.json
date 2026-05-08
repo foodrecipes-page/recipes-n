@@ -1,0 +1,98 @@
+{
+  "title": "Naturally Flaky Australian Chickpeas Flatbread",
+  "description": "A tangy and flaky flatbread featuring chickpeas, perfect for a date night, served on a talavera plate. This raw-friendly dish is a unique Australian twist on traditional flatbreads.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, baking powder, and salt.",
+    "Add the olive oil, lemon juice, and water to the bowl and stir until a dough forms.",
+    "Fold the dough in half several times until it becomes smooth and pliable.",
+    "Roll out the dough into a large circle, about 1/4 inch thick.",
+    "Spread the chickpeas over the center of the dough, leaving a 1 inch border around the edges.",
+    "Sprinkle the sesame seeds and paprika over the chickpeas.",
+    "Fold the edges of the dough up over the chickpeas to form a crust.",
+    "Place the flatbread on a talavera plate and bake for 25 minutes.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "chickpeas",
+    "date-night",
+    "flatbread",
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "naturally-flaky-australian-chickpeas-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-flaky-australian-chickpeas-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:46:14Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "fold",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "naturally flaky",
+    "dishForm": "Flatbread"
+  }
+}
