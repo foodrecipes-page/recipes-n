@@ -1,0 +1,101 @@
+{
+  "title": "Nimble Fermented North Indian Dill Nuka-Pickle Dosa",
+  "description": "A North Indian-inspired dosa recipe featuring the tangy, crunch of nuka-pickle and the fresh zing of dill, perfect for a weekend brunch.",
+  "cuisine": "North Indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Idli rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Split black gram",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1/4 cup",
+      "notes": "crushed in a mortar"
+    },
+    {
+      "name": "Dill leaves",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ghee or oil for greasing",
+      "amount": "1/4 cup",
+      "notes": "used for cooking and brushing"
+    }
+  ],
+  "instructions": [
+    "Soak the idli rice and split black gram in water for 4 hours.",
+    "Grind the soaked rice and gram into a fine paste using a grinder or blender.",
+    "Transfer the paste to a large mixing bowl and add the grated ginger, dill leaves, nuka-pickle, salt, and baking soda.",
+    "Mix well to combine and adjust the seasoning as needed.",
+    "Add the water and mix until the batter is smooth and free of lumps.",
+    "Rest the batter for 2 hours to allow the fermentation to begin.",
+    "Heat a non-stick dosa pan or griddle over medium heat.",
+    "Spread a small ladle of the batter onto the pan and tilt to evenly coat the surface.",
+    "Cook for 1-2 minutes until the bottom is golden brown, then flip and cook for another minute.",
+    "Repeat with the remaining batter to make 8-10 dosas."
+  ],
+  "prepTimeMin": 180,
+  "cookTimeMin": 30,
+  "totalTimeMin": 210,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "fermented",
+    "gluten-free",
+    "indian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "nimble-fermented-north-indian-dill-nuka-pickle-dosa",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-fermented-north-indian-dill-nuka-pickle-dosa",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:41:47Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "dill",
+    "diet": "gluten-free",
+    "region": "north",
+    "cuisineAdjective": "North Indian",
+    "mainIngredient": "Dill",
+    "descriptor": "Nimble Fermented",
+    "dishForm": "Nuka-Pickle Dosa"
+  }
+}
