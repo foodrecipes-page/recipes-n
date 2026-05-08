@@ -1,0 +1,99 @@
+{
+  "title": "Nourishing Mexican Chicken Tinga",
+  "description": "A fresh and crunchy Mexican dish featuring dried oregano, perfect for a healthy and energizing meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2 peppers",
+      "notes": "in adobo sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium high heat.",
+    "In a large bowl, whisk together olive oil, dried oregano, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "While the chicken is cooking, grill the onion and garlic for 3-4 minutes per side, or until slightly charred.",
+    "Once the chicken is cooked, chop it into small pieces and add it to a bowl with the grilled onion and garlic.",
+    "Add the chipotle peppers and adobo sauce to the bowl and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the chicken tinga hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "healthy-dinner",
+    "mexican-food",
+    "robata-grill",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "nourishing-mexican-chicken-tinga",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-mexican-chicken-tinga",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:00:14Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "rest",
+    "primaryIngredient": "dried oregano",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing Crunchy",
+    "dishForm": "Tinga"
+  }
+}

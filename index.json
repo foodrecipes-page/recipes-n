@@ -4411,6 +4411,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-mexican-chicken-tinga",
+    "title": "Nourishing Mexican Chicken Tinga",
+    "tags": [
+      "grilled-chicken",
+      "healthy-dinner",
+      "mexican-food",
+      "robata-grill",
+      "spicy-food"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-middle-eastern-brown-rice-pilaf",
     "title": "Nourishing Middle Eastern Brown Rice Pilaf",
     "tags": [
