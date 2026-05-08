@@ -1,0 +1,95 @@
+{
+  "title": "Nourishing Fluffy Peruvian Bread Rolls Skewers",
+  "description": "A nostalgic Peruvian dish featuring fluffy bread rolls, grilled to perfection, and served on skewers, perfect for a snack or light meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread rolls",
+      "amount": "12",
+      "notes": "preferably day old bread"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 375 degrees Fahrenheit.",
+    "Cut the bread rolls into 1 inch cubes.",
+    "Thread 3-4 bread cubes onto each skewer.",
+    "Brush the melted butter onto the bread cubes.",
+    "Sprinkle the grated cheese, chopped parsley, garlic powder, salt, and black pepper onto the bread cubes.",
+    "Dip each skewer into the beaten egg for extra moisture.",
+    "Place the skewers onto the preheated grill and cook for 5-7 minutes on each side.",
+    "Serve the skewers warm and enjoy.",
+    "Let the skewers cool for a few minutes before serving to prevent burning.",
+    "Serve with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "cheese",
+    "easy-to-make",
+    "grilled",
+    "peruvian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "nourishing-fluffy-peruvian-bread-rolls-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-fluffy-peruvian-bread-rolls-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:45:44Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "bread rolls",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "bread rolls",
+    "descriptor": "nourishing fluffy",
+    "dishForm": "Skewers"
+  }
+}
