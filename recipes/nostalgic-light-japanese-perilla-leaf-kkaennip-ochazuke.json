@@ -1,0 +1,324 @@
+{
+  "title": "Nostalgic Light Japanese Perilla-Leaf-Kkaennip Ochazuke",
+  "description": "A resinous, light, and nostalgic Japanese dish featuring perilla-leaf-kkaennip, served in a hot dolsot stone bowl. This recipe is vegetarian-friendly and perfect for a quick weeknight meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Perilla leaves (kkaennip)",
+      "amount": "2 cups fresh",
+      "notes": null
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup cooked",
+      "notes": null
+    },
+    {
+      "name": "Dashi broth",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade",
+      "notes2": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Grated daikon",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup chopped",
+      "notes": null
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "1 tablespoon diced",
+      "notes": null
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tablespoon chopped",
+      "notes": null
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Dried wakame seaweed",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Kombu dashi",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Ginger juice",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup chopped",
+      "notes": null
+    },
+    {
+      "name": "Zest",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Cooked Japanese rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tablespoon chopped",
+      "notes": null
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Dried kombu",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Grated daikon",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup chopped",
+      "notes": null
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "2 tablespoons diced",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves minced",
+      "notes": null
+    },
+    {
+      "name": "Kombu dashi",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 cup chopped",
+      "notes": null
+    },
+    {
+      "name": "Zest",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cooked Japanese rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Dried wakame seaweed",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Dried kombu",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the dashi broth in a saucepan over medium heat until steaming hot.",
+    "In a small bowl, whisk together soy sauce, sesame oil, salt, and sugar.",
+    "In a separate bowl, toast the sesame seeds in a dry pan over low heat until fragrant.",
+    "Add the toasted sesame seeds to the soy sauce mixture and whisk to combine.",
+    "In a dolsot stone bowl, place a scoop of cooked Japanese rice.",
+    "Pour the hot dashi broth over the rice, then sprinkle the toasted sesame seeds mixture evenly over the top.",
+    "Add the grated daikon, green onions, pickled ginger, and crispy sesame seeds.",
+    "Garnish with chopped scallions and a sprinkle of crushed red pepper.",
+    "Serve immediately and enjoy!",
+    "In a small saucepan, combine miso paste and water over low heat, whisking until smooth.",
+    "In a separate saucepan, combine kombu dashi and water over low heat, whisking until smooth.",
+    "Strain the kombu dashi mixture through a fine-mesh sieve into a bowl.",
+    "Add the miso paste mixture to the strained kombu dashi and whisk until combined.",
+    "Taste and adjust seasoning as needed.",
+    "Serve the ochazuke hot in the dolsot stone bowl, garnished with chopped scallions and a sprinkle of crushed red pepper.",
+    "Heat a small amount of sesame oil in a pan over low heat, then add the ground perilla leaves and stir-fry until fragrant.",
+    "Add the cooked Japanese rice to the pan and stir-fry until well combined with the perilla leaves.",
+    "In a small bowl, whisk together soy sauce, sesame oil, salt, and sugar.",
+    "Add the soy sauce mixture to the rice mixture and stir-fry for a few more minutes.",
+    "Then, transfer the rice mixture to the dolsot stone bowl and serve hot, garnished with chopped scallions and a sprinkle of crushed red pepper."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "flavorful",
+    "japanese",
+    "light",
+    "nourishing",
+    "ochazuke",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "nostalgic-light-japanese-perilla-leaf-kkaennip-ochazuke",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-light-japanese-perilla-leaf-kkaennip-ochazuke",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:59:32Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "bake",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "perilla-leaf-kkaennip",
+    "descriptor": "Nostalgic Light",
+    "dishForm": "Ochazuke"
+  }
+}
