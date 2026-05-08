@@ -1,0 +1,107 @@
+{
+  "title": "Nice Nutty Jamaican Shrimp Skewers",
+  "description": "A quick and flavorful Jamaican dish featuring shrimp, light rum, and a hint of nuttiness, grilled to perfection on a robata grill. This dish is ayurvedic-tamasic-friendly and can be prepared in no time.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "light rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "In a large bowl, whisk together coconut milk, soy sauce, brown sugar, grated ginger, and light rum.",
+    "Add the shrimp to the bowl and marinate for at least 10 minutes.",
+    "Thread the marinated shrimp onto the bamboo skewers, leaving a small space between each shrimp.",
+    "Brush the skewers with the remaining marinade and sprinkle with chopped pecans and scallions.",
+    "Season with salt and black pepper to taste.",
+    "Grill the skewers for 2-3 minutes per side, or until the shrimp are pink and cooked through.",
+    "Flambe the skewers with a little extra light rum, if desired.",
+    "Serve the skewers hot, garnished with additional scallions and pecans if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flambe",
+    "grilled",
+    "jamaican-cuisine",
+    "nutty",
+    "quick-fix",
+    "robata-grill",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "nice-nutty-jamaican-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-nutty-jamaican-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:53:41Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "flambe",
+    "primaryIngredient": "light rum",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "shrimp",
+    "descriptor": "nice nutty",
+    "dishForm": "Skewers"
+  }
+}

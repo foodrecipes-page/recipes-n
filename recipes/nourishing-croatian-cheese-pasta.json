@@ -1,0 +1,122 @@
+{
+  "title": "nourishing croatian cheese pasta",
+  "description": "a warm, comforting dish perfect for a sick day or a cozy evening in, featuring the tangy flavors of horseradish and a satisfying cheese pull.",
+  "cuisine": "croatian",
+  "diet": [
+    "gluten-free",
+    "dairy-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "horseradish",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "gouda cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "melt 2 tbsp of butter in a large skillet over medium heat.",
+    "add 2 tbsp of horseradish and cook for 1 minute, stirring constantly.",
+    "add 1/4 cup of bonito flakes and cook for 1 minute, stirring constantly.",
+    "bring a large pot of salted water to a boil and cook pappardelle according to package instructions.",
+    "in a medium saucepan, melt 2 tbsp of butter over medium heat.",
+    "add 2 tbsp of flour and cook for 1 minute, stirring constantly.",
+    "slowly add 1 cup of whole milk, whisking constantly.",
+    "bring mixture to a simmer and cook for 2-3 minutes, stirring occasionally.",
+    "remove from heat and stir in shredded gouda cheese until melted and smooth.",
+    "drain cooked pappardelle and add to cheese sauce, tossing to coat.",
+    "season with salt, pepper, and garlic powder to taste.",
+    "transfer pasta to a serving dish and top with additional grated gouda cheese and a sprinkle of parsley.",
+    "serve immediately, garnished with additional parsley and a side of crusty bread if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-friendly",
+    "gluten-free",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 24,
+    "carbs": 80,
+    "fat": 32
+  },
+  "slug": "nourishing-croatian-cheese-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-croatian-cheese-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:54:56Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "bonito-shave",
+    "primaryIngredient": "horseradish",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "nourishing",
+    "dishForm": "pasta"
+  }
+}
