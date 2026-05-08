@@ -1,0 +1,101 @@
+{
+  "title": "Nutritious Filipino Anchovy Fillet Lumpia",
+  "description": "A comforting Filipino dish featuring anchovy fillet, steam, and ayurvedic-rajasic-friendly ingredients, wrapped in a lumpia form, with a bitter and molten flavor profile.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "anchovy fillet",
+      "amount": "1 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lumpia wrapper",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "patola",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a pan over medium heat.",
+    "Add the chopped onion and saute until translucent.",
+    "Add the minced garlic and grated ginger and saute for 1 minute.",
+    "Add the chopped anchovy fillet and cook until heated through.",
+    "Add the chopped patola and stir-fry for 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Lay a lumpia wrapper on a flat surface and place 1 tablespoon of the anchovy mixture in the center.",
+    "Brush the edges with water and fold the wrapper into a triangle.",
+    "Repeat with the remaining wrappers and filling.",
+    "Steam the lumpia over boiling water for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "anchovy-recipes",
+    "filipino-food",
+    "lumpia-recipes",
+    "pescatarian-dishes",
+    "steamed-snacks"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "nutritious-filipino-anchovy-fillet-lumpia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-filipino-anchovy-fillet-lumpia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:18:03Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "steam",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "anchovy fillet",
+    "descriptor": "Nutritious Bitter",
+    "dishForm": "Lumpia"
+  }
+}
