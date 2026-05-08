@@ -1,0 +1,99 @@
+{
+  "title": "Nostalgic Molten Venezuelan Rice Vermicelli Noodles",
+  "description": "A malty and molten Venezuelan dish featuring rice vermicelli, served in a stone bowl, with anti-inflammatory friendly ingredients. This recipe brings back nostalgic memories of traditional Venezuelan cuisine.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Vermicelli",
+      "amount": "8 oz",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Malty Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the turmeric and cumin and cook for 1 minute.",
+    "Add the rice vermicelli and cook for 2 minutes.",
+    "Add the vegetable broth and malty soy sauce and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Serve the noodles in a stone bowl and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "noodles",
+    "one-pot",
+    "stone-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nostalgic-molten-venezuelan-rice-vermicelli-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-molten-venezuelan-rice-vermicelli-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:04:34Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "Nostalgic Molten",
+    "dishForm": "Noodles"
+  }
+}

@@ -1775,6 +1775,21 @@
     "shard": "n"
   },
   {
+    "slug": "nostalgic-molten-venezuelan-rice-vermicelli-noodles",
+    "title": "Nostalgic Molten Venezuelan Rice Vermicelli Noodles",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "noodles",
+      "one-pot",
+      "stone-bowl",
+      "vegetarian"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nostalgic-nutty-crunchy-quinoa-pilaf",
     "title": "Nostalgic Nutty Crunchy Quinoa Pilaf",
     "tags": [
@@ -4600,6 +4615,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 15,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-no-fuss-mediterranean-oyster-mushrooms-pilaf",
+    "title": "Mediterranean Oyster Mushroom Pilaf",
+    "tags": [
+      "gluten-free",
+      "high-fiber",
+      "one-pan",
+      "pescatarian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {

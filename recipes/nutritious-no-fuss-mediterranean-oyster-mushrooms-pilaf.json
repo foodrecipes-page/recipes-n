@@ -1,0 +1,102 @@
+{
+  "title": "Mediterranean Oyster Mushroom Pilaf",
+  "description": "A nutritious, no-fuss pilaf dish featuring oyster mushrooms, perfect for a pescatarian-friendly brunch or lunch.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oyster mushrooms",
+      "amount": "1 cup",
+      "notes": "cleaned and sliced"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium-high heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add quinoa and cook for 2 minutes, until lightly toasted.",
+    "Add oyster mushrooms and cook for 3-4 minutes, until they release their liquid and start to brown.",
+    "Add artichoke hearts, olives, lemon juice, and feta cheese. Stir to combine.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until quinoa is tender and liquid has been absorbed.",
+    "Stir in chopped parsley and season with salt and pepper to taste.",
+    "Serve hot in individual bento boxes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "pescatarian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutritious-no-fuss-mediterranean-oyster-mushrooms-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-no-fuss-mediterranean-oyster-mushrooms-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:04:58Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "score-fat",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "oyster mushrooms",
+    "descriptor": "Nutritious, No-Fuss",
+    "dishForm": "Pilaf"
+  }
+}
