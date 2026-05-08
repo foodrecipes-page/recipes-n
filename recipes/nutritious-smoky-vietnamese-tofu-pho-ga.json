@@ -1,0 +1,110 @@
+{
+  "title": "Nutritious Smoky Vietnamese Tofu Pho Ga",
+  "description": "A charred and molten Vietnamese dish featuring meringue nests and score-fat, perfect as a hangover cure, in a vegetarian-friendly pho ga form.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "pho ga broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "meringue nests",
+      "amount": "4",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "chili sauce",
+      "amount": "1 tablespoon",
+      "notes": "for serving"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring the pho ga broth to a boil in a large pot over high heat.",
+    "Add the smoked paprika and score-fat to the broth and stir to combine.",
+    "Reduce the heat to low and simmer the broth for 10 minutes.",
+    "Cook the rice noodles according to package instructions and set aside.",
+    "Add the firm tofu to the broth and cook for 5 minutes, or until heated through.",
+    "To assemble the dish, place some cooked noodles into a bowl, then add slices of tofu and a meringue nest.",
+    "Ladle the hot broth over the top and garnish with bean sprouts, lime wedges, and chili sauce.",
+    "Sprinkle chopped cilantro over the top and serve immediately.",
+    "Offer additional chili sauce and lime wedges on the side for added flavor.",
+    "This dish is best served hot, with all components assembled just before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hangover-cure",
+    "noodle-soup",
+    "smoky",
+    "vegetarian",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nutritious-smoky-vietnamese-tofu-pho-ga",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-smoky-vietnamese-tofu-pho-ga",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:15:00Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "score-fat",
+    "primaryIngredient": "meringue nests",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Nutritious Smoky",
+    "dishForm": "Pho Ga"
+  }
+}
