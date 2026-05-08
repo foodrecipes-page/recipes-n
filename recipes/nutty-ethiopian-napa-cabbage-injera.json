@@ -1,0 +1,94 @@
+{
+  "title": "Nutty Ethiopian Napa Cabbage Injera",
+  "description": "A nutty and shattering Ethiopian dish featuring napa cabbage, made paleo-friendly and served in a donabe vessel, perfect for midnight cravings. This injera-based recipe combines the flavors of Ethiopia with the crunch of nuts and the sweetness of candy.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "napa cabbage",
+      "amount": "2 heads",
+      "notes": "shredded"
+    },
+    {
+      "name": "teff flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1/4 cup",
+      "notes": "paleo-friendly"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe vessel over medium heat.",
+    "In a large bowl, combine teff flour, almond flour, and coconut sugar.",
+    "Add shredded napa cabbage, chopped hazelnuts, and candy pieces to the bowl and mix well.",
+    "Gradually add water to the bowl and mix until a thick batter forms.",
+    "Brush the donabe vessel with ghee and pour the batter into it.",
+    "Cook the injera for 2-3 minutes on each side, until it is golden brown and crispy.",
+    "Repeat the process until all the batter is used up.",
+    "Serve the nutty Ethiopian napa cabbage injera hot and enjoy.",
+    "Store any leftovers in an airtight container in the fridge for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "donabe-cooking",
+    "ethiopian-cuisine",
+    "injera-recipes",
+    "midnight-cravings",
+    "nutty-flavors",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "nutty-ethiopian-napa-cabbage-injera",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-ethiopian-napa-cabbage-injera",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:17:57Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "candy",
+    "primaryIngredient": "napa cabbage",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Napa Cabbage",
+    "descriptor": "Nutty Shattering",
+    "dishForm": "Injera"
+  }
+}
