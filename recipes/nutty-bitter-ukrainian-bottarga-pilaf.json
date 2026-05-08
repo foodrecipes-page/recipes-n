@@ -1,0 +1,108 @@
+{
+  "title": "Nutty Bitter Ukrainian Bottarga Pilaf",
+  "description": "A kid-friendly Ukrainian dish featuring bottarga and bonito shave, this pilaf is both bitter and aerated, making it a unique and exciting meal option. It is also ayurvedic-sattvic-friendly, making it a great choice for those following this diet.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bottarga",
+      "amount": "1/2 cup",
+      "notes": "dried and grated"
+    },
+    {
+      "name": "bonito shave",
+      "amount": "1/4 cup",
+      "notes": "dried and shaved"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the grated carrots and chopped celery and cook for an additional 2 minutes.",
+    "Add the cooked brown rice, chopped walnuts, dried and grated bottarga, and dried and shaved bonito shave to the skillet.",
+    "Stir everything together and cook for an additional 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pilaf to a serving dish and serve hot.",
+    "Garnish with additional chopped walnuts and bonito shave if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-bitter-ukrainian-bottarga-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-bitter-ukrainian-bottarga-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:55:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "bonito-shave",
+    "primaryIngredient": "bottarga",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "bottarga",
+    "descriptor": "Nutty Bitter",
+    "dishForm": "Pilaf"
+  }
+}
