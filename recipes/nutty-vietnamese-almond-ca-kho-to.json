@@ -1,0 +1,105 @@
+{
+  "title": "Nutty Vietnamese Almond Ca Kho To",
+  "description": "A Vietnamese dish featuring almond paste and wok-hei, cooked in a paella pan, this recipe is gluten-free friendly and showcases a unique blend of flavors and textures.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "catfish fillets",
+      "amount": "4 fillets",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large onion",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large paella pan over medium-high heat.",
+    "Add the sliced onions and cook until they are lightly caramelized.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the catfish chunks and cook until they are browned on all sides.",
+    "Add the almond paste, fish sauce, lime juice, and chili flakes, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Stir in the chopped scallions and cook for an additional 1 minute.",
+    "Remove the pan from the heat and let it cool slightly.",
+    "Serve the ca kho to hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "nutty",
+    "one-pan",
+    "seafood",
+    "spicy",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutty-vietnamese-almond-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-vietnamese-almond-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:20:55Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "wok-hei",
+    "primaryIngredient": "almond paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "almonds",
+    "descriptor": "Nutty Bouncy",
+    "dishForm": "Ca Kho To"
+  }
+}

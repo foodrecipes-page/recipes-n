@@ -4985,6 +4985,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-dutch-noodle-dish",
+    "title": "Nutritious Dutch Noodle Dish",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pot",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-egyptian-ground-oats-tagine",
     "title": "nutritious Egyptian ground oats Tagine",
     "tags": [
@@ -9410,6 +9425,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-vietnamese-almond-ca-kho-to",
+    "title": "Nutty Vietnamese Almond Ca Kho To",
+    "tags": [
+      "gluten-free",
+      "nutty",
+      "one-pan",
+      "seafood",
+      "spicy",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {

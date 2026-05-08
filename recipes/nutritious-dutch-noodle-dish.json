@@ -1,0 +1,105 @@
+{
+  "title": "Nutritious Dutch Noodle Dish",
+  "description": "A resinous and fluffy Dutch noodle dish made with brown rice noodles, featuring a cure for hangovers and Buddhist-temple-friendly ingredients, this dish is perfect for a comforting meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the brown rice noodles according to the package instructions.",
+    "In a large skillet, heat the coconut oil over medium heat and saute the onion and garlic until the onion is translucent.",
+    "Add the mushrooms to the skillet and cook until they are tender and lightly browned.",
+    "In a small bowl, whisk together the soy sauce and sesame oil.",
+    "Add the cooked noodles to the skillet and stir to combine with the mushroom mixture.",
+    "Pour the soy sauce mixture over the noodles and stir to combine.",
+    "Season the noodles with salt and pepper to taste.",
+    "Transfer the noodles to a serving dish and garnish with chopped scallions.",
+    "Serve the noodles hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nutritious-dutch-noodle-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-dutch-noodle-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:21:04Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "cure",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "noodles",
+    "descriptor": "Nutritious",
+    "dishForm": "Noodles"
+  }
+}
