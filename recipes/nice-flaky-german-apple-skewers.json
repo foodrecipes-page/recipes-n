@@ -1,0 +1,93 @@
+{
+  "title": "Nice Flaky German Apple Skewers",
+  "description": "A kid-friendly German dish featuring apples, light rum, and a hint of citrus, grilled to perfection on a robata grill.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "4 large",
+      "notes": "Granny Smith or similar variety"
+    },
+    {
+      "name": "light rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "In a large bowl, whisk together light rum, lemon juice, and honey until well combined.",
+    "Add the sliced apples to the bowl and toss to coat with the rum mixture.",
+    "Roll out the flaky pastry dough to a large sheet, about 1/4 inch thick.",
+    "Cut the pastry dough into long strips, about 1 inch wide.",
+    "Thread a few slices of apple onto each pastry strip, leaving a small space between each piece.",
+    "Brush the pastry with melted butter and sprinkle with cinnamon and nutmeg.",
+    "Grill the apple skewers on the robata grill for 2-3 minutes per side, or until the pastry is golden brown.",
+    "Serve the Nice Flaky German Apple Skewers warm, garnished with additional cinnamon if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "flaky-pastry",
+    "german-dish",
+    "grilled-dessert",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "nice-flaky-german-apple-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-flaky-german-apple-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:06:16Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "robata-grill",
+    "primaryIngredient": "light rum",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "apples",
+    "descriptor": "Nice flaky",
+    "dishForm": "Skewers"
+  }
+}
