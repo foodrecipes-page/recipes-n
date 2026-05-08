@@ -1,0 +1,99 @@
+{
+  "title": "Nutritious Slovakian Apricot Dumplings",
+  "description": "A fermented and indulgent Slovakian dish featuring dried apricots and yuzu-cure, rich in anti-inflammatory properties. This recipe combines traditional Slovakian cuisine with modern nutritional benefits.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "soaked overnight in water"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the soaked dried apricots, all-purpose flour, yuzu juice, honey, and active dry yeast.",
+    "Gradually add the warm water to the bowl, stirring with a wooden spoon until a shaggy dough forms.",
+    "Add the salt and egg to the dough, mixing until a sticky ball forms.",
+    "Knead the dough on a floured surface for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Punch down the dough and shape it into small dumplings.",
+    "Place the dumplings on a baking sheet lined with parchment paper, leaving 1 inch of space between each dumpling.",
+    "Brush the tops of the dumplings with melted unsalted butter.",
+    "Bake the dumplings for 20 minutes, until they are golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "indulgent",
+    "one-pan",
+    "traditional",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "nutritious-slovakian-apricot-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-slovakian-apricot-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:46:21Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "dried apricots",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "apricots",
+    "descriptor": "Nutritious indulgent",
+    "dishForm": "Dumplings"
+  }
+}
