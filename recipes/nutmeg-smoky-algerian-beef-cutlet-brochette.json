@@ -1,0 +1,92 @@
+{
+  "title": "Nutmeg Smoky Algerian Beef Cutlet Brochette",
+  "description": "A peppery and fluffy solo dinner dish featuring beef cutlet with a smoky flavor, this Algerian inspired brochette is low in carbs and perfect for a weeknight meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cutlet",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together smoked paprika, black pepper, salt, garlic powder, and ground nutmeg.",
+    "Add the sliced beef cutlet to the bowl and toss to coat evenly with the spice mixture.",
+    "Thread the coated beef cutlet onto skewers, if using.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the beef cutlet for 4-5 minutes per side, or until it reaches an internal temperature of 145 degrees.",
+    "Transfer the grilled beef cutlet to a plate and squeeze with lemon juice.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "nutmeg-smoky-algerian-beef-cutlet-brochette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutmeg-smoky-algerian-beef-cutlet-brochette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:49:32Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "smoke",
+    "primaryIngredient": "beef cutlet",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "beef cutlet",
+    "descriptor": "Nutmeg Smoky",
+    "dishForm": "Brochette"
+  }
+}
