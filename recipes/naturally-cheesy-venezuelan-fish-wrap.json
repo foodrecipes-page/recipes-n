@@ -1,0 +1,94 @@
+{
+  "title": "Naturally Cheesy Venezuelan Fish Wrap",
+  "description": "A funky and light Venezuelan dish featuring lemongrass and tandoor flavors, wrapped in a lotus leaf",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "fresh and boneless"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Season the cod fish with tandoor spice mix, salt, and black pepper",
+    "Heat the olive oil in a skillet and sear the cod fish until browned",
+    "Add the bruised lemongrass to the skillet and cook for 1 minute",
+    "Wrap each cod fish piece in a lotus leaf and place on a baking sheet",
+    "Sprinkle the shredded mozzarella cheese over the fish",
+    "Bake in the preheated oven for 12 minutes or until the cheese is melted and bubbly",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "fish-based",
+    "lotus-leaf-wrap",
+    "pescatarian-friendly",
+    "tandoor-inspired",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "naturally-cheesy-venezuelan-fish-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-cheesy-venezuelan-fish-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:40:01Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "tandoor",
+    "primaryIngredient": "lemongrass",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "fish",
+    "descriptor": "naturally cheesy",
+    "dishForm": "Wrap"
+  }
+}
