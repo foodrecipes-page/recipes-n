@@ -1,0 +1,93 @@
+{
+  "title": "Naturally Smoky Egyptian Eggplant Skewers",
+  "description": "A light Egyptian dish featuring charred eggplant, lemon juice, and a plant-based friendly temper, resulting in a glassy-jelly texture.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "temper",
+      "amount": "1/4 cup",
+      "notes": "made from plant-based ingredients"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the eggplant cubes onto skewers, leaving a small space between each cube.",
+    "Brush the eggplant with olive oil and season with paprika, salt, and black pepper.",
+    "Grill the eggplant skewers for 10-12 minutes, turning occasionally, until charred and tender.",
+    "In a small bowl, whisk together lemon juice and temper.",
+    "Brush the lemon juice mixture onto the grilled eggplant skewers.",
+    "Serve the eggplant skewers hot, garnished with minced garlic."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-entertaining",
+    "grilled-vegetables",
+    "healthy-snacks",
+    "middle-eastern",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "naturally-smoky-egyptian-eggplant-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-egyptian-eggplant-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:15:16Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "lemon juice",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Naturally Smoky",
+    "dishForm": "Skewers"
+  }
+}
