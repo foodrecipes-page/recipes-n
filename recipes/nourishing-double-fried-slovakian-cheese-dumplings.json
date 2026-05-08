@@ -1,0 +1,93 @@
+{
+  "title": "Nourishing Double Fried Slovakian Cheese Dumplings",
+  "description": "A traditional Slovakian dish featuring crispy fried cheese dumplings with a charred exterior and a cheese-pull interior, perfect for a hangover cure. This halal-friendly recipe incorporates tarragon and a double-fry method inspired by KFC.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "farmer cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "tarragon",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated potato, crumbly farmer cheese, egg, dried tarragon, salt, and black pepper, mixing well.",
+    "Gradually add all purpose flour to the bowl, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Heat 1 cup of vegetable oil in a deep frying pan over medium heat and fry the dumplings for 2-3 minutes on each side, until they are lightly browned.",
+    "Increase the heat to medium high and add the remaining 1 cup of vegetable oil to the pan.",
+    "Double fry the dumplings for an additional 2-3 minutes on each side, until they are crispy and golden brown.",
+    "Remove the dumplings from the oil and place them on a paper towel lined plate to drain excess oil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-friendly",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "nourishing-double-fried-slovakian-cheese-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-double-fried-slovakian-cheese-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:56:36Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "tarragon-french",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cheese",
+    "descriptor": "Nourishing Double Fried",
+    "dishForm": "Dumplings"
+  }
+}
