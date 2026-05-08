@@ -1138,6 +1138,21 @@
     "shard": "n"
   },
   {
+    "slug": "nice-grassy-turkish-wagyu-dumplings",
+    "title": "Nice Grassy Turkish Wagyu Dumplings",
+    "tags": [
+      "cozy-dinner",
+      "dumplings",
+      "grassy-broth",
+      "kosher-friendly",
+      "turkish-cuisine",
+      "wagyu-beef"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nice-light-chinese-cheese-chow-fun",
     "title": "Nice Light Chinese Cheese Chow Fun",
     "tags": [

@@ -1,0 +1,106 @@
+{
+  "title": "Nice Grassy Turkish Wagyu Dumplings",
+  "description": "A hearty Turkish dish featuring tender Wagyu beef dumplings served in a rich and savory grassy broth, perfect for a cozy evening meal. This dish is kosher-friendly and made with fresh ingredients.",
+  "cuisine": "Turkish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground Wagyu beef, chopped onion, minced garlic, chopped parsley, chopped dill, salt, and black pepper, and mix well.",
+    "Gradually add the all-purpose flour to the beef mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and shape each piece into a dumpling.",
+    "Bring the chicken broth to a boil in a large pot and gently add the dumplings.",
+    "Reduce the heat to medium-low and simmer the dumplings for 15 minutes or until they float to the surface.",
+    "Serve the dumplings hot in the grassy broth, garnished with additional chopped parsley and dill if desired.",
+    "Let the dumplings rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Traditionally, Turkish dumplings are served with a side of crusty bread or over mashed potatoes.",
+    "To add an extra layer of flavor, a dollop of sour cream or a sprinkle of sumac can be added on top.",
+    "Leftover dumplings can be refrigerated for up to 3 days or frozen for up to 2 months."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-dinner",
+    "dumplings",
+    "grassy-broth",
+    "kosher-friendly",
+    "turkish-cuisine",
+    "wagyu-beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "nice-grassy-turkish-wagyu-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-grassy-turkish-wagyu-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:31:25Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "dum",
+    "primaryIngredient": "wagyu",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "wagyu",
+    "descriptor": "Nice Grassy",
+    "dishForm": "Dumplings"
+  }
+}
