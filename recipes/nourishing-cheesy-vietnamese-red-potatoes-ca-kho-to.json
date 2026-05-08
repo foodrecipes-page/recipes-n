@@ -1,0 +1,102 @@
+{
+  "title": "Nourishing Cheesy Vietnamese Red Potatoes Ca Kho To",
+  "description": "A comforting and flavorful Vietnamese dish featuring red potatoes, pickle, and a cheesy sauce, perfect for a sick day. This satvik-friendly recipe is a twist on the traditional ca kho to dish.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetarian fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the cubed red potatoes with 1 tablespoon of vegetarian fish sauce and 1/2 teaspoon of black pepper until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast for 20 minutes.",
+    "While the potatoes are roasting, heat 1 tablespoon of mustard in a large saucepan over medium heat.",
+    "Add the chopped pickle and cook for 2 minutes, stirring frequently.",
+    "Stir in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes.",
+    "Remove the potatoes from the oven and add them to the saucepan with the sauce.",
+    "Stir in the shredded cheese until it is melted and the sauce is smooth.",
+    "Season the ca kho to with salt to taste.",
+    "Transfer the ca kho to to a serving dish and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "one-pot",
+    "vegetarian",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nourishing-cheesy-vietnamese-red-potatoes-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-cheesy-vietnamese-red-potatoes-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:30:55Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "pickle",
+    "primaryIngredient": "red potatoes",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "red potatoes",
+    "descriptor": "nourishing cheesy",
+    "dishForm": "Ca Kho To"
+  }
+}
