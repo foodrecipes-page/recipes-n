@@ -1,0 +1,100 @@
+{
+  "title": "Egyptian Tuna Skewers",
+  "description": "A vegetarian-friendly Egyptian dish featuring tuna, with a jammy and glassy texture, perfect for a hangover cure. This air-fry recipe is a unique twist on traditional Egyptian cuisine.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "pescatarian",
+    "vegetarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tuna steaks",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, pomegranate molasses, salt, and black pepper.",
+    "Add the tuna cubes to the bowl and toss to coat with the marinade.",
+    "Thread the tuna cubes onto skewers, leaving a small space between each piece.",
+    "Cook the skewers in the air fryer for 8-10 minutes, or until the tuna is cooked through and slightly charred.",
+    "Garnish with chopped parsley and serve immediately.",
+    "Serve with a side of crusty bread or over a bed of mixed greens.",
+    "Refrigerate any leftovers for up to 24 hours.",
+    "Reheat the skewers in the air fryer or oven until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "healthy",
+    "high-protein",
+    "one-pan",
+    "tasty",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "nice-glassy-egyptian-tuna-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-glassy-egyptian-tuna-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:57:36Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "air-fry",
+    "primaryIngredient": "tuna",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "tuna",
+    "descriptor": "Nice glassy",
+    "dishForm": "Skewers"
+  }
+}
