@@ -58,7 +58,9 @@
     "Stir in the toasted almonds and cook for an additional 5 minutes.",
     "Season with salt and black pepper to taste.",
     "Shock the stew in an ice bath to stop the cooking process.",
-    "Serve hot, garnished with additional toasted almonds if desired."
+    "Serve hot, garnished with additional toasted almonds if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -96,5 +98,10 @@
     "mainIngredient": "pork",
     "descriptor": "Nutty crunchy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

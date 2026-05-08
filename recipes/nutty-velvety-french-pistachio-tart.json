@@ -3,8 +3,7 @@
   "description": "A fresh and velvety French dessert featuring unsalted pistachio and render-fat, perfect for those looking for a low-glycemic-friendly treat. This tart is a delightful combination of flavors and textures.",
   "cuisine": "French",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -90,5 +89,9 @@
     "mainIngredient": "pistachio",
     "descriptor": "Nutty Velvety",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A buttery and crispy Portuguese tart featuring Saskatoon berries and tempering chocolate, perfect for a low-carb friendly dessert. This festive dish is sure to impress your guests.",
   "cuisine": "Portuguese",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -69,7 +68,6 @@
   "tags": [
     "berry-tarts",
     "chocolate-desserts",
-    "gluten-free",
     "low-carb",
     "portuguese-desserts",
     "walnut-toppings"
@@ -97,5 +95,9 @@
     "mainIngredient": "saskatoon berries",
     "descriptor": "Nutty Buttery",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

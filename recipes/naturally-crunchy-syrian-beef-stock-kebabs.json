@@ -93,11 +93,15 @@
     "mood": "nostalgic",
     "technique": "grill",
     "primaryIngredient": "beef stock",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": null,
     "cuisineAdjective": "Syrian",
     "mainIngredient": "beef stock",
     "descriptor": "naturally crunchy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

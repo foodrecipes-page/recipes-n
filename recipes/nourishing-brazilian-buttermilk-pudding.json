@@ -91,11 +91,15 @@
     "mood": "cozy",
     "technique": "mantecare-emulsify",
     "primaryIngredient": "buttermilk",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Brazilian",
     "mainIngredient": "buttermilk",
     "descriptor": "Nourishing",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

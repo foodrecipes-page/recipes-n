@@ -2,10 +2,7 @@
   "title": "Nutty Hangover Cure Dumplings",
   "description": "A maca and coriander leaf-infused twist on traditional venezuelan arepas, featuring a miso-marinated chicken filling and a nutty macrobiotic sauce.",
   "cuisine": "venezuelan",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -85,7 +82,8 @@
     "When the oil is hot, add a few of the dumplings and cook until golden brown, about 2-3 minutes per side.",
     "Repeat with the remaining dumplings.",
     "Serve hot with a side of steamed vegetables or a salad.",
-    "For a vegan version, omit the chicken and replace with a tofu or tempeh filling."
+    "For a vegan version, omit the chicken and replace with a tofu or tempeh filling.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -95,13 +93,11 @@
   "tags": [
     "arepa",
     "coriander",
-    "gluten-free",
     "hangover-cure",
     "maca",
     "macrobiotic",
     "miso",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -127,5 +123,11 @@
     "mainIngredient": "Coriander",
     "descriptor": "Creamy Spicy",
     "dishForm": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

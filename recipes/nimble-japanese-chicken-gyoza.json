@@ -3,7 +3,6 @@
   "description": "A quick and easy Japanese dish featuring chicken and thai bird chili, wrapped in a lotus leaf for a unique and delicious snack.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "snack",
@@ -93,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Nimble Flaky",
     "dishForm": "Gyoza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

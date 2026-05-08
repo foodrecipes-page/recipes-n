@@ -2,9 +2,7 @@
   "title": "Nurturing Korean Pomegranate Jjigae",
   "description": "A gentle, garlicky pomegranate jjigae that blends the bright sweetness of pomegranate with a subtle vegetable dashi broth, perfect for kids.",
   "cuisine": "Korean",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -76,8 +74,7 @@
     "kid-friendly",
     "quick",
     "satvik",
-    "soup",
-    "vegetarian"
+    "soup"
   ],
   "nutrition": {
     "calories": 380,
@@ -102,5 +99,9 @@
     "mainIngredient": "pomegranate",
     "descriptor": "Nurturing",
     "dishForm": "Jjigae"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

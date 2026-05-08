@@ -3,8 +3,7 @@
   "description": "A creamy, energizing Venezuelan dish made with semi-skimmed milk and a touch of fermentation for a delightful snack or side dish.",
   "cuisine": "Venezuelan",
   "diet": [
-    "diabetic-friendly",
-    "vegan"
+    "diabetic-friendly"
   ],
   "meal": "snack",
   "ingredients": [
@@ -65,5 +64,9 @@
     "primaryIngredient": "semi-skimmed milk",
     "diet": "nut-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

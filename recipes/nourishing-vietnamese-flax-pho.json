@@ -4,7 +4,6 @@
   "cuisine": "Vietnamese",
   "diet": [
     "keto",
-    "vegan",
     "low-carb"
   ],
   "meal": "breakfast",
@@ -80,8 +79,7 @@
     "glassy-jelly",
     "keto-friendly",
     "low-carb",
-    "rice-paper",
-    "vegan"
+    "rice-paper"
   ],
   "nutrition": {
     "calories": 661,
@@ -106,5 +104,9 @@
     "mainIngredient": "Flax",
     "descriptor": "Nourishing",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

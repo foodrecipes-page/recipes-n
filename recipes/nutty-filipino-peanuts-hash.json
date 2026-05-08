@@ -107,11 +107,15 @@
     "mood": "solo-dinner",
     "technique": "fry",
     "primaryIngredient": "ground cumin",
-    "diet": "halal",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Filipino",
     "mainIngredient": "Peanuts",
     "descriptor": "Nutty",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -43,12 +43,13 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350\u00b0F.",
-    "Spread the hazelnuts on a baking sheet and toast them for about 8-10 minutes, until they\u2019re golden brown. Allow them to cool before mincing.",
+    "Preheat your oven to 350°F.",
+    "Spread the hazelnuts on a baking sheet and toast them for about 8-10 minutes, until they’re golden brown. Allow them to cool before mincing.",
     "In a large skillet, heat olive oil over medium-high heat. Add minced garlic and onion, stirring occasionally until soft and translucent, about 5 minutes.",
     "Add finely chopped red chili pepper and continue cooking for another minute.",
     "Stir in toasted hazelnuts and tamari sauce, then add chicken broth and water. Simmer gently for a couple of minutes to allow flavors to meld together.",
-    "Finish with fresh herbs just before serving."
+    "Finish with fresh herbs just before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -84,5 +85,9 @@
     "mainIngredient": "Hazlenuts",
     "descriptor": "Nutty Silky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

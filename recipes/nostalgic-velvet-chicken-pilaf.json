@@ -61,7 +61,8 @@
     "In a pan on medium heat, melt butter until foamy. Add minced garlic, stir for 30 seconds.",
     "Add chicken and onion pieces to the pan, cook for 4 minutes on each side until golden brown.",
     "Stir in sliced mushrooms and green peas with salt and pepper. Cook for another minute or two.",
-    "Pour into a lazy-susan-spinner serving bowl and drizzle with soy sauce before serving hot."
+    "Pour into a lazy-susan-spinner serving bowl and drizzle with soy sauce before serving hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -98,5 +99,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Nostalgic Velvet",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A fresh and flavorful Vietnamese dish made with chicken, noodles, and vegetables, perfect for a quick and easy meal",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "egg-free"
   ],
   "meal": "lunch",
@@ -63,7 +62,8 @@
     "Reduce the heat to low and cook, covered, for 10 minutes",
     "Stir in the bean sprouts and cook for an additional 2 minutes",
     "Season with salt and pepper to taste",
-    "Serve hot, garnished with chopped green onions"
+    "Serve hot, garnished with chopped green onions",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -72,7 +72,6 @@
   "difficulty": "easy",
   "tags": [
     "easy-cooking",
-    "gluten-free",
     "healthy-dinner",
     "one-pot",
     "quick-meal",
@@ -101,5 +100,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Nutritious",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

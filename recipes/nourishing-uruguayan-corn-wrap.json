@@ -3,8 +3,7 @@
   "description": "A quick, diabetic-friendly wrap featuring corn tortillas, shio-cure soy sauce, and fresh fillings.",
   "cuisine": "Uruguayan",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "snack",
   "ingredients": [
@@ -66,7 +65,8 @@
     "Spoon the mixture onto the warmed tortillas, sprinkling shredded cheese and chopped cilantro on top.",
     "Fold the sides of the tortilla over the filling and roll tightly to form a wrap.",
     "Place the wrapped tortillas seam side down and cook in the skillet for 2 minutes, flipping once, until the cheese melts.",
-    "Remove from skillet, slice in half diagonally, and serve immediately."
+    "Remove from skillet, slice in half diagonally, and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -104,5 +104,10 @@
     "mainIngredient": "corn",
     "descriptor": "Nourishing",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

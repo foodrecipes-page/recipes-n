@@ -2,9 +2,7 @@
   "title": "Nourishing Sweet French Treacle Tart",
   "description": "A cultured and chewy French dessert featuring black treacle, perfect for kids and adults alike, made with katsuramuki-cut fruits and vegan-friendly ingredients.",
   "cuisine": "French",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "treacle",
     "descriptor": "nourishing sweet",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

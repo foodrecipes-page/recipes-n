@@ -3,8 +3,7 @@
   "description": "A hearty, low-carb Venezuelan dish featuring collards, with a malty flavor and a show-off presentation, served on a talavera plate.",
   "cuisine": "Venezuelan",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "collards",
     "descriptor": "nourishing malty",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -75,11 +75,15 @@
     "mood": "romantic",
     "technique": "cure",
     "primaryIngredient": "candied peel",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Vietnamese",
     "mainIngredient": "almonds",
     "descriptor": "nutty crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

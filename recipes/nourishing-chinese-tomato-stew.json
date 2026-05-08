@@ -3,8 +3,7 @@
   "description": "A savory and pillowy one-pot Chinese dish featuring diced tomatoes, paleo-friendly and made with papillote for added flavor",
   "cuisine": "Chinese",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,8 @@
     "Reduce the heat to low and simmer the stew for 20 minutes",
     "Remove the papillote paper and stir in the chopped scallions, salt, and black pepper",
     "Serve the stew hot, garnished with additional scallions if desired",
-    "Let the stew cool completely before refrigerating or freezing for later use"
+    "Let the stew cool completely before refrigerating or freezing for later use",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -76,7 +76,6 @@
   "tags": [
     "chinese-cuisine",
     "dinner-ideas",
-    "gluten-free",
     "healthy-eating",
     "one-pot",
     "paleo-friendly"
@@ -104,5 +103,10 @@
     "mainIngredient": "tomatoes",
     "descriptor": "Nourishing",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

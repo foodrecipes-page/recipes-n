@@ -3,7 +3,6 @@
   "description": "sweet, cheese-pull, hangover-cure portuguese dish featuring porridge oats, score-fat, dairy-free-friendly",
   "cuisine": "portuguese",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "breakfast",
@@ -89,7 +88,6 @@
   "tags": [
     "breakfast",
     "cheese-pull",
-    "dairy-free",
     "hangover-cure",
     "porridge",
     "portuguese"
@@ -117,5 +115,9 @@
     "mainIngredient": "porridge oats",
     "descriptor": "nourishing cheese-pull",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Nostalgic Aerated Irish Bellflower-Root-Doraji Confit",
   "description": "A nostalgic Irish dish featuring bellflower-root-doraji, confit-tomato, and a hint of sea salt, perfect for a pescatarian-friendly dinner.",
   "cuisine": "Irish",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,8 +65,7 @@
   "tags": [
     "comfort-food",
     "irish",
-    "one-pan",
-    "pescatarian"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 420,
@@ -93,5 +90,9 @@
     "mainIngredient": "bellflower-root-doraji",
     "descriptor": "Nostalgic Aerated",
     "dishForm": "Confit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

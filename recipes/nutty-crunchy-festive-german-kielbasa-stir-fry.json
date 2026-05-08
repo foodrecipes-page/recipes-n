@@ -2,9 +2,7 @@
   "title": "Nutty Crunchy Festive German Kielbasa Stir-fry",
   "description": "A festive German dish featuring gluten-free German kielbasa stir-fried with a nutty and crunchy topping for a satisfying meal.",
   "cuisine": "German",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -57,7 +55,6 @@
   "difficulty": "medium",
   "tags": [
     "stir-fry",
-    "gluten-free",
     "festive",
     "nutty",
     "crunchy"
@@ -85,5 +82,9 @@
     "mainIngredient": "Kielbasa",
     "descriptor": "Nutty Crunchy Festive",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

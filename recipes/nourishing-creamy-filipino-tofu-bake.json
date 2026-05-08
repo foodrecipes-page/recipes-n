@@ -3,8 +3,7 @@
   "description": "A citrusy and creamy Filipino dish featuring marinated tofu, perfect for a brunch mood, with an ayurvedic-tamasic friendly twist, wood-fired baked to perfection.",
   "cuisine": "Filipino",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -96,5 +95,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Nourishing Creamy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

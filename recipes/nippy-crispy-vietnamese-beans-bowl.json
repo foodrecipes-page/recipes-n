@@ -3,7 +3,6 @@
   "description": "A low-sodium, zingy bowl of refried beans topped with crunchy rice crackers and fresh veggies, perfect for a solo Vietnamese dinner.",
   "cuisine": "Vietnamese",
   "diet": [
-    "vegan",
     "low-sodium"
   ],
   "meal": "dinner",
@@ -111,5 +110,9 @@
     "mainIngredient": "beans",
     "descriptor": "Nippy Crispy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

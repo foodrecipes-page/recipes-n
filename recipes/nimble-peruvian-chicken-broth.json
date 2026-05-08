@@ -65,7 +65,8 @@
     "Cover and cook for 45 minutes, or until chicken is tender and easily shredded.",
     "Remove chicken, shred with two forks, and return meat to the broth.",
     "Stir in deglaze fond (butter or pan drippings) until melted and incorporated.",
-    "Taste and adjust seasoning; serve hot over quinoa or rice if desired."
+    "Taste and adjust seasoning; serve hot over quinoa or rice if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 55,
@@ -102,5 +103,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Nimble",
     "dishForm": "Broth"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

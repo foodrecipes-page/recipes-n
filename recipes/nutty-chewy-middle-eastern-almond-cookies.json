@@ -94,11 +94,15 @@
     "mood": "hangover-cure",
     "technique": "tempering-chocolate",
     "primaryIngredient": "pomegranate molasses",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Middle Eastern",
     "mainIngredient": "almonds",
     "descriptor": "Nutty Chewy",
     "dishForm": "Cookies"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

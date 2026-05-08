@@ -2,9 +2,7 @@
   "title": "Nourishing Fluffy Argentinian Chicken Empanadas",
   "description": "Tangy and fluffy empanadas filled with chicken, ginger garlic paste, and spices, perfect for a sick day, and made with halal-friendly ingredients and a brine-dry method.",
   "cuisine": "Argentinian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -53,7 +51,8 @@
     "Roll out each ball of dough into a thin circle, and place a tablespoon of the chicken mixture in the center of each circle.",
     "Fold the dough over the filling, and press the edges together to seal the empanada.",
     "Place the empanadas on a baking sheet lined with parchment paper, and brush with a little water.",
-    "Bake the empanadas for 20 minutes, or until they are golden brown."
+    "Bake the empanadas for 20 minutes, or until they are golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -91,5 +90,10 @@
     "mainIngredient": "chicken",
     "descriptor": "nourishing fluffy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

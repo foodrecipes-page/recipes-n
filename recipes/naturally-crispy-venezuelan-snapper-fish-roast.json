@@ -2,9 +2,7 @@
   "title": "Naturally Crispy Venezuelan Snapper Fish Roast",
   "description": "This vegan friendly dish features snapper fish with a yeasty and crispy exterior, showcasing the flavors of Venezuela. The roast is made with a variety of ingredients to create a delicious and show stopping meal.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -79,7 +77,6 @@
     "gluten-free",
     "high-protein",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -105,5 +102,9 @@
     "mainIngredient": "snapper fish",
     "descriptor": "Naturally Crispy",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

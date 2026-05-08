@@ -67,7 +67,8 @@
     "Brush the melted render-fat onto the chicken skewers.",
     "Sprinkle the ground sansho pepper and chopped peanuts over the chicken skewers.",
     "Grill the skewers on the robata-grill for 10-12 minutes, turning occasionally.",
-    "Garnish with chopped scallions and serve immediately."
+    "Garnish with chopped scallions and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -105,5 +106,9 @@
     "mainIngredient": "chicken",
     "descriptor": "nutty smoked",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Nourishing Delicate Dutch Fiordilatte Pasta",
   "description": "A fresh and tender Dutch dish featuring fiordilatte, perfect for a date night, cooked in a cataplana vessel with dashi extract for added depth of flavor.",
   "cuisine": "Dutch",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,8 +65,7 @@
     "fiordilatte-recipes",
     "pasta-dishes",
     "seafood-free",
-    "special-occasion",
-    "vegetarian"
+    "special-occasion"
   ],
   "nutrition": {
     "calories": 420,
@@ -93,5 +90,9 @@
     "mainIngredient": "fiordilatte",
     "descriptor": "Nourishing Delicate",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

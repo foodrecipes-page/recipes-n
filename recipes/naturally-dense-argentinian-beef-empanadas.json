@@ -3,8 +3,7 @@
   "description": "Indulgent argentinian dish featuring red chilli powder, agemono-deep-fry, and low-carb-friendly ingredients, served in individual mini cocottes.",
   "cuisine": "Argentinian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -57,7 +56,8 @@
     "Add the cooked beef mixture to the bowl and stir until a dough forms.",
     "Divide the dough into 12 equal pieces and shape each into a ball.",
     "Flatten each ball into a disk shape and place into individual mini cocottes.",
-    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown."
+    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -67,7 +67,6 @@
   "tags": [
     "argentinian-cuisine",
     "beef-based",
-    "gluten-free",
     "indulgent",
     "low-carb",
     "mini-cocotte"
@@ -95,5 +94,10 @@
     "mainIngredient": "beef",
     "descriptor": "Naturally Dense",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

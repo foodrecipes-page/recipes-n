@@ -2,9 +2,7 @@
   "title": "Nutty Creamy Midnight Knafeh Stir-fry",
   "description": "A delightful Peruvian midnight craving dish featuring dairy-free knafeh, nuts, and creamy elements, perfect for a quick snack or dessert.",
   "cuisine": "Peruvian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -79,5 +77,9 @@
     "mainIngredient": "Knafeh",
     "descriptor": "Nutty Creamy Midnight",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

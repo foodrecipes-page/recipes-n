@@ -52,7 +52,7 @@
       "amount": "400 g"
     },
     {
-      "name": "low\u2011sodium vegetable broth",
+      "name": "low‑sodium vegetable broth",
       "amount": "500 ml"
     },
     {
@@ -71,7 +71,7 @@
       "notes": "chopped"
     },
     {
-      "name": "salt\u2011free seasoning",
+      "name": "salt‑free seasoning",
       "amount": "1 tsp",
       "notes": "for flavor"
     },
@@ -83,14 +83,16 @@
   ],
   "instructions": [
     "Heat the olive oil in a large Dutch oven over medium heat.",
-    "Add the diced onion, carrot, and celery; saut\u00e9 for 5\u20137 minutes until softened.",
+    "Add the diced onion, carrot, and celery; sauté for 5–7 minutes until softened.",
     "Stir in the minced garlic and cook for 1 minute until fragrant.",
-    "Increase the heat to medium\u2011high and add the ground pork and beef; break up the meat with a spoon and brown for 8\u201310 minutes, ensuring no pink remains.",
+    "Increase the heat to medium‑high and add the ground pork and beef; break up the meat with a spoon and brown for 8–10 minutes, ensuring no pink remains.",
     "Deglaze the pot with the red wine, scraping up any browned bits; let the wine reduce by half, about 5 minutes.",
-    "Add the crushed tomatoes, low\u2011sodium broth, salt\u2011free seasoning, and pepper; bring to a gentle simmer.",
+    "Add the crushed tomatoes, low‑sodium broth, salt‑free seasoning, and pepper; bring to a gentle simmer.",
     "Reduce the heat to low, cover, and let the stew braise for 60 minutes, stirring occasionally.",
     "About 10 minutes before serving, stir in toasted pine nuts, grated pecorino cheese, and chopped basil; adjust seasoning if needed.",
-    "Serve hot, garnished with additional fresh basil if desired."
+    "Serve hot, garnished with additional fresh basil if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 90,
@@ -130,5 +132,10 @@
     "mainIngredient": "mincemeat",
     "descriptor": "Nutty Tender",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

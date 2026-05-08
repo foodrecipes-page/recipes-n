@@ -3,8 +3,7 @@
   "description": "A comforting and flavorful Vietnamese dish featuring red potatoes, pickle, and a cheesy sauce, perfect for a sick day. This satvik-friendly recipe is a twist on the traditional ca kho to dish.",
   "cuisine": "Vietnamese",
   "diet": [
-    "satvik",
-    "vegetarian"
+    "satvik"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -60,7 +59,8 @@
     "Remove the potatoes from the oven and add them to the saucepan with the sauce.",
     "Stir in the shredded cheese until it is melted and the sauce is smooth.",
     "Season the ca kho to with salt to taste.",
-    "Transfer the ca kho to to a serving dish and garnish with chopped scallions."
+    "Transfer the ca kho to to a serving dish and garnish with chopped scallions.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -71,7 +71,6 @@
     "cheesy",
     "comfort-food",
     "one-pot",
-    "vegetarian",
     "vietnamese-cuisine",
     "weeknight"
   ],
@@ -98,5 +97,10 @@
     "mainIngredient": "red potatoes",
     "descriptor": "nourishing cheesy",
     "dishForm": "Ca Kho To"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-preserving_no_acid"
+  ]
 }

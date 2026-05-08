@@ -3,7 +3,6 @@
   "description": "A hearty and comforting Irish dish featuring smoky lamb and a glassy jelly crust, perfect for a sick day. This nut-free-friendly recipe is enclosed in a flaky pastry crust.",
   "cuisine": "Irish",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -101,5 +100,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Nutritious Smoky",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

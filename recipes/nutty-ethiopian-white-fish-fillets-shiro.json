@@ -3,7 +3,6 @@
   "description": "A pungent and snappy Ethiopian dish featuring white fish fillets in a cozy shiro sauce, made with a pasta water emulsion and nut-free friendly ingredients. This dish is perfect for a weeknight dinner",
   "cuisine": "Ethiopian",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -68,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "fish-based",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "weeknight"
@@ -96,5 +94,9 @@
     "mainIngredient": "white fish fillets",
     "descriptor": "Nutty",
     "dishForm": "Shiro"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

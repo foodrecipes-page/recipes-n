@@ -80,7 +80,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "dairy-free",
     "high-protein",
     "low-carb",
     "mason-jar",
@@ -111,5 +110,9 @@
     "mainIngredient": "rest-meat",
     "descriptor": "Nutritious No-Cook",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

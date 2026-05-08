@@ -3,7 +3,6 @@
   "description": "A hearty, comforting Irish dish featuring tender beef, crunchy bok choi, and a nutty twist. Perfect for a cozy solo dinner.",
   "cuisine": "Irish",
   "diet": [
-    "gluten-free",
     "meat-lovers"
   ],
   "meal": "dinner",
@@ -118,5 +117,9 @@
     "mainIngredient": "beef",
     "descriptor": "nutty, chewy",
     "dishForm": "stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

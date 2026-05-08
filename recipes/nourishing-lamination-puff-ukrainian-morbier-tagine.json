@@ -2,10 +2,7 @@
   "title": "Nourishing Lamination-Puff Ukrainian Morbier Tagine",
   "description": "Spicy, shaggy, indulgent Ukrainian dish featuring morbier, lamination-puff, and macrobiotic-friendly ingredients, cooked in a traditional tagine pot.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -97,11 +94,9 @@
   "servings": 4,
   "difficulty": "hard",
   "tags": [
-    "gluten-free",
     "indulgent",
     "macrobiotic",
-    "one-pan",
-    "vegan"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 1200,
@@ -126,5 +121,10 @@
     "mainIngredient": "Morbier",
     "descriptor": "Nourishing Lamination-Puff",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,6 @@
   "description": "A sattvic-friendly, Hakka-inspired dish featuring crunchy vegetables, floral flavors, and a delicious tarragon-tinged sauce, served in a hot stone bowl to add an extra layer of texture and nutrients.",
   "cuisine": "Chinese",
   "diet": [
-    "vegan",
-    "gluten-free",
     "sattvic"
   ],
   "meal": "dinner",
@@ -127,5 +125,10 @@
     "mainIngredient": "dish",
     "descriptor": "nourishing",
     "dishForm": "stone-bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

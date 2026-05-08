@@ -109,7 +109,8 @@
     "While the rice is cooking, combine the lemon juice, grapes, and teriyaki sauce in a small bowl, and mix well.",
     "Once the rice is cooked, transfer it to a large terracotta dish, and drizzle with the lemon juice mixture.",
     "Garnish with chopped parsley and serve hot.",
-    "Serve immediately, garnished with chopped parsley and a dollop of pomegranate molasses, if desired."
+    "Serve immediately, garnished with chopped parsley and a dollop of pomegranate molasses, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 25,
@@ -149,5 +150,9 @@
     "mainIngredient": "egg",
     "descriptor": "Nourishing Energizing Citrusy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

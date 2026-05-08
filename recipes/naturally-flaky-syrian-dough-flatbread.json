@@ -3,8 +3,7 @@
   "description": "This traditional Syrian flatbread is made with a yeasty dough and features a flaky texture, scotch bonnet peppers, and a mushimono-steam cooking method, all while being Whole30-friendly.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "Whole30",
-    "gluten-free"
+    "Whole30"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -56,7 +55,6 @@
   "difficulty": "medium",
   "tags": [
     "flaky-flatbread",
-    "gluten-free",
     "middle-eastern",
     "one-pan",
     "steam-cooked",
@@ -85,5 +83,9 @@
     "mainIngredient": "dough",
     "descriptor": "Naturally Flaky",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A quick and easy Irish dish featuring melted cheese, earthy flavors, and a hint of sweetness from demerara sugar, perfect for a diabetic-friendly meal.",
   "cuisine": "Irish",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Nutritious",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

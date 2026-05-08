@@ -72,7 +72,8 @@
     "While the stew simmers, toast the cashews in a dry skillet until lightly browned, about 4 minutes.",
     "Stir the toasted cashews into the stew during the last 5 minutes of cooking, ensuring they absorb some liquid.",
     "Taste and adjust seasoning if needed, adding more salt or pepper.",
-    "Serve hot over a bed of cooked quinoa or crusty bread."
+    "Serve hot over a bed of cooked quinoa or crusty bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -111,5 +112,9 @@
     "mainIngredient": "cashews",
     "descriptor": "Nutty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

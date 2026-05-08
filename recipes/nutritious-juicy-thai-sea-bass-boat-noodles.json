@@ -3,8 +3,7 @@
   "description": "A light and earthy Thai dish featuring sea bass, this paleo-friendly boat noodle recipe is a cure for any seafood lover, with a juicy sea bass as the main attraction. This dish is made with a variety of spices and herbs to give it a unique flavor.",
   "cuisine": "Thai",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -107,5 +106,9 @@
     "mainIngredient": "sea bass",
     "descriptor": "nutritious juicy",
     "dishForm": "Boat Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A yeasty, crumbly, date-night Vietnamese dish featuring amaretti, cooked in a ttukbaegi earthenware vessel, served in a molcajete, diabetic-friendly and delicious.",
   "cuisine": "Vietnamese",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -52,7 +51,8 @@
     "Add the cooked noodles, grilled chicken, and chopped peanuts to the bowl and toss to combine.",
     "Season with salt to taste.",
     "Transfer the mixture to a molcajete and serve immediately.",
-    "Garnish with additional peanuts and amaretti cookies if desired."
+    "Garnish with additional peanuts and amaretti cookies if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -62,7 +62,6 @@
   "tags": [
     "date-night",
     "diabetic-friendly",
-    "gluten-free",
     "nutty-flavors",
     "one-pot",
     "vietnamese-cuisine"
@@ -90,5 +89,10 @@
     "mainIngredient": "dates",
     "descriptor": "nutty crunchy",
     "dishForm": "Mi Quang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

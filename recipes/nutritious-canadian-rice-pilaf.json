@@ -3,7 +3,6 @@
   "description": "A nutritious, gluten-free-friendly rice pilaf dish from Canada, featuring pineapple, khao kua, and perfect for meal prep.",
   "cuisine": "Canadian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -75,7 +74,6 @@
   "difficulty": "medium",
   "tags": [
     "canadian",
-    "gluten-free",
     "high-protein",
     "meal-prep",
     "one-pan",
@@ -104,5 +102,9 @@
     "mainIngredient": "rice",
     "descriptor": "Nutritious",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

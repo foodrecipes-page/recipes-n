@@ -3,8 +3,7 @@
   "description": "A festive Polish dish featuring caramelized onions, crispy exterior, and nutty flavor. Perfect for a high-protein snack or side dish.",
   "cuisine": "Polish",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -116,5 +115,9 @@
     "mainIngredient": "potato",
     "descriptor": "nutty crispy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

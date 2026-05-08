@@ -2,9 +2,7 @@
   "title": "Nourishing Egyptian Soya Bean Flatbread",
   "description": "A buttery, creamy flatbread infused with aromatic Egyptian spices and protein-rich soya bean flour, perfect for a brunch-mood meal that is dairy-free and welcoming.",
   "cuisine": "Egyptian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -82,8 +80,7 @@
     "dairy-free",
     "egyptian",
     "flatbread",
-    "soya",
-    "vegan"
+    "soya"
   ],
   "nutrition": {
     "calories": 200,
@@ -108,5 +105,9 @@
     "mainIngredient": "soya bean",
     "descriptor": "Nourishing",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

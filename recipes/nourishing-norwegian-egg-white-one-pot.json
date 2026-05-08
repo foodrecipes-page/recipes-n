@@ -3,7 +3,6 @@
   "description": "A hearty and filling one-pot dish made with egg whites, lamination puff pastry, and a touch of Norwegian flair. This tamasic-friendly recipe is perfect for a satisfying breakfast or snack.",
   "cuisine": "Norwegian",
   "diet": [
-    "gluten-free",
     "vegetarian",
     "pescatarian"
   ],
@@ -84,5 +83,9 @@
     "mainIngredient": "Egg white",
     "descriptor": "Nourishing",
     "dishForm": "One-pot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

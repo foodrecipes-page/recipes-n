@@ -3,8 +3,6 @@
   "description": "energizing dish featuring turkey neck, en-croute, and a blend of spices, great for a satisfying meal. traditionally served with a side of injera.",
   "cuisine": "ethiopian",
   "diet": [
-    "vegetarian",
-    "gluten-free",
     "low-carb"
   ],
   "meal": "lunch",
@@ -101,11 +99,17 @@
     "mood": "energizing",
     "technique": "en-croute",
     "primaryIngredient": "turkey neck",
-    "diet": "nut-free",
+    "diet": "low-carb",
     "region": null,
     "cuisineAdjective": "Ethiopian",
     "mainIngredient": "turkey neck",
     "descriptor": "nutty dense",
     "dishForm": "en-croute"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

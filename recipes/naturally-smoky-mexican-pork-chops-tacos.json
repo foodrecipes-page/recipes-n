@@ -2,10 +2,7 @@
   "title": "Naturally Smoky Mexican Pork Chops Tacos",
   "description": "A kid-friendly Mexican dish featuring pork chops with a smoky flavor, this recipe is also vegan-friendly by substituting the traditional pork chops with portobello mushrooms or tofu for a vegan version.",
   "cuisine": "Mexican",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +60,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "kid-friendly",
     "mexican",
     "smoky",
@@ -93,5 +89,10 @@
     "mainIngredient": "pork chops",
     "descriptor": "Naturally Smoky",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

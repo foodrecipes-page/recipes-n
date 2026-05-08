@@ -2,9 +2,7 @@
   "title": "Nourishing Ethiopian Gouda Tagine",
   "description": "A cultured and creamy Ethiopian dish featuring Gouda cheese, made vegan-friendly by using plant-based alternatives, and traditionally prepared in an earthenware bowl.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -70,8 +68,7 @@
     "ethiopian",
     "gouda",
     "one-pot",
-    "tagine",
-    "vegan"
+    "tagine"
   ],
   "nutrition": {
     "calories": 420,
@@ -96,5 +93,9 @@
     "mainIngredient": "gouda cheese",
     "descriptor": "nourishing creamy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

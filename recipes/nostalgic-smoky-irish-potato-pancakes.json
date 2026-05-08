@@ -98,11 +98,15 @@
     "mood": "brunch-mood",
     "technique": "ferment",
     "primaryIngredient": "ice cream",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Irish",
     "mainIngredient": "Potato",
     "descriptor": "Nostalgic Smoky",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

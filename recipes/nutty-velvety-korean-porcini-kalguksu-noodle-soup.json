@@ -3,8 +3,7 @@
   "description": "A hearty, comforting Korean noodle soup featuring porcini mushrooms and a rich, nutty flavor profile, suitable for meal prep and low-carb diets.",
   "cuisine": "Korean",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -110,5 +109,9 @@
     "mainIngredient": "porcini",
     "descriptor": "nutty velvety",
     "dishForm": "Kalguksu Noodle Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

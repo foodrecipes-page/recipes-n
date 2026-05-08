@@ -3,8 +3,7 @@
   "description": "A savory and satisfying Mexican dish featuring melted cheese and a hint of rum, perfect for a lazy Sunday, this recipe is ayurvedic tamasic friendly and made with score fat on a tava griddle.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -78,7 +77,6 @@
   "difficulty": "easy",
   "tags": [
     "cheese-pull",
-    "gluten-free",
     "lazy-sunday",
     "mexican-cuisine",
     "one-pan",
@@ -107,5 +105,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Nourishing Nacho",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

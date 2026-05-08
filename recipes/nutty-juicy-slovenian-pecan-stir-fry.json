@@ -49,10 +49,12 @@
     }
   ],
   "instructions": [
-    "Heat oil in a wok or large skillet over medium-high heat. Add ground meat and saut\u00e9 until browned.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add ground meat and sauté until browned.",
     "Add scallions, garlic, pecans, and honey (if using). Stir-fry for about 2 minutes.",
     "Pour in soy sauce and lemon juice, stirring well to combine all ingredients. Cook for an additional 2-3 minutes or until sauce thickens slightly.",
-    "Gradually add soaked vermicelli noodles, tossing continuously until noodles are fully coated with the sauce and heated through."
+    "Gradually add soaked vermicelli noodles, tossing continuously until noodles are fully coated with the sauce and heated through.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -90,5 +92,10 @@
     "mainIngredient": "pecans",
     "descriptor": "Nutty Juicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

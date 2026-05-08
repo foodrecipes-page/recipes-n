@@ -429,7 +429,8 @@
     "mash the mussels with a potato masher or the back of a spoon until they are well broken down.",
     "stir in the mortar-pestled pesto, butter, sun-dried tomatoes, chopped fresh chives, grated ginger, fennel seeds, ground cumin, smoked paprika, and cayenne pepper.",
     "season with salt and black pepper to taste.",
-    "serve the mussels hot, garnished with fresh parsley and fresh dill."
+    "serve the mussels hot, garnished with fresh parsley and fresh dill.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 35,
@@ -470,5 +471,9 @@
     "mainIngredient": "mussels",
     "descriptor": "Nutty",
     "dishForm": "Bouillabaisse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A nutty and juicy Uruguayan dish featuring rhubarb, perfect for a date night, made in a copper pot. This roast is a delicious and unique meal option.",
   "cuisine": "Uruguayan",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -83,11 +82,16 @@
     "mood": "date-night",
     "technique": "roast",
     "primaryIngredient": "rhubarb",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Uruguayan",
     "mainIngredient": "rhubarb",
     "descriptor": "Naturally Roasted",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "aligned-axes-diet"
+  ]
 }

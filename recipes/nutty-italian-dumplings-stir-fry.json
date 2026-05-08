@@ -2,9 +2,7 @@
   "title": "Nutty Italian Dumplings Stir-fry",
   "description": "A hangover-cure Italian (Neapolitan) dish featuring fluffy nutty dumplings with sweetcorn and vegan-friendly elements.",
   "cuisine": "Italian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,8 +71,7 @@
     "hangover-cure",
     "italian",
     "neapolitan",
-    "dumplings",
-    "vegan"
+    "dumplings"
   ],
   "nutrition": {
     "calories": 420,
@@ -99,5 +96,9 @@
     "mainIngredient": "dumplings",
     "descriptor": "Nutty",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

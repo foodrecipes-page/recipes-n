@@ -63,7 +63,7 @@
     "Gradually add warm water and mix until a smooth dough forms.",
     "Knead the dough for 10 minutes until it becomes elastic.",
     "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
-    "Preheat oven to 400\u00b0F (200\u00b0C).",
+    "Preheat oven to 400°F (200°C).",
     "Roll out the dough to a thickness of 1/4 inch (6 mm).",
     "Cut out round shapes using a cookie cutter or the rim of a glass.",
     "Place the bao on a baking sheet lined with parchment paper, leaving 1 inch (2.5 cm) space between each bao.",
@@ -84,8 +84,7 @@
     "squash",
     "nutty",
     "flaky",
-    "vegan-friendly",
-    "gluten-free"
+    "vegan-friendly"
   ],
   "nutrition": {
     "calories": 320,
@@ -110,5 +109,9 @@
     "mainIngredient": "squash",
     "descriptor": "nutty flaky",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

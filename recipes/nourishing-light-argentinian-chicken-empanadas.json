@@ -74,7 +74,8 @@
     "Use a fork to crimp the edges.",
     "Place the empanadas on a baking sheet lined with parchment paper and brush with vegetable oil.",
     "Bake for 20-25 minutes or until golden brown.",
-    "Serve warm with confectioners' sugar and candy pieces (if using)."
+    "Serve warm with confectioners' sugar and candy pieces (if using).",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 40,
   "cookTimeMin": 25,
@@ -111,5 +112,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Nourishing Light",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

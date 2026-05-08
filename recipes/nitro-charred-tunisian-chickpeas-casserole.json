@@ -3,7 +3,6 @@
   "description": "A smoky, flaky vegan chickpea casserole infused with Tunisian spices, topped with a crisp nitro crust and finished in a clay pot for a hearty meal‑prep option.",
   "cuisine": "Tunisian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -78,8 +77,7 @@
     "crisp",
     "meal-prep",
     "one-pan",
-    "tunisian",
-    "vegan"
+    "tunisian"
   ],
   "nutrition": {
     "calories": 1050,
@@ -104,5 +102,9 @@
     "mainIngredient": "Chickpeas",
     "descriptor": "Nitro Charred",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

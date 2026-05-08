@@ -3,7 +3,6 @@
   "description": "A lazy Sunday dish from the Chaozhou region of China, featuring snappy noodles, a sweet and savory sauce, and a crunchy topping. Perfect for a comforting and filling meal.",
   "cuisine": "Chinese",
   "diet": [
-    "vegetarian",
     "low-sodium"
   ],
   "meal": "lunch",
@@ -107,5 +106,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Nutty Nice",
     "dishForm": "Chow-Fun"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

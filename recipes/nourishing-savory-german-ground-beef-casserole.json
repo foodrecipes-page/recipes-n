@@ -59,7 +59,8 @@
     "In a greased 9x13 inch baking dish, create a layer of the meat mixture.",
     "Top the meat layer with a layer of potatoes, overlapping the slices slightly to cover the entire surface.",
     "Repeat the layers, ending with a layer of potatoes on top.",
-    "Bake the casserole in the preheated oven for 45 minutes, or until the potatoes are golden brown and the casserole is hot and bubbly."
+    "Bake the casserole in the preheated oven for 45 minutes, or until the potatoes are golden brown and the casserole is hot and bubbly.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -97,5 +98,9 @@
     "mainIngredient": "ground beef",
     "descriptor": "nourishing savory",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

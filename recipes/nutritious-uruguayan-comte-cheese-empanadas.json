@@ -3,8 +3,7 @@
   "description": "Delicious and nutritious empanadas filled with a tangy Comte cheese mixture, perfect for a quick weeknight dinner or snack.",
   "cuisine": "uruguayan",
   "diet": [
-    "low-calorie-friendy",
-    "gluten-free"
+    "low-calorie-friendy"
   ],
   "meal": "snack",
   "ingredients": [
@@ -61,7 +60,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "snack",
@@ -91,5 +89,9 @@
     "mainIngredient": "Comte cheese",
     "descriptor": "Nutritious",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

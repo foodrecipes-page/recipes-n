@@ -3,7 +3,6 @@
   "description": "A kid-friendly Ukrainian dish featuring bottarga and bonito shave, this pilaf is both bitter and aerated, making it a unique and exciting meal option. It is also ayurvedic-sattvic-friendly, making it a great choice for those following this diet.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -78,7 +77,6 @@
     "gluten-free",
     "kid-friendly",
     "one-pot",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -104,5 +102,9 @@
     "mainIngredient": "bottarga",
     "descriptor": "Nutty Bitter",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

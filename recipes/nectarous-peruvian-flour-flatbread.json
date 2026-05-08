@@ -66,7 +66,7 @@
   ],
   "prepTimeMin": 12,
   "cookTimeMin": 18,
-  "totalTimeMin": 60,
+  "totalTimeMin": 30,
   "servings": 6,
   "difficulty": "easy",
   "tags": [
@@ -100,5 +100,9 @@
     "mainIngredient": "Flour",
     "descriptor": "Nectarous",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

@@ -95,7 +95,6 @@
   "difficulty": "medium",
   "tags": [
     "easy-to-make",
-    "gluten-free",
     "healthy",
     "japanese-cuisine",
     "keto-friendly",
@@ -124,5 +123,9 @@
     "mainIngredient": "light meal",
     "descriptor": "nutritious",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A traditional Chinese dish featuring lamb shoulder in a rich and comforting congee, with anti-inflammatory properties from ginger and turmeric.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -63,7 +62,6 @@
     "anti-inflammatory",
     "comfort-food",
     "dairy-free",
-    "gluten-free",
     "one-pot"
   ],
   "nutrition": {
@@ -89,5 +87,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Nourishing",
     "dishForm": "Congee"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

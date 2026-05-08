@@ -3,8 +3,7 @@
   "description": "A malty, dense, and nourishing American dish featuring russet potato, nimono-simmer, and ayurvedic-rajasic-friendly ingredients, perfect for a weeknight dinner.",
   "cuisine": "American",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "high-carb",
     "one-pan",
     "vegetarian",
@@ -98,5 +96,9 @@
     "mainIngredient": "russet potato",
     "descriptor": "nourishing dense",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

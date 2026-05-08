@@ -2,10 +2,7 @@
   "title": "Nutty Creamy Quick Fix Korean Pork Stir-fry",
   "description": "A quick and easy vegetarian-friendly stir-fry that combines creamy nuttiness with savory pork for a delicious meal in no time.",
   "cuisine": "Korean",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -58,7 +55,8 @@
     "Add sesame oil and let it melt into the pan. Add shallots, celery, garlic, and red peppers; stir for about 1 minute until fragrant.",
     "Fold in pork tenderloin, tamari, vegetable broth, white pepper powder, and nutritional yeast (if using). Stir until meat is well coated with marinade.",
     "Cover and cook for 2-3 minutes. Add chopped nuts of your choice (such as cashews or almonds) to the pan and mix thoroughly.",
-    "Cook uncovered for another minute. Remove from heat and serve hot over steamed rice or noodles."
+    "Cook uncovered for another minute. Remove from heat and serve hot over steamed rice or noodles.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 8,
@@ -94,5 +92,11 @@
     "mainIngredient": "pork",
     "descriptor": "Nutty Creamy Quick Fix",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-pork_no_temp"
+  ]
 }

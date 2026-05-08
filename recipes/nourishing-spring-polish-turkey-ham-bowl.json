@@ -66,11 +66,12 @@
     "Sprinkle crumbly feta cheese over the top of each bowl.",
     "Serve immediately and enjoy.",
     "Garnish with additional cherry tomatoes and cucumber slices, if desired.",
-    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -98,11 +99,17 @@
     "mood": "brunch-mood",
     "technique": "marinate",
     "primaryIngredient": "turkey ham",
-    "diet": "vegetarian",
+    "diet": "vegetarian-friendly",
     "region": null,
     "cuisineAdjective": "Polish",
     "mainIngredient": "turkey ham",
     "descriptor": "Nourishing Spring",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet",
+    "recomputed-totalTime"
+  ]
 }

@@ -92,11 +92,15 @@
     "mood": "festive",
     "technique": "boil",
     "primaryIngredient": "semolina",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Tunisian",
     "mainIngredient": "semolina",
     "descriptor": "nutty creamy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

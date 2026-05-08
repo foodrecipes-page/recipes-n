@@ -3,8 +3,7 @@
   "description": "A nutty and crumbly Mexican dish featuring salted butter and wok-hei, inspired by the cuisine of Veracruz, with a low glycemic index.",
   "cuisine": "Mexican",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "low-glycemic",
     "mexican-food",
     "one-pan",
@@ -94,5 +92,9 @@
     "mainIngredient": "corn",
     "descriptor": "Nutty Crunchy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

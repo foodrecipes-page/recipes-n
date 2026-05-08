@@ -44,7 +44,8 @@
     "Place chicken in a hot-stone plate or cast iron skillet that has been preheated to high heat for at least 3 minutes.",
     "Add soffritto base to the same pan and cook until fragrant, then add lemon juice and saffron.",
     "Simmer the mixture with the chicken, ensuring it is evenly coated in sauce. Adjust seasoning if necessary.",
-    "Transfer chicken to a serving dish and serve hot."
+    "Transfer chicken to a serving dish and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -78,5 +79,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Oozy Lemony",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

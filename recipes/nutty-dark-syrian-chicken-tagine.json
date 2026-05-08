@@ -59,7 +59,8 @@
     "Stir in the dark chocolate chips and lacquer glaze",
     "Continue to simmer for an additional 5 minutes",
     "Stir in the chopped walnuts",
-    "Serve the chicken hot, garnished with additional walnuts if desired"
+    "Serve the chicken hot, garnished with additional walnuts if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -97,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Nutty Dark",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

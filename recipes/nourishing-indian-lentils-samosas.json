@@ -3,9 +3,7 @@
   "description": "Salty, creamy lentil samosas made with tortilla wrappers, shio-koji cured for depth, diabetic-friendly and post-workout protein boost.",
   "cuisine": "Indian",
   "diet": [
-    "vegan",
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -83,12 +81,10 @@
   "difficulty": "medium",
   "tags": [
     "diabetic-friendly",
-    "gluten-free",
     "high-protein",
     "post-workout",
     "quick",
-    "savory",
-    "vegan"
+    "savory"
   ],
   "nutrition": {
     "calories": 170,
@@ -113,5 +109,10 @@
     "mainIngredient": "lentils",
     "descriptor": "Nourishing",
     "dishForm": "Samosas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

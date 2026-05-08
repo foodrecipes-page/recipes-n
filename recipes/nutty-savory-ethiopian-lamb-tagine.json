@@ -69,7 +69,8 @@
     "Add the chopped mitsuba, berbere spice, and chicken broth, and stir to combine.",
     "Cover the Dutch oven and transfer it to the preheated oven.",
     "Braise the tagine for 2 1/2 hours, or until the lamb is tender.",
-    "Remove the tagine from the oven and garnish with chopped peanuts."
+    "Remove the tagine from the oven and garnish with chopped peanuts.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -107,5 +108,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Nutty Savory",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

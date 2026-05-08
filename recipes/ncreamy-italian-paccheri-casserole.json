@@ -59,8 +59,7 @@
     "plant-based",
     "quick",
     "refreshing",
-    "sauce-based",
-    "vegan"
+    "sauce-based"
   ],
   "nutrition": {
     "calories": 450,
@@ -85,5 +84,9 @@
     "mainIngredient": "Paccheri",
     "descriptor": "Creamy",
     "dishForm": "Paccheri Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

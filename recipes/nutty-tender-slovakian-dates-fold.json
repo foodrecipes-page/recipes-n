@@ -3,7 +3,6 @@
   "description": "A delicious post-workout dessert made with sweet dates, crunchy walnuts, and a hint of cinnamon. This vegan-friendly treat is perfect for satisfying your sweet tooth after a long workout.",
   "cuisine": "Slovakian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -50,7 +49,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 375\u00b0F (190\u00b0C).",
+    "Preheat the oven to 375°F (190°C).",
     "In a food processor, grind the walnuts until coarsely chopped.",
     "In a medium bowl, combine the ground walnuts, oats, coconut sugar, cinnamon, and salt.",
     "Mix well until a crumbly mixture forms.",
@@ -70,7 +69,6 @@
   "tags": [
     "post-workout",
     "slovakian",
-    "vegan",
     "dessert",
     "walnut",
     "date",
@@ -99,5 +97,9 @@
     "mainIngredient": "dates",
     "descriptor": "nutty tender",
     "dishForm": "Fold"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

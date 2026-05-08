@@ -3,8 +3,7 @@
   "description": "A light and charred Chinese dish featuring shredded Monterey Jack cheese, this low-carb-friendly recipe is a twist on traditional chow fun.",
   "cuisine": "Chinese",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -64,7 +63,6 @@
   "tags": [
     "cheesy",
     "chinese-inspired",
-    "gluten-free",
     "low-carb",
     "one-pan",
     "weeknight"
@@ -92,5 +90,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Nice Light",
     "dishForm": "Chow Fun"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

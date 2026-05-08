@@ -3,7 +3,6 @@
   "description": "Fluffy and earthy Dutch pancakes featuring lemongrass, perfect for a kid-friendly breakfast, these pancakes are dairy-free friendly and infused with the subtle flavor of lemongrass oil.",
   "cuisine": "Dutch",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -96,5 +95,9 @@
     "mainIngredient": "lemongrass",
     "descriptor": "Nutty earthy",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

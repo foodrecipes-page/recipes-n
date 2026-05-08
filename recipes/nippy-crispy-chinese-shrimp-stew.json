@@ -3,7 +3,6 @@
   "description": "A salty, crispy quick-fix Chinese stew featuring miso-marinated shrimp and Asian chives in a low-calorie tagine.",
   "cuisine": "Chinese",
   "diet": [
-    "pescatarian",
     "low-carb"
   ],
   "meal": "dinner",
@@ -57,7 +56,8 @@
     "Mix cornstarch slurry into the stew and stir until slightly thickened, about 1 minute.",
     "Fold in sliced Asian chives and cook for another 2 minutes until wilted.",
     "Taste and adjust seasoning with a pinch of white pepper if desired.",
-    "Serve hot directly from the tagine."
+    "Serve hot directly from the tagine.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 8,
@@ -95,5 +95,10 @@
     "mainIngredient": "Shrimp",
     "descriptor": "Nippy Crispy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

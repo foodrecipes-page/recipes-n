@@ -2,9 +2,7 @@
   "title": "Nurturing Pungent Thai Apricots Khanom Thai",
   "description": "A dairy‑free kid‑friendly Thai hot‑pot featuring rehydrated apricots in a spicy coconut broth, served with al dente rice noodles and a cheese‑pull mouthfeel.",
   "cuisine": "thai",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -86,7 +84,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "hot-pot",
     "khanom-thai",
     "kid-friendly",
@@ -116,5 +113,9 @@
     "mainIngredient": "Apricots",
     "descriptor": "Nurturing Pungent",
     "dishForm": "Khanom Thai"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

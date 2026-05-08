@@ -2,9 +2,7 @@
   "title": "Nutty Crispy Beef Stir-fry",
   "description": "A light American dish featuring ground beef, vegan-friendly and nutty flavors with a crispy texture.",
   "cuisine": "American",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -60,8 +58,7 @@
     "crispy",
     "light",
     "beef",
-    "stir-fry",
-    "vegan"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 369,
@@ -86,5 +83,9 @@
     "mainIngredient": "Beef",
     "descriptor": "Nutty Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

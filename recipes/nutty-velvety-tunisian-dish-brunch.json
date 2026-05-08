@@ -2,9 +2,7 @@
   "title": "Tunisian Nutty Velvety Brunch",
   "description": "A comforting and flavorful brunch dish from Tunisia, featuring a nutty and velvety texture.",
   "cuisine": "Tunisian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -80,7 +78,6 @@
   "tags": [
     "breakfast",
     "brunch",
-    "gluten-free",
     "high-protein",
     "weeknight"
   ],
@@ -107,5 +104,9 @@
     "mainIngredient": "dish",
     "descriptor": "nutty velvety",
     "dishForm": "brunch"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

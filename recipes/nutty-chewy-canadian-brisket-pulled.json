@@ -77,7 +77,8 @@
     "Garnish with chopped fresh parsley or thyme, if desired.",
     "Optional: serve with a side of coleslaw or pickles for a refreshing contrast to the rich brisket.",
     "Optional: offer a variety of toppings, such as diced jalapeños, sliced scallions, or crumbled blue cheese, to cater to different tastes.",
-    "When serving, consider the presentation: arrange the shredded brisket on the buns in a decorative pattern, or add a sprinkle of chopped fresh herbs for colour and visual appeal."
+    "When serving, consider the presentation: arrange the shredded brisket on the buns in a decorative pattern, or add a sprinkle of chopped fresh herbs for colour and visual appeal.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -89,7 +90,6 @@
     "canadian",
     "comfort-food",
     "fall-winter",
-    "gluten-free",
     "one-pan",
     "slow-cooked",
     "weeknight"
@@ -117,5 +117,10 @@
     "mainIngredient": "brisket",
     "descriptor": "nutty chewy",
     "dishForm": "Pulled"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

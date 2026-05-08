@@ -68,7 +68,8 @@
     "Reduce the heat to low and let it simmer for 10 minutes.",
     "Add the fish sauce, salt, and black pepper, and stir to combine.",
     "Add the double-fried chicken pieces back into the pot and stir to coat with the sauce.",
-    "Sprinkle the chopped peanuts on top and serve hot."
+    "Sprinkle the chopped peanuts on top and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -107,5 +108,9 @@
     "mainIngredient": "beetroot",
     "descriptor": "Nutty Crunchy",
     "dishForm": "Tinola"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

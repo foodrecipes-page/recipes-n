@@ -50,9 +50,7 @@
   "difficulty": "easy",
   "tags": [
     "american-dish",
-    "gluten-free",
     "quick-cook",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -78,5 +76,10 @@
     "mainIngredient": "Cheese",
     "descriptor": "Rich",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

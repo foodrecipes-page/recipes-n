@@ -3,8 +3,7 @@
   "description": "A hearty, crunchy, and festive Brazilian dish made with nutritious grains, perfect for a weeknight dinner. This recipe serves 4-6 people and can be prepared in under 30 minutes.",
   "cuisine": "Brazilian",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -81,7 +80,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "weeknight",
@@ -110,5 +108,9 @@
     "mainIngredient": "grains",
     "descriptor": "nutritious crunchy",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

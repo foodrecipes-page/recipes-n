@@ -111,11 +111,15 @@
     "mood": "midnight-craving",
     "technique": "ssam-wrap",
     "primaryIngredient": "eggs",
-    "diet": "kosher",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Indian",
     "mainIngredient": "eggs",
     "descriptor": "nutty crunchy midnight-craving",
     "dishForm": "Steamed Rice Cake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

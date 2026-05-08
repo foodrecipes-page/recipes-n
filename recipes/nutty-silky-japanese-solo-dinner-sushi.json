@@ -3,8 +3,7 @@
   "description": "A comforting Okinawan-inspired solo-dinner dish made with 00-flour, featuring a nutty and silky texture, ideal for a Buddhist-temple-friendly meal.",
   "cuisine": "Japanese",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -91,10 +90,8 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "japanese",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -120,5 +117,10 @@
     "mainIngredient": "solo-dinner",
     "descriptor": "nutty silky",
     "dishForm": "Sushi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

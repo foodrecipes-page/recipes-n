@@ -59,7 +59,8 @@
     "Add the jasmine rice to the skillet, cover, and reduce heat to low.",
     "Simmer the rice for 15 minutes or until the liquid is absorbed.",
     "Fluff the cooked rice with a fork and stir in the parmesan cheese and parsley.",
-    "Serve the crispy chicken on top of the rice pilaf and drizzle with lemon juice."
+    "Serve the crispy chicken on top of the rice pilaf and drizzle with lemon juice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -98,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Nourishing Crispy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

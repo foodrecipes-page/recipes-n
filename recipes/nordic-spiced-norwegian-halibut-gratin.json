@@ -3,7 +3,6 @@
   "description": "A rich and dense Norwegian dish featuring cloves, served with a low-calorie-friendly brine-wet sauce.",
   "cuisine": "Norwegian",
   "diet": [
-    "gluten-free",
     "low-calorie"
   ],
   "meal": "dinner",
@@ -78,7 +77,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "low-calorie",
     "norwegian",
@@ -108,5 +106,9 @@
     "mainIngredient": "Halibut",
     "descriptor": "Nordic Spiced",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

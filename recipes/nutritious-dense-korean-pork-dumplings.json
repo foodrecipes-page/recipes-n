@@ -59,7 +59,8 @@
     "Repeat the process with the remaining wrappers and filling.",
     "To cook the dumplings, bring a large pot of water to a boil and gently add the dumplings to the pot, being careful not to overcrowd it.",
     "Cook the dumplings for 10-12 minutes, or until they float to the surface.",
-    "Remove the dumplings from the water with a slotted spoon and serve hot with your favorite dipping sauce."
+    "Remove the dumplings from the water with a slotted spoon and serve hot with your favorite dipping sauce.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -96,5 +97,9 @@
     "mainIngredient": "pork",
     "descriptor": "Nutritious dense",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

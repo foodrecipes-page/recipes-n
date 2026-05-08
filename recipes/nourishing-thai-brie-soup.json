@@ -2,9 +2,7 @@
   "title": "Nourishing Thai Brie Soup",
   "description": "A creamy, savory Thai soup with caramelized onions, coconut milk, and vegan brie, finished with lemongrass, lime, and chili for a bright finish.",
   "cuisine": "Thai",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -91,11 +89,9 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "quick",
     "soupy",
-    "thai",
-    "vegan"
+    "thai"
   ],
   "nutrition": {
     "calories": 1230,
@@ -120,5 +116,10 @@
     "mainIngredient": "Brie",
     "descriptor": "Nourishing",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

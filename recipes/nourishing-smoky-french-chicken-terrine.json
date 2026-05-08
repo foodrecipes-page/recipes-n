@@ -61,7 +61,8 @@
     "Transfer the chicken to a terrine dish and top with the caramelized sugar sauce.",
     "In a small bowl, whisk together the egg whites and chopped fresh thyme.",
     "Pour the egg white mixture over the chicken in the terrine dish.",
-    "Bake the terrine in the preheated oven for 35 minutes or until the egg whites are set."
+    "Bake the terrine in the preheated oven for 35 minutes or until the egg whites are set.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -99,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Nourishing Smoky",
     "dishForm": "Terrine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

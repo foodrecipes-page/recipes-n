@@ -3,7 +3,6 @@
   "description": "A resinous, velvety Australian dish featuring pilchards, yuzu-cure, and halal-friendly ingredients.",
   "cuisine": "australian",
   "diet": [
-    "halal",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -104,5 +103,9 @@
     "mainIngredient": "pilchards",
     "descriptor": "Nourishing",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

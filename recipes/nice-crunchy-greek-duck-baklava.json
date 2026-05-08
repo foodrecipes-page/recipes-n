@@ -3,8 +3,7 @@
   "description": "A fresh and crunchy Greek dish featuring duck sauce, perfect for a cozy evening, this low-carb-friendly baklava is a unique twist on traditional desserts. It combines the savory flavor of duck with the sweetness of honey and the crunch of phyllo dough.",
   "cuisine": "Greek",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -55,7 +54,8 @@
     "Brush the top layer of phyllo dough with melted butter.",
     "Bake the baklava for 45 minutes, or until golden brown.",
     "Remove the baklava from the oven and let it cool completely.",
-    "Cut the baklava into diamond-shaped pieces and serve."
+    "Cut the baklava into diamond-shaped pieces and serve.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -65,7 +65,6 @@
   "tags": [
     "dessert",
     "duck-sauce",
-    "gluten-free",
     "greek-food",
     "low-carb",
     "phyllo-dough",
@@ -94,5 +93,10 @@
     "mainIngredient": "duck",
     "descriptor": "Nice Crunchy",
     "dishForm": "Baklava"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

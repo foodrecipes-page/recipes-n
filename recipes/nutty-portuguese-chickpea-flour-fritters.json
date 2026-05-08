@@ -80,7 +80,6 @@
   "difficulty": "medium",
   "tags": [
     "easy-snacks",
-    "gluten-free",
     "high-fiber",
     "low-glycemic",
     "one-pan",
@@ -110,5 +109,9 @@
     "mainIngredient": "chickpea flour",
     "descriptor": "nutty light crispy",
     "dishForm": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

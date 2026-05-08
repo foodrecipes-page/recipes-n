@@ -3,7 +3,6 @@
   "description": "A comforting jamaican dish featuring cocoa and a nut-free-friendly twist with crunchy almond pieces.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegan",
     "pescatarian"
   ],
   "meal": "snack",
@@ -48,7 +47,6 @@
   "servings": 6,
   "difficulty": "easy",
   "tags": [
-    "nut-free",
     "comfort-food",
     "snack"
   ],
@@ -75,5 +73,10 @@
     "mainIngredient": "cocoa",
     "descriptor": "Nutty Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-nut-free"
+  ]
 }

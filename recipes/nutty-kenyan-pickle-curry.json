@@ -63,7 +63,8 @@
     "Reduce the heat to low and cook, covered, for 10 minutes.",
     "Stir in the water and continue to cook for another 5 minutes.",
     "Remove the pan from the heat and let it cool slightly.",
-    "Serve the curry hot, garnished with chopped fresh cilantro if desired."
+    "Serve the curry hot, garnished with chopped fresh cilantro if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -101,5 +102,9 @@
     "mainIngredient": "pickles",
     "descriptor": "nutty peppery",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

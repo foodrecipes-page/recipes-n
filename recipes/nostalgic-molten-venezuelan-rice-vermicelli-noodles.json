@@ -3,7 +3,6 @@
   "description": "A malty and molten Venezuelan dish featuring rice vermicelli, served in a stone bowl, with anti-inflammatory friendly ingredients. This recipe brings back nostalgic memories of traditional Venezuelan cuisine.",
   "cuisine": "Venezuelan",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -66,7 +65,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "noodles",
     "one-pot",
     "stone-bowl",
@@ -95,5 +93,9 @@
     "mainIngredient": "rice vermicelli",
     "descriptor": "Nostalgic Molten",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A hearty, hangover-cure Croatian dish featuring a mix of beef cuts, crunchy walnuts, and a hint of nutmeg, all poached to perfection in a flavorful broth.",
   "cuisine": "Croatian",
   "diet": [
-    "halal",
     "meat"
   ],
   "meal": "lunch",
@@ -85,8 +84,7 @@
     "beef",
     "walnuts",
     "poached",
-    "hangover-cure",
-    "halal"
+    "hangover-cure"
   ],
   "nutrition": {
     "calories": 420,
@@ -111,5 +109,9 @@
     "mainIngredient": "Beef",
     "descriptor": "Nutty Crunchy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

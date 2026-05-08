@@ -2,9 +2,7 @@
   "title": "Nutty Brazilian Buckwheat Empanadas",
   "description": "A kid-friendly Brazilian dish featuring buckwheat flour and nuka-pickle, served in a scallop shell vessel, this vegan-friendly recipe is perfect for a snack or lunch.",
   "cuisine": "Brazilian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -49,7 +47,8 @@
     "Flatten each ball into a disk shape and place it into a scalloped shell.",
     "Bake the empanadas for 20 minutes or until they are golden brown.",
     "Remove the empanadas from the oven and let them cool for 5 minutes.",
-    "Serve the empanadas warm and enjoy."
+    "Serve the empanadas warm and enjoy.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -87,5 +86,10 @@
     "mainIngredient": "buckwheat",
     "descriptor": "nutty chewy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-preserving_no_acid"
+  ]
 }

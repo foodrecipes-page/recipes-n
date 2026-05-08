@@ -3,8 +3,7 @@
   "description": "A fermented and tender Japanese dish featuring goat meat, double-rise-bread, and low-glycemic-friendly ingredients, formed into onigiri shapes.",
   "cuisine": "Japanese",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -66,7 +65,6 @@
   "difficulty": "medium",
   "tags": [
     "fermented-food",
-    "gluten-free",
     "goat-meat",
     "japanese-cuisine",
     "low-glycemic",
@@ -95,5 +93,9 @@
     "mainIngredient": "goat meat",
     "descriptor": "naturally tender",
     "dishForm": "Onigiri"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

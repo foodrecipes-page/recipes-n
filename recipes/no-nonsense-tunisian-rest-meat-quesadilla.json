@@ -3,8 +3,7 @@
   "description": "A fusion of Tunisian flavors and ovo-vegetarian rest-meat, perfect for a quick weeknight fix.",
   "cuisine": "tunisian",
   "diet": [
-    "ovo-vegetarian",
-    "gluten-free"
+    "ovo-vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -103,5 +102,9 @@
     "mainIngredient": "rest-meat",
     "descriptor": "No-nonsense",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

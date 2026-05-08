@@ -3,8 +3,7 @@
   "description": "A fermented and indulgent Slovakian dish featuring dried apricots and yuzu-cure, rich in anti-inflammatory properties. This recipe combines traditional Slovakian cuisine with modern nutritional benefits.",
   "cuisine": "Slovakian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -95,5 +94,9 @@
     "mainIngredient": "apricots",
     "descriptor": "Nutritious indulgent",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

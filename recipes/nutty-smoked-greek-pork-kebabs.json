@@ -2,9 +2,7 @@
   "title": "Nutty Smoked Greek Pork Kebabs",
   "description": "A monsoon Greek dish featuring pork tenderloin, with a buttery and glassy-jelly texture, smoke-hot flavor, and kosher-friendly ingredients. This dish is perfect for a dinner gathering.",
   "cuisine": "Greek",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,5 +95,9 @@
     "mainIngredient": "pork tenderloin",
     "descriptor": "Nutty Smoked",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

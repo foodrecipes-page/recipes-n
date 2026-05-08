@@ -80,7 +80,6 @@
   "tags": [
     "coconut",
     "curry",
-    "dairy-free",
     "dense",
     "peach",
     "sick-day",
@@ -109,5 +108,9 @@
     "mainIngredient": "Peaches",
     "descriptor": "Nourishing",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

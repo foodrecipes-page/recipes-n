@@ -3,7 +3,6 @@
   "description": "A citrusy and flavorful Mexican dish featuring chicken in a rich mole poblano sauce, wrapped in a flaky crust, this recipe is a show-stopper for any occasion, with an emphasis on ayurvedic-sattvic friendly ingredients.",
   "cuisine": "Mexican",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -90,5 +89,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Nourishing Shaggy",
     "dishForm": "Mole Poblano"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

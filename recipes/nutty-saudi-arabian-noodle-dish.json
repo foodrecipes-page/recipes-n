@@ -3,8 +3,7 @@
   "description": "A sour and juicy noodle dish featuring agemono deep fried ingredients, served on a wooden board, inspired by Mediterranean and Saudi Arabian flavors. This dish is perfect for a monsoon day.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -71,7 +70,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "middle-eastern",
     "noodle-dish",
     "one-pan",
@@ -101,5 +99,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Nutty",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

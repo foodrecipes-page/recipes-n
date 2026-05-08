@@ -2,9 +2,7 @@
   "title": "Nostalgic Spanish Orange Stir-fry",
   "description": "A rich and dense dish featuring orange blossom water, blanched to preserve its delicate flavors in a gluten-free-friendly recipe.",
   "cuisine": "Spanish",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -81,5 +79,9 @@
     "mainIngredient": "orange",
     "descriptor": "Nostalgic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

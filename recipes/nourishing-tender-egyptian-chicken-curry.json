@@ -2,9 +2,7 @@
   "title": "Nourishing Tender Egyptian Chicken Curry",
   "description": "A cultured and indulgent Egyptian dish featuring panang paste and coconut cream, this recipe is a must try for those who love tender chicken in a rich and creamy sauce. It is also kosher friendly.",
   "cuisine": "Egyptian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -58,7 +56,8 @@
     "Reduce the heat to low and let the curry simmer for 20 minutes.",
     "Season the curry with salt and black pepper to taste.",
     "Stir in the chopped cilantro.",
-    "Serve the curry hot over rice or with naan bread."
+    "Serve the curry hot over rice or with naan bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -95,5 +94,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Nourishing tender",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

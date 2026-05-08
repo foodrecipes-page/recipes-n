@@ -59,7 +59,8 @@
     "Heat a non-stick dosa pan or griddle over medium heat.",
     "Spread a small ladle of the batter onto the pan and tilt to evenly coat the surface.",
     "Cook for 1-2 minutes until the bottom is golden brown, then flip and cook for another minute.",
-    "Repeat with the remaining batter to make 8-10 dosas."
+    "Repeat with the remaining batter to make 8-10 dosas.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 180,
   "cookTimeMin": 30,
@@ -97,5 +98,9 @@
     "mainIngredient": "Dill",
     "descriptor": "Nimble Fermented",
     "dishForm": "Nuka-Pickle Dosa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

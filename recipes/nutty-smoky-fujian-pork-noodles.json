@@ -2,9 +2,7 @@
   "title": "Nutty Smoky Fujian Pork Noodles",
   "description": "A salty and snappy Chinese dish featuring dark soft brown sugar and smoky flavors, perfect for a date night.",
   "cuisine": "Chinese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -55,7 +53,8 @@
     "Cook for an additional 2 minutes, until the sauce has thickened.",
     "Cook the rice noodles according to the package instructions.",
     "Add the cooked noodles to the skillet and toss to combine with the pork and sauce.",
-    "Serve immediately, garnished with chopped scallions and sesame seeds."
+    "Serve immediately, garnished with chopped scallions and sesame seeds.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -65,7 +64,6 @@
   "tags": [
     "chinese-food",
     "date-night",
-    "gluten-free",
     "noodle-dish",
     "pork-recipe",
     "smoky-flavors"
@@ -93,5 +91,10 @@
     "mainIngredient": "pork",
     "descriptor": "nutty smoky",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

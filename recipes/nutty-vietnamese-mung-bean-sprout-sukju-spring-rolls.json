@@ -3,9 +3,7 @@
   "description": "a nostalgic vietnamese dish featuring spherified mung-bean-sprout-sukju, crunchy vegetables, and a nutty sauce. perfect for a keto-friendly snack or lunch.",
   "cuisine": "vietnamese",
   "diet": [
-    "keto",
-    "vegetarian",
-    "gluten-free"
+    "keto"
   ],
   "meal": "snack",
   "ingredients": [
@@ -84,11 +82,9 @@
   "servings": 8,
   "difficulty": "hard",
   "tags": [
-    "gluten-free",
     "keto",
     "spherification",
     "spring-rolls",
-    "vegetarian",
     "vietnamese"
   ],
   "nutrition": {
@@ -114,5 +110,10 @@
     "mainIngredient": "mung-bean-sprout-sukju",
     "descriptor": "nutty",
     "dishForm": "Spring-Rolls"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

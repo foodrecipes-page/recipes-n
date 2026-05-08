@@ -80,7 +80,8 @@
     "Serve with a side of rice or couscous, if desired.",
     "Store any leftovers in an airtight container in the refrigerator for up to 3 days.",
     "Reheat the mechoui over low heat, stirring occasionally, until warmed through.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -92,8 +93,7 @@
     "main-course",
     "moroccan",
     "one-pan",
-    "sugar-free",
-    "vegan"
+    "sugar-free"
   ],
   "nutrition": {
     "calories": 250,
@@ -118,5 +118,10 @@
     "mainIngredient": "Mushrooms",
     "descriptor": "Nourishing",
     "dishForm": "Mechoui"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

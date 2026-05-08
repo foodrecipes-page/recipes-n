@@ -2,9 +2,7 @@
   "title": "Nourishing Smoky Russian English Muffin Kebabs",
   "description": "A hearty, smoky Russian dish featuring English muffins, perfect for a lazy Sunday, cooked in a tagine pot on a robata grill, with a bitter and shattering flavor profile.",
   "cuisine": "Russian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -87,5 +85,9 @@
     "mainIngredient": "english muffins",
     "descriptor": "Nourishing Smoky",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

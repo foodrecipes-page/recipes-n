@@ -62,7 +62,8 @@
     "reduce heat to low and stir in cold water",
     "spread a thin layer of lacquer glaze over the top of the tagine",
     "transfer the bowl to the oven and bake at 375f for 15 minutes",
-    "serve hot, garnished with chopped almonds and a drizzle of lacquer glaze"
+    "serve hot, garnished with chopped almonds and a drizzle of lacquer glaze",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -74,7 +75,6 @@
     "cinnamon-free",
     "flexitarian",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -100,5 +100,10 @@
     "mainIngredient": "Ground Clove",
     "descriptor": "Nutty Crunchy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

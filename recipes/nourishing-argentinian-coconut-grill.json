@@ -2,9 +2,7 @@
   "title": "Nourishing Argentinian Coconut Grill",
   "description": "Rich and velvety, this Argentinian coconut grill blends coconut cream with allspice and a savory vegetable medley. It is a vegan-friendly comfort dish that feels like a lazy Sunday indulgence.",
   "cuisine": "Argentinian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -85,8 +83,7 @@
     "comfort-food",
     "grilled",
     "lazy-sunday",
-    "spiced",
-    "vegan"
+    "spiced"
   ],
   "nutrition": {
     "calories": 400,
@@ -111,5 +108,9 @@
     "mainIngredient": "coconut",
     "descriptor": "Nourishing",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -84,7 +84,8 @@
     "If using chicken, ensure that it is organic and free-range for maximum nutrition.",
     "Note: You can also use a food processor to quickly chop the long-beans and make the empanada dough.",
     "Note: Traditionally, empanadas are served as a snack or dessert, but they can also be served as a main course or side dish.",
-    "Note: Empanadas are a great way to use up leftover vegetables and fillings, so feel free to get creative and experiment with different ingredients!"
+    "Note: Empanadas are a great way to use up leftover vegetables and fillings, so feel free to get creative and experiment with different ingredients!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 15,
@@ -97,8 +98,7 @@
     "empanadas",
     "long-beans",
     "shojin-friendly",
-    "south-american",
-    "vegetarian"
+    "south-american"
   ],
   "nutrition": {
     "calories": 250,
@@ -123,5 +123,10 @@
     "mainIngredient": "long-bean",
     "descriptor": "nourishing",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

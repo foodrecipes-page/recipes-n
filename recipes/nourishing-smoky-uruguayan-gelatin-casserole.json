@@ -76,7 +76,8 @@
     "Bloom the gelatin by sprinkling it over the cold water and letting it sit for 5 minutes; then whisk it into the sauce until fully dissolved.",
     "Transfer the sauce mixture to a 9x8 inch baking dish, spreading it evenly.",
     "Fold the low‑fat Greek yogurt into the top of the casserole, creating a light coating.",
-    "Bake uncovered for 20 minutes until the gelatin has set and the top is lightly browned."
+    "Bake uncovered for 20 minutes until the gelatin has set and the top is lightly browned.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "difficulty": "medium",
   "prepTimeMin": 15,
@@ -110,5 +111,9 @@
     "mainIngredient": "Gelatin",
     "descriptor": "Nourishing Smoky",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

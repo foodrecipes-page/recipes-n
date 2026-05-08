@@ -53,7 +53,8 @@
     "In a large bowl, combine the cooked beans, beef mixture, and lemon juice",
     "Transfer the mixture to a baking dish and drizzle with olive oil",
     "Season with salt and black pepper to taste",
-    "Bake for 25 minutes or until hot and bubbly"
+    "Bake for 25 minutes or until hot and bubbly",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -90,5 +91,9 @@
     "mainIngredient": "beans",
     "descriptor": "nourishing spicy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Nutty Thai Chicken Curry",
   "description": "A peppery and creamy Thai dish featuring dark brown sugar, perfect for a post-workout meal, made in a ceramic tagine with a pasta water emulsion.",
   "cuisine": "Thai",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "nutty creamy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

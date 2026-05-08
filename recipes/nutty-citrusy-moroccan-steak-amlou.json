@@ -2,9 +2,7 @@
   "title": "Nutty Citrusy Moroccan Steak Amlou",
   "description": "A citrusy and cozy Moroccan dish featuring fillet of steak in a rich amlou sauce, perfect for a special occasion. This vegan-friendly version uses portobello mushrooms instead of traditional steak.",
   "cuisine": "Moroccan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "steak",
     "descriptor": "Nutty Citrusy",
     "dishForm": "Amlou"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

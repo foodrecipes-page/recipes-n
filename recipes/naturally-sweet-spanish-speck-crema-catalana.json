@@ -2,9 +2,7 @@
   "title": "Naturally Sweet Spanish Speck Crema Catalana",
   "description": "A garlicky and light Spanish dessert featuring speck, perfect for a date night, this vegan-friendly crema catalana is a unique twist on a classic dish, it is made with speck and candy to give it a sweet and savory flavor",
   "cuisine": "Spanish",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -52,7 +50,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
-  "totalTimeMin": 65,
+  "totalTimeMin": 45,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -61,8 +59,7 @@
     "dessert",
     "garlicky",
     "light",
-    "spanish",
-    "vegan"
+    "spanish"
   ],
   "nutrition": {
     "calories": 320,
@@ -87,5 +84,10 @@
     "mainIngredient": "speck",
     "descriptor": "Naturally Sweet",
     "dishForm": "Crema Catalana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

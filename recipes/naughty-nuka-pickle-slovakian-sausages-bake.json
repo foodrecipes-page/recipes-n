@@ -54,7 +54,8 @@
     "Sprinkle the gruyère and mozzarella cheese over the sauce.",
     "Add 1/2 medium onion, diced, on top of the cheese.",
     "Mince 2 garlic cloves and sprinkle over the onion.",
-    "Sprinkle 1/2 tsp caraway seeds and 1/4 tsp white pepper over the garlic."
+    "Sprinkle 1/2 tsp caraway seeds and 1/4 tsp white pepper over the garlic.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -92,5 +93,9 @@
     "mainIngredient": "sausages",
     "descriptor": "naughty nuka-pickle",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

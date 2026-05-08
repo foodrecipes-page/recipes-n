@@ -71,7 +71,8 @@
     "Pour in the coconut milk, water, tamarind paste, and palm sugar, then bring to a gentle simmer.",
     "Reduce the heat to low, cover, and cook for 15 minutes until the chicken is tender.",
     "Stir in the orange zest and season with salt to taste, letting the flavors meld for five more minutes.",
-    "Garnish with fresh cilantro before serving hot over steamed rice."
+    "Garnish with fresh cilantro before serving hot over steamed rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -107,5 +108,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Nourishing",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

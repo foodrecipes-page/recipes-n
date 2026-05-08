@@ -3,8 +3,7 @@
   "description": "A flavorful, paleo-friendly Venezuelan dish made with ginger garlic paste, tadka, and crispy arepas.",
   "cuisine": "Venezuelan",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "veggie-packed",
@@ -94,5 +92,9 @@
     "mainIngredient": null,
     "descriptor": "Nutritious",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

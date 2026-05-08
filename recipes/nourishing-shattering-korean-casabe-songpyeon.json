@@ -3,8 +3,7 @@
   "description": "Savory Korean dish featuring casabe, namul-blanch-season, and egg-free-friendly ingredients, formed into songpyeon, a crowd-pleasing snack",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -67,7 +66,6 @@
   "tags": [
     "crowd-pleaser",
     "easy-to-make",
-    "gluten-free",
     "korean-snack",
     "savory",
     "vegetarian-friendly"
@@ -95,5 +93,9 @@
     "mainIngredient": "casabe",
     "descriptor": "Nourishing Shattering",
     "dishForm": "Songpyeon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

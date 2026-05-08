@@ -62,7 +62,8 @@
     "Grill the ground beef until it is cooked to the desired level of doneness.",
     "Assemble the burgers by spreading a slice of tomato on the bottom bun, followed by a cooked beef patty, a few slices of onion, a sprinkle of lettuce, and finally the top bun.",
     "Season with salt and black pepper to taste.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -100,5 +101,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Naturally Crisp",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

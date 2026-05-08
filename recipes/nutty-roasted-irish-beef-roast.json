@@ -3,7 +3,6 @@
   "description": "A rich and savory Irish beef roast with crunchy nut topping, perfect for a cold winter's night.",
   "cuisine": "Irish",
   "diet": [
-    "gluten-free",
     "high-protein"
   ],
   "meal": "dinner",
@@ -94,7 +93,6 @@
   "difficulty": "medium",
   "tags": [
     "beef",
-    "gluten-free",
     "high-protein",
     "irish",
     "one-pan",
@@ -124,5 +122,9 @@
     "mainIngredient": "beef",
     "descriptor": "Nutty Roasted",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

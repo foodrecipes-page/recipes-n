@@ -95,7 +95,6 @@
     "herbal",
     "one-pan",
     "saudi-arabian",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -121,5 +120,9 @@
     "mainIngredient": "herbal",
     "descriptor": "nourishing",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

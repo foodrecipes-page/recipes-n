@@ -2,9 +2,7 @@
   "title": "Nice Bitter Chinese Pickles Jiaozi",
   "description": "A traditional Chinese dish featuring bitter pickles and bouncy jiaozi, grilled to perfection with a yakimono style, this recipe is gluten free friendly and sure to impress, it is a show off chinese dish that combines the nice bitter taste of pickles with the qq texture of jiaozi.",
   "cuisine": "Chinese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -58,7 +56,8 @@
     "Add a small amount of water to the skillet and cover with a lid, and steam the jiaozi for 5 minutes.",
     "Remove the lid and cook for an additional 2 minutes, until the jiaozi are cooked through and the water has evaporated.",
     "Serve the jiaozi hot with your favorite dipping sauce.",
-    "To add a yakimono grill style to the dish, grill the jiaozi for an additional 2 minutes on each side, until they are crispy and golden brown."
+    "To add a yakimono grill style to the dish, grill the jiaozi for an additional 2 minutes on each side, until they are crispy and golden brown.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -68,7 +67,6 @@
   "tags": [
     "asian-cuisine",
     "chinese-food",
-    "gluten-free",
     "jiaozi-recipe",
     "pickled-vegetables",
     "yakimono-grill"
@@ -96,5 +94,10 @@
     "mainIngredient": "pickles",
     "descriptor": "Nice Bitter",
     "dishForm": "Jiaozi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

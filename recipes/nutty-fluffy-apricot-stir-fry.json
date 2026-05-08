@@ -26,7 +26,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350\u00b0F (175\u00b0C).",
+    "Preheat your oven to 350°F (175°C).",
     "Toast the almonds in a dry skillet over medium heat until they are golden brown and fragrant, about 2-3 minutes.",
     "Meanwhile, slice the dried apricots into small pieces if not already done.",
     "In a wok or large frying pan, add a bit of oil (optional).",
@@ -62,11 +62,15 @@
     "mood": "quick-fix",
     "technique": "simmer",
     "primaryIngredient": "dried apricots",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Norwegian",
     "mainIngredient": "apricot",
     "descriptor": "Nutty Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

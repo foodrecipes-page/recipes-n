@@ -70,7 +70,8 @@
     "Stir in the red wine jelly and cook until melted and smooth.",
     "Add the cooked pork cubes to the pan and toss to coat with the sauce.",
     "Sprinkle the chopped walnuts over the top of the stew and serve hot.",
-    "Garnish with fresh parsley or thyme, if desired."
+    "Garnish with fresh parsley or thyme, if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 1440,
@@ -109,5 +110,9 @@
     "mainIngredient": "pork",
     "descriptor": "Nutty Spicy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -47,7 +47,8 @@
     "Add the diced tomatoes, salt, black pepper, and paprika to the skillet and stir to combine.",
     "Return the cooked beef to the skillet and stir to combine with the tomato mixture.",
     "Reduce heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
-    "Serve the skillet hot, garnished with chopped fresh parsley if desired."
+    "Serve the skillet hot, garnished with chopped fresh parsley if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -84,5 +85,9 @@
     "mainIngredient": "beef",
     "descriptor": "naturally buttery",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

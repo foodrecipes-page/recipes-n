@@ -62,7 +62,8 @@
     "Add the cooked pak choi mixture and melted chocolate to the bowl and stir to combine.",
     "Transfer the stew to a mason jar and serve hot.",
     "Garnish with additional smoked paprika if desired.",
-    "Let cool completely before refrigerating or freezing."
+    "Let cool completely before refrigerating or freezing.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -100,5 +101,9 @@
     "mainIngredient": "pak choi",
     "descriptor": "nourishing creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

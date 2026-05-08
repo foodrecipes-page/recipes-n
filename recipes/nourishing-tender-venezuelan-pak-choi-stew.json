@@ -3,7 +3,6 @@
   "description": "A nourishing and tender stew featuring pak choi, perfect for a sick day, with an earthy flavor and a sweet glaze, this dish is a dash-friendly Venezuelan classic.",
   "cuisine": "Venezuelan",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -62,7 +61,8 @@
     "Add the pak choi, tomato paste, cumin, chicken broth, and honey, stir to combine.",
     "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
     "Season the stew with salt and pepper to taste.",
-    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -74,7 +74,6 @@
     "gluten-free",
     "nourishing",
     "one-pot",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -100,5 +99,10 @@
     "mainIngredient": "pak choi",
     "descriptor": "nourishing tender",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

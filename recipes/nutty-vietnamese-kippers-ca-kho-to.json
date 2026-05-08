@@ -3,7 +3,6 @@
   "description": "A smoky, nutty Vietnamese stew featuring kippers simmered with caramel sauce, spices, and blanched greens, perfect for a date night.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "seafood"
   ],
   "meal": "dinner",
@@ -122,5 +121,9 @@
     "mainIngredient": "Kippers",
     "descriptor": "Nutty",
     "dishForm": "Ca Kho To"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

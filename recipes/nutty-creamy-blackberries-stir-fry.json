@@ -2,9 +2,7 @@
   "title": "Nutty Creamy Blackberries Stir-fry",
   "description": "A vegan-friendly Ukrainian-inspired dish featuring blackberries in a creamy nut sauce, perfect for a quick weeknight meal.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -56,8 +54,7 @@
     "creamy",
     "blackberries",
     "stir-fry",
-    "ukrainian",
-    "vegan"
+    "ukrainian"
   ],
   "nutrition": {
     "calories": 180,
@@ -82,5 +79,9 @@
     "mainIngredient": "Blackberries",
     "descriptor": "Nutty Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

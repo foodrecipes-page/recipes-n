@@ -2,9 +2,7 @@
   "title": "Nutty Thai Gelatine Leaf Stir-fry",
   "description": "A dense and nutty one-pot Thai dish featuring gelatin leafs in a flavorful sauce that is halal-friendly.",
   "cuisine": "Thai",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "Gelatine leafs",
     "descriptor": "Nutty",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

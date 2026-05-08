@@ -2,9 +2,7 @@
   "title": "Nutty Velvety Italian Courgette Stir-fry",
   "description": "This festive Italian (Neapolitan) dish features courgettes kneaded with a velvety nuttiness and vegan-friendly for a satisfying snack.",
   "cuisine": "Italian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -55,7 +53,6 @@
   "difficulty": "easy",
   "tags": [
     "courgette",
-    "vegan",
     "almond-butter",
     "pesto",
     "stir-fry",
@@ -84,5 +81,9 @@
     "mainIngredient": "Courgette",
     "descriptor": "Nutty Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

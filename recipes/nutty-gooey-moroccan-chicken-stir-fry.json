@@ -62,7 +62,8 @@
     "In a separate pan, heat remaining olive oil over medium heat, add the ground spice mixture and sauté for about 2 minutes. Stir in tomato paste, then pour in the water or broth.",
     "Bring the sauce to a boil, reduce heat to low, add the chicken legs and dumplings, cover with foil, and bake in the oven for about 30 minutes.",
     "About 15-20 minutes before serving, remove from the oven. Sprinkle the nut mix on top of the chicken and let it sit for a few more minutes.",
-    "Garnish with saffron strands if using, serve hot."
+    "Garnish with saffron strands if using, serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 60,
@@ -100,5 +101,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Nutty Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

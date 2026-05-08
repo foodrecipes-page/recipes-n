@@ -3,8 +3,7 @@
   "description": "A malty, juicy, and flavorful Korean dish featuring Thai eggplant and a rustic, easy-to-make yakimono-grill. This dish is suitable for a lazy Sunday afternoon meal.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -91,7 +90,6 @@
   "tags": [
     "easy-korean",
     "eggplant",
-    "gluten-free",
     "korean",
     "makhua",
     "thai",
@@ -122,5 +120,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "naturally malty",
     "dishForm": "yakimono"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

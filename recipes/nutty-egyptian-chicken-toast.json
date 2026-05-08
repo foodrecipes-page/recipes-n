@@ -2,10 +2,7 @@
   "title": "Nutty Egyptian Chicken Toast",
   "description": "A jammy and creamy Egyptian dish featuring harissa spice, served on toast, perfect for meal prep",
   "cuisine": "Egyptian",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -58,7 +55,8 @@
     "While the chicken is baking, toast the pita bread slices.",
     "In a small bowl, mix together the greek yogurt and lemon juice.",
     "Once the chicken is done, let it cool for a few minutes before chopping it into smaller pieces.",
-    "Assemble the toast by spreading a layer of yogurt mixture on each pita slice, then topping with chicken, walnuts, and a sprinkle of harissa spice."
+    "Assemble the toast by spreading a layer of yogurt mixture on each pita slice, then topping with chicken, walnuts, and a sprinkle of harissa spice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -67,7 +65,6 @@
   "difficulty": "easy",
   "tags": [
     "chicken-recipes",
-    "gluten-free",
     "high-protein",
     "middle-eastern",
     "one-pan",
@@ -96,5 +93,11 @@
     "mainIngredient": "chicken",
     "descriptor": "Nutty",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

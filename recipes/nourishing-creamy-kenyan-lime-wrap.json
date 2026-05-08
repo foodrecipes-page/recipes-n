@@ -71,7 +71,8 @@
     "Remove the pan from heat, cool the mixture to 28°C, then fold in melted dark chocolate gradually until fully incorporated.",
     "Stir in lime juice, lime zest, and a pinch of sea salt until the filling is evenly combined.",
     "Lay a lotus leaf flat, spoon 2–3 tablespoons of the filling onto the center, roll tightly, and secure with a kitchen twine.",
-    "Place the wraps seam side down in a steamer basket over boiling water and steam for five minutes, then serve hot."
+    "Place the wraps seam side down in a steamer basket over boiling water and steam for five minutes, then serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 5,
@@ -109,5 +110,9 @@
     "mainIngredient": "lime",
     "descriptor": "Nourishing Creamy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A nutritious, no-fuss pilaf dish featuring oyster mushrooms, perfect for a pescatarian-friendly brunch or lunch.",
   "cuisine": "Mediterranean",
   "diet": [
-    "pescatarian",
-    "vegetarian"
+    "pescatarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -72,7 +71,6 @@
     "high-fiber",
     "one-pan",
     "pescatarian",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -98,5 +96,9 @@
     "mainIngredient": "oyster mushrooms",
     "descriptor": "Nutritious, No-Fuss",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -100,11 +100,15 @@
     "mood": "cozy",
     "technique": "braise",
     "primaryIngredient": "smoked paprika",
-    "diet": "kosher",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Jamaican",
     "mainIngredient": "Hibiscus",
     "descriptor": "Nurturing",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

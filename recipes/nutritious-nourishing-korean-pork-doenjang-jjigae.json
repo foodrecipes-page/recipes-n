@@ -68,7 +68,8 @@
     "Stir in the green onions and cook for an additional 1-2 minutes.",
     "Serve the stew hot, garnished with additional green onions if desired.",
     "Note: If using a slow cooker, cook on low for 6-8 hours or on high for 3-4 hours.",
-    "Serve with steamed rice or noodles, if desired."
+    "Serve with steamed rice or noodles, if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -106,5 +107,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Nutritious Nourishing",
     "dishForm": "Doenjang Jjigae"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

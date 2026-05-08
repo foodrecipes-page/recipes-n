@@ -2,9 +2,7 @@
   "title": "Nutty Malaysian Rice Noodles",
   "description": "A kid-friendly, malaysian-inspired dish featuring nutty rice noodles and a fermented sauce. This gluten-free-friendly recipe is perfect for a weeknight dinner.",
   "cuisine": "malaysian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -84,7 +82,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "kid-friendly",
     "one-pan",
     "weeknight"
@@ -112,5 +109,9 @@
     "mainIngredient": "rice",
     "descriptor": "nutty",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

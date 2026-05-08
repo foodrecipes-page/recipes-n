@@ -3,8 +3,6 @@
   "description": "A tangy and crunchy German-inspired dish, featuring Jamaican curry powder, pickles, and a variety of herbs, perfectly suited for a cataplana vessel. This recipe is ayurvedic-sattvic-friendly and perfect for a meal any time of the day.",
   "cuisine": "German-Jamaican Fusion",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free",
     "dairy-free"
   ],
@@ -120,5 +118,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Nourishing Jamaican Spice",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

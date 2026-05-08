@@ -3,7 +3,6 @@
   "description": "A briny and tender Vietnamese dish featuring sun-dried tomatoes and a mirepoix base, this bo kho is a show-off dish that is nut-free-friendly.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -85,11 +84,16 @@
     "mood": "show-off",
     "technique": "mirepoix-base",
     "primaryIngredient": "sun-dried tomatoes",
-    "diet": "nut-free",
+    "diet": "dairy-free",
     "region": null,
     "cuisineAdjective": "Vietnamese",
     "mainIngredient": "beef",
     "descriptor": "nourishing tender",
     "dishForm": "Bo Kho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

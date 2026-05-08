@@ -3,8 +3,7 @@
   "description": "A quick-fix American dish featuring potato buns and wood-fired baked patties, suitable for a Buddhist temple gathering.",
   "cuisine": "American",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -57,7 +56,8 @@
     "Assemble the burgers by spreading vegan mayo on the buns, followed by a black bean patty, caramelized onions, mushroom slices, shredded lettuce, tomato slices, and pickles.",
     "Serve immediately and enjoy.",
     "Consider adding a side of sweet potato fries or a green salad for a complete meal.",
-    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -95,5 +95,10 @@
     "mainIngredient": "potato",
     "descriptor": "Nice Crunchy",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-preserving_no_acid"
+  ]
 }

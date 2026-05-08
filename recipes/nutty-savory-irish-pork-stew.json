@@ -59,7 +59,9 @@
     "Add the chicken broth to the pot, covering the ingredients and bringing to a boil.",
     "Cover the pot and transfer to the preheated oven, cooking for 2 hours.",
     "Remove the pot from the oven and stir in the rendered lardons.",
-    "Season the stew to taste and serve hot."
+    "Season the stew to taste and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -96,5 +98,10 @@
     "mainIngredient": "pork",
     "descriptor": "Nutty Savory",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

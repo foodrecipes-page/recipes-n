@@ -68,7 +68,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "japanese-cuisine",
     "one-pan",
@@ -99,5 +98,9 @@
     "mainIngredient": "pappardelle",
     "descriptor": "Nutty New",
     "dishForm": "Zenzai-Style Pappardelle"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

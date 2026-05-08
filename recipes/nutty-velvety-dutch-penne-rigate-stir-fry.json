@@ -3,7 +3,6 @@
   "description": "A Mediterranean-friendly breakfast dish featuring Nutty Velvety Penne Rigate, a blend of creamy and nutty flavors that can help cure hangovers.",
   "cuisine": "Mediterranean",
   "diet": [
-    "vegan",
     "pescatarian"
   ],
   "meal": "breakfast",
@@ -83,5 +82,9 @@
     "mainIngredient": "Penne Rigate",
     "descriptor": "Nutty Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

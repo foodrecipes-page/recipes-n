@@ -4,8 +4,7 @@
   "cuisine": "Thai",
   "diet": [
     "keto",
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "keto-friendly",
     "low-carb",
     "one-pot",
@@ -95,5 +93,9 @@
     "mainIngredient": "fish",
     "descriptor": "Nimono Garlicky",
     "dishForm": "Kanom Jeen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

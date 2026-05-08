@@ -2,9 +2,7 @@
   "title": "Nutty Peruvian Peanut Crumble",
   "description": "This kid-friendly peruvian dish features a nutty and tender peanut brittle base that kids will love.",
   "cuisine": "Peruvian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -33,7 +31,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C).",
+    "Preheat oven to 350°F (175°C).",
     "In a mixing bowl, combine peanut butter and coconut oil until smooth.",
     "Add cocoa powder and mix well. Gradually add honey or maple syrup, stirring continuously to avoid clumping.",
     "Fold in pumpkin seeds and almond meal gently with a spatula until evenly distributed.",
@@ -75,5 +73,9 @@
     "mainIngredient": "peanuts",
     "descriptor": "Nutty",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

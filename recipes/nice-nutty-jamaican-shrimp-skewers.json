@@ -3,7 +3,6 @@
   "description": "A quick and flavorful Jamaican dish featuring shrimp, light rum, and a hint of nuttiness, grilled to perfection on a robata grill. This dish is ayurvedic-tamasic-friendly and can be prepared in no time.",
   "cuisine": "Jamaican",
   "diet": [
-    "gluten-free",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -103,5 +102,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "nice nutty",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -93,11 +93,15 @@
     "mood": "one-pot",
     "technique": "tadka",
     "primaryIngredient": "dried white navy beans",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Spanish",
     "mainIngredient": "navy beans",
     "descriptor": "Nourishing Bitter",
     "dishForm": "Patatas Bravas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -3,8 +3,6 @@
   "description": "A rich and comforting French dish featuring poached corn and a nutty flavor.",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
-    "kosher",
     "gluten-free"
   ],
   "meal": "snack",
@@ -70,7 +68,8 @@
     "Note: Traditionally rillettes are served in small terrines or ramekins. You can also serve in small bowls or on toasted bread.",
     "If you prefer a lighter consistency, you can add more chicken broth or heavy cream to the rillettes before serving.",
     "For a gluten-free option, make sure to use a gluten-free chicken broth.",
-    "Nutrition information is an estimate and may vary based on specific ingredient brands and measurements."
+    "Nutrition information is an estimate and may vary based on specific ingredient brands and measurements.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -84,8 +83,7 @@
     "french-cuisine",
     "make-ahead",
     "side-dish",
-    "snack",
-    "vegetarian"
+    "snack"
   ],
   "nutrition": {
     "calories": 420,
@@ -110,5 +108,11 @@
     "mainIngredient": "corn",
     "descriptor": "Nutty dense",
     "dishForm": "rillettes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

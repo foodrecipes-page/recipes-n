@@ -60,7 +60,8 @@
     "Pour in the coconut milk and bring the mixture to a simmer.",
     "Reduce the heat to low and let the curry simmer for 20 minutes, stirring occasionally.",
     "Stir in the chopped peanuts and continue to simmer for an additional 5 minutes.",
-    "Remove the bay leaf from the pan and serve the curry hot."
+    "Remove the bay leaf from the pan and serve the curry hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -98,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "nutty aromatic",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -23,13 +23,14 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 170\u00b0C (340\u00b0F).",
+    "Preheat your air fryer to 170°C (340°F).",
     "Grate the Parmigiano-Reggiano cheese and mix it with the mixed nuts and pinch of sea salt.",
     "Stir in the low-sodium soy sauce until well combined.",
     "Divide the mixture into small portions for easy crumbled pieces.",
     "Place the grated cheese-nut-soy sauce mixture on a wire rack inside your air fryer basket.",
     "Air-fry for 8-10 minutes or until crispy, turning once halfway through cooking time.",
-    "Serve warm as a snack or light meal with a side of pickled vegetables."
+    "Serve warm as a snack or light meal with a side of pickled vegetables.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 8,
@@ -66,5 +67,9 @@
     "mainIngredient": "Parmigiano-Reggiano",
     "descriptor": "Nutty Crispy",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

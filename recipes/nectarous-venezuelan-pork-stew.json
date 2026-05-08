@@ -63,7 +63,8 @@
     "Cover and simmer on low heat for 45 minutes, or until pork is tender and juices have thickened.",
     "While pork cooks, blanch the namul greens in boiling water for 1 minute, then shock in ice water and drain.",
     "Stir the blanched namul into the stew during the last 5 minutes of cooking.",
-    "Serve hot over white rice or with crusty bread, garnish with fresh cilantro if desired."
+    "Serve hot over white rice or with crusty bread, garnish with fresh cilantro if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -100,5 +101,9 @@
     "mainIngredient": "pork",
     "descriptor": "Nectarous",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

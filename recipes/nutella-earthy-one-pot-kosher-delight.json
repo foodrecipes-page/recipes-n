@@ -53,11 +53,12 @@
     "Gently fold in Nutella to incorporate with the vegetables, creating a smooth mixture.",
     "Pour in Kosher Chicken Stock Cube cube water and stir gently to dissolve.",
     "Cover pot and simmer on low heat for 30 minutes until thickened and slightly reduced.",
-    "If desired, sprinkle Panko Bread Crumbs over the top and cook for another few minutes or until golden brown."
+    "If desired, sprinkle Panko Bread Crumbs over the top and cook for another few minutes or until golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
-  "totalTimeMin": 60,
+  "totalTimeMin": 40,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -85,5 +86,10 @@
     "primaryIngredient": "nutella",
     "diet": "kosher",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "recomputed-totalTime"
+  ]
 }

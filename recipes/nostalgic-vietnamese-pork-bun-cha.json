@@ -3,7 +3,6 @@
   "description": "This dish features umami flavors and a shattering texture, with a focus on ayurvedic-sattvic-friendly ingredients, making it a unique and nostalgic Vietnamese experience.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -55,7 +54,8 @@
     "Drizzle the remaining marinade over the top of the dish.",
     "Serve immediately and enjoy.",
     "Reduce the amount of red pepper flakes if you prefer a milder flavor.",
-    "Garnish with additional mint and lettuce if desired."
+    "Garnish with additional mint and lettuce if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -92,5 +92,10 @@
     "mainIngredient": "pork",
     "descriptor": "Nostalgic Savory",
     "dishForm": "Bun Cha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

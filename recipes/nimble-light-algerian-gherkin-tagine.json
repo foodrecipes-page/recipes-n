@@ -58,7 +58,8 @@
     "Remove the bag from the sous-vide machine and let it cool.",
     "Strain the tagine through a fine-mesh sieve into a bowl.",
     "Discard the solids and serve the tagine hot.",
-    "Garnish with chopped fresh parsley or cilantro if desired."
+    "Garnish with chopped fresh parsley or cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -95,5 +96,9 @@
     "mainIngredient": "gherkin",
     "descriptor": "Nimble Light",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

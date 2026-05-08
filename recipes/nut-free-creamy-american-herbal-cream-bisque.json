@@ -57,7 +57,8 @@
     "Use an immersion blender to puree the soup until smooth.",
     "Stir in the heavy cream and bhuna curry powder.",
     "Season with salt to taste.",
-    "Serve hot, garnished with chopped parsley if desired."
+    "Serve hot, garnished with chopped parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -95,5 +96,9 @@
     "mainIngredient": "herbal cream",
     "descriptor": "Nut-Free Creamy",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

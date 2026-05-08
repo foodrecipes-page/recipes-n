@@ -77,7 +77,8 @@
     "Bring to a simmer and cook, stirring occasionally, until the liquid has been absorbed and the rice is tender, about 20 minutes.",
     "Stir in the olives, Manchego cheese, and lemon juice.",
     "Transfer the paella to a serving platter and garnish with lemon wedges and crusty bread.",
-    "Serve immediately, garnished with parsley and lemon wedges."
+    "Serve immediately, garnished with parsley and lemon wedges.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -116,5 +117,9 @@
     "mainIngredient": "Octopus",
     "descriptor": "Nimble Seafood",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

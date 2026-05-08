@@ -3,7 +3,6 @@
   "description": "A flavorful and nutritious wrap made with lentils, aromatic spices, and fresh herbs, all wrapped in a gluten-free corn husk.",
   "cuisine": "Mediterranean",
   "diet": [
-    "vegan",
     "gluten-free",
     "low-carb"
   ],
@@ -94,7 +93,6 @@
     "low-carb",
     "mediterranean",
     "one-pot",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -120,5 +118,9 @@
     "mainIngredient": "Lentils",
     "descriptor": "Nutrient-dense, Aromatic",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

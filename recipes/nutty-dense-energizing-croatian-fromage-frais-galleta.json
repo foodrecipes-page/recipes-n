@@ -81,11 +81,15 @@
     "mood": "energizing",
     "technique": "mantecare-emulsify",
     "primaryIngredient": "fromage frais",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Croatian",
     "mainIngredient": "fromage frais",
     "descriptor": "nutty dense energizing",
     "dishForm": "Galleta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

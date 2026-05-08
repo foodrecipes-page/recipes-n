@@ -53,7 +53,8 @@
     "Stir in the mixed fruit candy and cook for an additional 2 minutes.",
     "In a large bowl, combine the cooked beef mixture and mashed potatoes, stirring until well combined.",
     "Transfer the mixture to a 9x13 inch baking dish and dot the top with butter.",
-    "Bake the casserole in the preheated oven for 25 minutes, or until the top is golden brown and the casserole is hot and bubbly."
+    "Bake the casserole in the preheated oven for 25 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -91,5 +92,9 @@
     "mainIngredient": "beef",
     "descriptor": "nourishing pillowy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

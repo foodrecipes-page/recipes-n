@@ -54,7 +54,9 @@
     "Reduce the heat to low and simmer, covered, for 2 hours.",
     "Add the sliced carrots and continue to simmer, covered, for another 30 minutes.",
     "Remove from heat and let cool slightly before serving.",
-    "Serve hot, garnished with fresh parsley if desired."
+    "Serve hot, garnished with fresh parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -91,5 +93,10 @@
     "mainIngredient": "pork",
     "descriptor": "Nourishing Dense",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

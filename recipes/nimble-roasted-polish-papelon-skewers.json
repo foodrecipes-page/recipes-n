@@ -54,7 +54,8 @@
     "Place the skewers in a large wok and roast in the oven for 20 minutes.",
     "Remove the wok from the oven and add the shredded papelon to the wok.",
     "Return the wok to the oven and continue to roast for an additional 10 minutes, or until the papelon is crispy and golden brown.",
-    "Remove the wok from the oven and let it cool for a few minutes before serving."
+    "Remove the wok from the oven and let it cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -92,5 +93,9 @@
     "mainIngredient": "papelon",
     "descriptor": "Nimble Roasted",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

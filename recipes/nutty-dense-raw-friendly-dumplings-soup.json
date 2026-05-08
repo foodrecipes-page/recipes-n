@@ -3,8 +3,7 @@
   "description": "A cozy Peruvian dish featuring hot beef stock, nutty raw-friendly dumplings, and other complementary ingredients to create a full meal suitable for all-day consumption.",
   "cuisine": "Peruvian",
   "diet": [
-    "raw-friendly",
-    "vegan"
+    "raw-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -86,5 +85,9 @@
     "mainIngredient": "Dumplings",
     "descriptor": "Nutty Dense Raw Friendly",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

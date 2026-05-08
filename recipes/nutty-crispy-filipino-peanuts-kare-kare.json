@@ -3,7 +3,6 @@
   "description": "A funky, crispy, energizing Filipino dish featuring vegan butter and binchotan-charcoal, this macrobiotic-friendly kare-kare is a unique twist on a classic recipe. It combines the richness of peanuts with the crunch of crispy elements.",
   "cuisine": "Filipino",
   "diet": [
-    "vegan",
     "macrobiotic"
   ],
   "meal": "dinner",
@@ -99,5 +98,9 @@
     "mainIngredient": "peanuts",
     "descriptor": "Nutty Crispy",
     "dishForm": "Kare Kare"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

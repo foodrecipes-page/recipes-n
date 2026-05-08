@@ -3,9 +3,7 @@
   "description": "A spicy, crisp and adventurous German dish featuring smoked turkey neck, serving as a plant-based-friendly option. This recipe is best prepared using a tava-griddle.",
   "cuisine": "german",
   "diet": [
-    null,
-    "vegan",
-    "gluten-free"
+    null
   ],
   "meal": "lunch",
   "ingredients": [
@@ -78,7 +76,8 @@
     "Cook for 4-5 minutes or until the pastry is golden brown and the filling is heated through.",
     "Repeat the process with the remaining pastry pieces and filling.",
     "Garnish with fresh parsley and serve hot.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -116,5 +115,11 @@
     "mainIngredient": "Smoked Turkey Neck",
     "descriptor": "Nicely Smoked",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A pungent, crunchy one-pot Turkish dish featuring ground annatto, clay-pot-cooked to perfection. Perfect for Mediterranean diets.",
   "cuisine": "Turkish",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -67,7 +66,8 @@
     "Add 1 cup of water to the clay pot and bring to a boil.",
     "Reduce the heat to low, cover the clay pot, and simmer for 20-25 minutes, or until the flavors have melded together and the liquid has thickened.",
     "Stir in the chopped parsley and crushed walnuts. Serve hot, garnished with additional parsley if desired.",
-    "Serve with crusty bread or over rice, if desired."
+    "Serve with crusty bread or over rice, if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -106,5 +106,10 @@
     "mainIngredient": "ground annatto",
     "descriptor": "Nutty Nourishing",
     "dishForm": "Kazandibi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Nourishing Sweet Tunisian Raspberry Tagine",
   "description": "A sweet and savory Tunisian dish featuring fresh raspberries, perfect for a solo dinner, and is vegetarian friendly.",
   "cuisine": "Tunisian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,7 +65,8 @@
     "Add the fresh raspberries, honey, chicken broth, salt, and black pepper, and stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
     "Remove the saucepan from the heat and let it cool slightly.",
-    "Serve the tagine hot, garnished with additional fresh raspberries if desired."
+    "Serve the tagine hot, garnished with additional fresh raspberries if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -79,8 +78,7 @@
     "north-african",
     "one-pot",
     "sweet-and-savory",
-    "tunisian-cuisine",
-    "vegetarian"
+    "tunisian-cuisine"
   ],
   "nutrition": {
     "calories": 420,
@@ -105,5 +103,10 @@
     "mainIngredient": "raspberries",
     "descriptor": "Nourishing Sweet",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

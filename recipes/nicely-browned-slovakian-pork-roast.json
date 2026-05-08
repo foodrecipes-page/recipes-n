@@ -62,7 +62,8 @@
     "Remove the pork from the oven and let it rest for 10 minutes before slicing it thinly against the grain.",
     "Serve the pork with the caramelized onions and applesauce.",
     "Serve with your favorite sides, such as mashed potatoes or braised red cabbage.",
-    "Chill any leftovers in the refrigerator within 2 hours of cooking and reheat safely to 74°C (165°F)."
+    "Chill any leftovers in the refrigerator within 2 hours of cooking and reheat safely to 74°C (165°F).",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -99,5 +100,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Nicely Browned",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

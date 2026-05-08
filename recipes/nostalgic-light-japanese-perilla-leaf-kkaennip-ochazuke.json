@@ -2,9 +2,7 @@
   "title": "Nostalgic Light Japanese Perilla-Leaf-Kkaennip Ochazuke",
   "description": "A resinous, light, and nostalgic Japanese dish featuring perilla-leaf-kkaennip, served in a hot dolsot stone bowl. This recipe is vegetarian-friendly and perfect for a quick weeknight meal.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -294,7 +292,6 @@
     "nourishing",
     "ochazuke",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -320,5 +317,9 @@
     "mainIngredient": "perilla-leaf-kkaennip",
     "descriptor": "Nostalgic Light",
     "dishForm": "Ochazuke"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

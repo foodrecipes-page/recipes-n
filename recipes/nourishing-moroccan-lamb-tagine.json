@@ -67,7 +67,8 @@
     "Cover the tagine and transfer it to the oven, where it will cook at 300 degrees for 2 1/2 hours.",
     "Remove the tagine from the oven and let it cool for 10 minutes before serving.",
     "Serve the lamb and sauce over couscous or rice, garnished with fresh mint and parsley.",
-    "Store any leftovers in the refrigerator for up to 3 days or freeze for up to 2 months."
+    "Store any leftovers in the refrigerator for up to 3 days or freeze for up to 2 months.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -105,5 +106,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Nourishing",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

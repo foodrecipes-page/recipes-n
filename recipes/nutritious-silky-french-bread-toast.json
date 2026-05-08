@@ -52,7 +52,8 @@
     "Mince garlic and sprinkle it over the bread.",
     "Bake the bread in the preheated oven for 10 minutes or until it is toasted and crispy.",
     "Remove the bread from the oven and let it cool for a few minutes.",
-    "Serve the toasted bread warm and enjoy."
+    "Serve the toasted bread warm and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -90,5 +91,9 @@
     "mainIngredient": "bread",
     "descriptor": "Nutritious Silky",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

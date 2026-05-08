@@ -3,8 +3,7 @@
   "description": "A classic Irish dish featuring tender lamb, fluffy potatoes, and a tangy jam-based sauce, all cooked to perfection in one pot. This recipe is a great weeknight option.",
   "cuisine": "irish",
   "diet": [
-    "sugar-free-friendly",
-    "gluten-free"
+    "sugar-free-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -104,5 +103,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Nourishing Tender",
     "dishForm": "Braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

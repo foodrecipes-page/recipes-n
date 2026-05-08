@@ -3,7 +3,6 @@
   "description": "A rich and savory Turkish dessert that combines crispy phyllo, creamy vegan butter, and caramelized lardons. Serve warm, straight from the iron teppan.",
   "cuisine": "Turkish",
   "diet": [
-    "vegan",
     "pescatarian"
   ],
   "meal": "dessert",
@@ -70,5 +69,9 @@
     "mainIngredient": "lardons",
     "descriptor": "Nighttime Sizzling Velvet",
     "dishForm": "Kunefe"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

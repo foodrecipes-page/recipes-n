@@ -55,7 +55,8 @@
     "Return the strained soup to the pot and heat it to just below boiling to preserve the delicate flavors.",
     "Taste the soup and adjust the seasoning with more soy sauce if necessary.",
     "Ladle the soup into bowls and garnish with sliced scallions.",
-    "Serve the soup hot, enjoying the sweet apricot aroma mingled with the subtle smokiness."
+    "Serve the soup hot, enjoying the sweet apricot aroma mingled with the subtle smokiness.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 35,
@@ -93,5 +94,9 @@
     "mainIngredient": "apricots",
     "descriptor": "Nectarous",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

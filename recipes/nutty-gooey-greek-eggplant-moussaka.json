@@ -2,10 +2,7 @@
   "title": "Nutty Gooey Greek Eggplant Moussaka",
   "description": "A classic Greek dish with a nutty twist, featuring a rich eggplant and meat sauce topped with a gooey, creamy bechamel sauce. This meal-prep recipe is perfect for a weeknight dinner or lunch the next day.",
   "cuisine": "greek",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,10 +94,8 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "greek",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -126,5 +121,10 @@
     "mainIngredient": "eggplant",
     "descriptor": "Nutty Gooey",
     "dishForm": "Moussaka"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

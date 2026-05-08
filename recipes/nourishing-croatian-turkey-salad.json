@@ -60,7 +60,8 @@
     "Add the turkey pieces to the greens.",
     "Whisk together apple cider vinegar, olive oil, Dijon mustard, dill, salt and pepper to make a dressing.",
     "Pour the dressing over the salad and toss gently until everything is coated.",
-    "Serve immediately for a fresh, peppery crunch."
+    "Serve immediately for a fresh, peppery crunch.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 0,
@@ -100,5 +101,9 @@
     "mainIngredient": "Turkey",
     "descriptor": "Nourishing",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

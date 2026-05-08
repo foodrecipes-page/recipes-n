@@ -55,7 +55,8 @@
     "Roll out the empanada dough and use a cookie cutter or the rim of a glass to cut out circles of dough.",
     "Spoon a small amount of the beef mixture onto the center of each dough circle and fold the dough in half to form a half-moon shape, pressing the edges together to seal the empanada.",
     "Brush the tops of the empanadas with a little bit of olive oil and bake for 20 minutes, or until golden brown.",
-    "Remove the empanadas from the oven and let them cool for a few minutes before serving."
+    "Remove the empanadas from the oven and let them cool for a few minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -93,5 +94,9 @@
     "mainIngredient": "beef",
     "descriptor": "Nutty Crisp",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

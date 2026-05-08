@@ -3,8 +3,7 @@
   "description": "A quick-fix Malaysian dish featuring vine tomatoes, perfect for a weeknight dinner.",
   "cuisine": "malaysian",
   "diet": [
-    "jain",
-    "vegan"
+    "jain"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -101,5 +100,9 @@
     "mainIngredient": "tomatoes",
     "descriptor": "nutritious",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Nutty Molten Vietnamese Chicken Bun Cha",
   "description": "Funky, molten Vietnamese dish featuring white wine and caramelized onions, perfect for a solo dinner.",
   "cuisine": "vietnamese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -117,5 +115,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Nutty Molten",
     "dishForm": "Bun Cha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A funky and chewy post-workout Uruguayan dish featuring apricot, this recipe is perfect for a quick snack or dessert, it combines the sweetness of apricots with the crunch of nuts",
   "cuisine": "Uruguayan",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "snack",
@@ -91,5 +90,9 @@
     "mainIngredient": "apricot",
     "descriptor": "Nutty Chewy",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

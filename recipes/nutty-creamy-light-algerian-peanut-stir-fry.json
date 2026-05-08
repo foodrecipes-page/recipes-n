@@ -2,9 +2,7 @@
   "title": "Nutty Creamy Light Algerian Peanut Stir-fry",
   "description": "A light and creamy dish featuring poached chicken bouillon powder in a nutty sauce, perfect for a nutritious snack or side dish.",
   "cuisine": "Algerian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -43,7 +41,8 @@
   "instructions": [
     "Boil water in a medium saucepan with chicken bouillon powder. Add ground almonds and nutmeg powder, reduce heat to low and simmer for about 15 minutes until thickened.",
     "In another pan, heat peanut oil over medium-high heat. Stir in heavy cream and almond milk until smooth. Gradually add the braised mixture into the creamy sauce, stirring constantly.",
-    "Stir in salt just before serving. Serve hot as a snack or side dish."
+    "Stir in salt just before serving. Serve hot as a snack or side dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -79,5 +78,10 @@
     "mainIngredient": "peanut",
     "descriptor": "Nutty Creamy Light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

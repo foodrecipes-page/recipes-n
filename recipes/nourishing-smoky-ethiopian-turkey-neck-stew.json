@@ -65,7 +65,8 @@
     "Transfer the mixture to a heat‑proof bowl that fits inside a bamboo steamer.",
     "Steam the bowl in the bamboo steamer over gently simmering water for 45 minutes until the turkey is tender and flavors meld.",
     "Remove the bowl from the steamer, stir the stew, then season with salt and pepper to taste.",
-    "Serve the stew hot, garnished with chopped cilantro if desired, alongside low‑FODMAP flatbread or a drizzle of extra coconut milk."
+    "Serve the stew hot, garnished with chopped cilantro if desired, alongside low‑FODMAP flatbread or a drizzle of extra coconut milk.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -104,5 +105,9 @@
     "mainIngredient": "turkey neck",
     "descriptor": "Nourishing Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

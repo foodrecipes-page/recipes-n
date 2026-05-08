@@ -65,7 +65,8 @@
     "Place a tablespoon of the chicken mixture onto the center of each dough circle.",
     "Fold the dough over the filling to form a half moon shape and press the edges together to seal.",
     "Brush the tops of the empanadas with the beaten egg and sprinkle with sesame seeds.",
-    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown."
+    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -103,5 +104,9 @@
     "mainIngredient": "chicken",
     "descriptor": "nutty crunchy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

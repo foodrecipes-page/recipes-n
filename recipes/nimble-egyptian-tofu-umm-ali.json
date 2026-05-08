@@ -2,9 +2,7 @@
   "title": "Nimble Egyptian Tofu Umm Ali",
   "description": "A mustardy, snappy, plant-based twist on the classic Egyptian dessert, packed with shio-koji, agemono-deep-fried tofu and toasted almond crunch.",
   "cuisine": "Egyptian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -78,8 +76,7 @@
     "quick",
     "show-off",
     "snappy",
-    "tofu",
-    "vegan"
+    "tofu"
   ],
   "nutrition": {
     "calories": 731,
@@ -104,5 +101,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Nimble",
     "dishForm": "Umm Ali"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

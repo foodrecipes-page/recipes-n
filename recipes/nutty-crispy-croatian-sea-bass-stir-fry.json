@@ -60,7 +60,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "nut-free",
     "crispy",
     "croatian",
     "sea-bass",
@@ -89,5 +88,9 @@
     "mainIngredient": "sea bass",
     "descriptor": "Nutty Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-nut-free"
+  ]
 }

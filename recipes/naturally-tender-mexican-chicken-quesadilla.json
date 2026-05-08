@@ -3,8 +3,7 @@
   "description": "A savory and tender Mexican dish featuring pecorino cheese, perfect for a solo dinner, and Whole30-friendly. This recipe combines the flavors of Mexico with the richness of pecorino cheese.",
   "cuisine": "Mexican",
   "diet": [
-    "Whole30",
-    "gluten-free"
+    "Whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,6 @@
   "difficulty": "medium",
   "tags": [
     "dinner-ideas",
-    "gluten-free",
     "high-protein",
     "mexican-food",
     "one-pan",
@@ -95,5 +93,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Naturally Tender",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

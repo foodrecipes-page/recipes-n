@@ -3,7 +3,6 @@
   "description": "A mouth-watering Thai dish featuring crispy fried chicken fritters, packed with peanuts and a hint of nutmeg. Perfect as a snack or appetizer.",
   "cuisine": "thaicuisine",
   "diet": [
-    "gluten-free",
     "low-carb-friendly"
   ],
   "meal": "snack",
@@ -67,7 +66,8 @@
     "Heat about 1/2-inch of vegetable oil in a large non-stick skillet over medium-high heat.",
     "When the oil is hot, add 3-4 fritters to the skillet and fry until crispy and golden brown, about 3-4 minutes per side.",
     "Repeat with the remaining fritters.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 8,
@@ -100,11 +100,17 @@
     "mood": "show-off",
     "technique": "whisk",
     "primaryIngredient": "white flour",
-    "diet": "low-carb",
+    "diet": "low-carb-friendly",
     "region": null,
     "cuisineAdjective": "Thai",
     "mainIngredient": "chicken",
     "descriptor": "nutty crispy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

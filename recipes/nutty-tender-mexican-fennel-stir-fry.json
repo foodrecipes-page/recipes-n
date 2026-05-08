@@ -74,7 +74,8 @@
     "Add the toasted pecans, cumin, ancho chili powder, salt, and pepper.",
     "Stir-fry for 1 minute, until the flavors are combined.",
     "Serve the stir-fry hot, garnished with chopped cilantro.",
-    "Optional: Serve with a side of cauliflower rice or tortillas."
+    "Optional: Serve with a side of cauliflower rice or tortillas.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -111,5 +112,9 @@
     "mainIngredient": "fennel",
     "descriptor": "nutty tender",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -64,7 +64,8 @@
     "Let the dumplings rest for 5 minutes before serving to allow the flavors to meld together.",
     "Traditionally, Turkish dumplings are served with a side of crusty bread or over mashed potatoes.",
     "To add an extra layer of flavor, a dollop of sour cream or a sprinkle of sumac can be added on top.",
-    "Leftover dumplings can be refrigerated for up to 3 days or frozen for up to 2 months."
+    "Leftover dumplings can be refrigerated for up to 3 days or frozen for up to 2 months.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -102,5 +103,9 @@
     "mainIngredient": "wagyu",
     "descriptor": "Nice Grassy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

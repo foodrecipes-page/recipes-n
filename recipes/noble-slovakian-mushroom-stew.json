@@ -2,9 +2,7 @@
   "title": "Noble Slovakian Mushroom Stew",
   "description": "A rich, molten one-pot stew featuring ovoli mushrooms and roasted pork, seasoned with smoked paprika and caraway for a deep Slovakian flavor.",
   "cuisine": "Slovakian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -83,8 +81,7 @@
     "hearty",
     "one-pot",
     "rich",
-    "slovakian",
-    "vegetarian"
+    "slovakian"
   ],
   "nutrition": {
     "calories": 190,
@@ -109,5 +106,9 @@
     "mainIngredient": "mushroom",
     "descriptor": "Noble",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

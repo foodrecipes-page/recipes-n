@@ -3,7 +3,6 @@
   "description": "A smoky and adventurous Korean dish featuring stout and coconut cream, with a bouncy qq texture and anti-inflammatory friendly ingredients, formed into tteok",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -64,7 +63,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "korean-cuisine",
     "nutty",
     "smoky",
@@ -95,5 +93,9 @@
     "mainIngredient": "rice",
     "descriptor": "Nutty Smoky",
     "dishForm": "Tteok"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

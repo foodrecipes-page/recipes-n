@@ -81,7 +81,8 @@
     "remove the foil and bake for an additional 10-15 minutes, or until the feta cheese is golden brown and the casserole is bubbly.",
     "serve hot, garnished with chopped fresh parsley, if desired.",
     "let the casserole rest for a few minutes before serving, allowing the juices to redistribute and the feta cheese to set.",
-    "be careful when removing the casserole from the oven, as the cheese will be molten and the vessels may be hot to the touch."
+    "be careful when removing the casserole from the oven, as the cheese will be molten and the vessels may be hot to the touch.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -122,5 +123,9 @@
     "mainIngredient": "dish",
     "descriptor": "Nourishing Shattering",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

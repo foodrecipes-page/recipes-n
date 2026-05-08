@@ -62,7 +62,8 @@
     "Dot the top of the casserole with the remaining 1 tablespoon of butter.",
     "Bake the casserole in the preheated oven for 25-30 minutes, or until the cheese is melted and bubbly.",
     "Remove the casserole from the oven and sprinkle with chopped parsley.",
-    "Let the casserole rest for 5 minutes before serving."
+    "Let the casserole rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -100,5 +101,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Nutty",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -58,7 +58,8 @@
     "Grill the skewers for 10-12 minutes, turning occasionally.",
     "Brush the skewers with the crushed dried red chillies during the last 2 minutes of grilling.",
     "Let the skewers rest for 5 minutes before serving.",
-    "Serve the skewers hot, garnished with fresh cilantro if desired."
+    "Serve the skewers hot, garnished with fresh cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -95,5 +96,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Nourishing Savory",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Nourishing German Onion Soup",
   "description": "A silky, fermented German onion soup with spring onions and shio-koji, flavored and kosher-friendly.",
   "cuisine": "German",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,8 +61,7 @@
     "comfort-food",
     "easy",
     "kosher-friendly",
-    "soups",
-    "vegan"
+    "soups"
   ],
   "nutrition": {
     "calories": 220,
@@ -89,5 +86,9 @@
     "mainIngredient": "Onion",
     "descriptor": "Nourishing",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A paleo-friendly, roasted, and chewy Middle Eastern dish featuring vermicelli rice noodles and double-rise-bread, perfect for meal prep. This baba ganoush recipe is a delicious and healthy twist on a classic.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -70,7 +69,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "healthy-snacks",
     "meal-prep",
     "middle-eastern",
@@ -100,5 +98,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Nutty Roasted",
     "dishForm": "Baba Ganoush"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

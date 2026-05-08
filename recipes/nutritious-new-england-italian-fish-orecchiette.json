@@ -3,7 +3,6 @@
   "description": "A rich and flavorful pescatarian dish featuring flaky fish, dried mint, and a medley of New England-inspired ingredients. This orecchiette recipe is perfect for a weeknight dinner.",
   "cuisine": "Italian",
   "diet": [
-    "pescatarian",
     "low-carb"
   ],
   "meal": "dinner",
@@ -89,7 +88,6 @@
     "low-carb",
     "one-pan",
     "orecchiette",
-    "pescatarian",
     "weeknight"
   ],
   "nutrition": {
@@ -115,5 +113,9 @@
     "mainIngredient": "fish",
     "descriptor": "Nutritious New England",
     "dishForm": "Orecchiette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

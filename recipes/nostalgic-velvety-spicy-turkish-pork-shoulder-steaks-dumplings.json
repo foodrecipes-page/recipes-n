@@ -85,7 +85,8 @@
     "bake the pork shoulder steaks for 30 minutes, then remove the pot from the oven and simmer on the stovetop for 10 minutes.",
     "serve the pork shoulder steaks and dumplings hot, garnished with chopped fresh parsley.",
     "serve with a side of yogurt sauce (see below for recipe).",
-    "yogurt sauce: mix together 1 cup of plain yogurt, 1 tablespoon of lemon juice, and 1 tablespoon of chopped fresh dill. Cover and refrigerate until ready to serve."
+    "yogurt sauce: mix together 1 cup of plain yogurt, 1 tablespoon of lemon juice, and 1 tablespoon of chopped fresh dill. Cover and refrigerate until ready to serve.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -122,5 +123,9 @@
     "mainIngredient": "pork shoulder steaks",
     "descriptor": "nostalgic velvety spicy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

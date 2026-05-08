@@ -72,7 +72,8 @@
     "Once the chicken is cooked, remove it from the sous-vide machine and shred it with two forks.",
     "Add the shredded chicken to the pot and stir to combine.",
     "Season with salt to taste, then serve hot in individual fondue pots.",
-    "Garnish with fresh cilantro, lime wedges, and diced peaches, if desired."
+    "Garnish with fresh cilantro, lime wedges, and diced peaches, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -110,5 +111,9 @@
     "mainIngredient": "peach",
     "descriptor": "Nutritious Roasted",
     "dishForm": "Pozole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

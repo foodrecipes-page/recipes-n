@@ -62,8 +62,6 @@
   "tags": [
     "breakfast-for-dinner",
     "comfort-food",
-    "dairy-free",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "weeknight"
@@ -91,5 +89,10 @@
     "mainIngredient": "Katsuobushi",
     "descriptor": "Nutritious Never Melting",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Nectarous Mexican Oysters Tamales",
   "description": "Rich, glassy-jelly tamales bursting with fresh oysters, coconut, and a toasted almond finish. A flambé of pineapple juice adds a dramatic finish.",
   "cuisine": "Mexican",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -76,7 +74,6 @@
   "servings": 12,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "flambe",
     "glassy-jelly",
     "holiday",
@@ -107,5 +104,9 @@
     "mainIngredient": "Oysters",
     "descriptor": "Nectarous",
     "dishForm": "Tamales"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

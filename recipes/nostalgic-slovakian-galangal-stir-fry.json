@@ -51,7 +51,8 @@
     "Add sliced chicken breast to the wok and season with salt and pepper. Cook until the chicken is lightly browned on all sides.",
     "Remove chicken from the wok and set aside. In the same pan, add sesame oil and chopped rice crumbs, stir-fry for 2 minutes until golden brown.",
     "Place chicken back into the wok with vegetables and vegetable stock. Stir well to combine, let it cook for another minute or so until everything is heated through and the sauce has thickened slightly.",
-    "Serve hot as a side dish or main course."
+    "Serve hot as a side dish or main course.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -87,5 +88,9 @@
     "mainIngredient": "Galangal",
     "descriptor": "Nostalgic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

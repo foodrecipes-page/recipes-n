@@ -3,7 +3,6 @@
   "description": "a warm, comforting dish perfect for a sick day or a cozy evening in, featuring the tangy flavors of horseradish and a satisfying cheese pull.",
   "cuisine": "croatian",
   "diet": [
-    "gluten-free",
     "dairy-friendly"
   ],
   "meal": "dinner",
@@ -92,7 +91,6 @@
   "tags": [
     "comfort-food",
     "dairy-friendly",
-    "gluten-free",
     "one-pan"
   ],
   "nutrition": {
@@ -118,5 +116,9 @@
     "mainIngredient": "cheese",
     "descriptor": "nourishing",
     "dishForm": "pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

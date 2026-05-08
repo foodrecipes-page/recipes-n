@@ -53,7 +53,8 @@
     "Add the chicken broth and bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 20 minutes, or until the rice is tender and the liquid has been absorbed.",
     "Remove the pan from the heat and let it cool for 5 minutes.",
-    "Fluff the rice with a fork and season with salt and black pepper to taste."
+    "Fluff the rice with a fork and season with salt and black pepper to taste.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -91,5 +92,9 @@
     "mainIngredient": "rice",
     "descriptor": "Naturally Smoky",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

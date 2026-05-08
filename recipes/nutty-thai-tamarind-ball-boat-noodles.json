@@ -3,9 +3,7 @@
   "description": "A resinous and chewy Thai dish featuring tamarind balls, served as a solo dinner, broiled to perfection and dairy-free friendly, in a boat noodle form.",
   "cuisine": "Thai",
   "diet": [
-    "dairy-free",
-    "gluten-free",
-    "vegan"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -97,5 +95,10 @@
     "mainIngredient": "tamarind ball",
     "descriptor": "Nutty",
     "dishForm": "Boat Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

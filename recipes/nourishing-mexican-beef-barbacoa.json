@@ -113,11 +113,15 @@
     "mood": "post-workout",
     "technique": "double-fry-kfc",
     "primaryIngredient": "makrut lime leaves",
-    "diet": "vegetarian",
+    "diet": "vegetarian-friendly",
     "region": "jalisco-style",
     "cuisineAdjective": "Mexican",
     "mainIngredient": "beef",
     "descriptor": "Nourishing",
     "dishForm": "Barbacoa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

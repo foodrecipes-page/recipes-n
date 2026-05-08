@@ -2,9 +2,7 @@
   "title": "Nutty Dense Egyptian Pear Crumble",
   "description": "A vegan-friendly brunch dish featuring pears baked with a nutty topping that adds a unique twist to the classic pear crumble.",
   "cuisine": "Egyptian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -72,5 +70,9 @@
     "mainIngredient": "Pears",
     "descriptor": "Nutty Dense",
     "dishForm": "Brunch-Mood"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

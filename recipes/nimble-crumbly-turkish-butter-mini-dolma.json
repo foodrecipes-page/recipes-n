@@ -3,8 +3,7 @@
   "description": "A tangy, crumbly, comforting Turkish dish featuring butter, baked in individual mini cocottes, gluten-free friendly. Serve warm, garnished with fresh parsley or dill.",
   "cuisine": "Turkish",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -124,5 +123,9 @@
     "mainIngredient": "butter",
     "descriptor": "Nimble Crumbly",
     "dishForm": "Mini Dolma"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

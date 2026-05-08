@@ -3,7 +3,6 @@
   "description": "A traditional Japanese dish featuring chicken tsukune with a yeasty flavor, served in a hot dolsot stone bowl, incorporating pecorino cheese for a unique twist, and made with anti-inflammatory friendly ingredients.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "dinner",
@@ -95,5 +94,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Nostalgic Yeasty",
     "dishForm": "Tsukune"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

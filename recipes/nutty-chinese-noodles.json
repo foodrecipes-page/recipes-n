@@ -2,10 +2,7 @@
   "title": "Nutty Chinese Noodles",
   "description": "A creamy and nutty Chinese dish featuring pappardelle pasta that is dairy-free-friendly, perfect for a comforting dinner.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegan",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,5 +94,10 @@
     "mainIngredient": "Nuts",
     "descriptor": "Nutty",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

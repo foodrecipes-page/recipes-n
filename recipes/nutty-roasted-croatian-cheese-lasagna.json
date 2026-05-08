@@ -3,7 +3,6 @@
   "description": "A pungent and satisfying Croatian dish featuring roasted peppers and cheese, perfect for a weeknight dinner. This meal prep friendly recipe is also nut free friendly.",
   "cuisine": "Croatian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -59,7 +58,8 @@
     "Arrange 4 lasagna noodles on top of the cheese mixture.",
     "Repeat the layers two more times, ending with a layer of cheese on top.",
     "Cover the baking dish with aluminum foil and bake for 30 minutes.",
-    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -69,7 +69,6 @@
   "tags": [
     "cheesy",
     "comfort-food",
-    "gluten-free",
     "one-pan",
     "vegetarian",
     "weeknight"
@@ -91,11 +90,17 @@
     "mood": "meal-prep",
     "technique": "pickle",
     "primaryIngredient": "roasted pepper",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Croatian",
     "mainIngredient": "cheese",
     "descriptor": "Nutty Roasted",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid",
+    "aligned-axes-diet"
+  ]
 }

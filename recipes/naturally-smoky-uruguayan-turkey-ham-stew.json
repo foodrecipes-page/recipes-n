@@ -54,7 +54,8 @@
     "Reduce the heat to low and let the stew cook for 20 minutes, stirring occasionally.",
     "Stir in the shredded cheddar cheese until melted and well combined.",
     "Season the stew with salt and pepper to taste.",
-    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -92,5 +93,9 @@
     "mainIngredient": "turkey ham",
     "descriptor": "Naturally Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

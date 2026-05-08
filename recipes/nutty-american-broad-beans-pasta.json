@@ -2,9 +2,7 @@
   "title": "Nutty American Broad Beans Pasta",
   "description": "A buttery and creamy weeknight American dish featuring broad beans, with a soffritto-base and vegan-friendly ingredients.",
   "cuisine": "American",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -104,5 +102,9 @@
     "mainIngredient": "broad beans",
     "descriptor": "nutty creamy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

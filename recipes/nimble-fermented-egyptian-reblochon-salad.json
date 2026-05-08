@@ -54,7 +54,7 @@
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 0,
-  "totalTimeMin": 30,
+  "totalTimeMin": 10,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -87,5 +87,9 @@
     "mainIngredient": "Reblochon",
     "descriptor": "Nimble Fermented",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

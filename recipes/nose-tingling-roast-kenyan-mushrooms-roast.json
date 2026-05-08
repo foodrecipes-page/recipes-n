@@ -66,8 +66,7 @@
     "breakfast",
     "kenyan",
     "low-sodium",
-    "one-pan",
-    "vegetarian"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 160,
@@ -92,5 +91,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "nose-tingling roast",
     "dishForm": "roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

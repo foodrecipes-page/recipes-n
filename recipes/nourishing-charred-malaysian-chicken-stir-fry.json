@@ -3,8 +3,7 @@
   "description": "A high-protein, one-pot stir-fry that pairs charred chicken with a sweet applesauce glaze and fresh vegetables for a quick, satisfying meal.",
   "cuisine": "Malaysian",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,7 +73,6 @@
   "tags": [
     "applesauce",
     "charred",
-    "gluten-free",
     "high-protein",
     "malaysian",
     "meal",
@@ -104,5 +102,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Nourishing Charred",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

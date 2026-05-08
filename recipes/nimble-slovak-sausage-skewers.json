@@ -2,9 +2,7 @@
   "title": "Nimble Slovak Sausage Skewers",
   "description": "A light, umami-packed dish of smoked fish sausage skewers flambéed in brandy, perfect for a date-night Slovakian-inspired dinner.",
   "cuisine": "Slovak",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -98,5 +96,9 @@
     "mainIngredient": "sausage",
     "descriptor": "Nimble",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

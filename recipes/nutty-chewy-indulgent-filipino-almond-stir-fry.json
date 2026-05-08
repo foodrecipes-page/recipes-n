@@ -2,9 +2,7 @@
   "title": "Nutty Chewy Indulgent Filipino Almond Stir-fry",
   "description": "A rich and indulgent filipino almond stir-fry made with almond milk for a creamy texture, perfect as an afternoon treat or light dinner.",
   "cuisine": "Filipino",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -49,7 +47,8 @@
     "Add garlic powder, ground cumin, salt, and pepper to taste. Stir well until fully incorporated.",
     "Simmer for about 5 minutes until slightly thickened, stirring occasionally to prevent sticking.",
     "Stir in slivered almonds, green onions, and sesame seeds. Cook for an additional minute or two until heated through.",
-    "Remove from heat and serve hot as a side dish or main course with rice."
+    "Remove from heat and serve hot as a side dish or main course with rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -86,5 +85,10 @@
     "mainIngredient": "Almond",
     "descriptor": "Nutty Chewy Indulgent",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A yeasty, aerated Vietnamese dish featuring doner meat, served in a pho ga style with a twist of double fry KFC and low glycemic friendly ingredients, presented on a cedar plank.",
   "cuisine": "Vietnamese",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -109,5 +108,9 @@
     "mainIngredient": "doner meat",
     "descriptor": "Nutty Yeasty",
     "dishForm": "Pho Ga"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

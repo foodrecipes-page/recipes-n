@@ -64,13 +64,13 @@
       "notes": "for dough"
     },
     {
-      "name": "Aj\u00ed Sauce",
+      "name": "Ají Sauce",
       "amount": "1 cup",
       "notes": "for serving"
     }
   ],
   "instructions": [
-    "Preheat oven to 375\u00b0F (190\u00b0C).",
+    "Preheat oven to 375°F (190°C).",
     "Prepare the grape leaf filling: In a large skillet, heat 2 tbsp of oil over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
     "Add the minced garlic and cook for 1 minute.",
     "Stir in the cumin, paprika, salt, and black pepper.",
@@ -83,7 +83,7 @@
     "Place 1-2 tbsp of the grape leaf filling in the center of each circle.",
     "Fold the dough over the filling to form a half-moon shape and press the edges to seal.",
     "Brush the tops with egg wash and bake for 20-25 minutes, or until golden brown.",
-    "Serve warm with aj\u00ed sauce."
+    "Serve warm with ají sauce."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -115,11 +115,15 @@
     "mood": "adventurous",
     "technique": "simmer",
     "primaryIngredient": "grape leaves",
-    "diet": "halal",
+    "diet": "halal-friendly",
     "region": null,
     "cuisineAdjective": "Uruguayan",
     "mainIngredient": "Grape leaves",
     "descriptor": "Nutty and Crispy",
     "dishForm": "Empanada"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

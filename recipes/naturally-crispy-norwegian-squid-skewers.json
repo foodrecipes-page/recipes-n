@@ -3,8 +3,7 @@
   "description": "A jammy and crispy Norwegian dish featuring squid, this recipe is a unique and adventurous take on traditional seafood, boiled to perfection and served in a bamboo steamer, making it vegetarian friendly by omitting typical seafood accompaniments.",
   "cuisine": "Norwegian",
   "diet": [
-    "pescatarian",
-    "vegetarian"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -93,5 +92,9 @@
     "mainIngredient": "squid",
     "descriptor": "naturally crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

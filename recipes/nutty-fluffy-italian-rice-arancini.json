@@ -3,7 +3,6 @@
   "description": "A kid-friendly Italian dish featuring umami flavors and fluffy rice, made with biryani masala and dairy-free friendly ingredients, formed into arancini.",
   "cuisine": "Italian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -62,7 +61,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "italian-food",
     "kid-friendly",
     "one-pan",
@@ -92,5 +90,9 @@
     "mainIngredient": "rice",
     "descriptor": "Nutty Fluffy",
     "dishForm": "Arancini"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }
