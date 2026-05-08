@@ -1,0 +1,99 @@
+{
+  "title": "Nourishing Crispy Slovakian Chorizo Skillet",
+  "description": "A savory and satisfying Slovakian dish featuring crispy chorizo, this skillet is perfect for a crowd and can be made in a traditional ttukbaegi earthenware pot, it is also flexitarian friendly",
+  "cuisine": "Slovakian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian chorizo",
+      "amount": "12 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large ttukbaegi earthenware pot or skillet over medium high heat",
+    "Add the sliced chorizo and cook until crispy, about 5 minutes",
+    "Remove the chorizo from the pot and set aside",
+    "Add the chopped onion to the pot and cook until it starts to soften, about 3 minutes",
+    "Add the chopped bell pepper and cook until it starts to soften, about 3 minutes",
+    "Add the chopped potato, garlic, paprika, salt, and black pepper to the pot and cook for 5 minutes",
+    "Add the crispy chorizo back to the pot and stir to combine",
+    "Reduce heat to medium low and cook for an additional 10 minutes, stirring occasionally"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "crowd-pleaser",
+    "flexitarian",
+    "one-pan",
+    "slovakian",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "nourishing-crispy-slovakian-chorizo-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-crispy-slovakian-chorizo-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:27:20Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "chorizo",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chorizo",
+    "descriptor": "Nourishing Crispy",
+    "dishForm": "Skillet"
+  }
+}
