@@ -1,0 +1,95 @@
+{
+  "title": "Nutty Venezuelan Chocolate Mousse",
+  "description": "A rich and creamy dessert featuring dark chocolate and nuts, perfect for a weeknight treat. This low-fat friendly recipe is slow-cooked to perfection in a traditional molcajete.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate chips",
+      "amount": "8 oz",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "large egg whites",
+      "amount": "4"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Melt the chocolate chips in a double boiler over low heat, stirring occasionally.",
+    "In a separate bowl, whip the heavy cream until it forms stiff peaks.",
+    "In another bowl, mix together the sugar, pecans, vanilla extract, and salt.",
+    "Fold the sugar mixture into the melted chocolate until well combined.",
+    "In a separate bowl, beat the egg whites until they form stiff peaks.",
+    "Fold the egg whites into the chocolate mixture until no white streaks remain.",
+    "Stir in the water and mix until smooth.",
+    "Pour the mixture into a molcajete or individual serving cups.",
+    "Refrigerate for at least 2 hours or until set.",
+    "Serve chilled and garnished with additional pecans if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-dessert",
+    "low-fat",
+    "molcajete",
+    "slow-cooked",
+    "south-american",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "nutty-venezuelan-chocolate-mousse",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-venezuelan-chocolate-mousse",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:10:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "slow-cook",
+    "primaryIngredient": "dark chocolate",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chocolate",
+    "descriptor": "nutty slow cooked",
+    "dishForm": "Mousse"
+  }
+}

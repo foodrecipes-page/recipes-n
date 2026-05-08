@@ -11147,6 +11147,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-venezuelan-chocolate-mousse",
+    "title": "Nutty Venezuelan Chocolate Mousse",
+    "tags": [
+      "chocolate-dessert",
+      "low-fat",
+      "molcajete",
+      "slow-cooked",
+      "south-american",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-venezuelan-dates-empanadas",
     "title": "Nutty Venezuelan Dates Empanadas",
     "tags": [
