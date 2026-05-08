@@ -1,0 +1,96 @@
+{
+  "title": "Nutty Light Chinese Noodle Dish",
+  "description": "A malty and light one-pot Chinese dish featuring brown rice noodles, shio-cure, and ayurvedic-tamasic-friendly ingredients, perfect for a weeknight dinner",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably tamasic-friendly"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pot over medium heat",
+    "Add the grated ginger and cook for 1 minute",
+    "Add the minced garlic and cook for another minute",
+    "Add the shio-cure and cook for 30 seconds",
+    "Add the brown rice noodles and stir to combine",
+    "Add the soy sauce and malt syrup, and stir to combine",
+    "Add the chopped scallions and stir to combine",
+    "Cook for an additional 2 minutes, or until the noodles are tender"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "noodle-dish",
+    "one-pot",
+    "tamasic-friendly",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nutty-light-chinese-noodle-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-light-chinese-noodle-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:08:27Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "shio-cure",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "Nutty Light",
+    "dishForm": "Noodles"
+  }
+}
