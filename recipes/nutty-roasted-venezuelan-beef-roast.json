@@ -1,0 +1,91 @@
+{
+  "title": "Nutty Roasted Venezuelan Beef Roast",
+  "description": "A yeasty, chewy, paleo-friendly Venezuelan dish featuring cooking wine and roast, perfect for a brunch mood. This recipe is made in a tagine pot for a unique flavor.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef roast",
+      "amount": "2 pounds",
+      "notes": "grass fed"
+    },
+    {
+      "name": "cooking wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cashews",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef roast with salt and paprika.",
+    "Heat the olive oil in the tagine pot over medium heat.",
+    "Sear the beef roast until browned on all sides.",
+    "Add the cooking wine, garlic, and onion to the tagine pot.",
+    "Cover the tagine pot and transfer to the preheated oven.",
+    "Roast for 2 hours or until the beef is tender.",
+    "Sprinkle the cashews over the beef roast and return to the oven for an additional 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 130,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipe",
+    "latin-american",
+    "one-pot",
+    "paleo-friendly",
+    "roasted-nuts",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "nutty-roasted-venezuelan-beef-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-roasted-venezuelan-beef-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:11:44Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "cooking wine",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "meat",
+    "descriptor": "Nutty Roasted",
+    "dishForm": "Roast"
+  }
+}

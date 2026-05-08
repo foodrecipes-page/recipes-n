@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Crunchy Ukrainian Pecan Stir-fry",
+  "description": "A tangy and snappy Ukrainian-inspired stir-fry featuring a mix of toasted pecans, fresh vegetables, and a hint of Ukrainian spice.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pecans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sunflower seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil over medium-high heat in a large skillet.",
+    "Add the red bell pepper and yellow onion to the skillet and cook for 5 minutes.",
+    "Add the pecans to the skillet and cook for an additional 2 minutes.",
+    "Stir in the sunflower seeds, salt, and black pepper.",
+    "Transfer the mixture to a serving dish and garnish with fresh parsley and dill.",
+    "Squeeze the lemon juice over the top of the dish and serve immediately.",
+    "Serve the Nutty Crunchy Ukrainian Pecan Stir-fry as a snack or light lunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-stir-fry",
+    "gluten-free",
+    "high-protein",
+    "kosher",
+    "nut-crunch",
+    "one-pan",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "nutty-crunchy-ukrainian-pecan-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crunchy-ukrainian-pecan-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T21:12:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "stir-fry",
+    "primaryIngredient": "pecan nuts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Pecan",
+    "descriptor": "Nutty Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}

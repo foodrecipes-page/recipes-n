@@ -9256,6 +9256,23 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-crunchy-ukrainian-pecan-stir-fry",
+    "title": "Nutty Crunchy Ukrainian Pecan Stir-fry",
+    "tags": [
+      "easy-stir-fry",
+      "gluten-free",
+      "high-protein",
+      "kosher",
+      "nut-crunch",
+      "one-pan",
+      "ukrainian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-dark-syrian-chicken-tagine",
     "title": "Nutty Dark Syrian Chicken Tagine",
     "tags": [
@@ -11180,6 +11197,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-roasted-venezuelan-beef-roast",
+    "title": "Nutty Roasted Venezuelan Beef Roast",
+    "tags": [
+      "beef-recipe",
+      "latin-american",
+      "one-pot",
+      "paleo-friendly",
+      "roasted-nuts",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 150,
     "shard": "n"
   },
   {
