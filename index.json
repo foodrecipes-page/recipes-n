@@ -2501,6 +2501,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-bitter-ethiopian-vine-leaves-paella",
+    "title": "Nourishing Bitter Ethiopian Vine Leaves Paella",
+    "tags": [
+      "ethiopian-cuisine",
+      "gluten-free",
+      "lamb-recipes",
+      "low-glycemic",
+      "one-pan",
+      "vine-leaves"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-bitter-spanish-navy-beans-patatas-bravas",
     "title": "Nourishing Bitter Spanish Navy Beans Patatas Bravas",
     "tags": [
@@ -4024,6 +4039,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-thai-cabbage-khao-pad",
+    "title": "Nourishing Smoky Thai Cabbage Khao Pad",
+    "tags": [
+      "juicy",
+      "one-pan",
+      "smoky",
+      "sugar-free",
+      "thai-inspired",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 27,
     "shard": "n"
   },
   {

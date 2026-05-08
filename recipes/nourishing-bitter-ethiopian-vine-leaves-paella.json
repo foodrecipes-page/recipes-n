@@ -1,0 +1,105 @@
+{
+  "title": "Nourishing Bitter Ethiopian Vine Leaves Paella",
+  "description": "A traditional Ethiopian dish featuring vine leaves, this paella is a unique and adventurous meal option, with a low glycemic index and a burst of flavor from the bitter vine leaves.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "20 large leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lamb or beef",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground lamb or beef and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the berbere spice, salt, and black pepper, and stir to combine.",
+    "Add the chicken broth, tomato paste, and vine leaves to the pan, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the pan from the heat and let it cool slightly, then shock the vine leaves in an ice bath to stop the cooking process.",
+    "Serve the paella hot, garnished with additional vine leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "gluten-free",
+    "lamb-recipes",
+    "low-glycemic",
+    "one-pan",
+    "vine-leaves"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-bitter-ethiopian-vine-leaves-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-bitter-ethiopian-vine-leaves-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:35:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "vine leaves",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "vine leaves",
+    "descriptor": "Nourishing Bitter",
+    "dishForm": "Paella"
+  }
+}

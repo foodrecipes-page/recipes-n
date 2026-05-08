@@ -1,0 +1,103 @@
+{
+  "title": "Nourishing Smoky Thai Cabbage Khao Pad",
+  "description": "A smoky and juicy Thai dish featuring white cabbage, perfect for a weeknight dinner, made with namul-blanch-season method and sugar-free friendly ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "1 medium head",
+      "notes": "shredded"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet or wok over medium-high heat.",
+    "Add smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add garlic and Thai chilies and cook for 1 minute, stirring constantly.",
+    "Add shredded cabbage and cook for 5 minutes, stirring occasionally.",
+    "Add fish sauce, lime juice, and salt, and stir to combine.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Stir in cooked rice and cook for 2 minutes, breaking up any clumps with a spatula.",
+    "Transfer the mixture to a serving platter and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "juicy",
+    "one-pan",
+    "smoky",
+    "sugar-free",
+    "thai-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nourishing-smoky-thai-cabbage-khao-pad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-thai-cabbage-khao-pad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:35:56Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "white cabbage",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cabbage",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Khao Pad"
+  }
+}
