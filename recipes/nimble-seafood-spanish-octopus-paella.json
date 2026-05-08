@@ -1,0 +1,120 @@
+{
+  "title": "Nimble Seafood Spanish Octopus Paella",
+  "description": "A savory, crunchy, comforting Spanish Valencian dish featuring crusty bread, sous-vide, and paleo-friendly ingredients, inspired by Pulpo a la Gallega and cooked on a Robata grill.",
+  "cuisine": "spanish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "octopus",
+      "amount": "1 pound",
+      "notes": "fresh, cleaned, and drained"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups",
+      "notes": "for sous-vide"
+    },
+    {
+      "name": "paleo-friendly chorizo",
+      "amount": "1 pound",
+      "notes": "cured, sliced"
+    },
+    {
+      "name": "Spanish olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "coarse"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "coarse"
+    },
+    {
+      "name": "lemon",
+      "amount": "2 lemons",
+      "notes": "juiced"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "1 baguette",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide water bath to 130°F (54.4°C).",
+    "Season the octopus with salt, black pepper, and smoked paprika.",
+    "Sous-vide the octopus for 2 hours, or until tender.",
+    "Meanwhile, heat 2 tablespoons of olive oil in a large paella pan over medium-high heat.",
+    "Add the chorizo and cook, stirring occasionally, until browned, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth, water, and octopus to the paella pan.",
+    "Bring to a simmer and cook, stirring occasionally, until the liquid has been absorbed and the rice is tender, about 20 minutes.",
+    "Stir in the olives, Manchego cheese, and lemon juice.",
+    "Transfer the paella to a serving platter and garnish with lemon wedges and crusty bread.",
+    "Serve immediately, garnished with parsley and lemon wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "one-pan",
+    "paleo-friendly",
+    "robata-grill",
+    "seafood",
+    "spanish",
+    "valencian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "nimble-seafood-spanish-octopus-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-seafood-spanish-octopus-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:13:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "crusty bread",
+    "diet": "paleo",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Octopus",
+    "descriptor": "Nimble Seafood",
+    "dishForm": "Paella"
+  }
+}

@@ -1155,6 +1155,22 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-seafood-spanish-octopus-paella",
+    "title": "Nimble Seafood Spanish Octopus Paella",
+    "tags": [
+      "one-pan",
+      "paleo-friendly",
+      "robata-grill",
+      "seafood",
+      "spanish",
+      "valencian",
+      "weeknight"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 150,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-slovak-sausage-skewers",
     "title": "Nimble Slovak Sausage Skewers",
     "tags": [
