@@ -1,0 +1,111 @@
+{
+  "title": "Nourishing Crisp Indian Vegetables Pav Bhaji",
+  "description": "A sour and crisp Indian dish featuring a mix of vegetables, pav bhaji style, with a hint of honey and an al-dente finish, perfect for a midnight craving. This flexitarian-friendly dish is a twist on the classic pav bhaji.",
+  "cuisine": "Indian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 cup",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "Pav bhaji masala",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "pure"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Pav",
+      "amount": "4-6",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large pan over medium heat until it melts and starts to foam.",
+    "Add the chopped onion and saute until it turns translucent and starts to caramelize.",
+    "Add the chopped tomato and cook until it starts to break down and the mixture becomes sauce-like.",
+    "Add the grated carrot, peas, and cauliflower, and cook until the vegetables are al-dente.",
+    "Stir in the pav bhaji masala and cook for 1-2 minutes until the mixture is fragrant.",
+    "Add the honey and lemon juice, and stir to combine.",
+    "Season the mixture with salt to taste.",
+    "Split the pav in half and toast until crispy and golden brown.",
+    "Assemble the pav bhaji by spooning the vegetable mixture onto the toasted pav.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "indian-food",
+    "midnight-cravings",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "nourishing-crisp-indian-vegetables-pav-bhaji",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-crisp-indian-vegetables-pav-bhaji",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:04:35Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "honey",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Nourishing Crisp",
+    "dishForm": "Pav Bhaji"
+  }
+}
