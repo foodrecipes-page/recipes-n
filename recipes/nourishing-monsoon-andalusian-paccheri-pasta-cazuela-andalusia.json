@@ -1,0 +1,109 @@
+{
+  "title": "nourishing monsoon andalusian paccheri pasta cazuela andalusia",
+  "description": "floral, shaggy, monsoon spanish andalusian dish featuring paccheri pasta, ferment-jang, and a gluten-free-friendly salmorejo sauce",
+  "cuisine": "andalusian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta (gluten-free)",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "shredded carrot",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "crushed almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "cook paccheri pasta according to package instructions",
+    "heat olive oil in a large skillet over medium-high heat",
+    "add garlic and sauté for 1 minute",
+    "add shredded carrot and sauté for 3 minutes",
+    "add ferment-jang and grated ginger, stir to combine",
+    "add cooked paccheri pasta to the skillet and toss to combine",
+    "season with salt and black pepper to taste",
+    "transfer the pasta to a lacquerware bowl",
+    "top with chopped fresh parsley and crushed almonds",
+    "serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "andalusian",
+    "gluten-free-friendly",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nourishing-monsoon-andalusian-paccheri-pasta-cazuela-andalusia",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-monsoon-andalusian-paccheri-pasta-cazuela-andalusia",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T23:34:45Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "ferment-jang",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "gluten-free",
+    "region": "andalusian",
+    "cuisineAdjective": "Andalusian",
+    "mainIngredient": "Paccheri pasta",
+    "descriptor": "Nourishing Monsoon",
+    "dishForm": "Cazuela Andalusia"
+  }
+}
