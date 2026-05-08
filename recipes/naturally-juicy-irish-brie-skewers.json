@@ -1,0 +1,100 @@
+{
+  "title": "Naturally Juicy Irish Brie Skewers",
+  "description": "A flexitarian-friendly Irish dish featuring brie, glaze, and fresh herbs, perfect for a show-off appetizer or snack. The robata-grill vessel adds a smoky flavor to the juicy brie.",
+  "cuisine": "Irish",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Irish brie cheese",
+      "amount": "12 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "balsamic glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "Thread a piece of brie cheese onto each skewer, leaving a small space between each piece.",
+    "In a small bowl, mix together the honey, balsamic glaze, olive oil, garlic, salt, and pepper.",
+    "Brush the glaze mixture onto each piece of brie cheese.",
+    "Sprinkle the chopped thyme and rosemary onto the brie cheese.",
+    "Place the skewers onto the robata-grill and cook for 2-3 minutes per side, or until the cheese is melted and slightly charred.",
+    "Serve the skewers hot, garnished with additional thyme and rosemary if desired.",
+    "Let the skewers cool for a few minutes before serving to allow the cheese to set.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "flexitarian-friendly",
+    "grilled-cheese",
+    "herbs",
+    "irish-cuisine",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "naturally-juicy-irish-brie-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-juicy-irish-brie-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:54:13Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "glaze",
+    "primaryIngredient": "brie",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "brie",
+    "descriptor": "naturally juicy",
+    "dishForm": "Skewers"
+  }
+}
