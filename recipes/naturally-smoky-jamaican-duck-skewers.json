@@ -1,0 +1,99 @@
+{
+  "title": "Naturally Smoky Jamaican Duck Skewers",
+  "description": "A fresh and springy Jamaican dish featuring duck fat, with an al-dente finish, perfect for a brunch mood, served on a wooden board.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "duck fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together duck fat, scotch bonnet peppers, green onions, thyme, allspice, salt, and black pepper.",
+    "Add the duck breast pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated duck pieces onto the soaked wooden skewers.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the duck is cooked to an internal temperature of 165 degrees Fahrenheit.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers on a wooden board, garnished with additional thyme and green onions if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "grilled-meats",
+    "jamaican-cuisine",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "naturally-smoky-jamaican-duck-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-jamaican-duck-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:24:41Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "duck fat",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "duck",
+    "descriptor": "Naturally Smoky",
+    "dishForm": "Skewers"
+  }
+}
