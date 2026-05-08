@@ -1,0 +1,102 @@
+{
+  "title": "Naturally Spicy Algerian Shrimp Tagine",
+  "description": "A funky and flavorful Algerian dish made with saeujeot shrimp paste and served with double rise bread, perfect for a weeknight dinner",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "saeujeot shrimp paste",
+      "amount": "2 tablespoons",
+      "notes": "found in Asian markets"
+    },
+    {
+      "name": "double rise bread",
+      "amount": "1 loaf",
+      "notes": "low carb friendly"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Slice the double rise bread into 1 inch thick slices and toast until lightly browned",
+    "In a large bowl, mix together the saeujeot shrimp paste, olive oil, onion, garlic, cumin, paprika, salt, and black pepper",
+    "Add the shrimp to the bowl and toss to coat with the shrimp paste mixture",
+    "Transfer the shrimp mixture to a slate tile vessel",
+    "Bake the shrimp in the preheated oven for 12 minutes, or until pink and cooked through",
+    "Serve the shrimp with the toasted double rise bread and garnish with chopped fresh parsley"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "north-african",
+    "one-pan",
+    "seafood",
+    "shrimp",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "naturally-spicy-algerian-shrimp-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-spicy-algerian-shrimp-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:41:01Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "saeujeot-shrimp-paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Naturally Spicy",
+    "dishForm": "Tagine"
+  }
+}
