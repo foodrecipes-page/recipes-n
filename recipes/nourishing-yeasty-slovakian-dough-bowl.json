@@ -1,0 +1,96 @@
+{
+  "title": "Nourishing Yeasty Slovakian Dough Bowl",
+  "description": "A traditional Slovakian dish featuring a yeasty dough bowl filled with ssamjang and candy, perfect for a solo dinner, and sugar-free friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ssamjang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar free candy",
+      "amount": "1/2 cup",
+      "notes": "such as sugar free gummies"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, and salt.",
+    "Gradually add the water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased earthenware bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Punch down the dough and shape it into a bowl shape.",
+    "Spread the ssamjang evenly over the dough, leaving a 1 inch border around the edges.",
+    "Arrange the sugar free candy on top of the ssamjang.",
+    "Drizzle the olive oil over the candy and dough.",
+    "Bake the dough bowl in the preheated oven for 25 minutes, or until it is golden brown.",
+    "Remove the dough bowl from the oven and let it cool for 5 minutes.",
+    "Serve the nourishing yeasty Slovakian dough bowl hot, garnished with a sliced egg if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "homemade",
+    "one-bowl",
+    "slovakian",
+    "sugar-free",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nourishing-yeasty-slovakian-dough-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-yeasty-slovakian-dough-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:11:56Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "candy",
+    "primaryIngredient": "ssamjang",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "dough",
+    "descriptor": "nourishing yeasty",
+    "dishForm": "Bowl"
+  }
+}
