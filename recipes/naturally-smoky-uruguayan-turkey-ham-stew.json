@@ -1,0 +1,96 @@
+{
+  "title": "Naturally Smoky Uruguayan Turkey Ham Stew",
+  "description": "A hearty and flavorful stew featuring turkey ham, with a smoky twist and a plant-based friendly approach, served in a traditional kazan cauldron. This dish is perfect for festive occasions and gatherings.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "plant-based",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey ham",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Heat the kazan cauldron over medium heat and add the diced turkey ham to cook until browned.",
+    "Add the smoked paprika, chopped onion, and minced garlic to the cauldron and cook until the onion is translucent.",
+    "Add the diced red bell pepper to the cauldron and cook for an additional 2 minutes.",
+    "Stir in the canned diced tomatoes and vegetable broth, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew cook for 20 minutes, stirring occasionally.",
+    "Stir in the shredded cheddar cheese until melted and well combined.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "festive",
+    "one-pot",
+    "plant-based",
+    "smoky",
+    "uruguayan-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "naturally-smoky-uruguayan-turkey-ham-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-uruguayan-turkey-ham-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:17:49Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "smoke",
+    "primaryIngredient": "turkey ham",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "turkey ham",
+    "descriptor": "Naturally Smoky",
+    "dishForm": "Stew"
+  }
+}
