@@ -1,0 +1,100 @@
+{
+  "title": "Nourishing German Potato Bowl",
+  "description": "A hearty German dish featuring potatoes, vegetables, and a tangy vinaigrette dressing, served in an earthy earthenware bowl.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Place the diced potatoes, sliced carrots, and chopped onions in a large bowl.",
+    "Toss the vegetables with 2 tablespoons of olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the vegetables in a single layer on a baking sheet and roast for 30 minutes.",
+    "In a small bowl, whisk together the apple cider vinegar and remaining 2 tablespoons of olive oil.",
+    "Remove the vegetables from the oven and let them cool for a few minutes.",
+    "Transfer the roasted vegetables to an earthenware bowl and drizzle with the vinaigrette dressing.",
+    "Sprinkle the minced garlic and chopped parsley over the top of the vegetables.",
+    "Serve the Nourishing German Potato Bowl hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "healthy-dinner",
+    "one-bowl",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nourishing-german-potato-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-german-potato-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:47:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "simmer",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potatoes",
+    "descriptor": "nourishing earthy",
+    "dishForm": "Bowl"
+  }
+}

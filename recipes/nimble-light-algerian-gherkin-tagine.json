@@ -1,0 +1,99 @@
+{
+  "title": "Nimble Light Algerian Gherkin Tagine",
+  "description": "A cultured and glassy-jelly light Algerian dish featuring gherkin relish, this tagine is perfect for a unique dinner experience. It is prepared using sous-vide and is FODMAP-friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gherkin",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit.",
+    "In a blender, puree the sliced gherkin, olive oil, chopped onion, minced garlic, and grated ginger until smooth.",
+    "In a bowl, mix together the cumin, coriander, chicken broth, and lemon juice.",
+    "Combine the gherkin puree and the spice mixture in a sous-vide bag.",
+    "Seal the bag and cook for 2 hours.",
+    "Remove the bag from the sous-vide machine and let it cool.",
+    "Strain the tagine through a fine-mesh sieve into a bowl.",
+    "Discard the solids and serve the tagine hot.",
+    "Garnish with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "low-carb",
+    "north-african",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "nimble-light-algerian-gherkin-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-light-algerian-gherkin-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:48:14Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "gherkin relish",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "gherkin",
+    "descriptor": "Nimble Light",
+    "dishForm": "Tagine"
+  }
+}

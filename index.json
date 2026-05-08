@@ -225,6 +225,21 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-crispy-uruguayan-beef-empanadas",
+    "title": "Naturally Crispy Uruguayan Beef Empanadas",
+    "tags": [
+      "beef-recipes",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "south-american",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-crispy-uruguayan-salt-cod-empanadas",
     "title": "Naturally Crispy Uruguayan Salt Cod Empanadas",
     "tags": [
@@ -1676,6 +1691,20 @@
     ],
     "cuisine": "korean",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nimble-light-algerian-gherkin-tagine",
+    "title": "Nimble Light Algerian Gherkin Tagine",
+    "tags": [
+      "fodmap-friendly",
+      "gluten-free",
+      "low-carb",
+      "north-african",
+      "sous-vide"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 150,
     "shard": "n"
   },
   {
@@ -3798,6 +3827,20 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-german-potato-bowl",
+    "title": "Nourishing German Potato Bowl",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "healthy-dinner",
+      "one-bowl",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {

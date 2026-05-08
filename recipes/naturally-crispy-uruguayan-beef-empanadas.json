@@ -1,0 +1,95 @@
+{
+  "title": "Naturally Crispy Uruguayan Beef Empanadas",
+  "description": "A traditional Uruguayan dish featuring crispy empanadas filled with fatty beef and scallions, served in a scallop shell vessel, this recipe is gluten-free friendly and perfect for a solo dinner",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "double rise bread",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef, chopped scallions, salt, black pepper, and paprika, and mix well with your hands until just combined.",
+    "Add the beaten eggs to the bowl and mix until the eggs are fully incorporated.",
+    "Divide the double rise bread into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a quarter of the beef mixture in the center of each disk.",
+    "Fold the dough over the filling to form a half moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and place them in a scallop shell vessel.",
+    "Bake the empanadas in the preheated oven for 25 minutes, or until crispy and golden brown.",
+    "Remove the empanadas from the oven and let them cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "south-american",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "naturally-crispy-uruguayan-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-crispy-uruguayan-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:48:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "scallions",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Naturally Crispy",
+    "dishForm": "Empanadas"
+  }
+}
