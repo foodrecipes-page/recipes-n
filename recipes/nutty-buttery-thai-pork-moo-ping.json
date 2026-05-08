@@ -1,0 +1,101 @@
+{
+  "title": "Nutty Buttery Thai Pork Moo Ping",
+  "description": "A buttery and flavorful Thai dish featuring pork, Szechuan peppercorns, and a crunchy deep-fry element, all in a convenient moo-ping form, cooked to perfection in a Dutch oven.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Szechuan peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a Dutch oven over medium-high heat to 350 degrees.",
+    "In a large bowl, whisk together the fish sauce, lime juice, and brown sugar.",
+    "Add the sliced pork to the bowl and toss to coat with the marinade.",
+    "Add the toasted and ground Szechuan peppercorns to the bowl and toss to combine.",
+    "Using a slotted spoon, add the pork to the hot oil and deep-fry until browned, about 5 minutes.",
+    "Remove the pork from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "In the same Dutch oven, add the melted butter and cook over medium heat until fragrant, about 1 minute.",
+    "Add the sliced shallots to the Dutch oven and cook until crispy, about 3 minutes.",
+    "Add the chopped peanuts to the Dutch oven and cook for an additional minute.",
+    "Add the deep-fried pork back to the Dutch oven and toss to combine with the butter, shallots, and peanuts."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "deep-fried",
+    "low-calorie",
+    "nutty",
+    "one-pan",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutty-buttery-thai-pork-moo-ping",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-buttery-thai-pork-moo-ping",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:23:35Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pork",
+    "descriptor": "Nutty Buttery",
+    "dishForm": "Moo Ping"
+  }
+}

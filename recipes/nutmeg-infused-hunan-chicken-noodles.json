@@ -1,0 +1,99 @@
+{
+  "title": "Nutmeg Infused Hunan Chicken Noodles",
+  "description": "A peppery and molten solo dinner Chinese dish featuring vin santo and sous vide cooking, with a dash friendly approach.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "hunan sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vin santo",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "rice or egg noodles"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and pepper, then seal in a sous vide bag with nutmeg and cook at 130 degrees for 2 hours.",
+    "Cook the noodles according to package instructions and set aside.",
+    "In a small saucepan, combine hunan sauce, vin santo, soy sauce, and sesame oil, and bring to a simmer over medium heat.",
+    "Reduce the sauce by half, stirring occasionally, until it reaches a thick and molten consistency.",
+    "Remove the chicken from the sous vide bag and add to the saucepan with the sauce, tossing to coat.",
+    "Add the cooked noodles to the saucepan and toss everything together until the noodles are well coated with the sauce and chicken.",
+    "Transfer the noodles to a serving dish and garnish with chopped scallions and red pepper flakes if using.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutmeg-infused-hunan-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutmeg-infused-hunan-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:23:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "vin-santo",
+    "diet": "dash",
+    "region": "hunan",
+    "cuisineAdjective": "Hunan",
+    "mainIngredient": "chicken",
+    "descriptor": "Nutmeg Infused",
+    "dishForm": "Noodles"
+  }
+}
