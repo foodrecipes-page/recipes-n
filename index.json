@@ -1005,6 +1005,21 @@
     "shard": "n"
   },
   {
+    "slug": "nice-nutty-jamaican-chicken-pilaf",
+    "title": "Nice Nutty Jamaican Chicken Pilaf",
+    "tags": [
+      "gluten-free",
+      "jamaican-cuisine",
+      "one-pan",
+      "soy-free",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nice-nutty-jamaican-shrimp-skewers",
     "title": "Nice Nutty Jamaican Shrimp Skewers",
     "tags": [

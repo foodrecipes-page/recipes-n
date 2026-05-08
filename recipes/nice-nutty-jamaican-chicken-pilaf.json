@@ -1,0 +1,112 @@
+{
+  "title": "Nice Nutty Jamaican Chicken Pilaf",
+  "description": "A festive Jamaican dish featuring genmaicha and ayurvedic-tamasic-friendly ingredients, cooked in a papillote for a resinous and bouncy texture.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "soy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "genmaicha tea",
+      "amount": "2 cups",
+      "notes": "brewed"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the chicken, genmaicha tea, brown rice, scotch bonnet peppers, onion, garlic, thyme, allspice, paprika, salt, and black pepper.",
+    "Mix well to combine, making sure the chicken is coated with the spice mixture.",
+    "Cut a piece of parchment paper into a large square, about 12 inches per side.",
+    "Place the chicken and rice mixture in the center of the parchment paper, leaving a 1 inch border around the edges.",
+    "Fold the parchment paper over the filling, creating a papillote, and press the edges together to seal.",
+    "Place the papillote on a baking sheet and bake for 30 minutes.",
+    "Remove the papillote from the oven and let it rest for 5 minutes before serving.",
+    "Serve the Nice Nutty Jamaican Chicken Pilaf hot, garnished with fresh thyme and scotch bonnet peppers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jamaican-cuisine",
+    "one-pan",
+    "soy-free",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nice-nutty-jamaican-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-nutty-jamaican-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:05:20Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "papillote",
+    "primaryIngredient": "genmaicha",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Nice Nutty",
+    "dishForm": "Pilaf"
+  }
+}
