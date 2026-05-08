@@ -4482,6 +4482,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutrient-rich-filipino-cheese-tacos",
+    "title": "Filipino Cheese Tacos",
+    "tags": [
+      "beef",
+      "cheese-tacos",
+      "filipino",
+      "one-pan",
+      "tadka",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nutrient-rich-saudi-arabian-celery-grill",
     "title": "Saudi-Arabian Celery Grill",
     "tags": [
@@ -8455,6 +8470,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-tunisian-semolina-tagine",
+    "title": "Nutty Tunisian Semolina Tagine",
+    "tags": [
+      "comfort-food",
+      "festive",
+      "north-african",
+      "one-pot",
+      "vegan-friendly"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {

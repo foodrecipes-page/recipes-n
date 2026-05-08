@@ -1,0 +1,110 @@
+{
+  "title": "Filipino Cheese Tacos",
+  "description": "A twist on traditional Mexican tacos, these Filipino cheese tacos feature a savory tadka-spiced beef short rib mixture, gooey cheese, and crunchy hard taco shells.",
+  "cuisine": "Filipino",
+  "diet": [
+    "beef",
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tadka spices",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "hard taco shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the beef short ribs with salt and black pepper.",
+    "Heat 1 tablespoon of coconut oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef short ribs in batches, about 5 minutes per batch.",
+    "Transfer the browned beef to a plate and set aside.",
+    "Reduce the heat to medium and add the remaining 1 tablespoon of coconut oil.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the tadka spices, minced garlic, and browned beef back to the pot.",
+    "Stir to combine and bring to a simmer.",
+    "Transfer the Dutch oven to the preheated oven and bake for 20 minutes.",
+    "While the short rib mixture is baking, warm the hard taco shells according to the package instructions.",
+    "Assemble the tacos by spooning the short rib mixture into the warmed taco shells.",
+    "Top with shredded cheddar cheese, chopped cilantro, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "cheese-tacos",
+    "filipino",
+    "one-pan",
+    "tadka",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 37
+  },
+  "slug": "nutrient-rich-filipino-cheese-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutrient-rich-filipino-cheese-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:43:29Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "tadka",
+    "primaryIngredient": "hard taco shells",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Cheese",
+    "descriptor": "Nutrient-rich",
+    "dishForm": "Tacos"
+  }
+}
