@@ -1,0 +1,98 @@
+{
+  "title": "Nourishing Aerated Italian Chicken Breast Skillet",
+  "description": "A keto-friendly Italian dish featuring chicken breast, cooked in a clay pot with indulgent and briny flavors, perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 lbs",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "anchovy fillets",
+      "amount": "6 fillets"
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the chicken breast with salt and pepper.",
+    "Heat the olive oil in a clay pot over medium-high heat.",
+    "Sear the chicken breast until browned on both sides.",
+    "Add the garlic, anchovy fillets, capers, and cherry tomatoes to the pot.",
+    "Transfer the pot to the preheated oven and bake for 25 minutes.",
+    "Remove the pot from the oven and sprinkle the grana padano cheese over the top.",
+    "Return the pot to the oven and bake for an additional 5 minutes.",
+    "Remove the pot from the oven and squeeze the lemon juice over the top.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "nourishing-aerated-italian-chicken-breast-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-aerated-italian-chicken-breast-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:20:00Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "chicken breast",
+    "diet": "keto",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken breast",
+    "descriptor": "nourishing aerated",
+    "dishForm": "Skillet"
+  }
+}
