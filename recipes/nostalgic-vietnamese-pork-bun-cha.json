@@ -1,0 +1,96 @@
+{
+  "title": "Nostalgic Vietnamese Pork Bun Cha",
+  "description": "This dish features umami flavors and a shattering texture, with a focus on ayurvedic-sattvic-friendly ingredients, making it a unique and nostalgic Vietnamese experience.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lettuce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mint",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Grill the pork shoulder over medium heat until it is nicely charred.",
+    "In a large bowl, whisk together the fish sauce, lime juice, brown sugar, and red pepper flakes.",
+    "Add the sliced pork to the bowl and marinate for at least 30 minutes.",
+    "Cook the rice noodles according to the package instructions.",
+    "Assemble the dish by placing the noodles on a plate, topping with the marinated pork, lettuce, mint, and pickled carrots.",
+    "Drizzle the remaining marinade over the top of the dish.",
+    "Serve immediately and enjoy.",
+    "Reduce the amount of red pepper flakes if you prefer a milder flavor.",
+    "Garnish with additional mint and lettuce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "grilled-pork",
+    "rice-noodles",
+    "umami-flavors",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nostalgic-vietnamese-pork-bun-cha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-vietnamese-pork-bun-cha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:33:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "reduce",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Nostalgic Savory",
+    "dishForm": "Bun Cha"
+  }
+}
