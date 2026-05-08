@@ -1,0 +1,95 @@
+{
+  "title": "Nourishing Cheesy Australian Fish Bake",
+  "description": "A delicious and festive Australian dish featuring fish sauce and cheese, perfect for a flexitarian-friendly dinner",
+  "cuisine": "Australian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together fish sauce, butter, lemon juice, and garlic.",
+    "Place the cod fillets in a copper pot and brush the fish sauce mixture evenly over both fillets.",
+    "Sprinkle the shredded cheddar cheese and grated parmesan cheese over the cod fillets.",
+    "Bake the fish in the preheated oven for 12 minutes or until it is cooked through and the cheese is melted and golden brown.",
+    "Remove the copper pot from the oven and sprinkle the chopped parsley over the top of the cheese.",
+    "Return the copper pot to the oven and bake for an additional 2 minutes or until the parsley is slightly wilted.",
+    "Remove the copper pot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 14,
+  "totalTimeMin": 29,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "baked",
+    "cheesy",
+    "fish-recipe",
+    "flexitarian",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "nourishing-cheesy-australian-fish-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-cheesy-australian-fish-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:00:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "bake",
+    "primaryIngredient": "fish sauce",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fish",
+    "descriptor": "nourishing cheesy",
+    "dishForm": "Bake"
+  }
+}
