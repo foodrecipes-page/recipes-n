@@ -1,0 +1,111 @@
+{
+  "title": "Nutritious Juicy Thai Sea Bass Boat Noodles",
+  "description": "A light and earthy Thai dish featuring sea bass, this paleo-friendly boat noodle recipe is a cure for any seafood lover, with a juicy sea bass as the main attraction. This dish is made with a variety of spices and herbs to give it a unique flavor.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 fillets",
+      "notes": "6 ounces each"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shallots",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": "made from paleo-friendly ingredients"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the sliced shallots to the skillet and cook until they are lightly browned.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the sea bass fillets to the skillet and cook for 4 minutes on each side.",
+    "While the sea bass is cooking, cook the rice noodles according to the package instructions.",
+    "In a small bowl, whisk together the fish sauce and lime juice.",
+    "Add the chopped Thai basil to the bowl and stir to combine.",
+    "To assemble the dish, place some noodles in a bowl, then add a piece of sea bass on top.",
+    "Spoon some of the fish sauce mixture over the sea bass, then top with bean sprouts and a sprinkle of salt and pepper.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "seafood",
+    "thai-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutritious-juicy-thai-sea-bass-boat-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-juicy-thai-sea-bass-boat-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:10:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "sea bass",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "sea bass",
+    "descriptor": "nutritious juicy",
+    "dishForm": "Boat Noodles"
+  }
+}

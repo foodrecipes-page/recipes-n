@@ -6818,6 +6818,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-juicy-thai-sea-bass-boat-noodles",
+    "title": "Nutritious Juicy Thai Sea Bass Boat Noodles",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "paleo-friendly",
+      "seafood",
+      "thai-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-kenyan-lentils-skewers",
     "title": "Nutritious Kenyan Lentils Skewers",
     "tags": [
@@ -10440,6 +10455,21 @@
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-mild-dutch-red-pepper-stew",
+    "title": "Nutty Mild Dutch Red Pepper Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "lazy-sunday",
+      "nutty-flavors",
+      "one-pot",
+      "vegan-friendly"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {

@@ -1,0 +1,105 @@
+{
+  "title": "Nutty Mild Dutch Red Pepper Stew",
+  "description": "A hearty and comforting vegan stew featuring red pepper paste, perfect for a lazy Sunday, with earthy and light flavors. This dish is a classic Dutch-inspired recipe with a twist.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red pepper paste",
+      "amount": "2 tablespoons",
+      "notes": "mild variety"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the red pepper paste and cook for 1 minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Pour in the vegetable broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew simmer for 20 minutes.",
+    "Stir in the nutmeg, salt, and black pepper.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped walnuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "lazy-sunday",
+    "nutty-flavors",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-mild-dutch-red-pepper-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-mild-dutch-red-pepper-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:11:07Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "simmer",
+    "primaryIngredient": "red pepper paste",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "red peppers",
+    "descriptor": "Nutty Mild",
+    "dishForm": "Stew"
+  }
+}
