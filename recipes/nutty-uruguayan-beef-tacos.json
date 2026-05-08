@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Uruguayan Beef Tacos",
+  "description": "A halal-friendly Uruguayan dish featuring air-fried beef, served in scallop shells with hard taco shells on the side, this recipe is a unique twist on traditional tacos.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "hard taco shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "In a large bowl, combine ground beef, diced onion, minced garlic, chopped walnuts, ground cumin, and smoked paprika, mixing well with your hands until just combined.",
+    "Form the beef mixture into small patties, about 1 1/2 inches in diameter and 1/2 inch thick.",
+    "Place the patties in the air fryer basket, leaving some space between each patty to allow for even cooking.",
+    "Air-fry the beef patties for 5 minutes, then flip them over and cook for an additional 4 minutes, or until they reach an internal temperature of 160 degrees Fahrenheit.",
+    "While the beef is cooking, heat the olive oil in a small saucepan over medium heat.",
+    "Once the beef is done, place a patty in each scallop shell, followed by a spoonful of the warm olive oil.",
+    "Serve the scallop shells with hard taco shells on the side, allowing each guest to assemble their own tacos."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer-recipes",
+    "beef-recipes",
+    "halal-friendly",
+    "nutty-flavors",
+    "south-american-cuisine",
+    "unique-tacos"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutty-uruguayan-beef-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-uruguayan-beef-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:42:00Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "air-fry",
+    "primaryIngredient": "hard taco shells",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "nutty aerated",
+    "dishForm": "Tacos"
+  }
+}

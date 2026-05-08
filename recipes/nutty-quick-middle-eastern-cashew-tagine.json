@@ -1,0 +1,117 @@
+{
+  "title": "Nutty Quick Middle Eastern Cashew Tagine",
+  "description": "A quick and flavorful Middle Eastern dish featuring cashew nuts, perfect for a weeknight dinner, this herbal and snappy tagine is a great option for those looking for a jain-friendly meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cashew nuts",
+      "amount": "1 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Stir in the ground cumin, coriander, turmeric, and smoked paprika and cook for 1 minute.",
+    "Add the cashew nuts and cook for 2 minutes, stirring frequently.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Season the tagine with salt and black pepper to taste.",
+    "Serve the Nutty Quick Middle Eastern Cashew Tagine hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cashew-nuts",
+    "herbal",
+    "jain-friendly",
+    "middle-eastern",
+    "one-pot",
+    "quick-fix",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-quick-middle-eastern-cashew-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-quick-middle-eastern-cashew-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:41:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "braise",
+    "primaryIngredient": "cashew nuts",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "cashew nuts",
+    "descriptor": "Nutty Quick",
+    "dishForm": "Tagine"
+  }
+}
