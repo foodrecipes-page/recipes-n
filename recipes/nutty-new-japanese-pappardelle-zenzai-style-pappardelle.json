@@ -1,0 +1,103 @@
+{
+  "title": "Nutty New Japanese Pappardelle Zenzai-Style",
+  "description": "A citrusy and snappy Japanese dish featuring pappardelle pasta and ferment-jang, perfect for a quick and energizing vegetarian meal.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pappardelle pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, thinly sliced"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Citrus segments",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the pappardelle pasta according to the package instructions until it is al dente.",
+    "In a large skillet, heat the sesame oil over medium heat.",
+    "Add the grated ginger and cook for 1 minute until fragrant.",
+    "Add the ferment-jang, soy sauce, sugar, and sesame seeds to the skillet and stir to combine.",
+    "Add the cooked pappardelle pasta to the skillet and toss to coat with the sauce.",
+    "Add the citrus segments and green onions to the skillet and toss to combine.",
+    "Cook for an additional 2-3 minutes until the ingredients are heated through.",
+    "Stir in the toasted sesame seeds and water.",
+    "Season with salt to taste.",
+    "Serve immediately and garnish with additional green onions and citrus segments if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "japanese-cuisine",
+    "one-pan",
+    "quick-meal",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-new-japanese-pappardelle-zenzai-style-pappardelle",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-new-japanese-pappardelle-zenzai-style-pappardelle",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:06:25Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "ferment-jang",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pappardelle",
+    "descriptor": "Nutty New",
+    "dishForm": "Zenzai-Style Pappardelle"
+  }
+}
