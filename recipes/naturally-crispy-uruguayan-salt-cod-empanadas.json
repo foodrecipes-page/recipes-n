@@ -1,0 +1,101 @@
+{
+  "title": "Naturally Crispy Uruguayan Salt Cod Empanadas",
+  "description": "Savory empanadas filled with salt cod and crispy pastry, a nostalgic Uruguayan dish, served in a bento box for a fun meal on the go.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian",
+    "gluten free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salt cod",
+      "amount": "1 pound",
+      "notes": "soaked overnight and flaked"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, cold butter, and eggs to make the pastry dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "In a separate bowl, mix together the flaked salt cod, chopped onion, parsley, olive oil, salt, and black pepper.",
+    "Place a tablespoon of the salt cod mixture onto the center of each pastry circle.",
+    "Fold the pastry in half to form a half moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of olive oil.",
+    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown.",
+    "Serve the empanadas in a bento box for a fun and easy meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "uruguayan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "naturally-crispy-uruguayan-salt-cod-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-crispy-uruguayan-salt-cod-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:01:05Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "rest",
+    "primaryIngredient": "salt cod",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "salt cod",
+    "descriptor": "naturally crispy",
+    "dishForm": "Empanadas"
+  }
+}
