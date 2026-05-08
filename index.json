@@ -4080,6 +4080,22 @@
     "shard": "n"
   },
   {
+    "slug": "nuked-crispy-ethiopian-meat-gored-gored",
+    "title": "Crispy Gored-Gored with Pineapple and Nuka-Pickle",
+    "tags": [
+      "crispy",
+      "ethiopian-cuisine",
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "numbing-brazilian-paneer-curry",
     "title": "Numbing Brazilian Paneer Curry",
     "tags": [
@@ -7690,6 +7706,22 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-noodle-vietnamese-chicken-pho",
+    "title": "Nutty Noodle Vietnamese Chicken Pho",
+    "tags": [
+      "gluten-free-dish",
+      "high-protein",
+      "kid-friendly",
+      "one-pan",
+      "pasta-dish",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-norwegian-rice-flour-pancakes",
     "title": "Nutty Norwegian Rice Flour Pancakes",
     "tags": [
@@ -8677,6 +8709,20 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-venezuelan-dates-empanadas",
+    "title": "Nutty Venezuelan Dates Empanadas",
+    "tags": [
+      "flexitarian",
+      "hangover-cure",
+      "one-pan",
+      "savory",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 65,
     "shard": "n"
   },
   {

@@ -1,0 +1,126 @@
+{
+  "title": "Nutty Noodle Vietnamese Chicken Pho",
+  "description": "A kid-friendly, Vietnamese-inspired dish featuring a rich, jammy sauce, crispy noodles, and a sweet and sticky glaze.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "noodle",
+      "amount": "1 package",
+      "notes": "rice noodles or egg noodles"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "liquid cheese",
+      "amount": "1 cup",
+      "notes": "shredded mozzarella or cheddar"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat the vegetable oil over medium-high heat. Add the sliced onion and cook until caramelized, about 5 minutes.",
+    "Add the minced garlic and grated carrot to the pan and cook for an additional 2 minutes, stirring constantly.",
+    "Add the grated ginger to the pan and cook for 1 minute, stirring constantly.",
+    "Add the chicken breast to the pan and cook until browned and cooked through, about 5-7 minutes.",
+    "Transfer the chicken to a plate and set aside.",
+    "In the same pan, add the chicken broth, fish sauce, and soy sauce. Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Add the liquid cheese to the pan and stir until melted and smooth.",
+    "Add the cooked noodles to the pan and toss to coat with the sauce.",
+    "Return the chicken to the pan and toss to coat with the sauce.",
+    "In a small bowl, mix together the sugar and cornstarch until well combined.",
+    "Add the sugar and cornstarch mixture to the pan and stir to combine.",
+    "Cook for an additional 2-3 minutes, or until the sauce has thickened and the noodles are well coated."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free-dish",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "pasta-dish",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "nutty-noodle-vietnamese-chicken-pho",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-noodle-vietnamese-chicken-pho",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:43:46Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "glaze",
+    "primaryIngredient": "liquid cheese",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Nutty Noodle",
+    "dishForm": "Pho"
+  }
+}

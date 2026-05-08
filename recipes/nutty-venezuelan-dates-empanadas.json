@@ -1,0 +1,107 @@
+{
+  "title": "Nutty Venezuelan Dates Empanadas",
+  "description": "A savory hangover cure empanada filled with medjool dates, cure in shio-koji for a unique twist. Perfect as a breakfast, brunch, or snack option.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "medjool dates",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "cold"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine shio-koji and warm water, stirring until dissolved.",
+    "In a large mixing bowl, combine flour, cold butter, and salt.",
+    "Use a pastry blender or your fingertips to work butter into flour until mixture resembles coarse crumbs.",
+    "Add egg and mix until dough comes together in a ball.",
+    "Wrap dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "On a lightly floured surface, roll out dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of date mixture in the center of each dough circle.",
+    "Fold dough over filling and press edges together to seal.",
+    "Brush tops of empanadas with egg wash and sprinkle with chopped pecans.",
+    "Bake for 20-25 minutes or until golden brown."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "hangover-cure",
+    "one-pan",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "nutty-venezuelan-dates-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-venezuelan-dates-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:43:53Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "medjool dates",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Dates",
+    "descriptor": "Nutty",
+    "dishForm": "Empanadas"
+  }
+}
