@@ -3665,6 +3665,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-earthy-irish-lamb-stew",
+    "title": "Nourishing Earthy Irish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "irish-cuisine",
+      "lamb-based",
+      "one-pot",
+      "winter-nights"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 130,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-earthy-ukrainian-graham-cracker-terrine",
     "title": "Nourishing Earthy Ukrainian Graham Cracker Terrine",
     "tags": [
@@ -3825,6 +3840,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-garlicky-ethiopian-chicken-doro-wot",
+    "title": "Nourishing Garlicky Ethiopian Chicken Doro Wot",
+    "tags": [
+      "african-cuisine",
+      "egg-free",
+      "gluten-free",
+      "high-protein",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {

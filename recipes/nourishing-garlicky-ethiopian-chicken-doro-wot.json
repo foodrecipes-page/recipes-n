@@ -1,0 +1,109 @@
+{
+  "title": "Nourishing Garlicky Ethiopian Chicken Doro Wot",
+  "description": "A traditional Ethiopian dish made with chicken and flavored with garlic and umeboshi, perfect for a post-workout meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "umeboshi",
+      "amount": "2 tablespoons",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 teaspoons",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the tandoor clay pot over medium heat and add the vegetable oil.",
+    "Add the chopped onion and saute until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and saute for another minute, stirring constantly.",
+    "Add the chicken thighs and cook until they are browned on all sides, about 5 minutes.",
+    "Add the berbere spice, umeboshi, salt, and black pepper, and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the Doro Wot simmer, covered, for 25 minutes, or until the chicken is cooked through.",
+    "Serve the Doro Wot hot, garnished with chopped fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "egg-free",
+    "gluten-free",
+    "high-protein",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "nourishing-garlicky-ethiopian-chicken-doro-wot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-garlicky-ethiopian-chicken-doro-wot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:49:08Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "saute",
+    "primaryIngredient": "umeboshi",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing Garlicky",
+    "dishForm": "Doro Wot"
+  }
+}

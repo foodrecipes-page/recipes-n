@@ -1,0 +1,97 @@
+{
+  "title": "Nourishing Earthy Irish Lamb Stew",
+  "description": "A hearty and earthy Irish lamb stew featuring pomegranate molasses, this dish is perfect for a cold winter's night. The ice-bath-shock step ensures the lamb is cooked to perfection.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onions, carrots, and potatoes to the pot and cook until the vegetables are tender, about 10 minutes.",
+    "Add the pomegranate molasses, beef broth, tomato paste, and thyme to the pot and stir to combine.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the lamb is tender, about 1 1/2 hours.",
+    "Remove the pot from the heat and let cool slightly.",
+    "Submerge the pot in an ice bath to stop the cooking process.",
+    "Let the stew cool to room temperature, then refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 100,
+  "totalTimeMin": 130,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "irish-cuisine",
+    "lamb-based",
+    "one-pot",
+    "winter-nights"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "nourishing-earthy-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-earthy-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:49:32Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Nourishing Earthy",
+    "dishForm": "Stew"
+  }
+}
