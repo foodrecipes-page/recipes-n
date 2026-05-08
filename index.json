@@ -5871,6 +5871,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-velvety-croatian-fish-stew",
+    "title": "Croatian Fish Stew",
+    "tags": [
+      "comfort-food",
+      "croatian-cuisine",
+      "fish-based",
+      "healthy",
+      "one-pot",
+      "seafood"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-vietnamese-flax-pho",
     "title": "Nourishing Vietnamese Flax Pho",
     "tags": [
