@@ -1,0 +1,114 @@
+{
+  "title": "Nutty dense French corn rillettes",
+  "description": "A rich and comforting French dish featuring poached corn and a nutty flavor.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "poached chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped toasted almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large saucepan bring the chicken broth to a boil over high heat.",
+    "Reduce the heat to medium and add the corn kernels. Poach for 10-12 minutes or until tender.",
+    "Remove the corn from the broth with a slotted spoon and set aside.",
+    "In the same saucepan melt the butter over medium heat. Add the nutmeg, salt, and heavy cream. Bring to a simmer and cook for 5 minutes or until slightly thickened.",
+    "Add the cooked corn kernels to the saucepan and stir to combine. Cook for an additional 2 minutes or until well combined.",
+    "Stir in the grated cheddar cheese until melted and smooth.",
+    "Transfer the rillettes to a shallow dish and sprinkle with chopped parsley and toasted almonds.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled or room temperature.",
+    "Refrigerate any leftovers for up to 3 days.",
+    "Reheat gently before serving.",
+    "Note: Traditionally rillettes are served in small terrines or ramekins. You can also serve in small bowls or on toasted bread.",
+    "If you prefer a lighter consistency, you can add more chicken broth or heavy cream to the rillettes before serving.",
+    "For a gluten-free option, make sure to use a gluten-free chicken broth.",
+    "Nutrition information is an estimate and may vary based on specific ingredient brands and measurements."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "comfort-food",
+    "easy-to-make",
+    "french-cuisine",
+    "make-ahead",
+    "side-dish",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "nutty-dense-french-corn-rillettes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-french-corn-rillettes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:36:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "poach",
+    "primaryIngredient": "creamed corn",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "corn",
+    "descriptor": "Nutty dense",
+    "dishForm": "rillettes"
+  }
+}
