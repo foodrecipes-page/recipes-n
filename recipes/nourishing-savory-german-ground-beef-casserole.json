@@ -1,0 +1,101 @@
+{
+  "title": "Nourishing Savory German Ground Beef Casserole",
+  "description": "A cultured and crumbly German dish featuring tomato sauce and deglaze-fond, perfect for a crowd, this recipe is also anti-inflammatory-friendly. It combines ground beef, vegetables, and spices for a hearty meal.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it into small pieces as it cooks.",
+    "Add the chopped onion and carrot to the skillet and cook until the vegetables are tender.",
+    "Stir in the tomato sauce and beef broth, bringing the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture simmer while preparing the potato topping.",
+    "In a large bowl, combine the sliced potato and a pinch of salt and pepper, tossing to coat.",
+    "In a greased 9x13 inch baking dish, create a layer of the meat mixture.",
+    "Top the meat layer with a layer of potatoes, overlapping the slices slightly to cover the entire surface.",
+    "Repeat the layers, ending with a layer of potatoes on top.",
+    "Bake the casserole in the preheated oven for 45 minutes, or until the potatoes are golden brown and the casserole is hot and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "ground-beef",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "nourishing-savory-german-ground-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-savory-german-ground-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:38:25Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "tomato sauce",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "ground beef",
+    "descriptor": "nourishing savory",
+    "dishForm": "Casserole"
+  }
+}
