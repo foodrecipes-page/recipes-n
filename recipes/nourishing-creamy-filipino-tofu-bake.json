@@ -1,0 +1,100 @@
+{
+  "title": "Nourishing Creamy Filipino Tofu Bake",
+  "description": "A citrusy and creamy Filipino dish featuring marinated tofu, perfect for a brunch mood, with an ayurvedic-tamasic friendly twist, wood-fired baked to perfection.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into cubes"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, and ginger to make the marinade.",
+    "Add the cubed tofu to the marinade and let it sit for at least 30 minutes.",
+    "In a separate bowl, mix together coconut cream, salt, and black pepper.",
+    "Remove the tofu from the marinade and place it in a baking dish.",
+    "Pour the coconut cream mixture over the tofu.",
+    "Bake the tofu in the preheated wood-fired oven for 25 minutes.",
+    "Garnish with chopped scallions and serve hot.",
+    "Let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-recipes",
+    "brunch-ideas",
+    "filipino-food",
+    "tofu-recipes",
+    "vegan-friendly",
+    "wood-fired-oven"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "nourishing-creamy-filipino-tofu-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-creamy-filipino-tofu-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:32:12Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "marinated tofu",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "tofu",
+    "descriptor": "Nourishing Creamy",
+    "dishForm": "Bake"
+  }
+}
