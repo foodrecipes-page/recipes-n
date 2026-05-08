@@ -1,0 +1,91 @@
+{
+  "title": "Naturally Sweet Spanish Speck Crema Catalana",
+  "description": "A garlicky and light Spanish dessert featuring speck, perfect for a date night, this vegan-friendly crema catalana is a unique twist on a classic dish, it is made with speck and candy to give it a sweet and savory flavor",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "speck",
+      "amount": "6 slices",
+      "notes": "vegan speck alternative"
+    },
+    {
+      "name": "candy",
+      "amount": "1 cup",
+      "notes": "vegan candy alternative"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, combine the speck, candy, garlic, lemon juice, and maple syrup, and blend until smooth.",
+    "In a separate bowl, whisk together the soy cream and vanilla extract.",
+    "Add the soy cream mixture to the blender and blend until well combined.",
+    "Pour the mixture into 4-6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours, or until chilled.",
+    "Serve chilled, garnished with additional candy and speck if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crema-catalana",
+    "date-night",
+    "dessert",
+    "garlicky",
+    "light",
+    "spanish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "naturally-sweet-spanish-speck-crema-catalana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-sweet-spanish-speck-crema-catalana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:43:14Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "candy",
+    "primaryIngredient": "speck",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "speck",
+    "descriptor": "Naturally Sweet",
+    "dishForm": "Crema Catalana"
+  }
+}
