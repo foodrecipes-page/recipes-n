@@ -1,0 +1,108 @@
+{
+  "title": "Nutritious Velvety Algerian Fish Tagine",
+  "description": "A briny and velvety Algerian dish featuring fish and miniature marshmallows, perfect for a hangover cure. This pescatarian-friendly tagine is cooked to perfection in a traditional clay pot.",
+  "cuisine": "Algerian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "miniature marshmallows",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay tagine or a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the cumin and paprika and cook for 1 minute, stirring constantly.",
+    "Add the cod fillets and cook for 2 minutes on each side, or until they are cooked through.",
+    "Add the chicken broth, salt, and black pepper, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Add the miniature marshmallows and cook for an additional 2 minutes, or until they are puffed and lightly toasted.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro.",
+    "Traditionally, the tagine is cooked over a charcoal fire, but a stovetop or oven will also work.",
+    "Be sure to adjust the cooking time and temperature as needed to prevent the marshmallows from burning."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-based",
+    "north-african",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutritious-velvety-algerian-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-velvety-algerian-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:14:01Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "tagine-cook",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "fish",
+    "descriptor": "Nutritious velvety",
+    "dishForm": "Tagine"
+  }
+}
