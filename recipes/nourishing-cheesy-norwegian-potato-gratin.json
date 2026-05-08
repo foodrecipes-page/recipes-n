@@ -1,0 +1,100 @@
+{
+  "title": "Nourishing Cheesy Norwegian Potato Gratin",
+  "description": "A cozy Norwegian dish featuring Jersey Royal potatoes, ferment kimchi, and a cheesy pull, perfect for a cold evening. This gluten-free friendly recipe is sure to become a favorite.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jersey Royal potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ferment kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the sliced potatoes and enough cold water to cover them, then bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer for 5 minutes, or until the potatoes are slightly tender.",
+    "Drain the potatoes and set them aside to cool.",
+    "In a large skillet, melt the butter over medium heat, then add the chopped onion and cook until it is softened and lightly browned.",
+    "Add the chopped kimchi to the skillet and cook for 1 minute, stirring constantly.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes, then top with a layer of the onion and kimchi mixture, and finally a sprinkle of gruyere cheese.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "In a small bowl, whisk together the heavy cream, salt, black pepper, and nutmeg, then pour the mixture over the top layer of cheese.",
+    "Cover the dish with aluminum foil and bake for 30 minutes, then remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown and the potatoes are tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-dish",
+    "comfort-food",
+    "gluten-free",
+    "norwegian-cuisine",
+    "one-pan",
+    "potato-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "nourishing-cheesy-norwegian-potato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-cheesy-norwegian-potato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:15:07Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Nourishing cheesy",
+    "dishForm": "Gratin"
+  }
+}
