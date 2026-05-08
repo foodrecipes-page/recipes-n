@@ -1,0 +1,105 @@
+{
+  "title": "Nourishing Golden Peruvian Chicken Pollo A La Brasa",
+  "description": "A cultured and festive Peruvian dish featuring creamed corn and dashi extract, made with low fat friendly ingredients, this Pollo A La Brasa is a delicious and nutritious meal option. It is a traditional Peruvian roasted chicken dish marinated in a mixture of spices and herbs.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "2 lbs",
+      "notes": "cut into 8 pieces"
+    },
+    {
+      "name": "cream corn",
+      "amount": "1 can",
+      "notes": "low sodium"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a blender or food processor, combine garlic, ginger, cumin, paprika, salt, and black pepper, and blend until smooth.",
+    "In a large bowl, whisk together the blended spice mixture, olive oil, and dashi extract.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Roast the chicken in the preheated oven for 30 minutes.",
+    "While the chicken is cooking, heat the cream corn in a saucepan over medium heat.",
+    "After the chicken has roasted for 30 minutes, brush it with the heated cream corn and continue roasting for an additional 10 minutes.",
+    "Remove the chicken from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-fat",
+    "one-pan",
+    "peruvian-cuisine",
+    "roasted-chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "nourishing-golden-peruvian-chicken-pollo-a-la-brasa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-golden-peruvian-chicken-pollo-a-la-brasa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:17:20Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "dashi-extract",
+    "primaryIngredient": "creamed corn",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing Golden",
+    "dishForm": "Pollo A La Brasa"
+  }
+}
