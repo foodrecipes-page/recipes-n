@@ -1,0 +1,91 @@
+{
+  "title": "Nutty Smoked Argentinian Peppers Hash",
+  "description": "A crumbly, ovo-vegetarian one-pot dish featuring roasted peppers, with a nutty twist.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "instructions": [
+    "Heat a large cast-iron skillet over medium heat and add a small amount of oil.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced roasted peppers and cook for 2 minutes.",
+    "Stir in the crumbled feta cheese and chopped fresh parsley.",
+    "Crack the eggs into the skillet and scramble them with the other ingredients.",
+    "Stir in the chopped smoked paprika and cook for an additional minute.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "ingredients": [
+    {
+      "name": "large onion",
+      "amount": "1"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "diced roasted peppers",
+      "amount": "2"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "gluten-free",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "nutty-smoked-argentinian-peppers-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-smoked-argentinian-peppers-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:27:49Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "rest",
+    "primaryIngredient": "roasted pepper",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "peppers",
+    "descriptor": "Nutty Smoked",
+    "dishForm": "Hash"
+  }
+}
