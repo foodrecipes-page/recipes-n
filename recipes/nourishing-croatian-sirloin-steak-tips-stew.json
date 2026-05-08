@@ -1,0 +1,113 @@
+{
+  "title": "Nourishing Croatian Sirloin Steak Tips Stew",
+  "description": "A rich and comforting Croatian dish featuring sirloin steak tips, this stew is perfect for a cold winter night, made in a mason jar for a unique presentation.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "ayurvedic-rajasic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "diced dried fruit like apricots or cranberries"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 300 degrees Fahrenheit.",
+    "In a large pan, heat 2 tablespoons of oil over medium high heat.",
+    "Add the sirloin steak tips and cook until browned on all sides, about 5 minutes.",
+    "Remove the steak tips from the pan and set aside.",
+    "Add the chopped onion to the pan and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the pan and cook for 1 minute.",
+    "Add the chopped carrots and potatoes to the pan and cook for 5 minutes.",
+    "In a small bowl, mix together the beef broth, tomato paste, paprika, salt, and black pepper.",
+    "Add the broth mixture to the pan and stir to combine.",
+    "Add the browned steak tips back to the pan and stir to combine.",
+    "Transfer the stew to a large mason jar and add the diced candy on top.",
+    "Cover the mason jar with a lid and bake for 2 hours."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty",
+    "mason-jar",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "nourishing-croatian-sirloin-steak-tips-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-croatian-sirloin-steak-tips-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:38:13Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "candy",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "sirloin steak tips",
+    "descriptor": "nutritious rich",
+    "dishForm": "Stew"
+  }
+}
