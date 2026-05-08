@@ -843,6 +843,22 @@
     "shard": "n"
   },
   {
+    "slug": "nice-crunchy-greek-duck-baklava",
+    "title": "Nice Crunchy Greek Duck Baklava",
+    "tags": [
+      "dessert",
+      "duck-sauce",
+      "gluten-free",
+      "greek-food",
+      "low-carb",
+      "phyllo-dough",
+      "walnuts"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 75,
+    "shard": "n"
+  },
+  {
     "slug": "nice-crunchy-kenyan-beef-stir-fry",
     "title": "Nice Crunchy Kenyan Beef Stir Fry",
     "tags": [
@@ -4004,6 +4020,21 @@
     ],
     "cuisine": "uruguayan",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-silky-moroccan-peach-sellou",
+    "title": "Nourishing Silky Moroccan Peach Sellou",
+    "tags": [
+      "claypot-cooking",
+      "jain-friendly",
+      "moroccan-desserts",
+      "peach-recipes",
+      "silky-texture",
+      "vegetarian-options"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {

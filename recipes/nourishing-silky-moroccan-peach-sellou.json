@@ -1,0 +1,93 @@
+{
+  "title": "Nourishing Silky Moroccan Peach Sellou",
+  "description": "A comforting Moroccan dish featuring peach juice and dum, made in a claypot and suitable for a Jain diet. This briny and silky sellou is a unique and delicious experience.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peach juice",
+      "amount": "2 cups",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "dum",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "almond oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large claypot, mix together the peach juice, dum, almond oil, honey, rose water, and orange blossom water.",
+    "Stir well to combine and bring the mixture to a boil over high heat.",
+    "Reduce the heat to low and simmer for 20 minutes, stirring occasionally.",
+    "Stir in the sesame seeds and coconut flakes.",
+    "Transfer the claypot to the preheated oven and bake for 10 minutes.",
+    "Remove the sellou from the oven and let it cool to room temperature.",
+    "Serve the sellou warm or at room temperature, garnished with additional sesame seeds and coconut flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-cooking",
+    "jain-friendly",
+    "moroccan-desserts",
+    "peach-recipes",
+    "silky-texture",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "nourishing-silky-moroccan-peach-sellou",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-silky-moroccan-peach-sellou",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:53:20Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "peach juice",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "peaches",
+    "descriptor": "nourishing silky",
+    "dishForm": "Sellou"
+  }
+}
