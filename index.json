@@ -5178,6 +5178,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-uruguayan-vegetable-stew",
+    "title": "Uruguayan Vegetable Stew",
+    "tags": [
+      "comfort-food",
+      "healthy",
+      "one-pot",
+      "stew",
+      "uruguayan",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-venezuelan-cornstarch-empanadas",
     "title": "nutritious venezuelan cornstarch empanadas",
     "tags": [
