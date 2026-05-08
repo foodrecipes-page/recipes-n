@@ -1,0 +1,96 @@
+{
+  "title": "Nourishing Smoky Peruvian Pork Belly Tiradito",
+  "description": "A Peruvian inspired dish featuring smoky pork belly slices, earthy flavors and a springy twist, perfect for a monsoon evening, this shojin friendly tiradito is a must try.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together tandoor spice mix, soy sauce, lime juice, grated ginger, and minced garlic.",
+    "Place the pork belly in a large ziplock bag and pour the marinade over it, making sure the pork is coated evenly.",
+    "Seal the bag and refrigerate for at least 2 hours or overnight.",
+    "Remove the pork from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Roast the pork in the preheated oven for 20 minutes or until it reaches an internal temperature of 160 degrees Fahrenheit.",
+    "Let the pork rest for 10 minutes before slicing it into thin strips.",
+    "In a small bowl, mix together chopped cilantro and sesame oil.",
+    "To assemble the tiradito, place a few slices of the pork on a plate and drizzle with the cilantro sesame oil mixture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "monsoon",
+    "peruvian",
+    "pork-belly",
+    "shojin",
+    "smoky",
+    "springy",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "nourishing-smoky-peruvian-pork-belly-tiradito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-peruvian-pork-belly-tiradito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:34:56Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "tandoor",
+    "primaryIngredient": "pork belly slices",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pork belly",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Tiradito"
+  }
+}

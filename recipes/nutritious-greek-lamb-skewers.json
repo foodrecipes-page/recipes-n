@@ -1,0 +1,92 @@
+{
+  "title": "Nutritious Greek Lamb Skewers",
+  "description": "A hearty and flavorful Greek dish featuring lamb skewers, natural yoghurt, and bonito flakes, perfect for a satisfying brunch",
+  "cuisine": "Greek",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "natural yoghurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together yoghurt, bonito flakes, olive oil, garlic, lemon juice, salt, and black pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb is cooked to an internal temperature of 145 degrees",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve the skewers hot, garnished with additional bonito flakes and a side of natural yoghurt",
+    "Refrigerate or freeze any leftovers for later use"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "greek-food",
+    "high-protein",
+    "lamb-recipes",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "nutritious-greek-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-greek-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:34:54Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "bonito-shave",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Nutritious",
+    "dishForm": "Skewers"
+  }
+}

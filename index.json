@@ -3701,6 +3701,22 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-smoky-peruvian-pork-belly-tiradito",
+    "title": "Nourishing Smoky Peruvian Pork Belly Tiradito",
+    "tags": [
+      "monsoon",
+      "peruvian",
+      "pork-belly",
+      "shojin",
+      "smoky",
+      "springy",
+      "tandoor"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-smoky-polish-black-beans-skillet",
     "title": "Nourishing Smoky Polish Black Beans Skillet",
     "tags": [
@@ -4859,6 +4875,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 65,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-greek-lamb-skewers",
+    "title": "Nutritious Greek Lamb Skewers",
+    "tags": [
+      "brunch-ideas",
+      "greek-food",
+      "high-protein",
+      "lamb-recipes",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
