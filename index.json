@@ -3667,6 +3667,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-middle-eastern-brown-rice-pilaf",
+    "title": "Nourishing Middle Eastern Brown Rice Pilaf",
+    "tags": [
+      "banana-leaf",
+      "brown-rice",
+      "middle-eastern",
+      "one-packet",
+      "smoke-hot",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-middle-eastern-chickpea-tagine",
     "title": "Nourishing Middle Eastern Chickpea Tagine",
     "tags": [
@@ -4053,6 +4068,21 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-norwegian-cheese-grill",
+    "title": "Nourishing Smoky Norwegian Cheese Grill",
+    "tags": [
+      "floral",
+      "indulgent",
+      "jain-friendly",
+      "norwegian-cuisine",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {

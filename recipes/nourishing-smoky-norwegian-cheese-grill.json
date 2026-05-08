@@ -1,0 +1,105 @@
+{
+  "title": "Nourishing Smoky Norwegian Cheese Grill",
+  "description": "A floral and indulgent Norwegian dish featuring lemon juice and smoke, made with a raclette grill and suitable for Jain-friendly diets.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian cheese",
+      "amount": "200g",
+      "notes": "such as Gammelost or Brunost"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Floral honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Glassy jelly",
+      "amount": "100g",
+      "notes": "such as quince or apple jelly"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to medium heat.",
+    "Slice the Norwegian cheese into thin strips.",
+    "In a small bowl, mix together the lemon juice, smoked paprika, thyme, and rosemary.",
+    "Brush the cheese strips with the lemon juice mixture.",
+    "Place the cheese strips on the raclette grill and cook for 2-3 minutes on each side.",
+    "Drizzle the olive oil over the cheese and season with salt and black pepper.",
+    "Serve the cheese with a side of floral honey and glassy jelly.",
+    "Garnish with additional thyme and rosemary if desired.",
+    "Cook the glassy jelly in a small saucepan over low heat until it is melted and smooth.",
+    "Serve the melted jelly alongside the cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "indulgent",
+    "jain-friendly",
+    "norwegian-cuisine",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "nourishing-smoky-norwegian-cheese-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-norwegian-cheese-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:44:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "smoke",
+    "primaryIngredient": "lemon juice",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cheese",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Grill"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Nourishing Middle Eastern Brown Rice Pilaf",
+  "description": "A roasted, dense, and energizing Middle Eastern dish featuring brown rice, this pilaf is smoke-hot and vegetarian-friendly, cooked to perfection in a banana leaf vessel.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "long grain"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, rinse the brown rice and soak it in water for 30 minutes.",
+    "In a large pan, heat the olive oil over medium heat and saute the chopped onion until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped carrots and zucchini and cook until they are tender.",
+    "Drain the soaked brown rice and add it to the pan, stirring to combine with the vegetables and oil.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Spoon the rice mixture onto a banana leaf, folding the leaf to form a packet.",
+    "Bake the packet in the preheated oven for 30 minutes.",
+    "Remove the packet from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "brown-rice",
+    "middle-eastern",
+    "one-packet",
+    "smoke-hot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nourishing-middle-eastern-brown-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-middle-eastern-brown-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:44:14Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "smoke-hot",
+    "primaryIngredient": "brown rice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "brown rice",
+    "descriptor": "Nourishing Smoke Hot",
+    "dishForm": "Pilaf"
+  }
+}
