@@ -1,0 +1,99 @@
+{
+  "title": "Nourishing Roasted Canadian Chicken Skewers",
+  "description": "A hearty Canadian dish featuring roasted chicken skewers marinated in a mixture of spices and birds-eye chillies, perfect for a hangover cure. This paleo-friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "birds-eye chillies",
+      "amount": "4-6",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, coconut aminos, garlic powder, onion powder, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the chicken skewers in the preheated oven for 20-25 minutes, or until cooked through.",
+    "While the chicken is cooking, slice the birds-eye chillies into thin rounds.",
+    "After the chicken has cooked for 15 minutes, add the sliced birds-eye chillies to the baking sheet and continue roasting for an additional 5-10 minutes.",
+    "Remove the skewers from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the roasted chicken skewers hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "nourishing-roasted-canadian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-roasted-canadian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:55:28Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing Roasted",
+    "dishForm": "Skewers"
+  }
+}
