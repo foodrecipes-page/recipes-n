@@ -1,0 +1,99 @@
+{
+  "title": "Nostalgic Japanese Chicken Tsukune",
+  "description": "A traditional Japanese dish featuring chicken tsukune with a yeasty flavor, served in a hot dolsot stone bowl, incorporating pecorino cheese for a unique twist, and made with anti-inflammatory friendly ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground chicken",
+      "amount": "1 pound",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the ground chicken, pecorino cheese, yeast, ginger, green onions, sesame oil, soy sauce, salt, and black pepper until well combined.",
+    "Use your hands to shape the mixture into small tsukune balls, about 1 1/2 inches in diameter.",
+    "Place the tsukune balls onto a baking sheet lined with parchment paper, leaving about 1 inch of space between each ball.",
+    "Bake the tsukune in the preheated oven for 15 minutes, or until cooked through.",
+    "While the tsukune is baking, heat a dolsot stone bowl over medium heat.",
+    "Once the tsukune is done, remove it from the oven and carefully place it into the heated dolsot stone bowl.",
+    "Serve the tsukune hot, straight from the stone bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "healthy-eating",
+    "japanese-cuisine",
+    "one-bowl-meals",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "nostalgic-japanese-chicken-tsukune",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-japanese-chicken-tsukune",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:53:33Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "whisk",
+    "primaryIngredient": "pecorino",
+    "diet": "anti-inflammatory",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Nostalgic Yeasty",
+    "dishForm": "Tsukune"
+  }
+}
