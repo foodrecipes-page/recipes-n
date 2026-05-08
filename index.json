@@ -1296,6 +1296,21 @@
     "shard": "n"
   },
   {
+    "slug": "no-heat-balanced-argentinian-fish-stone-bowl",
+    "title": "Spicy Argentinian Fish Stone Bowl",
+    "tags": [
+      "argentinian",
+      "gluten-free",
+      "high-protein",
+      "pescatarian",
+      "spicy",
+      "stone-bowl"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 27,
+    "shard": "n"
+  },
+  {
     "slug": "no-nonsense-tunisian-rest-meat-quesadilla",
     "title": "No-nonsense Tunisian Rest-meat Quesadilla",
     "tags": [
@@ -4563,6 +4578,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-irish-cheese-grill",
+    "title": "Nutritious Irish Cheese Grill",
+    "tags": [
+      "diabetic-friendly",
+      "easy-lunch",
+      "grilled-cheese",
+      "healthy-option",
+      "irish-cuisine",
+      "quick-fix"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 16,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-jammy-turkish-skirt-steak-kebabs",
     "title": "Nutritious Jammy Turkish Skirt Steak Kebabs",
     "tags": [
@@ -4638,6 +4668,22 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-malaysian-tomatoes-satay",
+    "title": "Nutritious Malaysian Tomatoes Satay",
+    "tags": [
+      "gluten-free",
+      "healthy",
+      "high-protein",
+      "nutritious",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-mild-saudi-arabian-chicken-tagine",
     "title": "Nutritious Mild Saudi Arabian Chicken Tagine",
     "tags": [
@@ -4651,6 +4697,22 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-moroccan-beef-rfissa",
+    "title": "Nutritious Moroccan Beef Rfissa",
+    "tags": [
+      "beef-recipe",
+      "comal",
+      "jain-friendly",
+      "moroccan",
+      "one-pot",
+      "rfissa",
+      "tagine-cook"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 110,
     "shard": "n"
   },
   {

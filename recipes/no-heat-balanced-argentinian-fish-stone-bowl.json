@@ -1,0 +1,122 @@
+{
+  "title": "Spicy Argentinian Fish Stone Bowl",
+  "description": "A flavorful and anti-inflammatory-friendly dish featuring seared fish, spicy nam pla sauce, and a crunchy stone bowl.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "300g",
+      "notes": "wild-caught and sustainable"
+    },
+    {
+      "name": "nam pla sauce",
+      "amount": "120ml",
+      "notes": "spicy and made with fermented fish"
+    },
+    {
+      "name": "freshly squeezed lime juice",
+      "amount": "60ml",
+      "notes": "freshness matters"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml",
+      "notes": "use a high-quality extra-virgin olive oil"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "a pinch of earthy goodness"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "adds warmth to the dish"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "for a spicy kick"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "10g",
+      "notes": "fresh and fragrant"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "use flaky sea salt for best flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground is best"
+    },
+    {
+      "name": "stone bowl or dolsot",
+      "amount": "1",
+      "notes": "available at Asian markets or online"
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": "such as Anaheim or Poblano"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the salmon fillets with cumin, coriander, and salt.",
+    "Heat a skillet over medium-high heat and sear the salmon for 2-3 minutes per side, until cooked through.",
+    "While the salmon is cooking, heat the nam pla sauce in a small saucepan over medium heat.",
+    "Add the freshly squeezed lime juice, olive oil, and red pepper flakes to the saucepan and stir to combine.",
+    "Transfer the cooked salmon to a plate and cover with foil to keep warm.",
+    "Place the stone bowl or dolsot in the oven and heat for 5 minutes.",
+    "Remove the stone bowl from the oven and carefully place it on a heat-resistant surface.",
+    "Add the cooked salmon to the stone bowl, then spoon the spicy nam pla sauce over the top.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Serve with a side of steamed vegetables or a simple green salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "high-protein",
+    "pescatarian",
+    "spicy",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 8,
+    "fat": 34
+  },
+  "slug": "no-heat-balanced-argentinian-fish-stone-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/no-heat-balanced-argentinian-fish-stone-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:15:29Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "fish",
+    "descriptor": "No-Heat-Balanced",
+    "dishForm": "Stone-Bowl"
+  }
+}

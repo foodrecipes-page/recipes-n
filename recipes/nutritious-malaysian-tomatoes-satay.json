@@ -1,0 +1,105 @@
+{
+  "title": "Nutritious Malaysian Tomatoes Satay",
+  "description": "A quick-fix Malaysian dish featuring vine tomatoes, perfect for a weeknight dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "jain",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "4",
+      "notes": "any variety, but cherry tomatoes recommended"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or tamari, gluten-free"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "or maple syrup, for sweetness"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, or grill pan to medium heat.",
+    "Cut vine tomatoes into katsuramuki-cut sticks, about 1 1/2 inches long.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, garlic, ginger, and honey (if using).",
+    "Brush the mixture onto both sides of the tomato slices.",
+    "Grill the tomato slices for 2-3 minutes per side, or until slightly charred.",
+    "In a small saucepan, melt coconut oil over low heat.",
+    "Add peanut butter and stir until smooth (if using).",
+    "Serve satay hot with peanut sauce (if using) and a sprinkle of salt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "high-protein",
+    "nutritious",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "nutritious-malaysian-tomatoes-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-malaysian-tomatoes-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:15:28Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "nutritious",
+    "dishForm": "Satay"
+  }
+}
