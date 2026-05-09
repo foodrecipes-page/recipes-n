@@ -1,0 +1,104 @@
+{
+  "title": "Nourishing Herbal Turkish Sauerkraut Dolma",
+  "description": "A lacto-vegetarian friendly Turkish dish featuring white sauerkraut and herbs, served in an earthenware bowl. This dolma is a kid-friendly and shattering delight.",
+  "cuisine": "Turkish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grape leaves",
+      "amount": "12-15 leaves"
+    }
+  ],
+  "instructions": [
+    "Rinse the grape leaves and blanch them in boiling water for 30 seconds.",
+    "Prepare the filling by mixing the sauerkraut, parsley, dill, green onions, garlic, lemon juice, olive oil, salt, and pepper in a bowl.",
+    "Lay a grape leaf flat on a work surface and place about 1 tablespoon of the filling in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and filling.",
+    "Place the dolmas in a stone-bowl-dolsot or an earthenware bowl.",
+    "Serve the dolmas at room temperature or chilled.",
+    "Garnish with additional parsley and dill if desired.",
+    "Store any leftovers in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "earthenware-bowl",
+    "herbal",
+    "kid-friendly",
+    "lacto-vegetarian",
+    "stone-bowl-recipes",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "nourishing-herbal-turkish-sauerkraut-dolma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-herbal-turkish-sauerkraut-dolma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:53:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "Nourishing Herbal",
+    "dishForm": "Dolma"
+  }
+}
