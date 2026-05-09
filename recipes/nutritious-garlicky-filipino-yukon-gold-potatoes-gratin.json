@@ -1,0 +1,102 @@
+{
+  "title": "Nutritious Garlicky Filipino Yukon Gold Potatoes Gratin",
+  "description": "A garlicky, gooey, weeknight Filipino dish featuring Yukon gold potatoes, en-croute, macrobiotic-friendly, perfect for a satisfying dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and minced garlic.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the chopped onion until softened.",
+    "In a separate bowl, mix the shredded gruyere cheese and coconut milk.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes.",
+    "Pour some of the cheese and coconut milk mixture over the potatoes.",
+    "Repeat the layers until all the ingredients are used, ending with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 45 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown.",
+    "Remove from the oven and sprinkle with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "garlic-lover",
+    "macrobiotic-friendly",
+    "potato-recipe",
+    "vegetarian-option",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "nutritious-garlicky-filipino-yukon-gold-potatoes-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-garlicky-filipino-yukon-gold-potatoes-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:38:35Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "en-croute",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Yukon gold potatoes",
+    "descriptor": "Nutritious garlicky",
+    "dishForm": "Gratin"
+  }
+}
