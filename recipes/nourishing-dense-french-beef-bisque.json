@@ -1,0 +1,97 @@
+{
+  "title": "Nourishing Dense French Beef Bisque",
+  "description": "A cultured and dense French dish featuring beef stock concentrate, this quick-fix bisque is a perfect meal for any time of day, and is Jain-friendly as it contains no animal by-products except for the beef stock concentrate, which can be replaced with a vegetable stock for a fully Jain-friendly version.",
+  "cuisine": "French",
+  "diet": [
+    "Jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tablespoons",
+      "notes": "can be replaced with vegetable stock for fully Jain-friendly version"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "In a large pot, saute the chopped onion, carrots, and celery in a little water until they are tender.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced mushrooms and cook until they are tender.",
+    "Add the beef stock concentrate, tomato paste, and water to the pot.",
+    "Bring the mixture to a boil, then reduce the heat and let it simmer for 10 minutes.",
+    "Use an immersion blender to puree the bisque until it is smooth.",
+    "Season the bisque with salt and pepper to taste.",
+    "Serve the bisque hot.",
+    "Garnish with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "jain-friendly",
+    "one-pot",
+    "quick-fix",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "nourishing-dense-french-beef-bisque",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-dense-french-beef-bisque",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:49:43Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "steam",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "Nourishing Dense",
+    "dishForm": "Bisque"
+  }
+}
