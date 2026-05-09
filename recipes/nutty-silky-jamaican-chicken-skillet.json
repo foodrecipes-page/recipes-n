@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Silky Jamaican Chicken Skillet",
+  "description": "A bitter and silky weeknight Jamaican dish featuring enchilada sauce and shio-cure, this keto-friendly recipe is perfect for a quick dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "enchilada sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the chopped onion and bell pepper to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "In a small bowl, whisk together the enchilada sauce, almond butter, and shio-cure.",
+    "Pour the sauce mixture over the chicken and vegetables in the skillet.",
+    "Reduce heat to medium-low and simmer, covered, until the chicken is cooked through, about 10 minutes.",
+    "Stir in the chopped scallions, salt, and black pepper.",
+    "Serve the chicken and sauce hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-flavors",
+    "jamaican-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "silky-sauce",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "nutty-silky-jamaican-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-silky-jamaican-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:45:35Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "shio-cure",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Nutty Silky",
+    "dishForm": "Skillet"
+  }
+}
