@@ -1,0 +1,96 @@
+{
+  "title": "Nourishing Smoky Argentinian Beef Bowl",
+  "description": "A hearty and flavorful dish featuring smoky Argentinian beef, served in a lacquerware bowl and topped with a molten sauce made with oyster sauce, this keto-friendly meal is perfect for a weeknight dinner",
+  "cuisine": "Argentinian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass-fed beef strips",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together oyster sauce, smoked paprika, salt, and black pepper",
+    "Add the sliced beef to the bowl and toss to coat with the sauce",
+    "Heat the coconut oil in a large skillet over medium-high heat",
+    "Add the beef to the skillet and cook for 3-4 minutes per side, or until cooked to desired level of doneness",
+    "Transfer the beef to a plate and cover with foil to keep warm",
+    "Reduce the heat to medium and add the chopped parsley and cilantro to the skillet",
+    "Cook for 1-2 minutes, or until the herbs are slightly wilted",
+    "To assemble the bowls, slice the beef into thin strips and place on top of a bed of wilted herbs in a lacquerware bowl",
+    "Drizzle the molten oyster sauce over the top of the beef and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "meal-prep",
+    "smoky-flavors",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "nourishing-smoky-argentinian-beef-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-argentinian-beef-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:22:06Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "smoke-cold",
+    "primaryIngredient": "oyster sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Bowl"
+  }
+}

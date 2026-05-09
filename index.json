@@ -6482,6 +6482,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-silky-scottish-lamb-sunday-roast",
+    "title": "Nourishing Silky Scottish Lamb Sunday Roast",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "healthy-dinner",
+      "lamb-recipes",
+      "scottish-cuisine",
+      "sunday-roast"
+    ],
+    "cuisine": "Scottish",
+    "totalTimeMin": 150,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-silky-thai-chicken-curry",
     "title": "Nourishing Silky Thai Chicken Curry",
     "tags": [
@@ -6616,6 +6631,21 @@
     ],
     "cuisine": "American Italian",
     "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-argentinian-beef-bowl",
+    "title": "Nourishing Smoky Argentinian Beef Bowl",
+    "tags": [
+      "argentinian-cuisine",
+      "keto-friendly",
+      "low-carb",
+      "meal-prep",
+      "smoky-flavors",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
