@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Pillowy Polish Feta Cheese Fritters",
+  "description": "Indulge in crispy, nut-free feta cheese fritters with a pillowy interior, inspired by traditional Polish cuisine.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "8 oz",
+      "notes": "preferably Polish feta"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free flour substitute available"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": "or dairy milk alternative"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": "room temperature"
+    },
+    {
+      "name": "grated fresh carrot",
+      "amount": "1/2 cup",
+      "notes": "for added sweetness and color"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "2 tbsp",
+      "notes": "optional, for extra flavor"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, egg, almond milk, and a pinch of salt until smooth.",
+    "Add crumbled feta cheese, grated carrot, chopped dill, and a few grinds of black pepper to the bowl. Mix until well combined.",
+    "Using your hands, shape the mixture into small, smooth balls, about 1 1/2 inches in diameter. Gently flatten each ball slightly into a disk.",
+    "Heat about 2-3 inches of melted butter in a deep frying pan to 375°F (190°C).",
+    "When the butter is hot and shimmering, add a few fritters to the pan (do not overcrowd). Fry for 2-3 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-fritters",
+    "deep-fried",
+    "finger-food",
+    "gluten-free",
+    "polish-cuisine",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "nutty-pillowy-polish-feta-cheese-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-pillowy-polish-feta-cheese-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T19:06:08Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Feta Cheese",
+    "descriptor": "Nutty, Pillowy",
+    "dishForm": "Fritters"
+  }
+}
