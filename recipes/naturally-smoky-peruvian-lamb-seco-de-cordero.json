@@ -1,0 +1,99 @@
+{
+  "title": "Naturally Smoky Peruvian Lamb Seco De Cordero",
+  "description": "A funky and crunchy Peruvian dish featuring black cardamom pods and tandoor smoked lamb, perfect for a date night. This seco de cordero recipe combines the bold flavors of Peru with the tenderness of slow cooked lamb.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "black cardamom pods",
+      "amount": "4 pods",
+      "notes": "crushed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine the crushed black cardamom pods, minced garlic, grated ginger, tandoor spice blend, salt, and black pepper.",
+    "Add the lamb shoulder to the bowl and coat evenly with the spice mixture.",
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Sear the lamb shoulder until browned on all sides, then remove from heat.",
+    "Add the red wine vinegar to the Dutch oven and bring to a boil, scraping up any browned bits from the bottom.",
+    "Return the lamb shoulder to the Dutch oven, cover, and transfer to the preheated tandoor or oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Remove the lamb from the tandoor or oven and let rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "lamb-recipes",
+    "peruvian-cuisine",
+    "special-occasion",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "naturally-smoky-peruvian-lamb-seco-de-cordero",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:33:03Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "tandoor",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Naturally Smoky",
+    "dishForm": "Seco De Cordero"
+  }
+}
