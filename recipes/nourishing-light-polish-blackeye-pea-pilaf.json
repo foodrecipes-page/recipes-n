@@ -1,0 +1,98 @@
+{
+  "title": "Nourishing Light Polish Blackeye Pea Pilaf",
+  "description": "A yeasty and light Polish dish featuring blackeye peas, miso marinate, and vegetarian friendly ingredients, providing a nourishing and energizing meal option. This pilaf is perfect for a healthy and satisfying dinner.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "blackeye peas",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried blackeye peas and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the soaked blackeye peas, then set them aside.",
+    "In a large pan, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "In a small bowl, whisk together the miso paste and 1/4 cup of the vegetable broth until smooth.",
+    "Add the miso mixture to the pan with the onion and garlic, and stir to combine.",
+    "Add the soaked blackeye peas, remaining vegetable broth, yeast, salt, and pepper to the pan, and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 30 minutes or until the blackeye peas are tender.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-dinner",
+    "high-protein",
+    "one-pot",
+    "vegetarian-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "nourishing-light-polish-blackeye-pea-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-light-polish-blackeye-pea-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:48:42Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "miso-marinate",
+    "primaryIngredient": "blackeye pea",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "blackeye pea",
+    "descriptor": "Nourishing Light",
+    "dishForm": "Pilaf"
+  }
+}
