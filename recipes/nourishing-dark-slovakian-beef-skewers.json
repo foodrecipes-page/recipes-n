@@ -1,0 +1,93 @@
+{
+  "title": "Nourishing Dark Slovakian Beef Skewers",
+  "description": "A fresh and chewy post-workout Slovakian dish featuring dark soy sauce and flambe, served in an agave leaf vessel",
+  "cuisine": "Slovakian",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together dark soy sauce, olive oil, garlic, ginger, black pepper, and salt",
+    "Add the beef strips to the bowl and toss to coat with the marinade",
+    "Thread the beef strips onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the beef is cooked to desired doneness",
+    "Flambe the skewers with a small amount of dark soy sauce for 30 seconds",
+    "Serve the skewers in agave leaves, garnished with additional ginger and garlic if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flambe-recipes",
+    "grilled-meats",
+    "high-protein",
+    "post-workout",
+    "raw-friendly",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "nourishing-dark-slovakian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-dark-slovakian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:23:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "flambe",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "beef",
+    "descriptor": "nourishing dark",
+    "dishForm": "Skewers"
+  }
+}
