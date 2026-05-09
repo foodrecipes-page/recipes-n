@@ -1,0 +1,99 @@
+{
+  "title": "Nourishing Norwegian Butternut Squash Casserole",
+  "description": "A traditional Norwegian dish featuring fermented butternut squash, this casserole is kid-friendly and perfect for a weeknight dinner. It is cooked in a scallop shell vessel for a unique presentation.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "mild cheddar"
+    },
+    {
+      "name": "oats",
+      "amount": "1/2 cup",
+      "notes": "rolled"
+    },
+    {
+      "name": "fermented buttermilk",
+      "amount": "1/2 cup",
+      "notes": "or kefir"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the cubed butternut squash and fermented buttermilk, and let it sit at room temperature for 2 hours to allow the squash to ferment slightly.",
+    "In a separate bowl, mix together the sour cream, shredded cheese, oats, salt, and black pepper.",
+    "Add the sour cream mixture to the bowl with the fermented squash, and stir until well combined.",
+    "Spoon the mixture into 6 scallop shell vessels, and dot the top of each with melted butter.",
+    "Place the scallop shells on a baking sheet lined with parchment paper, and bake for 30 minutes, or until the tops are golden brown.",
+    "Remove the casseroles from the oven, and let them cool for a few minutes before serving.",
+    "Serve the casseroles hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "kid-friendly",
+    "norwegian-cuisine",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "nourishing-norwegian-butternut-squash-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-norwegian-butternut-squash-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:12:24Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "braise",
+    "primaryIngredient": "butternut squash",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "butternut squash",
+    "descriptor": "Nourishing Braised",
+    "dishForm": "Casserole"
+  }
+}
