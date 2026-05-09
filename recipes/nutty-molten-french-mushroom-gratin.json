@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Molten French Mushroom Gratin",
+  "description": "A rich and indulgent French dish featuring sauteed mushrooms, creme fraiche, and a nutty flavor profile, this gratin is perfect for a special occasion. It is also ayurvedic-rajasic-friendly, making it a great option for those looking for a balancing meal.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Saute the mushrooms and onions in butter until they are softened.",
+    "Add the garlic and cook for an additional minute.",
+    "In a separate bowl, mix together the creme fraiche, gruyere cheese, walnuts, thyme, salt, and pepper.",
+    "Combine the mushroom mixture and the creme fraiche mixture in a baking dish.",
+    "Transfer the dish to the preheated oven and bake for 20 minutes.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the gratin hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "french-cuisine",
+    "indulgent",
+    "nutty",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "nutty-molten-french-mushroom-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-molten-french-mushroom-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:14:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "saute",
+    "primaryIngredient": "creme fraiche",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Nutty Molten",
+    "dishForm": "Gratin"
+  }
+}
