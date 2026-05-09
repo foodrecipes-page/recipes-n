@@ -1,0 +1,110 @@
+{
+  "title": "Nourishing Juicy Korean Tofu Korean Fried Chicken",
+  "description": "A spicy and juicy Korean dish featuring salted butter and katsuramuki-cut tofu, perfect for a lazy Sunday, this vegan-friendly recipe is a twist on traditional KFC-style Korean fried chicken, served on a lazy Susan spinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into katsuramuki style"
+    },
+    {
+      "name": "salted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "unseasoned"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced, for garnish"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for extra heat"
+    }
+  ],
+  "instructions": [
+    "Cut the extra firm tofu into katsuramuki style and set aside on a plate.",
+    "In a large bowl, whisk together the melted salted butter, gochujang, soy sauce, and rice vinegar to make the marinade.",
+    "Add the cut tofu to the marinade and toss to coat, letting it marinate for at least 30 minutes.",
+    "In a separate large bowl, mix together the cornstarch and a pinch of salt.",
+    "Remove the tofu from the marinade, letting any excess liquid drip off, and then toss the tofu in the cornstarch mixture to coat.",
+    "Heat the vegetable oil in a large skillet over medium high heat until it reaches 350 degrees Fahrenheit.",
+    "Carefully add the coated tofu to the hot oil and fry until golden brown and crispy, about 5-7 minutes.",
+    "Remove the fried tofu from the oil with a slotted spoon and place on a paper towel lined plate to drain excess oil.",
+    "Garnish the fried tofu with sesame seeds, thinly sliced scallions, and a sprinkle of Korean chili flakes if desired.",
+    "Serve the Nourishing Juicy Korean Tofu Korean Fried Chicken on a lazy Susan spinner and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kfc-style",
+    "korean-fusion",
+    "lazy-sunday",
+    "spicy-food",
+    "tofu-recipes",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "nourishing-juicy-korean-tofu-korean-fried-chicken",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-juicy-korean-tofu-korean-fried-chicken",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:19:50Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "salted butter",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Nourishing Juicy",
+    "dishForm": "Korean Fried Chicken"
+  }
+}
