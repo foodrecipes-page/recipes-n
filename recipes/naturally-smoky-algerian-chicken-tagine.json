@@ -1,0 +1,95 @@
+{
+  "title": "Naturally Smoky Algerian Chicken Tagine",
+  "description": "This smoky and adventurous Algerian dish features chicken cooked in a unique agave leaf vessel with chocolate chips and a blend of spices, making it a sugar free friendly option. The result is a crisp and flavorful meal with a rich history.",
+  "cuisine": "Algerian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Prepare the agave leaves by blanching them in boiling water for 30 seconds.",
+    "In a large bowl, mix together the chicken, smoked paprika, ground cumin, cayenne pepper, salt, and black pepper.",
+    "Heat the olive oil in a large skillet over medium high heat and sear the chicken until browned on all sides.",
+    "Wrap the agave leaves around the chicken to form a tight package, making sure to seal the edges.",
+    "Place the package in a large baking dish and bake for 30 minutes.",
+    "Remove the package from the oven and sprinkle the dark chocolate chips on top.",
+    "Return the package to the oven and bake for an additional 10 minutes, or until the chocolate is melted and the chicken is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "algerian-cuisine",
+    "one-pan",
+    "smoky",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "naturally-smoky-algerian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-algerian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:35:16Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "blanch",
+    "primaryIngredient": "chocolate chips",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken",
+    "descriptor": "Naturally Smoky",
+    "dishForm": "Tagine"
+  }
+}
