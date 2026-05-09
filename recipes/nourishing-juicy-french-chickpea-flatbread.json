@@ -1,0 +1,94 @@
+{
+  "title": "Nourishing Juicy French Chickpea Flatbread",
+  "description": "A salty and juicy French dish featuring chickpea flour, double-rise-bread, served in a scallop shell, low-sodium-friendly.",
+  "cuisine": "French",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "2 cups",
+      "notes": "also known as gram flour"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine chickpea flour, warm water, yeast, and salt, mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and divide it into 4 equal pieces.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Brush the dough with olive oil and sprinkle with garlic and rosemary.",
+    "Place each flatbread in a scallop shell and bake for 15 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "low-sodium",
+    "romantic-dinner",
+    "scallop-shell",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "nourishing-juicy-french-chickpea-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-juicy-french-chickpea-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:36:56Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "chickpea flour",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chickpea flour",
+    "descriptor": "Nourishing Juicy",
+    "dishForm": "Flatbread"
+  }
+}

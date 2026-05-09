@@ -5537,6 +5537,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-juicy-french-chickpea-flatbread",
+    "title": "Nourishing Juicy French Chickpea Flatbread",
+    "tags": [
+      "french-cuisine",
+      "low-sodium",
+      "romantic-dinner",
+      "scallop-shell",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-juicy-german-sausage-bowl",
     "title": "Nourishing Juicy German Sausage Bowl",
     "tags": [
@@ -8631,6 +8645,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 110,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-crispy-filipino-mung-bean-sprouts-fried-rice",
+    "title": "Nutritious Crispy Filipino Mung Bean Sprouts Fried Rice",
+    "tags": [
+      "filipino-food",
+      "high-protein",
+      "one-pan",
+      "satvik",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {

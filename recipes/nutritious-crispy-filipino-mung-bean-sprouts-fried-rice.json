@@ -1,0 +1,95 @@
+{
+  "title": "Nutritious Crispy Filipino Mung Bean Sprouts Fried Rice",
+  "description": "A rich and crispy Filipino dish featuring mung bean sprouts, this recipe is a show-off dish that is satvik-friendly and has an al-dente finish. It is a perfect meal for anyone looking for a nutritious and flavorful dish.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "3 cups",
+      "notes": "day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the mung bean sprouts and cook until they start to soften.",
+    "Add the cooked rice to the skillet or wok and stir-fry for 5 minutes.",
+    "Add the soy sauce, salt, and pepper to the rice mixture and stir-fry for another 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the fried rice to a serving platter and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "high-protein",
+    "one-pan",
+    "satvik",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nutritious-crispy-filipino-mung-bean-sprouts-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-crispy-filipino-mung-bean-sprouts-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:36:58Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Nutritious Crispy",
+    "dishForm": "Fried-Rice"
+  }
+}
