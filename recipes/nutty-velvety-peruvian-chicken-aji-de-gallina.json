@@ -1,0 +1,106 @@
+{
+  "title": "Nutty Velvety Peruvian Chicken Aji De Gallina",
+  "description": "A creamy shredded chicken stew made with mild yellow peppers and walnuts, served over low-glycemic cauliflower rice and topped with fresh onion rings.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "Low-Glycemic",
+    "High-Protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1.5 lbs",
+      "notes": "Poached and shredded"
+    },
+    {
+      "name": "Aji Amarillo Paste",
+      "amount": "0.5 cup",
+      "notes": "Peruvian yellow chili paste"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "0.75 cup",
+      "notes": "Toasted and finely ground"
+    },
+    {
+      "name": "Evaporated Milk",
+      "amount": "12 oz",
+      "notes": "Unsweetened"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 large",
+      "notes": "Half diced for base, half sliced into rings for garnish"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "0.25 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    }
+  ],
+  "instructions": [
+    "Poach the chicken breasts in simmering water until the internal temperature reaches 165 degrees Fahrenheit.",
+    "Shred the cooked chicken into bite-sized pieces using two forks.",
+    "Heat the olive oil in a large skillet and saute the diced onions and minced garlic until translucent.",
+    "Stir in the aji amarillo paste and cook for three minutes to release the oils.",
+    "Blend the ground walnuts and evaporated milk together until a smooth paste forms.",
+    "Pour the walnut mixture and chicken broth into the skillet and bring to a gentle simmer.",
+    "Add the shredded chicken and parmesan cheese to the sauce and stir until the mixture thickens.",
+    "Flash-fry the remaining onion rings in a separate pan until they are slightly softened but still crisp.",
+    "Serve the velvety chicken over a bed of steamed cauliflower rice.",
+    "Garnish the dish with the fresh stir-fried onion rings and a crack of black pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy-stew",
+    "high-protein",
+    "low-glycemic",
+    "monsoon-comfort",
+    "nutty-flavor",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 42,
+    "carbs": 14,
+    "fat": 28
+  },
+  "slug": "nutty-velvety-peruvian-chicken-aji-de-gallina",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-velvety-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-09T07:52:43Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "stir-fry",
+    "primaryIngredient": "onion rings",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Nutty Velvety",
+    "dishForm": "Aji De Gallina"
+  }
+}
