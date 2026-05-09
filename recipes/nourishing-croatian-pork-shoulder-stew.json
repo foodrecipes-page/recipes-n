@@ -1,0 +1,105 @@
+{
+  "title": "Nourishing Croatian Pork Shoulder Stew",
+  "description": "A hearty and comforting Croatian dish featuring pork shoulder steaks in a rich and flavorful stew, perfect for a lazy Sunday",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder steaks",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "0.5 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "0.25 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat",
+    "Add the pork pieces and cook until browned on all sides",
+    "Remove the pork from the pot and set aside",
+    "Add the chopped onion to the pot and cook until it is softened and translucent",
+    "Add the minced garlic to the pot and cook for 1 minute",
+    "Stir in the caraway seeds, paprika, salt, and pepper",
+    "Add the chicken broth to the pot and bring to a boil",
+    "Return the pork to the pot and simmer, covered, until the meat is tender",
+    "Stir in the sour cream and cook for an additional 2 minutes",
+    "Taste and adjust the seasoning as needed",
+    "Serve the stew hot, garnished with chopped fresh parsley"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "high-protein",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "nourishing-croatian-pork-shoulder-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-croatian-pork-shoulder-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:24:31Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "emulsify",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "Nourishing",
+    "dishForm": "Stew"
+  }
+}
