@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Indian Shrimp Biryani",
+  "description": "A flavorful and nutritious Indian dish made with dried shrimp, lardons, and spices, perfect for a post-workout meal. This recipe is FODMAP-friendly and cooked in a tandoor clay pot.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried shrimp",
+      "amount": "1 cup",
+      "notes": "goong haeng"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot over medium heat.",
+    "Add the ghee and let it melt.",
+    "Add the cumin seeds and let them sizzle for a few seconds.",
+    "Add the lardons and cook until they are crispy.",
+    "Add the dried shrimp and cook for 2 minutes.",
+    "Add the basmati rice and stir well to combine with the shrimp and lardons.",
+    "Add the coriander powder, turmeric powder, and salt, and stir well.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 15 minutes.",
+    "Fluff the biryani with a fork and stir in the chopped cilantro and lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "indian-cuisine",
+    "one-pot",
+    "post-workout",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nutty-indian-shrimp-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-indian-shrimp-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:07:57Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "lardons-render",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "fodmap",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Nutty Grassy",
+    "dishForm": "Biryani"
+  }
+}
