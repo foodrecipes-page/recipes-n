@@ -1,0 +1,115 @@
+{
+  "title": "newly harvested festege catalan butter beans paella",
+  "description": "a floral and creamy paella dish made with newly harvested festege catalan butter beans, perfect for a festive spanish meal. this recipe is low in glycemic index and suitable for a quick weeknight dinner.",
+  "cuisine": "spanish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "festege catalan butter beans",
+      "amount": "250g",
+      "notes": "newly harvested, drained and rinsed"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "125ml",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "250g",
+      "notes": "short-grain paella rice"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a ttukbaegi-earthenware-cook over medium heat.",
+    "add the chopped onion and sauté until translucent.",
+    "add the minced garlic and cook for 1 minute.",
+    "add the diced red bell pepper and cook for 2 minutes.",
+    "add the saffron threads, smoked paprika, and cook for 1 minute.",
+    "add the chicken broth, white wine, and tomato paste. stir to combine.",
+    "add the rice and stir to coat the rice with the oil and mix with the other ingredients.",
+    "add the newly harvested festege catalan butter beans and stir to combine.",
+    "cook for 20 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "remove from heat and let rest for 5 minutes.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "catalan",
+    "lacto-ovo-vegetarian",
+    "low-glycemic",
+    "one-pan",
+    "spanish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 28
+  },
+  "slug": "newly-harvested-festege-catalan-butter-beans-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/newly-harvested-festege-catalan-butter-beans-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:05:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "butter beans",
+    "diet": "low-glycemic",
+    "region": "catalan",
+    "cuisineAdjective": "festege catalan",
+    "mainIngredient": "butter beans",
+    "descriptor": "newly harvested",
+    "dishForm": "paella"
+  }
+}
