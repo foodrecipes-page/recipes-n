@@ -1,0 +1,110 @@
+{
+  "title": "Golden Mediterranean Uni Skillet",
+  "description": "A flavorful and nutritious skillet dish featuring uni, tempeh, and a blend of Mediterranean spices, perfect for a quick and easy dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "flexitarian",
+    "pescetarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Uni",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the cast-iron skillet over medium-high heat.",
+    "Add the olive oil and cook the tempeh until golden brown, about 5 minutes.",
+    "Add the garlic, garam masala, cumin, paprika, salt, and black pepper to the skillet. Cook for 1 minute.",
+    "Add the uni to the skillet and cook until warmed through, about 2-3 minutes.",
+    "Add the cherry tomatoes to the skillet and cook until they start to release their juices, about 2-3 minutes.",
+    "Crumble the feta cheese into the skillet and stir to combine.",
+    "Transfer the skillet to the oven and bake at 400°F (200°C) for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Serve the golden Mediterranean uni skillet hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kid-friendly",
+    "mediterranean",
+    "one-pan",
+    "tempeh",
+    "uni",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "nutritious-golden-mediterranean-uni-skillet",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-golden-mediterranean-uni-skillet",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T20:05:11Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "uni",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "uni",
+    "descriptor": "Nutritious Golden",
+    "dishForm": "Skillet"
+  }
+}
