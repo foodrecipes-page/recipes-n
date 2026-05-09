@@ -1,0 +1,105 @@
+{
+  "title": "Nutritious Grassy Syrian Lamb Wrap",
+  "description": "A low-calorie Syrian dish featuring mature cheddar and fresh grassy flavors, wrapped in a ssam-wrap and cooked to perfection in a wok. This recipe combines the flavors of the Middle East with a healthy twist.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "mature cheddar",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok over medium-high heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the lamb shoulder and cook for 5 minutes until browned on all sides.",
+    "Add the lemon juice, salt, and black pepper, and stir to combine.",
+    "Reduce heat to medium-low and simmer for 10 minutes until the lamb is cooked through.",
+    "Stir in the chopped parsley and mint.",
+    "Warm the ssam-wrap pieces by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by slicing the lamb and placing it in the center of each ssam-wrap piece, topping with shredded mature cheddar.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "low-calorie",
+    "lunch",
+    "middle-eastern",
+    "wok-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutritious-grassy-syrian-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-grassy-syrian-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:21:40Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "mature cheddar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Nutritious Grassy",
+    "dishForm": "Wrap"
+  }
+}
