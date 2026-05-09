@@ -1,0 +1,98 @@
+{
+  "title": "Nutty Quick Moroccan Chinese Leaf Amlou",
+  "description": "A quick-fix Moroccan dish featuring Chinese leaf, with umami and aerated elements, shaped like nigiri and wrapped in pandan leaves.",
+  "cuisine": "Moroccan Chinese fusion",
+  "diet": [
+    "vegetarian",
+    "gluten free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chinese leaf",
+      "amount": "1 bunch",
+      "notes": "also known as napa cabbage"
+    },
+    {
+      "name": "almond paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the Chinese leaf and separate the leaves.",
+    "In a blender, combine almond paste, honey, orange blossom water, sesame seeds, salt, and black pepper, and blend until smooth.",
+    "Lay a pandan leaf flat and place a small spoonful of the almond paste mixture in the center.",
+    "Add a few leaves of Chinese leaf on top of the almond paste mixture.",
+    "Fold the pandan leaf over the filling to form a triangle or a square shape, like a nigiri.",
+    "Repeat with the remaining ingredients.",
+    "Heat the olive oil in a non-stick pan over medium heat.",
+    "Place the pandan leaf wraps in the pan, seam-side down, and cook for 2 minutes.",
+    "Flip the wraps over and cook for another 2 minutes.",
+    "Serve the Nutty Quick Moroccan Chinese Leaf Amlou warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "moroccan-fusion",
+    "pandan-wrapped",
+    "quick-snack",
+    "umami-rich",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "nutty-quick-moroccan-chinese-leaf-amlou",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-quick-moroccan-chinese-leaf-amlou",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:08:08Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "chinese leaf",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chinese leaf",
+    "descriptor": "Nutty Quick",
+    "dishForm": "Amlou"
+  }
+}
