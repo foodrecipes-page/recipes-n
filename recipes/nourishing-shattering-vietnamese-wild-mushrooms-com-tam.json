@@ -1,0 +1,101 @@
+{
+  "title": "Nourishing Shattering Vietnamese Wild Mushrooms Com Tam",
+  "description": "Savory Vietnamese dish featuring wild mushrooms and a festive ssam-wrap style, perfect for a Buddhist temple gathering. This dish is a delicious and nourishing option for a special occasion.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild mushrooms",
+      "amount": "1 cup",
+      "notes": "such as shiitake or oyster mushrooms"
+    },
+    {
+      "name": "com tam rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "marinated and baked"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1/2 cup",
+      "notes": "sliced and pickled in vinegar"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "peanut sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Cook the com tam rice according to package instructions and let it cool.",
+    "Marinate the tofu in a mixture of soy sauce and maple syrup, then bake it in the oven until golden brown.",
+    "Slice the pickled carrots and cucumber into thin strips.",
+    "Chop the mint leaves and set them aside for garnish.",
+    "Heat the peanut sauce in a saucepan over low heat until warmed through.",
+    "Assemble the dish by placing a scoop of com tam rice onto a plate, followed by a few slices of tofu, some pickled carrots and cucumber, and a sprinkle of mint leaves.",
+    "Drizzle the peanut sauce over the top of the dish and sprinkle with toasted sesame seeds.",
+    "Serve the dish immediately and enjoy.",
+    "Offer the dish as a ssam-wrap style, allowing each guest to assemble their own wrap with the various ingredients."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "com-tam",
+    "ssam-wrap",
+    "vegan",
+    "vegetarian",
+    "vietnamese-cuisine",
+    "wild-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nourishing-shattering-vietnamese-wild-mushrooms-com-tam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-shattering-vietnamese-wild-mushrooms-com-tam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:42:56Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "wild mushrooms",
+    "descriptor": "Nourishing Shattering",
+    "dishForm": "Com Tam"
+  }
+}
