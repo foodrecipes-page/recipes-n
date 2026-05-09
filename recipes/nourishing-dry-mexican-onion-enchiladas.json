@@ -1,0 +1,91 @@
+{
+  "title": "Nourishing Dry Mexican Onion Enchiladas",
+  "description": "Tender and cultured, these vegan-friendly enchiladas are a perfect date-night dish featuring dry Mexican onions, inspired by the Chiapan cuisine.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dry Mexican onions",
+      "amount": "1 cup",
+      "notes": "rehydrated in water"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2 pieces",
+      "notes": "in adobo sauce"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Rehydrate the dry Mexican onions by soaking them in water for 30 minutes.",
+    "In a large pan, heat the vegetable oil over medium heat.",
+    "Add the rehydrated onions to the pan and cook until they are tender.",
+    "Add the chipotle peppers, cumin, paprika, salt, and black pepper to the pan and stir well.",
+    "In a separate pan, warm the corn tortillas over medium heat for 30 seconds on each side.",
+    "To assemble the enchiladas, dip each tortilla in the onion mixture and roll it up.",
+    "Place the rolled tortillas in a baking dish and bake for 20 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "mexican-food",
+    "one-pan",
+    "spicy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nourishing-dry-mexican-onion-enchiladas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-dry-mexican-onion-enchiladas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:37:54Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "brine-dry",
+    "primaryIngredient": "onion",
+    "diet": "vegan",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "onion",
+    "descriptor": "Nourishing Dry",
+    "dishForm": "Enchiladas"
+  }
+}
