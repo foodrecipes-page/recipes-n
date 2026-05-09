@@ -1,0 +1,86 @@
+{
+  "title": "Nutty Turkish Goats Cheese Jel-lik Pudding",
+  "description": "A creamy, citrusy, glassy-jelly Turkish dessert featuring goats cheese, perfect for a kid-friendly treat. Traditionally served in a molcajete",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "goats cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "sour cream",
+      "amount": "100g"
+    },
+    {
+      "name": "honey",
+      "amount": "200g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "20g"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "10g"
+    },
+    {
+      "name": "pinch of salt",
+      "amount": "a few pinches"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "In a large mixing bowl, whisk together the goats cheese, sour cream, honey, lemon juice, eggs, ginger, cinnamon and salt until smooth.",
+    "Pour the mixture into a molcajete or heatproof bowl.",
+    "Bake in the preheated oven for 45 minutes, or until the pudding is set and slightly caramelised.",
+    "Remove from the oven and let cool to room temperature.",
+    "Refrigerate for at least 2 hours to chill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "kid-friendly",
+    "low-carb",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "nutty-turkish-goats-cheese-jel-lik-pudding",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-turkish-goats-cheese-jel-lik-pudding",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T07:07:03Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "slow-cook",
+    "primaryIngredient": "goats cheese",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "goats cheese",
+    "descriptor": "Nutty",
+    "dishForm": "Jel-lik Pudding"
+  }
+}
