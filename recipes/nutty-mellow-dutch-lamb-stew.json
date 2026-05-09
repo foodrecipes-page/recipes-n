@@ -1,0 +1,102 @@
+{
+  "title": "Nutty Mellow Dutch Lamb Stew",
+  "description": "A malty, molten, solo-dinner Dutch dish featuring desiccated coconut and deglaze-fond, made with anti-inflammatory friendly ingredients. This hearty stew is perfect for a cold winter evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "desiccated coconut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the malt vinegar to the pot and stir to deglaze, scraping up any browned bits from the bottom.",
+    "Add the lamb broth, turmeric, salt, and black pepper to the pot and stir to combine.",
+    "Return the lamb to the pot and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Stir in the desiccated coconut and cook for an additional 10 minutes, until heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-flavor",
+    "comfort-food",
+    "lamb-recipe",
+    "one-pot",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "nutty-mellow-dutch-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-mellow-dutch-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:07:13Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "lamb",
+    "descriptor": "Nutty Mellow",
+    "dishForm": "Stew"
+  }
+}
