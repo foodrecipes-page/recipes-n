@@ -3802,6 +3802,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-argentinian-cabbage-toast",
+    "title": "nourishing argentinian cabbage toast",
+    "tags": [
+      "argentinian",
+      "easy",
+      "flexitarian",
+      "post-workout",
+      "quick",
+      "snack"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 15,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-argentinian-coconut-grill",
     "title": "Nourishing Argentinian Coconut Grill",
     "tags": [
@@ -6928,6 +6943,21 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 23,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-silky-brazilian-barramundi-skewers",
+    "title": "Nourishing Silky Brazilian Barramundi Skewers",
+    "tags": [
+      "brazilian-cuisine",
+      "healthy-dinner",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
