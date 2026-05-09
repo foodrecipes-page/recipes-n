@@ -1,0 +1,104 @@
+{
+  "title": "Nourishing Umami Malaysian Broad Beans Tagine",
+  "description": "A flavorful and nutritious Malaysian dish featuring broad beans in a rich umami sauce, cooked to perfection in a tagine pot and finished with a melted cheese pull, perfect for a quick and easy dinner",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "umami paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the tagine pot over medium heat",
+    "Add the chopped onion and cook until softened, about 5 minutes",
+    "Add the minced garlic and grated ginger and cook for an additional minute",
+    "Add the broad beans, umami paste, coconut milk, salt, and black pepper, and stir to combine",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20 minutes",
+    "Remove the lid and stir in the shredded cheese until melted and well combined",
+    "Serve the tagine hot, garnished with chopped fresh herbs if desired",
+    "Let it rest for a few minutes before serving to allow the flavors to meld together"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "fodmap-friendly",
+    "malaysian-cuisine",
+    "one-pot",
+    "quick-fix",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "nourishing-umami-malaysian-broad-beans-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-umami-malaysian-broad-beans-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:05:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "broad beans",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "broad beans",
+    "descriptor": "Nourishing Umami",
+    "dishForm": "Tagine"
+  }
+}
