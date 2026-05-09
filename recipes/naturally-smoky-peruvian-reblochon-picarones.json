@@ -1,0 +1,94 @@
+{
+  "title": "Naturally Smoky Peruvian Reblochon Picarones",
+  "description": "A smoky and gooey Peruvian dish featuring reblochon cheese, char-grill flavors, and low-glycemic-friendly ingredients in a kid-friendly picarones form",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-glycemic",
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Sweet potato",
+      "amount": "2 large",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "Ancho chili powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Cassava flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Char-grill seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, combine the mashed sweet potato, Reblochon cheese, ancho chili powder, coconut sugar, egg, cassava flour, char-grill seasoning, and salt",
+    "Mix the ingredients until a dough forms",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball",
+    "Flatten each ball into a disk shape",
+    "Heat a non-stick skillet over medium heat and cook the picarones for 3 minutes on each side",
+    "Transfer the picarones to a baking sheet and bake for 10 minutes",
+    "Serve the picarones warm and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-goodness",
+    "gluten-free",
+    "kid-friendly",
+    "low-glycemic",
+    "peruvian-cuisine",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "naturally-smoky-peruvian-reblochon-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-peruvian-reblochon-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:57:58Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "reblochon",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Reblochon",
+    "descriptor": "Naturally Smoky",
+    "dishForm": "Picarones"
+  }
+}
