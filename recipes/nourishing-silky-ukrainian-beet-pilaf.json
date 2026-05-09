@@ -1,0 +1,100 @@
+{
+  "title": "Nourishing Silky Ukrainian Beet Pilaf",
+  "description": "A pungent and silky post-workout Ukrainian dish featuring pul biber, this pilaf is made with katsuramuki-cut beets and is dairy-free friendly, served in a ramekin.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "pul biber",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the katsuramuki-cut beets and cook for 5 minutes, stirring occasionally.",
+    "Add the pul biber, salt, and black pepper, and stir to combine.",
+    "Add the rice to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Add the vegetable broth to the skillet and bring to a boil.",
+    "Transfer the mixture to a ramekin and bake for 25 minutes.",
+    "Remove the pilaf from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "healthy",
+    "one-pan",
+    "post-workout",
+    "ukrainian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nourishing-silky-ukrainian-beet-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-silky-ukrainian-beet-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:02:36Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "pul biber",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beets",
+    "descriptor": "Nourishing Silky",
+    "dishForm": "Pilaf"
+  }
+}
