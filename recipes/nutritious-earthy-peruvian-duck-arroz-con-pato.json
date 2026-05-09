@@ -1,0 +1,96 @@
+{
+  "title": "Nutritious Earthy Peruvian Duck Arroz Con Pato",
+  "description": "This Peruvian arroz con pato dish is made with duck, chicken bouillon powder, and earthy spices, and is a hearty and flavorful meal. It is also ayurvedic-tamasic-friendly and can be served at dinner time.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": "rested meat"
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "duck fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the duck fat in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cumin and paprika and cook for 1 minute.",
+    "Add the chicken bouillon powder and stir to combine.",
+    "Add the uncooked white rice and stir to combine.",
+    "Add 4 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and add the duck legs to the saucepan.",
+    "Cover the saucepan and simmer for 25 minutes.",
+    "Remove the duck legs from the saucepan and let them rest for 5 minutes.",
+    "Fluff the rice with a fork and serve with the duck legs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "duck-recipes",
+    "gluten-free",
+    "one-pot-meals",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 100,
+    "fat": 70
+  },
+  "slug": "nutritious-earthy-peruvian-duck-arroz-con-pato",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-earthy-peruvian-duck-arroz-con-pato",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:04:58Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "rest-meat",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "duck",
+    "descriptor": "Nutritious Earthy",
+    "dishForm": "Arroz Con Pato"
+  }
+}
