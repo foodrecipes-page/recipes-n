@@ -1,0 +1,104 @@
+{
+  "title": "Nutritious Silky Croatian Noodles",
+  "description": "A fatty and silky Croatian dish featuring flat rice noodles and tadka, made with anti-inflammatory friendly ingredients. This meal prep dish is perfect for a weeknight dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flat rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the flat rice noodles according to package instructions.",
+    "Heat the ghee in a large skillet over medium heat.",
+    "Add the mustard seeds and cumin seeds to the skillet and let them sizzle for 1 minute.",
+    "Add the turmeric, red pepper flakes, salt, and black pepper to the skillet and stir for 1 minute.",
+    "Add the grated carrot to the skillet and stir for 2 minutes.",
+    "Add the chopped walnuts to the skillet and stir for 1 minute.",
+    "Drain the cooked noodles and add them to the skillet, stirring to combine with the tadka mixture.",
+    "Stir in the chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-carb",
+    "indian-inspired",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 25
+  },
+  "slug": "nutritious-silky-croatian-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-silky-croatian-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:00:33Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "noodles",
+    "descriptor": "nutritious silky",
+    "dishForm": "Noodles"
+  }
+}
