@@ -1,0 +1,89 @@
+{
+  "title": "Naturally Smoky Filipino Pappardelle Pasta",
+  "description": "A roasted and snappy weeknight Filipino dish featuring pappardelle pasta, confit tomato, and a blend of smoky flavors, all prepared on a robata grill in a shojin-friendly manner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "filipino style barbecue sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Cook the pappardelle pasta according to package instructions until al dente, then set aside.",
+    "In a large bowl, whisk together the filipino style barbecue sauce and smoked paprika.",
+    "Add the cooked pappardelle pasta to the bowl and toss to coat with the barbecue sauce mixture.",
+    "Slice the onion and mince the garlic, then add to the bowl and toss to combine.",
+    "Place the confit tomato on the robata grill and cook for 2 minutes per side, until slightly charred.",
+    "Add the cooked confit tomato to the bowl and toss to combine with the pasta and sauce.",
+    "Drizzle the vegetable oil over the top of the pasta and toss to coat.",
+    "Season with salt and pepper to taste, then serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "one-pan",
+    "pasta",
+    "robata-grill",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "naturally-smoky-filipino-pappardelle-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-filipino-pappardelle-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:03:17Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "confit-tomato",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pappardelle pasta",
+    "descriptor": "Naturally Smoky",
+    "dishForm": "Pasta"
+  }
+}
