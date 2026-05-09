@@ -1,0 +1,92 @@
+{
+  "title": "Nutritious Mediterranean Tempeh Tagine",
+  "description": "A hearty and nutritious Mediterranean dish featuring tempeh, perfect for a hangover cure, made with fermented ingredients and reduced sugar, cooked in a ceramic tagine.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block",
+      "notes": "fermented soybean product"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "prunes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "including cumin, coriander, and paprika"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the ceramic tagine over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the tempeh and cook for 5 minutes.",
+    "Add the dried apricots, prunes, chicken broth, and spices, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "sugar-free",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nutritious-mediterranean-tempeh-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-mediterranean-tempeh-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:30:32Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "tempeh",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "tempeh",
+    "descriptor": "Nutritious Dense",
+    "dishForm": "Tagine"
+  }
+}
