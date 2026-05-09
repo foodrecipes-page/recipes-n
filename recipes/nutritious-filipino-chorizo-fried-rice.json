@@ -1,0 +1,100 @@
+{
+  "title": "Nutritious Filipino Chorizo Fried Rice",
+  "description": "A hearty and savory Filipino dish featuring chorizo, perfect for a hangover cure or a quick Mediterranean-friendly meal. This recipe combines the spicy and smoky flavors of chorizo with the comfort of fried rice.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Filipino chorizo",
+      "amount": "1 cup sliced",
+      "notes": "use sweet or spicy variety"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the sliced chorizo and cook until browned, about 5 minutes.",
+    "Push the chorizo mixture to one side of the pan, then add a little more oil if necessary.",
+    "Pour the beaten eggs into the empty side of the pan and scramble them until cooked through.",
+    "Mix the eggs with the chorizo mixture, then add the cooked rice to the pan, breaking up any clumps with a spatula.",
+    "Stir-fry the rice mixture for about 5 minutes, until everything is well combined and heated through.",
+    "Add the soy sauce, salt, and pepper, and stir-fry for another minute.",
+    "Taste and adjust the seasoning as needed, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "hangover-cure",
+    "high-protein",
+    "mediterranean-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutritious-filipino-chorizo-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-filipino-chorizo-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:38:50Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "rest",
+    "primaryIngredient": "chorizo",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chorizo",
+    "descriptor": "nutritious",
+    "dishForm": "Fried-Rice"
+  }
+}
