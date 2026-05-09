@@ -1,0 +1,92 @@
+{
+  "title": "Nutty Sweet Kenyan Beef Stew",
+  "description": "A cultured and velvety Kenyan dish featuring praline-french and ferment-kimchi flavors, made keto-friendly with careful ingredient selection.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "praline paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "fermented"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef short ribs until browned on all sides, then set aside.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent.",
+    "Stir in the praline paste and cook for 1 minute.",
+    "Add the kimchi, beef broth, and browned short ribs to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 2 1/2 hours.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kenyan-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "nutty-sweet-kenyan-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-sweet-kenyan-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:35:15Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "praline-french",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beef",
+    "descriptor": "nutty sweet",
+    "dishForm": "Stew"
+  }
+}

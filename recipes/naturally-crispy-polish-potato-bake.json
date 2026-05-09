@@ -1,0 +1,95 @@
+{
+  "title": "Naturally Crispy Polish Potato Bake",
+  "description": "A briny and crispy Polish dish featuring lemon zest, perfect for crowds, made in a mason jar with a salt bake method, raw friendly ingredients. This recipe is a unique twist on traditional Polish cuisine.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 cup",
+      "notes": "for salt bake"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced potatoes with olive oil, lemon zest, black pepper, and garlic powder until they are evenly coated.",
+    "In a separate bowl, mix together the salt and 1/4 cup of water to create a salt paste.",
+    "Apply the salt paste to the inside of a mason jar, making sure to cover the entire surface.",
+    "Add a layer of potatoes to the mason jar, followed by a sprinkle of chopped parsley and a sprinkle of grated cheddar cheese if using.",
+    "Repeat the layers until all the ingredients are used, ending with a layer of potatoes on top.",
+    "Cover the mason jar with a lid and bake for 45 minutes.",
+    "Remove the lid and continue baking for an additional 20 minutes, or until the potatoes are crispy and golden brown.",
+    "Remove the mason jar from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "crowd-pleaser",
+    "mason-jar",
+    "polish",
+    "potato",
+    "salt-bake"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "naturally-crispy-polish-potato-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-crispy-polish-potato-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:35:15Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "salt-bake",
+    "primaryIngredient": "lemon zest",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Naturally Crispy",
+    "dishForm": "Bake"
+  }
+}

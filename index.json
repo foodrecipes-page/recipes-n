@@ -255,6 +255,21 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-crispy-polish-potato-bake",
+    "title": "Naturally Crispy Polish Potato Bake",
+    "tags": [
+      "crispy",
+      "crowd-pleaser",
+      "mason-jar",
+      "polish",
+      "potato",
+      "salt-bake"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 85,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-crispy-uruguayan-beef-empanadas",
     "title": "Naturally Crispy Uruguayan Beef Empanadas",
     "tags": [
@@ -12869,6 +12884,20 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-sweet-kenyan-beef-stew",
+    "title": "Nutty Sweet Kenyan Beef Stew",
+    "tags": [
+      "comfort-food",
+      "kenyan-cuisine",
+      "keto-friendly",
+      "low-carb",
+      "one-pot"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 180,
     "shard": "n"
   },
   {
