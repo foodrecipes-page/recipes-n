@@ -1,0 +1,112 @@
+{
+  "title": "Nutty Nice American Date Galette",
+  "description": "A sweet and spicy dessert featuring a glassy-jelly filling, wrapped in a flaky leaf pastry.",
+  "cuisine": "american",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "cold, cut into small pieces"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dates",
+      "amount": "12"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ground cayenne pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "flaky pastry leaves",
+      "amount": "12"
+    },
+    {
+      "name": "unsalted milk",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine flour, butter, icing sugar, and granulated sugar in a bowl, until crumbly.",
+    "In a separate bowl, whisk together egg, vanilla extract, almond extract, cinnamon, and cayenne pepper.",
+    "Pour the egg mixture into the flour mixture, and stir until a dough forms.",
+    "Wrap the dough in plastic wrap, and refrigerate for 30 minutes.",
+    "Preheat the oven to 375°F.",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Place the rolled-out dough on a baking sheet, and cut out 12 equal-sized pieces.",
+    "Place a few dates in the center of each piece of dough, and fold the dough over the dates.",
+    "Place the galettes on a parchment-lined baking sheet, and brush the tops with unsalted milk.",
+    "Bake the galettes for 20 minutes, or until golden brown.",
+    "Let the galettes cool for 5 minutes, before serving.",
+    "Serve warm, with a drizzle of icing sugar if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "date-night",
+    "dessert",
+    "high-sugar",
+    "spicy",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "nutty-nice-american-date-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-nice-american-date-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T15:21:39Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "icing sugar",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "date",
+    "descriptor": "Nutty Nice",
+    "dishForm": "Galette"
+  }
+}
