@@ -1,0 +1,93 @@
+{
+  "title": "Nutty Flaky Syrian Tofu Kebabs",
+  "description": "Indulgent Syrian dish featuring charred, flaky tofu, infused with the richness of Shaoxing wine, perfect for a vegan-friendly dinner",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat",
+    "In a large bowl, whisk together Shaoxing wine, olive oil, pomegranate molasses, sumac, and salt",
+    "Add the tofu cubes to the bowl and marinate for at least 30 minutes",
+    "Thread the marinated tofu cubes onto skewers",
+    "Brush the grill with olive oil to prevent sticking",
+    "Grill the tofu kebabs for 10-12 minutes, turning frequently, until charred and flaky",
+    "In a small bowl, mix together pistachio meal and minced garlic",
+    "Sprinkle the pistachio garlic mixture over the grilled tofu kebabs",
+    "Serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "grilled",
+    "high-protein",
+    "nutty",
+    "syrian-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutty-flaky-syrian-tofu-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-flaky-syrian-tofu-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:53:12Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "tofu",
+    "descriptor": "nutty flaky",
+    "dishForm": "Kebabs"
+  }
+}
