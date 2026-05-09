@@ -1,0 +1,110 @@
+{
+  "title": "Nourishing Charred Venezuelan Bean Casseroles",
+  "description": "A hearty and comforting Venezuelan dish featuring refried beans and bonito flakes, perfect for a weeknight dinner. This ovo-vegetarian friendly recipe is easy to make and packed with nutrients.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "refried beans",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar work well"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the vegetable oil over medium heat.",
+    "Add the diced onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced red bell pepper and cook until it is tender, about 5 minutes.",
+    "Add the diced tomato and cook until it is tender, about 5 minutes.",
+    "Stir in the refried beans, bonito flakes, salt, and black pepper.",
+    "Transfer the bean mixture to a 9x13 inch baking dish.",
+    "Top the bean mixture with the shredded cheese.",
+    "Make 4 wells in the cheese and crack an egg into each well.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the eggs are set and the cheese is melted and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nourishing-charred-venezuelan-bean-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-charred-venezuelan-bean-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:26:56Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "bonito-shave",
+    "primaryIngredient": "refried beans",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beans",
+    "descriptor": "nourishing charred",
+    "dishForm": "Casseroles"
+  }
+}
