@@ -1,0 +1,94 @@
+{
+  "title": "Nourishing Molten American Sweet Potato Casserole",
+  "description": "A cozy American dish featuring sweet potatoes, tamarind paste, and lacquer-glaze, served on a salt-block vessel, this recipe is jain-friendly and perfect for a cold winter night.",
+  "cuisine": "American",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "marshmallows",
+      "amount": "1 cup",
+      "notes": "miniature"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the tamarind paste, lacquer-glaze, maple syrup, and coconut oil.",
+    "Add the sliced sweet potatoes to the bowl and toss to coat with the glaze mixture.",
+    "Season the sweet potatoes with salt and black pepper.",
+    "Transfer the sweet potatoes to a salt-block vessel.",
+    "Top the sweet potatoes with miniature marshmallows.",
+    "Bake the casserole in the preheated oven for 30 minutes.",
+    "Remove the casserole from the oven and let it cool for 10 minutes.",
+    "Serve the casserole hot, garnished with additional marshmallows if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "comfort-food",
+    "jain-friendly",
+    "sweet-potatoes",
+    "tamarind",
+    "winter-nights"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nourishing-molten-american-sweet-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-molten-american-sweet-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:16:30Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "tamarind paste",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "nourishing molten",
+    "dishForm": "Casserole"
+  }
+}
