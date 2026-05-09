@@ -1,0 +1,53 @@
+{
+  "title": "nectarous argentinian citrus nigiri",
+  "description": "a refreshing, chewy argentinian dish combining the sweetness of citrus and the zest of garlic, perfect for a snack or dessert",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "1 cup cooked",
+      "notes": "short-grain japanese rice is essential for nigiri"
+    }
+  ],
+  "instructions": [
+    "mix sushi rice with 1 tablespoon lemon juice and 1 minced garlic clove for an extra kick"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "garlic",
+    "low-carb",
+    "sugar-free",
+    "sushi"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "nectarous-argentinian-citrus-nigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nectarous-argentinian-citrus-nigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:09:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "garlic",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "citrus",
+    "descriptor": "Nectarous",
+    "dishForm": "Nigiri"
+  }
+}

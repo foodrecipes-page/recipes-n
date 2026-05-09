@@ -1,0 +1,109 @@
+{
+  "title": "Nimble Herbal Steamed Russian Datterini-tomato Borscht",
+  "description": "A light and refreshing twist on traditional Russian borscht, featuring datterini tomatoes and a hint of herbal flavor.",
+  "cuisine": "russian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "datterini tomatoes",
+      "amount": "2 lbs",
+      "notes": "any color, or a mix of colors"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 cup",
+      "notes": "chopped fresh leaves, do not omit"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped fresh leaves, do not omit"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/2 cup",
+      "notes": "chopped fresh leaves, do not omit"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tbsp",
+      "notes": "shaved, high-quality flakes, not powder"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tbsp",
+      "notes": "unflavored, do not omit"
+    },
+    {
+      "name": "beet juice",
+      "amount": "2 tbsp",
+      "notes": "homemade or high-quality store-bought, do not omit"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed, do not omit"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "coarse sea salt, do not omit"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground, do not omit"
+    }
+  ],
+  "instructions": [
+    "Place 2 cups of water in the bottom of a bamboo steamer basket.",
+    "Add the steamer basket to a large pot with a lid, ensuring the water does not touch the basket.",
+    "Bring the water to a boil, then reduce the heat to a simmer.",
+    "Add the datterini tomatoes, sliced in half, to the steamer basket.",
+    "Steam the tomatoes for 8-10 minutes, or until tender.",
+    "Meanwhile, combine the chopped fresh dill, parsley, and mint in a small bowl.",
+    "Stir in the bonito flakes, white vinegar, beet juice, lemon juice, salt, and black pepper to make the herbal sauce.",
+    "Remove the steamer from the heat and carefully place the cooked datterini tomatoes in a large serving bowl.",
+    "Pour the herbal sauce over the tomatoes, tossing gently to coat.",
+    "Serve immediately, garnished with additional fresh herbs if desired.",
+    "Cover any leftovers and refrigerate for up to 24 hours, reheating gently before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "no-onion-no-garlic",
+    "one-pan",
+    "russian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "nimble-herbal-steamed-russian-datterini-tomato-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-herbal-steamed-russian-datterini-tomato-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:09:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "bonito-shave",
+    "primaryIngredient": "datterini-tomato",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "datterini-tomato",
+    "descriptor": "Nimble Herbal Steamed",
+    "dishForm": "Borscht"
+  }
+}

@@ -1039,6 +1039,20 @@
     "shard": "n"
   },
   {
+    "slug": "nectarous-argentinian-citrus-nigiri",
+    "title": "nectarous argentinian citrus nigiri",
+    "tags": [
+      "argentinian",
+      "garlic",
+      "low-carb",
+      "sugar-free",
+      "sushi"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 15,
+    "shard": "n"
+  },
+  {
     "slug": "nectarous-cheesy-venezuelan-beef-wrap",
     "title": "Nectarous Cheesy Venezuelan Beef Wrap",
     "tags": [
@@ -2049,6 +2063,21 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 75,
+    "shard": "n"
+  },
+  {
+    "slug": "nimble-herbal-steamed-russian-datterini-tomato-borscht",
+    "title": "Nimble Herbal Steamed Russian Datterini-tomato Borscht",
+    "tags": [
+      "herbal",
+      "no-onion-no-garlic",
+      "one-pan",
+      "russian",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
