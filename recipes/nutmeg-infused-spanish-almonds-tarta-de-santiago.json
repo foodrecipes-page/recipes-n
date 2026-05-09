@@ -1,0 +1,101 @@
+{
+  "title": "Nutmeg Infused Spanish Almonds Tarta De Santiago",
+  "description": "A romantic Spanish dessert featuring puff pastry and a briny, molten center, made with dairy-free friendly ingredients. This tarta de santiago is perfect for special occasions.",
+  "cuisine": "Spanish",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": "flaky"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "aquafaba",
+      "amount": "1/2 cup",
+      "notes": "liquid from canned chickpeas"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "In a mortar, pound the sliced almonds and grated nutmeg until coarsely chopped.",
+    "In a small bowl, whisk together the olive oil, sea salt, and lemon juice.",
+    "Brush the olive oil mixture evenly over the center of the puff pastry, leaving a 1 inch border around the edges.",
+    "Spoon the almond and nutmeg mixture over the olive oil mixture.",
+    "Fold the edges of the puff pastry up over the filling, pressing gently to seal.",
+    "Brush the aquafaba over the puff pastry to glaze.",
+    "Sprinkle the granulated sugar over the top of the tarta de santiago.",
+    "Bake the tarta de santiago for 25 minutes, or until the pastry is golden brown and the center is molten."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "dairy-free",
+    "pastry-based",
+    "romantic",
+    "spanish-desserts",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 36,
+    "fat": 18
+  },
+  "slug": "nutmeg-infused-spanish-almonds-tarta-de-santiago",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutmeg-infused-spanish-almonds-tarta-de-santiago",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:03:55Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "puff pastry",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "almonds",
+    "descriptor": "Nutmeg Infused",
+    "dishForm": "Tarta De Santiago"
+  }
+}
