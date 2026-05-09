@@ -1,0 +1,109 @@
+{
+  "title": "Nice Quick Peruvian Beef Stew",
+  "description": "A sour and pillowy Peruvian stew featuring mixed beef cuts, this dish is a quick fix for a weeknight dinner, with an emulsified sauce and low sodium content.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1 pound",
+      "notes": "mixed cuts"
+    },
+    {
+      "name": "Aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Brown the beef in a large pot over medium high heat, then set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped Aji amarillo peppers and cook for 2 minutes, until fragrant.",
+    "Add the tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add the beef broth, browned beef, and salt, then bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the heavy cream and cook for an additional 5 minutes, until the sauce has emulsified.",
+    "Stir in the chopped cilantro and lime juice.",
+    "Season with black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "low-sodium",
+    "one-pot",
+    "peruvian-cuisine",
+    "quick-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nice-quick-peruvian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-quick-peruvian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:40:45Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "emulsify",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Nice Quick",
+    "dishForm": "Stew"
+  }
+}

@@ -1377,6 +1377,21 @@
     "shard": "n"
   },
   {
+    "slug": "nice-quick-peruvian-beef-stew",
+    "title": "Nice Quick Peruvian Beef Stew",
+    "tags": [
+      "beef-stew",
+      "low-sodium",
+      "one-pot",
+      "peruvian-cuisine",
+      "quick-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nice-spicy-mexican-fish-tacos",
     "title": "Nice Spicy Mexican Fish Tacos",
     "tags": [
