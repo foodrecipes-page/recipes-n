@@ -1,0 +1,102 @@
+{
+  "title": "Nourishing Korean Beef Gimbap",
+  "description": "A tangy and springy Korean dish featuring red pepper and sous-vide beef, perfect for a solo dinner, and diabetic-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sous-vide beef",
+      "amount": "8 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "short grain rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried seaweed sheets",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup",
+      "notes": "julienned"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a wok over medium heat.",
+    "Add the chopped green onions and cook for 1 minute.",
+    "Add the julienned carrots and cook for 2 minutes.",
+    "Add the chopped spinach and cook until wilted.",
+    "In a small bowl, mix the soy sauce and red pepper flakes.",
+    "Add the cooked sous-vide beef to the wok and stir in the soy sauce mixture.",
+    "Cook for an additional 2 minutes.",
+    "Assemble the gimbap by laying a seaweed sheet flat, then spreading a thin layer of cooked rice onto the seaweed, leaving a 1-inch border at the top.",
+    "Add the beef and vegetable mixture to the center of the rice.",
+    "Roll the gimbap tightly using a bamboo sushi mat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "korean-food",
+    "low-carb",
+    "one-pan",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-korean-beef-gimbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-korean-beef-gimbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:26:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "red pepper",
+    "diet": "diabetic-friendly",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "Nourishing",
+    "dishForm": "Gimbap"
+  }
+}
