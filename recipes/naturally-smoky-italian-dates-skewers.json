@@ -1,0 +1,104 @@
+{
+  "title": "Naturally Smoky Italian Dates Skewers",
+  "description": "Umami rich Italian dish featuring stoned dates, perfect for a date night, made with satvik friendly ingredients and cooked on a robata grill to bring out the natural smokiness.",
+  "cuisine": "Italian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "12",
+      "notes": "stoned and dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Thread the pitted dates onto skewers, leaving a small space between each date.",
+    "In a small bowl, whisk together olive oil, balsamic vinegar, minced garlic, sea salt, and black pepper.",
+    "Brush the mixture onto the dates, making sure they are fully coated.",
+    "Sprinkle the chopped basil leaves, toasted pine nuts, and shaved parmesan cheese over the dates.",
+    "Place the skewers on the robata grill and cook for 8 minutes, turning occasionally.",
+    "Remove the skewers from the grill and sprinkle with lemon zest.",
+    "Serve the smoky Italian dates skewers immediately, garnished with additional basil leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grilled-vegetables",
+    "italian-food",
+    "robata-grill",
+    "satvik-friendly",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "naturally-smoky-italian-dates-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-italian-dates-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:31:11Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "brine-dry",
+    "primaryIngredient": "stoned dates",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "dates",
+    "descriptor": "Naturally Smoky",
+    "dishForm": "Skewers"
+  }
+}
