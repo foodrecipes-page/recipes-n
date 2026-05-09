@@ -1,0 +1,96 @@
+{
+  "title": "Nutty Tunisian Chicken Tagine",
+  "description": "A winey and gooey Tunisian dish featuring Thai chilli jam and dashi extract, made in a ramekin and kid-friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Thai chilli jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the Thai chilli jam, dashi extract, olive oil, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the jam mixture.",
+    "Divide the chicken mixture among 4 ramekins.",
+    "Sprinkle the chopped almonds over the top of each ramekin.",
+    "Pour the chicken broth and white wine over the almonds.",
+    "Cover the ramekins with foil and bake for 25 minutes.",
+    "Remove the foil and bake for an additional 10 minutes.",
+    "Serve hot and garnish with additional almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dishes",
+    "kid-friendly",
+    "low-calorie",
+    "nutty-flavors",
+    "ramekin-recipes",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "nutty-tunisian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tunisian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:11:24Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "dashi-extract",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "nutty gooey",
+    "dishForm": "Tagine"
+  }
+}
