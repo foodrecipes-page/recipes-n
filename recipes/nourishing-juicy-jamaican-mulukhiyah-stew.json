@@ -1,0 +1,100 @@
+{
+  "title": "Nourishing Juicy Jamaican Mulukhiyah Stew",
+  "description": "A sweet and juicy Jamaican stew featuring mulukhiyah, shio-koji-cure, and raw-friendly ingredients, perfect for a crowd-pleasing dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mulukhiyah leaves",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the shio-koji in a large pot over medium heat, stirring constantly, until fragrant.",
+    "Add the chopped onion, garlic, and ginger to the pot and saute until the onion is translucent.",
+    "Add the mulukhiyah leaves, scotch bonnet pepper, salt, and black pepper to the pot, stirring well to combine.",
+    "Pour in the vegetable broth and bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the coconut milk and continue to simmer for an additional 10 minutes, or until the stew has thickened slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with additional mulukhiyah leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "jamaican-cuisine",
+    "one-pot",
+    "raw-friendly",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nourishing-juicy-jamaican-mulukhiyah-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-juicy-jamaican-mulukhiyah-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:36:29Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "mulukhiyah",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "mulukhiyah",
+    "descriptor": "Nourishing Juicy",
+    "dishForm": "Stew"
+  }
+}
