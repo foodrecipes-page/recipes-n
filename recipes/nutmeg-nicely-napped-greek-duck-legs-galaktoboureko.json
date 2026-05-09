@@ -1,0 +1,72 @@
+{
+  "title": "Nutmeg Nicely Napped Greek Duck Legs Galaktoboureko",
+  "description": "A citrusy, crumbly, date-night Greek dish featuring duck legs, fermented jang, and crispy galaktoboureko pastry. This halal-friendly recipe is perfect for a special occasion.",
+  "cuisine": "Greek",
+  "diet": [
+    "halal",
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "2",
+      "notes": "4-6 legs, bone-in"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the honey, lemon juice, and lemon zest to create a marinade.",
+    "Place the duck legs in a large zip-top plastic bag or a shallow dish, and pour the marinade over them.",
+    "Refrigerate for at least 2 hours or overnight, turning the legs occasionally.",
+    "Preheat the oven to 400°F (200°C).",
+    "In a large skillet, melt 2 tablespoons of the butter over medium-high heat, and sear the duck legs until browned on both sides.",
+    "Transfer the duck legs to a baking dish, and roast in the preheated oven for 20 minutes, or until cooked through.",
+    "While the duck legs are cooking, prepare the galaktoboureko pastry by mixing together the flour, breadcrumbs, and egg in a large bowl.",
+    "Add the milk, yeast, vanilla extract, and brown sugar to the bowl, and stir to combine.",
+    "Knead the dough for 5-7 minutes, until smooth and elastic.",
+    "Roll out the dough to a thickness of about 1/8 inch.",
+    "Cut the dough into 4-6 equal pieces, depending on the size of your duck legs.",
+    "Place a duck leg in the center of each piece of dough, and brush the edges with the remaining butter.",
+    "Fold the dough over the duck leg, and press the edges together to seal the pastry.",
+    "Place the galaktoboureko on a baking sheet lined with parchment paper, and bake for 15-20 minutes, or until golden brown.",
+    "Serve the duck legs hot, garnished with fresh herbs and a side of tangy fermented jang sauce, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cinnamon",
+    "dates",
+    "gluten-free",
+    "greek",
+    "halal",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "nutmeg-nicely-napped-greek-duck-legs-galaktoboureko",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutmeg-nicely-napped-greek-duck-legs-galaktoboureko",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:49:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "ferment-jang",
+    "primaryIngredient": "duck legs",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "duck legs",
+    "descriptor": "Nutmeg Nicely Napped",
+    "dishForm": "Galaktoboureko"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Nutritious Korean-Style Filipino Mung Bean Sprouts Pinakbet",
+  "description": "A delicious and nutritious umami Filipino dish featuring mung bean sprouts and Bhuna in a Korean-style brass bowl. This lazy Sunday meal is Ayurvedic Rajasic friendly and perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mung Bean Sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bhuna Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a Korean-style brass bowl over medium heat.",
+    "Add the Bhuna paste and saut\u00001e for 1 minute.",
+    "Add the onion and garlic and saut\u00001e for 2 minutes.",
+    "Add the eggplant and saut\u00001e for 2 minutes.",
+    "Add the tomatoes and salt and pepper to taste.",
+    "Add the mung bean sprouts and stir-fry for 2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lazy-sunday",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "nutritious-korean-style-filipino-mung-bean-sprouts-pinakbet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-korean-style-filipino-mung-bean-sprouts-pinakbet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:50:17Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Nutritious Korean-Style",
+    "dishForm": "Pinakbet"
+  }
+}
