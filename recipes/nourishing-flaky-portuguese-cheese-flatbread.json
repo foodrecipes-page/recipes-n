@@ -1,0 +1,103 @@
+{
+  "title": "Nourishing Flaky Portuguese Cheese Flatbread",
+  "description": "A garlicky and flaky post-workout Portuguese dish featuring mature cheddar and shio-cure, served on a tagliere, high in protein to support muscle recovery.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mature cheddar cheese",
+      "amount": "1 cup shredded",
+      "notes": "preferably aged 6 months"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1/4 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, salt, and dried oregano.",
+    "Add the warm water, olive oil, and beaten egg to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Roll out the dough into a large rectangle, about 1/4 inch thick.",
+    "Spread the minced garlic evenly over the dough, leaving a 1 inch border around the edges.",
+    "Sprinkle the shredded cheddar cheese and shio-cure over the garlic.",
+    "Fold the edges of the dough over the filling to form a crust.",
+    "Place the flatbread on a tagliere or large cutting board and bake for 20 minutes, or until the crust is golden brown.",
+    "Remove from the oven and let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "garlicky",
+    "high-protein",
+    "one-pan",
+    "portuguese",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "nourishing-flaky-portuguese-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-flaky-portuguese-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:11:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "shio-cure",
+    "primaryIngredient": "mature cheddar",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cheese",
+    "descriptor": "Nourishing Flaky",
+    "dishForm": "Flatbread"
+  }
+}
