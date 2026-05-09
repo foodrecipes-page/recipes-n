@@ -1,0 +1,107 @@
+{
+  "title": "Nostalgic Syrian Lamb Stew",
+  "description": "A traditional Syrian lamb stew flavored with herbs and black pepper, cooked in a cazuela with lardons-render for added richness, this dish is a flexitarian-friendly delight",
+  "cuisine": "Syrian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "lardons",
+      "amount": "4 ounces",
+      "notes": "diced and rendered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the cazuela over medium heat",
+    "Add the lardons and cook until rendered and crispy",
+    "Remove the lardons from the cazuela and set aside",
+    "Add the lamb to the cazuela and cook until browned on all sides",
+    "Add the onion and garlic to the cazuela and cook until the onion is translucent",
+    "Add the thyme, rosemary, and black pepper to the cazuela and cook for 1 minute",
+    "Add the vegetable broth, tomato paste, and browned lamb to the cazuela",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 1 1/2 hours",
+    "Stir in the rendered lardons and cook for an additional 30 minutes",
+    "Serve the stew hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "herbal",
+    "lamb-stew",
+    "one-pot",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "nostalgic-syrian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-syrian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:08:41Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "lardons-render",
+    "primaryIngredient": "black pepper",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Nostalgic herbal",
+    "dishForm": "Stew"
+  }
+}
