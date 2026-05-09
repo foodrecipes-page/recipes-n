@@ -1,0 +1,102 @@
+{
+  "title": "Nourishing American Chicken Casserole",
+  "description": "A sour and pillowy American dish featuring bay leaf and confit-tomato, perfect for a low-fat friendly meal.",
+  "cuisine": "American",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "low-fat sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded reduced-fat cheddar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole wheat pasta",
+      "amount": "8 ounces",
+      "notes": "cooked al dente"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat olive oil over medium heat and cook chicken until browned.",
+    "Add confit-tomato, bay leaf, salt, and pepper to the skillet and stir to combine.",
+    "In a large bowl, combine cooked pasta, chicken mixture, and chopped parsley.",
+    "In a separate bowl, mix sour cream and shredded cheddar.",
+    "Add the sour cream mixture to the pasta mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 25 minutes.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy-dinner",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "nourishing-american-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-american-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:44:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "confit-tomato",
+    "primaryIngredient": "bay leaf",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "nourishing pillowy",
+    "dishForm": "Casserole"
+  }
+}
