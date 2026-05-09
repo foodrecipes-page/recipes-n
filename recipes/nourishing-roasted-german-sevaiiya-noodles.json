@@ -1,0 +1,107 @@
+{
+  "title": "Nourishing Roasted German Sevaiiya Noodles",
+  "description": "A hearty and flavorful German dish featuring roasted sevaiiya noodles, perfect for a crowd, made with sous-vide cooking for tender results and low-glycemic ingredients for a nutritious meal.",
+  "cuisine": "German",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sevaiiya noodles",
+      "amount": "12 oz",
+      "notes": "low-glycemic"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "bratwurst",
+      "amount": "1 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sevaiiya noodles with olive oil, salt, and black pepper until they are well coated.",
+    "Spread the noodles out in a single layer on a large baking sheet and roast in the oven for 20 minutes, stirring occasionally.",
+    "While the noodles are roasting, heat the chopped onion and minced garlic in a large skillet over medium heat until the onion is translucent.",
+    "Add the sliced bratwurst to the skillet and cook until browned, about 5 minutes.",
+    "Add the chopped carrots to the skillet and cook for an additional 5 minutes, stirring occasionally.",
+    "In a large pot, bring the chicken broth to a boil, then reduce the heat to low and simmer.",
+    "Add the roasted noodles, cooked bratwurst and carrot mixture, and dried thyme to the pot and stir to combine.",
+    "Cook the mixture over low heat for 10 minutes, stirring occasionally, until the flavors have melded together and the noodles are tender.",
+    "Serve the noodles hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "german-food",
+    "low-glycemic",
+    "nourishing-meal",
+    "roasted-vegetables",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nourishing-roasted-german-sevaiiya-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-roasted-german-sevaiiya-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:08:48Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "sous-vide",
+    "primaryIngredient": "sevaiiya",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "Nourishing Roasted",
+    "dishForm": "Noodles"
+  }
+}
