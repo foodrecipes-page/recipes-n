@@ -1,0 +1,102 @@
+{
+  "title": "Nutty Flaky Turkish Avocado Flatbread",
+  "description": "A sour and flaky Turkish dish featuring avocado hass pulp, perfect for a high-protein friendly meal, this flatbread is a festive and delicious option for any time of day.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "2 ripe",
+      "notes": "hass pulp preferred"
+    },
+    {
+      "name": "turkish flatbread",
+      "amount": "1 package"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the Turkish flatbread to a thickness of about 1/4 inch.",
+    "In a small bowl, mix together the crumbled feta cheese, chopped walnuts, olive oil, lemon juice, salt, black pepper, sumac, and garlic powder.",
+    "Spread the feta cheese mixture evenly over the flatbread, leaving a 1 inch border around the edges.",
+    "Mash the ripe avocado and spread it over the feta cheese mixture.",
+    "Fold the edges of the flatbread up over the filling to form a crust.",
+    "Brush the crust with a little bit of olive oil and sprinkle with sumac.",
+    "Bake the flatbread in the preheated oven for 15-20 minutes, or until the crust is golden brown.",
+    "Remove the flatbread from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "avocado-recipes",
+    "feta-cheese",
+    "flatbread",
+    "high-protein",
+    "sumac-spice",
+    "turkish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "nutty-flaky-turkish-avocado-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-flaky-turkish-avocado-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:38:29Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "marinate",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "avocado",
+    "descriptor": "Nutty Flaky",
+    "dishForm": "Flatbread"
+  }
+}
