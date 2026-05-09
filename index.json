@@ -6187,6 +6187,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-mexican-applesauce-tacos",
+    "title": "Nourishing Mexican Applesauce Tacos",
+    "tags": [
+      "breakfast",
+      "easy-to-make",
+      "high-fiber",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-mexican-beef-barbacoa",
     "title": "Nourishing Mexican Beef Barbacoa",
     "tags": [

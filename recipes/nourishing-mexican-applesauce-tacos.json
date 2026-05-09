@@ -1,0 +1,100 @@
+{
+  "title": "Nourishing Mexican Applesauce Tacos",
+  "description": "Resinous and festive, our ovo-vegetarian-friendly Mexican applesauce tacos make a perfect breakfast or snack.",
+  "cuisine": "mexican",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "double-rise bread",
+      "amount": "1 cup",
+      "notes": "crusty, day-old bread"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground, for flavor"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "ground, for flavor"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "for balance"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted, for brushing"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for spice"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the double-rise bread into small cubes and spread on a baking sheet.",
+    "Drizzle with melted butter and toss to coat.",
+    "Toast in the oven for 5 minutes, or until lightly browned.",
+    "In a separate pan, heat the applesauce over medium heat.",
+    "Add cinnamon, nutmeg, and sugar to the applesauce and stir to combine.",
+    "Cook for 2-3 minutes, or until the flavors have melded.",
+    "Warm the toasted bread cubes in the oven for 2-3 minutes.",
+    "Assemble the tacos by spooning the applesauce mixture onto a bread cube.",
+    "Sprinkle with chopped cilantro and a pinch of cayenne pepper, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "high-fiber",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "nourishing-mexican-applesauce-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-mexican-applesauce-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:45:08Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "applesauce",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "applesauce",
+    "descriptor": "nourishing",
+    "dishForm": "tacos"
+  }
+}
