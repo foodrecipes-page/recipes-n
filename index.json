@@ -43,6 +43,20 @@
     "shard": "n"
   },
   {
+    "slug": "nanized-fatty-venezuelan-solo-dinner-skewers",
+    "title": "Nanized Fatty Venezuelan Solo-Dinner Skewers",
+    "tags": [
+      "crispy",
+      "fodmap-friendly",
+      "grilled",
+      "high-fat",
+      "venezuelan"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 27,
+    "shard": "n"
+  },
+  {
     "slug": "nasty-aerated-light-egyptian-yakhinja-pilaf",
     "title": "Nasty Aerated Light Egyptian Yakhinja Pilaf",
     "tags": [
@@ -10442,6 +10456,22 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 32,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-bengali-nuts-poha-balls",
+    "title": "Nutty Bengali Nuts Poha Balls",
+    "tags": [
+      "bengali",
+      "dairy-free",
+      "deep-fried",
+      "finger-food",
+      "indian",
+      "snack",
+      "vegan-friendly"
+    ],
+    "cuisine": "bengali",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {

@@ -1,0 +1,114 @@
+{
+  "title": "Nanized Fatty Venezuelan Solo-Dinner Skewers",
+  "description": "A delicious and crispy Venezuelan dish made with fatty ingredients and served on a cedar plank.",
+  "cuisine": "venezuelan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cedar Plank",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Minced Pork Belly",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "Rocket",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Cedar-Infused Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Red Pepper Flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fodmap-Friendly Stir-Fry Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (180°C).",
+    "Cut the pork belly into small pieces and season with salt, black pepper, smoked paprika, and crushed red pepper flakes.",
+    "Thread the pork belly, rocket, and cilantro onto the cedar plank.",
+    "Brush the cedar plank with cedar-infused olive oil and lime juice.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Brush the skewers with Fodmap-Friendly Stir-Fry Sauce during the last 2 minutes of cooking.",
+    "Remove from heat and let it rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "crispy",
+    "fodmap-friendly",
+    "grilled",
+    "high-fat",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 1280,
+    "protein": 64,
+    "carbs": 12,
+    "fat": 112
+  },
+  "slug": "nanized-fatty-venezuelan-solo-dinner-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nanized-fatty-venezuelan-solo-dinner-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:55:51Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "rocket",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Solo-Dinner",
+    "descriptor": "Nanized Fatty",
+    "dishForm": "Skewers"
+  }
+}
