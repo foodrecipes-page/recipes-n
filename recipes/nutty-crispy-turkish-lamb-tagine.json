@@ -1,0 +1,108 @@
+{
+  "title": "Nutty Crispy Turkish Lamb Tagine",
+  "description": "A rich and flavorful Turkish dish featuring crispy lamb, dates, and a spicy salsa, perfect for a special occasion or date night.",
+  "cuisine": "Turkish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb, cumin, paprika, garlic, and ginger.",
+    "Heat the olive oil in the bottom of a ceramic tagine over medium high heat.",
+    "Add the lamb mixture to the tagine and cook until browned on all sides.",
+    "Add the onion to the tagine and cook until softened.",
+    "Add the dates, almonds, and salsa to the tagine, stirring to combine.",
+    "Cover the tagine and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender and the top is crispy.",
+    "Remove the tagine from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "lamb-recipes",
+    "one-pot",
+    "paleo-friendly",
+    "special-occasion",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "nutty-crispy-turkish-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-turkish-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:38:16Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "dehydrate",
+    "primaryIngredient": "salsa",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Tagine"
+  }
+}
