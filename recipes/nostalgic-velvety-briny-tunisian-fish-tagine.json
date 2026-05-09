@@ -1,0 +1,123 @@
+{
+  "title": "Nostalgic Velvety Briny Tunisian Fish Tagine",
+  "description": "A hearty Tunisian stew made with a medley of fish sauce, bonito flakes, and halal-friendly ingredients that will transport you to the Mediterranean coast.",
+  "cuisine": "Tunisian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fatty fish fillets (halal)",
+      "amount": "1 pound",
+      "notes": "such as mackerel or sardines"
+    },
+    {
+      "name": "Aekjeot (Korean fish sauce)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion, garlic, and ginger, and cook until the onion is translucent, about 5 minutes.",
+    "Add the cumin, paprika, salt, and black pepper, and stir for 1 minute.",
+    "Add the fish fillets and cook for 2-3 minutes per side, or until cooked through.",
+    "Add the Aekjeot and bonito flakes, and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes, allowing the flavors to meld together.",
+    "Stir in the chopped parsley and cook for an additional 2 minutes.",
+    "Serve warm with crusty bread or over couscous.",
+    "Garnish with additional parsley, if desired.",
+    "Let the tagine rest for 10 minutes before serving to allow the flavors to redistribute.",
+    "If you prefer a creamier tagine, you can add 1/4 cup of heavy cream or Greek yogurt towards the end of cooking time.",
+    "Alternatively, you can serve the tagine chilled, which is a delightful twist on the traditional recipe."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-sauce",
+    "flaky-fish",
+    "halal",
+    "one-pan",
+    "stew",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "nostalgic-velvety-briny-tunisian-fish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-velvety-briny-tunisian-fish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:07:39Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "bonito-shave",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Fish",
+    "descriptor": "Nostalgic Velvety Briny",
+    "dishForm": "Tagine"
+  }
+}
