@@ -1,0 +1,121 @@
+{
+  "title": "Saudi-Arabian Chicken Bowl",
+  "description": "A nutrient-dense, umami, and energizing Saudi-Arabian dish featuring jasmine rice and crispy chicken in a stone bowl.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup",
+      "notes": "Medium-grain"
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1 tsp",
+      "notes": "Optional, for some heat"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": "Warm, earthy flavor"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Smoky, slightly sweet"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large stone bowl or skillet over medium-high heat.",
+    "Add the ghee or oil and swirl to coat the bottom.",
+    "Add the chicken breast and cook until browned on both sides, about 5 minutes.",
+    "Transfer the chicken to a plate and set aside.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cumin, smoked paprika, and crushed red pepper. Cook for 1 minute, until fragrant.",
+    "Add the jasmine rice to the bowl and cook for 2-3 minutes, stirring constantly.",
+    "Add the chicken broth to the bowl and bring to a boil.",
+    "Reduce the heat to low, cover the bowl with a lid, and simmer for 10-12 minutes, or until the rice is cooked and fluffy.",
+    "Fluff the rice with a fork and stir in the chopped parsley and lemon juice.",
+    "Return the chicken to the bowl and season with salt and black pepper to taste.",
+    "Serve the chicken and rice in the stone bowl, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "gluten-free",
+    "healthy",
+    "high-protein",
+    "low-carb",
+    "middle-eastern",
+    "one-pan",
+    "rice",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "nutrient-dense-saudi-arabian-chicken-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutrient-dense-saudi-arabian-chicken-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T22:39:32Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "jasmine rice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "chicken",
+    "descriptor": "Nutrient-Dense",
+    "dishForm": "Bowl"
+  }
+}
