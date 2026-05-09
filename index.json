@@ -1596,6 +1596,21 @@
     "shard": "n"
   },
   {
+    "slug": "nice-jammy-turkish-lamb-lahmacun",
+    "title": "Turkish Lamb Lahmacun",
+    "tags": [
+      "date-night",
+      "flexitarian",
+      "lahmacun",
+      "lamb-recipes",
+      "papillote",
+      "turkish-food"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nice-light-chinese-cheese-chow-fun",
     "title": "Nice Light Chinese Cheese Chow Fun",
     "tags": [

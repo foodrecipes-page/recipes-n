@@ -1,0 +1,101 @@
+{
+  "title": "Turkish Lamb Lahmacun",
+  "description": "A flexitarian-friendly Turkish dish featuring lamb, cooking wine, and a jammy sauce, perfect for a date night, served in a lahmacun form and cooked in papillote for a crumbly crust.",
+  "cuisine": "Turkish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "cooking wine",
+      "amount": "125ml"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lahmacun bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius.",
+    "Mix the lamb mince, onion, cooking wine, tomato paste, paprika, cumin, salt, and black pepper in a bowl.",
+    "Divide the mixture into 4 equal parts and place each part onto a lahmacun bread.",
+    "Fold the bread into a square shape and seal the edges.",
+    "Place the lahmacun onto a baking sheet lined with parchment paper and cook in papillote for 20 minutes.",
+    "Remove the papillote and top each lahmacun with crumbly feta cheese.",
+    "Return the lahmacun to the oven and cook for an additional 10 minutes.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "flexitarian",
+    "lahmacun",
+    "lamb-recipes",
+    "papillote",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "nice-jammy-turkish-lamb-lahmacun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-jammy-turkish-lamb-lahmacun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:41:00Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "papillote",
+    "primaryIngredient": "cooking wine",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "nice jammy",
+    "dishForm": "Lahmacun"
+  }
+}
