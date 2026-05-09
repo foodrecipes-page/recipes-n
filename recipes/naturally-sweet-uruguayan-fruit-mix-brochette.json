@@ -1,0 +1,95 @@
+{
+  "title": "Uruguayan Fruit Mix Brochette",
+  "description": "A quick and easy to make brochette featuring a mix of uruguayan fruits, this dish is perfect for a snack or dessert, it is halal friendly and has a buttery and bouncy texture.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "chunks"
+    },
+    {
+      "name": "Peaches",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Banana",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Grapes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "10 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together pineapple, peaches, banana, and grapes.",
+    "In a small bowl, mix together butter, honey, and lemon juice.",
+    "Brush the mixture onto the fruit mix.",
+    "Thread the fruit mix onto the wooden skewers.",
+    "Place the brochette under the broiler for 5 minutes.",
+    "Turn the brochette and broil for another 5 minutes.",
+    "Remove the brochette from the oven and let it cool for 2 minutes.",
+    "Serve the uruguayan fruit mix brochette warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "easy-to-make",
+    "fruity",
+    "halal-friendly",
+    "quick-fix",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "naturally-sweet-uruguayan-fruit-mix-brochette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-sweet-uruguayan-fruit-mix-brochette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:43:37Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "broil",
+    "primaryIngredient": "fruit mix",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "fruit mix",
+    "descriptor": "naturally sweet",
+    "dishForm": "Brochette"
+  }
+}
