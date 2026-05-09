@@ -1,0 +1,88 @@
+{
+  "title": "nutritious no-bake brazilian shaggy sweet dish cassserole",
+  "description": "a low-fat, festive brazillian dish featuring the warm, citrusy flavor of grand marnier and the subtle spiciness of bhuna, perfect for snacking or as a dessert",
+  "cuisine": "brazilian",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dates",
+      "amount": "8",
+      "notes": "pitted"
+    },
+    {
+      "name": "grand marnier",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bhuna",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "combine almonds, dried cranberries, coconut flakes, and dates in a food processor and process until coarsely chopped",
+    "transfer the mixture to a large mixing bowl and stir in the grand marnier and bhuna",
+    "stir in the unsweetened coconut milk and melted chocolate until well combined",
+    "transfer the mixture to a cazuela or a 9x13 inch baking dish and refrigerate for at least 30 minutes to allow the flavors to meld",
+    "serve chilled and garnish with additional coconut flakes and dried cranberries if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "high-fiber",
+    "low-protein",
+    "no-bake",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "nutritious-no-bake-brazilian-shaggy-sweet-dish-cassserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-no-bake-brazilian-shaggy-sweet-dish-cassserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T03:33:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "bhuna",
+    "primaryIngredient": "grand marnier",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "shaggy sweet dish",
+    "descriptor": "Nutritious No-Bake",
+    "dishForm": "Cassserole"
+  }
+}
