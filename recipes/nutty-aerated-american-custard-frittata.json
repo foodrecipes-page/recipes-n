@@ -1,0 +1,107 @@
+{
+  "title": "Nutty Aerated American Custard Frittata",
+  "description": "A nutty, aerated brunch dish featuring custard powder and an encroute style crust",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "custard powder",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2",
+      "notes": "sharp cheddar recommended"
+    },
+    {
+      "name": "grated ghee-roasted almonds",
+      "amount": "1/4",
+      "notes": "add some nutty flavor and crunch"
+    },
+    {
+      "name": "salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2",
+      "notes": "for encroute crust"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick tava or griddle over medium heat, brushing with a little butter.",
+    "In a bowl, whisk together eggs, milk, custard powder, salt, and black pepper until well combined.",
+    "In a separate pan, melt butter over medium heat.",
+    "Add grated almonds and cook until fragrant, about 2 minutes, then set aside.",
+    "In a small bowl, mix together flour and a pinch of salt, and gradually add in a little water to form a crumbly dough.",
+    "Knead dough until smooth and pliable, then flatten slightly into a disk shape.",
+    "Dust the tava or griddle with a little flour, and roll out the dough to fit the pan.",
+    "Fry the dough in a little butter until golden and crispy, then flip and cook the other side.",
+    "Add the egg mixture to the pan, and sprinkle with cheese.",
+    "Allow the eggs to set at the edges, then sprinkle with the reserved almond mixture.",
+    "Transfer the frittata to the preheated tava or griddle, and cook until the bottom is golden and crispy.",
+    "Fold the frittata in half, and cook for an additional minute, until the cheese is melted and the eggs are cooked through.",
+    "Slide the frittata out of the pan onto a plate, and garnish with additional almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almonds",
+    "american",
+    "breakfast",
+    "brunch",
+    "custard",
+    "encroute",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "nutty-aerated-american-custard-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-aerated-american-custard-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "en-croute",
+    "primaryIngredient": "custard powder",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "custard",
+    "descriptor": "nutty, aerated",
+    "dishForm": "frittata"
+  }
+}
