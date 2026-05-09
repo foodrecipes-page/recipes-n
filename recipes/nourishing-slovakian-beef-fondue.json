@@ -1,0 +1,98 @@
+{
+  "title": "Nourishing Slovakian Beef Fondue",
+  "description": "A citrusy and creamy Slovakian dish featuring dried cranberries and rest-meat, perfect for a special occasion.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "rest meat, sliced into thin strips"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the fondue pot to 325 degrees Fahrenheit.",
+    "In a large bowl, whisk together the lemon juice, heavy cream, grated cheddar cheese, paprika, salt, and black pepper.",
+    "Add the sliced beef strips to the fondue pot and cook for 3-4 minutes, or until browned.",
+    "Add the chopped onion and minced garlic to the fondue pot and cook for an additional 2 minutes.",
+    "Stir in the dried cranberries and cook for 1 minute.",
+    "Transfer the beef and onion mixture to the bowl with the cheese mixture and stir until well combined.",
+    "Return the mixture to the fondue pot and cook for an additional 2-3 minutes, or until the cheese is melted and the mixture is smooth.",
+    "Serve the fondue hot, with assorted vegetables and bread for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "nourishing-slovakian-beef-fondue",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-slovakian-beef-fondue",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:07:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "rest-meat",
+    "primaryIngredient": "dried cranberries",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "beef",
+    "descriptor": "nourishing creamy",
+    "dishForm": "Fondue"
+  }
+}
