@@ -1,0 +1,114 @@
+{
+  "title": "Nutty, Crispy, Light Moroccan Beef Tagine",
+  "description": "A low-glycemic-friendly, nutty, crispy, and light Moroccan dish featuring corned beef and long-fermentation-dough.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corned Beef",
+      "amount": "1 (14 oz) can",
+      "notes": ""
+    },
+    {
+      "name": "Long Fermentation Dough (Pita Bread Dough)",
+      "amount": "1 loaf",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the Long Fermentation Dough to a thickness of 1/4 inch (6 mm).",
+    "Cut the dough into 4-6 pieces, depending on desired crust size.",
+    "Place the dough pieces on a baking sheet lined with parchment paper.",
+    "Dust the dough with Caraway Seeds and Cumin Seeds.",
+    "In a large skillet, heat 1 tablespoon of Olive Oil over medium-high heat.",
+    "Add the chopped Onion and cook until browned, about 5 minutes.",
+    "Add the minced Garlic and cook for an additional 1-2 minutes.",
+    "Add the Corned Beef to the skillet and cook for 2-3 minutes, breaking it up with a spoon as it cooks.",
+    "Transfer the Corned Beef mixture to the dough pieces and top with Garam Masala and Paprika.",
+    "Brush the edges of the dough with the remaining 1 tablespoon of Olive Oil and fold the dough over the filling to form a seal.",
+    "Bake the Tagine in the preheated oven for 20-25 minutes, or until the crust is golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-glycemic",
+    "moroccan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nutty-crispy-light-moroccan-beef-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-light-moroccan-beef-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:04:42Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "corned beef",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "beef",
+    "descriptor": "nutty, crispy, light",
+    "dishForm": "Tagine"
+  }
+}
