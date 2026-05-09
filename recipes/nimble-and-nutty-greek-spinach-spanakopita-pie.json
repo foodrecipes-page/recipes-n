@@ -1,0 +1,319 @@
+{
+  "title": "Nimble and Nutty Greek Spinach Spanakopita Pie",
+  "description": "A twist on the classic Greek spanakopita, featuring jalapeno and a creamy beurre-monte. This dish is perfect for a Mediterranean-inspired meal or brunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "frozen spinach",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "diced jalapeno pepper",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "beurre-monte (beaten sour cream and egg yolks)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "melted unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "baking sheet",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "parchment paper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "oven",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "large mixing bowl",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "whisk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "rubber spatula",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pastry brush",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "measuring cups",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "measuring spoons",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "large skillet",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "wooden spoon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "clean work surface",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "fork",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "sharp knife",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "grater",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "peeler",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "vegetable peeler",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "spice rack",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "zester",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "microplane grater",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "fine-mesh strainer",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "fine-mesh sieve",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "meat thermometer",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "tart pan or pie dish",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "greased parchment paper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "oven-safe spatula",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "silicone baking mat",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "serving plate",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "serving fork",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "serving knife",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "serving spoon",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the spinach, parsley, scallions, feta cheese, ground almonds, cottage cheese, egg, jalapeno pepper, beurre-monte, flour, salt, and black pepper. Mix well to combine.",
+    "Roll out the phyllo dough to a thickness of about 1/8 inch. Cut it into a rectangle that is slightly larger than the tart pan or pie dish.",
+    "Brush the bottom of the tart pan or pie dish with some of the melted butter. Place a sheet of phyllo dough in the pan, brushing it with some of the melted butter. Repeat this process 5-6 times, until all of the phyllo dough is used.",
+    "Pour the spinach mixture into the phyllo-lined pan, spreading it evenly to the edges. Dot the top of the spinach mixture with some of the melted butter.",
+    "Fold the edges of the phyllo dough over the filling, pressing gently to seal. Brush the top of the pie with some of the melted butter.",
+    "Bake the pie for about 35-40 minutes, or until the phyllo dough is golden brown and the filling is hot and bubbly.",
+    "Remove the pie from the oven and let it cool for a few minutes. Serve warm, garnished with some additional parsley and lemon zest, if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 35,
+  "totalTimeMin": 80,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "cheese",
+    "eggs",
+    "feta",
+    "greek",
+    "lunch",
+    "mediterranean",
+    "nuts",
+    "pie",
+    "spanakopita",
+    "spinach"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "nimble-and-nutty-greek-spinach-spanakopita-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-and-nutty-greek-spinach-spanakopita-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:16:29Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "beurre-monte",
+    "primaryIngredient": "jalapeno",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "spinach",
+    "descriptor": "Nimble and nutty",
+    "dishForm": "Spanakopita Pie"
+  }
+}

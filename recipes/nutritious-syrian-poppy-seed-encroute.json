@@ -1,0 +1,106 @@
+{
+  "title": "Syrian Poppy Seed Encroute",
+  "description": "A fresh, tender, energizing Syrian dish featuring ground poppy seeds, en-croute, and a balance of crispy crust and fluffy interior. Ideal for a quick breakfast or brunch.",
+  "cuisine": "Syrian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground Poppy Seeds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine ground poppy seeds, flour, Parmesan cheese, egg, milk, salt, and black pepper. Mix well until a dough forms.",
+    "Knead the dough for 2-3 minutes until smooth and elastic.",
+    "Wrap the dough in plastic wrap and refrigerate for 30 minutes.",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of butter in the center of each dough circle.",
+    "Fold the dough over the butter to form a triangle, and press the edges together to seal the encroute.",
+    "Place the encroutes on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the crust is golden brown.",
+    "Serve warm, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "crust",
+    "encroute",
+    "poppy-seeds",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "nutritious-syrian-poppy-seed-encroute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-syrian-poppy-seed-encroute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:15:56Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "en-croute",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "poppy seeds",
+    "descriptor": "Nutritious, Energizing",
+    "dishForm": "Encroute"
+  }
+}

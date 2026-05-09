@@ -1869,6 +1869,27 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-and-nutty-greek-spinach-spanakopita-pie",
+    "title": "Nimble and Nutty Greek Spinach Spanakopita Pie",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "cheese",
+      "eggs",
+      "feta",
+      "greek",
+      "lunch",
+      "mediterranean",
+      "nuts",
+      "pie",
+      "spanakopita",
+      "spinach"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 80,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-chinese-white-yam-yangzhou-fried-rice",
     "title": "Nimble Chinese White Yam Yangzhou Fried Rice",
     "tags": [
@@ -8718,6 +8739,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-syrian-poppy-seed-encroute",
+    "title": "Syrian Poppy Seed Encroute",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "crust",
+      "encroute",
+      "poppy-seeds",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
