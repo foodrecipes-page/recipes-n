@@ -1,0 +1,83 @@
+{
+  "title": "Nimble Light Australian Cream Mousse",
+  "description": "A tangy and light Australian dessert featuring whipping cream, this mousse is perfect for warm evenings. It is also gluten-free friendly and can be served in a fondue pot.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "whipping cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "brine-dried citrus peel",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whip the chilled whipping cream until it forms stiff peaks.",
+    "In a separate bowl, mix together the lemon juice, sugar, vanilla extract, and salt until the sugar is dissolved.",
+    "Fold the lemon mixture into the whipped cream until well combined.",
+    "Stir in the chopped brine-dried citrus peel.",
+    "Spoon the mousse into a fondue pot or individual serving cups.",
+    "Chill the mousse in the refrigerator for at least 30 minutes before serving.",
+    "Serve the mousse cold, garnished with additional citrus peel if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "australian-desserts",
+    "citrus-flavored",
+    "cream-based",
+    "easy-to-make",
+    "gluten-free",
+    "light-and-tangy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 14
+  },
+  "slug": "nimble-light-australian-cream-mousse",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-light-australian-cream-mousse",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:06:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "light",
+    "technique": "brine-dry",
+    "primaryIngredient": "whipping cream",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cream",
+    "descriptor": "Nimble Light",
+    "dishForm": "Mousse"
+  }
+}
