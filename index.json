@@ -1764,6 +1764,21 @@
     "shard": "n"
   },
   {
+    "slug": "nice-oven-kenyan-lamb-bake",
+    "title": "Nice Oven Kenyan Lamb Bake",
+    "tags": [
+      "kenyan-cuisine",
+      "lamb-based",
+      "one-pan",
+      "oven-baked",
+      "spicy",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
     "slug": "nice-quick-peruvian-beef-stew",
     "title": "Nice Quick Peruvian Beef Stew",
     "tags": [

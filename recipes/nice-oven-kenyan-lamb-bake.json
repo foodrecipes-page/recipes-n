@@ -1,0 +1,102 @@
+{
+  "title": "Nice Oven Kenyan Lamb Bake",
+  "description": "A flavorful and hearty Kenyan-inspired lamb bake, perfect for a solo dinner, featuring tender lamb and a blend of aromatic spices, with options for vegetarian-friendly substitutions.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, onion, garlic, ginger, cumin, coriander, turmeric, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the spice mixture.",
+    "Transfer the lamb mixture to a baking dish and bake for 30 minutes.",
+    "Reduce the oven temperature to 350 degrees Fahrenheit and continue baking for an additional 20 minutes, or until the lamb is tender.",
+    "Remove the baking dish from the oven and let it rest for 10 minutes before serving.",
+    "Serve the lamb hot, garnished with fresh herbs if desired.",
+    "For a vegetarian-friendly option, substitute the lamb with 1 pound of extra-firm tofu, cut into 1-inch cubes, and proceed with the recipe as instructed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan-cuisine",
+    "lamb-based",
+    "one-pan",
+    "oven-baked",
+    "spicy",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "nice-oven-kenyan-lamb-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-oven-kenyan-lamb-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:38:57Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "lamb",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Nice Oven",
+    "dishForm": "Bake"
+  }
+}
