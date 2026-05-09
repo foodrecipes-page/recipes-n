@@ -1,0 +1,98 @@
+{
+  "title": "Nourishing Russian Fish Pilaf",
+  "description": "A hearty and creamy Russian dish featuring fish stock and ferment-kimchi, served in a scallop shell.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-carb",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "spicy Korean fermented cabbage"
+    },
+    {
+      "name": "salmon fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, melt 2 tablespoons of butter over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the fish stock, ferment-kimchi, and salmon pieces to the saucepan.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Stir in the chopped fresh dill and sour cream.",
+    "Spoon the pilaf into scallop shells and dot the top with the remaining 2 tablespoons of butter.",
+    "Bake the pilaf in the preheated oven for 12 minutes, or until the fish is cooked through and the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 17,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-based",
+    "kid-friendly",
+    "low-carb",
+    "one-pan",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "nourishing-russian-fish-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-russian-fish-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:59:05Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "fish stock",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "fish",
+    "descriptor": "nourishing creamy",
+    "dishForm": "Pilaf"
+  }
+}
