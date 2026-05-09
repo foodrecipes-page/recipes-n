@@ -1,0 +1,67 @@
+{
+  "title": "Nutty Glassy-Jelly Brazilian Oreo Cream Biscuits Bake",
+  "description": "A unique and adventurous Brazilian dessert featuring nutty and glassy-jelly elements with crushed Oreo cream biscuits, steamed to perfection. This Jain-friendly dessert is perfect for a special occasion or a weekend treat.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oreo cream biscuits",
+      "amount": "1 package",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Combine crushed Oreo cream biscuits, cashews, and dates in a bowl to create a crunchy base.",
+    "Add coconut oil, brown sugar, and maple syrup to the bowl and mix until well combined.",
+    "In a separate bowl, whisk together baking soda and salt. Add to the wet ingredients and mix until a dough forms.",
+    "Divide the dough into 8 equal portions and shape into small balls.",
+    "Steam the dough balls over boiling water for 12-15 minutes or until cooked through.",
+    "While the dough balls are steaming, prepare the glassy-jelly topping by combining coconut oil, brown sugar, and cornstarch in a saucepan.",
+    "Cook the glassy-jelly topping over medium heat, stirring constantly, until it thickens and turns a deep amber color.",
+    "Remove the dough balls from the steamer and let cool for a few minutes.",
+    "Dip each dough ball into the glassy-jelly topping, coating completely.",
+    "Place the coated dough balls on a baking sheet lined with parchment paper and sprinkle with black sesame seeds.",
+    "Bake in a preheated oven at 375°F (190°C) for 10-12 minutes or until golden brown.",
+    "Allow the biscuits to cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "dessert",
+    "jain-friendly",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nutty-glassy-jelly-brazilian-oreo-cream-biscuits-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-glassy-jelly-brazilian-oreo-cream-biscuits-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:01:27Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "oreo cream biscuits",
+    "descriptor": "nutty glassy-jelly",
+    "dishForm": "Bake"
+  }
+}
