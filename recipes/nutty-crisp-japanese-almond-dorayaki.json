@@ -1,0 +1,93 @@
+{
+  "title": "Nutty Crisp Japanese Almond Dorayaki",
+  "description": "A macrobiotic-friendly Japanese dessert featuring ground almonds and a crispy exterior, perfect for a post-workout snack. This earthy treat is made with wholesome ingredients and a traditional dorayaki form.",
+  "cuisine": "Japanese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground almonds",
+      "amount": "1 1/2 cups",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red bean paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or dorayaki pan over medium heat.",
+    "In a large bowl, whisk together ground almonds, flour, sugar, and salt.",
+    "In a separate bowl, whisk together eggs and water.",
+    "Add the egg mixture to the dry ingredients and stir until just combined.",
+    "Add sesame oil and stir until the batter is smooth.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the preheated skillet or dorayaki pan.",
+    "Cook for 2-3 minutes or until the bottom is golden brown and crispy.",
+    "Loosen the dorayaki with a spatula and flip it over.",
+    "Cook for an additional 1-2 minutes or until the other side is also golden brown.",
+    "Fill the dorayaki with red bean paste and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "crispy-treats",
+    "japanese-dessert",
+    "macrobiotic-friendly",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "nutty-crisp-japanese-almond-dorayaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crisp-japanese-almond-dorayaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:44:42Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "whisk",
+    "primaryIngredient": "ground almonds",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "almonds",
+    "descriptor": "Nutty Crisp",
+    "dishForm": "Dorayaki"
+  }
+}
