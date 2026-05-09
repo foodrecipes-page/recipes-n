@@ -1,0 +1,131 @@
+{
+  "title": "Nutty Light Filipino Caramel Cake",
+  "description": "A light and comforting Filipino dessert featuring caramel, toasted nuts, and a hint of pickled flavor. This dairy-free-friendly cake is perfect for snacking or special occasions.",
+  "cuisine": "Filipino",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat, 14 oz can"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pickled ginger juice",
+      "amount": "2 tbsp",
+      "notes": "unsweetened, see notes"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "non-dairy butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "nuka-pickle syrup",
+      "amount": "2 tbsp",
+      "notes": "+see notes for nuka-pickle recipe"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "non-dairy egg substitute, e.g. flaxseed or chia seeds"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Grease two 9-inch (23cm) round cake pans and line the bottoms with parchment paper.",
+    "In a medium bowl, whisk together the almond flour, coconut sugar, baking powder, and salt.",
+    "In a large bowl, whisk together the non-dairy butter, vanilla extract, and pickled ginger juice.",
+    "Add the eggs one at a time, whisking well after each addition.",
+    "Add the unsweetened coconut milk and whisk until smooth.",
+    "Gradually add the dry ingredients to the wet ingredients, whisking until well combined.",
+    "Fold in the chopped toasted almonds.",
+    "Divide the batter evenly between the prepared pans and smooth the tops.",
+    "Bake for 20-25 minutes, or until a toothpick inserted into the center of each cake comes out clean.",
+    "Allow the cakes to cool in the pans for 5 minutes, then transfer them to a wire rack to cool completely.",
+    "Once the cakes are completely cool, place one layer on a serving plate and spread a layer of caramel sauce on top.",
+    "Place the second cake layer on top and drizzle with the remaining caramel sauce.",
+    "To make the nuka-pickle syrup, combine 1 cup of water, 1 cup of sugar, and 1/2 cup of pickled ginger juice in a saucepan.",
+    "Bring to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Strain the syrup through a fine-mesh sieve into a clean bowl.",
+    "Let cool to room temperature, then refrigerate until cold and syrupy.",
+    "To assemble the cake, drizzle the nuka-pickle syrup over the top of the cake and sprinkle with chopped toasted almonds."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "dessert",
+    "filipino",
+    "gluten-free",
+    "snack",
+    "special-occasion",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "nutty-light-filipino-caramel-cake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-light-filipino-caramel-cake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:12:54Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "caramel",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "filipino",
+    "mainIngredient": "caramel",
+    "descriptor": "nutty light",
+    "dishForm": "cake"
+  }
+}

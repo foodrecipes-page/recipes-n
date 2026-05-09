@@ -7856,6 +7856,23 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-and-nicely-ethiopian-sugar-snap-peas-bowl",
+    "title": "nutritious and nicely ethiopian sugar snap peas bowl",
+    "tags": [
+      "ethiopian-cuisine",
+      "high-protein",
+      "one-pan",
+      "sattvic-friendly",
+      "sugar-snap-peas",
+      "vegan-option",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-australian-lamb-casserole",
     "title": "Nutritious Australian Lamb Casserole",
     "tags": [
@@ -12043,6 +12060,22 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-light-filipino-caramel-cake",
+    "title": "Nutty Light Filipino Caramel Cake",
+    "tags": [
+      "dairy-free",
+      "dessert",
+      "filipino",
+      "gluten-free",
+      "snack",
+      "special-occasion",
+      "vegan"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
