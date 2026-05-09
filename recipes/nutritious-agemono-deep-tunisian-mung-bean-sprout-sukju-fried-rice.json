@@ -1,0 +1,62 @@
+{
+  "title": "Nutritious Agemono Deep Tunisian Mung-bean-sprout-sukju Fried-Rice",
+  "description": "A pescatarian-friendly, floral, crisp, and indulgent Tunisian dish featuring mung bean sprouts, sukju, and agemono deep-fry. Perfect for a weeknight meal.",
+  "cuisine": "Tunisian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed Mung Bean Sprouts",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sukju (Korean style dried anchovies)",
+      "amount": "1/2 cup",
+      "notes": "rehydrated and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large non-stick skillet or wok over medium-high heat.",
+    "Add 2 tablespoons of vegetable oil and swirl it around to coat the pan.",
+    "Add the chopped sukju and stir-fry for 2 minutes until fragrant.",
+    "Add the mung bean sprouts and stir-fry for 3-4 minutes until they start to brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lunch",
+    "one-pan",
+    "pescatarian",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 15
+  },
+  "slug": "nutritious-agemono-deep-tunisian-mung-bean-sprout-sukju-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-agemono-deep-tunisian-mung-bean-sprout-sukju-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:17:50Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Mung-bean-sprout-sukju",
+    "descriptor": "Nutritious Agemono Deep",
+    "dishForm": "Fried-Rice"
+  }
+}
