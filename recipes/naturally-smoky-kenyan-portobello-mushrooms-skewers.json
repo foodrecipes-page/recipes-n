@@ -1,0 +1,96 @@
+{
+  "title": "Naturally Smoky Kenyan Portobello Mushrooms Skewers",
+  "description": "A lacto-vegetarian friendly Kenyan dish featuring smoky portobello mushrooms, fajita seasoning, and a crispy exterior, perfect for a festive gathering.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "12",
+      "notes": "stems removed and caps sliced 1/2 inch thick"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "Thread mushroom slices onto skewers, leaving a small space between each slice.",
+    "In a small bowl, mix together fajita seasoning, smoked paprika, garlic powder, salt, and black pepper.",
+    "Brush the mushroom skewers with olive oil and sprinkle with the seasoning mixture.",
+    "Grill the skewers for 10 minutes, turning occasionally, until the mushrooms are tender and lightly charred.",
+    "Brush the skewers with lemon juice during the last minute of grilling.",
+    "Remove the skewers from the grill and let them cool for a few minutes.",
+    "Serve the skewers hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive-food",
+    "grilled-vegetables",
+    "kenyan-cuisine",
+    "lacto-vegetarian",
+    "smoky-flavors",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "naturally-smoky-kenyan-portobello-mushrooms-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-kenyan-portobello-mushrooms-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:39:32Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "smoke",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "portobello mushrooms",
+    "descriptor": "Naturally Smoky",
+    "dishForm": "Skewers"
+  }
+}
