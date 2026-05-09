@@ -1,0 +1,96 @@
+{
+  "title": "Nutty Indian Soybean Sprouts Naan",
+  "description": "A pungent and cheesy Indian dish featuring soybean sprouts and served with a naan bread, perfect for a solo dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soybean sprouts",
+      "amount": "1 cup",
+      "notes": "kongnamul style"
+    },
+    {
+      "name": "shio cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "naan bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together soybean sprouts, shio cure, garam masala, cumin seeds, coriander powder, and salt.",
+    "Heat olive oil in a large skillet over medium heat and saute the sprout mixture for 5 minutes.",
+    "Place the naan bread on a salt block and top with the sprout mixture and mozzarella cheese.",
+    "Bake the naan in the preheated oven for 10 minutes or until the cheese is melted and the bread is crispy.",
+    "Remove the naan from the oven and let it cool for 2 minutes before serving.",
+    "Serve the naan hot and enjoy.",
+    "Garnish with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "indian-food",
+    "naan-bread",
+    "salt-block",
+    "soybean-sprouts",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "nutty-indian-soybean-sprouts-naan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-indian-soybean-sprouts-naan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:44:31Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "shio-cure",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "soybean sprouts",
+    "descriptor": "Nutty",
+    "dishForm": "Naan"
+  }
+}
