@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Crispy Canadian Chickpeas Hash",
+  "description": "A sweet and crispy Canadian dish featuring chickpeas, perfect for brunch, made with a tadka and raw-friendly ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, whisk together the maple syrup, olive oil, salt, cumin seeds, and coriander seeds.",
+    "Add the chickpeas, onion, and garlic to the bowl and stir until they are evenly coated with the syrup mixture.",
+    "Spread the chickpea mixture on a baking sheet and bake for 30 minutes.",
+    "Remove the baking sheet from the oven and stir in the chopped pecans.",
+    "Return the baking sheet to the oven and bake for an additional 10 minutes, or until the chickpeas are crispy.",
+    "Remove the baking sheet from the oven and let the hash cool for a few minutes.",
+    "Serve the Nutty Crispy Canadian Chickpeas Hash hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-recipe",
+    "canadian-cuisine",
+    "chickpea-recipe",
+    "gluten-free",
+    "healthy-breakfast",
+    "nutty-flavors",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-crispy-canadian-chickpeas-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-canadian-chickpeas-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:21:14Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "tadka",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Hash"
+  }
+}
