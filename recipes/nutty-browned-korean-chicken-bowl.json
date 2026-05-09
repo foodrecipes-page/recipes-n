@@ -1,0 +1,107 @@
+{
+  "title": "Nutty Browned Korean Chicken Bowl",
+  "description": "A buttery and light one-pot Korean dish featuring dark rum, cooked in a lacquerware bowl using the bain-marie method, and is dairy-free friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "dark rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped nuts",
+      "amount": "1/4 cup",
+      "notes": "such as peanuts or almonds"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in the lacquerware bowl over medium heat using the bain-marie method.",
+    "Add the chicken to the bowl and cook until browned on all sides, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the bowl and cook for 1 minute.",
+    "Add the dark rum, soy sauce, and brown sugar to the bowl, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the chicken is cooked through.",
+    "Stir in the chopped nuts and cook for an additional 2 minutes.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Garnish with chopped scallions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "browned",
+    "dairy-free",
+    "korean-cuisine",
+    "lacquerware-bowl",
+    "nutty",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutty-browned-korean-chicken-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-browned-korean-chicken-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:31:24Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "bain-marie",
+    "primaryIngredient": "dark rum",
+    "diet": "dairy-free",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "nutty browned",
+    "dishForm": "Bowl"
+  }
+}

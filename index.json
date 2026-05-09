@@ -3546,6 +3546,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-charred-syrian-fish-skillet",
+    "title": "Nourishing Charred Syrian Fish Skillet",
+    "tags": [
+      "fish-recipes",
+      "middle-eastern",
+      "one-pan",
+      "pescatarian",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-cheese-pull-portuguese-porridge-oats-bake",
     "title": "nourishing cheese-pull portuguese porridge oats bake",
     "tags": [
@@ -8648,6 +8662,21 @@
       "weeknight"
     ],
     "cuisine": "british",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-browned-korean-chicken-bowl",
+    "title": "Nutty Browned Korean Chicken Bowl",
+    "tags": [
+      "browned",
+      "dairy-free",
+      "korean-cuisine",
+      "lacquerware-bowl",
+      "nutty",
+      "one-pot"
+    ],
+    "cuisine": "Korean",
     "totalTimeMin": 35,
     "shard": "n"
   },

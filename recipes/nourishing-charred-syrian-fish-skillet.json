@@ -1,0 +1,97 @@
+{
+  "title": "Nourishing Charred Syrian Fish Skillet",
+  "description": "A charred and tender Syrian dish featuring fromage frais, perfect for a lazy Sunday, this pescatarian friendly skillet is cooked to perfection on a tava griddle.",
+  "cuisine": "Syrian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "4 fillets",
+      "notes": "brine wet"
+    },
+    {
+      "name": "Fromage frais",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava griddle over medium high heat.",
+    "Season the fish fillets with salt, black pepper, and sumac.",
+    "Add olive oil to the preheated tava griddle and cook the fish fillets for 4 minutes per side.",
+    "Remove the fish from the tava griddle and set aside.",
+    "Add garlic to the tava griddle and cook for 1 minute.",
+    "Add fromage frais to the tava griddle and stir to combine with garlic.",
+    "Return the fish fillets to the tava griddle and spoon some of the fromage frais mixture over the top of each fillet.",
+    "Squeeze lemon juice over the fish fillets and sprinkle with parsley.",
+    "Cook for an additional 2 minutes and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-recipes",
+    "middle-eastern",
+    "one-pan",
+    "pescatarian",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "nourishing-charred-syrian-fish-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-charred-syrian-fish-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:32:04Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "brine-wet",
+    "primaryIngredient": "fromage frais",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "fish",
+    "descriptor": "Nourishing Charred",
+    "dishForm": "Skillet"
+  }
+}
