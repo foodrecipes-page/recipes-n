@@ -1,0 +1,96 @@
+{
+  "title": "Nourishing Australian Lamb Tagine",
+  "description": "A hearty and flavorful Australian dish made with lamb, unwaxed lemon, and salt-baked ingredients, served in a ceramic tagine, perfect for a low-carb dinner",
+  "cuisine": "Australian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless and cut into 2-inch pieces"
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit",
+    "Season the lamb pieces with salt, black pepper, and ginger",
+    "Heat the olive oil in the ceramic tagine over medium heat",
+    "Sear the lamb pieces until browned on all sides",
+    "Add the garlic, lemon juice, and chicken broth to the tagine",
+    "Cover the tagine with a lid and transfer it to the preheated oven",
+    "Bake for 2.5 hours or until the lamb is tender",
+    "Remove the tagine from the oven and let it cool for 10 minutes",
+    "Serve the lamb and sauce hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "ceramic-cooking",
+    "lamb-recipes",
+    "low-carb",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "nourishing-australian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-australian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:14:03Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "salt-bake",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Nourishing Salt-Baked",
+    "dishForm": "Tagine"
+  }
+}
