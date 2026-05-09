@@ -1,0 +1,108 @@
+{
+  "title": "Nutty Crispy Jamaican Ackee Fritters",
+  "description": "Salty and crispy Jamaican dish featuring ackee and amaretti, perfect for a brunch mood, infused with oil and ayurvedic tamasic friendly ingredients.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "amaretti cookies",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "with spices and herbs"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "as needed"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ackee, crushed amaretti cookies, infused oil, chopped onion, and chopped scotch bonnet pepper.",
+    "Season the mixture with salt and black pepper to taste.",
+    "In a separate bowl, mix the flour and a pinch of salt.",
+    "Dip each ackee mixture ball into the flour mixture, then the beaten egg, and finally the flour mixture again.",
+    "Heat about 2-3 inches of oil in a deep frying pan over medium heat until it reaches 350 degrees Fahrenheit.",
+    "Carefully place the coated ackee mixture balls into the hot oil and fry until golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and place them on a paper towel lined plate to drain excess oil.",
+    "Serve the Nutty Crispy Jamaican Ackee Fritters hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ackee",
+    "brunch",
+    "crispy",
+    "jamaican-cuisine",
+    "nutty",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "nutty-crispy-jamaican-ackee-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crispy-jamaican-ackee-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:10:38Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "infuse-oil",
+    "primaryIngredient": "amaretti",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "ackee",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Fritters"
+  }
+}
