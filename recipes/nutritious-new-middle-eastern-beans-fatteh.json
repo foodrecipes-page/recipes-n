@@ -1,0 +1,93 @@
+{
+  "title": "nutritious new middle eastern beans fatteh",
+  "description": "bitter, pillowy, comforting middle-eastern dish featuring baked beans, wok-hei, whole30-friendly",
+  "cuisine": "middle eastern",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "1 15 oz can",
+      "notes": ""
+    },
+    {
+      "name": "chopped yellow onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ghee or avocado oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "wok hei sauce",
+      "amount": "2 tbsp",
+      "notes": "or substitute with a mixture of soy sauce, rice vinegar, and sesame oil"
+    }
+  ],
+  "instructions": [
+    "heat the ghee or avocado oil in a large skillet over medium heat.",
+    "add the chopped onion and cook until caramelized, about 15 minutes.",
+    "add the chickpeas, parsley, salt, and pepper to the skillet and stir to combine.",
+    "cook for an additional 5 minutes, until the flavors have melded together.",
+    "transfer the mixture to a baking dish and top with additional parsley if desired.",
+    "bake in a preheated oven at 375\u001318 f for 15 minutes.",
+    "remove from the oven and drizzle with wok hei sauce.",
+    "serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "middle-eastern",
+    "one-pan",
+    "vegan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutritious-new-middle-eastern-beans-fatteh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-new-middle-eastern-beans-fatteh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:24:09Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "wok-hei",
+    "primaryIngredient": "baked beans",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "beans",
+    "descriptor": "Nutritious New",
+    "dishForm": "Fatteh"
+  }
+}
