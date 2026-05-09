@@ -1,0 +1,96 @@
+{
+  "title": "Nutritious Velvety Malaysian Chicken Tagine",
+  "description": "This dish is a funky and velvety Malaysian recipe featuring powdered sugar and cooked in a tagine, with ayurvedic-sattvic-friendly ingredients to provide an energizing meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the tagine over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken breast and cook until it is browned on all sides.",
+    "Add the tagine spice mix, powdered sugar, and dried apricots, and stir to combine.",
+    "Pour in 1 cup of water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve the chicken and sauce over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "dinner-ideas",
+    "gluten-free",
+    "healthy-meals",
+    "malaysian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "nutritious-velvety-malaysian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-velvety-malaysian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:27:55Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "tagine-cook",
+    "primaryIngredient": "powdered sugar",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "nutritious velvety",
+    "dishForm": "Tagine"
+  }
+}
