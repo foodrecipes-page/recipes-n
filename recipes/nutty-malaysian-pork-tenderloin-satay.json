@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Malaysian Pork Tenderloin Satay",
+  "description": "A cultured and bouncy Malaysian dish featuring pork tenderloin, ferment-kimchi, and satvik-friendly ingredients, perfect for crowds. This recipe combines the flavors of Malaysia with a twist of spicy kimchi.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "fermented Korean chili paste"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a blender, combine peanut butter, coconut milk, soy sauce, lime juice, brown sugar, garlic, and ginger, and blend until smooth.",
+    "Place the pork tenderloin in a large ziplock bag and pour the peanut sauce over it, turning to coat.",
+    "Seal the bag and refrigerate for at least 2 hours or overnight.",
+    "Remove the pork from the marinade and thread onto skewers, leaving a small space between each piece.",
+    "Grill the satay for 10-12 minutes, turning occasionally, or until cooked through to an internal temperature of 145 degrees Fahrenheit.",
+    "Meanwhile, heat the kimchi in a saucepan over medium heat, stirring occasionally.",
+    "Serve the satay with the spicy kimchi sauce spooned over the top.",
+    "Garnish with chopped peanuts and fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutty-malaysian-pork-tenderloin-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-malaysian-pork-tenderloin-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:32:05Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "Nutty",
+    "dishForm": "Satay"
+  }
+}
