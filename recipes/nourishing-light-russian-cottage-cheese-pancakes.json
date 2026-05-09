@@ -1,0 +1,95 @@
+{
+  "title": "Nourishing Light Russian Cottage Cheese Pancakes",
+  "description": "These fermented pancakes are a show-off Russian dish featuring cottage cheese and shio-cure, made with ayurvedic-rajasic-friendly ingredients for a nutritious breakfast option.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "fermented for 24 hours"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "buckwheat flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine the fermented cottage cheese, shio-cure, eggs, buckwheat flour, sugar, and salt, and blend until smooth.",
+    "Heat a non-stick pan over medium heat and add the melted butter.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the pan.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with your favorite toppings, such as fresh fruit or maple syrup.",
+    "Repeat the process until all the batter is used up.",
+    "Keep the pancakes warm in a low-temperature oven while cooking the remaining batter."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "fermented",
+    "gluten-free",
+    "healthy",
+    "high-protein",
+    "russian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "nourishing-light-russian-cottage-cheese-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-light-russian-cottage-cheese-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:24:18Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "shio-cure",
+    "primaryIngredient": "cottage cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cottage cheese",
+    "descriptor": "Nourishing Light",
+    "dishForm": "Pancakes"
+  }
+}

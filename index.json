@@ -137,6 +137,21 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-charred-argentinian-beef-skewers",
+    "title": "Naturally Charred Argentinian Beef Skewers",
+    "tags": [
+      "argentinian-cuisine",
+      "beef-recipes",
+      "claypot-cooking",
+      "gluten-free",
+      "high-protein",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 32,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-cheesy-venezuelan-fish-wrap",
     "title": "Naturally Cheesy Venezuelan Fish Wrap",
     "tags": [
@@ -4943,6 +4958,22 @@
       "vegetarian"
     ],
     "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-light-russian-cottage-cheese-pancakes",
+    "title": "Nourishing Light Russian Cottage Cheese Pancakes",
+    "tags": [
+      "breakfast",
+      "fermented",
+      "gluten-free",
+      "healthy",
+      "high-protein",
+      "russian",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
     "totalTimeMin": 35,
     "shard": "n"
   },
