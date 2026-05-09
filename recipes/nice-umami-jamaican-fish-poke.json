@@ -1,0 +1,96 @@
+{
+  "title": "Nice Umami Jamaican Fish Poke",
+  "description": "A lazy Sunday Jamaican dish featuring sashimi-cut fish, grapefruit juice, and a creamy umami sauce, perfect for a relaxing meal. This egg-free friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sashimi-cut fish",
+      "amount": "1 pound",
+      "notes": "such as tuna or salmon"
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together grapefruit juice, soy sauce, brown sugar, ginger, and garlic to make the umami sauce.",
+    "Add the sashimi-cut fish to the bowl and toss to coat with the umami sauce.",
+    "Let the fish marinate for at least 30 minutes in the refrigerator.",
+    "Just before serving, stir in the chopped scotch bonnet pepper.",
+    "In a small bowl, whip the coconut cream until it becomes stiff and holds its shape.",
+    "Fold the whipped coconut cream into the fish mixture to add a creamy texture.",
+    "Serve the Nice Umami Jamaican Fish Poke immediately, garnished with chopped fresh cilantro if desired.",
+    "Refrigerate any leftovers promptly and consume within a day.",
+    "Before serving, give the fish a good stir and adjust the seasoning if necessary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "jamaican-cuisine",
+    "one-bowl",
+    "quick-meal",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "nice-umami-jamaican-fish-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-umami-jamaican-fish-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:28:19Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fish",
+    "descriptor": "nice umami",
+    "dishForm": "Poke"
+  }
+}
