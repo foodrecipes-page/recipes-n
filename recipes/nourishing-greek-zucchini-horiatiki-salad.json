@@ -1,0 +1,98 @@
+{
+  "title": "Nourishing Greek Zucchini Horiatiki Salad",
+  "description": "A rich and romantic Greek dish featuring zucchini and a blend of fresh ingredients, served in a tagliere vessel. This salad is perfect for a light and refreshing meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "binchotan-charcoal grilled red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan-charcoal grill to medium-high heat.",
+    "Grill the sliced red onion for 5 minutes per side, or until slightly charred.",
+    "In a large bowl, combine the sliced zucchini, grilled red onion, kalamata olives, and crumbly feta cheese.",
+    "In a small bowl, whisk together the extra virgin olive oil and red wine vinegar.",
+    "Pour the dressing over the zucchini mixture and toss to combine.",
+    "Sprinkle the chopped fresh parsley over the top of the salad and season with salt and pepper to taste.",
+    "Serve the salad in a tagliere vessel and enjoy immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek-cuisine",
+    "healthy",
+    "raw-friendly",
+    "refreshing",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "nourishing-greek-zucchini-horiatiki-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-greek-zucchini-horiatiki-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:03:11Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "zucchini",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "zucchini",
+    "descriptor": "Nourishing Molten",
+    "dishForm": "Horiatiki Salad"
+  }
+}
