@@ -1,0 +1,102 @@
+{
+  "title": "Nourishing Uruguayan Steak Empanadas",
+  "description": "A traditional Uruguayan dish featuring lean minced steak and confit tomato in a pillowy pastry, perfect for a high protein meal. This recipe is a nostalgic and flavorful option for any time of day.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "high protein",
+    "low carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced steak",
+      "amount": "1 pound",
+      "notes": "lean cut"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "empanada pastry",
+      "amount": "1 package",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large skillet, heat the olive oil over medium high heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the minced steak and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the confit tomato, mustard, salt, and black pepper.",
+    "Roll out the empanada pastry and cut out circles of dough.",
+    "Spoon the steak mixture onto one half of each dough circle.",
+    "Fold the dough in half and press the edges to seal.",
+    "Brush the tops with a little bit of water and bake for 20 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "latin-american",
+    "meat-pie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-uruguayan-steak-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-uruguayan-steak-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:51:02Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "lean minced steak",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "steak",
+    "descriptor": "nourishing pillowy",
+    "dishForm": "Empanadas"
+  }
+}

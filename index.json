@@ -1775,6 +1775,21 @@
     "shard": "n"
   },
   {
+    "slug": "nice-n-spicy-australian-chicken-grill",
+    "title": "Nice n Spicy Australian Chicken Grill",
+    "tags": [
+      "australian-cuisine",
+      "gluten-free",
+      "grilled-chicken",
+      "healthy-dinner",
+      "macrobiotic",
+      "spicy-food"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nice-nibbled-ethiopian-sazon-gored-gored",
     "title": "Ethiopian Sazon Gored-Gored",
     "tags": [
@@ -8154,6 +8169,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-uruguayan-steak-empanadas",
+    "title": "Nourishing Uruguayan Steak Empanadas",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "latin-american",
+      "meat-pie",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {
