@@ -1,0 +1,102 @@
+{
+  "title": "Nourishing Molten Korean Blackberries Namul",
+  "description": "A herbal and molten one-pot Korean dish featuring blackberries, this namul is a unique and nourishing treat. It combines the flavors of Busan with the principles of ayurvedic tamasic-friendly cooking.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "blackberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brine",
+      "amount": "1/4 cup",
+      "notes": "from pickled vegetables"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender or food processor, puree the blackberries until smooth.",
+    "In a small saucepan, combine the soy sauce, rice vinegar, and honey, and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer the sauce for 5 minutes.",
+    "In a large bowl, whisk together the sesame oil, garlic, and ginger.",
+    "Add the blackberry puree, toasted sesame seeds, and brine to the bowl, and stir to combine.",
+    "Pour the sauce into the bowl and stir until the mixture is well combined.",
+    "Transfer the mixture to 4 ramekins and place them on a baking sheet.",
+    "Bake the namul for 15 minutes, or until it is warm and molten.",
+    "Remove the namul from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "blackberries",
+    "gluten-free",
+    "korean-food",
+    "namul",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "nourishing-molten-korean-blackberries-namul",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-molten-korean-blackberries-namul",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:35:29Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "brine-wet",
+    "primaryIngredient": "blackberries",
+    "diet": "ayurvedic-tamasic",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "blackberries",
+    "descriptor": "Nourishing Molten",
+    "dishForm": "Namul"
+  }
+}
