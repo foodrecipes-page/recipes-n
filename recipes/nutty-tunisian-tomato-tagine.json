@@ -1,0 +1,109 @@
+{
+  "title": "Nutty Tunisian Tomato Tagine",
+  "description": "A grassy, gooey, one-pot Tunisian dish featuring tomato puree and plant-based friendly ingredients, this tagine is perfect for a weeknight dinner. It combines the flavors of Africa and the Middle East with a nutty twist.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high quality oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "khao khuat rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the tomato puree, sliced almonds, uncooked khao khuat rice, smoked paprika, salt, and black pepper.",
+    "Add the water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 25 minutes.",
+    "Remove the pot from the heat and let it cool for a few minutes.",
+    "Serve the tagine hot, garnished with additional sliced almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "nutty",
+    "one-pot",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-tunisian-tomato-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tunisian-tomato-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:27:55Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "tomato puree",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "tomato",
+    "descriptor": "Nutty",
+    "dishForm": "Tagine"
+  }
+}
