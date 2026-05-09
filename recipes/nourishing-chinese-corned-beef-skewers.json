@@ -1,0 +1,107 @@
+{
+  "title": "Nourishing Chinese Corned Beef Skewers",
+  "description": "Buttery and shattering post-workout Chinese dish featuring sashimi-cut corned beef, grilled to perfection on a binchotan grill, this recipe is a raw-friendly and healthy option for those looking for a nourishing meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corned beef",
+      "amount": "1 pound",
+      "notes": "sashimi-cut into thin strips"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat.",
+    "In a large bowl, whisk together sesame oil, butter, ginger, garlic, soy sauce, and honey.",
+    "Add the corned beef strips to the bowl and toss to coat with the marinade.",
+    "Thread the marinated corned beef strips onto skewers, leaving a small space between each piece.",
+    "Season the skewers with salt and black pepper.",
+    "Grill the skewers for 3-4 minutes per side, or until the corned beef is cooked through and slightly charred.",
+    "Garnish with chopped green onions and sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-inspired",
+    "dairy-free",
+    "grilled",
+    "high-protein",
+    "post-workout",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "nourishing-chinese-corned-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-chinese-corned-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:08:02Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "corned beef",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "corned beef",
+    "descriptor": "nourishing buttery",
+    "dishForm": "Skewers"
+  }
+}
