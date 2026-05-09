@@ -1,0 +1,102 @@
+{
+  "title": "Nourishing Smoky Croatian Pork Casserole",
+  "description": "A hearty Croatian dish featuring charred and crumbly pork, dried chillies, and a sweet glaze, perfect for a sick day. This egg-free-friendly recipe is sure to become a favorite.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "dried chillies",
+      "amount": "2",
+      "notes": "crushed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, brown sugar, and crushed dried chillies.",
+    "Add the pork pieces to the bowl and toss to coat evenly with the spice mixture.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat and sear the pork until browned on all sides.",
+    "Remove the pork from the pot and set aside, then add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped potatoes, apple cider vinegar, and browned pork back to the pot, stirring to combine.",
+    "Cover the pot and transfer to the preheated oven, baking for 2 hours or until the pork is tender and the potatoes are cooked through.",
+    "While the casserole is baking, prepare the glaze by whisking together 1/4 cup of apple cider vinegar and 2 tablespoons of brown sugar in a small bowl.",
+    "After 2 hours of baking, brush the glaze over the top of the casserole and return to the oven for an additional 10 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 130,
+  "totalTimeMin": 160,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "pork-recipes",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 34
+  },
+  "slug": "nourishing-smoky-croatian-pork-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-croatian-pork-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:00:27Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "glaze",
+    "primaryIngredient": "dried chillies",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "nourishing smoky",
+    "dishForm": "Casseroles"
+  }
+}
