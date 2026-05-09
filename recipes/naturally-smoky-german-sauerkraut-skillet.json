@@ -1,0 +1,102 @@
+{
+  "title": "Naturally Smoky German Sauerkraut Skillet",
+  "description": "A flexitarian-friendly German dish featuring fermented sauerkraut, herbes-de-provence, and a smoky flavor, perfect for a quick and crunchy meal.",
+  "cuisine": "German",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "finely chopped, fermented"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "diced, optional"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the chopped sauerkraut, herbes-de-provence, smoked paprika, caraway seeds, salt, and black pepper to the skillet, stirring to combine.",
+    "Cook the sauerkraut mixture for 5 minutes, stirring occasionally, until it is heated through and starting to brown.",
+    "If using tofu, add it to the skillet and cook until it is lightly browned and crispy on the outside.",
+    "Reduce the heat to medium-low and simmer the skillet mixture for an additional 5 minutes, stirring occasionally, until the flavors have melded together and the sauerkraut is crispy.",
+    "Serve the smoky German sauerkraut skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "german-cuisine",
+    "one-pan",
+    "smoky-flavor",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "naturally-smoky-german-sauerkraut-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-german-sauerkraut-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:18:16Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "smoke",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "Naturally Smoky",
+    "dishForm": "Skillet"
+  }
+}
