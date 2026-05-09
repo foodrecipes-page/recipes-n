@@ -3488,6 +3488,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-algerian-lamb-tagine",
+    "title": "Nourishing Algerian Lamb Tagine",
+    "tags": [
+      "lamb-based",
+      "north-african",
+      "one-pot",
+      "slow-cooked",
+      "spicy"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 110,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-american-chicken-casserole",
     "title": "Nourishing American Chicken Casserole",
     "tags": [
