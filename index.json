@@ -6450,6 +6450,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-savory-uruguayan-beef-empanadas",
+    "title": "Uruguayan Beef Empanadas",
+    "tags": [
+      "baked",
+      "beef",
+      "empanadas",
+      "savory",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 140,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-shaggy-mexican-chicken-mole-poblano",
     "title": "Nourishing Shaggy Mexican Chicken Mole Poblano",
     "tags": [
@@ -13668,6 +13683,20 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-saudi-arabian-snow-peas-biryani",
+    "title": "Nutty Saudi Arabian Snow Peas Biryani",
+    "tags": [
+      "low-carb",
+      "middle-eastern",
+      "one-pot",
+      "romantic-dinner",
+      "special-occasion"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {

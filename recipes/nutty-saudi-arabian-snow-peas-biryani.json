@@ -1,0 +1,89 @@
+{
+  "title": "Nutty Saudi Arabian Snow Peas Biryani",
+  "description": "A malty, flaky, romantic Saudi-Arabian dish featuring snow peas and yuzu-cure, low in carbs and perfect for a special occasion.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large saucepan over medium heat.",
+    "Add the cumin and cook for 1 minute, stirring constantly.",
+    "Add the basmati rice and cook for 2 minutes, stirring frequently.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "While the rice is cooking, blanch the snow peas in boiling water for 2 minutes.",
+    "Drain the snow peas and set aside.",
+    "Fluff the cooked rice with a fork and stir in the yuzu juice and chopped almonds.",
+    "Combine the cooked rice and snow peas in a large serving dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "middle-eastern",
+    "one-pot",
+    "romantic-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nutty-saudi-arabian-snow-peas-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-saudi-arabian-snow-peas-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:14:18Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "snow peas",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "snow peas",
+    "descriptor": "nutty flaky",
+    "dishForm": "Biryani"
+  }
+}

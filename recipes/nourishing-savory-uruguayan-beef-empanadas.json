@@ -1,0 +1,98 @@
+{
+  "title": "Uruguayan Beef Empanadas",
+  "description": "A traditional Uruguayan dish featuring savory beef filling wrapped in a long-fermentation dough, perfect for a weeknight dinner. The addition of mustard seeds gives it a unique flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, sugar, and yeast to make the dough.",
+    "Gradually add water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough ferment in a warm place for 2 hours, or until it has doubled in size.",
+    "In a separate pan, heat olive oil and saute the onion until it is translucent.",
+    "Add the ground beef to the pan and cook until it is browned, breaking it up into small pieces.",
+    "Stir in the mustard seeds and cook for an additional minute.",
+    "Divide the fermented dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle and place a tablespoon of the beef filling in the center.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and bake in a preheated oven at 375 degrees for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 20,
+  "totalTimeMin": 140,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "beef",
+    "empanadas",
+    "savory",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "nourishing-savory-uruguayan-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-savory-uruguayan-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:14:07Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "mustard seeds",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "nourishing savory",
+    "dishForm": "Empanadas"
+  }
+}
