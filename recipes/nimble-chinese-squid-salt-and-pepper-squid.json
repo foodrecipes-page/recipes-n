@@ -1,0 +1,95 @@
+{
+  "title": "Nimble Chinese Squid Salt And Pepper Squid",
+  "description": "A briny and pillowy Chinese dish featuring almond paste and sashimi-cut squid, perfect for a crowd, and friendly to Buddhist temple dietary preferences. This salt and pepper squid recipe is a delicious and easy to make dish.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pescatarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "almond paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Rinse the squid under cold water and pat dry with paper towels.",
+    "In a bowl, mix together the almond paste, salt, and black pepper.",
+    "Add the cornstarch to the bowl and mix until well combined.",
+    "Add the squid to the bowl and toss to coat with the almond paste mixture.",
+    "Heat the vegetable oil in a wok or large skillet over high heat.",
+    "Add the squid to the wok and cook for 2-3 minutes, or until lightly browned.",
+    "Add the scallions and garlic to the wok and cook for an additional minute.",
+    "Remove the squid from the wok and serve immediately.",
+    "Garnish with additional scallions and serve with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "nutty",
+    "one-pan",
+    "quick-dinner",
+    "seafood",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "nimble-chinese-squid-salt-and-pepper-squid",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-chinese-squid-salt-and-pepper-squid",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:11:42Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "almond paste",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "squid",
+    "descriptor": "Nimble",
+    "dishForm": "Salt And Pepper Squid"
+  }
+}
