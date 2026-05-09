@@ -3949,6 +3949,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-canadian-pasta-bake",
+    "title": "Nourishing Canadian Pasta Bake",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "one-pan",
+      "pasta-bake",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-canadian-taleggio-gratin",
     "title": "Nourishing Canadian Taleggio Gratin",
     "tags": [

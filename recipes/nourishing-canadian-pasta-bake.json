@@ -1,0 +1,91 @@
+{
+  "title": "Nourishing Canadian Pasta Bake",
+  "description": "A peppery and flaky Canadian dish featuring condensed milk and a pasta water emulsion, perfect for a cold winter night. This recipe is also raw-friendly and adventurous.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "any type"
+    },
+    {
+      "name": "condensed milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the pasta according to the package instructions.",
+    "In a large bowl, mix the cooked pasta, condensed milk, water, olive oil, black pepper, salt, garlic powder, and dried basil.",
+    "Transfer the pasta mixture to a baking dish.",
+    "Bake the pasta mixture in the preheated oven for 25 minutes.",
+    "Remove the pasta bake from the oven and let it cool for 10 minutes.",
+    "Serve the pasta bake hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "one-pan",
+    "pasta-bake",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nourishing-canadian-pasta-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-canadian-pasta-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:37:56Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "condensed milk",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pasta",
+    "descriptor": "nourishing peppery",
+    "dishForm": "Pasta"
+  }
+}
