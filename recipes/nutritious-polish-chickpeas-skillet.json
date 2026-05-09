@@ -1,0 +1,93 @@
+{
+  "title": "Nutritious Polish Chickpeas Skillet",
+  "description": "A hearty and energizing Polish dish featuring chickpeas, perfect for a low-carb diet, this skillet is a fatty and shaggy meal option that will keep you full for hours. It combines the richness of sausage and eggs with the simplicity of chickpeas.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "smoked sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and add the sliced smoked sausage to cook until browned.",
+    "Remove the cooked sausage from the skillet and set aside, leaving the grease in the skillet.",
+    "Add the chopped onion to the skillet and cook until it is translucent and starting to caramelize.",
+    "Add the chickpeas to the skillet and stir to combine with the onion and grease.",
+    "Push the chickpea and onion mixture to one side of the skillet and crack in the eggs, scrambling them until they are cooked through.",
+    "Mix the eggs with the chickpea and onion mixture, then add the cooked sausage back into the skillet.",
+    "Stir in the shredded cheese until it is melted and well combined with the other ingredients.",
+    "Season the skillet with salt, black pepper, and paprika, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "nutritious-polish-chickpeas-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-polish-chickpeas-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:02:32Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "emulsify",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Nutritious",
+    "dishForm": "Skillet"
+  }
+}
