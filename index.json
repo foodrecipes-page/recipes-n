@@ -1523,6 +1523,21 @@
     "shard": "n"
   },
   {
+    "slug": "nice-crunchy-german-sausage-grill",
+    "title": "Nice Crunchy German Sausage Grill",
+    "tags": [
+      "crunchy-texture",
+      "german-food",
+      "grilled-meats",
+      "kid-friendly",
+      "low-fat",
+      "quick-dinner"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nice-crunchy-greek-duck-baklava",
     "title": "Nice Crunchy Greek Duck Baklava",
     "tags": [

@@ -1,0 +1,96 @@
+{
+  "title": "Nice Crunchy German Sausage Grill",
+  "description": "A kid-friendly German dish featuring Branston pickle, this recipe is rich, crumbly, and perfect for a low-fat friendly meal. It's a great option for a quick and easy dinner.",
+  "cuisine": "German",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "4 links",
+      "notes": "preferably low-fat"
+    },
+    {
+      "name": "Branston pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the chopped Branston pickle, sliced onion, and sliced bell pepper.",
+    "Add the bread crumbs, beaten egg, salt, and pepper to the bowl and mix well.",
+    "Place the German sausage links on a plate or tray and brush with a little water.",
+    "Roll each sausage link in the bread crumb mixture to coat evenly.",
+    "Place the coated sausage links on the preheated grill and cook for about 5 minutes on each side, or until cooked through.",
+    "Serve the grilled sausage hot with additional Branston pickle on the side, if desired.",
+    "Let the sausage rest for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-texture",
+    "german-food",
+    "grilled-meats",
+    "kid-friendly",
+    "low-fat",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "nice-crunchy-german-sausage-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-crunchy-german-sausage-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:55:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "branston-pickle",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausage",
+    "descriptor": "nice crunchy",
+    "dishForm": "Grill"
+  }
+}
