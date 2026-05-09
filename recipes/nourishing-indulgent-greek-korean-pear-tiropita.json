@@ -1,0 +1,98 @@
+{
+  "title": "Nourishing Indulgent Greek Korean Pear Tiropita",
+  "description": "A fermented, fluffy, and indulgent Greek dish featuring Korean pear and rest meat, also vegan friendly, in the form of a tiropita.",
+  "cuisine": "Greek Korean",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean pear",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled, or vegan alternative"
+    },
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the diced Korean pear to the skillet and cook until tender.",
+    "In a large bowl, combine the cooked pear, crumbled tofu, and crumbled feta cheese.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Unroll the phyllo dough and cut it into 4 equal pieces.",
+    "Place a quarter of the pear and cheese mixture onto the center of each phyllo piece.",
+    "Fold the phyllo into a triangle and press the edges to seal.",
+    "Brush the tops of the tiropita with olive oil and sprinkle with chopped parsley.",
+    "Bake the tiropita for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-crust",
+    "greek-korean-fusion",
+    "indulgent-dinner",
+    "pear-delight",
+    "tofu-recipe",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "nourishing-indulgent-greek-korean-pear-tiropita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-indulgent-greek-korean-pear-tiropita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:32:33Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "rest-meat",
+    "primaryIngredient": "korean-pear",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "korean pear",
+    "descriptor": "Nourishing Indulgent",
+    "dishForm": "Tiropita"
+  }
+}
