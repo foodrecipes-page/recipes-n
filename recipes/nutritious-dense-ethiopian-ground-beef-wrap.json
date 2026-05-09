@@ -1,0 +1,102 @@
+{
+  "title": "Nutritious Dense Ethiopian Ground Beef Wrap",
+  "description": "A jammy, dense, and diabetic-friendly Ethiopian dish featuring ground beef, served in a lotus leaf wrap, perfect for a hangover cure.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion, minced garlic, and grated ginger to the skillet and cook until the onion is translucent.",
+    "Stir in the berbere spice and cook for 1 minute.",
+    "Add the blanched and seasoned namul to the skillet and cook until heated through.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Lay a large lotus leaf flat on a work surface and spoon about 1/4 of the beef and namul mixture onto the center of the leaf.",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining ingredients to make 3 more wraps.",
+    "Serve the wraps hot, with additional namul and berbere spice on the side if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutritious-dense-ethiopian-ground-beef-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-dense-ethiopian-ground-beef-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:59:33Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "ground beef",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "ground beef",
+    "descriptor": "Nutritious Dense",
+    "dishForm": "Wrap"
+  }
+}

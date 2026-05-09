@@ -7374,6 +7374,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-dense-ethiopian-ground-beef-wrap",
+    "title": "Nutritious Dense Ethiopian Ground Beef Wrap",
+    "tags": [
+      "diabetic-friendly",
+      "ethiopian-cuisine",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-dense-greek-lamb-stew",
     "title": "Nutritious Dense Greek Lamb Stew",
     "tags": [
@@ -9746,6 +9761,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crunchy-dutch-pork-croquettes",
+    "title": "Nutty Crunchy Dutch Pork Croquettes",
+    "tags": [
+      "crunchy-texture",
+      "dutch-cuisine",
+      "meat-based",
+      "midnight-cravings",
+      "nutty-snacks"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {

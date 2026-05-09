@@ -1,0 +1,95 @@
+{
+  "title": "Nutty Crunchy Dutch Pork Croquettes",
+  "description": "A Dutch dish featuring ground pork, dashi extract, and Mediterranean friendly ingredients, perfect for midnight cravings. The resinous and crunchy texture is achieved with a combination of nuts and breadcrumbs.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, combine the ground pork, dashi extract, chopped almonds, breadcrumbs, grated Parmesan cheese, egg, salt, and black pepper, and mix well.",
+    "Use your hands to shape the mixture into small cylindrical croquettes.",
+    "Carefully place the croquettes in the hot oil and fry for 4-5 minutes on each side, until golden brown.",
+    "Remove the croquettes from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "Serve the croquettes hot and enjoy.",
+    "For an extra crunchy coating, you can chill the croquettes in the refrigerator for 30 minutes before frying.",
+    "To make the dish more Mediterranean friendly, you can serve the croquettes with a side of tangy tzatziki sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-texture",
+    "dutch-cuisine",
+    "meat-based",
+    "midnight-cravings",
+    "nutty-snacks"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "nutty-crunchy-dutch-pork-croquettes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crunchy-dutch-pork-croquettes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:00:27Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "dashi-extract",
+    "primaryIngredient": "ground pork",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pork",
+    "descriptor": "Nutty Crunchy",
+    "dishForm": "Croquettes"
+  }
+}
