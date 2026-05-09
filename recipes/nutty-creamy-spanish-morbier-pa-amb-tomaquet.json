@@ -1,0 +1,105 @@
+{
+  "title": "Nutty Creamy Spanish Morbier Pa Amb Tomaquet",
+  "description": "A yeasty and creamy Spanish dish featuring morbier cheese, perfect for a brunch mood, made with mantecare emulsification and vegetarian friendly ingredients, served as pa amb tomaquet.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "morbier cheese",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "active dry"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all purpose"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine yeast, flour, and warm water, mixing until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Punch down the dough and roll it out into a large rectangle.",
+    "Spread the diced tomato and minced garlic over the dough, leaving a 1 inch border around the edges.",
+    "Arrange the sliced morbier cheese over the top of the tomato and garlic.",
+    "Drizzle the olive oil over the cheese and sprinkle with chopped almonds and kosher salt.",
+    "Bake the pa amb tomaquet in the preheated oven for 25 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+    "Remove the pa amb tomaquet from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "cheesy",
+    "nutty",
+    "spanish-food",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "nutty-creamy-spanish-morbier-pa-amb-tomaquet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-creamy-spanish-morbier-pa-amb-tomaquet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:00:30Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "morbier",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "morbier",
+    "descriptor": "Nutty Creamy",
+    "dishForm": "Pa Amb Tomaquet"
+  }
+}
