@@ -1,0 +1,104 @@
+{
+  "title": "Naturally Aerated Malaysian Bottarga Satay",
+  "description": "A resinous and adventurous Malaysian dish featuring bottarga, spherified and served in a terracotta dish, this recipe is sugar-free-friendly and perfect for those looking to try something new.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bottarga",
+      "amount": "200g",
+      "notes": "dried and grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine coconut milk, lime juice, fish sauce, and sodium alginate, and blend until smooth.",
+    "Strain the mixture into a bowl and whisk in the grated bottarga.",
+    "Using a syringe, drop the mixture into a bath of cold water to spherify.",
+    "Once the spherified bottarga is set, remove it from the water and drain off excess liquid.",
+    "In a small saucepan, heat the olive oil over medium heat and add the salt and black pepper.",
+    "Add the spherified bottarga to the saucepan and cook for 2-3 minutes on each side, until lightly browned.",
+    "To serve, place the bottarga satay in a terracotta dish and garnish with pandan leaves.",
+    "Serve immediately and enjoy.",
+    "To add a smoky flavor, cook the bottarga satay over a grill or under a broiler for an additional 2 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "gluten-free",
+    "low-carb",
+    "malaysian-cuisine",
+    "resinous",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "naturally-aerated-malaysian-bottarga-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-aerated-malaysian-bottarga-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:35:33Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "spherify",
+    "primaryIngredient": "bottarga",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "bottarga",
+    "descriptor": "Naturally Aerated",
+    "dishForm": "Satay"
+  }
+}
