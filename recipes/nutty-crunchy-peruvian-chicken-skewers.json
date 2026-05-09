@@ -1,0 +1,97 @@
+{
+  "title": "Nutty Crunchy Peruvian Chicken Skewers",
+  "description": "A delicious and healthy Peruvian dish featuring chicken skewers with a nutty and crunchy exterior, perfect for a date night. The plum jam and render fat add a sweet and savory flavor.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "plum jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "render fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, whisk together plum jam, render fat, garlic powder, paprika, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the jam mixture.",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece.",
+    "Sprinkle the chopped pecans over the chicken pieces.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 20 minutes, or until the chicken is cooked through.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-textures",
+    "date-night",
+    "gluten-free",
+    "healthy-dinner",
+    "nutty-flavors",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "nutty-crunchy-peruvian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-crunchy-peruvian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:08:48Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "render-fat",
+    "primaryIngredient": "plum jam",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Nutty Crunchy",
+    "dishForm": "Skewers"
+  }
+}
