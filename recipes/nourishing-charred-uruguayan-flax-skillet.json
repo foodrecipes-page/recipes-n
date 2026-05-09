@@ -1,0 +1,102 @@
+{
+  "title": "Nourishing Charred Uruguayan Flax Skillet",
+  "description": "A kosher-friendly, indulgent Uruguayan dish featuring flax eggs, en-croute, and a glassy-jelly texture, all charred to perfection in an iron-teppan skillet.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flaxseed",
+      "amount": "1/2 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron-teppan skillet over medium heat.",
+    "In a small bowl, mix together the ground flaxseed and water to create a flax egg, and let it sit for 5 minutes.",
+    "Add the olive oil to the preheated skillet and swirl it around to coat the bottom.",
+    "Add the chopped onion to the skillet and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the chopped red bell pepper to the skillet and cook until it is tender, about 5 minutes.",
+    "Add the flax egg to the skillet and stir to combine with the vegetables.",
+    "Season the mixture with salt, black pepper, and paprika, and stir to combine.",
+    "Use a spatula to shape the mixture into a round, flat shape, and cook for an additional 5 minutes, until the bottom is charred and the top is set.",
+    "Use the spatula to carefully flip the skillet contents over and cook for an additional 2 minutes, until the other side is also charred.",
+    "Remove the skillet from the heat and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "indulgent",
+    "kosher-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "nourishing-charred-uruguayan-flax-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-charred-uruguayan-flax-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:18:20Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "en-croute",
+    "primaryIngredient": "flax eggs",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "flax",
+    "descriptor": "Nourishing charred",
+    "dishForm": "Skillet"
+  }
+}
