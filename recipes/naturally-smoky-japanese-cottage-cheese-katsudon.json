@@ -1,0 +1,97 @@
+{
+  "title": "Naturally Smoky Japanese Cottage Cheese Katsudon",
+  "description": "A smoky and romantic Japanese dish featuring cottage cheese and ssam-wrap, perfect for a unique dinner experience. This sugar-free-friendly recipe is a twist on the classic katsudon.",
+  "cuisine": "Japanese",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat and add sesame oil.",
+    "Add the minced garlic and grated ginger and cook for 1 minute until fragrant.",
+    "Add the diced smoked salmon and cook for 2 minutes until heated through.",
+    "In a large bowl, mix together the cottage cheese, soy sauce, and chopped green onion.",
+    "Add the cooked salmon mixture to the bowl and stir until well combined.",
+    "Layout the ssam wrap sheets on a wooden board.",
+    "Spoon the cottage cheese and salmon mixture onto the center of each ssam wrap sheet.",
+    "Fold the bottom half of the ssam wrap up over the filling, then fold in the sides and roll up to form a tight cylinder.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cottage-cheese",
+    "high-protein",
+    "japanese-inspired",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "naturally-smoky-japanese-cottage-cheese-katsudon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-smoky-japanese-cottage-cheese-katsudon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:37:50Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "cottage cheese",
+    "diet": "sugar-free",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cottage cheese",
+    "descriptor": "Naturally Smoky",
+    "dishForm": "Katsudon"
+  }
+}
