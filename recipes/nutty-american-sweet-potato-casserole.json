@@ -1,0 +1,99 @@
+{
+  "title": "Nutty American Sweet Potato Casserole",
+  "description": "A festive American dish featuring sweet potatoes, juniper berries, and lardons, perfect for the holidays, and is egg-free-friendly.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "juniper berries",
+      "amount": "1 tablespoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "marshmallows",
+      "amount": "1 cup",
+      "notes": "miniature"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot, boil the sweet potatoes until they are tender, then drain and set aside.",
+    "In a large skillet, render the lardons over medium heat until crispy, then set aside.",
+    "In a large bowl, combine the cooked sweet potatoes, crushed juniper berries, brown sugar, salt, black pepper, and cinnamon, and mix until well combined.",
+    "In a greased 9x13 inch baking dish, arrange half of the sweet potato mixture in the bottom of the dish.",
+    "Top the sweet potatoes with the rendered lardons and half of the chopped pecans.",
+    "Repeat the layers, starting with the remaining sweet potato mixture, then the remaining pecans, and finally the miniature marshmallows.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the marshmallows are golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "egg-free",
+    "holiday-dish",
+    "nutty-flavors",
+    "sweet-potato-casserole",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "nutty-american-sweet-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-american-sweet-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:35:38Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "lardons-render",
+    "primaryIngredient": "juniper berries",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "nutty pillowy",
+    "dishForm": "Casserole"
+  }
+}
