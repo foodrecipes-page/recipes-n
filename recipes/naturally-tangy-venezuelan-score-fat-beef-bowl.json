@@ -1,0 +1,105 @@
+{
+  "title": "Venezuelan Score Fat Beef Bowl",
+  "description": "A tangy and crumbly Venezuelan dish featuring score fat beef, served in a lacquerware bowl, with a unique blend of flavors and textures, low in sodium and adventurous in spirit, incorporating the freshness of hail in its preparation",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "score fat beef",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "hail",
+      "amount": "1 cup",
+      "notes": "collected and cleaned"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Collect and clean the hail, then set it aside to melt slightly, creating a refreshing liquid to be used in the dish.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped onion and cook for 3 minutes, until translucent.",
+    "Add the score fat beef and cook for 5 minutes, until browned.",
+    "Add the cumin, paprika, and salt-free seasoning, and stir to combine.",
+    "Add the lime juice and melted hail liquid, and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes, until the flavors have melded together.",
+    "Stir in the chopped fresh cilantro.",
+    "Serve the score fat beef mixture in a lacquerware bowl, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eating",
+    "beef-recipes",
+    "hail-infused",
+    "lacquerware-bowl",
+    "low-sodium",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "naturally-tangy-venezuelan-score-fat-beef-bowl",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-tangy-venezuelan-score-fat-beef-bowl",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T21:10:21Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "score-fat",
+    "primaryIngredient": "hail",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "score fat beef",
+    "descriptor": "naturally tangy",
+    "dishForm": "Bowl"
+  }
+}

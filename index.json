@@ -1086,6 +1086,21 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-tangy-venezuelan-score-fat-beef-bowl",
+    "title": "Venezuelan Score Fat Beef Bowl",
+    "tags": [
+      "adventurous-eating",
+      "beef-recipes",
+      "hail-infused",
+      "lacquerware-bowl",
+      "low-sodium",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-tender-japanese-goat-onigiri",
     "title": "Naturally Tender Japanese Goat Onigiri",
     "tags": [
@@ -5085,6 +5100,20 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-flaky-turkish-beans-pilaf",
+    "title": "Nourishing Flaky Turkish Beans Pilaf",
+    "tags": [
+      "flaky-pastry",
+      "one-pot",
+      "turkish-cuisine",
+      "vegetarian-friendly",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {

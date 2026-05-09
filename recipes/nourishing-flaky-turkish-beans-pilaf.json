@@ -1,0 +1,98 @@
+{
+  "title": "Nourishing Flaky Turkish Beans Pilaf",
+  "description": "A funky and flaky one-pot Turkish dish featuring beans and shio-koji cure, perfect for a weeknight dinner. This egg-free friendly recipe is cooked to perfection in a ramekin.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried navy beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turkish spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the soaked and drained navy beans, shio-koji, olive oil, chopped onion, minced garlic, turkish spice blend, and salt, and mix well.",
+    "Add the water to the bowl and stir to combine.",
+    "Spoon the bean mixture into a ramekin, leaving a 1-inch border around the edges.",
+    "Roll out the flaky pastry dough to a thickness of about 1/8 inch.",
+    "Place the pastry dough over the ramekin, pressing the edges to seal.",
+    "Cut a few slits in the top of the pastry to allow steam to escape.",
+    "Bake the pilaf for 35 minutes, or until the pastry is golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-pastry",
+    "one-pot",
+    "turkish-cuisine",
+    "vegetarian-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "nourishing-flaky-turkish-beans-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-flaky-turkish-beans-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:09:31Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "beans",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beans",
+    "descriptor": "Nourishing flaky",
+    "dishForm": "Pilaf"
+  }
+}
