@@ -1,0 +1,98 @@
+{
+  "title": "Peruvian Potatoes Causa Limena",
+  "description": "A sweet and cozy Peruvian dish featuring mature cheddar and pickle, made dairy-free-friendly in a causa limena form, this recipe is a unique twist on traditional Peruvian cuisine, with a sweet and aerated texture.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mature cheddar cheese",
+      "amount": "1 cup",
+      "notes": "dairy-free alternative"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "boiled potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Mash the boiled potatoes in a large bowl with a fork until they are mostly smooth.",
+    "In a separate bowl, mix together the olive oil, salt, black pepper, garlic powder, and paprika.",
+    "Add the oil mixture to the mashed potatoes and stir until well combined.",
+    "Stir in the dairy-free mature cheddar cheese until it is fully incorporated.",
+    "Add the pickle relish to the potato mixture and stir until well combined.",
+    "Transfer the potato mixture to a baking dish and top with additional dairy-free cheese if desired.",
+    "Bake the causa limena in the preheated oven for 25 minutes, or until the top is lightly browned.",
+    "Remove the causa limena from the oven and sprinkle with chopped fresh cilantro.",
+    "Serve the causa limena hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "latin-american",
+    "peruvian-cuisine",
+    "potato-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "nice-peruvian-potatoes-causa-limena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-peruvian-potatoes-causa-limena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:44:08Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "pickle",
+    "primaryIngredient": "mature cheddar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Nice Aerated",
+    "dishForm": "Causa Limena"
+  }
+}
