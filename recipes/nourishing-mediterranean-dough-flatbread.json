@@ -1,0 +1,89 @@
+{
+  "title": "Nourishing Mediterranean Dough Flatbread",
+  "description": "A pungent and bouncy flatbread featuring vegan white wine vinegar and long-fermentation-dough, perfect for a light Mediterranean dish",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1/4 cup",
+      "notes": "vegan"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, sugar, and salt",
+    "In a separate bowl, whisk together the olive oil, white wine vinegar, and warm water",
+    "Add the yeast to the wet ingredients and let it sit for 5 minutes",
+    "Combine the wet and dry ingredients and mix until a shaggy dough forms",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic",
+    "Place the dough in a lightly oiled bowl, cover it with plastic wrap, and let it ferment in a warm place for 2 hours",
+    "Preheat the oven to 425 degrees",
+    "Punch down the dough and divide it into 4 equal pieces",
+    "Roll out each piece into a thin circle and bake for 15 minutes"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-lunch",
+    "flatbread",
+    "long-fermentation",
+    "mediterranean-diet",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "nourishing-mediterranean-dough-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-mediterranean-dough-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:10:38Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "dough",
+    "descriptor": "Nourishing",
+    "dishForm": "Flatbread"
+  }
+}
