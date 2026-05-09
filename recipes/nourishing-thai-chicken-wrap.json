@@ -1,0 +1,94 @@
+{
+  "title": "Nourishing Thai Chicken Wrap",
+  "description": "A light and herbal Thai-inspired dish featuring Thai sweet basil and wok-hei flavors, wrapped in a lotus leaf for a low-carb friendly meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 leaves"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large Dutch oven over medium-high heat.",
+    "Add chicken to the pot and cook until browned, about 5 minutes.",
+    "Add garlic and ginger to the pot and cook for 1 minute.",
+    "Add Thai sweet basil, fish sauce, and lime juice to the pot and stir to combine.",
+    "Reduce heat to medium-low and simmer for 5 minutes.",
+    "Warm lotus leaves by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by spooning the chicken mixture onto a lotus leaf and serving immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "gluten-free",
+    "healthy",
+    "low-carb",
+    "one-pot",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "nourishing-thai-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-thai-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:11:31Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "wok-hei",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing Wok",
+    "dishForm": "Wrap"
+  }
+}
