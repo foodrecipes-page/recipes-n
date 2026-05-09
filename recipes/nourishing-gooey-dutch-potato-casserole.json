@@ -1,0 +1,108 @@
+{
+  "title": "Nourishing Gooey Dutch Potato Casserole",
+  "description": "A hearty and comforting Dutch dish featuring pancetta and score-fat, perfect for a cold winter's night, this lacto-vegetarian-friendly casserole is sure to become a favorite.",
+  "cuisine": "Dutch",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pancetta",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large Dutch oven, cook the diced pancetta over medium heat until crispy.",
+    "Remove the pancetta from the pot and set aside, leaving the grease behind.",
+    "Add the chopped onions to the pot and cook until they are softened and translucent.",
+    "Add the minced garlic to the pot and cook for an additional minute.",
+    "Add the sliced potatoes to the pot, stirring to combine with the onions and garlic.",
+    "In a small bowl, combine the melted score-fat, heavy cream, salt, and black pepper.",
+    "Pour the score-fat mixture over the potatoes and onions in the pot.",
+    "Top the potatoes with the shredded gruyere cheese and cooked pancetta.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake the casserole for 45 minutes, or until the potatoes are tender and the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "hearty-casserole",
+    "lacto-vegetarian",
+    "one-pot",
+    "winter-night"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "nourishing-gooey-dutch-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-gooey-dutch-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:37:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "score-fat",
+    "primaryIngredient": "pancetta",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "potatoes",
+    "descriptor": "Nourishing Gooey",
+    "dishForm": "Casserole"
+  }
+}
