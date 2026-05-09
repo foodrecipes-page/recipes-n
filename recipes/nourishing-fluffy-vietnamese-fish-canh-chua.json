@@ -1,0 +1,94 @@
+{
+  "title": "Nourishing Fluffy Vietnamese Fish Canh Chua",
+  "description": "A savory and fluffy Vietnamese dish featuring elderflower and bonito shave, wrapped in a lotus leaf. This nut-free-friendly recipe is perfect for adventurous eaters.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish balls",
+      "amount": "12",
+      "notes": "made from white fish"
+    },
+    {
+      "name": "elderflower syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the lotus leaves and cut off the stems.",
+    "In a large pot, combine the fish balls, elderflower syrup, bonito flakes, fish sauce, lime juice, sugar, and salt.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "While the mixture is cooking, prepare the lotus leaves by blanching them in boiling water for 30 seconds.",
+    "To assemble the dish, place a few fish balls in the center of each lotus leaf, then spoon some of the cooking liquid over the top.",
+    "Fold the lotus leaves over the filling to form a tight packet.",
+    "Serve the Canh Chua hot, garnished with additional elderflower syrup and bonito flakes if desired.",
+    "Repeat the process with the remaining ingredients.",
+    "Let the dish rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "floral-flavors",
+    "gluten-free",
+    "lotus-leaf-wraps",
+    "nut-free",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "nourishing-fluffy-vietnamese-fish-canh-chua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-fluffy-vietnamese-fish-canh-chua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:16:26Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "bonito-shave",
+    "primaryIngredient": "elderflower",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "fish",
+    "descriptor": "Nourishing Fluffy",
+    "dishForm": "Canh Chua"
+  }
+}
