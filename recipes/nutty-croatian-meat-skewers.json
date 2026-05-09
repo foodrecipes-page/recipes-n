@@ -1,0 +1,97 @@
+{
+  "title": "Nutty Croatian Meat Skewers",
+  "description": "A peppery and savory Croatian dish featuring tomato ketchup and Mediterranean-friendly ingredients, perfect for a post-workout meal. The glassy-jelly texture comes from the reduction of tomato ketchup during the cooking process.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, tomato ketchup, paprika, salt, and black pepper.",
+    "Add the beef sirloin pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated beef onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the beef is cooked through.",
+    "While the skewers are cooking, heat a small saucepan over medium heat and add the chopped onion and minced garlic.",
+    "Saute the onion and garlic until they are softened and fragrant.",
+    "Stir in the chopped walnuts and cook for an additional 2 minutes.",
+    "Serve the skewers hot, topped with the walnut and onion mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutty-croatian-meat-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-croatian-meat-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:51:31Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "saute",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "meat",
+    "descriptor": "nutty peppery",
+    "dishForm": "Skewers"
+  }
+}
