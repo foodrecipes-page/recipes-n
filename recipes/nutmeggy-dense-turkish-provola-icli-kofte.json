@@ -1,0 +1,101 @@
+{
+  "title": "Nutmeggy Dense Turkish Provola Icli Kofte",
+  "description": "A winey, dense, and indulgent Turkish dish featuring provola, double-fry-kfc, and low-glycemic-friendly ingredients, served in a banana leaf vessel.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Provola cheese",
+      "amount": "1 cup shredded",
+      "notes": "low moisture"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/2 teaspoon ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Banana leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Kfc seasoning",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef, diced onion, ground nutmeg, salt, and black pepper, and mix well.",
+    "Add the shredded provola cheese to the bowl and mix until just combined.",
+    "Cut the banana leaves into 4 equal pieces and brush with olive oil.",
+    "Divide the beef mixture into 4 equal parts and shape each part into a ball.",
+    "Wrap each ball in a banana leaf piece, making sure to seal the edges tightly.",
+    "Heat about 1/2 inch of olive oil in a large skillet over medium-high heat and double-fry the kfc seasoned icli kofte until browned on all sides.",
+    "Transfer the icli kofte to a baking dish and brush with red wine.",
+    "Bake the icli kofte in the preheated oven for 20 minutes, or until cooked through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "banana-leaf",
+    "gluten-free",
+    "low-glycemic",
+    "turkish-food",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "nutmeggy-dense-turkish-provola-icli-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutmeggy-dense-turkish-provola-icli-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:08:40Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "provola",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "provola",
+    "descriptor": "Nutmeggy Dense",
+    "dishForm": "Icli Kofte"
+  }
+}
