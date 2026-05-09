@@ -1,0 +1,99 @@
+{
+  "title": "Nutty Roasted Jamaican Pork Hash",
+  "description": "A roasted Jamaican dish featuring pul biber and served in individual mini cocottes, perfect for a brunch mood. It is satvik friendly and features a stone bowl dolsot style serving.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "pul biber",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the diced pork, pul biber, scallions, coconut oil, ginger, garlic, thyme, salt, and black pepper.",
+    "Divide the mixture among 4 individual mini cocottes.",
+    "Roast the cocottes in the preheated oven for 25 minutes.",
+    "Remove the cocottes from the oven and let them cool for a few minutes.",
+    "Serve the hash hot, garnished with additional scallions if desired.",
+    "Traditionally, the hash is served in a stone bowl dolsot style, but individual mini cocottes work just as well.",
+    "To add an extra layer of flavor, serve the hash with a fried egg on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "individual-servings",
+    "jamaican-cuisine",
+    "pork-recipes",
+    "satvik-friendly",
+    "stone-bowl-dolsot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "nutty-roasted-jamaican-pork-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-roasted-jamaican-pork-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:20:00Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "pul biber",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pork",
+    "descriptor": "Nutty Roasted",
+    "dishForm": "Hash"
+  }
+}
