@@ -1,0 +1,99 @@
+{
+  "title": "Naturally Peppery Australian Lamb Skewers",
+  "description": "A festive Australian dish featuring coriander leaves and score-fat lamb, perfect for a dairy-free friendly meal. The peppery flavor and springy texture make it a great option for any occasion.",
+  "cuisine": "Australian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "scored with fat"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tablespoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, aiming for an internal temperature of 165 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, black pepper, and paprika.",
+    "Add the chopped coriander leaves to the bowl and stir to combine.",
+    "Thread the scored lamb shoulder onto skewers, leaving a small space between each piece.",
+    "Brush the lamb skewers with the marinade, making sure they are fully coated.",
+    "Grill the lamb skewers for 10-12 minutes, turning occasionally, until they reach the desired level of doneness.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the lamb skewers on a lazy-susan-spinner, garnished with additional coriander leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "dairy-free",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "naturally-peppery-australian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-peppery-australian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:07:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "score-fat",
+    "primaryIngredient": "coriander leaves",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "naturally peppery",
+    "dishForm": "Skewers"
+  }
+}
