@@ -1,0 +1,103 @@
+{
+  "title": "Nostalgic Sweet Chinese Kippers Tagine",
+  "description": "A sweet and dense Chinese-inspired dish featuring kippers, deep-fried in agemono style, and cooked in a tagine pot, lacto-vegetarian friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kippers",
+      "amount": "12 oz",
+      "notes": "canned, drained, and flaked"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Deep-fry the flaked kippers in agemono style until golden brown and crispy.",
+    "Remove the kippers from the oil and set aside on a paper towel-lined plate.",
+    "In the same oil, fry the chopped onion until translucent and starting to brown.",
+    "Add the minced garlic and grated ginger to the oil and fry for an additional minute.",
+    "In a tagine pot, combine the fried onion mixture, soy sauce, honey, sesame oil, salt, and black pepper.",
+    "Add the deep-fried kippers to the tagine pot and stir to combine.",
+    "Cover the tagine pot and cook over low heat for 20 minutes.",
+    "Serve the nostalgic sweet Chinese kippers tagine hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-inspired",
+    "deep-fried",
+    "lacto-vegetarian",
+    "one-pot",
+    "seafood",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "nostalgic-sweet-chinese-kippers-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-sweet-chinese-kippers-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:58:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "kippers",
+    "diet": "lacto-vegetarian",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "kippers",
+    "descriptor": "Nostalgic sweet",
+    "dishForm": "Tagine"
+  }
+}
