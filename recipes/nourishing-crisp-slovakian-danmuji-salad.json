@@ -1,0 +1,100 @@
+{
+  "title": "Nourishing Crisp Slovakian Danmuji Salad",
+  "description": "A refreshing Slovakian salad featuring danmuji, katsuramuki-cut vegetables, and a low-carb friendly dressing, perfect for a light and energizing meal. This dish is made with grassy and crisp ingredients to provide a boost of energy.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "danmuji",
+      "amount": "1 cup",
+      "notes": "Korean pickled radish"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "Katsuramuki-cut"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "Katsuramuki-cut"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "Katsuramuki-cut"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "Katsuramuki-cut"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the katsuramuki-cut cucumber, carrots, red bell pepper, and celery.",
+    "In a small bowl, whisk together the apple cider vinegar, olive oil, salt, and black pepper to make the dressing.",
+    "Add the danmuji to the bowl with the vegetables and toss to combine.",
+    "Pour the dressing over the salad and toss to coat.",
+    "Chill the salad in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good toss to redistribute the dressing.",
+    "Serve the salad cold, garnished with additional danmuji if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "gluten-free",
+    "low-carb",
+    "refreshing",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "nourishing-crisp-slovakian-danmuji-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-crisp-slovakian-danmuji-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:57:58Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "danmuji",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "danmuji",
+    "descriptor": "Nourishing crisp",
+    "dishForm": "Salad"
+  }
+}
