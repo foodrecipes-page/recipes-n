@@ -1,0 +1,96 @@
+{
+  "title": "Nutty Syrian Fish Flatbread",
+  "description": "A crunchy and cultured Syrian dish featuring fish sauce and double rise bread, perfect for kids and gluten free friendly, cooked in a kazan cauldron.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup",
+      "notes": "nam pla"
+    },
+    {
+      "name": "double rise bread",
+      "amount": "1 loaf",
+      "notes": "gluten free friendly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the kazan cauldron over medium heat.",
+    "Mix the fish sauce, olive oil, chopped onion, minced garlic, salt, and black pepper in a bowl.",
+    "Add the chopped walnuts to the bowl and stir well.",
+    "Slice the double rise bread into 1 inch thick rounds.",
+    "Brush the mixture from the bowl onto each bread round.",
+    "Place the bread rounds in the preheated kazan cauldron.",
+    "Cook for 5 minutes on each side or until crispy and golden brown.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "lunch-ideas",
+    "one-pan",
+    "pescatarian",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nutty-syrian-fish-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-syrian-fish-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:30:19Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "fish",
+    "descriptor": "Nutty Crunchy",
+    "dishForm": "Flatbread"
+  }
+}
