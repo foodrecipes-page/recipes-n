@@ -212,6 +212,21 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-crisp-turkish-beef-doner-kebab",
+    "title": "Naturally Crisp Turkish Beef Doner Kebab",
+    "tags": [
+      "beef-recipes",
+      "gluten-free",
+      "kebab-recipes",
+      "middle-eastern",
+      "sugar-free",
+      "turkish-food"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-crisp-uruguayan-fish-ceviche",
     "title": "Naturally Crisp Uruguayan Fish Ceviche",
     "tags": [
