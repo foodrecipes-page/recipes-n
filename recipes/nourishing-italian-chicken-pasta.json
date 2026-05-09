@@ -1,0 +1,102 @@
+{
+  "title": "Nourishing Italian Chicken Pasta",
+  "description": "A bitter, fluffy, and energizing Italian dish featuring honey and anti-inflammatory friendly ingredients, this recipe is perfect for a healthy dinner option. The brine-wet chicken adds moisture and flavor to the dish.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "brine-wet"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "whole wheat pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "anti-inflammatory"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "dandelion greens",
+      "amount": "2 cups",
+      "notes": "bitter flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the whole wheat pasta according to package instructions.",
+    "In a small bowl, whisk together honey, olive oil, turmeric, salt, and black pepper to make the sauce.",
+    "In a large skillet, heat the sauce over medium heat and add the brine-wet chicken breast, cooking until browned on both sides and cooked through.",
+    "Add the garlic and dandelion greens to the skillet and cook until the greens are wilted.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the sauce and chicken.",
+    "Serve the pasta hot, topped with grated parmesan cheese.",
+    "Garnish with additional dandelion greens if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy-dinner",
+    "high-protein",
+    "italian-food",
+    "low-sodium",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nourishing-italian-chicken-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-italian-chicken-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:33:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "brine-wet",
+    "primaryIngredient": "honey",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "nourishing fluffy",
+    "dishForm": "Pasta"
+  }
+}
