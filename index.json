@@ -862,6 +862,21 @@
     "shard": "n"
   },
   {
+    "slug": "naturally-sweet-french-apple-skillet",
+    "title": "Naturally Sweet French Apple Skillet",
+    "tags": [
+      "cast-iron",
+      "dessert",
+      "fodmap-friendly",
+      "french",
+      "gluten-free",
+      "one-pan"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
     "slug": "naturally-sweet-peruvian-sweet-potato-picarones",
     "title": "Peruvian Sweet Potato Picarones",
     "tags": [
@@ -6300,6 +6315,21 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-slovakian-clams-pilaf",
+    "title": "Nourishing Slovakian Clams Pilaf",
+    "tags": [
+      "gluten-free",
+      "keto-friendly",
+      "low-carb",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
