@@ -1,0 +1,95 @@
+{
+  "title": "Nourishing Bouncy Japanese Eggs Takoyaki",
+  "description": "A traditional Japanese street food featuring bouncy eggs and a delicate floral flavor, often served as a hangover cure in the Chugoku region. This recipe is FODMAP-friendly and features a unique egg wash and cure.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "fresh and room temperature"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "takoyaki flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "octopus",
+      "amount": "1/2 cup diced",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the takoyaki flour and dashi broth until smooth.",
+    "Add the eggs to the bowl and mix until well combined.",
+    "Stir in the diced octopus, chopped green onion, sesame oil, salt, and bonito flakes.",
+    "Heat a takoyaki pan over medium heat and brush with a small amount of sesame oil.",
+    "Using a spoon, drop small amounts of the egg mixture into the pan and cook until the bottoms are lightly browned.",
+    "Use a skewer to shape the eggs into balls and continue cooking until all sides are lightly browned.",
+    "Serve the takoyaki hot with additional bonito flakes and green onion if desired.",
+    "Repeat the cooking process until all of the egg mixture is used, adjusting the heat as needed to prevent burning.",
+    "Let the takoyaki cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "japanese-street-food",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "nourishing-bouncy-japanese-eggs-takoyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-bouncy-japanese-eggs-takoyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:50:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "cure",
+    "primaryIngredient": "egg wash",
+    "diet": "fodmap",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "eggs",
+    "descriptor": "Nourishing Bouncy",
+    "dishForm": "Takoyaki"
+  }
+}
