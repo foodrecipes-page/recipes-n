@@ -1,0 +1,104 @@
+{
+  "title": "Jamaican Rice Vermicelli Noodles",
+  "description": "A festive and flavorful Jamaican dish featuring rice vermicelli, deglaze-fond, and Jain-friendly ingredients, this recipe is perfect for a special occasion. It is a jammy and bouncy-qq dish that is sure to delight.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Vermicelli",
+      "amount": "8 oz",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Scotch Bonnet Pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add onion, garlic, and ginger and saute until the onion is translucent.",
+    "Add allspice, thyme, and scotch bonnet pepper and cook for 1 minute.",
+    "Add rice vermicelli and cook for 2 minutes, stirring constantly.",
+    "Add vegetable broth and soy sauce, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Remove the skillet from the heat and let it cool for 2 minutes.",
+    "Fluff the noodles with a fork and serve hot.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "jain-friendly",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nice-bouncy-jamaican-rice-vermicelli-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-bouncy-jamaican-rice-vermicelli-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:52:50Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "nice bouncy",
+    "dishForm": "Noodles"
+  }
+}
