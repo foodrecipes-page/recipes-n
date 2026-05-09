@@ -1,0 +1,104 @@
+{
+  "title": "Nutmeg Smoky Egyptian White Beans Tagine",
+  "description": "A smoky and festive Egyptian dish featuring dried white beans, flambe, and a dash of nutmeg, perfect for special occasions.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the soaked and drained white beans, ground cumin, smoked paprika, nutmeg, salt, and black pepper to the pot.",
+    "Pour in the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 45 minutes, or until the beans are tender.",
+    "Use a kitchen torch to flambe the top of the tagine, creating a smoky crust.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro.",
+    "Traditionally, the tagine is cooked in a clay pot with a conical lid, but a large pot will suffice.",
+    "To enhance the smoky flavor, you can add a few pieces of charcoal to the pot during the last 10 minutes of cooking."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "flambe",
+    "high-protein",
+    "one-pot",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "nutmeg-smoky-egyptian-white-beans-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutmeg-smoky-egyptian-white-beans-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:11:08Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "flambe",
+    "primaryIngredient": "dried white beans",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "white beans",
+    "descriptor": "Nutmeg Smoky",
+    "dishForm": "Tagine"
+  }
+}
