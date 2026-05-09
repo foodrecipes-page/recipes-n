@@ -3,7 +3,6 @@
   "description": "A peppery and molten solo dinner Chinese dish featuring vin santo and sous vide cooking, with a dash friendly approach.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -58,7 +57,8 @@
     "Remove the chicken from the sous vide bag and add to the saucepan with the sauce, tossing to coat.",
     "Add the cooked noodles to the saucepan and toss everything together until the noodles are well coated with the sauce and chicken.",
     "Transfer the noodles to a serving dish and garnish with chopped scallions and red pepper flakes if using.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -67,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "weeknight"

@@ -2,10 +2,7 @@
   "title": "Nice Umami Jamaican Fish Poke",
   "description": "A lazy Sunday Jamaican dish featuring sashimi-cut fish, grapefruit juice, and a creamy umami sauce, perfect for a relaxing meal. This egg-free friendly recipe is easy to make and packed with flavor.",
   "cuisine": "Jamaican",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -58,12 +55,10 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "dairy-free",
-    "gluten-free",
     "jamaican-cuisine",
     "one-bowl",
     "quick-meal",

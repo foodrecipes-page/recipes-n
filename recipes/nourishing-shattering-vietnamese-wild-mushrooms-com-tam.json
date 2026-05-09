@@ -2,10 +2,7 @@
   "title": "Nourishing Shattering Vietnamese Wild Mushrooms Com Tam",
   "description": "Savory Vietnamese dish featuring wild mushrooms and a festive ssam-wrap style, perfect for a Buddhist temple gathering. This dish is a delicious and nourishing option for a special occasion.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -69,8 +66,6 @@
     "buddhist-temple-friendly",
     "com-tam",
     "ssam-wrap",
-    "vegan",
-    "vegetarian",
     "vietnamese-cuisine",
     "wild-mushrooms"
   ],

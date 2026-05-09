@@ -2,10 +2,7 @@
   "title": "Nutty Malaysian Pork Tenderloin Satay",
   "description": "A cultured and bouncy Malaysian dish featuring pork tenderloin, ferment-kimchi, and satvik-friendly ingredients, perfect for crowds. This recipe combines the flavors of Malaysia with a twist of spicy kimchi.",
   "cuisine": "Malaysian",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {

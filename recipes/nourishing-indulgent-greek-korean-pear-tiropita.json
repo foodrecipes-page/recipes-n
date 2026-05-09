@@ -3,7 +3,6 @@
   "description": "A fermented, fluffy, and indulgent Greek dish featuring Korean pear and rest meat, also vegan friendly, in the form of a tiropita.",
   "cuisine": "Greek Korean",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -88,7 +87,7 @@
     "mood": "indulgent",
     "technique": "rest-meat",
     "primaryIngredient": "korean-pear",
-    "diet": "vegan",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Greek",
     "mainIngredient": "korean pear",

@@ -104,7 +104,7 @@
     "mood": "monsoon",
     "technique": "rest-meat",
     "primaryIngredient": "v sterbottensost cheese",
-    "diet": "dairy-free",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Mediterranean",
     "mainIngredient": "rest-meat",

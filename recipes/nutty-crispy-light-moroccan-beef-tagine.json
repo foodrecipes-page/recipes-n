@@ -3,7 +3,6 @@
   "description": "A low-glycemic-friendly, nutty, crispy, and light Moroccan dish featuring corned beef and long-fermentation-dough.",
   "cuisine": "Moroccan",
   "diet": [
-    "gluten-free",
     "low-glycemic"
   ],
   "meal": "lunch",
@@ -80,7 +79,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "low-glycemic",
     "moroccan",

@@ -3,7 +3,6 @@
   "description": "A traditional Japanese street food featuring bouncy eggs and a delicate floral flavor, often served as a hangover cure in the Chugoku region. This recipe is FODMAP-friendly and features a unique egg wash and cure.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "low-fodmap"
   ],
   "meal": "snack",
@@ -62,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "fodmap-friendly",
-    "gluten-free",
     "high-protein",
     "japanese-street-food",
     "low-carb",

@@ -2,9 +2,7 @@
   "title": "Nice Light Ethiopian Onion Kik Alicha",
   "description": "A floral and crumbly Ethiopian dish featuring chopped onion, this recipe is halal-friendly and perfect for a light meal, the kik alicha form makes it a unique and delicious experience.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -91,7 +89,7 @@
     "mood": "light",
     "technique": "grill",
     "primaryIngredient": "chopped onion",
-    "diet": "halal",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Ethiopian",
     "mainIngredient": "onion",

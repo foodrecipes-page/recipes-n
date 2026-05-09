@@ -3,8 +3,7 @@
   "description": "A smoky and bouncy Thai dish featuring horseradish, wood-fired baked to perfection, this low-calorie friendly kanom jeen is a romantic treat for any occasion. It combines the spiciness of horseradish with the creaminess of coconut milk.",
   "cuisine": "Thai",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,8 @@
     "Bake the kanom jeen in the wood-fired oven for 15 minutes, or until they are lightly browned.",
     "In a separate pan, combine the grated horseradish, coconut milk, fish balls, wood-fired baked chicken, Thai basil, lime juice, salt, and pepper.",
     "Bring the mixture to a boil, then reduce the heat and simmer for 5 minutes.",
-    "Serve the kanom jeen with the smoky horseradish sauce and garnish with additional Thai basil if desired."
+    "Serve the kanom jeen with the smoky horseradish sauce and garnish with additional Thai basil if desired.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -70,7 +70,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "low-calorie",
     "romantic-dinner",
     "spicy-food",

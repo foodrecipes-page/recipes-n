@@ -2,9 +2,7 @@
   "title": "Nourishing Juicy Korean Tofu Korean Fried Chicken",
   "description": "A spicy and juicy Korean dish featuring salted butter and katsuramuki-cut tofu, perfect for a lazy Sunday, this vegan-friendly recipe is a twist on traditional KFC-style Korean fried chicken, served on a lazy Susan spinner.",
   "cuisine": "Korean",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -68,7 +66,8 @@
     "Carefully add the coated tofu to the hot oil and fry until golden brown and crispy, about 5-7 minutes.",
     "Remove the fried tofu from the oil with a slotted spoon and place on a paper towel lined plate to drain excess oil.",
     "Garnish the fried tofu with sesame seeds, thinly sliced scallions, and a sprinkle of Korean chili flakes if desired.",
-    "Serve the Nourishing Juicy Korean Tofu Korean Fried Chicken on a lazy Susan spinner and enjoy."
+    "Serve the Nourishing Juicy Korean Tofu Korean Fried Chicken on a lazy Susan spinner and enjoy.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,

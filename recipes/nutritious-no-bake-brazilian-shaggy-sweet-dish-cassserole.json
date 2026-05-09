@@ -3,8 +3,7 @@
   "description": "a low-fat, festive brazillian dish featuring the warm, citrusy flavor of grand marnier and the subtle spiciness of bhuna, perfect for snacking or as a dessert",
   "cuisine": "brazilian",
   "diet": [
-    "low-fat",
-    "vegan"
+    "low-fat"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -58,7 +57,6 @@
     "high-fiber",
     "low-protein",
     "no-bake",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {

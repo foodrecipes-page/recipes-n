@@ -61,7 +61,7 @@
     "mood": "solo-dinner",
     "technique": "ferment",
     "primaryIngredient": "freekeh",
-    "diet": "nut-free",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Venezuelan",
     "mainIngredient": "Freekeh",

@@ -3,9 +3,6 @@
   "description": "A briny, pillowy post-workout Vietnamese dish featuring semolina-rimacinata, saute, high-protein-friendly, served in a hot-pot vessel.",
   "cuisine": "Vietnamese",
   "diet": [
-    "vegetarian",
-    "vegan",
-    "gluten-free",
     "low-carb"
   ],
   "meal": "snack",
@@ -71,7 +68,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "vegan-friendly",

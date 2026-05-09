@@ -3,8 +3,7 @@
   "description": "Savory and crispy Croatian dish featuring shirataki, marinated in a blend of herbs and spices, perfect for a nourishing dinner. This ayurvedic-rajasic-friendly dish is made with wholesome ingredients.",
   "cuisine": "Croatian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -64,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "crispy",
-    "gluten-free",
     "high-protein",
     "nourishing",
     "one-pan",
