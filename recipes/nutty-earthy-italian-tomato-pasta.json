@@ -1,0 +1,99 @@
+{
+  "title": "Nutty Earthy Italian Tomato Pasta",
+  "description": "A hearty and flavorful Italian dish featuring tomato juice, reduction, and crunchy nutty elements, suitable for gluten-free diets",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gluten-free pasta",
+      "amount": "12 oz",
+      "notes": "such as brown rice pasta or quinoa pasta"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "28 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the gluten-free pasta according to the package instructions until al dente",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic until fragrant",
+    "Add the chopped walnuts to the skillet and cook until lightly toasted and fragrant",
+    "Add the canned crushed tomatoes, dried basil, dried oregano, salt, and black pepper to the skillet and stir to combine",
+    "Reduce the heat to low and simmer the tomato sauce for 20 minutes, stirring occasionally, until the sauce has thickened and reduced slightly",
+    "Drain the cooked pasta and add it to the skillet with the tomato sauce, tossing to combine",
+    "Stir in the grated parmesan cheese until melted and well combined",
+    "Serve the pasta hot, garnished with additional chopped walnuts and parmesan cheese if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "gluten-free",
+    "italian-food",
+    "nutty-flavors",
+    "pasta-dishes",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-earthy-italian-tomato-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-earthy-italian-tomato-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:48:45Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "reduce",
+    "primaryIngredient": "tomato juice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Nutty earthy",
+    "dishForm": "Pasta"
+  }
+}
