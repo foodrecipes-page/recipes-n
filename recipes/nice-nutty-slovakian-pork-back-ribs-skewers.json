@@ -1,0 +1,96 @@
+{
+  "title": "Nice Nutty Slovakian Pork Back Ribs Skewers",
+  "description": "A festive Slovakian dish featuring pork back ribs with a resinous and crumbly texture, made with coconut cream crack and flexitarian friendly ingredients. This dish is perfect for special occasions and outdoor gatherings.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cracked black pepper",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut cream, cracked black pepper, garlic powder, smoked paprika, brown sugar, salt, and olive oil.",
+    "Add the pork back ribs to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated pork back ribs onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 20-25 minutes, turning occasionally, until the pork is cooked through and slightly charred.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve with additional coconut cream crack on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "outdoor",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nice-nutty-slovakian-pork-back-ribs-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-nutty-slovakian-pork-back-ribs-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:00:41Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "pork back ribs",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "Nice Nutty",
+    "dishForm": "Skewers"
+  }
+}

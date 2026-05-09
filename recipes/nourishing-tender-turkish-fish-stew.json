@@ -1,0 +1,103 @@
+{
+  "title": "Nourishing Turkish Fish Stew",
+  "description": "A hearty and comforting Turkish fish stew featuring tender fish and earthy flavors, perfect for a lazy Sunday. This dish is onion and garlic free, making it suitable for those with sensitivities.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14.5 oz",
+      "notes": "drained"
+    },
+    {
+      "name": "fish seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the sliced carrots and zucchini and cook until they start to soften, about 5 minutes.",
+    "Add the fish seasoning, paprika, salt, and black pepper, and stir to combine.",
+    "Add the diced tomatoes, cod fillets, and lemon juice to the pot.",
+    "Pour in enough water to cover the ingredients and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew simmer, covered, for 20 minutes, or until the fish is cooked through.",
+    "Serve the stew hot, garnished with fresh parsley or dill if desired.",
+    "Let the stew rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "fish-stew",
+    "lazy-sunday",
+    "one-pot",
+    "pescatarian-friendly",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "nourishing-tender-turkish-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-tender-turkish-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:00:56Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "simmer",
+    "primaryIngredient": "fish seasoning",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "fish",
+    "descriptor": "nourishing tender",
+    "dishForm": "Stew"
+  }
+}

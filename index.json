@@ -1672,6 +1672,22 @@
     "shard": "n"
   },
   {
+    "slug": "nice-nutty-slovakian-pork-back-ribs-skewers",
+    "title": "Nice Nutty Slovakian Pork Back Ribs Skewers",
+    "tags": [
+      "flexitarian",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "outdoor",
+      "special-occasion",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nice-quick-peruvian-beef-stew",
     "title": "Nice Quick Peruvian Beef Stew",
     "tags": [
@@ -7293,6 +7309,21 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-tender-turkish-fish-stew",
+    "title": "Nourishing Turkish Fish Stew",
+    "tags": [
+      "comfort-food",
+      "fish-stew",
+      "lazy-sunday",
+      "one-pot",
+      "pescatarian-friendly",
+      "turkish-cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
