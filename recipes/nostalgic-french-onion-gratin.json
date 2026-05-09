@@ -1,0 +1,95 @@
+{
+  "title": "Nostalgic French Onion Gratin",
+  "description": "A garlicky and flaky French dish featuring shio-koji, this recipe is perfect for those looking for a nostalgic and savory meal, it is also egg-free-friendly and can be made using a raclette-grill.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "3 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced onions and minced garlic and stir-fry until the onions are translucent.",
+    "Add the shio-koji to the bowl and stir-fry for an additional 2 minutes.",
+    "In a separate bowl, mix together the melted butter, shredded gruyere cheese, dried thyme, salt, and black pepper.",
+    "Add the cheese mixture to the onion mixture and stir until well combined.",
+    "Transfer the mixture to a raclette-grill vessel and cook for 20 minutes or until the top is golden brown.",
+    "Remove the gratin from the grill and let it cool for 5 minutes before serving.",
+    "Serve the Nostalgic French Onion Gratin hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "nostalgic-french-onion-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-french-onion-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:03:35Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "stir-fry",
+    "primaryIngredient": "shio-koji",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "onions",
+    "descriptor": "Nostalgic garlicky",
+    "dishForm": "Gratin"
+  }
+}
