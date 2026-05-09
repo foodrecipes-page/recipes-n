@@ -1,0 +1,95 @@
+{
+  "title": "Nutty Snappy Vietnamese Tempeh Skewers",
+  "description": "Fatty and snappy Vietnamese dish featuring tempeh, with a dairy-free friendly twist, made in a kadhai vessel.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce",
+      "notes": "dairy-free"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a kadhai vessel over medium-high heat.",
+    "Add the tempeh pieces and cook until golden brown, about 5 minutes.",
+    "In a small bowl, whisk together soy sauce, maple syrup, rice vinegar, and grated ginger.",
+    "Pour the sauce over the tempeh and cook for an additional 2 minutes.",
+    "Stir in the chopped peanuts and cook for 1 minute.",
+    "Melt the tempering chocolate in a double boiler or in the microwave in 10-second increments, stirring between each interval.",
+    "Thread the tempeh pieces onto skewers and drizzle with the melted chocolate.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional chopped peanuts if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "vietnamese-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "nutty-snappy-vietnamese-tempeh-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-snappy-vietnamese-tempeh-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:18:18Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "tempeh",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tempeh",
+    "descriptor": "Nutty Snappy",
+    "dishForm": "Skewers"
+  }
+}
