@@ -1,0 +1,93 @@
+{
+  "title": "Nice Nutty Dutch Beef Skewers",
+  "description": "Sweet and juicy Dutch dish featuring ground nut oil, perfect for a date night, and sugar-free friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "ground nut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef, chopped onion, minced garlic, salt, black pepper, and paprika, mixing well with your hands until just combined.",
+    "Thread small balls of the beef mixture onto the bamboo skewers, leaving a small space between each ball.",
+    "Brush the skewers with ground nut oil on all sides.",
+    "Place the skewers on the grill and cook for 8-10 minutes, turning occasionally, until the beef is cooked through and slightly charred.",
+    "Remove the skewers from the grill and let rest for 2-3 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "date-night",
+    "dutch-cuisine",
+    "grilled-meats",
+    "special-occasion",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 4,
+    "fat": 22
+  },
+  "slug": "nice-nutty-dutch-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-nutty-dutch-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:42:49Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "ground nut oil",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "Nice Nutty",
+    "dishForm": "Skewers"
+  }
+}
