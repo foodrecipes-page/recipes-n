@@ -1,0 +1,99 @@
+{
+  "title": "Nutty Kenyan Cookie Cookies",
+  "description": "A festive Kenyan dish featuring cookies with a resinous and bouncy texture, perfect for a Mediterranean-friendly snack. These cookies are made with a combination of nuts and dry ingredients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the flour, baking soda, and salt.",
+    "In a large bowl, use an electric mixer to cream together the butter and sugars until light and fluffy.",
+    "Beat in the vanilla extract.",
+    "Gradually mix in the flour mixture until just combined.",
+    "Stir in the chopped walnuts and pecans.",
+    "Scoop tablespoon-sized balls of dough onto a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes.",
+    "Transfer the cookies to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 24,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "gluten-free",
+    "kenyan",
+    "mediterranean-friendly",
+    "nutty",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "nutty-kenyan-cookie-cookies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-kenyan-cookie-cookies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:01:17Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "brine-dry",
+    "primaryIngredient": "cookies",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cookies",
+    "descriptor": "Nutty Bouncy",
+    "dishForm": "Cookies"
+  }
+}
