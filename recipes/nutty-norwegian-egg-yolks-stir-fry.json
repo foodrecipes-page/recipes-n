@@ -1,0 +1,96 @@
+{
+  "title": "Nutty Norwegian egg yolks Stir-fry",
+  "description": "A light and earthy Norwegian dish featuring egg yolks and stir-fry, perfect for a gluten-free friendly meal. This dish is made with simple ingredients and can be prepared in no time.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg yolks",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the sliced onions and mushrooms in butter over medium heat until they are softened.",
+    "Add the chopped walnuts to the pan and cook for 1 minute.",
+    "Push the onion and mushroom mixture to one side of the pan.",
+    "Add a little more butter to the empty side of the pan if necessary, then pour in the egg yolks.",
+    "Scramble the egg yolks until they are cooked through, breaking them up into small pieces as they cook.",
+    "Mix the egg yolks with the onion and mushroom mixture.",
+    "Season with salt and black pepper to taste.",
+    "Stir in the chopped parsley.",
+    "Serve the stir-fry hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-dish",
+    "gluten-free",
+    "healthy",
+    "norwegian",
+    "quick-meal",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "nutty-norwegian-egg-yolks-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-norwegian-egg-yolks-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:10:39Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "egg yolks",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "egg yolks",
+    "descriptor": "Nutty",
+    "dishForm": "Stir-fry"
+  }
+}
