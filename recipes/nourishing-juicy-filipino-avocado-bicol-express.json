@@ -1,0 +1,104 @@
+{
+  "title": "Nourishing Juicy Filipino Avocado Bicol Express",
+  "description": "A jammy, juicy, midnight-craving Filipino dish featuring avocado and ferment-kimchi, made in a copper mug.",
+  "cuisine": "Filipino",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "2 ripe",
+      "notes": "diced"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bicol express paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine coconut milk, bicol express paste, salt, black pepper, and blend until smooth.",
+    "Heat the blended mixture in a saucepan over medium heat, stirring constantly, until it thickens.",
+    "Add the chopped ferment-kimchi, sliced green chili, and minced garlic to the saucepan and stir well.",
+    "Add the diced avocado to the saucepan and stir gently to combine.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally, until the avocado is heated through.",
+    "Stir in the chopped onion and lemon juice.",
+    "Transfer the mixture to a copper mug.",
+    "Serve hot, garnished with additional sliced green chili if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "avocado-recipes",
+    "copper-cooking",
+    "filipino-food",
+    "kimchi-lovers",
+    "midnight-munchies",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "nourishing-juicy-filipino-avocado-bicol-express",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-juicy-filipino-avocado-bicol-express",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:37:29Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "avocado",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "avocado",
+    "descriptor": "Nourishing Juicy",
+    "dishForm": "Bicol Express"
+  }
+}
