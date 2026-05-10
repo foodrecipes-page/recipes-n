@@ -1,0 +1,105 @@
+{
+  "title": "Nourishing Silky Saudi Arabian Lamb Kebabs",
+  "description": "A festive Saudi Arabian dish featuring lamb kebabs with a yeasty and silky texture, served with a spicy chilli sauce and a sweet glaze, suitable for satvik friendly diets.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "non-fat"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "chilli sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, lemon juice, garlic, ginger, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and mix well to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Brush the grill or grill pan with olive oil to prevent sticking.",
+    "Grill the lamb kebabs for 8-10 minutes, turning occasionally, until cooked through.",
+    "In a small bowl, mix together chilli sauce and honey to make the glaze.",
+    "Brush the glaze over the lamb kebabs during the last minute of grilling.",
+    "Serve the lamb kebabs hot with additional chilli sauce on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "middle-eastern",
+    "spicy",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "nourishing-silky-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-silky-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:36:04Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "glaze",
+    "primaryIngredient": "chilli sauce",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Nourishing Silky",
+    "dishForm": "Kebabs"
+  }
+}
