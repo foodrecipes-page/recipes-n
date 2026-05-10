@@ -1,0 +1,96 @@
+{
+  "title": "Nutty Smoky Polish Egg Skillet",
+  "description": "A smoky and gooey Polish-inspired brunch dish featuring natural yoghurt and a rich deglaze, perfect for a low-sodium diet. This recipe combines the flavors of Poland with a twist of nutty goodness.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "natural yoghurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "low-sodium sausage",
+      "amount": "1/2 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Cook the sausage in a large skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Add the diced onion to the skillet and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the smoked paprika to the skillet and stir to combine.",
+    "Push the sausage and onion mixture to one side of the skillet, then crack in the eggs and scramble them until they are cooked through.",
+    "Mix the eggs with the sausage and onion mixture, then stir in the chopped walnuts and shredded cheese.",
+    "Reduce heat to low and let the cheese melt and the mixture simmer for 2 minutes.",
+    "Stir in the natural yoghurt and let the mixture simmer for an additional minute, until heated through.",
+    "Use a spatula to deglaze the bottom of the skillet, scraping up any browned bits.",
+    "Serve the Nutty Smoky Polish Egg Skillet hot, garnished with additional chopped walnuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "low-sodium",
+    "one-pan",
+    "polish-cuisine",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "nutty-smoky-polish-egg-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-smoky-polish-egg-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:13:07Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "eggs",
+    "descriptor": "Nutty Smoky",
+    "dishForm": "Skillet"
+  }
+}
