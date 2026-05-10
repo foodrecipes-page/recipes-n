@@ -1,0 +1,92 @@
+{
+  "title": "Naturally Roasted Dutch Ricotta Casserole",
+  "description": "A roasted, pillowy, adventurous Dutch dish featuring ricotta, nuka-pickle, and low-sodium-friendly ingredients, perfect for a weeknight dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "1 1/2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "shredded carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ricotta cheese, nuka-pickle, egg, shredded carrot, diced onion, and dried thyme, and mix well.",
+    "In a separate bowl, whisk together the low-sodium chicken broth and olive oil.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
+    "Bake for 35 minutes, or until the casserole is set and lightly golden brown.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "gluten-free",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "naturally-roasted-dutch-ricotta-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-roasted-dutch-ricotta-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:18:57Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "ricotta",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "ricotta",
+    "descriptor": "naturally roasted",
+    "dishForm": "Casserole"
+  }
+}
