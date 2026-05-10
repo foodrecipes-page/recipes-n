@@ -1,0 +1,100 @@
+{
+  "title": "Naturally Crisp Egyptian Rhubarb Bowl",
+  "description": "A grassy and crisp Egyptian dish featuring forced-rhubarb, perfect for a date night, served in a stone bowl dolsot, and is FODMAP friendly.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Forced rhubarb",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garlic-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Stone bowl dolsot",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the forced rhubarb into 1-inch pieces and place them on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the rhubarb and sprinkle with salt, black pepper, and garlic-free seasoning blend.",
+    "Roast the rhubarb in the preheated oven for 20 minutes, or until it is tender and lightly caramelized.",
+    "While the rhubarb is roasting, prepare the stone bowl dolsot by heating it in the oven for 5 minutes.",
+    "Remove the rhubarb from the oven and stir in the chopped parsley and mint.",
+    "Squeeze the lemon juice over the rhubarb and toss to combine.",
+    "Carefully place the roasted rhubarb into the heated stone bowl dolsot.",
+    "Serve the rhubarb immediately, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "egyptian-cuisine",
+    "gluten-free",
+    "healthy-dinner",
+    "low-fodmap",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "naturally-crisp-egyptian-rhubarb-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-crisp-egyptian-rhubarb-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:33:51Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Naturally crisp",
+    "dishForm": "Bowl"
+  }
+}
