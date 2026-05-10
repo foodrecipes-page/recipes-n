@@ -1,0 +1,94 @@
+{
+  "title": "Nighttime Crunchy Malaysian Noodle Fried Rice",
+  "description": "A midnight-craving Malaysian dish featuring umami and bouncy noodles, made with vegetable oil and raw-friendly ingredients. This dish is perfect for satisfying late-night cravings.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 cup",
+      "notes": "preferably rice noodles"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup",
+      "notes": "e.g. carrots, peas, corn"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the noodles and stir-fry for 2-3 minutes, until they start to brown.",
+    "Add the mixed vegetables and scallions, and stir-fry for another 2 minutes.",
+    "In a small bowl, whisk together the soy sauce, oyster sauce, salt, and pepper.",
+    "Pour the sauce mixture over the noodles and vegetables, and stir-fry for 1 minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the fried rice to a serving platter and serve immediately.",
+    "Garnish with additional scallions and soy sauce, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian-cuisine",
+    "midnight-cravings",
+    "noodle-dishes",
+    "quick-and-easy",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "nighttime-crunchy-malaysian-noodle-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nighttime-crunchy-malaysian-noodle-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:05:09Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "vegetable oil",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "noodles",
+    "descriptor": "nighttime crunchy",
+    "dishForm": "Fried-Rice"
+  }
+}
