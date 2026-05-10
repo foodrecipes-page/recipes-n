@@ -1,0 +1,114 @@
+{
+  "title": "Nutty Zesty Korean Kimchi Mandu Jjigae",
+  "description": "A kid-friendly, nutty, and chewy Korean dish featuring parmesan cheese, with a sattvic twist. Perfect for a weeknight dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kimchi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mandu wrappers (homemade or store-bought)",
+      "amount": "12-15 wrappers"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Zucchini, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots, peeled and grated",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Parsley, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Parmesan cheese, grated",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a robata grill or a regular grill to medium heat.",
+    "In a large pan, heat 1 tablespoon of vegetable oil over medium heat.",
+    "Add the garlic and ginger and sauté for 1 minute.",
+    "Add the gochujang and soy sauce and stir to combine.",
+    "Add the zucchini and carrots and cook for 3-4 minutes.",
+    "Add the kimchi and stir to combine.",
+    "In a small bowl, mix the brown sugar and 1 tablespoon of water to create a paste.",
+    "Add the brown sugar paste to the pan and stir to combine.",
+    "Place a mandu wrapper on a flat surface and spoon some of the kimchi mixture onto the center of the wrapper.",
+    "Add a sprinkle of parmesan cheese on top of the kimchi mixture.",
+    "Fold the wrapper over the filling to form a half-moon shape and press the edges together to seal.",
+    "Repeat with the remaining wrappers and filling.",
+    "Brush the tops of the mandu with the remaining 1 tablespoon of vegetable oil and place them on the preheated grill or pan.",
+    "Cook the mandu for 2-3 minutes on each side, until golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jjigae",
+    "korean",
+    "mandu",
+    "one-pan",
+    "sattvic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "nutty-zesty-korean-kimchi-mandu-jjigae",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-zesty-korean-kimchi-mandu-jjigae",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T00:52:28Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "robata-grill",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Kimchi",
+    "descriptor": "Nutty, Zesty",
+    "dishForm": "Mandu Jjigae"
+  }
+}
