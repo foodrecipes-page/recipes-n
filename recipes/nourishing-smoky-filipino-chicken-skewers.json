@@ -1,0 +1,109 @@
+{
+  "title": "Nourishing Smoky Filipino Chicken Skewers",
+  "description": "Smoky and juicy chicken skewers with a hint of Filipino flavors, featuring frozen peas and a high-protein friendly recipe, perfect for a quick and easy dinner",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "packed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit",
+    "In a large bowl, whisk together coconut milk, soy sauce, fish sauce, brown sugar, smoked paprika, garlic powder, salt, and black pepper",
+    "Add the chicken to the bowl and toss to coat with the marinade",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through",
+    "While the chicken is cooking, heat a tablespoon of oil in a small saucepan over medium heat",
+    "Add the thawed peas to the saucepan and cook, stirring occasionally, until they are tender and lightly browned",
+    "Serve the grilled chicken skewers with the cooked peas and a side of steamed rice, if desired",
+    "Garnish with chopped green onions and a sprinkle of toasted sesame seeds, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-inspired",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "nourishing-smoky-filipino-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-filipino-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:45:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "emulsify",
+    "primaryIngredient": "frozen peas",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Skewers"
+  }
+}

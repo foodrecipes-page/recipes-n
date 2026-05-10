@@ -7467,6 +7467,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-smoky-filipino-chicken-skewers",
+    "title": "Nourishing Smoky Filipino Chicken Skewers",
+    "tags": [
+      "filipino-inspired",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-smoky-filipino-duck-confit",
     "title": "Nourishing Smoky Filipino Duck Confit",
     "tags": [
@@ -10237,6 +10251,21 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 60,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-roasted-venezuelan-seafood-grill",
+    "title": "Venezuelan Seafood Grill",
+    "tags": [
+      "grill",
+      "latin-american",
+      "one-pan",
+      "seafood",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {

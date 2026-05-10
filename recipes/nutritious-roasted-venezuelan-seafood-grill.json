@@ -1,0 +1,109 @@
+{
+  "title": "Venezuelan Seafood Grill",
+  "description": "A roasted and indulgent Venezuelan dish featuring seafood stock and a variety of seafood, vegan-friendly options available, this recipe is a molten and savory delight.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mussels",
+      "amount": "2 pounds",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "clams",
+      "amount": "1 pound",
+      "notes": "scrubbed"
+    },
+    {
+      "name": "seafood stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "In a large bowl, combine shrimp, mussels, clams, garlic, onion, bell pepper, and tomato.",
+    "Drizzle olive oil over the seafood mixture and toss to coat.",
+    "Pour seafood stock into a small bowl and brush onto the grill grates.",
+    "Add the seafood mixture to the grill and cook for 10 minutes.",
+    "Stir the seafood mixture and continue cooking for an additional 10 minutes.",
+    "Season with smoked paprika, if using.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "latin-american",
+    "one-pan",
+    "seafood",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "nutritious-roasted-venezuelan-seafood-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-roasted-venezuelan-seafood-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:45:37Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "seafood stock",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "seafood",
+    "descriptor": "Nutritious roasted",
+    "dishForm": "Grill"
+  }
+}
