@@ -1,0 +1,107 @@
+{
+  "title": "Nutty Earthy Italian Shrimp Lasagna",
+  "description": "This dish is an earthy and romantic Italian lasagna featuring shrimp paste and kapi, with a nutty flavor, diabetic friendly and made in the style of Emilia-Romagna cuisine, it has a smoky wok hei flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp paste",
+      "amount": "1/2 cup",
+      "notes": "kapi style"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8 sheets"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a wok, heat the olive oil and add the garlic, mushrooms, and spinach, stir frying until the vegetables are tender.",
+    "Add the shrimp paste to the wok and stir fry for 1 minute.",
+    "In a large bowl, combine the cooked noodles, shrimp paste mixture, and almond flour.",
+    "In a greased 9x13 inch baking dish, create a thin layer of the noodle mixture.",
+    "Top the noodle layer with a layer of parmesan cheese.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Bake the lasagna in the preheated oven for 30 minutes.",
+    "Let the lasagna rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "emilia-romagna",
+    "italian-food",
+    "lasagna",
+    "low-carb",
+    "seafood",
+    "wok-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "nutty-earthy-italian-shrimp-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-earthy-italian-shrimp-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:16:46Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "wok-hei",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "diabetic-friendly",
+    "region": "emilia-romagna",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Nutty Earthy",
+    "dishForm": "Lasagna"
+  }
+}
