@@ -1,0 +1,96 @@
+{
+  "title": "Nutty Rich Indian Lamb Curry",
+  "description": "A rich and dense Indian lamb curry featuring worcestershire sauce and kombu-cold-extract, with a light and flavorful Rajasthani twist, low in sodium.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "low-fat"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the worcestershire sauce, kombu-cold-extract, and curry powder, and stir to combine.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, until the lamb is tender, about 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "lamb-recipes",
+    "low-sodium",
+    "one-pot",
+    "rich-and-creamy",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nutty-rich-indian-lamb-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-rich-indian-lamb-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:23:09Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "low-sodium",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "Nutty Rich",
+    "dishForm": "Curry"
+  }
+}
