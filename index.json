@@ -9423,6 +9423,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutrient-rich-malaysian-tagliatelle-pasta",
+    "title": "nutrient-rich malaysian tagliatelle pasta",
+    "tags": [
+      "high-protein",
+      "malaysian-cuisine",
+      "one-pan",
+      "post-workout",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 23,
+    "shard": "n"
+  },
+  {
     "slug": "nutrient-rich-saudi-arabian-celery-grill",
     "title": "Saudi-Arabian Celery Grill",
     "tags": [
@@ -16567,6 +16582,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-venezuelan-white-navy-bean-stew",
+    "title": "Nutty Venezuelan White Navy Bean Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pot",
+      "post-workout",
+      "vegan-friendly"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 70,
     "shard": "n"
   },
   {

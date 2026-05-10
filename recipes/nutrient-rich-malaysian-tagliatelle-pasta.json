@@ -1,0 +1,94 @@
+{
+  "title": "nutrient-rich malaysian tagliatelle pasta",
+  "description": "a fresh, shaggy post-workout malaysian dish made with dashi-extract and featuring tagliatelle a favorite at local buddhist temples",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tagliatelle pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "cook the tagliatelle pasta according to the package instructions until al dente, then drain and set aside",
+    "in a large skillet heat the ghee over medium heat",
+    "add the toasted coconut flakes and cook stirring occasionally for 2-3 minutes until lightly browned",
+    "add the toasted sesame oil, soy sauce, honey, and ground ginger to the skillet and stir to combine",
+    "add the cooked tagliatelle pasta to the skillet and toss with the coconut and spice mixture",
+    "stir in the dashi extract and chopped scallions",
+    "season with salt and pepper to taste",
+    "serve the pasta hot garnished with additional toasted coconut flakes if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "malaysian-cuisine",
+    "one-pan",
+    "post-workout",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 55,
+    "fat": 18
+  },
+  "slug": "nutrient-rich-malaysian-tagliatelle-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutrient-rich-malaysian-tagliatelle-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T05:25:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "dashi-extract",
+    "primaryIngredient": "tagliatelle",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Tagliatelle",
+    "descriptor": "Nutrient-Rich",
+    "dishForm": "Pasta"
+  }
+}
