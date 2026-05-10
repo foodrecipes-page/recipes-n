@@ -1,0 +1,94 @@
+{
+  "title": "Nourishing Ethiopian Lentil Gratin",
+  "description": "A hearty, crowd-pleasing Ethiopian dish featuring mustardy flavors and fromage frais, with an al-dente finish, served in individual mini cocottes.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "fromage frais",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, bring the water to a boil and add the lentils, reducing heat to a simmer.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the mustard seeds to the skillet and cook for 1 minute, stirring constantly.",
+    "Stir the fromage frais into the skillet and cook until heated through.",
+    "Add the cooked lentils, salt-free seasoning blend, and skillet mixture to a large bowl and stir to combine.",
+    "Divide the lentil mixture among individual mini cocottes.",
+    "Bake the gratin in the preheated oven for 20 minutes, or until lightly browned and set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "gratin",
+    "lentil-recipes",
+    "low-sodium",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "nourishing-ethiopian-lentil-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-ethiopian-lentil-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:21:36Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "fromage frais",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Nourishing Al Dente",
+    "dishForm": "Gratin"
+  }
+}
