@@ -1,0 +1,110 @@
+{
+  "title": "Nighttime Nibbled Kenyan Rye Bread Flatbread",
+  "description": "A delicious and easy to make flatbread featuring Kenyan rye bread and a hint of spices, perfect for snacking at midnight.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye bread, day-old, cut into 1-inch cubes",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro, chopped (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a mortar and pestle, pound the chopped onion, garlic, and ginger until well combined.",
+    "Add the cumin, coriander, salt, and black pepper to the mortar and pestle, and pound until well combined.",
+    "Add the cubed rye bread to the mortar and pestle, and pound until the bread is well coated with the spice mixture.",
+    "Add the ghee or vegetable oil to the skillet or griddle, and swirl it around to coat the surface.",
+    "Add the bread mixture to the skillet or griddle, and cook for 2-3 minutes on each side, until the bread is golden brown and crispy.",
+    "Repeat with the remaining bread mixture, until all the bread is cooked.",
+    "Serve the flatbread hot, garnished with chopped fresh cilantro if desired.",
+    "Enjoy your delicious Nighttime Nibbled Kenyan Rye Bread Flatbread!",
+    "Store any leftover flatbread in an airtight container at room temperature for up to 24 hours."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "flatbread",
+    "kenyan",
+    "rye-bread",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "nighttime-nibbled-kenyan-rye-bread-flatbread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nighttime-nibbled-kenyan-rye-bread-flatbread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T01:54:31Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "rye bread",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "rye bread",
+    "descriptor": "Nighttime Nibbled",
+    "dishForm": "Flatbread"
+  }
+}
