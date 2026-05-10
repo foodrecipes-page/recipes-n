@@ -1,0 +1,109 @@
+{
+  "title": "Nourishing Silky Algerian Vegetable Tagine",
+  "description": "A herbal and silky Algerian dish featuring vegan white wine vinegar, perfect for a sick day, and a low-carb friendly option, all wrapped up in a ti-leaf vessel.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "cold-pressed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegan white wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Wrap the ti leaves around a large bowl to create a vessel for the tagine.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the chopped carrots and zucchini to the skillet and cook until they are tender.",
+    "Add the vegan white wine vinegar, salt, and black pepper to the skillet and stir to combine.",
+    "Remove the skillet from the heat and let it cool slightly.",
+    "Shock the mixture in an ice bath to stop the cooking process and give it a silky texture.",
+    "Stir in the chopped fresh parsley.",
+    "Serve the tagine in the ti-leaf vessel and enjoy.",
+    "Discard the ti leaves after serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "comfort-food",
+    "healthy",
+    "low-carb",
+    "one-pot",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "nourishing-silky-algerian-vegetable-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-silky-algerian-vegetable-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:45:56Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Nourishing Silky",
+    "dishForm": "Tagine"
+  }
+}
