@@ -2396,6 +2396,21 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-crisp-mexican-chicken-tacos",
+    "title": "Nimble Crisp Mexican Chicken Tacos",
+    "tags": [
+      "chicken-recipes",
+      "gluten-free",
+      "low-calorie",
+      "mason-jar-meals",
+      "mexican-food",
+      "weeknight-dinners"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-croatian-cod-broth",
     "title": "Nimble Croatian Cod Broth",
     "tags": [
