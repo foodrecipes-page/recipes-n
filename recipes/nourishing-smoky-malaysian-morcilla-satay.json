@@ -1,0 +1,91 @@
+{
+  "title": "Nourishing Smoky Malaysian Morcilla Satay",
+  "description": "A Malaysian dish featuring morcilla, smoky and earthy flavors, perfect for midnight cravings. It combines the richness of morcilla with the freshness of raw ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "1 pound",
+      "notes": "Spanish blood sausage"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 piece"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Slice the morcilla into 1-inch pieces and set aside.",
+    "In a blender, combine coconut milk, lemongrass, galangal, lime juice, salt, and black pepper, and blend until smooth.",
+    "Thread the morcilla pieces onto skewers, leaving a small space between each piece.",
+    "Brush the peanut oil onto the morcilla pieces.",
+    "Grill the satay for 5-7 minutes per side, or until cooked through.",
+    "Serve the satay hot with the coconut milk sauce for dipping.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "malaysian-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-smoky-malaysian-morcilla-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-malaysian-morcilla-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:28:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "grill",
+    "primaryIngredient": "morcilla",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "morcilla",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Satay"
+  }
+}
