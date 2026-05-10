@@ -1,0 +1,104 @@
+{
+  "title": "Nourishing Smoky Moroccan Chickpeas Tagine",
+  "description": "A smoky and fluffy Moroccan dish featuring chickpeas and peppercorns, perfect for a midnight craving, served in a lacquerware bowl. This jain-friendly recipe is a delightful combination of flavors and textures.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1/2 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "date syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Stir in the ground cumin, smoked paprika, and black peppercorns, and cook for 1 minute.",
+    "Add the chickpeas, date syrup, lemon juice, and salt, and stir to combine.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the flavors have melded together and the chickpeas are coated in a rich, smoky glaze.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the tagine to a lacquerware bowl and serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea-recipes",
+    "jain-friendly",
+    "moroccan-cuisine",
+    "one-pot-meals",
+    "smoky-flavors",
+    "vegan-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nourishing-smoky-moroccan-chickpeas-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-moroccan-chickpeas-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:55:15Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "glaze",
+    "primaryIngredient": "peppercorns",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Tagine"
+  }
+}
