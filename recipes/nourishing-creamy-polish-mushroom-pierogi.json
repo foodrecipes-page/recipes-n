@@ -1,0 +1,121 @@
+{
+  "title": "Nourishing Creamy Polish Mushroom Pierogi",
+  "description": "A pungent and creamy Polish dish featuring thyme and mushrooms, wrapped in pandan leaves for a romantic touch. This ayurvedic-sattvic-friendly recipe is perfect for a special occasion.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "mix of cremini and shiitake"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, melt butter over medium heat and saute onion and garlic until softened.",
+    "Add mushrooms and thyme to the skillet and cook until the mushrooms release their liquid and start to brown.",
+    "Deglaze the skillet with a little water and stir to loosen the fond.",
+    "In a large bowl, combine cooked potato, sour cream, and mushroom mixture, and mix well.",
+    "Add flour, egg, salt, and pepper to the bowl and mix until a dough forms.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk and place a tablespoon of the mushroom mixture in the center of each disk.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Wrap each pierogi in a pandan leaf and steam for 10 minutes.",
+    "Serve the pierogi hot with a dollop of sour cream and a sprinkle of thyme."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mushroom-based",
+    "pandan-wrapped",
+    "polish-cuisine",
+    "romantic-dinner",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nourishing-creamy-polish-mushroom-pierogi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-creamy-polish-mushroom-pierogi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:06:40Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "thyme",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "mushrooms",
+    "descriptor": "nourishing creamy",
+    "dishForm": "Pierogi"
+  }
+}
