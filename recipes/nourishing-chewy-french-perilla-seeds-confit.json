@@ -1,0 +1,103 @@
+{
+  "title": "Nourishing Chewy French Perilla Seeds Confit",
+  "description": "A hearty and comforting French dish from Brittany featuring perilla seeds, cooked in a clay pot with ayurvedic rajasic friendly ingredients, this confit is a perfect blend of mustardy and chewy textures. It is a cozy meal to warm up on a chilly day.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "perilla seeds",
+      "amount": "1 cup",
+      "notes": "also known as deulkkae"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Rinse the perilla seeds and soak them in water for 4 hours.",
+    "Drain and rinse the perilla seeds, then set them aside.",
+    "Heat the olive oil in a clay pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the mustard seeds, sea salt, and black pepper, and cook for 1 minute.",
+    "Add the soaked perilla seeds, water, and chopped parsley to the clay pot.",
+    "Cover the clay pot and transfer it to the preheated oven.",
+    "Cook the confit for 2 hours, or until the perilla seeds are chewy and the liquid has been absorbed.",
+    "Remove the clay pot from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "comfort-food",
+    "french-cuisine",
+    "gluten-free",
+    "one-pot",
+    "rajasic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nourishing-chewy-french-perilla-seeds-confit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-chewy-french-perilla-seeds-confit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:07:57Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "perilla-seed-deulkkae",
+    "diet": "ayurvedic-rajasic",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "perilla seeds",
+    "descriptor": "Nourishing Chewy",
+    "dishForm": "Confit"
+  }
+}
