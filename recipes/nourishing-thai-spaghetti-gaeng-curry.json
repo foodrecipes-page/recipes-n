@@ -1,0 +1,106 @@
+{
+  "title": "Nourishing Thai Spaghetti Gaeng Curry",
+  "description": "A fermented and shaggy Thai dish featuring spaghetti in a gaeng curry sauce, perfect for a brunch mood, this recipe is ayurvedic-rajasic-friendly and incorporates tempering chocolate for added depth of flavor.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "gaeng curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 oz"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fermented soybeans",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to the package instructions until it is al dente.",
+    "In a blender or food processor, combine the gaeng curry paste, coconut milk, fish sauce, brown sugar, and fermented soybeans, and blend until smooth.",
+    "In a large skillet, heat the vegetable oil over medium heat and add the blended curry sauce, stirring constantly.",
+    "Bring the curry sauce to a simmer and let cook for 5 minutes, stirring occasionally.",
+    "Melt the tempering chocolate in a double boiler or in the microwave in 10-second increments, stirring between each interval until smooth.",
+    "Stir the melted chocolate into the curry sauce and continue to simmer for another 2 minutes.",
+    "Drain the cooked spaghetti and add it to the curry sauce, tossing to combine.",
+    "Season the spaghetti with salt and black pepper to taste.",
+    "Garnish with chopped Thai basil and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-rajasic",
+    "brunch-ideas",
+    "gluten-free",
+    "one-pot",
+    "thai-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "nourishing-thai-spaghetti-gaeng-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-thai-spaghetti-gaeng-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:48:49Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "spaghetti",
+    "diet": "ayurvedic-rajasic",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "spaghetti",
+    "descriptor": "Nourishing",
+    "dishForm": "Gaeng Curry"
+  }
+}
