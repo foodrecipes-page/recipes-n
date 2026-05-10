@@ -1,0 +1,105 @@
+{
+  "title": "Nourishing Roasted Irish Duck Legs Tagine",
+  "description": "A romantic Irish dish featuring roasted duck legs cooked in a tagine with a glassy jelly sauce, suitable for a Jain-friendly diet.",
+  "cuisine": "Irish",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the duck legs with salt, black pepper, and tagine spice blend.",
+    "Heat the olive oil in a large oven-safe pot over medium-high heat.",
+    "Sear the duck legs until browned on all sides, then remove from pot.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for an additional minute.",
+    "Add the prunes, honey, apple cider vinegar, and browned duck legs to the pot.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Roast for 30 minutes, then reduce heat to 300 degrees Fahrenheit and continue roasting for an additional 20 minutes.",
+    "Remove the pot from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck-recipes",
+    "irish-cuisine",
+    "jain-friendly",
+    "one-pot-meal",
+    "romantic-dinner",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "nourishing-roasted-irish-duck-legs-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-roasted-irish-duck-legs-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:19:40Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "tagine-cook",
+    "primaryIngredient": "duck legs",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "duck legs",
+    "descriptor": "Nourishing Roasted",
+    "dishForm": "Tagine"
+  }
+}
