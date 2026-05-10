@@ -1,0 +1,98 @@
+{
+  "title": "Nutty Juicy Brazilian Chicken Pasta",
+  "description": "A paleo-friendly Brazilian dish featuring chicken, pasta, and a nutty emulsion sauce, perfect for a date night.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "pasta of choice",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "macadamia nuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "Reserve 1 cup of pasta water before draining the pasta.",
+    "In a large skillet, heat the coconut oil over medium high heat.",
+    "Add the chicken to the skillet and cook until browned on all sides and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the bay leaves to the skillet and cook for 1 minute.",
+    "Add the macadamia nuts to the skillet and cook for 2 minutes, or until fragrant.",
+    "Add the reserved pasta water to the skillet and stir to combine with the nuts and bay leaves.",
+    "Add the cooked pasta to the skillet and toss to combine with the nutty emulsion sauce.",
+    "Return the chicken to the skillet and toss to combine with the pasta and sauce.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "date-night",
+    "nutty-sauce",
+    "one-pan",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "nutty-juicy-brazilian-chicken-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-juicy-brazilian-chicken-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:39:26Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "bay leaf",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "nutty juicy",
+    "dishForm": "Pasta"
+  }
+}
