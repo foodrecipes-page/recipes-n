@@ -1,0 +1,97 @@
+{
+  "title": "Nourishing Smoky Irish Cod Pasta",
+  "description": "A smoky and creamy Irish dish featuring cod, apricot, and pasta, perfect for a date night, this pescatarian-friendly recipe is sure to impress. The combination of flavors and textures will leave you wanting more.",
+  "cuisine": "Irish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "6 ounces each"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the cod fillets with salt, black pepper, and smoked paprika.",
+    "Bake the cod in the oven for 12 minutes or until cooked through.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, combine the heavy cream, apricot jam, and grated parmesan.",
+    "Bring the cream mixture to a simmer over medium heat and let cook for 5 minutes or until slightly thickened.",
+    "Add the cooked pasta to the cream mixture and toss to combine.",
+    "Serve the pasta with the baked cod on top and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "date-night",
+    "irish-cuisine",
+    "pescatarian-friendly",
+    "seafood",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "nourishing-smoky-irish-cod-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-irish-cod-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:56:51Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "apricot",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cod",
+    "descriptor": "nourishing smoky",
+    "dishForm": "Pasta"
+  }
+}
