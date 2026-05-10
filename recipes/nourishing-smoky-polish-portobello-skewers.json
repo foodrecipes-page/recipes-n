@@ -1,0 +1,96 @@
+{
+  "title": "Nourishing Smoky Polish Portobello Skewers",
+  "description": "A fresh and chewy Polish dish featuring prosciutto and shio-koji-cure, perfect for a crowd, and can be made plant-based-friendly by substituting prosciutto with a plant-based alternative.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "12 large",
+      "notes": "stems removed and caps sliced 1/2 inch thick"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "6 slices",
+      "notes": "thinly sliced, or plant-based alternative"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together shio-koji, olive oil, garlic, salt, and black pepper.",
+    "Add the sliced portobello mushrooms to the bowl and toss to coat with the shio-koji mixture.",
+    "Thread a mushroom slice, a prosciutto slice, and a sprinkle of parsley onto each skewer, repeating until all ingredients are used.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the mushrooms are tender and the prosciutto is crispy.",
+    "Serve hot and enjoy.",
+    "Garnish with additional parsley if desired.",
+    "Let the skewers rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "plant-based",
+    "polish",
+    "portobello",
+    "robata-grill",
+    "skewers",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "nourishing-smoky-polish-portobello-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-polish-portobello-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:36:37Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "prosciutto",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "portobello mushrooms",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Skewers"
+  }
+}
