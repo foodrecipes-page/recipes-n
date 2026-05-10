@@ -1,0 +1,96 @@
+{
+  "title": "Nourishing Japanese Vialone Nano Ramen",
+  "description": "A malty and springy Japanese dish featuring Vialone Nano, perfect for a sick day, inspired by the Tohoku region, and sugar-free-friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vialone Nano rice",
+      "amount": "1 cup",
+      "notes": "Italian short-grain rice"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Pork slices",
+      "amount": "6 oz",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Sugar-free"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    }
+  ],
+  "instructions": [
+    "Rinse the Vialone Nano rice thoroughly and cook according to package instructions.",
+    "In a large pot, combine the chicken broth, soy sauce, and miso paste, and bring to a boil.",
+    "Add the sliced pork to the pot and cook until browned.",
+    "Add the grated ginger to the pot and cook for 1 minute.",
+    "Add the cooked Vialone Nano rice to the pot and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in the sesame oil and cook for 1 minute.",
+    "Serve the ramen hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "japanese-cuisine",
+    "one-pot",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "nourishing-japanese-vialone-nano-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-japanese-vialone-nano-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:07:26Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "springy",
+    "mood": "sick-day",
+    "technique": "temper",
+    "primaryIngredient": "vialone-nano",
+    "diet": "sugar-free",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Vialone Nano",
+    "descriptor": "Nourishing",
+    "dishForm": "Ramen"
+  }
+}
