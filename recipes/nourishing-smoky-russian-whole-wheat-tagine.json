@@ -1,0 +1,106 @@
+{
+  "title": "Nourishing Smoky Russian Whole Wheat Tagine",
+  "description": "A hearty, smoky stew featuring whole wheat and traditional Russian ingredients, perfect for a comforting meal on a sick day",
+  "cuisine": "Russian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat berries",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "smoked sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large ceramic tagine, heat a couple of tablespoons of oil over medium heat.",
+    "Add the sliced smoked sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrots and potatoes, dried thyme, salt, and black pepper, and stir to combine.",
+    "Add the rinsed whole wheat berries and stir to combine.",
+    "Pour in the vegetable broth and bring to a boil.",
+    "Cover the tagine and transfer to the preheated oven.",
+    "Bake for 45 minutes, or until the wheat berries and vegetables are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "macrobiotic-friendly",
+    "one-pot",
+    "smoky-flavors",
+    "whole-grains"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "nourishing-smoky-russian-whole-wheat-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-russian-whole-wheat-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:06:23Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "smoke-cold",
+    "primaryIngredient": "whole wheat",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "whole wheat",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Tagine"
+  }
+}
