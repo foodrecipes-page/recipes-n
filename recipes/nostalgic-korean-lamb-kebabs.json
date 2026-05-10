@@ -1,0 +1,100 @@
+{
+  "title": "Nostalgic Korean Lamb Kebabs",
+  "description": "A cultured and cheese-pull nostalgic Korean dish featuring lamb kidney, served with a sweet and spicy glaze, perfect for a low-glycemic friendly meal, cooked on a raclette-grill.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb kidney",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to medium-high heat.",
+    "In a large bowl, whisk together gochujang, soy sauce, brown sugar, garlic, and ginger.",
+    "Add the lamb kidney cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb kidney cubes onto skewers.",
+    "Brush the sesame oil onto the grill and cook the lamb kebabs for 5 minutes per side.",
+    "While the lamb is cooking, melt the mozzarella cheese on the raclette-grill.",
+    "Serve the lamb kebabs with the melted cheese, green onions, and a side of low-glycemic friendly vegetables.",
+    "Garnish with additional green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "dinner-party",
+    "gluten-free",
+    "korean-inspired",
+    "low-glycemic",
+    "raclette-grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "nostalgic-korean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-korean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:02:36Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "glaze",
+    "primaryIngredient": "lamb kidney",
+    "diet": "low-glycemic",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "lamb",
+    "descriptor": "Nostalgic Glazed",
+    "dishForm": "Kebabs"
+  }
+}
