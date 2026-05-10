@@ -1,0 +1,92 @@
+{
+  "title": "Naturally Garlicky Filipino Pork Dumplings",
+  "description": "A traditional Filipino dish featuring garlicky and juicy pork dumplings, perfect for a nostalgic meal, this recipe is low in glycemic index and cooked in a tajine clay vessel.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "chopped chives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tajine clay vessel over medium heat.",
+    "In a large bowl, combine the ground pork, chopped chives, minced garlic, soy sauce, sesame oil, salt, and black pepper, mixing well with your hands or a wooden spoon until just combined.",
+    "Lay a dumpling wrapper on a flat surface and place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the dumpling.",
+    "Repeat with the remaining wrappers and filling.",
+    "When the tajine is hot, add a small amount of oil to the bottom and swirl it around to coat the surface.",
+    "Add the dumplings to the tajine, leaving some space between each dumpling to allow for even cooking.",
+    "Cover the tajine with a lid and steam the dumplings over medium heat for 10-12 minutes, or until they are cooked through and the wrappers are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "filipino-cuisine",
+    "low-glycemic",
+    "pork-recipes",
+    "steamed-food",
+    "tajine-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "naturally-garlicky-filipino-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-garlicky-filipino-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:12:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "dum",
+    "primaryIngredient": "chopped chive",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "naturally garlicky",
+    "dishForm": "Dumplings"
+  }
+}
