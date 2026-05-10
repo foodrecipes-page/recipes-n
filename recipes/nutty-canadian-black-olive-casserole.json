@@ -1,0 +1,96 @@
+{
+  "title": "Nutty Canadian Black Olive Casserole",
+  "description": "A hearty and comforting Canadian dish featuring black olives and a unique blend of flavors, perfect for a weeknight dinner. This casserole is made with fatty and pillowy ingredients, making it a satisfying meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "In a large bowl, combine the cooked brown rice, chopped almonds, and sauteed onion mixture.",
+    "Stir in the kombu cold extract and black olives.",
+    "In a greased 9x13 inch baking dish, arrange half of the rice mixture in the bottom of the dish.",
+    "Top with half of the shredded cheddar cheese.",
+    "Repeat the layers, starting with the remaining rice mixture and then the remaining cheese.",
+    "Bake for 25 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "nutty-canadian-black-olive-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-canadian-black-olive-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:18:24Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "black olives",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "black olives",
+    "descriptor": "nutty savory",
+    "dishForm": "Casserole"
+  }
+}
