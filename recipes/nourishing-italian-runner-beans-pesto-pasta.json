@@ -1,0 +1,109 @@
+{
+  "title": "Nourishing Italian Runner Beans Pesto Pasta",
+  "description": "A citrusy and aerated Italian dish featuring runner beans in a pesto sauce, perfect for a monsoon evening, and friendly to Buddhist temple dietary preferences.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 1 inch pieces"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "vegetarian"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "linguine or fettuccine"
+    }
+  ],
+  "instructions": [
+    "Cook the pasta in a large pot of boiling salted water until al dente.",
+    "Drain the pasta and set it aside to rest.",
+    "Blend the basil, garlic, pine nuts, and parmesan cheese in a food processor until well combined.",
+    "Add the lemon juice and olive oil to the food processor and blend until smooth.",
+    "Add the cooked pasta to the pesto sauce and toss to combine.",
+    "Add the runner beans to the pasta and toss to combine.",
+    "Season the pasta with salt and black pepper to taste.",
+    "Serve the pasta hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "monsoon-recipes",
+    "pesto-sauce",
+    "runner-beans",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nourishing-italian-runner-beans-pesto-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-italian-runner-beans-pesto-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:09:14Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "rest",
+    "primaryIngredient": "runner beans",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "runner beans",
+    "descriptor": "Nourishing Aerated",
+    "dishForm": "Pesto Pasta"
+  }
+}

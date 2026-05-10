@@ -1,0 +1,111 @@
+{
+  "title": "Nutty Flaky Ukrainian Noodles",
+  "description": "A citrusy, flaky one-pot Ukrainian dish featuring high-protein-friendly noodles, ideal for a weeknight dinner.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kasha (buckwheat noodles)",
+      "amount": "250g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground turkey",
+      "amount": "500g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "Grated lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high.",
+    "Add onion and garlic; cook until onion is translucent.",
+    "Add ground turkey; cook, breaking up with a spoon, until browned.",
+    "Stir in kasha, salt, pepper, and thyme; cook for 2 minutes.",
+    "Add chicken broth and lemon juice; bring to a boil.",
+    "Reduce heat to medium-low; simmer, covered, for 15 minutes.",
+    "Stir in lemon zest and parsley.",
+    "Cook for an additional 2 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "flaky",
+    "high-protein",
+    "noodles",
+    "one-pot",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "nutty-flaky-ukrainian-noodles-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-flaky-ukrainian-noodles-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T05:08:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "caramelize",
+    "primaryIngredient": "noodles",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "noodles",
+    "descriptor": "nutty flaky",
+    "dishForm": "Noodles"
+  }
+}

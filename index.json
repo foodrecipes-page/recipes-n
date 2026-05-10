@@ -5892,6 +5892,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-italian-runner-beans-pesto-pasta",
+    "title": "Nourishing Italian Runner Beans Pesto Pasta",
+    "tags": [
+      "italian-food",
+      "monsoon-recipes",
+      "pesto-sauce",
+      "runner-beans",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-jamaican-callaloo-salad",
     "title": "Nourishing Jamaican Callaloo Salad",
     "tags": [
@@ -13233,6 +13248,22 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-flaky-ukrainian-noodles-noodles",
+    "title": "Nutty Flaky Ukrainian Noodles",
+    "tags": [
+      "citrusy",
+      "flaky",
+      "high-protein",
+      "noodles",
+      "one-pot",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
