@@ -1,0 +1,95 @@
+{
+  "title": "Nourishing Silky Egyptian Oat Pilaf",
+  "description": "This peppery, silky, and comforting Egyptian dish features oat milk and is shaped like nigiri, making it a unique and delicious lacto-vegetarian-friendly option. It is cooked in a kazan-cauldron for a traditional touch.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oat milk",
+      "amount": "2 cups",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a kazan-cauldron over medium heat.",
+    "Add the black pepper, paprika, garlic powder, and salt, and stir for 1 minute.",
+    "Add the rolled oats and cook, stirring frequently, for 5 minutes or until lightly toasted.",
+    "Add the brown rice and cook, stirring frequently, for 2 minutes.",
+    "Add the oat milk and bring the mixture to a simmer.",
+    "Reduce the heat to low, cover the kazan-cauldron, and cook for 20 minutes or until the liquid is absorbed and the oats and rice are tender.",
+    "Fluff the pilaf with a fork and shape into nigiri-like shapes.",
+    "Garnish with chopped scallions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "middle-eastern",
+    "oat-based",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nourishing-silky-egyptian-oat-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-silky-egyptian-oat-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:11:33Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "oat milk",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "oats",
+    "descriptor": "nourishing silky",
+    "dishForm": "Pilaf"
+  }
+}
