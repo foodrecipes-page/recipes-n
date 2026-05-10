@@ -1,0 +1,96 @@
+{
+  "title": "Nourishing Norwegian Lamb Skillet",
+  "description": "A hearty and comforting Norwegian dish featuring lamb, clotted cream, and vegetables, perfect for a midnight craving.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "rested meat"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block vessel to 400 degrees Fahrenheit.",
+    "Slice the lamb shoulder into thin strips and season with salt and black pepper.",
+    "Melt 1 tablespoon of butter in the preheated salt block vessel and cook the lamb strips until browned.",
+    "Add the sliced onion and minced garlic to the vessel and cook until the onion is translucent.",
+    "Add the sliced carrots and potatoes to the vessel and cook for 10 minutes.",
+    "Stir in the clotted cream and cook for an additional 2 minutes.",
+    "Serve the lamb and vegetable mixture hot, garnished with chopped fresh herbs if desired.",
+    "Let the dish rest for 5 minutes before serving.",
+    "Serve with crusty bread or over mashed potatoes.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-recipes",
+    "midnight-cravings",
+    "norwegian-cuisine",
+    "one-pan-meals"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "nourishing-norwegian-lamb-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-norwegian-lamb-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:56:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "rest-meat",
+    "primaryIngredient": "clotted cream",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "nourishing buttery",
+    "dishForm": "Skillet"
+  }
+}
