@@ -1,0 +1,92 @@
+{
+  "title": "Jamaican Pork Tenderloin Hash",
+  "description": "A malty and flaky Jamaican dish featuring pork tenderloin, perfect for a sick day, made egg-free friendly and air-fried to perfection. This dish combines the flavors of Jamaica with a twist on traditional hash.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together flour, malt vinegar, jerk seasoning, brown sugar, salt, and pepper.",
+    "Add the pork tenderloin to the bowl and toss to coat evenly with the flour mixture.",
+    "Place the coated pork tenderloin in the air fryer basket and cook for 12 minutes.",
+    "Shake the basket halfway through cooking to ensure even cooking.",
+    "Once the pork is cooked, remove it from the air fryer and let it rest for 5 minutes.",
+    "Slice the pork into thin strips and set aside.",
+    "In the same air fryer basket, add the vegetable oil and cook for 2 minutes.",
+    "Add the sliced pork back to the air fryer basket and cook for an additional 2 minutes, stirring frequently.",
+    "Serve the Jamaican pork tenderloin hash hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "comfort-food",
+    "egg-free",
+    "jamaican-cuisine",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nice-flaky-jamaican-pork-tenderloin-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-flaky-jamaican-pork-tenderloin-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:24:26Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "air-fry",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "Nice flaky",
+    "dishForm": "Hash"
+  }
+}
