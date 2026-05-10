@@ -1,0 +1,97 @@
+{
+  "title": "Nordic Roasted Norwegian Turkey Neck Tagine",
+  "description": "A hearty and flavorful Norwegian dish featuring roasted turkey neck, cooked to perfection in a tagine pot, with a crunchy exterior and tender interior, perfect for a low-sodium diet. This meal prep recipe is easy to make and serves as a delicious dinner option.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a small bowl, mix together olive oil, salt-free seasoning blend, and black pepper.",
+    "Rub the mixture all over the turkey neck, making sure to coat it evenly.",
+    "Place the turkey neck in a tagine pot and arrange the chopped carrots, potatoes, and onions around it.",
+    "Roast the turkey neck in the preheated oven for 30 minutes.",
+    "Reduce the oven temperature to 375 degrees Fahrenheit and continue roasting for an additional 60 minutes, or until the turkey neck is cooked through and the vegetables are tender.",
+    "Baste the turkey neck with the pan juices every 20 minutes to keep it moist.",
+    "Remove the tagine pot from the oven and let it cool for 10 minutes before serving.",
+    "Garnish with fresh herbs, if desired.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-sodium",
+    "meal-prep",
+    "nordic-cuisine",
+    "one-pot",
+    "roasted-meats"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nordic-roasted-norwegian-turkey-neck-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nordic-roasted-norwegian-turkey-neck-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:27:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "tandoor",
+    "primaryIngredient": "turkey neck",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "turkey neck",
+    "descriptor": "Nordic roasted",
+    "dishForm": "Tagine"
+  }
+}
