@@ -1,0 +1,102 @@
+{
+  "title": "Nourishing Vietnamese Pork Cha Gio",
+  "description": "A traditional Vietnamese dish featuring pork and vegetables wrapped in leaves and steamed, served with a pungent garlic sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": " cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "comal",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ground pork, grated carrots, shredded cabbage, minced garlic, fish sauce, lime juice, salt, and black pepper, and mix well.",
+    "Lay a lettuce leaf flat on a comal and place about 1/4 cup of the pork mixture in the center of the leaf.",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining leaves and filling.",
+    "Place the rolled leaves in a steamer basket, leaving some space between each leaf to allow for steam to pass through.",
+    "Steam the cha gio over boiling water for 10 minutes, or until the pork is cooked through and the leaves are tender.",
+    "While the cha gio are steaming, mix the minced garlic with 1 tablespoon of water to make the garlic sauce.",
+    "Serve the cha gio hot with the garlic sauce spooned over the top.",
+    "Garnish with chopped cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "low-carb",
+    "pork-recipes",
+    "steamed-dishes",
+    "vietnamese-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "nourishing-vietnamese-pork-cha-gio",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-vietnamese-pork-cha-gio",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:54:13Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "garlic sauce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Nourishing",
+    "dishForm": "Cha Gio"
+  }
+}
