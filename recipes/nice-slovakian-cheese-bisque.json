@@ -1,0 +1,107 @@
+{
+  "title": "slovakian cheese bisque",
+  "description": "A thick, cheesy, sour soup originating from Slovakia. Made with a variety of cheeses and spices, this dish is perfect for a cold winter day or when you're feeling under the weather.",
+  "cuisine": "slovakian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "score-fat",
+      "amount": "250g",
+      "notes": "unsalted and cold, cut into small pieces"
+    },
+    {
+      "name": "piccalilli",
+      "amount": "2 tbsp",
+      "notes": "mild and finely chopped"
+    },
+    {
+      "name": "sour cream",
+      "amount": "100g",
+      "notes": "cold"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "150g",
+      "notes": "cold and crumbled"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "200g",
+      "notes": "cold and grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "25g",
+      "notes": "unsalted"
+    },
+    {
+      "name": "whole milk",
+      "amount": "400g",
+      "notes": "cold"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": "freshly grated"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, melt the score-fat over medium heat.",
+    "Add the chopped piccalilli and cook for 2-3 minutes, or until fragrant.",
+    "Add the cold sour cream and cook, stirring constantly, until the mixture is smooth and heated through.",
+    "Add the crumbled ricotta cheese and cook, stirring constantly, until melted and smooth.",
+    "Add the grated gruyere cheese and stir until melted and smooth.",
+    "Add the unsalted flour and cook for 1-2 minutes, stirring constantly, or until the mixture is lightly browned.",
+    "Gradually add the cold whole milk, whisking continuously to prevent lumps.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until thickened.",
+    "Season with black pepper and nutmeg to taste.",
+    "Serve hot, garnished with additional gruyere cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "cold-weather",
+    "comfort-food",
+    "easy-to-make",
+    "one-pan",
+    "slovakian",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 26,
+    "fat": 34
+  },
+  "slug": "nice-slovakian-cheese-bisque",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-slovakian-cheese-bisque",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:21:29Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "score-fat",
+    "primaryIngredient": "piccalilli",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Nice",
+    "dishForm": "Bisque"
+  }
+}

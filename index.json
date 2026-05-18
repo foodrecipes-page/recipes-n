@@ -1985,6 +1985,22 @@
     "shard": "n"
   },
   {
+    "slug": "nice-slovakian-cheese-bisque",
+    "title": "slovakian cheese bisque",
+    "tags": [
+      "cheesy",
+      "cold-weather",
+      "comfort-food",
+      "easy-to-make",
+      "one-pan",
+      "slovakian",
+      "sour"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
     "slug": "nice-spicy-mexican-fish-tacos",
     "title": "Nice Spicy Mexican Fish Tacos",
     "tags": [
