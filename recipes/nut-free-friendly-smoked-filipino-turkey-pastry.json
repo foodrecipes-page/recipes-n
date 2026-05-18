@@ -1,0 +1,105 @@
+{
+  "title": "Nut-Free Friendly Smoked Filipino Turkey Pastry",
+  "description": "A unique Filipino-inspired pastry dish featuring smoked turkey neck, wrapped in a flaky and crispy pastry crust, perfect for a date-night dinner.",
+  "cuisine": "filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Turkey Neck",
+      "amount": "1 (1 pound)",
+      "notes": "smoked to perfection"
+    },
+    {
+      "name": "Puff Pastry",
+      "amount": "1 (1 package) (thawed)",
+      "notes": "nut-free-friendly"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a pan over medium heat, sauté the onion and garlic until softened.",
+    "Add the smoked turkey neck to the pan and cook until browned on all sides.",
+    "In a bowl, whisk together the soy sauce, brown sugar, egg, salt, and black pepper.",
+    "Roll out the puff pastry on a floured surface to a large rectangle.",
+    "Place the turkey neck in the center of the pastry rectangle, leaving a 1-inch border around it.",
+    "Brush the edges of the pastry with the beaten egg.",
+    "Roll the pastry over the turkey neck, starting with one of the long edges.",
+    "Place the pastry on a baking sheet lined with parchment paper.",
+    "Brush the top of the pastry with the remaining beaten egg.",
+    "Cut a few slits in the top of the pastry to allow steam to escape.",
+    "Bake the pastry in the preheated oven for 25-30 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night-dinner",
+    "filipino-cuisine",
+    "flaky-pastry",
+    "one-pan-meal",
+    "smoked-turkey",
+    "weeknight-cooking"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 25,
+    "fat": 37
+  },
+  "slug": "nut-free-friendly-smoked-filipino-turkey-pastry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nut-free-friendly-smoked-filipino-turkey-pastry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:55:34Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "en-croute",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Turkey",
+    "descriptor": "Nut-Free Friendly Smoked",
+    "dishForm": "Pastry"
+  }
+}
