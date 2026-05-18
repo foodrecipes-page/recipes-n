@@ -1,0 +1,103 @@
+{
+  "title": "Nutty Bitter Vietnamese Chervil Rolled Rice Cakes",
+  "description": "A weeknight pescatarian-friendly dish featuring chervil, mother-sauce-base, in a flaky banh-cuon form.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chervil",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mother sauce base",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated onion",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "shrimp paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the rice flour in water for at least 30 minutes.",
+    "Combine the mother sauce base, grated ginger, grated onion, nutritional yeast, sesame oil, shrimp paste, and fish sauce in a kazan cauldron.",
+    "Bring the mixture to a simmer over medium heat, whisking constantly.",
+    "Add the soaked rice flour and water mixture to the cauldron and stir until combined.",
+    "Continue to simmer for 5 minutes, stirring frequently.",
+    "Transfer the mixture to a work surface and knead for 10 minutes.",
+    "Divide the dough into 8 equal pieces and roll each into a thin circle.",
+    "Brush the edges of the dough with water and fold the dough into a cylinder shape.",
+    "Serve the rolled rice cakes with the mother sauce base for dipping."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "flaky-bread",
+    "one-pan",
+    "pescatarian",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "nutty-bitter-vietnamese-chervil-rolled-rice-cakes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-bitter-vietnamese-chervil-rolled-rice-cakes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:26:54Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "chervil",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chervil",
+    "descriptor": "Nutty Bitter",
+    "dishForm": "Rolled Rice Cakes"
+  }
+}
