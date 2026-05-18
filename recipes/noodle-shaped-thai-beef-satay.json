@@ -1,0 +1,109 @@
+{
+  "title": "Noodle-Shaped Thai Beef Satay",
+  "description": "A paleo-friendly, nostalgic Thai dish from the streets of Bangkok featuring beef brisket in a winey, light sauce. Serve with a side of fresh cucumber slices.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paleo-friendly Worcestershire sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "nigiri rice flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine coconut aminos, fish sauce, brown sugar, Worcestershire sauce, garlic, lemongrass, coriander, and red pepper flakes. Blend until smooth.",
+    "Heat 2 tablespoons of coconut oil in a saucepan over medium heat. Pour the blended sauce mixture into the saucepan and cook for 5 minutes, stirring occasionally.",
+    "While the sauce is cooking, slice the beef brisket into thin strips and set aside.",
+    "In a separate bowl, mix together nigiri rice flour and vegetable oil until a dough forms.",
+    "Divide the dough into 8-10 equal pieces and shape each piece into a long, thin noodle.",
+    "Heat the remaining 2 tablespoons of coconut oil in a large skillet over medium-high heat. Add the beef strips and cook for 3-4 minutes, or until browned and cooked through.",
+    "Add the cooked beef strips to the noodle dough, one at a time, and wrap the dough around each strip to form a satay shape.",
+    "Cook the satays in the skillet for an additional 2-3 minutes, or until the dough is cooked through and lightly browned.",
+    "Serve the satays hot with the winey sauce from the saucepan and a side of fresh cucumber slices."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bangkok-street",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "thaifood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "noodle-shaped-thai-beef-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/noodle-shaped-thai-beef-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:09:31Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "beef brisket",
+    "diet": "paleo",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "beef",
+    "descriptor": "noodle-shaped",
+    "dishForm": "Satay"
+  }
+}
