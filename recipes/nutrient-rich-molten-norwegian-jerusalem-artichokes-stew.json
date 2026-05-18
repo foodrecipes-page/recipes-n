@@ -1,0 +1,110 @@
+{
+  "title": "Nutrient-rich Norwegian Jerusalem Artichokes Stew",
+  "description": "A simple and flavorful stew made with roasted Jerusalem artichokes, pork belly, and vegetables, perfect for a weeknight dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Pork belly",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Pork stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the pork belly with salt and pepper.",
+    "Roast the pork belly in the oven for 20 minutes, or until browned.",
+    "Heat the coconut oil in a large pot over medium-high heat.",
+    "Add the chopped onions and sauté for 5 minutes, or until softened.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the chopped carrots and potatoes and sauté for 5 minutes.",
+    "Add the chopped Jerusalem artichokes and sauté for 5 minutes.",
+    "Add the roasted pork belly, chicken broth, and pork stock to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Use a spoon to mash some of the potatoes and Jerusalem artichokes against the side of the pot to thicken the stew.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fall-recipes",
+    "gluten-free",
+    "one-pan",
+    "weeknight",
+    "whole30-friendly",
+    "winter-recipes"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "nutrient-rich-molten-norwegian-jerusalem-artichokes-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutrient-rich-molten-norwegian-jerusalem-artichokes-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:33:13Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Jerusalem artichokes",
+    "descriptor": "Nutrient-rich, molten",
+    "dishForm": "Stew"
+  }
+}
