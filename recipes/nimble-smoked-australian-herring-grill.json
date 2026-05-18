@@ -1,0 +1,93 @@
+{
+  "title": "nimble smoked australian herring grill",
+  "description": "lazy sunday australian dish featuring herring with a smoky kick",
+  "cuisine": "australian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "australian herring",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "enough to cover grill"
+    }
+  ],
+  "instructions": [
+    "preheat binchotan grill to medium-high heat",
+    "in a small bowl, whisk together lemon juice, olive oil, brown sugar, black pepper, coriander seeds, smoked paprika, and salt",
+    "add the herring pieces to the marinade and coat well",
+    "let the herring marinate for at least 15 minutes, or up to 30 minutes in the refrigerator",
+    "remove the herring from the marinade and place on the preheated binchotan grill",
+    "grill the herring for 2-3 minutes per side, or until cooked through",
+    "serve the herring hot, garnished with lemon wedges if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-fry",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 22,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "nimble-smoked-australian-herring-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-smoked-australian-herring-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:17:13Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "marinate",
+    "primaryIngredient": "herring",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "herring",
+    "descriptor": "Nimble Smoked",
+    "dishForm": "Grill"
+  }
+}
