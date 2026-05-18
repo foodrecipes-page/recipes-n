@@ -1,0 +1,113 @@
+{
+  "title": "Nutritious Energizing Andalusian Chestnut Mushroom Paella",
+  "description": "Energizing Spanish paella dish featuring chestnut mushrooms, with a caramelized twist. Suitable for diabetics.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic",
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chestnut mushrooms",
+      "amount": "500g",
+      "notes": "Fresh and sliced"
+    },
+    {
+      "name": "Chorizo",
+      "amount": "125g",
+      "notes": "Spanish spicy sausage"
+    },
+    {
+      "name": "Rice",
+      "amount": "250g",
+      "notes": "Brown rice"
+    },
+    {
+      "name": "Vegan saffron",
+      "amount": "2g",
+      "notes": "For a non-traditional touch"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1g",
+      "notes": "Smoked paprika"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Sherry vinegar",
+      "amount": "60ml",
+      "notes": "For a slightly sweet and tangy taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "60ml",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "2g",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan or skillet over medium heat.",
+    "Add the sliced onions and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start browning, about 5 minutes.",
+    "Add the chorizo slices and cook for another 2 minutes.",
+    "Add the rice, smoked paprika, sherry vinegar, salt, and black pepper. Stir-fry the mixture for 2-3 minutes.",
+    "Add 450ml of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for about 20 minutes or until the rice is cooked and the liquid is absorbed.",
+    "Stir-fry the paella for 2-3 minutes to create a crispy crust at the bottom.",
+    "Serve hot and garnish with parsley or lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "spanish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "nutritious-energizing-andalusian-chestnut-mushroom-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-energizing-andalusian-chestnut-mushroom-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:34:05Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "caramelize",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "diabetic-friendly",
+    "region": "andalusian",
+    "cuisineAdjective": "andalusian",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "nutritious energizing",
+    "dishForm": "paella"
+  }
+}
