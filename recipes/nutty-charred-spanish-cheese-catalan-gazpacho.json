@@ -1,0 +1,105 @@
+{
+  "title": "nutty charred spanish cheese catalan gazpacho",
+  "description": "charred, cheese-pull brunch-mood spanish dish featuring filo pastry, mother-sauce-base, fodmap-friendly, form=gazpacho, vessel=comal",
+  "cuisine": "spanish",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "filo pastry",
+      "amount": "1 package (usually 12 sheets)"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "or other non-dairy milk alternative"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh or high-quality canned"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": ".5 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat comal or large skillet over medium heat.",
+    "wrap 2-3 filo pastry sheets around the comal or skillet to create a makeshift grill, leaving some space in between.",
+    "brush the filo pastry with 1 tablespoon of olive oil and sprinkle with smoked paprika.",
+    "once the filo pastry is lightly charred, place the tomatoes, onion, and garlic on top.",
+    "drizzle with remaining 1 tablespoon of olive oil and season with salt.",
+    "cook for 5-7 minutes or until the vegetables are tender.",
+    "remove the vegetables from the comal or skillet and set aside.",
+    "in a blender or food processor, combine the almond milk, cooked vegetables, and cheddar cheese.",
+    "blend until smooth and creamy, adding more milk if needed to achieve desired consistency.",
+    "season with salt to taste.",
+    "serve the gazpacho hot, garnished with chopped parsley if desired.",
+    "use the comal or skillet to toast the filo pastry sheets until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "cheese-lovers",
+    "comal-cooked",
+    "fodmap-friendly",
+    "one-pan",
+    "spanish-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "nutty-charred-spanish-cheese-catalan-gazpacho",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-charred-spanish-cheese-catalan-gazpacho",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:35:14Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "filo pastry",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cheese",
+    "descriptor": "Nutty charred",
+    "dishForm": "Catalan Gazpacho"
+  }
+}
