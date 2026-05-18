@@ -10571,6 +10571,19 @@
     "shard": "n"
   },
   {
+    "slug": "nutritious-post-workout-kenyan-cornmeal-stew",
+    "title": "Nutritious Post-Workout Kenyan Cornmeal Stew",
+    "tags": [
+      "high-protein",
+      "one-pot",
+      "paleo-friendly",
+      "post-workout"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nutritious-rich-ethiopian-lamb-berbere-stew",
     "title": "Nutritious Rich Ethiopian Lamb Berbere Stew",
     "tags": [
@@ -14994,6 +15007,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 23,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-pillowy-ukrainian-chicken-pilaf",
+    "title": "Nutty Pillowy Ukrainian Chicken Pilaf",
+    "tags": [
+      "adventurous",
+      "chicken",
+      "low-sodium",
+      "one-pan",
+      "rice-bowl",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {

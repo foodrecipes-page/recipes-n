@@ -1,0 +1,95 @@
+{
+  "title": "Nutritious Post-Workout Kenyan Cornmeal Stew",
+  "description": "A hearty, mustardy stew featuring cornmeal as the main ingredient, perfect for post-workout nutrition and a paleo-friendly diet.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large hot pot vessel over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add the mustard seeds, tomato paste, chicken broth, and water to the pot.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew simmer for 20-25 minutes, or until the cornmeal has absorbed most of the liquid.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pot",
+    "paleo-friendly",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 45,
+    "fat": 24
+  },
+  "slug": "nutritious-post-workout-kenyan-cornmeal-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-post-workout-kenyan-cornmeal-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:25:40Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "simmer",
+    "primaryIngredient": "cornmeal",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Nutritious Post-Workout",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Nutty Pillowy Ukrainian Chicken Pilaf",
+  "description": "A tangy and adventurous Ukrainian dish featuring massaman curry paste, low in sodium.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "White rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Massaman curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grated fresh ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "2/3 cup"
+    },
+    {
+      "name": "Diced red bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt-free seasoning blend",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the chicken breast and pat dry with paper towels.",
+    "In a large Dutch oven, heat the massaman curry paste in 2 tablespoons of chicken broth over medium heat, stirring constantly.",
+    "Add the sliced almonds and cook until lightly toasted, about 2 minutes.",
+    "Add the diced red bell pepper and cook until tender, about 3 minutes.",
+    "Add the chicken broth, water, grated ginger, and salt-free seasoning blend. Bring to a boil.",
+    "Add the rice, chicken breast, and diced fresh parsley to the Dutch oven.",
+    "Cover the Dutch oven and transfer to the preheated oven.",
+    "Bake for 25 minutes or until the chicken is cooked through and the rice is tender.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "chicken",
+    "low-sodium",
+    "one-pan",
+    "rice-bowl",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-pillowy-ukrainian-chicken-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-pillowy-ukrainian-chicken-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:25:46Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "dehydrate",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Nutty Pillowy",
+    "dishForm": "Pilaf"
+  }
+}
