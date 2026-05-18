@@ -1,0 +1,117 @@
+{
+  "title": "Nourishing Middle-Eastern Cabbage Tabbouleh",
+  "description": "A Middle-Eastern inspired salad featuring hispi sweetheart cabbage, confit-tomato and a rich umami flavor profile.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hispi sweetheart cabbage",
+      "amount": "250g",
+      "notes": " Thinly sliced"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "120g",
+      "notes": "Diced"
+    },
+    {
+      "name": "bulgur",
+      "amount": "80g",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "20g",
+      "notes": "Chopped"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "60g",
+      "notes": "High-quality, gluten-free feta"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "15g",
+      "notes": "High-quality, gluten-free molasses"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20g",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30g",
+      "notes": "High-quality, gluten-free olive oil"
+    },
+    {
+      "name": "salt",
+      "amount": "tsp",
+      "notes": "High-quality, gluten-free salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "tsp",
+      "notes": "High-quality, gluten-free black pepper"
+    },
+    {
+      "name": "paprika",
+      "amount": "tsp",
+      "notes": "High-quality, gluten-free paprika"
+    }
+  ],
+  "instructions": [
+    "Thinly slice the hispi sweetheart cabbage and place it in a large bowl.",
+    "Add the cooked bulgur, diced confit tomatoes, chopped parsley, crumbled feta cheese, paprika, salt, and black pepper to the bowl.",
+    "Drizzle the pomegranate molasses and lemon juice over the salad and toss to combine.",
+    "Drizzle the olive oil over the salad and toss to combine.",
+    "Season the salad with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish the salad with additional parsley and a sprinkle of paprika.",
+    "Serve the salad chilled, garnished with additional parsley and a sprinkle of paprika if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "high-protein",
+    "lunch",
+    "middle-eastern",
+    "one-pan",
+    "salad",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "nourishing-middle-eastern-cabbage-tabbouleh",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-middle-eastern-cabbage-tabbouleh",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:13:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "confit-tomato",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "cabbage",
+    "descriptor": "Nourishing",
+    "dishForm": "Tabbouleh"
+  }
+}
