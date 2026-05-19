@@ -1,0 +1,112 @@
+{
+  "title": "Nutty Flaky Russian San-Marzano Tomato Pastry",
+  "description": "A romantic and delicious Russian-inspired pastry featuring San-Marzano tomatoes, crispy fried chicken, and a nutty crust served on a beautiful Talavera plate.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ice-cold water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "San-Marzano tomatoes",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Crispy fried chicken",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Grated nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the flour, salt, and nutmeg.",
+    "Add the cold butter to the flour mixture and use a pastry blender or your fingers to work it into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add the ice-cold water, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Prick the bottom of the dough with a fork to prevent it from bubbling up during baking.",
+    "Line the dough with parchment paper and fill with pie weights or dried beans.",
+    "Bake the crust for 15 minutes.",
+    "Remove the parchment paper and pie weights or beans and return the crust to the oven for an additional 5 minutes.",
+    "While the crust is baking, prepare the filling by dicing the San-Marzano tomatoes and mixing them with the chopped parsley and a pinch of salt and pepper.",
+    "When the crust is ready, fill it with the tomato mixture and top with the crispy fried chicken and chopped walnuts.",
+    "Brush the edges of the crust with the beaten egg and sprinkle with a pinch of salt.",
+    "Return the pastry to the oven and bake for an additional 10-12 minutes, or until the crust is golden brown and the filling is heated through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "one-pan",
+    "pastry",
+    "romantic",
+    "russian",
+    "san-marzano",
+    "tart",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 562,
+    "protein": 24,
+    "carbs": 55,
+    "fat": 32
+  },
+  "slug": "nutty-flaky-russian-san-marzano-tomato-pastry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-flaky-russian-san-marzano-tomato-pastry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T12:06:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "san-marzano-tomato",
+    "descriptor": "nutty flaky",
+    "dishForm": "Pastry"
+  }
+}
