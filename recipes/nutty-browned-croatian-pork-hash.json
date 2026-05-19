@@ -1,0 +1,110 @@
+{
+  "title": "Nutty Browned Croatian Pork Hash",
+  "description": "A hearty, umami-rich Croatian dish featuring crispy browned pork, caramelized onions, and a hint of nutty flavor from whole black peppercorns.",
+  "cuisine": "croatian",
+  "diet": [
+    "meat",
+    "pork",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "whole black peppercorns",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion, sliced",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a wok or large skillet over medium-high heat.",
+    "Add pork cubes and cook until browned, about 5 minutes.",
+    "Remove pork from wok and set aside.",
+    "Add sliced onions to wok and cook until caramelized, about 10 minutes.",
+    "Add garlic, paprika, and salt to wok and cook for 1 minute.",
+    "Return pork to wok and stir to combine with onion mixture.",
+    "Add apple cider vinegar, cocoa powder, and brown sugar to wok and stir to combine.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Sprinkle with whole black peppercorns and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-protein",
+    "one-pan",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "nutty-browned-croatian-pork-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-browned-croatian-pork-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T12:12:21Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "wok-hei",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Pork",
+    "descriptor": "Nutty Browned",
+    "dishForm": "Hash"
+  }
+}
