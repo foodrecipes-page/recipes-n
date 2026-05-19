@@ -1,0 +1,109 @@
+{
+  "title": "Traditional British Scotch Egg",
+  "description": "A nostalgic egg dish from the UK, featuring a runny egg yolk coated in a mixture of nutty breadcrumbs and spices, then deep-fried to perfection. Serve warm for an indulgent treat.",
+  "cuisine": "British",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "2 for egg yolks"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp",
+      "notes": "for a touch of sweetness"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Start by making the breadcrumbs by blending the toasted bread into fine crumbs.",
+    "Add the panko breadcrumbs, miso paste, mirin, salt, and black pepper to the breadcrumbs and mix well.",
+    "In a separate bowl, whisk the egg whites until stiff peaks form.",
+    "Add the egg yolks to the breadcrumbs mixture and stir until just combined.",
+    "Dust the egg yolks with flour, then coat in the breadcrumb mixture, pressing gently to adhere.",
+    "Heat the vegetable oil in a deep frying pan to 350°F (180°C).",
+    "Carefully place the egg yolk-coated mixture into the hot oil and fry for 3-4 minutes on each side, or until golden brown.",
+    "Drain the Scotch egg on paper towels and sprinkle with sesame seeds if desired.",
+    "Serve warm, garnished with chopped herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-for-dinner",
+    "british",
+    "egg-based",
+    "indulgent",
+    "japanese-influence",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "nutty-chewy-nostalgic-umami-british-egg-scotch-egg",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-chewy-nostalgic-umami-british-egg-scotch-egg",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T02:19:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "mirin-hon",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "egg",
+    "descriptor": "nutty, chewy, nostalgic, umami",
+    "dishForm": "Scotch Egg"
+  }
+}
