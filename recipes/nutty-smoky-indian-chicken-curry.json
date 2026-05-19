@@ -1,0 +1,103 @@
+{
+  "title": "Nutty Smoky Indian Chicken Curry",
+  "description": "A savory and creamy Indian dish featuring sesame butter and smoked flavors, perfect for the monsoon season and diabetic-friendly.",
+  "cuisine": "Indian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sesame butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14 ounces"
+    },
+    {
+      "name": "low-fat coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large pan over medium heat and cook the onion until it is lightly browned.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken and cook until it is browned on all sides and cooked through.",
+    "Add the smoked paprika, garam masala, salt, and pepper, and stir to combine.",
+    "Add the canned diced tomatoes and stir to combine.",
+    "Add the low-fat coconut milk and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Stir in the sesame butter until it is fully incorporated.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "indian-cuisine",
+    "one-pot",
+    "smoky-flavors",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "nutty-smoky-indian-chicken-curry",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-smoky-indian-chicken-curry",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-19T08:09:22Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "smoke",
+    "primaryIngredient": "sesame butter",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Nutty Smoky",
+    "dishForm": "Curry"
+  }
+}
