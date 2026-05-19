@@ -1,0 +1,93 @@
+{
+  "title": "nocturnal vietnamese pork com tam",
+  "description": "a midnight craving dish featuring dulce de leche, dashi extract, and satvik-friendly pork.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "pescetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "grilled pork shoulder",
+      "amount": "12 oz"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dashisodium extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "grill pork shoulder at 400°F for 15 minutes, then let rest for 5 minutes before slicing.",
+    "in a separate pan, combine rice flour, cinnamon, and ground ginger. Cook over low heat for 5 minutes, stirring constantly.",
+    "gradually add coconut milk, stirring frequently. Bring to a simmer and let cook for 5 minutes.",
+    "stir in dulce de leche, dashi sodium extract, salt, and black pepper. Bring to a simmer and let cook for an additional 5 minutes.",
+    "serve over the grilled pork shoulder"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "one-pan",
+    "pork",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "nocturnal-vietnamese-pork-com-tam",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nocturnal-vietnamese-pork-com-tam",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T02:35:56Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "dashi-extract",
+    "primaryIngredient": "dulce de leche",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Pork",
+    "descriptor": "Nocturnal",
+    "dishForm": "Com Tam"
+  }
+}
