@@ -1,0 +1,121 @@
+{
+  "title": "nutty monsoon algerian chestnut bake",
+  "description": "a monsoon-inspired, algerian-inspired dish featuring cooked chestnut, cheese-pull, and a hint of brininess, served in a bamboo steamer. perfect for a rainy day or a weeknight meal.",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chopped chestnut",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "saffron",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375 degrees fahrenheit.",
+    "in a large pot, combine the chopped onion and butter. cook over medium heat until the onion is softened.",
+    "add the flour to the pot and cook for 1 minute, stirring constantly.",
+    "slowly add the water to the pot, whisking continuously to avoid lumps.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "stir in the grated cheese until melted.",
+    "add the chopped chestnut, egg, saffron, salt, and black pepper to the pot. stir to combine.",
+    "transfer the mixture to a bamboo steamer basket.",
+    "place the steamer basket over boiling water and cover with a lid.",
+    "steer the mixture for 20 minutes, or until the cheese is melted and the chestnut is tender.",
+    "remove the steamer from the heat and let it cool for 5 minutes.",
+    "sprinkle the chopped parsley over the top of the mixture and serve hot, with a drizzle of lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "cheese-pull",
+    "chestnut",
+    "flexitarian",
+    "monsoon",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "nutty-monsoon-algerian-chestnut-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-monsoon-algerian-chestnut-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T19:04:03Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Chestnut",
+    "descriptor": "Nutty Monsoon",
+    "dishForm": "Bake"
+  }
+}
