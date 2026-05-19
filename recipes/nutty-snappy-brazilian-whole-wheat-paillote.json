@@ -1,0 +1,105 @@
+{
+  "title": "Nutty, Snappy Brazilian Whole Wheat Paillote",
+  "description": "A flavorful and nutritious Brazilian dish made with whole wheat, papillote, and a hint of mustardy spice.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "paleo-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat pastry dough",
+      "amount": "1 sheet",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Brazilian-style mustard",
+      "amount": "2 tbsp",
+      "notes": "Spicy and tangy."
+    },
+    {
+      "name": "Ground turkey breast",
+      "amount": "1/2 lb",
+      "notes": "Lean protein for this snack."
+    },
+    {
+      "name": "Diced onions",
+      "amount": "1/2 cup",
+      "notes": "Add some crunch and flavor."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Brighten up the dish with fresh herbs."
+    },
+    {
+      "name": "Crushed macadamia nuts",
+      "amount": "1/4 cup",
+      "notes": "Add some crunch and nutty flavor."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tsp",
+      "notes": "To brush the pastry dough."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 tsp",
+      "notes": "To taste."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the whole wheat pastry dough to a thickness of about 1/8 inch.",
+    "Brush the dough with coconut oil and sprinkle with salt and black pepper.",
+    "Top the dough with the ground turkey breast, diced onions, and chopped cilantro.",
+    "Sprinkle the Brazilian-style mustard and crushed macadamia nuts over the top.",
+    "Fold the dough over the filling to form a papillote, pressing the edges to seal.",
+    "Place the papillote on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown and the filling is cooked through.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "paleo-friendly",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "nutty-snappy-brazilian-whole-wheat-paillote",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-snappy-brazilian-whole-wheat-paillote",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T21:29:02Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "papillote",
+    "primaryIngredient": "whole wheat",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Whole wheat",
+    "descriptor": "Nutty, Snappy",
+    "dishForm": "Paillote"
+  }
+}
