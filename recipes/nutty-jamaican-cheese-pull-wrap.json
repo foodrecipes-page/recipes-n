@@ -1,0 +1,124 @@
+{
+  "title": "nutty jamaican cheese-pull wrap",
+  "description": "a delightful, keto-friendly, date-night dish featuring the flavors of jamaica and a gooey cheese pull. perfect for a romantic evening in.",
+  "cuisine": "jamaican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "shio-cure pork belly",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "mangalitsa lard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mushroom duxelles",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the mangalitsa lard in a large skillet over medium-high heat.",
+    "add the shio-cure pork belly and cook for 2-3 minutes on each side, or until crispy.",
+    "add the mushroom duxelles and cook until fragrant, about 1 minute.",
+    "add the sumac, gruyere cheese, scotch bonnet pepper, cilantro, lime juice, honey, kosher salt, black pepper, and cayenne pepper. stir to combine.",
+    "wrap the mixture in the flour tortilla and cook for an additional 2-3 minutes, or until the cheese is melted and the tortilla is crispy.",
+    "sprinkle with coconut flour and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-fat",
+    "keto",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 65
+  },
+  "slug": "nutty-jamaican-cheese-pull-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-jamaican-cheese-pull-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:44:20Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "shio-cure",
+    "primaryIngredient": "sumac",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cheese-pull",
+    "descriptor": "nutty",
+    "dishForm": "Wrap"
+  }
+}
