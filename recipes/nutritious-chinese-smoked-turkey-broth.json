@@ -1,0 +1,114 @@
+{
+  "title": "Nutritious Chinese Smoked Turkey Broth",
+  "description": "A sweet, silky, and energizing Chinese dish featuring smoked turkey neck and rest-meat, suitable for breakfast or dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "pescetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked Turkey Neck",
+      "amount": "1",
+      "notes": "About 2 pounds"
+    },
+    {
+      "name": "Turkey Rest-Meat",
+      "amount": "1",
+      "notes": "1 pound, diced"
+    },
+    {
+      "name": "Yunnan Pepper",
+      "amount": "4",
+      "notes": "whole"
+    },
+    {
+      "name": "Star Anise",
+      "amount": "2",
+      "notes": "whole"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon Stick",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Light Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "4 stalks",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Combine smoked turkey neck, diced rest-meat, yunnan pepper, star anise, ginger, and cinnamon stick in a large stockpot.",
+    "Add salt, black pepper, and light soy sauce to the pot, stirring to combine.",
+    "Pour in water, making sure all ingredients are submerged.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 2 hours.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding solids.",
+    "Return the pot to high heat and bring the broth to a boil, then reduce the heat to low and simmer for an additional 30 minutes.",
+    "Remove the pot from the heat and let the broth cool slightly.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding any solids.",
+    "Serve hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 240,
+  "totalTimeMin": 260,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 3
+  },
+  "slug": "nutritious-chinese-smoked-turkey-broth",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-chinese-smoked-turkey-broth",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T10:43:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "rest-meat",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "no-onion-no-garlic",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Smoked Turkey",
+    "descriptor": "Nutritious",
+    "dishForm": "Broth"
+  }
+}
