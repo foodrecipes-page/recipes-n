@@ -1,0 +1,98 @@
+{
+  "title": "Nutritious Indian Gulab Kashmiri Dumplings",
+  "description": "A shattering and indulgent Indian dish featuring unflavoured gelatin and render-fat, while maintaining a flexitarian-friendly approach.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "flexitarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gelatin",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Render-fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Himalayan pink salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Rosewater",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cashew nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped pistachios",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Combine gelatin and render-fat in a mixing bowl and let it bloom for 5 minutes.",
+    "Add ghee, Himalayan pink salt, and mix well.",
+    "Heat rosewater and sugar in a saucepan over low heat until sugar dissolves.",
+    "Add cardamom, cinnamon, and mix well.",
+    "Pour the sugar-rosewater mixture over the gelatin mixture and mix well.",
+    "Add cashew nuts and chopped pistachios to the mixture and mix until well combined.",
+    "Pour the mixture into a greased mold and refrigerate until set.",
+    "Unmold the dumplings and serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "flexitarian",
+    "indian",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "nutritious-indian-gulab-kashmiri-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-indian-gulab-kashmiri-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:45:46Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "render-fat",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "flexitarian",
+    "region": "kashmiri",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "gulab",
+    "descriptor": "nutritious",
+    "dishForm": "Kashmiri Dumplings"
+  }
+}
