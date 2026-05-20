@@ -1,0 +1,98 @@
+{
+  "title": "Nutrient-Rich No-Fuss Nibbles British Potatoes Bubble and Squeak",
+  "description": "A sweet and energizing British dish featuring sumac and miso-marinate, perfect for a quick breakfast or snack. This bubble and squeak recipe is anti-inflammatory-friendly and features a crispy binchotan-grill vessel.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "British potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 tsp",
+      "notes": "sumac powder for flavor"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1 tsp",
+      "notes": "used for marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "0.25 tsp",
+      "notes": "optional for some heat"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Peel the British potatoes and grate them coarsely.",
+    "In a large bowl, whisk together miso paste, lemon juice, and sumac to make the marinade.",
+    "Add the grated potatoes to the marinade and mix until they're evenly coated.",
+    "Heat the olive oil in a skillet over medium heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the marinated potatoes to the skillet and cook for 4-6 minutes on each side, until crispy and golden.",
+    "Sprinkle chili flakes over the top, if using.",
+    "Transfer the potatoes to a plate and garnish with chopped fresh parsley.",
+    "Grill the potatoes using a binchotan grill for an additional 2-3 minutes, until crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "bubble-and-squeak",
+    "low-inflammation",
+    "one-pan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 14
+  },
+  "slug": "nutrient-rich-no-fuss-nibbles-british-potatoes-bubble-and-squeak",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutrient-rich-no-fuss-nibbles-british-potatoes-bubble-and-squeak",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:07:22Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "miso-marinate",
+    "primaryIngredient": "sumac",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "potatoes",
+    "descriptor": "Nutrient-Rich No-Fuss Nibbles",
+    "dishForm": "Bubble and Squeak"
+  }
+}
