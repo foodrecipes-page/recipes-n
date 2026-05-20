@@ -1,0 +1,121 @@
+{
+  "title": "Naturally Nutty Ethiopian Beef Tagine",
+  "description": "A salty, silky, festive Ethiopian dish featuring sesame butter and a braise. Perfect for a special occasion or a cozy night in.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Sesame butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame butter in a ceramic tagine over medium heat until melted and fragrant.",
+    "Add the onions and cook until lightly browned, stirring occasionally, about 10 minutes.",
+    "Add the garlic and ginger; cook, stirring constantly, for 1 minute.",
+    "Add the cumin, cayenne pepper, turmeric, salt, and black pepper; cook for 1-2 minutes, stirring constantly.",
+    "Add the beef and cook until browned on all sides, about 5-7 minutes.",
+    "Add the berbere spice and tomato paste; cook, stirring constantly, for 2 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Transfer the tagine to the oven and braise for 1 hour and 30 minutes, or until the meat is tender.",
+    "Serve the tagine over rice or with injera bread.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "high-protein",
+    "one-pan",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "naturally-nutty-ethiopian-beef-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/naturally-nutty-ethiopian-beef-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:06:25Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "braise",
+    "primaryIngredient": "sesame butter",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "naturally nutty",
+    "dishForm": "Tagine"
+  }
+}
