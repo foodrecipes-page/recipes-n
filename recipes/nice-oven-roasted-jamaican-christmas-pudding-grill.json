@@ -1,0 +1,76 @@
+{
+  "title": "jamaican christmas pudding grill",
+  "description": "a sweet and savory twist on traditional christmas pudding, featuring a crispy grilled exterior and a silky interior",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "christmas pudding",
+      "amount": "200g",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "preheat a non-stick kadhai or grill pan to medium-high heat in a well-ventilated area",
+    "in a small saucepan, whisk together chicken broth, flour, and melted butter over medium heat, stirring constantly",
+    "bring the mixture to a simmer, whisking constantly, and cook for 2 minutes",
+    "remove the saucepan from the heat and let it cool slightly",
+    "whisk in the egg yolks, dark brown sugar, ground ginger, cinnamon, and nutmeg until well combined",
+    "add the heavy cream and whisk until smooth",
+    "add the unsalted butter, honey, grated coconut, crushed biscotti, flaked almonds, candied ginger, salt, and cracked black pepper to the saucepan and whisk until well combined",
+    "add the pitted dates, hazelnut oil, lemon zest, cocoa powder, cinnamon sticks, crushed coffee beans, chopped pecans, caramel sauce, fresh mint, unsalted pistachios, toasted coconut flakes, crushed cookies, maple syrup, and whipped cream to the saucepan and whisk until well combined",
+    "coat a non-stick kadhai or grill pan with cooking spray or oil and place it over medium-high heat in a well-ventilated area",
+    "add the christmas pudding to the kadhai or grill pan and cook for 3-4 minutes on each side, or until golden brown and crispy",
+    "remove the christmas pudding from the kadhai or grill pan and place it on a wire rack to cool slightly",
+    "serve the grilled christmas pudding warm or at room temperature, garnished with sliced bananas and chocolate chips",
+    "whisk the egg yolks and dark brown sugar together in a small bowl until well combined",
+    "add the melted butter, heavy cream, unsalted butter, honey, grated coconut, crushed biscotti, flaked almonds, candied ginger, salt, and cracked black pepper to the bowl and whisk until smooth",
+    "add the pitted dates, hazelnut oil, lemon zest, cocoa powder, cinnamon sticks, crushed coffee beans, chopped pecans, caramel sauce, fresh mint, unsalted pistachios, toasted coconut flakes, crushed cookies, maple syrup, whipped cream, sliced bananas, and chocolate chips to the bowl and whisk until well combined",
+    "coat a non-stick kadhai or grill pan with cooking spray or oil and place it over medium-high heat in a well-ventilated area",
+    "add the christmas pudding to the kadhai or grill pan and cook for 3-4 minutes on each side, or until golden brown and crispy",
+    "remove the christmas pudding from the kadhai or grill pan and place it on a wire rack to cool slightly",
+    "whisk the egg yolks and dark brown sugar together in a small bowl until well combined",
+    "add the melted butter, heavy cream, unsalted butter, honey, grated coconut, crushed biscotti, flaked almonds, candied ginger, salt, and cracked black pepper to the bowl and whisk until smooth",
+    "add the pitted dates, hazelnut oil, lemon zest, cocoa powder, cinnamon sticks, crushed coffee beans, chopped pecans, caramel sauce, fresh mint, unsalted pistachios, toasted coconut flakes, crushed cookies, maple syrup, whipped cream, sliced bananas, and chocolate chips to the bowl and whisk until well combined"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "christmas",
+    "dessert",
+    "grill",
+    "jamaican",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "nice-oven-roasted-jamaican-christmas-pudding-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-oven-roasted-jamaican-christmas-pudding-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:46:46Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "grill",
+    "primaryIngredient": "christmas pudding",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Christmas Pudding",
+    "descriptor": "Nice Oven-Roasted",
+    "dishForm": "Grill"
+  }
+}
