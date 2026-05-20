@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Tender Venezuelan Stout Empanadas",
+  "description": "A delicious and hangover-cure dish featuring stout beer and tender pastry.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "stout beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the flour, salt, and black pepper.",
+    "Add the butter and use a pastry blender or your fingers to work it into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add the stout beer, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of the grated cheese, a few pieces of the chopped onion, and a sprinkle of chopped walnuts in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the empanada.",
+    "Use a fork to crimp the edges of the empanada and cut a few slits in the top to allow steam to escape.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with the beaten egg.",
+    "Bake the empanadas for 20-25 minutes, or until they are golden brown.",
+    "Serve the empanadas warm, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beer-braised",
+    "breakfast",
+    "cheesy",
+    "empanada",
+    "nutty",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 12
+  },
+  "slug": "nutty-tender-venezuelan-stout-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tender-venezuelan-stout-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:50:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "en-croute",
+    "primaryIngredient": "stout",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "stout",
+    "descriptor": "nutty tender",
+    "dishForm": "empanadas"
+  }
+}
