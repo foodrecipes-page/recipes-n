@@ -1513,6 +1513,21 @@
     "shard": "n"
   },
   {
+    "slug": "newly-whipped-tava-greek-semolina-pancakes",
+    "title": "Newly Whipped Tava Greek Semolina Pancakes",
+    "tags": [
+      "fusion-brunch",
+      "griddle-cakes",
+      "quick-meals",
+      "sattvic-diet",
+      "semolina",
+      "tava-cooking"
+    ],
+    "cuisine": "Greek-Indian Fusion",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
     "slug": "nfestive-malty-shattering-yam-pilaf",
     "title": "Nfestive Malty Shattering Yam Pilaf",
     "tags": [
@@ -13495,6 +13510,23 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-flaky-filipino-pig-lechon",
+    "title": "Filipino Pig Lechon",
+    "tags": [
+      "filipino",
+      "main-course",
+      "pork",
+      "roasted",
+      "slow-cooked",
+      "special-occasion",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 200,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-flaky-korean-squash-bao",
     "title": "Nutty Flaky Korean Squash Bao",
     "tags": [
@@ -14898,6 +14930,20 @@
       "weeknight"
     ],
     "cuisine": "jamaican",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-mild-bengali-morcilla-hot-stone-korma",
+    "title": "nutty mild bengali morcilla hot stone korma",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegan-options"
+    ],
+    "cuisine": "bengali",
     "totalTimeMin": 50,
     "shard": "n"
   },

@@ -1,0 +1,101 @@
+{
+  "title": "Newly Whipped Tava Greek Semolina Pancakes",
+  "description": "Light, aerated semolina griddle cakes whipped to a sattvic-friendly batter, seared on a hot tava, and served with a mortar-pestle pounded sweet chilli syrup.",
+  "cuisine": "Greek-Indian Fusion",
+  "diet": [
+    "Vegetarian",
+    "Sattvic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fine semolina",
+      "amount": "1 cup",
+      "notes": "sooji"
+    },
+    {
+      "name": "whipped yogurt",
+      "amount": "0.5 cup",
+      "notes": "fresh, non-sour plain yogurt"
+    },
+    {
+      "name": "warm water",
+      "amount": "0.75 cup",
+      "notes": "to adjust batter consistency"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted, plus extra for the tava"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 teaspoon",
+      "notes": "freshly crushed in a mortar and pestle"
+    },
+    {
+      "name": "mild red chillies",
+      "amount": "2",
+      "notes": "seeded and pounded in a mortar"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "4 tablespoons",
+      "notes": "or honey for the sweet chilli sauce"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": "for aeration"
+    }
+  ],
+  "instructions": [
+    "Pound the mild red chillies and fennel seeds in a mortar and pestle until a coarse paste forms.",
+    "Whisk the pounded mixture into the maple syrup in a small bowl to create the sweet chilli sauce.",
+    "In a large mixing bowl, combine the fine semolina, whipped yogurt, melted butter, and warm water.",
+    "Whisk the batter vigorously for three minutes to incorporate air and let it rest for ten minutes.",
+    "Fold the baking powder into the rested batter just before cooking to create a light, bubbly texture.",
+    "Heat a seasoned cast iron tava griddle over medium heat and brush it lightly with melted butter.",
+    "Pour a small ladle of batter onto the hot tava without spreading it too thin.",
+    "Cook for three minutes until bubbles pop on the surface and the bottom turns golden brown.",
+    "Flip the pancake carefully and cook the other side for an additional two minutes.",
+    "Serve the warm, aerated pancakes immediately with a generous drizzle of the sweet chilli sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "fusion-brunch",
+    "griddle-cakes",
+    "quick-meals",
+    "sattvic-diet",
+    "semolina",
+    "tava-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 65,
+    "fat": 14
+  },
+  "slug": "newly-whipped-tava-greek-semolina-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/newly-whipped-tava-greek-semolina-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T14:58:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Semolina",
+    "descriptor": "Newly Whipped Tava",
+    "dishForm": "Pancakes"
+  }
+}

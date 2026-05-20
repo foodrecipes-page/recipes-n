@@ -1,0 +1,123 @@
+{
+  "title": "Filipino Pig Lechon",
+  "description": "A classic Filipino dish known for its nutty, flaky, and aromatic flavors. This recipe features a sugar-free-friendly tomato sauce and a rich deglaze-fond.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless pork belly",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "star anise",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar-free tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mix together lemon juice, garlic, black pepper, bay leaves, and star anise.",
+    "Add the pork belly to the marinade, making sure it is fully coated. Cover and refrigerate for at least 2 hours or overnight.",
+    "Remove the pork from the marinade and place it in a large roasting pan.",
+    "Roast the pork in the preheated oven for 30 minutes. Baste the pork with the pan juices every 10 minutes.",
+    "While the pork is roasting, heat the vinegar and tomato paste in a small saucepan over medium heat, stirring constantly.",
+    "Bring the sauce to a boil and cook for 2 minutes, stirring constantly. Remove from heat and set aside.",
+    "After 30 minutes of roasting, remove the pork from the oven and increase the oven temperature to 425°F (220°C).",
+    "Brush the sugar-free tomato paste mixture all over the pork, making sure it is fully coated.",
+    "Return the pork to the oven and roast for an additional 20-25 minutes, or until the skin is crispy and golden brown.",
+    "Remove the pork from the oven and let it rest for 10 minutes before slicing and serving.",
+    "Strain the pan juices and serve them with the roasted pork.",
+    "Baste the pork with the pan juices every 10 minutes during the last 20-25 minutes of roasting.",
+    "Baste the pork with the pan juices every 10 minutes during the last 20-25 minutes of roasting.",
+    "Baste the pork with the pan juices every 10 minutes during the last 20-25 minutes of roasting.",
+    "Baste the pork with the pan juices every 10 minutes during the last 20-25 minutes of roasting.",
+    "Baste the pork with the pan juices every 10 minutes during the last 20-25 minutes of roasting.",
+    "Baste the pork with the pan juices every 10 minutes during the last 20-25 minutes of roasting.",
+    "Baste the pork with the pan juices every 10 minutes during the last 20-25 minutes of roasting.",
+    "Baste the pork with the pan juices every 10 minutes during the last 20-25 minutes of roasting.",
+    "Baste the pork with the pan juices every 10 minutes during the last 20-25 minutes of roasting.",
+    "Baste the pork with the pan juices every 10 minutes during the last 20-25 minutes of roasting.",
+    "Baste the pork with the pan juices every 10 minutes during the last 20-25 minutes of roasting."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 80,
+  "totalTimeMin": 200,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "filipino",
+    "main-course",
+    "pork",
+    "roasted",
+    "slow-cooked",
+    "special-occasion",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 3200,
+    "protein": 280,
+    "carbs": 80,
+    "fat": 220
+  },
+  "slug": "nutty-flaky-filipino-pig-lechon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-flaky-filipino-pig-lechon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:58:52Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "tomato sauce",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pig",
+    "descriptor": "nutty flaky",
+    "dishForm": "Lechon"
+  }
+}
