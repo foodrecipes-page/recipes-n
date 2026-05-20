@@ -1,0 +1,99 @@
+{
+  "title": "Uruguayan Beef Tacos with Chimichurri Sauce",
+  "description": "A flavor-packed twist on traditional beef tacos, featuring the bold flavors of Uruguay and a rich, herby chimichurri sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour tortillas",
+      "amount": "8-10 tortillas"
+    },
+    {
+      "name": "chimichurri sauce (see below for ingredients)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flank steak",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine chimichurri sauce ingredients and blend until smooth.",
+    "Season the flank steak with salt, black pepper, and red pepper flakes.",
+    "Grill or pan-fry the flank steak to desired level of doneness, then let it rest for 5 minutes before slicing thinly.",
+    "Heat the chimichurri sauce in a saucepan over medium-low heat until warm and fragrant.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few slices of the grilled steak onto a warmed tortilla, then spooning some of the chimichurri sauce over the top.",
+    "Garnish with sliced red onion, chopped cilantro, and a sprinkle of grated ginger.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "chimichurri",
+    "flank-steak",
+    "grilled",
+    "herb-sauce",
+    "tacos",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "nourishing-uruguayan-beef-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-uruguayan-beef-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:42:35Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "flour tortilla",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Nourishing",
+    "dishForm": "Tacos"
+  }
+}

@@ -8799,6 +8799,22 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-uruguayan-beef-tacos",
+    "title": "Uruguayan Beef Tacos with Chimichurri Sauce",
+    "tags": [
+      "beef",
+      "chimichurri",
+      "flank-steak",
+      "grilled",
+      "herb-sauce",
+      "tacos",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-uruguayan-cabbage-stew",
     "title": "Nourishing Uruguayan Cabbage Stew",
     "tags": [
