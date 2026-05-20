@@ -1,0 +1,108 @@
+{
+  "title": "Nimble Middle-Eastern Fennel Warak Enab",
+  "description": "A yeasty, crumbly Middle-Eastern dish featuring fennel and binchotan charcoal, all in one pot.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fennel",
+      "amount": "2 bulbs",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 envelope",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing the pan"
+    },
+    {
+      "name": "Leeks",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Combine yeast, flour, salt, and black pepper in a bowl to make the dough. ",
+    "Heat the binchotan charcoal in the oven at 400\u0018C for 30 minutes to get it smoldering.",
+    "Grease a large cast-iron skillet with olive oil. ",
+    "Add chopped leeks and minced garlic to the skillet and saut\u0000\u0000\u0000eacute; for 5 minutes. ",
+    "Add the smoldering binchotan charcoal to the skillet and stir to combine. ",
+    "Add the fennel bulbs to the skillet, cut into wedges, and cook for 10 minutes. ",
+    "Cover the skillet with a tight-fitting lid and bake in the oven at 375\u0018C for 25 minutes. ",
+    "The dough is ready when it's puffed and golden brown, so remove the lid and bake for an additional 10 minutes. ",
+    "Remove the skillet from the oven and let it cool for 10 minutes before serving. ",
+    "Cut the warm Warak Enab into wedges and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "flexitarian",
+    "middle-eastern",
+    "one-pan",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "nimble-middle-eastern-fennel-warak-enab",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-middle-eastern-fennel-warak-enab",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:02:03Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "fennel",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "fennel",
+    "descriptor": "Nimble",
+    "dishForm": "Warak Enab"
+  }
+}

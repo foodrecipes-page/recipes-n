@@ -2710,6 +2710,19 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-middle-eastern-fennel-warak-enab",
+    "title": "Nimble Middle-Eastern Fennel Warak Enab",
+    "tags": [
+      "flexitarian",
+      "middle-eastern",
+      "one-pan",
+      "yeast-bread"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 60,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-mustard-uruguayan-snapper-ceviche",
     "title": "Nimble Mustard Uruguayan Snapper Ceviche",
     "tags": [
@@ -9415,6 +9428,21 @@
       "risotto",
       "weeknight",
       "winter-recipe"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutmeg-italian-fish-salt-baked",
+    "title": "Nutmeg Italian Fish Salt-Baked",
+    "tags": [
+      "fish",
+      "italian",
+      "low-fat",
+      "one-pan",
+      "salt-baked",
+      "weeknight"
     ],
     "cuisine": "Italian",
     "totalTimeMin": 40,

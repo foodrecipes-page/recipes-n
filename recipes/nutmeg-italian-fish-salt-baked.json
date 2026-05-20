@@ -1,0 +1,126 @@
+{
+  "title": "Nutmeg Italian Fish Salt-Baked",
+  "description": "A peppery, flaky, festive Italian dish made with Thai green curry paste, perfect for low-fat enthusiasts. The combination of Mediterranean herbs and spices adds a delightful twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-fat",
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Thai Green Curry Paste",
+      "amount": "2",
+      "notes": "Use a mild variety if preferred."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2",
+      "notes": "Extra virgin olive oil preferred."
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1",
+      "notes": "As much as you like."
+    },
+    {
+      "name": "Salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean Oregano",
+      "amount": "1",
+      "notes": "Dried or fresh, as preferred."
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1",
+      "notes": "As much as you like."
+    },
+    {
+      "name": "Fennel",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Line a baking sheet with parchment paper or aluminum foil, leaving enough space for the fish to lay flat.",
+    "Place the fish fillets on the prepared baking sheet, leaving a small gap between each fillet.",
+    "Mix the curry paste, olive oil, nutmeg, salt, black pepper, garlic, oregano, Italian seasoning, fennel, and onion in a small bowl until well combined.",
+    "Apply the curry paste mixture evenly to both sides of each fish fillet, making sure they are fully coated.",
+    "Dot the top of each fillet with a small amount of lemon juice and garnish with fresh parsley.",
+    "Cover the baking sheet with aluminum foil and bake for 10 minutes, or until the fish is partially cooked.",
+    "Remove the foil and continue baking for an additional 5-7 minutes, or until the fish is cooked through and flakes easily with a fork.",
+    "Remove from the oven and serve immediately, with lemon wedges on the side.",
+    "Garnish with additional fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "italian",
+    "low-fat",
+    "one-pan",
+    "salt-baked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 0,
+    "fat": 4
+  },
+  "slug": "nutmeg-italian-fish-salt-baked",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutmeg-italian-fish-salt-baked",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:03:06Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "salt-bake",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "fish",
+    "descriptor": "Nutmeg",
+    "dishForm": "Salt-Baked"
+  }
+}
