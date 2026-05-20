@@ -1,0 +1,126 @@
+{
+  "title": "Nutritious Nice Japanese Vegetables Kushikatsu",
+  "description": "Winey, tender, and kid-friendly Japanese dish featuring speculaas spice mix, stir-fry, and anti-inflammatory-friendly ingredients in kushikatsu form.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "125g",
+      "notes": ""
+    },
+    {
+      "name": "speculaas spice mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rice flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "beaten egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "mild vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "koji rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep frying pan over medium heat to 170°C.",
+    "Cut carrots, zucchini, bell peppers, and onions into 5cm sticks.",
+    "In a shallow dish, mix together speculaas spice mix, rice flour, and a pinch of salt.",
+    "Dip each vegetable stick into the rice flour mixture, coating evenly.",
+    "Dip the coated vegetable stick into the beaten egg, making sure to coat completely.",
+    "Deep-fry the coated vegetable sticks in batches until golden brown, about 4 minutes per side.",
+    "Drain the fried kushikatsu on paper towels.",
+    "In a small bowl, whisk together soy sauce, honey, sesame seeds, and green onions.",
+    "Transfer the fried kushikatsu to a serving plate and drizzle with the soy sauce glaze.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kushikatsu",
+    "one-pan",
+    "speculaas",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "nutritious-nice-japanese-vegetables-kushikatsu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-nice-japanese-vegetables-kushikatsu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:56:54Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "stir-fry",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "vegetables",
+    "descriptor": "Nutritious Nice",
+    "dishForm": "Kushikatsu"
+  }
+}
