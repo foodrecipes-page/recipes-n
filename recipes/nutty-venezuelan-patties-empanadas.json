@@ -1,0 +1,69 @@
+{
+  "title": "Nutty Venezuelan Patties Empanadas",
+  "description": "A dense and nutty twist on traditional Venezuelan empanadas, perfect for a sick day. This recipe is low-carb-friendly and can be easily prepared at home.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio works best"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, mix together the ground beef, chopped onion, minced garlic, cumin, and salt until well combined.",
+    "Divide the mixture into 8 equal parts and shape each part into a ball.",
+    "Flatten each ball into a disk shape, about 1/8 inch thick.",
+    "Place a tablespoon of grated queso fresco in the center of each disk, leaving a 1/2 inch border around the edges.",
+    "Fold the dough over the cheese and press the edges together to seal the empanada.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Brush the tops of the empanadas with beaten egg and sprinkle with chopped pecans.",
+    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown.",
+    "While the empanadas are baking, heat a large skillet over medium-high heat with 1/2 inch of vegetable oil.",
+    "When the empanadas are done baking, heat the oil in the skillet to 375°F (190°C).",
+    "Fry the empanadas in batches until golden brown and crispy, about 2-3 minutes on each side.",
+    "Drain the empanadas on paper towels and serve hot.",
+    "Optional: Serve with a side of salsa or guacamole for added flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fry",
+    "low-carb",
+    "snack",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "nutty-venezuelan-patties-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-venezuelan-patties-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:07:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "fry",
+    "primaryIngredient": "restaurant",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Patties",
+    "descriptor": "Nutty",
+    "dishForm": "Empanadas"
+  }
+}

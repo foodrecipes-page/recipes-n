@@ -1,0 +1,109 @@
+{
+  "title": "Nutty Velvety Brazilian Myeolchi Poke",
+  "description": "A creamy and crunchy open-faced dish combining the umami flavors of sashimi-cut myeolchi anchovies with the crunch of toasted Brazil nuts and fresh herbs, making it a crowd-pleaser for any meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh myeolchi anchovies",
+      "amount": "1",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "Brazil nuts",
+      "amount": "1/2 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine garlic, ginger, honey, coconut oil, salt, and black pepper.",
+    "Blend until smooth.",
+    "In a large bowl, combine the blended mixture, fresh herbs, and toasted Brazil nuts.",
+    "Add the sashimi-cut myeolchi anchovies and mix gently.",
+    "Squeeze fresh lime juice over the top and toss to combine.",
+    "Serve immediately and garnish with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "high-protein",
+    "low-carb",
+    "pescatarian",
+    "poke",
+    "sushi",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 6,
+    "fat": 24
+  },
+  "slug": "nutty-velvety-brazilian-myeolchi-poke",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-velvety-brazilian-myeolchi-poke",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:08:28Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "myeolchi-anchovies",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "myeolchi",
+    "descriptor": "nutty velvety",
+    "dishForm": "Poke"
+  }
+}

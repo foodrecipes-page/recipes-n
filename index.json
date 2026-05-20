@@ -17841,6 +17841,22 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-velvety-brazilian-myeolchi-poke",
+    "title": "Nutty Velvety Brazilian Myeolchi Poke",
+    "tags": [
+      "brazilian",
+      "high-protein",
+      "low-carb",
+      "pescatarian",
+      "poke",
+      "sushi",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 15,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-velvety-cashew-stir-fry",
     "title": "Nutty Velvety Cashew Stir-fry",
     "tags": [
@@ -18121,6 +18137,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 65,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-venezuelan-patties-empanadas",
+    "title": "Nutty Venezuelan Patties Empanadas",
+    "tags": [
+      "fry",
+      "low-carb",
+      "snack",
+      "venezuelan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {
