@@ -1,0 +1,108 @@
+{
+  "title": "Nourishing Irish Turkey Neck Stew",
+  "description": "A hearty, comforting stew featuring turkey neck, perfect for a hangover cure or a cozy meal. The brine-dried turkey neck adds a pillowy texture and a salty flavor.",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brine-dried turkey neck",
+      "amount": "2",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "irish stout",
+      "amount": "1 cup",
+      "notes": "or substitute with another dark beer"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "sodium-free seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the irish stout in a large pot over medium heat until simmering.",
+    "Add the brine-dried turkey neck and cook for 5 minutes, or until browned.",
+    "Add the onion, carrot, celery, and garlic to the pot and cook for 5 minutes, or until the vegetables are tender.",
+    "Add the flour and stir to combine, cooking for 1 minute.",
+    "Add the chicken broth, bringing the mixture to a boil.",
+    "Reduce the heat to low and simmer for 2 hours, or until the turkey neck is tender.",
+    "Season the stew with sodium-free seasoning blend and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Let the stew rest for 10 minutes before serving to allow the flavors to meld.",
+    "Reheat the stew as needed before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "homestyle",
+    "one-pan",
+    "stew",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 43,
+    "carbs": 16,
+    "fat": 24
+  },
+  "slug": "nourishing-irish-turkey-neck-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-irish-turkey-neck-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:59:35Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "brine-dry",
+    "primaryIngredient": "turkey neck",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Turkey neck",
+    "descriptor": "Nourishing",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "title": "Norwegian smoke-hot Norwegian Charred lamb Stew",
+  "description": "A rich and indulgent Norwegian dish featuring charred lamb in a smoky sauce, perfect for a raw-friendly hot pot meal. This stew combines the flavors of capers and lamb for a truly unforgettable experience.",
+  "cuisine": "Norwegian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, bone-in, 1 pound",
+      "amount": "cut into 1-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion, 1 medium",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, 2 cloves",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "Capers, 1/4 cup",
+      "amount": "drained and rinsed",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lamb broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Egg noodles",
+      "amount": "8 ounces",
+      "notes": "cooked according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Heat the olive oil in a large Dutch oven over medium heat. Add the chopped onion and cook until softened, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the smoked paprika, lamb broth, red wine, tomato paste, salt, and black pepper. Stir to combine.",
+    "Transfer the Dutch oven to the preheated oven and braise the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Meanwhile, cook the egg noodles according to package instructions and set aside.",
+    "When the lamb is done, stir in the chopped parsley and adjust the seasoning as needed.",
+    "Serve the lamb and juices over the cooked egg noodles, with lemon wedges on the side.",
+    "Garnish with additional parsley and capers, if desired.",
+    "Serve immediately and enjoy!",
+    "This stew is perfect for a raw-friendly hot pot meal, as the lamb is slow-cooked to tender perfection and the flavors are rich and indulgent.",
+    "The capers add a salty and tangy flavor, while the smoked paprika gives the dish a smoky and savory taste.",
+    "This dish is sure to become a favorite among lamb lovers and hot pot enthusiasts alike.",
+    "The prep time is approximately 20 minutes, and the cooking time is about 2 1/2 hours.",
+    "The total time is approximately 2 3/4 hours, and the servings are 4-6.",
+    "This stew is rated as medium difficulty due to the time required for braising the lamb, but the end result is well worth the effort.",
+    "The tags for this dish are: norwegian-smoke-hot, charred-lamb, hot-pot, lamb-lovers, savory-stew.",
+    "The nutrition information for this dish is: calories: 420, protein: 35g, carbs: 20g, fat: 25g."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred-lamb",
+    "hot-pot",
+    "lamb-lovers",
+    "norwegian-smoke-hot",
+    "savory-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "norwegian-smoke-hot-norwegian-charred-lamb-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/norwegian-smoke-hot-norwegian-charred-lamb-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:59:32Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "smoke-hot",
+    "primaryIngredient": "capers",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Charred lamb",
+    "descriptor": "Norwegian smoke-hot",
+    "dishForm": "Stew"
+  }
+}
