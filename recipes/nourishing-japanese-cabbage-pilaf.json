@@ -1,0 +1,109 @@
+{
+  "title": "Nourishing Japanese Cabbage Pilaf",
+  "description": "A malty, fluffy Japanese dish featuring savoy cabbage, perfect for meal prep and ovo-vegetarian diets. This recipe showcases the simplicity and flavor of Japanese cooking, with minimal ingredients and easy preparation.",
+  "cuisine": "Japanese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoy Cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Medium Grain Rice",
+      "amount": "1 cup",
+      "notes": "Japanese short-grain rice is preferred for this recipe."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral-tasting oil for best results."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Fresh ginger adds depth to this pilaf."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use low-sodium soy sauce for a healthier option."
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Add a touch of sweetness with pure honey."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste, but start with a moderate amount."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground black pepper enhances flavors."
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Finely chopped green onions add a pop of color."
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional garnish for added texture."
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add ginger and sauté for 1 minute, until fragrant.",
+    "Add cabbage and cook for 5 minutes, until slightly wilted.",
+    "Add rice and stir to combine with cabbage and ginger.",
+    "Add soy sauce, honey, salt, and pepper, and stir to coat evenly.",
+    "Reduce heat to low, cover, and simmer for 15 minutes, or until liquid is absorbed and rice is cooked.",
+    "Fluff pilaf with a fork and garnish with green onions and sesame seeds, if using.",
+    "Serve hot, or store in the refrigerator for up to 5 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "japanese",
+    "low-fat",
+    "meal-prep",
+    "ovo-vegetarian",
+    "pilaf",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "nourishing-japanese-cabbage-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-japanese-cabbage-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:30:25Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cabbage",
+    "descriptor": "nourishing",
+    "dishForm": "Pilaf"
+  }
+}
