@@ -1,0 +1,60 @@
+{
+  "title": "Nutty Uruguayan Brussels Sprouts Wrap",
+  "description": "A shattering and kid-friendly Uruguayan dish featuring Brussels sprouts, ssam-wrap, and a nutty flavor. Serve warm with a side of tangy salsa.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "12",
+      "notes": "trimmed"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add 1 tablespoon of peanut oil and swirl to coat the pan.",
+    "Add the Brussels sprouts and cook, stirring occasionally, until they are tender and caramelized, about 8 minutes.",
+    "In a separate pan, warm the ssam-wrap over medium heat for 30 seconds on each side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brussels-sprouts",
+    "kid-friendly",
+    "nutty",
+    "one-pan",
+    "ssam-wrap",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "nutty-uruguayan-brussels-sprouts-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-uruguayan-brussels-sprouts-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:25:19Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Brussels Sprouts",
+    "descriptor": "Nutty",
+    "dishForm": "Wrap"
+  }
+}

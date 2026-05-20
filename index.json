@@ -15486,6 +15486,19 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-quick-american-fennel-grill",
+    "title": "Nutty Quick American Fennel Grill",
+    "tags": [
+      "fennel-lovers",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 13,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-quick-middle-eastern-cashew-tagine",
     "title": "Nutty Quick Middle Eastern Cashew Tagine",
     "tags": [
@@ -16957,6 +16970,22 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-uruguayan-brussels-sprouts-wrap",
+    "title": "Nutty Uruguayan Brussels Sprouts Wrap",
+    "tags": [
+      "brussels-sprouts",
+      "kid-friendly",
+      "nutty",
+      "one-pan",
+      "ssam-wrap",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {

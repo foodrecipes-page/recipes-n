@@ -1,0 +1,89 @@
+{
+  "title": "Nutty Quick American Fennel Grill",
+  "description": "A quick-fix American dish featuring fennel and lamination-puff, perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel",
+      "amount": "2 bulbs"
+    },
+    {
+      "name": "lamination-puff pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan charcoal grill to medium-high heat.",
+    "Slice the fennel into 1-inch pieces and set aside.",
+    "Roll out the lamination-puff pastry to a thickness of 1/8 inch.",
+    "Place the pastry on the grill and cook for 2 minutes, or until it starts to puff up.",
+    "Top the pastry with the sliced fennel, non-dairy milk, nutritional yeast, olive oil, salt, and black pepper.",
+    "Fold the pastry in half to enclose the filling and cook for an additional 2-3 minutes, or until the pastry is golden brown.",
+    "Serve the nutty quick American fennel grill hot and enjoy!",
+    "Note: Binchotan charcoal grills can get very hot, so be careful not to burn yourself while cooking."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fennel-lovers",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "nutty-quick-american-fennel-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-quick-american-fennel-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:25:27Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "lamination-puff",
+    "primaryIngredient": "fennel",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "fennel",
+    "descriptor": "nutty quick",
+    "dishForm": "Grill"
+  }
+}
