@@ -1,0 +1,108 @@
+{
+  "title": "Nutty Saudi Arabian Pine Nut Poach",
+  "description": "Shaggy and festive, this vegan-friendly dish combines the rich flavors of pine nuts with a refreshing poaching liquid.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pine nuts",
+      "amount": "120g",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "500ml",
+      "notes": null
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "200ml",
+      "notes": null
+    },
+    {
+      "name": "date syrup",
+      "amount": "50g",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "20g",
+      "notes": "melted"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine pine nuts, water, almond milk, date syrup, coconut oil, cinnamon, ginger, and salt in a saucepan. Bring to a boil, then reduce the heat to a simmer and poach for 5 minutes.",
+    "Remove the saucepan from the heat and let it steep for 5 minutes.",
+    "Strain the poaching liquid through a fine-mesh sieve into a bowl, discarding the solids.",
+    "Stir in lemon juice and let the mixture cool to room temperature.",
+    "Stir in chopped parsley and serve chilled.",
+    "Serve warm or chilled.",
+    "Serve as a festive dessert or snack.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "pine-nuts",
+    "poach",
+    "saudi-arabian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 24
+  },
+  "slug": "nutty-saudi-arabian-pine-nuts-poach",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-saudi-arabian-pine-nuts-poach",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:04:57Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "poach",
+    "primaryIngredient": "pine nuts",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "pine nuts",
+    "descriptor": "nutty",
+    "dishForm": "poach"
+  }
+}
