@@ -1,0 +1,113 @@
+{
+  "title": "Nutty Jamaican Sausage Grill",
+  "description": "A delicious, lacto-vegetarian-friendly Jamaican dish featuring crispy sausage and a nutty flavor profile, perfect for post-workout meals. This recipe is quick and easy to prepare, making it a great option for weeknights or busy days.",
+  "cuisine": "Jamaican",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 pound of Jamaican sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "1 medium onion, sliced",
+      "amount": "1 medium onion",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves of garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "1 medium bell pepper, sliced",
+      "amount": "1 medium bell pepper",
+      "notes": ""
+    },
+    {
+      "name": "1 cup of chopped fresh cilantro",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons of olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon of ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon of smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "4 katsuramuki-cut sweet potatoes",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "1 cup of chopped pecans",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until caramelized, stirring occasionally, about 8 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, stirring constantly to prevent burning.",
+    "Add the sliced bell pepper and cook until tender, stirring occasionally, about 5 minutes.",
+    "Add the Jamaican sausage and cook until browned and cooked through, about 5-7 minutes.",
+    "Add the cumin, smoked paprika, salt, and pepper to the skillet and stir to combine.",
+    "Add the katsuramuki-cut sweet potatoes to the skillet and cook for an additional 2-3 minutes, stirring occasionally.",
+    "If using pecans, sprinkle them over the top of the skillet and cook for an additional 1 minute.",
+    "Transfer the skillet to a serving platter and garnish with chopped cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jamaican",
+    "lacto-vegetarian",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 35,
+    "fat": 36
+  },
+  "slug": "nutty-jamaican-sausage-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-jamaican-sausage-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:35:50Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "sausage",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sausage",
+    "descriptor": "nutty",
+    "dishForm": "Grill"
+  }
+}
