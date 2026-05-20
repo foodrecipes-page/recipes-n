@@ -1,0 +1,135 @@
+{
+  "title": "Nutritious Creamy Irish Ice Cream Cake",
+  "description": "A rich and creamy Irish-inspired dessert featuring a long-fermentation dough crust, banana leaf-wrapped ice cream, and a hint of whiskey. This vegan-friendly cake is perfect for adventurous eaters looking for a unique dessert experience.",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Active dry yeast",
+      "amount": "1 3/4 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mashed banana",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Whiskey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Banana leaves",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Ice cream",
+      "amount": "1 1/2 quarts",
+      "notes": ""
+    },
+    {
+      "name": "Chocolate chips",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pecans",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine yeast, flour, sugar, cocoa powder, and salt in a large mixing bowl. Mix until a shaggy dough forms.",
+    "Knead dough for 5-7 minutes until smooth and elastic.",
+    "Place dough in a greased bowl, cover with plastic wrap, and let rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper and shape dough into a circle, about 1 inch thick.",
+    "Bake dough for 25-30 minutes, or until golden brown and set aside to cool.",
+    "Meanwhile, combine coconut cream, maple syrup, whiskey, and vanilla extract in a blender and blend until smooth.",
+    "Pour coconut cream mixture into a 9-inch springform pan and freeze for at least 2 hours, or until firm.",
+    "Remove ice cream from freezer and top with chocolate chips, walnuts, and pecans. Wrap banana leaves around the outside of the pan and secure with kitchen twine.",
+    "Place cake in the freezer for at least 2 hours, or until firm and set.",
+    "Remove cake from freezer and slice into 8-10 servings.",
+    "Serve chilled, garnished with additional chocolate chips and nuts if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "ice-cream",
+    "irish",
+    "long-fermentation-dough",
+    "vegan",
+    "whiskey"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 12,
+    "carbs": 120,
+    "fat": 60
+  },
+  "slug": "nutritious-creamy-irish-ice-cream-cake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-creamy-irish-ice-cream-cake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:23:21Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "ice cream",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "ice cream",
+    "descriptor": "nutritious creamy",
+    "dishForm": "Cake"
+  }
+}
