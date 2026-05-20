@@ -1,0 +1,105 @@
+{
+  "title": "Nimble Vinegar Kenyan Sour Fritters",
+  "description": "Sour, crumbly, and adventurous Kenyan dish featuring pickle juice and caramelized onions. Perfect for a snack or dessert.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "gluten-free all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1/2 cup",
+      "notes": "see instructions for caramelization process"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crushed pink peppercorns",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together gluten-free flour, kosher salt, and crushed pink peppercorns.",
+    "In a separate bowl, whisk together eggs, grated carrot, grated ginger, and chopped cilantro.",
+    "Add the pickle juice to the egg mixture and whisk until combined.",
+    "Add the dry ingredients to the egg mixture and stir until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Heat 1-2 inches of oil in a fondue pot over medium heat.",
+    "Once the oil is hot, add the dough and cook until it is golden brown and crispy.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Caramelize the onions by heating 1 tablespoon of oil in a pan over medium-low heat. Cook for 30 minutes, stirring occasionally.",
+    "Once the onions are caramelized, set them aside to cool.",
+    "Serve the fritters with caramelized onions on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "fritters",
+    "gluten-free",
+    "kenyan",
+    "sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "nimble-vinegar-kenyan-sour-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-vinegar-kenyan-sour-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:31:38Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "caramelize",
+    "primaryIngredient": "pickle juice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sour",
+    "descriptor": "Nimble Vinegar",
+    "dishForm": "Fritters"
+  }
+}
