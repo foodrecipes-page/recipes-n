@@ -1,0 +1,108 @@
+{
+  "title": "Nimble Thai Fines-Herbes Gaeng-Curry",
+  "description": "A unique Thai dish that combines the freshness of fines-herbes with the warm, spicy flavors of gaeng-curry.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gaeng-curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fines-herbes (such as basil, mint, and cilantro)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2"
+    },
+    {
+      "name": "Galangal",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add shallots and galangal and cook until fragrant.",
+    "Add chicken and cook until browned.",
+    "Add curry paste and cook for 1 minute.",
+    "Add coconut milk, fish sauce, and lime juice, and stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce heat to low and cook for 10 minutes.",
+    "Stir in fresh cilantro.",
+    "Serve hot over steamed rice or noodles.",
+    "Deep-fry the tod until crispy and golden brown.",
+    "Serve tod on top of the curry."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chicken",
+    "coconut-milk",
+    "curry",
+    "deep-fried",
+    "fines-herbes",
+    "spicy",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "nimble-thai-fines-herbes-gaeng-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-thai-fines-herbes-gaeng-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:14:13Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "fines-herbes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "fines-herbes",
+    "descriptor": "Nimble",
+    "dishForm": "Gaeng-Curry"
+  }
+}
