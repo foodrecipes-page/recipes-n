@@ -1,0 +1,116 @@
+{
+  "title": "Nocturnal Night Ethiopian Ume-Plum Atakilt-Wat",
+  "description": "A midnight-craving Ethiopian dish featuring the sweet and sour flavors of ume-plum. This atakilt-wat recipe is halal-friendly and perfect for a grassy, crumbly night out.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ghee",
+      "amount": "1/4 cup",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ume-plum",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tumeric",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "fenugreek",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a pan over medium heat. Add the onion and garlic and cook until softened.",
+    "Add the ume-plum, tumeric, cumin, salt, and black pepper. Cook for 2 minutes.",
+    "Add the fenugreek and berbere spice. Cook for an additional 2 minutes.",
+    "Add the flour and water. Stir until the mixture thickens.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve hot and garnish with chopped onion and ume-plum.",
+    "If desired, flambé with a small amount of water and ghee to crisp the onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "atakilt-wat",
+    "ethiopian",
+    "flambe",
+    "grassy-crumbly",
+    "halal",
+    "midnight-snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "nocturnal-night-ethiopian-ume-plum-atakilt-wat",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nocturnal-night-ethiopian-ume-plum-atakilt-wat",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:07:07Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "flambe",
+    "primaryIngredient": "ume-plum",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "ume-plum",
+    "descriptor": "Nocturnal Night",
+    "dishForm": "Atakilt-Wat"
+  }
+}

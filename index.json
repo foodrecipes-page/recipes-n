@@ -2959,6 +2959,20 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-southern-thai-tomatoes-kanom-ko",
+    "title": "Nimble Southern-Thai Tomatoes Kanom Ko",
+    "tags": [
+      "date-night",
+      "easy-dessert",
+      "halal",
+      "southern-thai",
+      "weeknight"
+    ],
+    "cuisine": "southern-thai",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-thai-fines-herbes-gaeng-curry",
     "title": "Nimble Thai Fines-Herbes Gaeng-Curry",
     "tags": [
@@ -3245,6 +3259,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nocturnal-night-ethiopian-ume-plum-atakilt-wat",
+    "title": "Nocturnal Night Ethiopian Ume-Plum Atakilt-Wat",
+    "tags": [
+      "atakilt-wat",
+      "ethiopian",
+      "flambe",
+      "grassy-crumbly",
+      "halal",
+      "midnight-snack"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {

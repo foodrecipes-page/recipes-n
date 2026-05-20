@@ -1,0 +1,99 @@
+{
+  "title": "Nimble Southern-Thai Tomatoes Kanom Ko",
+  "description": "A winey, pillowy Thai dessert featuring confit tomatoes and cilantro. Perfect for a romantic date night.",
+  "cuisine": "southern-thai",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "halal ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "make sure refrigerated at 40°F (4°C) or below before use"
+    },
+    {
+      "name": "concentrated tomato puree",
+      "amount": "2 tablespoons",
+      "notes": "see note *confit-tomatoes* below",
+      "tags": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "use high-quality cinnamon for best flavor"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": "high-quality vanilla extract recommended"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper and set aside for cooling. ",
+    "In a blender or food processor, combine halal ghee, all-purpose flour, granulated sugar, eggs, and plain Greek yogurt. Blend until smooth, stopping to scrape down the sides if needed.",
+    "Add concentrated tomato puree, ground cinnamon, and vanilla extract to the blender and blend until well combined.",
+    "Heat a non-stick skillet over medium heat.",
+    "Drop spoonfuls of the dough into the skillet, about 1 tablespoon each."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "easy-dessert",
+    "halal",
+    "southern-thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "nimble-southern-thai-tomatoes-kanom-ko",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-southern-thai-tomatoes-kanom-ko",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:06:49Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "confit-tomato",
+    "primaryIngredient": "cilantro",
+    "diet": "halal",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern-Thai",
+    "mainIngredient": "Tomatoes",
+    "descriptor": "Nimble",
+    "dishForm": "Kanom Ko"
+  }
+}
