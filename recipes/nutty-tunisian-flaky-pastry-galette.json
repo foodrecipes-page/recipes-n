@@ -1,0 +1,107 @@
+{
+  "title": "nutty tunisian flaky pastry galette",
+  "description": "Kid-friendly tunisian dish featuring poppy seeds, easy to make and perfect for breakfast or dessert",
+  "cuisine": "tunisian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose white flour",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "unflavored high-ratio lard or vegetable shortening",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "instant yeast can be used as substitute"
+    }
+  ],
+  "instructions": [
+    "Remove the galette from the oven and let it cool for 5 minutes before slicing and serving"
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dessert",
+    "high-fiber",
+    "kid-friendly",
+    "middle-eastern",
+    "morning-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nutty-tunisian-flaky-pastry-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-tunisian-flaky-pastry-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:56:17Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "poppy seeds",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "flaky pastry",
+    "descriptor": "nutty",
+    "dishForm": "galette"
+  }
+}

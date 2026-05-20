@@ -1,0 +1,64 @@
+{
+  "title": "nutmeg roasted uruguayan potatoes hash",
+  "description": "a delicious and flavorful roasted uruguayan potatoes hash recipe with a unique nutmeg touch and a sprinkle of fresh cilantro. this recipe is perfect for a quick weeknight dinner or a weekend brunch.",
+  "cuisine": "uruguayan",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large potatoes",
+      "amount": "2 lbs",
+      "notes": "choose high-starch potatoes for the fluffiest hash"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425 degrees fahrenheit.",
+    "cut the potatoes into 1-inch cubes and place them in a bowl.",
+    "drizzle the potatoes with olive oil and sprinkle with salt, pepper, and a pinch of nutmeg.",
+    "toss the potatoes to coat evenly and spread them on a baking sheet in a single layer.",
+    "roast the potatoes in the preheated oven for 20-25 minutes, or until they are tender and lightly browned.",
+    "while the potatoes are roasting, thinly slice 1/4 cup of red onion and 1/4 cup of fresh cilantro.",
+    "remove the potatoes from the oven and let them cool slightly.",
+    "fluff the potatoes with a fork to create a light and airy texture.",
+    "transfer the potatoes to a serving dish and top with the sliced red onion and cilantro.",
+    "serve the nutmeg roasted uruguayan potatoes hash hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "hash",
+    "one-pan",
+    "uruguayan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "nutmeg-roasted-uruguayan-potatoes-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutmeg-roasted-uruguayan-potatoes-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:55:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "dehydrate",
+    "primaryIngredient": "cilantro",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Potatoes",
+    "descriptor": "Nutmeg Roasted",
+    "dishForm": "Hash"
+  }
+}

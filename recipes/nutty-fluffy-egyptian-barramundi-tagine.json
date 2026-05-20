@@ -1,0 +1,110 @@
+{
+  "title": "nutty fluffy egyptian barramundi tagine",
+  "description": "an indulgent egyptian dish featuring barramundi, ferment-jang, and nutty undertones, fodmap friendly",
+  "cuisine": "egyptian",
+  "diet": [
+    "fodmap",
+    "gluten free",
+    "dairy free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4",
+      "notes": "fresh, skin off"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons",
+      "notes": "add depth of umami flavor"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground, for color and flavor"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked, for flavor"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground, for flavor"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground, for flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked, for serving"
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a large pan over medium heat",
+    "add the barramundi fillets and fry for 3-4 minutes on each side until cooked through",
+    "remove the barramundi from the pan and set aside",
+    "add the ferment-jang, turmeric, paprika, cumin, coriander, salt, and black pepper to the pan and stir to combine",
+    "return the barramundi to the pan and coat with the spice mixture",
+    "serve the barramundi on top of cooked quinoa",
+    "garnish with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "egyptian-cuisine",
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "nutty-fluffy-egyptian-barramundi-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-fluffy-egyptian-barramundi-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:55:20Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "ferment-jang",
+    "primaryIngredient": "barramundi",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "barramundi",
+    "descriptor": "nutty fluffy",
+    "dishForm": "tagine"
+  }
+}
