@@ -1,0 +1,104 @@
+{
+  "title": "Nightly Craving Nosh Jamaican Brussels Sprouts Hash",
+  "description": "A hearty, herbal, Jamaican-inspired breakfast dish featuring fermented kimchi and halal-friendly ingredients.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "halal",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1",
+      "notes": "seeds removed, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a tava griddle over medium-high heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the Brussels sprouts and sauté for 5 minutes.",
+    "Add the chopped kimchi, allspice, thyme, and scotch bonnet peppers. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until the Brussels sprouts are tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "hash",
+    "jamaican",
+    "one-pan",
+    "reggae"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 14
+  },
+  "slug": "nightly-craving-nosh-jamaican-brussels-sprouts-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nightly-craving-nosh-jamaican-brussels-sprouts-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:20:14Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "brussels sprouts",
+    "descriptor": "nightly craving nosh",
+    "dishForm": "hash"
+  }
+}
