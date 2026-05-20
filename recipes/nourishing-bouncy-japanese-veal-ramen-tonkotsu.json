@@ -1,0 +1,114 @@
+{
+  "title": "Nourishing Bouncy Japanese Veal Ramen-Tonkotsu",
+  "description": "A hearty, comforting dish featuring bouncy veal, rich tonkotsu broth, and a medley of Japanese flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bouncy Veal Bones",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Veal Meat",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces."
+    },
+    {
+      "name": "Tonkotsu Broth Powder",
+      "amount": "2 tablespoons",
+      "notes": "Or homemade broth, if preferred."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced into thin rounds."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "4 stalks",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Pickled Ginger",
+      "amount": "1/4 cup",
+      "notes": "Sliced into thin rounds."
+    },
+    {
+      "name": "Noodles",
+      "amount": "1 package",
+      "notes": "Ramen-style."
+    }
+  ],
+  "instructions": [
+    "Combine veal bones and tonkotsu broth powder in a large pot, then add enough water to cover.",
+    "Bring to a boil over high heat, then reduce to low and simmer for 1 hour.",
+    "Add sliced ginger and minced garlic to the pot, then continue to simmer for another 30 minutes.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding solids.",
+    "In a separate pan, heat sesame oil over medium heat, then add sliced green onions and sauté until softened.",
+    "Add sliced veal meat to the pan, then cook until browned and cooked through.",
+    "Add cooked veal meat and noodles to the pot with the tonkotsu broth, then stir to combine.",
+    "Divide noodles and veal among bowls, then ladle hot broth over the top.",
+    "Garnish with sliced pickled ginger and chopped green onions, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bouncy-veal",
+    "comfort-food",
+    "japanese",
+    "ramen",
+    "tonkotsu",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 59,
+    "carbs": 26,
+    "fat": 22
+  },
+  "slug": "nourishing-bouncy-japanese-veal-ramen-tonkotsu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-bouncy-japanese-veal-ramen-tonkotsu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:17:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "rest-meat",
+    "primaryIngredient": "veal",
+    "diet": "whole30",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Veal",
+    "descriptor": "Nourishing Bouncy",
+    "dishForm": "Ramen-Tonkotsu"
+  }
+}
