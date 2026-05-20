@@ -1,0 +1,116 @@
+{
+  "title": "Nourishing Cheesy Uruguayan Chicken Gratin",
+  "description": "A resinous, cheese-pull Uruguayan dish featuring char-grilled chicken and a rich chicken stock.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "chicken stock",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "shredded parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the chicken breasts with salt and pepper, then set aside.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook until they start to caramelize, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the chicken breasts to the skillet and cook until browned on both sides, about 5-6 minutes.",
+    "Transfer the chicken breasts to a baking dish and pour in the chicken stock.",
+    "Bring the chicken stock to a simmer and cook until it has reduced by half, about 5 minutes.",
+    "Stir in the heavy cream and shredded cheddar cheese until the cheese is melted and the sauce is smooth.",
+    "Pour the cheese sauce over the chicken breasts and top with shredded parmesan cheese.",
+    "Transfer the baking dish to the preheated oven and bake until the cheese is golden brown and bubbly, about 15-20 minutes.",
+    "Remove the dish from the oven and sprinkle with chopped parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-cheesy-uruguayan-chicken-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-cheesy-uruguayan-chicken-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T23:13:10Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "chicken stock",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Nourishing cheesy",
+    "dishForm": "Gratin"
+  }
+}
