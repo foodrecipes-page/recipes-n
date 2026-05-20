@@ -3230,6 +3230,20 @@
     "shard": "n"
   },
   {
+    "slug": "noodle-wrapped-vietnamese-rest-meat-bun-cha",
+    "title": "Bun Cha with Rest-Meat",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "low-glycemic",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
     "slug": "nordic-roasted-norwegian-turkey-neck-tagine",
     "title": "Nordic Roasted Norwegian Turkey Neck Tagine",
     "tags": [
@@ -13218,6 +13232,20 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-dense-galician-almonds-tarta-de-santiago",
+    "title": "Galician Tarta de Santiago",
+    "tags": [
+      "almonds",
+      "dessert",
+      "flour",
+      "galician",
+      "spanish"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {

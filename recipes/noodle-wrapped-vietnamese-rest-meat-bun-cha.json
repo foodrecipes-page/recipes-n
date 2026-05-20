@@ -1,0 +1,108 @@
+{
+  "title": "Bun Cha with Rest-Meat",
+  "description": "A lazy Sunday dish featuring rest-meat and mixed grain noodles. This roasted Vietnamese recipe is perfect for a low-glycemic-friendly meal.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed grain rice stick noodles",
+      "amount": "12 ounces"
+    },
+    {
+      "name": "rest-meat (pork, beef, or lamb)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "grated fresh ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickled carrots and daikon",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with aluminum foil and arrange the rest-meat on it.",
+    "Roast the rest-meat in the preheated oven for 20 minutes or until browned and cooked through.",
+    "While the rest-meat is roasting, cook the mixed grain rice stick noodles according to package instructions.",
+    "Chop the scallions and cucumber into thin slices.",
+    "Grate the fresh ginger using a microplane.",
+    "In a small bowl, whisk together the fish sauce, soy sauce, lime juice, sugar, and black pepper.",
+    "Once the rest-meat is done, slice it thinly against the grain.",
+    "To assemble the bun cha, place a portion of the noodles on a serving plate, add a few slices of the roasted rest-meat, and top with chopped scallions, cucumber slices, pickled carrots and daikon, and roasted peanuts.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 542,
+    "protein": 62,
+    "carbs": 54,
+    "fat": 24
+  },
+  "slug": "noodle-wrapped-vietnamese-rest-meat-bun-cha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/noodle-wrapped-vietnamese-rest-meat-bun-cha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:04:08Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "rest-meat",
+    "primaryIngredient": "mixed grain",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rest-meat",
+    "descriptor": "noodle-wrapped",
+    "dishForm": "Bun Cha"
+  }
+}

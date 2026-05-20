@@ -1,0 +1,89 @@
+{
+  "title": "Galician Tarta de Santiago",
+  "description": "A dense and smoky almond cake originating from the Galicia region of Spain, made with toasted almonds and a hint of cinnamon. Traditionally served as a solo dinner or dessert.",
+  "cuisine": "spanish",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 1/2 cups",
+      "notes": "peeled and toasted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a food processor, grind the toasted almonds into a fine crumb.",
+    "In a medium bowl, whisk together the flour, baking powder, and cinnamon.",
+    "In a large bowl, whisk together the sugar and melted butter until well combined."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almonds",
+    "dessert",
+    "flour",
+    "galician",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "nutty-dense-galician-almonds-tarta-de-santiago",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-galician-almonds-tarta-de-santiago",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:03:10Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "tandoor",
+    "primaryIngredient": "toast",
+    "diet": "halal",
+    "region": "galician",
+    "cuisineAdjective": "Galician",
+    "mainIngredient": "almonds",
+    "descriptor": "nutty dense",
+    "dishForm": "Tarta de Santiago"
+  }
+}
