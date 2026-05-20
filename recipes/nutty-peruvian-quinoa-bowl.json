@@ -1,0 +1,64 @@
+{
+  "title": "Nutty Peruvian Quinoa Bowl",
+  "description": "This nutty, silky brunch dish is a macrobiotic-friendly twist on traditional Peruvian cuisine, featuring the combination of roasted sweet potatoes, succulent amaranth, and a tangy citrus vinaigrette.",
+  "cuisine": "peruvian",
+  "diet": [
+    "macrobiotic",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and cube the sweet potatoes, tossing them with 2 tbsp of olive oil, salt, and black pepper on a baking sheet.",
+    "Roast the sweet potatoes in the preheated oven for 20 minutes, or until tender and lightly caramelized.",
+    "While the sweet potatoes are roasting, cook the quinoa according to the package instructions.",
+    "In a pan, heat 1 tbsp of olive oil over medium heat. Add the amaranth and cook, stirring frequently, until the grains are lightly toasted and fragrant.",
+    "In a blender or food processor, combine the orange juice, apple cider vinegar, and maple syrup. Blend until smooth and emulsified.",
+    "To assemble the bowls, divide the cooked quinoa between four bowls, topping each with roasted sweet potatoes, toasted amaranth, and a drizzle of the citrus vinaigrette.",
+    "Garnish with chopped fresh herbs, such as parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "nutty-peruvian-quinoa-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-peruvian-quinoa-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:42:16Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "orange",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "quinoa",
+    "descriptor": "Nutty",
+    "dishForm": "Bowl"
+  }
+}
