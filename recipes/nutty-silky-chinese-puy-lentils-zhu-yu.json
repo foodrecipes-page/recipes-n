@@ -1,0 +1,68 @@
+{
+  "title": "nutty silky chinese puy-lentils zhu yu",
+  "description": "a nutty, silky chinese dish featuring puy lentils, perfect for a weekend brunch. inspired by ayurvedic rajasic principles, this recipe promotes balance and harmony in the body.",
+  "cuisine": "chinese",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "puy lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": "for saut\u0010ing"
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of ghee in a medium saucepan over medium heat.",
+    "add the puy lentils, stirring to coat with the ghee, and cook for 1 minute.",
+    "add 2 cups of water and bring to a boil.",
+    "reduce the heat to low, cover, and simmer for 20 minutes, or until the lentils are tender.",
+    "heat the remaining 1 tablespoon of ghee in a small skillet over medium heat.",
+    "add the sliced scallions and cook, stirring occasionally, until softened and slightly caramelized, about 5 minutes.",
+    "stir in the soy sauce and cook for 1 minute, until fragrant.",
+    "stir the cooked scallion mixture into the cooked lentils and season with salt to taste.",
+    "serve hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "breakfast",
+    "chinese",
+    "lentils",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-silky-chinese-puy-lentils-zhu-yu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-silky-chinese-puy-lentils-zhu-yu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:14:58Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "saute",
+    "primaryIngredient": "puy-lentils",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Puy-lentils",
+    "descriptor": "Nutty silky",
+    "dishForm": "Zhu Yu"
+  }
+}
