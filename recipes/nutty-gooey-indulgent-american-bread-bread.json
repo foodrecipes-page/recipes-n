@@ -1,0 +1,102 @@
+{
+  "title": "Nutty, gooey American bread",
+  "description": "A rich, indulgent bread featuring yeast, papillote, and a hint of nuttiness.",
+  "cuisine": "american",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Nutella",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok to 375°F (190°C).",
+    "In a large bowl, whisk together flour, yeast, sugar, and salt.",
+    "In a separate bowl, whisk together warm water, egg, and Nutella.",
+    "Add the wet ingredients to the dry ingredients and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and divide it into 2 equal pieces.",
+    "Roll out each piece into a rectangle and brush with unsalted butter.",
+    "Mix the chopped walnuts with baking powder and sprinkle evenly over the dough.",
+    "Roll up each rectangle and place seam-side down in the preheated wok.",
+    "Cover the wok with parchment paper and bake for 25 minutes.",
+    "Remove the parchment paper and continue baking for an additional 5 minutes."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "indulgent",
+    "nutella",
+    "one-pan",
+    "sweet-bread",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 12,
+    "carbs": 96,
+    "fat": 44
+  },
+  "slug": "nutty-gooey-indulgent-american-bread-bread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-gooey-indulgent-american-bread-bread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:53:03Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "papillote",
+    "primaryIngredient": "yeast",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "bread",
+    "descriptor": "Nutty, gooey, indulgent",
+    "dishForm": "Bread"
+  }
+}

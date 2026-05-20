@@ -14191,6 +14191,22 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-gooey-indulgent-american-bread-bread",
+    "title": "Nutty, gooey American bread",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "indulgent",
+      "nutella",
+      "one-pan",
+      "sweet-bread",
+      "weeknight"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-gooey-korean-bean-bun",
     "title": "Nutty Gooey Korean Bean Bun",
     "tags": [
