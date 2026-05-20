@@ -1,0 +1,97 @@
+{
+  "title": "NWholesome Zesty Pickled Garlic Pasta",
+  "description": "A kid-friendly, garlicy pasta dish infused with the warmth of norwegian flavors and a touch of festive appleton rum for a unique twist.",
+  "cuisine": "norway",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": 200
+    },
+    {
+      "name": "pickled garlic cloves",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": 400
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": 200
+    },
+    {
+      "name": "olive oil",
+      "amount": 300
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "applewood smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "alfalfa sprouts",
+      "amount": 20
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil. Add pasta and cook until al dente.",
+    "In a mixing bowl, combine pickled garlic cloves, apple cider vinegar, lemon juice, olive oil, dijon mustard, smoked paprika, salt, pepper, and 1 cup of water.",
+    "Stir the sauce into the pasta while it's hot. Mix well to coat evenly.",
+    "Divide the pasta among plates and top with alfalfa sprouts and chopped parsley.",
+    "Serve immediately and enjoy a zesty yet comforting meal for grown-ups and kids alike."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "alfalfa",
+    "garlicy",
+    "kid-friendly",
+    "norwegian",
+    "pasta",
+    "pickled-garlic"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 24,
+    "carbs": 68,
+    "fat": 19
+  },
+  "slug": "nwholesome-zesty-pickled-garlic-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nwholesome-zesty-pickled-garlic-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T19:35:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "appleton rum",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Pickled Garlic",
+    "descriptor": "Wholesome",
+    "dishForm": "Pasta"
+  }
+}

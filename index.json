@@ -17929,5 +17929,20 @@
     "cuisine": "Turkish",
     "totalTimeMin": 7,
     "shard": "n"
+  },
+  {
+    "slug": "nwholesome-zesty-pickled-garlic-pasta",
+    "title": "NWholesome Zesty Pickled Garlic Pasta",
+    "tags": [
+      "alfalfa",
+      "garlicy",
+      "kid-friendly",
+      "norwegian",
+      "pasta",
+      "pickled-garlic"
+    ],
+    "cuisine": "norway",
+    "totalTimeMin": 45,
+    "shard": "n"
   }
 ]
