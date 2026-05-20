@@ -1,0 +1,105 @@
+{
+  "title": "Nourishing Sweet Peruvian Shredded Beef Aji De Gallina",
+  "description": "A comforting, sweet, and bouncy-textured twist on classic Peruvian aji de gallina using tender shredded leftover beef, thick gelatinous bone broth, and pan-fried ripe sweet plantains. Perfect as a restorative sick-day meal, this recipe is naturally sweetened and keto-friendly without any added refined sugars.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "sugar-free-friendly",
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shredded cooked beef",
+      "amount": "2 cups",
+      "notes": "using leftover roast beef or brisket"
+    },
+    {
+      "name": "yellow aji amarillo pepper paste",
+      "amount": "3 tablespoons",
+      "notes": "mild Peruvian yellow chili paste"
+    },
+    {
+      "name": "unflavored gelatin powder",
+      "amount": "1 tablespoon",
+      "notes": "bloomed in two tablespoons of cold water for a bouncy QQ texture"
+    },
+    {
+      "name": "beef bone broth",
+      "amount": "1.5 cups",
+      "notes": "rich in collagen for nourishment"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "0.5 cup",
+      "notes": "or coconut cream for a dairy-free option"
+    },
+    {
+      "name": "ripe sweet plantain",
+      "amount": "1 medium",
+      "notes": "sliced and pan-fried until caramelized"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "divided for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely minced"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tablespoon",
+      "notes": "freshly grated"
+    }
+  ],
+  "instructions": [
+    "Heat one tablespoon of olive oil in a skillet and fry the sliced ripe plantains until sweet, golden, and caramelized, then set them aside.",
+    "In a medium saucepan, heat the remaining olive oil over medium heat and saute the minced onion and garlic paste until soft and translucent.",
+    "Stir in the yellow aji amarillo paste and cook for two minutes until fragrant.",
+    "Pour in the beef bone broth and heavy cream, bringing the mixture to a gentle simmer.",
+    "Stir the bloomed gelatin into the hot liquid until completely dissolved to create a thick, silky, and bouncy sauce texture.",
+    "Add the shredded beef and simmer for five minutes until the meat is thoroughly heated and saturated with the creamy yellow sauce.",
+    "Season the mixture with a pinch of salt to taste, balancing the natural sweetness of the caramelized plantains.",
+    "Serve the warm shredded beef mixture over steamed rice or cauliflower rice, topped with the fried sweet plantains."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "leftover-beef",
+    "peruvian-fusion",
+    "sick-day-meal",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 38,
+    "carbs": 26,
+    "fat": 32
+  },
+  "slug": "nourishing-sweet-peruvian-shredded-beef-aji-de-gallina",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-sweet-peruvian-shredded-beef-aji-de-gallina",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T15:00:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "rest-meat",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shredded beef",
+    "descriptor": "Nourishing Sweet",
+    "dishForm": "Aji De Gallina"
+  }
+}

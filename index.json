@@ -8331,6 +8331,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-sweet-peruvian-shredded-beef-aji-de-gallina",
+    "title": "Nourishing Sweet Peruvian Shredded Beef Aji De Gallina",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "leftover-beef",
+      "peruvian-fusion",
+      "sick-day-meal",
+      "sugar-free-friendly"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-sweet-polish-plum-crumble",
     "title": "Nourishing Sweet Polish Plum Crumble",
     "tags": [
@@ -8627,6 +8642,22 @@
     "tags": [
       "tunisian",
       "dessert"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-tunisian-lentils-tagine",
+    "title": "Nourishing Tunisian Lentils Tagine",
+    "tags": [
+      "comfort-food",
+      "easily-vegetarian",
+      "gluten-free-option",
+      "lentil-stew",
+      "north-african",
+      "one-pot-meal",
+      "vegan-option"
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 40,
@@ -14114,6 +14145,18 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-greek-dill-pickles-gratin",
+    "title": "Nutty Greek Dill Pickles Gratin",
+    "tags": [
+      "lazy-sunday",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {

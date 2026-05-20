@@ -1,0 +1,112 @@
+{
+  "title": "Nourishing Tunisian Lentils Tagine",
+  "description": "A comforting, flavorful, and nutritious North African dish made with red lentils, aromatic spices, and sweet preserved lemons.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the red lentils, water, chopped preserved lemon, caraway seeds, cumin, paprika, salt, and black pepper. Stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the chopped parsley.",
+    "Serve the tagine hot, garnished with additional parsley if desired.",
+    "Adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easily-vegetarian",
+    "gluten-free-option",
+    "lentil-stew",
+    "north-african",
+    "one-pot-meal",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 65,
+    "fat": 10
+  },
+  "slug": "nourishing-tunisian-lentils-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-tunisian-lentils-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T14:59:59Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "shio-cure",
+    "primaryIngredient": "starch",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Lentils",
+    "descriptor": "Nourishing",
+    "dishForm": "Tagine"
+  }
+}
