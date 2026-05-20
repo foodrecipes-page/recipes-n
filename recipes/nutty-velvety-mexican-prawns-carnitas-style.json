@@ -1,0 +1,106 @@
+{
+  "title": "Nutty Velvety Mexican Prawns Carnitas-Style",
+  "description": "A rich and comforting Mexican dish featuring brine-dry tiger prawns with a nutty and velvety carnitas-style sauce, perfect for a sick day. This low-carb-friendly recipe is a twist on traditional carnitas.",
+  "cuisine": "mexican",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "dried ancho chili powder",
+      "amount": "2 teaspoons",
+      "notes": "or substitute with chipotle powder"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "for depth of flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat the avocado oil in a large skillet over medium heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the ancho chili powder and cumin. Cook for 30 seconds, until fragrant.",
+    "Add the coconut cream and stir to combine. Bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes, stirring occasionally.",
+    "While the sauce is simmering, cook the tiger prawns in a separate skillet over medium-high heat for 2-3 minutes per side, until pink and cooked through.",
+    "Once the sauce has thickened, add the cooked prawns and stir to combine.",
+    "Season the sauce with salt and lime juice to taste.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "carnitas",
+    "comfort-food",
+    "easy-weeknight",
+    "low-carb",
+    "mexican",
+    "one-skillet",
+    "prawns",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 26
+  },
+  "slug": "nutty-velvety-mexican-prawns-carnitas-style",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-velvety-mexican-prawns-carnitas-style",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:19:02Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "brine-dry",
+    "primaryIngredient": "tiger prawns",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Prawns",
+    "descriptor": "Nutty Velvety",
+    "dishForm": "Carnitas-Style"
+  }
+}
