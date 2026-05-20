@@ -1,0 +1,110 @@
+{
+  "title": "Nourishing Smoky Polish Ackee Wrap",
+  "description": "A shaggy, comforting Polish dish featuring ackee, grilled to perfection and wrapped in a pandan leaf. This vegan-friendly breakfast wrap is a perfect way to start your day.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "pandan leaf",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "polish sausage",
+      "amount": "4 oz",
+      "notes": "grilled and sliced (optional) for non-vegan option"
+    },
+    {
+      "name": "grainy mustard",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "vegan mayo",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pitted and sliced dates",
+      "amount": "1/4 cup",
+      "notes": "for sweetness"
+    }
+  ],
+  "instructions": [
+    "Preheat a yakimono-grill to medium-high heat.",
+    "Grill the polish sausage until cooked through, then slice into thin strips.",
+    "In a large bowl, combine diced ackee, grainy mustard, smoked paprika, salt, and black pepper.",
+    "Add the grilled sausage to the bowl and stir to combine.",
+    "Warm the pandan leaves by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spoon the ackee mixture onto the center of a warmed pandan leaf, leaving a 1-inch border around the edges.",
+    "Add a dollop of vegan mayo on top of the ackee mixture.",
+    "Garnish with chopped fresh parsley and pitted dates.",
+    "Fold the bottom edge of the pandan leaf up over the filling, then fold in the sides and roll the wrap into a snug cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "nourishing-smoky-polish-ackee-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-smoky-polish-ackee-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:24:50Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "ackee",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Ackee",
+    "descriptor": "Nourishing Smoky",
+    "dishForm": "Wrap"
+  }
+}
