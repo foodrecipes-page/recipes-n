@@ -1,0 +1,103 @@
+{
+  "title": "Nutty New-Style Greek Pork Gyro",
+  "description": "Sweet, pillowy, lazy-sunday Greek dish featuring pineapple chunks and a delicious glaze.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pineapple juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Glaze (see below)",
+      "amount": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "20g"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together the cinnamon, allspice, and brown sugar.",
+    "Rub the spice mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Place the pork in a large baking dish and pour the pineapple juice over it.",
+    "Cover the dish with aluminum foil and bake for 2 hours, or until the pork is tender.",
+    "While the pork is cooking, prepare the glaze by mixing the ingredients together in a small saucepan.",
+    "Bring the glaze to a boil over medium heat, then reduce the heat to low and simmer for 5-7 minutes, or until thickened.",
+    "Once the pork is done, carefully remove it from the oven and brush the glaze all over it.",
+    "Let the pork rest for 10-15 minutes before slicing it thinly against the grain.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "Assemble the gyro by slicing the pork and placing it in the pita bread, along with some crumbled feta cheese and a sprinkle of chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "greek",
+    "gyro",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 37,
+    "fat": 31
+  },
+  "slug": "nutty-new-style-greek-pork-gyro",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-new-style-greek-pork-gyro",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:04:33Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "glaze",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pork",
+    "descriptor": "Nutty New-Style",
+    "dishForm": "Gyro"
+  }
+}
