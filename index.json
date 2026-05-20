@@ -7943,6 +7943,21 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-silky-vietnamese-pork-bun-thit-nuong",
+    "title": "Nourishing Silky Vietnamese Pork Bun-Thit-Nuong",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "pork",
+      "slow-cooked",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 60,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-slovakian-apples-skewers",
     "title": "Nourishing Slovakian Apples Skewers",
     "tags": [
@@ -15948,6 +15963,22 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-north-african-moroccan-eggplant-tagine",
+    "title": "Nutty North African Moroccan Eggplant Tagine",
+    "tags": [
+      "eggs-optional",
+      "high-fiber",
+      "moroccan",
+      "one-pan",
+      "vegan-option",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {

@@ -1,0 +1,114 @@
+{
+  "title": "Nourishing Silky Vietnamese Pork Bun-Thit-Nuong",
+  "nutrition": {
+    "calories": 720,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 30
+  },
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "pork",
+    "slow-cooked",
+    "vietnamese",
+    "weeknight"
+  ],
+  "cuisine": "vietnamese",
+  "meal": "lunch",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "description": "Silky pork in a sweet and spicy sauce, served in a crispy pandan leaf wrap. Perfect for a weeknight dinner.",
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "500g"
+    },
+    {
+      "name": "Plum tomatoes",
+      "amount": "2",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Pandanus leaves",
+      "amount": "4"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "Fermented soybeans",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sambal oelek",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pandan extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine plum tomatoes, ginger, fermented soybeans, fish sauce, sambal oelek, hoisin sauce, brown sugar, pandan extract, salt, and black pepper to make the sauce.",
+    "Heat 2 tablespoons of oil in a pan over medium-high heat.",
+    "Add the ground pork and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the onions and cook until they are translucent.",
+    "Pour the sauce into the pan and stir to combine.",
+    "Simmer the sauce for 10 minutes, or until it has thickened.",
+    "Cut the pandan leaves into 8 equal pieces and place a few tablespoons of the pork and sauce mixture onto the center of each leaf.",
+    "Fold the leaves into a neat package and serve immediately."
+  ],
+  "slug": "nourishing-silky-vietnamese-pork-bun-thit-nuong",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-silky-vietnamese-pork-bun-thit-nuong",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:02:17Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "slow-cook",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Nourishing Silky",
+    "dishForm": "Bun-Thit-Nuong"
+  }
+}
