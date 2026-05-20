@@ -1,0 +1,120 @@
+{
+  "title": "Slovakian Beef Casserole with Nuts",
+  "description": "A hearty, kid-friendly dish featuring tender beef fillet, a crunchy nut topping, and a rich, savory sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "halal",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 pounds beef fillet",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "1 onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1 cup chopped walnuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the beef fillet into 1-inch cubes and season with salt and pepper.",
+    "In a large skillet, sauté the onion and garlic until softened.",
+    "Add the flour and cook for 1 minute.",
+    "Gradually add the beef broth and heavy cream, whisking continuously.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 5 minutes.",
+    "Add the paprika and stir to combine.",
+    "In a separate bowl, toss the chopped walnuts with the melted butter.",
+    "In a 9x13 inch baking dish, arrange half of the beef cubes.",
+    "Pour half of the sauce over the beef, then top with half of the walnut mixture.",
+    "Repeat the layers, starting with the beef, then the sauce, and finally the walnut mixture.",
+    "Cover the dish with foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the casserole is golden brown and the beef is cooked to your liking."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-casserole",
+    "comfort-food",
+    "easy-gourmet",
+    "homestyle",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 38,
+    "carbs": 30,
+    "fat": 34
+  },
+  "slug": "nutty-dense-slovakian-beef-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-dense-slovakian-beef-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:16:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "beef fillet",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "beef",
+    "descriptor": "nutty dense",
+    "dishForm": "Casserole"
+  }
+}
