@@ -1,0 +1,121 @@
+{
+  "title": "Malaysian Beef Suet Roti",
+  "description": "Crispy Malaysian dish featuring suet and binchotan-charcoal.\nSuet adds a romantic, savory flavor to this traditional Malaysian recipe.",
+  "cuisine": "malaysian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef suet",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "binchotan-charcoal powder",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "saffron",
+      "amount": "0.2g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix together the suet, flour, yeast, and salt in a bowl.",
+    "Add the charcoal powder, oil, water, and broth to the bowl and mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Roll the dough into a ball and flatten slightly into a disk shape.",
+    "Heat a dry pan over medium heat and cook the roti for 2 minutes on each side.",
+    "Brush the roti with saffron-infused oil and cook for another minute.",
+    "Serve hot with onion, garlic, and chili pepper on top.",
+    "Onions, garlic, and chili pepper can be caramelized first for extra flavor.",
+    "Beef suet can be replaced with beef tallow for a similar taste.",
+    "Binchotan charcoal can be substituted with regular charcoal powder for a less intense flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "binchotan",
+    "charcoal",
+    "high-fat",
+    "malaysian",
+    "romantic",
+    "suet"
+  ],
+  "nutrition": {
+    "calories": 1234,
+    "protein": 34,
+    "carbs": 22,
+    "fat": 96
+  },
+  "slug": "nice-crispy-malaysian-beef-suet-roti",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nice-crispy-malaysian-beef-suet-roti",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:00:50Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "suet",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef suet",
+    "descriptor": "nice crispy",
+    "dishForm": "Roti"
+  }
+}
