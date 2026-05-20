@@ -1,0 +1,115 @@
+{
+  "title": "Nourishing Norwegian Beef Stew",
+  "description": "A hearty, comforting stew made with tender beef, rich confit tomatoes, and earthy root vegetables, perfect for a chilly Norwegian evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1 pound",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "finely chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium heat and add a couple of tablespoons of oil.",
+    "Brown the short ribs on all sides, about 5 minutes per side.",
+    "Remove the ribs from the pot and set them aside.",
+    "Add the chopped onion to the pot and sauté until softened, about 5 minutes.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the carrots and celery and sauté until they start to soften, about 5 minutes.",
+    "Add the confit tomatoes, beef broth, red wine (if using), bay leaves, and thyme.",
+    "Return the short ribs to the pot and bring the stew to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Braise the stew for about 2 1/2 hours, or until the meat is tender and the vegetables are very soft.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "cold-weather",
+    "comforting",
+    "hearty",
+    "norwegian",
+    "one-pan",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 35
+  },
+  "slug": "nourishing-norwegian-beef-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-norwegian-beef-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:10:39Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "confit-tomato",
+    "primaryIngredient": "hot beef stock",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "beef",
+    "descriptor": "Nourishing",
+    "dishForm": "Stew"
+  }
+}
