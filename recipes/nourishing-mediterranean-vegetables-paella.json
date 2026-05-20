@@ -1,0 +1,105 @@
+{
+  "title": "Nourishing Mediterranean Vegetables Paella",
+  "description": "A flavorful, jammy, and snappy Mediterranean paella dish featuring a ginger paste and air-fryer for an indulgent treat, suitable for an Ayurvedic sattvic diet.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ginger paste",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "Diced, preferably fire-roasted"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Yellow bell pepper",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 cup",
+      "notes": "Canned, drained, and rinsed"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the air fryer to 375°F (190°C).",
+    "In a large bowl, mix together the ginger paste and vegetable broth.",
+    "Add the brown rice and stir until coated with the ginger paste and broth mixture.",
+    "Transfer the rice mixture to the air fryer basket and cook for 10 minutes, stirring occasionally.",
+    "Add the diced tomatoes, red bell pepper, yellow bell pepper, artichoke hearts, and Kalamata olives to the rice mixture and stir to combine.",
+    "Continue cooking for an additional 10-12 minutes, or until the rice is cooked and the vegetables are tender.",
+    "Stir in some chopped fresh parsley and adjust seasoning as needed.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 22,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "sattvic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 110,
+    "fat": 10
+  },
+  "slug": "nourishing-mediterranean-vegetables-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-mediterranean-vegetables-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:33:41Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "ginger paste",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "vegetables",
+    "descriptor": "Nourishing",
+    "dishForm": "Paella"
+  }
+}
