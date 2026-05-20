@@ -1,0 +1,117 @@
+{
+  "title": "Nourishing French Beef Bouillabaisse",
+  "description": "A hearty, briny, and snappy post-workout French dish featuring a rich beef broth, tender vegetables, and succulent fish. Perfect for a comforting dinner after a long day.",
+  "cuisine": "French",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef neck bones",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "fennel",
+      "amount": "2 bulbs"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "anchovy paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mussels",
+      "amount": "1 pound"
+    },
+    {
+      "name": "clams",
+      "amount": "1 pound"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "1 loaf"
+    }
+  ],
+  "instructions": [
+    "Preheat sous-vide water bath to 183°F (84°C).",
+    "Season beef neck bones with salt and pepper, and seal in a sous-vide bag with 1 cup of red wine. Cook for 24 hours.",
+    "Soak fennel and onion in cold water for 30 minutes, then chop into bite-sized pieces.",
+    "Sauté chopped fennel and onion in olive oil until tender, about 20 minutes.",
+    "Add garlic, cinnamon, bay leaves, and thyme to the pot, and cook for 1 minute.",
+    "Stir in anchovy paste and tomato paste, and cook for 1 minute.",
+    "Add fish stock and bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "Strain the broth through a fine-mesh sieve into a large pot, discarding solids.",
+    "Add cooked beef neck bones to the pot, and simmer for 10 minutes.",
+    "Add mussels and clams to the pot, and cook until shells open, about 5 minutes.",
+    "Serve hot, garnished with crusty bread and a squeeze of lemon.",
+    "Tear crusty bread into bite-sized pieces and serve on the side, for dipping into the broth."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 45,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "fish",
+    "french",
+    "one-pot",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "nourishing-french-beef-bouillabaisse",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-french-beef-bouillabaisse",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:59:55Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "cinnamon",
+    "diet": "fodmap",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "Nourishing",
+    "dishForm": "Bouillabaisse"
+  }
+}
