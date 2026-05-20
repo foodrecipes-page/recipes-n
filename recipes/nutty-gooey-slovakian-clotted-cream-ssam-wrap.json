@@ -1,0 +1,117 @@
+{
+  "title": "nutty gooey slovakian clotted cream ssam-wrap",
+  "description": "adventurous slovakian dish featuring clotted cream and ssam-wrap, perfect for a unique breakfast or snack",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ssam-wrap",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount=": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "slovakian poppy seed",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a small bowl, mix together clotted cream, walnuts, honey, cinnamon, nutmeg, lemon juice, and vanilla extract until well combined",
+    "in a separate bowl, mix together melted butter and dried cranberries",
+    "place an ssam-wrap on a flat surface and spread a layer of the clotted cream mixture on the bottom half of the wrap",
+    "add a few drops of lemon juice to the clotted cream mixture for extra moisture",
+    "place a few dried cranberries in the center of the clotted cream mixture",
+    "fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up to form a tight cylinder",
+    "repeat with the remaining ingredients",
+    "serve immediately and enjoy",
+    "store any leftover wraps in an airtight container in the refrigerator for up to 24 hours",
+    "reheat in the microwave or oven before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "gluten-free",
+    "slovakian",
+    "snack",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "nutty-gooey-slovakian-clotted-cream-ssam-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-gooey-slovakian-clotted-cream-ssam-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:03:11Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "clotted cream",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "clotted cream",
+    "descriptor": "nutty gooey",
+    "dishForm": "ssam-wrap"
+  }
+}
