@@ -1,0 +1,126 @@
+{
+  "title": "Nourishing Solo-Dinner French Herbal Juicy Fruit Canele",
+  "description": "A unique French dessert combining herbal flavors with dark rum and served in a hot stone plate wrapped in ssam-wraps.",
+  "cuisine": "French",
+  "diet": [
+    null,
+    "vegan",
+    "gluten-free",
+    "satvik-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark rum",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lavender flowers",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Raspberry puree",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ssam-wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fresh berries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "French vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Prepare the ssam-wraps by cutting them into quarters and heating them on a dry pan for a few minutes.",
+    "In a blender, mix together the coconut sugar, almond milk, coconut cream, and French vanilla extract.",
+    "Add the raspberry puree, fresh lavender flowers, and lemon zest to the blender and blend until smooth.",
+    "Pour the mixture into a saucepan and heat it over low heat until warm and fragrant.",
+    "Gradually add the dark rum to the saucepan and stir well.",
+    "Pour the sauce into the preheated ssam-wraps and fold them to form a neat package.",
+    "Place the packages on a hot stone plate and garnish with fresh berries and mint leaves.",
+    "Bake in the preheated oven for 10 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "french",
+    "herbal",
+    "high-protein",
+    "juicy",
+    "one-pan",
+    "satvik-friendly",
+    "solo-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "nourishing-solo-dinner-french-herbal-juicy-fruit-canele",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-solo-dinner-french-herbal-juicy-fruit-canele",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:38:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "dark rum",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Herbal Juicy Fruit",
+    "descriptor": "Nourishing Solo-Dinner",
+    "dishForm": "Canele"
+  }
+}
