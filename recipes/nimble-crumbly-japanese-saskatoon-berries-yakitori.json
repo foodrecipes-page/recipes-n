@@ -1,0 +1,115 @@
+{
+  "title": "Nimble, Crumbly Japanese Saskatoon Berries Yakitori",
+  "description": "A salty, crumbly, and savory date-night dish featuring Saskatoon berries, served with a side of pickled ginger. This dish is perfect for a special occasion or a romantic dinner.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saskatoon Berries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "Japanese Rice Vinegar",
+      "amount": "for pickling",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a medium bowl, mix together the Saskatoon berries, Panko breadcrumbs, and a pinch of salt.",
+    "In a small bowl, whisk together the coconut oil, miso paste, soy sauce, and lime juice.",
+    "Add the ginger to the bowl and mix well.",
+    "Add the Saskatoon berry mixture to the bowl and mix until just combined.",
+    "Using your hands, shape the mixture into small skewers.",
+    "Thread a piece of green onion and a sesame seed onto each skewer.",
+    "Place the skewers on the grill and cook for 2-3 minutes per side, or until golden brown.",
+    "Transfer the skewers to a serving plate and garnish with additional green onions and sesame seeds.",
+    "To make the pickled ginger, combine the Japanese rice vinegar and a pinch of salt in a small bowl.",
+    "Dip the ginger in the pickled vinegar and slice into thin rounds.",
+    "Serve the yakitori with the pickled ginger on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "grilled",
+    "japanese",
+    "saskatoon-berries",
+    "skewers",
+    "yakitori"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "nimble-crumbly-japanese-saskatoon-berries-yakitori",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nimble-crumbly-japanese-saskatoon-berries-yakitori",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:28:29Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "brine-dry",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Saskatoon berries",
+    "descriptor": "Nimble, Crumbly",
+    "dishForm": "Yakitori"
+  }
+}
