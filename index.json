@@ -14791,6 +14791,21 @@
     "shard": "n"
   },
   {
+    "slug": "nutty-middle-eastern-cheese-knafeh",
+    "title": "Nutty Middle Eastern Cheese Knafeh",
+    "tags": [
+      "baked",
+      "cheesy",
+      "dessert",
+      "middle-eastern",
+      "nutty",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
     "slug": "nutty-middle-eastern-chicken-upside-down-pot",
     "title": "Nutty Middle-Eastern Chicken Upside-Down Pot",
     "tags": [

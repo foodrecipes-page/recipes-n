@@ -1,0 +1,99 @@
+{
+  "title": "Nutty Middle Eastern Cheese Knafeh",
+  "description": "A traditional Middle Eastern dessert featuring a crispy phyllo crust, a creamy cheese filling, and a nutty topping, made with vegetable oil and reduced sugar to accommodate ayurvedic-rajasic dietary preferences.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "akawi cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": "reduced"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped pistachios",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Unroll the phyllo dough and cut it into 4 equal pieces.",
+    "In a large bowl, mix together the akawi cheese, sugar, and rose water.",
+    "Layer the phyllo dough pieces in a baking dish, brushing each layer with vegetable oil.",
+    "Spread the cheese mixture over the phyllo dough layers.",
+    "Top the cheese mixture with chopped pistachios and almonds.",
+    "Sprinkle cardamom powder over the nut topping.",
+    "Bake the knafeh for 30 minutes, or until the phyllo crust is golden brown.",
+    "Remove the knafeh from the oven and let it cool for 10 minutes.",
+    "Serve the knafeh warm, garnished with additional chopped nuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "cheesy",
+    "dessert",
+    "middle-eastern",
+    "nutty",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "nutty-middle-eastern-cheese-knafeh",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-middle-eastern-cheese-knafeh",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T14:55:20Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "vegetable oil",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "cheese",
+    "descriptor": "Nutty",
+    "dishForm": "Knafeh"
+  }
+}
