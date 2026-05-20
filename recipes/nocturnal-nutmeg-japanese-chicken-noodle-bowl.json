@@ -1,0 +1,111 @@
+{
+  "title": "Nocturnal Nutmeg Japanese Chicken Noodle Bowl",
+  "description": "A smoky, savory, and satisfying Okinawan-inspired Japanese dish featuring chewy noodles, succulent chicken, and a hint of sweetness from the nutmeg. Perfect for a quick weeknight dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "oklahoma-style flat rice noodles",
+      "amount": "8 oz",
+      "notes": "soak in cold water for 30 minutes before cooking"
+    },
+    {
+      "name": "grated fresh ginger",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "unsalted soy sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "grated nutmeg",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of sesame oil in a large skillet or wok over high heat until smoking.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside, leaving the juices behind.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the grated ginger to the skillet and cook for another minute, until fragrant.",
+    "Add the soaked noodles to the skillet and cook, stirring constantly, for 2-3 minutes, until lightly browned.",
+    "Add the soy sauce, smoked paprika, nutmeg, and black pepper to the skillet and stir to combine.",
+    "Return the cooked chicken to the skillet and stir to combine with the noodles and sauce.",
+    "Cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese",
+    "low-carb",
+    "one-pan",
+    "weeknight",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "nocturnal-nutmeg-japanese-chicken-noodle-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nocturnal-nutmeg-japanese-chicken-noodle-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:47:26Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "wok-hei",
+    "primaryIngredient": "smoky paprika",
+    "diet": "buddhist-temple",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Nocturnal Nutmeg",
+    "dishForm": "Noodle Bowl"
+  }
+}
