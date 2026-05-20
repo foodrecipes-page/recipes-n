@@ -1,0 +1,121 @@
+{
+  "title": "Nutmeg Naga Indian Chicken Liver Pilaf",
+  "description": "Spicy, low-glycemic-friendly pilaf dish from Udupi cuisine, featuring chicken liver.",
+  "cuisine": "indian",
+  "diet": [
+    "lacto-ovo-vegetarian",
+    "pescetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red chilies",
+      "amount": "2-3",
+      "notes": "sliced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large saucepan over medium heat.",
+    "Add cumin seeds, coriander seeds, and fennel seeds; let them sizzle for a few seconds.",
+    "Add diced onion, grated ginger, and minced garlic; sauté until the onion turns translucent.",
+    "Add sliced red chilies, chicken liver pieces, and sauté until they are browned.",
+    "Add basmati rice, chicken broth, salt, and nutmeg; stir well to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 15-20 minutes or until the rice is cooked and the liquid is absorbed.",
+    "Turn off the heat and let the pilaf rest, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "lacto-ovo-vegetarian",
+    "low-glycemic",
+    "one-pan",
+    "pescetarian",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "nutmeg-naga-indian-chicken-liver-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutmeg-naga-indian-chicken-liver-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T00:40:03Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "chicken liver",
+    "diet": "low-glycemic",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken liver",
+    "descriptor": "Nutmeg Naga",
+    "dishForm": "Pilaf"
+  }
+}
