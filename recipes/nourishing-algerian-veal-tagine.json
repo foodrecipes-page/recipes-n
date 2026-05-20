@@ -1,0 +1,132 @@
+{
+  "title": "Nourishing Algerian Veal Tagine",
+  "description": "A rich, flavorful dish featuring the unique combination of Thai and Algerian spices, featuring a mother sauce base, crunchy almonds, and a hint of sweetness from the basil and horapa.",
+  "cuisine": "algerian",
+  "diet": [
+    "gluten-free",
+    "paleo",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal",
+      "amount": "500g",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "almond butter",
+      "amount": "1/2 cup",
+      "notes": "creamy, unsweetened"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "horapa leaves",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat, unsweetened"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced, toasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large clay tagine or Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add veal and cook until browned, about 5 minutes.",
+    "Add curry paste and cook, stirring constantly, for 1 minute.",
+    "Add almond butter, basil, horapa, coconut milk, almonds, salt, black pepper, cumin, and coriander.",
+    "Stir to combine, then bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20 minutes.",
+    "Serve hot, garnished with additional basil leaves and almonds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "glutenfree",
+    "onepan",
+    "paleo",
+    "thaifood",
+    "veganfriendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "nourishing-algerian-veal-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-algerian-veal-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:08:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "veal",
+    "descriptor": "Nourishing",
+    "dishForm": "Tagine"
+  }
+}
