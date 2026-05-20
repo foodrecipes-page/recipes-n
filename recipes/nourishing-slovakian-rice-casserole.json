@@ -1,0 +1,106 @@
+{
+  "title": "Nourishing Slovakian Rice Casserole",
+  "description": "A rich and savory Slovakian-inspired rice casserole that's perfect for a date night. The combination of creamy cheese and sweet confit tomato creates a deliciously satisfying meal.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vialone Nano Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Confit Tomato",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Gruy\u00154 Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "thick-cut, crispy-cooked, diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped, saut\u00124d until translucent"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "melted, for greasing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u0005f Fahrenheit (190\u0005f Celsius).",
+    "Grease the bottom of a 6-quart Dutch oven with the melted coconut oil.",
+    "Cook the bacon in a skillet until crispy, then chop into small pieces and set aside.",
+    "In the same skillet, saut\u00124 the chopped onion until translucent, then add the minced garlic and cook for an additional minute.",
+    "In a large mixing bowl, combine the cooked rice, confit tomato, shredded Gruy\u00154 cheese, chopped onion and garlic mixture, crispy bacon, salt, and black pepper. Toss until well combined.",
+    "Transfer the rice mixture to the prepared Dutch oven and cover with a lid.",
+    "Bake for 30 minutes at 375\u0005f Fahrenheit (190\u0005f Celsius).",
+    "Remove the lid and continue baking for an additional 10-15 minutes, or until the top is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped parsley. Serve immediately!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dutch-oven",
+    "high-protein",
+    "rice-casserole",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 32,
+    "carbs": 64,
+    "fat": 48
+  },
+  "slug": "nourishing-slovakian-rice-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-slovakian-rice-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:55:34Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "confit-tomato",
+    "primaryIngredient": "vialone-nano",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Rice",
+    "descriptor": "Nourishing",
+    "dishForm": "Casserole"
+  }
+}

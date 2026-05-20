@@ -7868,6 +7868,20 @@
     "shard": "n"
   },
   {
+    "slug": "nourishing-slovakian-rice-casserole",
+    "title": "Nourishing Slovakian Rice Casserole",
+    "tags": [
+      "date-night",
+      "dutch-oven",
+      "high-protein",
+      "rice-casserole",
+      "slovakian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 70,
+    "shard": "n"
+  },
+  {
     "slug": "nourishing-smoked-basque-french-pork-pate",
     "title": "Nourishing Smoked Basque-French Pork P\u001eat",
     "tags": [
@@ -10422,6 +10436,20 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-grassy-canadian-rice-bake",
+    "title": "Nutritious Grassy Canadian Rice Bake",
+    "tags": [
+      "canadian",
+      "high-protein",
+      "lazy-sunday",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
