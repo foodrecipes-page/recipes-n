@@ -1,0 +1,85 @@
+{
+  "title": "Nutty Fluffy Chinese Rice Bake",
+  "description": "A nutty, fluffy, and post-workout Chinese dish featuring lime leaves, all baked in one pot. It's a perfect comfort meal for a busy day.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Lime leaves",
+      "amount": "10"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine jasmine rice, chicken breast, lime leaves, coconut oil, peanuts, scallions, soy sauce, and sesame oil. Mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake in the preheated oven for 35 minutes.",
+    "Remove from the oven and let it rest for 5 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "nutty-fluffy-chinese-rice-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-fluffy-chinese-rice-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:19:21Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "lime leaves",
+    "diet": "dash",
+    "region": "jiangsu",
+    "cuisineAdjective": "chinese",
+    "mainIngredient": "rice",
+    "descriptor": "nutty fluffy",
+    "dishForm": "bake"
+  }
+}
