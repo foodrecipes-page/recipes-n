@@ -1,0 +1,108 @@
+{
+  "title": "Nutty Spanish Walnut Skillet",
+  "description": "A rich and savory one-pan dish featuring walnuts and a hint of smokiness, perfect for a weeknight dinner. This Ayurvedic-friendly recipe balances Rajasic energies with grounding ingredients.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "walnuts, chopped",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast, boneless, skinless",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Spanish smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crusty bread, sliced",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large cast-iron skillet over medium-high heat.",
+    "Sear the chicken breast until browned on both sides, about 5 minutes per side. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet and reduce heat to medium.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped walnuts and cook for 2-3 minutes, stirring frequently.",
+    "Add the Spanish smoked paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Return the chicken breast to the skillet and spoon some of the walnut mixture over the top.",
+    "Simmer the chicken in the walnut mixture for 5-7 minutes, or until cooked through.",
+    "Taste and adjust seasoning as needed.",
+    "Serve the chicken with the walnut mixture spooned over the top, garnished with chopped fresh parsley and crusty bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fat",
+    "one-pan",
+    "spanish",
+    "walnuts",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "nutty-spanish-walnut-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-spanish-walnut-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:42:32Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "walnuts",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "walnuts",
+    "descriptor": "fatty",
+    "dishForm": "skillet"
+  }
+}

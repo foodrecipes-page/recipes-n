@@ -2913,6 +2913,21 @@
     "shard": "n"
   },
   {
+    "slug": "nimble-sour-jamaican-khus-khus-wrap",
+    "title": "Nimble Sour Jamaican Khus Khus Wrap",
+    "tags": [
+      "gluten-free",
+      "international",
+      "one-pan",
+      "snack-attack",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
     "slug": "nimble-thai-fines-herbes-gaeng-curry",
     "title": "Nimble Thai Fines-Herbes Gaeng-Curry",
     "tags": [
@@ -16804,6 +16819,20 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-spanish-walnut-skillet",
+    "title": "Nutty Spanish Walnut Skillet",
+    "tags": [
+      "high-fat",
+      "one-pan",
+      "spanish",
+      "walnuts",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
