@@ -1,0 +1,105 @@
+{
+  "title": "Nutty Bouncy Shiro Wot",
+  "description": "A flavorful and crowd-pleasing Ethiopian dish featuring roasted and blended spices with corn flour, perfect for a quick snack or meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn flour",
+      "amount": "2 cups",
+      "notes": "preferably fine or medium grind"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying onions and spices"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh, peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Roasted and ground spices",
+      "amount": "2 tablespoons",
+      "notes": "blend of berbere, coriander, cumin, turmeric, and paprika"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Beet juice",
+      "amount": "1 tablespoon",
+      "notes": "optional, for color and flavor"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for blending and thinning"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat, then add the onions and cook until lightly browned and fragrant.",
+    "Add the ginger and garlic to the pan and cook for 1 minute, stirring constantly.",
+    "Add the roasted and ground spices to the pan, stir to combine and cook for 1 minute.",
+    "Gradually add the corn flour to the pan, stirring to combine and cook for 2 minutes.",
+    "Add the beet juice, if using, and stir to combine.",
+    "Add the water to the pan, 1 cup at a time, stirring and thinning the mixture as needed.",
+    "Continue to cook and stir the mixture until it has thickened and formed a smooth, creamy paste.",
+    "Serve the Shiro Wot hot, garnished with chopped fresh cilantro or scallions, if desired.",
+    "Nutty Bouncy Shiro Wot can be served with injera bread, rice, or as a dip.",
+    "Adjust seasoning as needed with salt and black pepper.",
+    "Store leftover Shiro Wot in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "nutty-bouncy-shiro-wot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-bouncy-shiro-wot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:12:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "robata-grill",
+    "primaryIngredient": "corn flour",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "corn flour",
+    "descriptor": "nutty, bouncy",
+    "dishForm": null
+  }
+}
