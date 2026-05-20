@@ -1,0 +1,108 @@
+{
+  "title": "Nutritious Nice North Indian Sushi Rice Spicy Chaat",
+  "description": "A spicy and nutritious twist on North Indian Chaat, featuring sushi rice, caramelized onions, and a variety of flavors. Perfect for a quick and easy snack or meal.",
+  "cuisine": "North Indian",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green chutney",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and coriander seeds and let them sizzle for a few seconds.",
+    "Add chopped cilantro, green chutney, chili powder, and garam masala. Mix well.",
+    "Add caramelized onions and mix well.",
+    "Add sushi rice to the pan and mix well.",
+    "Season with salt to taste.",
+    "Add lemon juice and chopped fresh mint. Mix well.",
+    "Transfer the mixture to a serving dish.",
+    "Top with yogurt and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "indian-cuisine",
+    "one-pan",
+    "spicy-food",
+    "sushi-rice",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "nutritious-nice-north-indian-sushi-rice-spicy-chaat",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-nice-north-indian-sushi-rice-spicy-chaat",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:10:48Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "caramelize",
+    "primaryIngredient": "sushi rice",
+    "diet": "ovo-vegetarian",
+    "region": "north",
+    "cuisineAdjective": "north indian",
+    "mainIngredient": "sushi rice",
+    "descriptor": "Nutritious Nice",
+    "dishForm": "Spicy Chaat"
+  }
+}
