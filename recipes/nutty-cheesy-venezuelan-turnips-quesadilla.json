@@ -1,0 +1,127 @@
+{
+  "title": "Nutty Cheesy Venezuelan Turnips Quesadilla",
+  "description": "A nostalgic Venezuelan dish featuring turnips, flambe, and plant-based friendly cheesy goodness.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turnips",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Vegan cheese shreds",
+      "amount": "1 cup",
+      "notes": "Such as Daiya or Follow Your Heart"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flour tortillas",
+      "amount": "4",
+      "notes": "Look for vegan or gluten-free options"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the turnips and cook until they are tender and lightly browned, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the vegan cheese shreds and stir until melted and smooth.",
+    "Transfer the turnip and cheese mixture to a bowl and stir in the chopped cilantro, scallions, lime juice, salt, and black pepper.",
+    "Heat the remaining 1 tablespoon of olive oil in the same skillet over medium heat.",
+    "Place a tortilla in the skillet and sprinkle a quarter of the turnip and cheese mixture onto half of the tortilla.",
+    "Fold the tortilla in half to enclose the filling and cook for 2-3 minutes, until the tortilla is crispy and the filling is heated through.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes, until the other side is also crispy and the filling is heated through.",
+    "Repeat with the remaining tortillas and filling.",
+    "Cut the quesadillas into wedges and serve hot.",
+    "Sprinkle with nutritional yeast and serve immediately.",
+    "Garnish with chopped cilantro and scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "nut-free",
+    "one-pan",
+    "plant-based",
+    "soy-free",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "nutty-cheesy-venezuelan-turnips-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-cheesy-venezuelan-turnips-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:01:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "flambe",
+    "primaryIngredient": "turnips",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "turnips",
+    "descriptor": "nutty cheesy",
+    "dishForm": "quesadilla"
+  }
+}
