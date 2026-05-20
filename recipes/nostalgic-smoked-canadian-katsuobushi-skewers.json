@@ -1,0 +1,109 @@
+{
+  "title": "Nostalgic Smoked Canadian Katsuobushi Skewers",
+  "description": "A nostalgic Canadian dish featuring smoked katsuobushi, served with a side of rest, making it shojin-friendly. This recipe is perfect for a robata-grill vessel.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Katsuobushi",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Grain mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Smoked salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Rested tofu",
+      "amount": "6 ounces"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat, about 400°F.",
+    "Cut the rested tofu into 1-inch cubes.",
+    "Thread a piece of rested tofu, a few strands of lemongrass, and a piece of katsuobushi onto a skewer.",
+    "Brush the skewers with soy sauce, maple syrup, rice vinegar, grain mustard, and honey.",
+    "Season the skewers with smoked salt and black pepper.",
+    "Grill the skewers for 3-4 minutes per side, or until the katsuobushi is caramelized.",
+    "Remove the skewers from the grill and sprinkle with fresh cilantro.",
+    "Serve the skewers hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "gluten-free-friendly",
+    "high-protein",
+    "one-pan",
+    "robata-grill",
+    "shojin-friendly",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nostalgic-smoked-canadian-katsuobushi-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nostalgic-smoked-canadian-katsuobushi-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:14:18Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "rest",
+    "primaryIngredient": "katsuobushi",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Katsuobushi",
+    "descriptor": "Nostalgic Smoked",
+    "dishForm": "Skewers"
+  }
+}
