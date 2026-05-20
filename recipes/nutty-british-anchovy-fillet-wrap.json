@@ -1,0 +1,99 @@
+{
+  "title": "Nutty British Anchovy Fillet Wrap",
+  "description": "A savory, juicy British dish featuring anchovy fillet in a shojin-friendly ssam-wrap, perfect for a date-night dinner.",
+  "cuisine": "british",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "anchovy fillets in oil",
+      "amount": "4 fillets"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 wraps",
+      "notes": "shojin-friendly"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup chopped"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mixed herbs",
+      "amount": "2 tablespoons chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "4 slices, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Wrap a ssam-wrap in a paper towel and microwave for 20-30 seconds to warm it.",
+    "In a small bowl, mix together the lemon juice and olive oil.",
+    "Add the mixed herbs to the bowl and stir to combine.",
+    "Place an anchovy fillet on each warmed ssam-wrap, followed by a spoonful of mixed greens and a sprinkle of walnuts.",
+    "Drizzle the lemon herb sauce over the top of each wrap.",
+    "Place a slice of crispy bacon on top of each wrap.",
+    "Sprinkle grated cheddar cheese over the bacon.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 35
+  },
+  "slug": "nutty-british-anchovy-fillet-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-british-anchovy-fillet-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T05:57:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "anchovy fillet",
+    "descriptor": "Nutty",
+    "dishForm": "Wrap"
+  }
+}
