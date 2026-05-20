@@ -2325,6 +2325,21 @@
     "shard": "n"
   },
   {
+    "slug": "nighttime-roasted-tunisian-chestnuts-tagine",
+    "title": "Nighttime Roasted Tunisian Chestnuts Tagine",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "one-pan",
+      "paleo-friendly",
+      "special-occasion",
+      "wintertime"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
     "slug": "nighttime-sizzling-velvet-turkish-lardons-kunefe",
     "title": "Nighttime Sizzling Velvet Turkish Lardons Kunefe",
     "tags": [
@@ -15354,6 +15369,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-mediterranean-pillowy-bowl",
+    "title": "nutty Mediterranean pillowy Bowl",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "mediterranean",
+      "pillowy",
+      "post-workout",
+      "snack"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {

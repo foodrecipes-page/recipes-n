@@ -1,0 +1,105 @@
+{
+  "title": "Nighttime Roasted Tunisian Chestnuts Tagine",
+  "description": "A rich and satisfying dish, perfect for a date night. Chestnuts add a sweet and snappy texture.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 pound"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "0.25 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.125 teaspoon"
+    },
+    {
+      "name": "date syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cured pork jowl or pancetta",
+      "amount": "4 slices"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "0.25 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut onion and garlic into small pieces.",
+    "In a bamboo-tray, combine chestnuts, olive oil, onion, garlic, cinnamon, cumin, coriander, salt, and pepper. Toss to coat.",
+    "Roast in the oven for 20 minutes.",
+    "Add date syrup and cure to the tray. Toss to coat.",
+    "Return to oven and roast for an additional 15 minutes.",
+    "Remove from oven and let cool slightly.",
+    "Chop parsley and sprinkle on top.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "special-occasion",
+    "wintertime"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 31,
+    "carbs": 64,
+    "fat": 34
+  },
+  "slug": "nighttime-roasted-tunisian-chestnuts-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nighttime-roasted-tunisian-chestnuts-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:50:41Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "chestnuts",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Chestnuts",
+    "descriptor": "Nighttime Roasted",
+    "dishForm": "Tagine"
+  }
+}

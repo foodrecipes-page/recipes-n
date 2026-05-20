@@ -1,0 +1,110 @@
+{
+  "title": "nutty Mediterranean pillowy Bowl",
+  "description": "A delicious pillowy post-workout dish, combining nutty elements of the Mediterranean diet with a sweet and tangy twist. Enjoy as a satisfying snack or light meal.",
+  "cuisine": "Mediterranean",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gluten-free quinoa flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "Use for brushing the bowl."
+    },
+    {
+      "name": "Chickpea flour",
+      "amount": "1 cup",
+      "notes": "Also known as gram flour."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Approximate amount."
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted and sliced."
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": "Canned or marinated."
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumbly, preferably sheep milk."
+    },
+    {
+      "name": "Glace cherry",
+      "amount": "10",
+      "notes": ""
+    },
+    {
+      "name": "Nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Mix the quinoa flour, chickpea flour, and water in a bowl until well combined.",
+    "Knead the dough for 5 minutes until it becomes pliable and smooth.",
+    "Transfer the dough to a greased bowl and cover it with a damp cloth.",
+    "Let it rest for 30 minutes.",
+    "Divide the dough into 4 equal parts.",
+    "Roll out each part into a thin circle, about 1/8 inch thick.",
+    "Brush the surface of each circle with olive oil.",
+    "Place the dough circles in a greased oven-safe bowl or individual ramekins.",
+    "Bake for 15-20 minutes, or until the dough is golden brown and puffed.",
+    "Top with kalamata olives, artichoke hearts, feta cheese, glace cherry, nuka-pickle, and fresh parsley.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "pillowy",
+    "post-workout",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "nutty-mediterranean-pillowy-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-mediterranean-pillowy-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:51:38Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "glace cherry",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pillowy",
+    "descriptor": "nutty",
+    "dishForm": "Bowl"
+  }
+}
