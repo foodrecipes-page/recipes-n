@@ -1,0 +1,106 @@
+{
+  "title": "neatly wrapped ethiopian pork back ribs wrap",
+  "description": "ethiopian yeasty wrap featuring pork back ribs and steamed banana leaves",
+  "cuisine": "ethiopian",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "injera flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "niter kibbeh",
+      "amount": "1/4 cup",
+      "notes": "ethiopian clarified butter"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine yeast, sugar, and 1 cup of warm water to activate the yeast"
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 120,
+  "totalTimeMin": 160,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ethiopian",
+    "snack",
+    "wrap",
+    "yummy"
+  ],
+  "nutrition": {
+    "calories": 1038,
+    "protein": 53,
+    "carbs": 105,
+    "fat": 66
+  },
+  "slug": "neatly-wrapped-ethiopian-pork-back-ribs-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/neatly-wrapped-ethiopian-pork-back-ribs-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:50:53Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "pork back ribs",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "ethiopian",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "neatly wrapped",
+    "dishForm": "wrap"
+  }
+}
