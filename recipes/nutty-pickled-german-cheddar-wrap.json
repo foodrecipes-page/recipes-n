@@ -1,0 +1,87 @@
+{
+  "title": "nutty pickled german cheddar wrap",
+  "description": "a pillowy, festive german dish featuring cheddar cheese and pickle, wrapped in a raw-friendly pandan leaf wrap",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pandan leaf wraps",
+      "amount": "4",
+      "notes": "raw-friendly"
+    },
+    {
+      "name": "sharp german cheddar cheese",
+      "amount": "120g",
+      "notes": "grated"
+    },
+    {
+      "name": "pickled cucumber slices",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "toasted chopped almonds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mayonnaise or vegan alternative",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "start by toasting the chopped almonds in a dry pan over medium heat, stirring frequently, until fragrant and lightly browned.",
+    "in a large bowl, combine the grated german cheddar cheese, pickled cucumber slices, toasted almonds, and chopped parsley.",
+    "if using, stir in the mayonnaise or vegan alternative to help bind the filling together.",
+    "lay a pandan leaf wrap flat on a clean surface, with the stem end facing you.",
+    "place about 1/4 cup of the cheese mixture onto the center of the wrap, leaving a 1-inch border around the edges.",
+    "fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "repeat with the remaining wraps and filling ingredients.",
+    "serve immediately, or wrap individually and refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "german-cuisine",
+    "lunch-box",
+    "one-pan",
+    "raw-friendly",
+    "snack-ideas",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "nutty-pickled-german-cheddar-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-pickled-german-cheddar-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:12:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "pickle",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cheddar cheese",
+    "descriptor": "Nutty Pickled",
+    "dishForm": "Wrap"
+  }
+}
