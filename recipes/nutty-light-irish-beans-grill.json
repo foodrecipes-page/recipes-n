@@ -1,0 +1,108 @@
+{
+  "title": "Nutty Light Irish Beans Grill",
+  "description": "A post-workout, low-calorie Irish dish featuring dried white navy beans and char-grilled chicken. Perfect for a quick and nutritious meal.",
+  "cuisine": "irish",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "low-calorie"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dried white navy beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "4 oz",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "In a medium bowl, whisk together chicken broth, olive oil, salt, black pepper, and garlic powder.",
+    "Add the chopped onion and red bell pepper to the bowl and toss to coat.",
+    "Grill the chicken and vegetables for 5-7 minutes per side, or until the chicken is cooked through.",
+    "Add the soaked navy beans to the grill and cook for an additional 2-3 minutes, or until heated through.",
+    "Transfer the beans and vegetables to a serving dish and squeeze with lemon juice.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "nutty-light-irish-beans-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-light-irish-beans-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:15:48Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beans",
+    "descriptor": "nutty light",
+    "dishForm": "Grill"
+  }
+}
