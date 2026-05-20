@@ -1,0 +1,111 @@
+{
+  "title": "Nutty Snappy Venezuelan Hummus Bake",
+  "description": "A hangover-cure dish featuring a nutty and snappy vegan version of classic hummus topped with a crispy salt-bake. Great for a dairy-free-friendly breakfast.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "2 cups"
+    },
+    {
+      "name": "hummus",
+      "amount": "1 cup",
+      "notes": "make sure it's dairy-free"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "tortilla chips",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a blender or food processor, combine chickpeas, hummus, pistachios, sesame seeds, cumin, coriander, and garlic. Blend until smooth.",
+    "Transfer the mixture to a baking dish and smooth the top.",
+    "Drizzle with olive oil and sprinkle with salt and pepper.",
+    "Top with crushed tortilla chips and diced tomato.",
+    "Bake for 20 minutes, or until the top is crispy and golden brown.",
+    "Serve hot, garnished with additional pistachios and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nutty-snappy-venezuelan-hummus-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-snappy-venezuelan-hummus-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:23:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "salt-bake",
+    "primaryIngredient": "hummus",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "hummus",
+    "descriptor": "nutty snappy",
+    "dishForm": "Bake"
+  }
+}
