@@ -1,0 +1,91 @@
+{
+  "title": "Nutritious New Pot Yunnan Bok Choy Ma-La-Tang",
+  "description": "Grassy and juicy, this kid-friendly Chinese dish from Yunnan is a perfect option for a weeknight dinner. Bok choy and rest-meat come together in a sugar-free-friendly Ma-La-Tang broth.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bok Choy",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "Rest-Meat (pork or beef)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Szechuan Pepper",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Szechuan Peppercorn Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "White Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lacquerware-Bowl",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of Szechuan Peppercorn Oil in a lacquerware-bowl over medium-high heat.",
+    "Add 1 pound of Rest-Meat and cook until browned, about 5 minutes.",
+    "Add 2 inches of sliced Ginger and 3 cloves of minced Garlic, and cook for another minute.",
+    "Add 2 bunches of Bok Choy, separated into individual leaves, and cook until wilted, about 3 minutes.",
+    "Add 1 tablespoon of Szechuan Pepper, Salt, and White Pepper to taste, and stir to combine.",
+    "Serve immediately, garnished with additional Bok Choy leaves if desired.",
+    "Adjust seasoning as needed.",
+    "Serve with steamed rice or noodles, if desired.",
+    "Clean the lacquerware-bowl thoroughly after use."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "nutritious-new-pot-yunnan-bok-choy-ma-la-tang",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-new-pot-yunnan-bok-choy-ma-la-tang",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:08:01Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "rest-meat",
+    "primaryIngredient": "bok choi",
+    "diet": "sugar-free",
+    "region": "yunnan",
+    "cuisineAdjective": "Yunnan",
+    "mainIngredient": "Bok Choy",
+    "descriptor": "Nutritious New Pot",
+    "dishForm": "Ma-La-Tang"
+  }
+}
