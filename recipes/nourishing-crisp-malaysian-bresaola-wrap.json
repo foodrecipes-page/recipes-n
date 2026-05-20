@@ -1,0 +1,100 @@
+{
+  "title": "nourishing crisp malaysian bresaola wrap",
+  "description": "post-workout malaysian dish featuring crispy bresaola, fresh leafy greens and steamed vegetables",
+  "cuisine": "malaysian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bresaola",
+      "amount": "125g"
+    },
+    {
+      "name": "rice paper",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "steamed vegetables",
+      "amount": "",
+      "notes": "such as broccoli, carrots and bell peppers"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "",
+      "notes": "for garnish"
+    },
+    {
+      "name": "crunchy fried shallots",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sambal chili sauce",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "",
+      "notes": "for steaming and frying"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "100g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "steam the rice paper sheets for 10 seconds to make them pliable",
+    "spread a sheet of steamed rice paper on a flat surface",
+    "place 25g of sliced bresaola in the center of the rice paper",
+    "add 1/4 cup of steamed vegetables on top of the bresaola",
+    "drizzle 1 teaspoon of sambal chili sauce over the vegetables",
+    "sprinkle 1/4 cup of crunchy fried shallots over the vegetables",
+    "add a few fresh mint leaves for garnish",
+    "fold the bottom half of the rice paper up over the filling, then fold in the sides and roll up the wrap to form a cylinder",
+    "repeat with the remaining ingredients to make 4-6 wraps",
+    "serve immediately, garnished with additional mint leaves and chili sauce if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 5
+  },
+  "slug": "nourishing-crisp-malaysian-bresaola-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-crisp-malaysian-bresaola-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:58:11Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "bresaola",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "bresaola",
+    "descriptor": "nourishing crisp",
+    "dishForm": "wrap"
+  }
+}
