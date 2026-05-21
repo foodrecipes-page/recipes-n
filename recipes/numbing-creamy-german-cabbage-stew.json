@@ -1,0 +1,101 @@
+{
+  "title": "Numbing Creamy German Cabbage Stew",
+  "description": "A comforting, low-carb German classic re-imagined with a spicy, numbing kick of Sichuan peppercorns and finished with a rich, velvety beurre-monte.",
+  "cuisine": "German-Asian Fusion",
+  "diet": [
+    "Low-Carb",
+    "Keto-Friendly",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green cabbage",
+      "amount": "1 medium head",
+      "notes": "cored and shredded"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for searing"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "finely ground"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "room temperature"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "cold and cubed"
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": "for the beurre-monte"
+    },
+    {
+      "name": "salt and black pepper",
+      "amount": "to taste",
+      "notes": "fine sea salt"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large Dutch oven over medium-high heat.",
+    "Add the shredded cabbage and ground Sichuan peppercorns, stirring constantly until the cabbage starts to soften and char slightly at the edges.",
+    "Pour in the vegetable broth and bring the mixture to a rapid boil.",
+    "Reduce the heat to low, cover the pot, and simmer for twenty minutes until the cabbage is completely tender.",
+    "Stir in the heavy cream and let the stew simmer gently uncovered for five minutes.",
+    "In a separate small saucepan, bring two tablespoons of water to a boil over high heat.",
+    "Reduce the heat to low and whisk in the cold, cubed butter one piece at a time to create a thick, emulsified beurre-monte.",
+    "Remove the stew from the heat and gently fold in the warm beurre-monte to enrich the broth.",
+    "Season the stew with salt and black pepper to taste before serving hot in bowls."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fusion",
+    "low-carb",
+    "sick-day",
+    "spicy",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 27
+  },
+  "slug": "numbing-creamy-german-cabbage-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/numbing-creamy-german-cabbage-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T08:07:07Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "beurre-monte",
+    "primaryIngredient": "vegetable oil",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Numbing Creamy",
+    "dishForm": "Stew"
+  }
+}
