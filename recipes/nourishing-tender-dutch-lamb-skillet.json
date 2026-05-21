@@ -1,0 +1,105 @@
+{
+  "title": "Nourishing Tender Dutch Lamb Skillet",
+  "description": "A pungent and tender Dutch dish featuring lamb, yogurt, and render fat, cooked to perfection in a cast-iron skillet, perfect for a romantic dinner",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "render fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the render fat in a large cast-iron skillet over medium-high heat",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes",
+    "Add the chopped onion and cook until softened, about 3 minutes",
+    "Add the minced garlic and cook for 1 minute",
+    "Add the chopped carrot and potato, and cook for 5 minutes",
+    "Add the thyme, salt, and black pepper, and stir to combine",
+    "Add the plain yogurt and stir to combine",
+    "Reduce heat to low and simmer, covered, for 20 minutes",
+    "Serve hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cast-iron-skillet",
+    "dutch-cuisine",
+    "lamb-recipes",
+    "low-fat",
+    "one-pan-meal",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "nourishing-tender-dutch-lamb-skillet",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/nourishing-tender-dutch-lamb-skillet",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T14:55:37Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "render-fat",
+    "primaryIngredient": "yogurt",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "lamb",
+    "descriptor": "Nourishing Tender",
+    "dishForm": "Skillet"
+  }
+}
