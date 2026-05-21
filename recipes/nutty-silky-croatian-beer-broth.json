@@ -1,0 +1,71 @@
+{
+  "title": "Nutty Silky Croatian Beer Broth",
+  "description": "A rich and comforting beer-based broth from Croatia, perfect for a hangover cure or a cozy evening meal, without added sugar.",
+  "cuisine": "Croatian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beer (dark beer or bock)",
+      "amount": "1 liter",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "60 ml",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat. ",
+    "Add the chopped onion and cook until softened, about 8 minutes. ",
+    "Add the beer and bring to a boil. ",
+    "Reduce heat to low and simmer for 20 minutes. ",
+    "Strain the broth through a fine-mesh sieve into a clean pot. ",
+    "Discard the solids and season with salt to taste. ",
+    "Serve hot, garnished with parsley or chives if desired. "
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beer",
+    "broth",
+    "comfort",
+    "croatian",
+    "hangover-cure",
+    "low-carb",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "nutty-silky-croatian-beer-broth",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-silky-croatian-beer-broth",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:44:49Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "beer",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "beer",
+    "descriptor": "nutty silky",
+    "dishForm": "broth"
+  }
+}
