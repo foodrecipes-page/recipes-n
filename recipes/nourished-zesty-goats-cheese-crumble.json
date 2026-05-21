@@ -1,0 +1,83 @@
+{
+  "title": "Nourished Zesty Goats Cheese Crumble",
+  "description": "A fresh and zesty Japanese-inspired low-carb dish featuring goats cheese in a quick-to-make crumble.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goats cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "almond meal",
+      "amount": "75g"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "60g"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "50g"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C.",
+    "Mix goats cheese, almond meal, ginger paste, lime zest, unsalted butter, chopped walnuts, sugar, and salt in a bowl until crumbly.",
+    "Press mixture evenly onto an oiled baking dish.",
+    "Bake for 25 minutes or until golden brown.",
+    "Serve warm with steamed vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "japanese",
+    "low-carb",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 670,
+    "protein": 19,
+    "carbs": 28,
+    "fat": 34
+  },
+  "slug": "nourished-zesty-goats-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/nourished-zesty-goats-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T16:11:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "beurre-monte",
+    "primaryIngredient": "goats cheese",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Goats Cheese",
+    "descriptor": "Nourished",
+    "dishForm": "Crumble"
+  }
+}
