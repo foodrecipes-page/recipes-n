@@ -1,0 +1,108 @@
+{
+  "title": "Nutritious No-booze Thai Potatoe Kanom Jeen",
+  "description": "A delicious and nutritious Thai-inspired dish featuring potato buns and char-grilled chicken served in a macrobiotic-friendly bento box.",
+  "cuisine": "Thai",
+  "diet": [
+    "macrobiotic-friendly",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potato buns",
+      "amount": "4"
+    },
+    {
+      "name": "Char-grilled chicken breast",
+      "amount": "2"
+    },
+    {
+      "name": "Crispy fried shallots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Spicy peanut sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Steamed broccoli",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sliced cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pickled carrots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Prepare the potato buns by steaming them for 10 minutes until tender.",
+    "Grill the chicken breast over medium heat for 5-6 minutes per side, or until cooked through.",
+    "Heat the coconut oil in a pan over medium heat and add the crispy fried shallots.",
+    "Cook the steamed broccoli in the pan for 2-3 minutes, or until tender.",
+    "Assemble the bento box by placing a potato bun at the bottom, followed by a slice of grilled chicken, some steamed broccoli, and a spoonful of spicy peanut sauce.",
+    "Garnish with sliced cucumber, pickled carrots, chopped cilantro, and a squeeze of fresh lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bangkokstyle",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "macrobiotic",
+    "streetfood",
+    "thaifood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "nutritious-no-booze-thai-potatoe-kanom-jeen",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutritious-no-booze-thai-potatoe-kanom-jeen",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T06:11:45Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "potatoe buns",
+    "diet": "macrobiotic",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "potatoe",
+    "descriptor": "Nutritious No-booze",
+    "dishForm": "Kanom Jeen"
+  }
+}
