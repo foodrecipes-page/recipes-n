@@ -1,0 +1,108 @@
+{
+  "title": "Nutty AeriZed Canadian Eggplant Gratin",
+  "description": "A sophisticated Canadian eggplant dish featuring a nutty, aerated gratin. Perfect for a date night dinner.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2",
+      "notes": "medium size"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "unbleached"
+    },
+    {
+      "name": "grated nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "halal chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cracked black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the eggplant in half lengthwise and scoop out the flesh, leaving 1/2 inch of flesh around the skin.",
+    "In a large bowl, combine the eggplant flesh, nutmeg, salt, and black pepper. Toss to coat.",
+    "In a separate bowl, whisk together the flour and butter until well combined.",
+    "Add the chicken broth to the flour mixture and whisk until smooth.",
+    "Add the heavy cream and whisk until well combined.",
+    "Stir in 1/2 cup of the grated cheddar cheese.",
+    "Place the eggplant halves in a baking dish and pour the cream mixture over them.",
+    "Top with the remaining 1/2 cup of grated cheddar cheese and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "date-night",
+    "gratin",
+    "halal",
+    "main-course",
+    "nutmeg",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "nutty-aeri-zed-canadian-eggplant-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/nutty-aeri-zed-canadian-eggplant-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T11:51:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "braise",
+    "primaryIngredient": "egg plants",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Nutty AeriZed",
+    "dishForm": "Gratin"
+  }
+}
