@@ -7022,19 +7022,16 @@
   },
   {
     "slug": "nourishing-mexican-beef-barbacoa",
-    "title": "Nourishing Mexican Beef Barbacoa",
+    "title": "Beef Barbacoa Tacos",
     "tags": [
-      "barbacoa",
       "beef",
-      "crock-pot",
       "mexican",
-      "one-pan",
-      "pressure-cooker",
-      "slow-cooker",
-      "weeknight"
+      "barbacoa",
+      "tacos",
+      "slow-cooker"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 240,
+    "cuisine": "mexican",
+    "totalTimeMin": 230,
     "shard": "n"
   },
   {
@@ -10847,17 +10844,14 @@
   },
   {
     "slug": "nutritious-irish-tempeh-skillet",
-    "title": "Nutritious Irish Tempeh Skillet",
+    "title": "Irish Skillet Tempeh",
     "tags": [
-      "irish",
-      "kid-friendly",
-      "nutritious",
-      "one-pan",
-      "vegetarian",
-      "whole30"
+      "healthy",
+      "easy-to-make",
+      "skillet-dish"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "cuisine": "irish",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
