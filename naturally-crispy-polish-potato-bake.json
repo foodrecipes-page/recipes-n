@@ -1,0 +1,73 @@
+{
+  "slug": "naturally-crispy-polish-potato-bake",
+  "title": "Pan-Seared Polish Sausages with Crispy Potato Wedges",
+  "description": "A hearty and flavorful dish that combines the richness of Polish sausages with the crunch of crispy potato wedges. This recipe is perfect for a cold evening.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausages",
+      "amount": "4 links",
+      "notes": "Choose a high-quality sausage with a natural casing"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2-3 medium",
+      "notes": "Choose high-starch potatoes for the crispiest results"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality extra-virgin olive oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use a flaky sea salt for added texture"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground black pepper for the best flavor"
+    },
+    {
+      "name": "Bake",
+      "amount": "350°F (180°C)",
+      "notes": "Preheat the oven to the correct temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Cut the potatoes into wedges and place them on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the potatoes and sprinkle with salt and pepper.",
+    "Bake the potatoes in the preheated oven for 20-25 minutes, or until crispy.",
+    "Meanwhile, heat a large skillet over medium-high heat.",
+    "Add the Polish sausages to the skillet and cook for 5-7 minutes on each side, or until browned and crispy.",
+    "Remove the sausages from the skillet and let them rest for a few minutes.",
+    "Serve the sausages with the crispy potato wedges and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish-sausage",
+    "crispy-potatoes",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-crispy-polish-potato-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:48:04.828Z"
+}
