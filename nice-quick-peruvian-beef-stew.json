@@ -1,0 +1,95 @@
+{
+  "slug": "nice-quick-peruvian-beef-stew",
+  "title": "Beef Lomo Saltado Stew",
+  "description": "A Peruvian-inspired beef stew with a twist of stir-fry flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye work well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "stew beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can",
+      "notes": "14.5 oz diced"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef strips and cook until browned, about 3-4 minutes. Remove and set aside.",
+    "Add onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add stew beef and cook until browned, about 5 minutes.",
+    "Add tomato, stir-fry sauce, soy sauce, and sugar to the pot. Stir to combine.",
+    "Add beef broth and potatoes to the pot. Stir to combine.",
+    "Return beef strips to the pot and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 1 1/2 hours, or until beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "peruvian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-quick-peruvian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:34:32.735Z"
+}
