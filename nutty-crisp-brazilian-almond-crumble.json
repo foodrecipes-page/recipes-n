@@ -1,0 +1,86 @@
+{
+  "slug": "nutty-crisp-brazilian-almond-crumble",
+  "title": "Brazilian Caramel Tart with Almond Crumble",
+  "description": "A sweet and nutty dessert featuring a caramel filling topped with a crunchy almond crumble. A perfect treat for warm evenings.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dessert",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "finely ground almonds"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "for caramel filling"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": "for caramel filling"
+    },
+    {
+      "name": "crisp rice cereal",
+      "amount": "1 cup",
+      "notes": "for almond crumble"
+    },
+    {
+      "name": "nutty nut butter",
+      "amount": "2 tablespoons",
+      "notes": "for almond crumble"
+    },
+    {
+      "name": "brazilian sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Prepare the almond crumble by mixing together almond flour, crisp rice cereal, nutty nut butter, and brazilian sea salt in a bowl until well combined.",
+    "Press the mixture into the bottom of a 9-inch (23cm) tart pan.",
+    "Melt the butter and granulated sugar in a saucepan over medium heat, stirring constantly.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Remove from heat and stir in the egg until well combined.",
+    "Pour the caramel filling into the prepared tart crust.",
+    "Top with the almond crumble and bake for 25-30 minutes, or until golden brown.",
+    "Allow the tart to cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "tart",
+    "almond",
+    "caramel",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crisp-brazilian-almond-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:35:25.136Z"
+}
