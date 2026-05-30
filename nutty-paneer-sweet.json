@@ -1,0 +1,58 @@
+{
+  "slug": "nutty-paneer-sweet",
+  "title": "Paneer Dessert",
+  "description": "A sweet and nutty dessert featuring paneer as the main ingredient. Perfect for those with a sweet tooth.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "honey",
+      "amount": "100g"
+    },
+    {
+      "name": "almonds",
+      "amount": "50g",
+      "notes": "chopped"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together crumbled paneer, honey, and cardamom powder until well combined.",
+    "2. Heat a non-stick pan over medium heat.",
+    "3. Add the paneer mixture to the pan and cook for about 5 minutes, stirring constantly.",
+    "4. Add the chopped almonds to the pan and cook for another 2-3 minutes.",
+    "5. Remove the pan from the heat and let it cool down to room temperature.",
+    "6. Refrigerate the mixture for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 48,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-desserts",
+    "paneer-recipes",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-paneer-sweet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T12:22:05.616Z"
+}
