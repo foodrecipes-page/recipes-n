@@ -1,0 +1,62 @@
+{
+  "slug": "nutty-norwegian-egg-yolks-stir-fry",
+  "title": "Norwegian Nutty Omelette",
+  "description": "A delicious and easy-to-make omelette inspired by Norwegian cuisine, featuring a nutty twist. Perfect for a satisfying breakfast or brunch.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "yolks",
+      "amount": "1",
+      "notes": "from 2 large eggs"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 tsp",
+      "notes": "nutmeg"
+    },
+    {
+      "name": "norwegian",
+      "amount": "1 tsp",
+      "notes": "dried dill weed"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a pinch of salt and pepper.",
+    "Heat a small non-stick pan over medium heat and add a tiny amount of oil.",
+    "Once the pan is hot, pour in the egg mixture and let it cook for about 30 seconds.",
+    "Sprinkle the nutmeg and dried dill weed over the eggs and gently fold the omelette in half.",
+    "Cook for another 30 seconds and then use a spatula to carefully flip the omelette over.",
+    "Cook for another 30 seconds and then slide the omelette onto a plate.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "omelette",
+    "norwegian",
+    "nutmeg"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-norwegian-egg-yolks-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:58:35.432Z"
+}
