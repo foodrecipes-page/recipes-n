@@ -2057,17 +2057,15 @@
   },
   {
     "slug": "nice-quick-peruvian-beef-stew",
-    "title": "Nice Quick Peruvian Beef Stew",
+    "title": "Beef Lomo Saltado Stew",
     "tags": [
-      "beef-stew",
-      "low-sodium",
-      "one-pot",
-      "peruvian-cuisine",
-      "quick-dinner",
-      "weeknight"
+      "beef",
+      "stew",
+      "peruvian",
+      "dinner"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 110,
     "shard": "n"
   },
   {
