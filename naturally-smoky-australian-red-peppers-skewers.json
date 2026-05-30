@@ -1,0 +1,75 @@
+{
+  "slug": "naturally-smoky-australian-red-peppers-skewers",
+  "title": "Smoked Paprika Chicken Skewers",
+  "description": "A flavorful and easy-to-make dish perfect for a quick weeknight dinner or a summer barbecue. The smoky flavor of the paprika pairs well with the charred sweetness of the red peppers.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "Red bell peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Naturally sweet honey",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Australian olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken and red peppers onto skewers.",
+    "In a small bowl, mix together smoked paprika, honey, and olive oil.",
+    "Brush the mixture evenly onto the chicken and peppers.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Cook until the chicken is cooked through and the peppers are tender.",
+    "Remove from heat and let rest for 2-3 minutes.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "grilled",
+    "summer",
+    "barbecue",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-smoky-australian-red-peppers-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:03:40.113Z"
+}
