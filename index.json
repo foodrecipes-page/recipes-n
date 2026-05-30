@@ -12880,15 +12880,16 @@
   },
   {
     "slug": "nutty-crisp-brazilian-almond-crumble",
-    "title": "Nutty Crisp Brazilian Almond Crumble",
+    "title": "Brazilian Caramel Tart with Almond Crumble",
     "tags": [
+      "dessert",
+      "tart",
       "almond",
-      "butter",
-      "crumble",
-      "parmesan"
+      "caramel",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
