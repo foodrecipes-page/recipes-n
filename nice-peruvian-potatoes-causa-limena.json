@@ -1,0 +1,72 @@
+{
+  "slug": "nice-peruvian-potatoes-causa-limena",
+  "title": "Peruvian Causa Rellena de Papa",
+  "description": "A traditional Peruvian dish consisting of stuffed potatoes with various fillings, typically served as a main course or light lunch.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "limena potatoes",
+      "amount": "3 large",
+      "notes": "baked, cooled"
+    },
+    {
+      "name": "causa",
+      "amount": "1 package",
+      "notes": " Peruvian corn flour"
+    },
+    {
+      "name": "nice red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "nice garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "nice fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "peruvian ají amarillo pepper",
+      "amount": "1 small",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Bake the limena potatoes for 45-50 minutes, or until they're tender.",
+    "3. Scoop out the potato flesh and mash in a bowl.",
+    "4. Add the causa, red onion, garlic, cilantro, and ají amarillo pepper to the bowl. Mix well.",
+    "5. Season the mixture with salt and pepper to taste.",
+    "6. Stuff each potato shell with the mixture.",
+    "7. Serve the causa rellena garnished with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "causa",
+    "potatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-peruvian-potatoes-causa-limena",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:23:58.865Z"
+}
