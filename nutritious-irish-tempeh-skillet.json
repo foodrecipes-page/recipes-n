@@ -1,0 +1,83 @@
+{
+  "slug": "nutritious-irish-tempeh-skillet",
+  "title": "Irish Skillet Tempeh",
+  "description": "A nutritious and flavorful skillet dish featuring tempeh and inspired by Irish cuisine.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "1 package (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium, peeled, cubed",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup, trimmed",
+      "notes": ""
+    },
+    {
+      "name": "Skillet seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Add the olive oil and swirl to coat the bottom.",
+    "Add the sliced onion and cook until slightly browned, about 5 minutes.",
+    "Add the sliced carrots and cook for an additional 3-4 minutes.",
+    "Add the cubed potatoes and cook until slightly browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the trimmed green beans and cook until tender, about 3-4 minutes.",
+    "Add the tempeh, breaking it into small pieces, and cook until heated through.",
+    "Season with skillet seasoning and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "easy-to-make",
+    "skillet-dish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-irish-tempeh-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:53:07.253Z"
+}
