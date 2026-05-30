@@ -1,0 +1,86 @@
+{
+  "slug": "nutty-german-chicken-casserole",
+  "title": "German Chicken Casserole",
+  "description": "A hearty, comforting dish that combines the flavors of Germany with the simplicity of a casserole. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "German",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "casserole",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "nutty wheat bread",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "german sausage",
+      "amount": "1 pound",
+      "notes": "Sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": null,
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": null,
+      "notes": "To taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the sliced sausage in a large skillet over medium-high heat until browned, about 5 minutes.",
+    "Remove the cooked sausage from the skillet with a slotted spoon and set aside.",
+    "Add the sliced onion to the skillet and cook until softened, about 3-4 minutes.",
+    "In a large mixing bowl, combine the cooked sausage, onion, and chicken breast.",
+    "In a separate bowl, mix together the crumbled bread and melted butter.",
+    "Add the bread mixture to the chicken mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!",
+    "Let the casserole rest for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "casserole",
+    "chicken",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-german-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:25:39.151Z"
+}
