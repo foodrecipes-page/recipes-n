@@ -1,0 +1,93 @@
+{
+  "slug": "nourishing-mexican-beef-barbacoa",
+  "title": "Beef Barbacoa Tacos",
+  "description": "Slow-cooked beef barbacoa in a rich and spicy tomato-based sauce, served in a warm taco shell. Perfect for a weekend dinner or special occasion.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flank steak",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "barbacoa seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "2-3 peppers",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "taco shells",
+      "amount": "8-10 shells",
+      "notes": "corn or flour"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the steak and cook until browned on all sides, about 5 minutes.",
+    "Remove the steak from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the chipotle peppers, tomato paste, and barbacoa seasoning to the pot. Cook for 1-2 minutes, stirring constantly.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Return the steak to the pot and cover with a lid.",
+    "Transfer the pot to the oven and cook for 2 1/2 to 3 hours, or until the steak is tender and falls apart easily.",
+    "Shred the steak with two forks and return it to the pot.",
+    "Simmer the barbacoa over low heat for 10-15 minutes, stirring occasionally.",
+    "Warm the taco shells according to package instructions.",
+    "Assemble the tacos by spooning the barbacoa onto a shell and serving with your favorite toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 210,
+  "totalTimeMin": 230,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mexican",
+    "barbacoa",
+    "tacos",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-mexican-beef-barbacoa",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:54:59.261Z"
+}
