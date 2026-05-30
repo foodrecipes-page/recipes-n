@@ -1,0 +1,93 @@
+{
+  "slug": "nutty-venezuelan-peanuts-stew",
+  "title": "Venezuelan Nutty Stew",
+  "description": "A hearty and flavorful stew originating from Venezuela, made with peanuts and a blend of spices.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "unsalted and unsweetened"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 cup",
+      "notes": "diced and toasted"
+    },
+    {
+      "name": "stew",
+      "amount": "1 can",
+      "notes": "14.5 oz, diced tomatoes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic; cook until softened, 5 minutes.",
+    "Add chili powder and cumin; cook for 1 minute.",
+    "Add peanuts, stew, vegetable broth, salt, and black pepper.",
+    "Bring to a boil; reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in diced nutty; continue to simmer for 5 more minutes.",
+    "Serve hot, garnished with chopped peanuts and nutty, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "south-american",
+    "peanut-stew",
+    "stew-recipe",
+    "veggie-stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-venezuelan-peanuts-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:47:32.469Z"
+}
