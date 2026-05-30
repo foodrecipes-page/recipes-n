@@ -18529,5 +18529,17 @@
     "cuisine": "norway",
     "totalTimeMin": 45,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-paneer-sweet",
+    "title": "Paneer Dessert",
+    "tags": [
+      "indian-desserts",
+      "paneer-recipes",
+      "sweet-treats"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 48,
+    "shard": "n"
   }
 ]
