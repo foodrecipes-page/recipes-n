@@ -315,17 +315,14 @@
   },
   {
     "slug": "naturally-crispy-polish-potato-bake",
-    "title": "Naturally Crispy Polish Potato Bake",
+    "title": "Pan-Seared Polish Sausages with Crispy Potato Wedges",
     "tags": [
-      "crispy",
-      "crowd-pleaser",
-      "mason-jar",
-      "polish",
-      "potato",
-      "salt-bake"
+      "polish-sausage",
+      "crispy-potatoes",
+      "comfort-food"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 85,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -14591,16 +14588,15 @@
   },
   {
     "slug": "nutty-fluffy-chinese-rice-bake",
-    "title": "Nutty Fluffy Chinese Rice Bake",
+    "title": "Nutty Fluffy Rice Bake",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "rice",
+      "chinese",
+      "easy",
+      "side-dish"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -18314,17 +18310,16 @@
   },
   {
     "slug": "nutty-venezuelan-peanuts-stew",
-    "title": "Nutty Venezuelan Peanuts Stew",
+    "title": "Venezuelan Nutty Stew",
     "tags": [
-      "low-fat",
-      "nutty",
-      "one-pot",
-      "quick",
-      "stew",
-      "venezuelan"
+      "vegan",
+      "south-american",
+      "peanut-stew",
+      "stew-recipe",
+      "veggie-stew"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
