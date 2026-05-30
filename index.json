@@ -2044,17 +2044,15 @@
   },
   {
     "slug": "nice-peruvian-potatoes-causa-limena",
-    "title": "Peruvian Potatoes Causa Limena",
+    "title": "Peruvian Causa Rellena de Papa",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "latin-american",
-      "peruvian-cuisine",
-      "potato-dish"
+      "peruvian",
+      "causa",
+      "potatoes",
+      "vegetarian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 65,
     "shard": "n"
   },
   {
@@ -14767,17 +14765,15 @@
   },
   {
     "slug": "nutty-german-chicken-casserole",
-    "title": "Nutty German Chicken Casserole",
+    "title": "German Chicken Casserole",
     "tags": [
-      "crowd-pleaser",
-      "german-food",
-      "low-glycemic",
-      "nutty",
-      "one-pan",
-      "weeknight"
+      "german",
+      "casserole",
+      "chicken",
+      "comfort-food"
     ],
     "cuisine": "German",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {
