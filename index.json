@@ -698,17 +698,16 @@
   },
   {
     "slug": "naturally-smoky-australian-red-peppers-skewers",
-    "title": "Naturally Smoky Australian Red Peppers Skewers",
+    "title": "Smoked Paprika Chicken Skewers",
     "tags": [
-      "australian-cuisine",
-      "easy-recipes",
-      "gluten-free",
-      "grilled-vegetables",
-      "outdoor-cooking",
-      "sugar-free"
+      "chicken",
+      "grilled",
+      "summer",
+      "barbecue",
+      "australian"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -3256,17 +3255,16 @@
   },
   {
     "slug": "nocturnal-greek-tomatoes-traditional-greek-village-salad",
-    "title": "Nocturnal Greek Tomatoes Traditional Greek Village Salad",
+    "title": "Greek Village Salad",
     "tags": [
-      "diabetic-friendly",
       "greek",
-      "healthy",
-      "low-carb",
-      "peppery",
-      "snack"
+      "salad",
+      "vegetarian",
+      "easy",
+      "quick"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 10,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
