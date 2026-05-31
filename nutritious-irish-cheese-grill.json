@@ -1,0 +1,63 @@
+{
+  "slug": "nutritious-irish-cheese-grill",
+  "title": "Irish Grilled Cheese",
+  "description": "A delicious twist on the classic grilled cheese sandwich, with a hint of Irish charm. Perfect for a quick snack or light meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Brie cheese",
+      "amount": "2 oz"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "Irish cheddar cheese",
+      "amount": "1 oz"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium heat.",
+    "Butter one side of each bread slice.",
+    "Place one bread slice, butter side down, on the grill.",
+    "Top with Brie cheese, thyme, and Irish cheddar cheese.",
+    "Place the second bread slice, butter side up, on top of the filling.",
+    "Cook for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "Carefully flip the sandwich over and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Remove from heat and let cool for a minute before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-cheese",
+    "irish-food",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-irish-cheese-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:20:49.281Z"
+}
