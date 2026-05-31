@@ -1,0 +1,95 @@
+{
+  "slug": "nutty-creamy-spanish-morbier-pa-amb-tomaquet",
+  "title": "Spanish Paella",
+  "description": "A classic Spanish dish made with saffron-infused rice, vegetables, and seafood.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish morbier cheese",
+      "amount": "1/2 cup shredded",
+      "notes": "available at specialty cheese shops"
+    },
+    {
+      "name": "Amb, sliced",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomaquet, diced",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Pa, uncooked",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced amb and cook until browned, about 3-4 minutes.",
+    "Add the diced tomaket and cook until softened, about 2-3 minutes.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the uncooked pa and stir to combine with the vegetables.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the liquid has been absorbed and the pa is tender.",
+    "Stir in the shredded Spanish morbier cheese until melted and well combined.",
+    "Serve hot, garnished with chopped fresh parsley.",
+    "Serve with additional Spanish morbier cheese on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "seafood-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-creamy-spanish-morbier-pa-amb-tomaquet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:29:13.929Z"
+}
