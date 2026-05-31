@@ -1,0 +1,85 @@
+{
+  "slug": "nourishing-light-russian-eggs-frittata",
+  "title": "Russian Frittata",
+  "description": "A nourishing and light breakfast dish with a twist of Eastern European flavors.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "frittata",
+      "amount": "1",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1/2",
+      "notes": "button or cremini, sliced"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped, fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "3. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "4. Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "5. In a large bowl, whisk together the eggs, salt, and pepper.",
+    "6. Add the chopped dill to the egg mixture and stir to combine.",
+    "7. Pour the egg mixture over the cooked onion and mushroom mixture in the skillet.",
+    "8. Cook the eggs for about 2-3 minutes, until the edges start to set.",
+    "9. Transfer the skillet to the preheated oven and bake for 12-15 minutes, or until the eggs are set and the frittata is golden brown.",
+    "10. Remove the skillet from the oven and let it cool for a minute or two.",
+    "11. Use a spatula to loosen the edges of the frittata from the skillet.",
+    "12. Slide the frittata out of the skillet onto a serving plate and slice into wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "eggs",
+    "vegetarian",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-light-russian-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:54:27.109Z"
+}
