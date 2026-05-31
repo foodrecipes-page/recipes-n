@@ -1,0 +1,99 @@
+{
+  "slug": "nourishing-charred-malaysian-chicken-stir-fry",
+  "title": "Malaysian Charred Chicken Stir Fry",
+  "description": "A flavorful and aromatic stir fry dish featuring charred Malaysian chicken, served with a variety of vegetables.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1.5 pounds",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Malaysian chili sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the chicken to the wok and cook until browned, about 5-7 minutes. Remove from the wok and set aside.",
+    "In the same wok, add the remaining 1 tablespoon of vegetable oil and swirl to coat.",
+    "Add the minced garlic and grated ginger to the wok and stir-fry until fragrant, about 1 minute.",
+    "Add the sliced red bell pepper and snow peas to the wok and stir-fry until the vegetables are tender-crisp, about 3-4 minutes.",
+    "Return the cooked chicken to the wok and stir in the Malaysian chili sauce, soy sauce, and fish sauce.",
+    "Season with salt and pepper to taste, and stir-fry for another minute.",
+    "Transfer the stir-fry to a serving platter and serve immediately.",
+    "Optional: Garnish with chopped fresh cilantro or scallions, and serve with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "chicken",
+    "stir-fry",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-charred-malaysian-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:21:37.436Z"
+}
