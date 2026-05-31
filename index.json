@@ -18512,5 +18512,30 @@
     "cuisine": "Indian",
     "totalTimeMin": 48,
     "shard": "n"
+  },
+  {
+    "slug": "naturally-crispy-polish-potato-bake--french",
+    "title": "Polish Potato Gratin",
+    "tags": [
+      "french",
+      "polish",
+      "gratin",
+      "potato"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-fluffy-chinese-rice-bake--japanese",
+    "title": "Japanese-Style Rice Bowl",
+    "tags": [
+      "breakfast",
+      "japanese",
+      "rice-bowl"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "n"
   }
 ]
