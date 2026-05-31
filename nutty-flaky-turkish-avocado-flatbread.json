@@ -1,0 +1,61 @@
+{
+  "slug": "nutty-flaky-turkish-avocado-flatbread",
+  "title": "Avocado Flatbread",
+  "description": "A delicious and easy-to-make flatbread topped with creamy avocado and crunchy Turkish bread crumbs.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nutty flatbread",
+      "amount": "1 piece"
+    },
+    {
+      "name": "mashed avocado",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "turkish bread crumbs",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place the flatbread on a baking sheet.",
+    "Spread the mashed avocado evenly over the flatbread.",
+    "Sprinkle the Turkish bread crumbs over the avocado.",
+    "Season with salt to taste.",
+    "Bake in the preheated oven for 10-12 minutes or until the bread is crispy.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "avocado",
+    "flatbread",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-flaky-turkish-avocado-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:01:46.566Z"
+}
