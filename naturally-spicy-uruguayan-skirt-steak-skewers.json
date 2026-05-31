@@ -1,0 +1,86 @@
+{
+  "slug": "naturally-spicy-uruguayan-skirt-steak-skewers",
+  "title": "Uruguayan Choripán Skewers with Spicy Chimichurri",
+  "description": "A classic Uruguayan street food, choripán is a grilled chorizo sandwich, typically served on a crusty bun and topped with chimichurri sauce. This recipe adds a spicy twist to the traditional recipe, perfect for a summer cookout.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Skirt steak",
+      "amount": "500g",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "Chorizo",
+      "amount": "250g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "for chimichurri sauce"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "for chimichurri sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread skirt steak, chorizo, onion, and bell pepper onto skewers.",
+    "Season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Meanwhile, combine red wine vinegar, oregano, garlic, and red pepper flakes in a bowl.",
+    "Stir to combine and set aside.",
+    "Once skewers are cooked, brush with chimichurri sauce.",
+    "Serve hot on crusty buns with additional chimichurri sauce on the side.",
+    "Optional: grill buns for 2-3 minutes before serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "spicy",
+    "skirt steak",
+    "skewers",
+    "chimichurri"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-spicy-uruguayan-skirt-steak-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:25:15.846Z"
+}
