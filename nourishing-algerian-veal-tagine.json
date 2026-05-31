@@ -1,0 +1,88 @@
+{
+  "slug": "nourishing-algerian-veal-tagine",
+  "title": "Veal Tagine with Algerian Spices",
+  "description": "A classic North African dish made with tender veal and a blend of aromatic spices, slow-cooked in a clay pot.",
+  "cuisine": "North African",
+  "diet": [
+    "pork-free",
+    "beef-free",
+    "lamb-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Nourishing oil (olive oil)",
+      "amount": "2 tablespoons",
+      "notes": "for browning the veal"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Algerian spices (cumin, coriander, cinnamon, ginger)",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay tagine or Dutch oven over medium-high heat.",
+    "Brown the veal pieces in batches, then set aside.",
+    "Reduce heat to medium, add more oil if needed, and sauté the onion until softened (5 minutes).",
+    "Add garlic, spices, salt, and pepper, and stir for 1 minute.",
+    "Add the browned veal back in, along with any accumulated juices.",
+    "Pour in lemon juice and stir to coat the veal evenly.",
+    "Cover the tagine and simmer on low heat for 1 1/2 hours, or until the veal is tender.",
+    "Stir occasionally to prevent sticking and promote even cooking.",
+    "Serve hot, garnished with fresh herbs (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "algerian",
+    "slow-cooked",
+    "tagine",
+    "meat",
+    "lamb-alternative"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-algerian-veal-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:57:11.997Z"
+}
