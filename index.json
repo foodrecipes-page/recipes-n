@@ -16101,17 +16101,15 @@
   },
   {
     "slug": "nutty-norwegian-gorgonzola-pasta",
-    "title": "Nutty Norwegian Gorgonzola Pasta",
+    "title": "Gorgonzola Pasta Bake",
     "tags": [
-      "norwegian-cuisine",
-      "one-pan",
-      "quick-fix",
-      "vegetarian-friendly",
-      "weeknight-dinner",
-      "wine-lover"
+      "italian",
+      "cheesy",
+      "pasta",
+      "gorgonzola"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 27,
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -18584,6 +18582,19 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 60,
+    "shard": "n"
+  },
+  {
+    "slug": "nurturing-korean-pomegranate-jjigae--thai",
+    "title": "Spicy Thai Pomegranate Jjigae",
+    "tags": [
+      "thai",
+      "korean",
+      "pomegranate",
+      "veggie"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "n"
   }
 ]
