@@ -1,0 +1,74 @@
+{
+  "slug": "nourishing-indulgent-greek-korean-pear-tiropita",
+  "title": "Tiropita Greek Cheese Pie",
+  "description": "A traditional Greek pastry filled with feta cheese and herbs, perfect for a satisfying snack or light meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 block",
+      "notes": null
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C)",
+    "Thaw phyllo dough according to package instructions",
+    "Mix feta cheese, Greek yogurt, dill, salt, and black pepper in a bowl",
+    "Layer phyllo dough in a baking dish, brushing with oil between layers",
+    "Pour cheese mixture into the center of the phyllo dough",
+    "Fold the phyllo dough over the cheese mixture, pressing edges to seal",
+    "Brush top with oil and bake for 30-40 minutes, or until golden brown",
+    "Let cool for 10-15 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "cheese",
+    "pie",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-indulgent-greek-korean-pear-tiropita",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:34:53.113Z"
+}
