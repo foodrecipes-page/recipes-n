@@ -3733,15 +3733,15 @@
   },
   {
     "slug": "nostalgic-garlicy-tunisian-stir-fry",
-    "title": "Nostalgic Garlicy Tunisian Stir-fry",
+    "title": "Tunisian Garlic Chicken Shawarma",
     "tags": [
-      "garlicy",
-      "dense",
-      "nostalgic",
-      "tunisian"
+      "chicken",
+      "grilled",
+      "north african",
+      "shawarma"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 30,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -4308,18 +4308,17 @@
   },
   {
     "slug": "nourishing-algerian-veal-tagine",
-    "title": "Nourishing Algerian Veal Tagine",
+    "title": "Veal Tagine with Algerian Spices",
     "tags": [
+      "north-african",
       "algerian",
-      "glutenfree",
-      "onepan",
-      "paleo",
-      "thaifood",
-      "veganfriendly",
-      "weeknight"
+      "slow-cooked",
+      "tagine",
+      "meat",
+      "lamb-alternative"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "n"
   },
   {
@@ -6459,18 +6458,14 @@
   },
   {
     "slug": "nourishing-japanese-cabbage-pilaf",
-    "title": "Nourishing Japanese Cabbage Pilaf",
+    "title": "Japanese-Style Cabbage Pilaf",
     "tags": [
-      "high-fiber",
-      "japanese",
-      "low-fat",
-      "meal-prep",
-      "ovo-vegetarian",
-      "pilaf",
-      "weeknight"
+      "healthy",
+      "easy",
+      "vegetarian"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -6873,17 +6868,15 @@
   },
   {
     "slug": "nourishing-light-russian-eggs-frittata",
-    "title": "Nourishing Light Russian Eggs Frittata",
+    "title": "Russian Frittata",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "healthy-breakfast",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "eggs",
+      "vegetarian",
+      "russian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 27,
+    "cuisine": "russian",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
