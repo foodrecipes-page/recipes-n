@@ -8501,13 +8501,15 @@
   },
   {
     "slug": "nourishing-smoky-uruguayan-gelatin-casserole",
-    "title": "Nourishing Smoky Uruguayan Gelatin Casserole",
+    "title": "Uruguayan Smoked Casserole",
     "tags": [
+      "smoked",
+      "casserole",
       "uruguayan",
-      "dinner"
+      "comfort-food"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -12787,17 +12789,15 @@
   },
   {
     "slug": "nutty-creamy-spanish-morbier-pa-amb-tomaquet",
-    "title": "Nutty Creamy Spanish Morbier Pa Amb Tomaquet",
+    "title": "Spanish Paella",
     "tags": [
-      "brunch",
-      "cheesy",
-      "nutty",
-      "spanish-food",
-      "vegetarian",
-      "yeasty"
+      "spanish",
+      "paella",
+      "seafood-free",
+      "vegetarian"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -18573,6 +18573,19 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 75,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-uruguayan-gelatin-casserole--vegan",
+    "title": "Smoky Uruguayan Casserole",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "smoky",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 60,
     "shard": "n"
   }
 ]
