@@ -6245,17 +6245,16 @@
   },
   {
     "slug": "nourishing-indulgent-greek-korean-pear-tiropita",
-    "title": "Nourishing Indulgent Greek Korean Pear Tiropita",
+    "title": "Tiropita Greek Cheese Pie",
     "tags": [
-      "flaky-crust",
-      "greek-korean-fusion",
-      "indulgent-dinner",
-      "pear-delight",
-      "tofu-recipe",
-      "vegan-friendly"
+      "greek",
+      "cheese",
+      "pie",
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "Greek Korean",
-    "totalTimeMin": 45,
+    "cuisine": "Greek",
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {
@@ -6977,18 +6976,14 @@
   },
   {
     "slug": "nourishing-mediterranean-vegetables-paella",
-    "title": "Nourishing Mediterranean Vegetables Paella",
+    "title": "Pan-Seared Paella with Vegetables",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "gluten-free",
-      "mediterranean",
-      "one-pan",
-      "sattvic",
-      "vegan"
+      "paella",
+      "vegetarian",
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 42,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
