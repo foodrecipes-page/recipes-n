@@ -1,0 +1,75 @@
+{
+  "slug": "nutty-fluffy-chinese-rice-bake--japanese",
+  "title": "Japanese-Style Rice Bowl",
+  "description": "A simple and flavorful Japanese-inspired dish featuring fluffy rice, stir-fried vegetables, and a fried egg.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fluffy rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nutty",
+      "amount": "1/4 cup",
+      "notes": "chopped almonds"
+    },
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "stems thinly sliced"
+    },
+    {
+      "name": "Bake",
+      "amount": "2 medium",
+      "notes": "potatoes, peeled and thinly sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add broccoli and cook until tender, about 3-4 minutes.",
+    "Add sliced potatoes and cook for an additional 2-3 minutes.",
+    "Push vegetables to one side of the skillet.",
+    "Crack an egg into the other side of the skillet and scramble until cooked through.",
+    "Mix egg with vegetables.",
+    "In a small bowl, whisk together soy sauce and a pinch of salt.",
+    "Pour soy sauce mixture over the egg and vegetable mixture.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened slightly.",
+    "Serve over fluffy rice.",
+    "Garnish with chopped almonds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-fluffy-chinese-rice-bake--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:02:48.715Z"
+}
