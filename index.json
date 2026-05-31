@@ -1004,17 +1004,16 @@
   },
   {
     "slug": "naturally-spicy-uruguayan-skirt-steak-skewers",
-    "title": "Naturally Spicy Uruguayan Skirt Steak Skewers",
+    "title": "Uruguayan Choripán Skewers with Spicy Chimichurri",
     "tags": [
-      "chocolate",
-      "grilled",
-      "high-protein",
-      "one-pan",
+      "uruguayan",
       "spicy",
-      "weeknight"
+      "skirt steak",
+      "skewers",
+      "chimichurri"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -7540,16 +7539,15 @@
   },
   {
     "slug": "nourishing-roasted-turkish-bulgur-kisir",
-    "title": "Nourishing Roasted Turkish Bulgur Kisir",
+    "title": "Turkish-Style Kisir Bulgar Salad",
     "tags": [
-      "macrobiotic-friendly",
-      "midnight-cravings",
-      "roasted-grains",
-      "turkish-cuisine",
-      "vegetarian"
+      "salad",
+      "turkish",
+      "bulgur",
+      "kisir"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
