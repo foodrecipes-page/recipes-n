@@ -1,0 +1,85 @@
+{
+  "slug": "nimble-kenyan-lamb-kebabs",
+  "title": "Kenyan Lamb Kebabs",
+  "description": "Tender lamb skewers marinated in a blend of Kenyan spices, perfect for a summer BBQ.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "kenyan",
+      "amount": "2 tablespoons",
+      "notes": "Kenyan spice blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread lamb, red onion, red bell pepper, and zucchini onto skewers.",
+    "In a small bowl, mix together Kenyan spice blend, olive oil, smoked paprika, salt, and black pepper.",
+    "Brush the spice mixture onto both sides of the lamb skewers.",
+    "Grill kebabs for 8-10 minutes per side, or until lamb reaches 145°F.",
+    "Let kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "kebabs",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-kenyan-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:30:49.062Z"
+}
