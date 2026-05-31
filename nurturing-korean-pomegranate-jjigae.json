@@ -1,0 +1,86 @@
+{
+  "slug": "nurturing-korean-pomegranate-jjigae",
+  "title": "Korean Pomegranate Nourishing Stew",
+  "description": "A hearty and nutritious stew originating from Korea, incorporating the sweetness of pomegranate and the nourishing benefits of nurturing ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Nourishing Mushrooms",
+      "amount": "250g",
+      "notes": "Sliced into bite-sized pieces"
+    },
+    {
+      "name": "Pomegranate Paste",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "Optional, for some heat"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For the stew broth"
+    },
+    {
+      "name": "Korean Chili Jjigae Paste",
+      "amount": "2 tbsp",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pan over medium heat.",
+    "Sauté garlic and ginger until fragrant, about 2 minutes.",
+    "Add mushrooms and cook until they release their moisture and start browning.",
+    "Stir in pomegranate paste, Korean chili flakes (if using), and Korean chili jjigae paste.",
+    "Cook for an additional 2 minutes, allowing the flavors to meld.",
+    "Add water to the pan and bring the mixture to a simmer.",
+    "Reduce heat to low and let the stew cook for 15-20 minutes, or until the flavors have combined and the mushrooms are tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped green onions and a sprinkle of toasted sesame seeds (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "nourishing",
+    "pomegranate",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nurturing-korean-pomegranate-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:21:51.960Z"
+}
