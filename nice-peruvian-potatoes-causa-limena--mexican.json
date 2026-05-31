@@ -1,0 +1,75 @@
+{
+  "slug": "nice-peruvian-potatoes-causa-limena--mexican",
+  "title": "Mexican Causa Bites",
+  "description": "A fusion twist on the Peruvian classic, this Mexican Causa Bites recipe combines crispy potato shells with a creamy, zesty filling.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 large nice potato",
+      "amount": "2",
+      "notes": "for the crispy shells"
+    },
+    {
+      "name": "1/2 cup mayonnaise",
+      "amount": "",
+      "notes": "for the filling"
+    },
+    {
+      "name": "1 tablespoon lime juice",
+      "amount": "",
+      "notes": "for the filling"
+    },
+    {
+      "name": "1 minced garlic clove",
+      "amount": "",
+      "notes": "for the filling"
+    },
+    {
+      "name": "1 cup Peruvian causa",
+      "amount": "",
+      "notes": "for the filling"
+    },
+    {
+      "name": "1 tablespoon chopped fresh cilantro",
+      "amount": "",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bake the potato shells at 400°F (200°C) for 20-25 minutes or until crispy.",
+    "In a bowl, mix together the mayonnaise, lime juice, and minced garlic.",
+    "Add the Peruvian causa to the bowl and mix well.",
+    "Stuff each potato shell with the filling and top with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican-cuisine",
+    "snack-recipe",
+    "potato-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-peruvian-potatoes-causa-limena--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:02:07.049Z"
+}
