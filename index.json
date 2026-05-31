@@ -3541,16 +3541,14 @@
   },
   {
     "slug": "nostalgic-australian-wood-fired-vegetable-bake",
-    "title": "Nostalgic Australian Wood Fired Vegetable Bake",
+    "title": "Australian Wood-fired Vegetable Pie",
     "tags": [
-      "australian-cuisine",
-      "gluten-free",
-      "one-pan",
-      "spicy",
+      "australian",
       "vegetarian",
-      "wood-fired"
+      "wood-fired",
+      "bake"
     ],
-    "cuisine": "Australian",
+    "cuisine": "australian",
     "totalTimeMin": 60,
     "shard": "n"
   },
