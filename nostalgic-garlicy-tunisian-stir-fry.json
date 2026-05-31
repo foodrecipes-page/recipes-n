@@ -1,0 +1,84 @@
+{
+  "slug": "nostalgic-garlicy-tunisian-stir-fry",
+  "title": "Tunisian Garlic Chicken Shawarma",
+  "description": "A flavorful and aromatic dish inspired by the streets of Tunisia, featuring garlicy chicken, crispy onions, and a hint of nostalgia.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "or North African spice blend"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 pita breads",
+      "notes": "warm"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together Tunisian spice blend, lemon juice, and 2 cloves of minced garlic.",
+    "2. Add the chicken to the marinade and toss to coat. Cover and refrigerate for at least 30 minutes.",
+    "3. Preheat a grill or grill pan to medium-high heat.",
+    "4. Remove the chicken from the marinade and cook for 5-7 minutes per side, or until cooked through.",
+    "5. Meanwhile, brush the sliced onions with olive oil and cook in a skillet over medium heat until crispy.",
+    "6. Warm the pita breads by wrapping them in foil and heating them in the oven for 5 minutes.",
+    "7. Assemble the shawarma by placing a few slices of chicken onto each pita bread, followed by some crispy onions and a sprinkle of parsley.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "north african",
+    "shawarma"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-garlicy-tunisian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:57:47.638Z"
+}
