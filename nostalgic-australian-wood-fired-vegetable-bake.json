@@ -1,0 +1,87 @@
+{
+  "slug": "nostalgic-australian-wood-fired-vegetable-bake",
+  "title": "Australian Wood-fired Vegetable Pie",
+  "description": "A heartwarming and comforting pie filled with roasted vegetables, perfect for a chilly evening.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425°F (220°C).",
+    "Peel and chop the carrots, potatoes, and onions.",
+    "Toss the vegetables with olive oil, salt, and pepper.",
+    "Roast the vegetables in the wood-fired oven for 20-25 minutes, or until tender.",
+    "While the vegetables are roasting, cook the bacon in a pan until crispy.",
+    "Add the garlic to the pan and cook for 1 minute.",
+    "Add the tomato sauce to the pan and stir to combine.",
+    "Roll out the puff pastry to a thickness of 1/8 inch.",
+    "Transfer the roasted vegetables to the pastry-lined pie dish.",
+    "Top the vegetables with the tomato sauce mixture.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Brush the pastry with egg wash and bake for 25-30 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "wood-fired",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-australian-wood-fired-vegetable-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:06:11.419Z"
+}
