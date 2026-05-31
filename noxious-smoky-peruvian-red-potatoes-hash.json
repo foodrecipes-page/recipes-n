@@ -1,0 +1,81 @@
+{
+  "slug": "noxious-smoky-peruvian-red-potatoes-hash",
+  "title": "Smoky Potato Hash",
+  "description": "A hearty, smoky twist on the classic potato hash. Perfect for a comforting meal.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Red Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Smoky",
+      "amount": "2 tablespoons",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "Peruvian",
+      "amount": "1 teaspoon",
+      "notes": "ground aji amarillo pepper"
+    },
+    {
+      "name": "Hash",
+      "amount": "1/4 cup",
+      "notes": "chopped cooked bacon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced potatoes, smoked paprika, and ground aji amarillo pepper to the skillet.",
+    "Cook for about 10-12 minutes, stirring occasionally, until the potatoes are tender and golden brown.",
+    "Stir in the chopped cooked bacon.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "hash",
+    "potatoes",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/noxious-smoky-peruvian-red-potatoes-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:35:07.601Z"
+}
