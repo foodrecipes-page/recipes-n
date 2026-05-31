@@ -1,0 +1,89 @@
+{
+  "slug": "nice-peruvian-potatoes-causa-limena--keto",
+  "title": "Peruvian Keto Causa",
+  "description": "A twist on the classic Peruvian dish, made with a low-carb twist and a delicious filling.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "nice potatoes",
+      "amount": "2 large",
+      "notes": "look for keto-friendly potatoes"
+    },
+    {
+      "name": "limena potatoes",
+      "amount": "1 large",
+      "notes": "look for keto-friendly potatoes"
+    },
+    {
+      "name": "causa filling",
+      "amount": "1 cup",
+      "notes": "use a keto-friendly mayonnaise and cheese"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "roma tomatoes",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use a keto-friendly salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "use a keto-friendly pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Poke some holes in the nice potatoes and bake for 45-60 minutes, or until they are tender.",
+    "While the potatoes are baking, prepare the causa filling by mixing together the mayonnaise, cheese, red onion, roma tomatoes, and fresh cilantro.",
+    "Once the potatoes are done, let them cool for a few minutes before slicing them in half lengthwise.",
+    "Spoon some of the causa filling onto the bottom half of each potato, then top with the top half.",
+    "Drizzle the lime juice over the top of each potato and sprinkle with salt and pepper to taste.",
+    "Serve immediately and enjoy!",
+    "Note: You can also make this recipe ahead of time and refrigerate or freeze until ready to serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "keto",
+    "causa",
+    "potatoes",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-peruvian-potatoes-causa-limena--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:04:08.019Z"
+}
