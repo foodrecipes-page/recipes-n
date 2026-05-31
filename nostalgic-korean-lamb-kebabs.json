@@ -1,0 +1,83 @@
+{
+  "slug": "nostalgic-korean-lamb-kebabs",
+  "title": "Classic Korean-Style Lamb Kebabs",
+  "description": "A flavorful and spicy twist on traditional lamb kebabs, inspired by Korean barbecue. Marinated in a sweet and savory blend of soy sauce, garlic, and ginger.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder or leg, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Fat-trimmed lamb for best results"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste for desired spiciness"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium recommended"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Helps balance acidity"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Mince to release oils for better flavor"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": "Fresh ginger for authentic flavor"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "Helps balance acidity and adds depth"
+    },
+    {
+      "name": "Green onions, chopped (optional)",
+      "amount": "1/4 cup",
+      "notes": "Garnish or add to kebabs for extra flavor"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, whisk together gochujang, soy sauce, brown sugar, garlic, ginger, and rice vinegar to make the marinade.",
+    "2. Add the lamb cubes to the marinade and mix until they are evenly coated.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight, up to 24 hours.",
+    "4. Preheat a grill or grill pan to medium-high heat.",
+    "5. Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "6. Grill the kebabs for 8-10 minutes per side, or until the lamb reaches an internal temperature of 145°F (63°C) for medium-rare.",
+    "7. Transfer the kebabs to a plate and let rest for 5 minutes before serving.",
+    "8. Garnish with chopped green onions, if desired.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "lamb",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-korean-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:32:50.256Z"
+}
