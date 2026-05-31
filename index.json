@@ -18550,5 +18550,31 @@
     "cuisine": "italian",
     "totalTimeMin": 45,
     "shard": "n"
+  },
+  {
+    "slug": "nice-peruvian-potatoes-causa-limena--mexican",
+    "title": "Mexican Causa Bites",
+    "tags": [
+      "mexican-cuisine",
+      "snack-recipe",
+      "potato-recipe"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nice-peruvian-potatoes-causa-limena--keto",
+    "title": "Peruvian Keto Causa",
+    "tags": [
+      "peruvian",
+      "keto",
+      "causa",
+      "potatoes",
+      "lunch"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 75,
+    "shard": "n"
   }
 ]
