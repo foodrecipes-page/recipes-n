@@ -14624,14 +14624,16 @@
   },
   {
     "slug": "nutty-fluffy-jamaican-cocoa-stir-fry",
-    "title": "Nutty Fluffy Jamaican Cocoa Stir-fry",
+    "title": "Jamaican Cocoa Cereal",
     "tags": [
-      "nut-free",
-      "comfort-food",
-      "snack"
+      "breakfast",
+      "cocoa",
+      "jamaican",
+      "oatmeal",
+      "quick"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 30,
+    "cuisine": "jamaican",
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
