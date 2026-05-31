@@ -1,0 +1,66 @@
+{
+  "slug": "nurturing-irish-oats-bowl",
+  "title": "Irish Oat Bowl",
+  "description": "A hearty and comforting breakfast bowl made with steel-cut oats, Irish bacon, and fresh fruit.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Steel-cut oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Irish bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Banana",
+      "amount": "1"
+    },
+    {
+      "name": "Apple",
+      "amount": "1"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring 2 cups of water to a boil.",
+    "Add the steel-cut oats and reduce heat to low. Simmer for 20-25 minutes or until the oats have absorbed most of the water.",
+    "While the oats are cooking, cook the Irish bacon in a pan over medium heat until crispy.",
+    "Slice the banana and apple into thin pieces.",
+    "In a separate bowl, mix together the cooked oats, honey, and a pinch of nutmeg.",
+    "Serve the oat mixture in a bowl topped with the crispy Irish bacon, sliced banana, and apple slices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "oatmeal",
+    "irish-fusion",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nurturing-irish-oats-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:46:09.614Z"
+}
