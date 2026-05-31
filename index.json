@@ -8858,16 +8858,15 @@
   },
   {
     "slug": "nourishing-sweet-polish-plum-crumble",
-    "title": "Nourishing Sweet Polish Plum Crumble",
+    "title": "Sweet Polish Plum Crumble",
     "tags": [
-      "macrobiotic-friendly",
-      "polish-desserts",
-      "robata-grilled",
-      "sweet-treats",
-      "vegetarian-options"
+      "dessert",
+      "plums",
+      "crumble",
+      "eastern-european"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 50,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 60,
     "shard": "n"
   },
   {
@@ -9651,16 +9650,15 @@
   },
   {
     "slug": "nurturing-irish-oats-bowl",
-    "title": "Nurturing Irish Oats Bowl",
+    "title": "Irish Oat Bowl",
     "tags": [
-      "comfort-food",
-      "irish-breakfast",
-      "macrobiotic-friendly",
-      "overnight-fermentation",
-      "quick"
+      "breakfast",
+      "oatmeal",
+      "irish-fusion",
+      "healthy"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 16,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
