@@ -1,0 +1,62 @@
+{
+  "slug": "nutty-fluffy-jamaican-cocoa-stir-fry",
+  "title": "Jamaican Cocoa Cereal",
+  "description": "A delicious and easy breakfast recipe made with Jamaican spices and cocoa powder. Perfect for a quick morning meal.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "nutty oatmeal",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "jamaican spice blend",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "fluffy milk",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a saucepan, stir together oatmeal and milk.",
+    "Cook over medium heat, stirring constantly.",
+    "Add cocoa powder and Jamaican spice blend. Stir to combine.",
+    "Cook for an additional 2-3 minutes, or until the mixture has thickened.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "cocoa",
+    "jamaican",
+    "oatmeal",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-fluffy-jamaican-cocoa-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:19:25.733Z"
+}
