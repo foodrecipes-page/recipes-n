@@ -1,0 +1,82 @@
+{
+  "slug": "naturally-dense-vietnamese-lemongrass-noodles",
+  "title": "Vietnamese Lemongrass Noodle Soup",
+  "description": "A flavorful and refreshing soup made with Vietnamese lemongrass, dense noodles, and a variety of vegetables. Perfect for a light lunch or dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "dense noodles",
+      "amount": "8 oz",
+      "notes": "preferably rice noodles"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat. Add onion and garlic; cook until softened, about 3-4 minutes.",
+    "Add lemongrass; cook for 1 minute, until fragrant.",
+    "Pour in vegetable broth and bring to a boil. Reduce heat to low and simmer for 10 minutes.",
+    "Add coconut milk and stir to combine. Bring to a simmer and cook for 2-3 minutes.",
+    "Add noodles and cook according to package instructions, about 8-10 minutes.",
+    "Stir in bean sprouts and cook for an additional 1-2 minutes.",
+    "Season with lime juice and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "noodle",
+    "vietnamese",
+    "lemongrass",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-dense-vietnamese-lemongrass-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:10:10.911Z"
+}
