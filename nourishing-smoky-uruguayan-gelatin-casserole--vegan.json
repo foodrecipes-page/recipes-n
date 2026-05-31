@@ -1,0 +1,93 @@
+{
+  "slug": "nourishing-smoky-uruguayan-gelatin-casserole--vegan",
+  "title": "Smoky Uruguayan Casserole",
+  "description": "A hearty, plant-based casserole with a smoky flavor, inspired by Uruguayan cuisine. Perfect for a comforting meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Nourishing mushrooms",
+      "amount": "1 cup",
+      "notes": "such as shiitake or cremini"
+    },
+    {
+      "name": "Casserole potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Nourishing olives",
+      "amount": "1/4 cup",
+      "notes": "such as Kalamata"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and chop the potatoes into 1-inch pieces.",
+    "Heat a large saucepan over medium heat.",
+    "Add the onions and sauté until softened, about 5 minutes.",
+    "Add the smoked paprika and stir for 1 minute.",
+    "Add the mushrooms and sauté until they release their liquid and start to brown, about 5 minutes.",
+    "Stir in the tomato paste and cook for 1-2 minutes.",
+    "Add the vegan broth and bring to a simmer.",
+    "Add the chopped tomatoes and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Arrange the potato pieces on top of the mixture.",
+    "Bake for 35-40 minutes, or until the potatoes are tender and the casserole is hot and bubbly.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "smoky",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-uruguayan-gelatin-casserole--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:35:11.209Z"
+}
