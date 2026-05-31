@@ -432,15 +432,13 @@
   },
   {
     "slug": "naturally-dense-vietnamese-lemongrass-noodles",
-    "title": "Naturally Dense Vietnamese Lemongrass Noodles",
+    "title": "Vietnamese Lemongrass Noodle Soup",
     "tags": [
-      "agave-leaf",
-      "caramelized",
-      "jain-friendly",
+      "soup",
+      "noodle",
+      "vietnamese",
       "lemongrass",
-      "malty",
-      "noodles",
-      "vietnamese"
+      "vegetarian"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
@@ -2745,17 +2743,14 @@
   },
   {
     "slug": "nimble-kenyan-lamb-kebabs",
-    "title": "Nimble Kenyan Lamb Kebabs",
+    "title": "Kenyan Lamb Kebabs",
     "tags": [
       "grill",
-      "high-protein",
-      "kenyan",
-      "low-carb",
-      "mustardy",
-      "quick"
+      "kebabs",
+      "lamb"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -3859,17 +3854,14 @@
   },
   {
     "slug": "nostalgic-korean-lamb-kebabs",
-    "title": "Nostalgic Korean Lamb Kebabs",
+    "title": "Classic Korean-Style Lamb Kebabs",
     "tags": [
-      "cheese-pull",
-      "dinner-party",
-      "gluten-free",
-      "korean-inspired",
-      "low-glycemic",
-      "raclette-grill"
+      "korean",
+      "lamb",
+      "kebabs"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 33,
     "shard": "n"
   },
   {
@@ -9473,17 +9465,15 @@
   },
   {
     "slug": "noxious-smoky-peruvian-red-potatoes-hash",
-    "title": "Noxious Smoky Peruvian Red Potatoes Hash",
+    "title": "Smoky Potato Hash",
     "tags": [
-      "easy",
-      "one-pan",
-      "peruvian",
-      "potato-hash",
-      "smoky",
-      "weeknight"
+      "breakfast",
+      "hash",
+      "potatoes",
+      "smoky"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -10806,17 +10796,14 @@
   },
   {
     "slug": "nutritious-irish-cheese-grill",
-    "title": "Nutritious Irish Cheese Grill",
+    "title": "Irish Grilled Cheese",
     "tags": [
-      "diabetic-friendly",
-      "easy-lunch",
       "grilled-cheese",
-      "healthy-option",
-      "irish-cuisine",
-      "quick-fix"
+      "irish-food",
+      "quick-meal"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 16,
+    "totalTimeMin": 9,
     "shard": "n"
   },
   {
@@ -18548,6 +18535,20 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 15,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-algerian-veal-tagine--italian",
+    "title": "Veal Tagine with Italian Twist",
+    "tags": [
+      "italian",
+      "algerian",
+      "veal",
+      "tagine",
+      "pasta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
     "shard": "n"
   }
 ]
