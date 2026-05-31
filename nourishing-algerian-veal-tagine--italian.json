@@ -1,0 +1,89 @@
+{
+  "slug": "nourishing-algerian-veal-tagine--italian",
+  "title": "Veal Tagine with Italian Twist",
+  "description": "A fusion of Italian and Algerian flavors in this hearty veal tagine dish.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Algerian Tagine Spice Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nourishing Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add veal and cook until browned, about 5 minutes.",
+    "Add tagine spice blend and cook for 1 minute.",
+    "Add tomato sauce, red wine, and parsley; stir to combine.",
+    "Bring to a simmer and cook, covered, until the veal is tender, about 20 minutes.",
+    "Cook pasta according to package instructions.",
+    "Serve veal and sauce over pasta.",
+    "Garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "algerian",
+    "veal",
+    "tagine",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-algerian-veal-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:50:53.077Z"
+}
