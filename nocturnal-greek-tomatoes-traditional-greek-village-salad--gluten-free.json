@@ -1,0 +1,60 @@
+{
+  "slug": "nocturnal-greek-tomatoes-traditional-greek-village-salad--gluten-free",
+  "title": "Greek Village Salad",
+  "description": "A classic Greek salad made with tomatoes and a tangy dressing, perfect for a light and refreshing meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 large",
+      "notes": "preferably vine-ripened"
+    },
+    {
+      "name": "Greek Village Salad Dressing (gluten-free)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Kalamata Olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the diced tomatoes, sliced red onion, pitted olives, and crumbled feta cheese.",
+    "2. In a small bowl, whisk together the salad dressing ingredients.",
+    "3. Pour the dressing over the salad and toss to combine.",
+    "4. Season with salt and pepper to taste.",
+    "5. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "6. Just before serving, garnish with fresh parsley or dill.",
+    "7. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "gluten-free",
+    "salad",
+    "vegan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nocturnal-greek-tomatoes-traditional-greek-village-salad--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:25:47.570Z"
+}
