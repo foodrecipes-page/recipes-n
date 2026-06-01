@@ -6676,16 +6676,14 @@
   },
   {
     "slug": "nourishing-kenyan-mincemeat-stew",
-    "title": "Nourishing Kenyan Mincemeat Stew",
+    "title": "Kenyan Beef Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "kenyan-cuisine",
-      "one-pot",
-      "weeknight-dinner"
+      "beef",
+      "kenyan",
+      "stew"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 110,
     "shard": "n"
   },
   {
@@ -9847,15 +9845,14 @@
   },
   {
     "slug": "nutella-marinated-olive-tapenade",
-    "title": "Nutella Marinated Olive Tapenade",
+    "title": "Tapenade Crostini",
     "tags": [
-      "nutella-marinated",
-      "olive-tapenade",
-      "whole30-friendly",
-      "solo-dinner"
+      "snack",
+      "appetizer",
+      "tapenade"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 60,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
@@ -18059,16 +18056,15 @@
   },
   {
     "slug": "nutty-velvety-irish-olive-stir-fry",
-    "title": "Nutty Velvety Irish Olive Stir-fry",
+    "title": "Irish Stir-Fry with Nutty Veggies",
     "tags": [
-      "nutty",
-      "velvety",
       "irish",
-      "crowd-pleaser",
-      "low-sodium"
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
