@@ -1,0 +1,72 @@
+{
+  "slug": "nutty-uruguayan-brussels-sprouts-wrap",
+  "title": "Uruguayan Sprout Wrap",
+  "description": "A flavorful wrap filled with sautéed Brussels sprouts and Uruguayan seasoned beef.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "Trimmed and halved"
+    },
+    {
+      "name": "Uruguayan seasoned beef",
+      "amount": "1 pound",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "nutty wrap",
+      "amount": "1",
+      "notes": "Large flour tortilla"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the beef with salt and pepper.",
+    "Grill the beef for 3-4 minutes per side, or until cooked to your liking.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the Brussels sprouts and cook, stirring occasionally, until tender and caramelized, about 10-12 minutes.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by placing the grilled beef and sautéed Brussels sprouts inside the wrap.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-beef",
+    "brussels-sprouts",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-uruguayan-brussels-sprouts-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:41:10.807Z"
+}
