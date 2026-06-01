@@ -1,0 +1,75 @@
+{
+  "slug": "nourishing-shattered-slovakian-pineapple-braised",
+  "title": "Slovakian Braised Pork Chops with Pineapple",
+  "description": "A hearty Slovakian-inspired dish featuring tender braised pork chops served with a sweet and tangy pineapple sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork chops",
+      "amount": "4"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Slovakian braised",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Season the pork chops with salt and black pepper.",
+    "Heat olive oil in a large skillet over medium-high heat. Sear the pork chops until browned on both sides, about 2-3 minutes per side.",
+    "Remove the pork chops from the skillet and set aside.",
+    "Reduce heat to medium and add more olive oil if necessary. Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the Slovakian braised and pineapple to the skillet, stirring to combine.",
+    "Return the pork chops to the skillet and simmer for 10-15 minutes or until cooked through.",
+    "Serve the pork chops with the pineapple sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork-chops",
+    "pineapple",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-shattered-slovakian-pineapple-braised",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:29:32.928Z"
+}
