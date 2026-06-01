@@ -1,0 +1,54 @@
+{
+  "slug": "nutella-marinated-olive-tapenade",
+  "title": "Tapenade Crostini",
+  "description": "A simple appetizer or snack recipe featuring a rich and savory tapenade spread on toasted baguette slices.",
+  "cuisine": null,
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "baguette",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "tapenade",
+      "amount": "2 tbsp",
+      "notes": "chopped fresh herbs optional"
+    },
+    {
+      "name": "nutella",
+      "amount": "1 tsp",
+      "notes": "optional, for a chocolate twist"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Slice the baguette into 1/2-inch thick rounds.",
+    "Place the baguette slices on a baking sheet and drizzle with olive oil.",
+    "Toast the bread in the oven for 5-7 minutes, or until lightly browned.",
+    "Spread 1 tablespoon of tapenade on each toasted baguette slice.",
+    "Top with chopped fresh herbs, if desired.",
+    "If using, drizzle with a small amount of Nutella for a chocolate twist.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "appetizer",
+    "tapenade"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutella-marinated-olive-tapenade",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:02:48.242Z"
+}
