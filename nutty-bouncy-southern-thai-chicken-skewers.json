@@ -1,0 +1,77 @@
+{
+  "slug": "nutty-bouncy-southern-thai-chicken-skewers",
+  "title": "Spicy Thai Chicken Satay",
+  "description": "A classic Asian-inspired dish featuring marinated chicken skewers grilled to perfection. Serve with peanut sauce and steamed vegetables for a flavorful and nutritious meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "Southern-style peanut sauce",
+      "amount": "1/2 cup",
+      "notes": "See notes for recipe"
+    },
+    {
+      "name": "Nutty brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Bouncy rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Skewers",
+      "amount": "10",
+      "notes": "Wooden or metal"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together peanut sauce, brown sugar, rice vinegar, and chili peppers.",
+    "2. Add the chicken to the marinade and mix until coated.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Thread marinated chicken onto skewers, leaving a small space between each piece.",
+    "6. Grill skewers for 8-10 minutes per side, or until the chicken is cooked through and slightly charred.",
+    "7. Serve skewers hot with peanut sauce for dipping.",
+    "8. Garnish with fresh cilantro, if desired.",
+    "9. Serve with steamed vegetables and a side of peanut sauce for a complete meal.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "asian",
+    "chicken",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-bouncy-southern-thai-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:57:26.982Z"
+}
