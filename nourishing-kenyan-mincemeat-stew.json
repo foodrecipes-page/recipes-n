@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-kenyan-mincemeat-stew",
+  "title": "Kenyan Beef Stew",
+  "description": "Hearty beef stew recipe inspired by Kenyan cuisine, perfect for a chilly evening.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Kenyan Stew Spice Mix",
+      "amount": "2 tablespoons",
+      "notes": "Available at African markets or online"
+    },
+    {
+      "name": "Nourishing Greens",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add onion, garlic, and cook until softened, about 5 minutes.",
+    "Add tomato, potato, carrot, and cook for 5 minutes.",
+    "Add Kenyan Stew Spice Mix and stir to combine.",
+    "Return beef to pot, add nourishing greens, and stir to combine.",
+    "Reduce heat to low, cover, and simmer for 1 1/2 hours.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "kenyan",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-kenyan-mincemeat-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:50:06.928Z"
+}
