@@ -1,0 +1,82 @@
+{
+  "slug": "nutritious-light-portuguese-shiitake-mushrooms-skillet",
+  "title": "Portuguese Mushroom Skillet",
+  "description": "A simple and flavorful Portuguese-inspired skillet dish featuring shiitake mushrooms, perfect for a quick and nutritious meal.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "1 cup",
+      "notes": "Clean and slice the mushrooms"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "2 tablespoons",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes or until fragrant.",
+    "Add the chopped red onion and cook for 3-4 minutes or until softened.",
+    "Add the sliced shiitake mushrooms and cook for 5-6 minutes or until they release their liquid and start to brown.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley and serve with lemon wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "mushroom",
+    "skillet",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-light-portuguese-shiitake-mushrooms-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:57:52.600Z"
+}
