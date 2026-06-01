@@ -1,0 +1,80 @@
+{
+  "slug": "naturally-yeasty-portuguese-zucchini-wrap",
+  "title": "Portuguese Zucchini Wrap",
+  "description": "A delicious and easy-to-make wrap filled with sautéed zucchini, onions and spices. Perfect for a quick snack or light meal.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large zucchini",
+      "amount": "1",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "medium"
+    },
+    {
+      "name": "natural yeast",
+      "amount": "1 packet",
+      "notes": "active dry"
+    },
+    {
+      "name": "portuguese wrap",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "fine"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Add 1 tablespoon of olive oil and sauté the grated zucchini until tender.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the garlic powder and cook for 1 minute.",
+    "Add the yeast to the mixture and stir well.",
+    "Warm the Portuguese wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spooning the zucchini mixture onto the center of the wrap.",
+    "Season with salt to taste.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "zucchini",
+    "portuguese",
+    "wrap",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-yeasty-portuguese-zucchini-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:53:28.441Z"
+}
