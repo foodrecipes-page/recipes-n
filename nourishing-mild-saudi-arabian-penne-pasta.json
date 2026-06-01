@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-mild-saudi-arabian-penne-pasta",
+  "title": "Saudi Arabian Chicken Pasta",
+  "description": "A flavorful and aromatic pasta dish inspired by the cuisine of Saudi Arabia. This recipe combines the richness of chicken with the creaminess of mild sauce and the crunch of Arabian spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "penne pasta",
+      "amount": "250g",
+      "notes": "dried"
+    },
+    {
+      "name": "mild sauce",
+      "amount": "150ml",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "arabian spices",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the penne pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and add the chicken breast.",
+    "Cook the chicken until browned and cooked through, about 5-7 minutes.",
+    "Add the mild sauce to the skillet and stir to combine with the chicken.",
+    "Add the cooked penne pasta to the skillet and toss with the chicken and sauce.",
+    "Season with arabian spices, salt, and black pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "chicken",
+    "pasta",
+    "easy dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-mild-saudi-arabian-penne-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:40:06.250Z"
+}
