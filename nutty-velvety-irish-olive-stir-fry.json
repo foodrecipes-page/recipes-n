@@ -1,0 +1,76 @@
+{
+  "slug": "nutty-velvety-irish-olive-stir-fry",
+  "title": "Irish Stir-Fry with Nutty Veggies",
+  "description": "A hearty, one-pan Irish stir-fry dish loaded with nutty roasted vegetables and a hint of velvety creaminess.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish kale",
+      "amount": "4 cups, chopped",
+      "notes": "stems removed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Nutty roasted vegetables",
+      "amount": "1 cup, chopped",
+      "notes": "such as carrots, beets, or parsnips"
+    },
+    {
+      "name": "Velvety cream cheese",
+      "amount": "1/4 cup, softened",
+      "notes": "for a creamy sauce"
+    },
+    {
+      "name": "Fry seasoning",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Toss the chopped kale with 1 tbsp of olive oil, salt, and pepper on a baking sheet.",
+    "Roast the kale in the oven for 15-20 minutes, or until slightly caramelized.",
+    "In a large skillet, heat the remaining 1 tbsp of olive oil over medium-high heat.",
+    "Add the stir-fry sauce and cook for 1-2 minutes, or until fragrant.",
+    "Add the nutty roasted vegetables and cook for 2-3 minutes, or until tender.",
+    "Stir in the softened cream cheese until combined.",
+    "Add the cooked kale to the skillet and toss to combine.",
+    "Season with fry seasoning if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-velvety-irish-olive-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:24:15.200Z"
+}
