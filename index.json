@@ -7097,16 +7097,15 @@
   },
   {
     "slug": "nourishing-mild-saudi-arabian-penne-pasta",
-    "title": "Nourishing Mild Saudi Arabian Penne Pasta",
+    "title": "Saudi Arabian Chicken Pasta",
     "tags": [
-      "comfort-food",
-      "middle-eastern",
-      "one-pot",
-      "vegetarian-friendly",
-      "weeknight"
+      "middle eastern",
+      "chicken",
+      "pasta",
+      "easy dinner"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -7701,17 +7700,15 @@
   },
   {
     "slug": "nourishing-shattered-slovakian-pineapple-braised",
-    "title": "Nourishing Shattered Slovakian Pineapple Braised",
+    "title": "Slovakian Braised Pork Chops with Pineapple",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "slovakian-cuisine",
-      "vegetarian",
-      "weeknight"
+      "slovakian",
+      "pork-chops",
+      "pineapple",
+      "braised"
     ],
-    "cuisine": "Slovak",
-    "totalTimeMin": 40,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
