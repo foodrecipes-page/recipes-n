@@ -1,0 +1,78 @@
+{
+  "slug": "nutty-flaky-filipino-pig-lechon",
+  "title": "Lechon Kare-Kare with Filipino Flair",
+  "description": "A classic Filipino dish with a twist, featuring slow-roasted pork belly served with a rich peanut-based sauce and steamed vegetables.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pig (pork belly)",
+      "amount": "1 kg",
+      "notes": "skin on"
+    },
+    {
+      "name": "nutty (peanut butter)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "flaky (puff pastry)",
+      "amount": "1 sheet",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "filipino (bok choy)",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "for frying",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork belly with salt and black pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat. Sear the pork belly until browned on all sides.",
+    "Transfer the pork to the preheated oven and roast for 2 hours, or until tender and caramelized.",
+    "While the pork is roasting, prepare the peanut sauce by blending peanut butter, vinegar, and water.",
+    "Steam the bok choy until tender.",
+    "To assemble the dish, slice the roasted pork into thick slabs and serve with a side of steamed bok choy and a drizzle of peanut sauce.",
+    "Wrap the pork in puff pastry and serve as a main course."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "peanut-sauce",
+    "slow-roasted-pork"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 60
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-flaky-filipino-pig-lechon",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:48:32.976Z"
+}
