@@ -1,0 +1,87 @@
+{
+  "slug": "nutty-norwegian-egg-yolks-stir-fry--thai",
+  "title": "Thai Stir-Fried Egg with Norwegian Shrimp",
+  "description": "A quick and delicious Thai dish made with Norwegian shrimp, egg, and stir-fry spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian Shrimp",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Nutty Stir-Fry Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "0.5 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium heat.",
+    "Add ginger and garlic, stir-fry for 1 minute.",
+    "Add shrimp and cook until pink, about 2-3 minutes.",
+    "Push shrimp to one side of the wok.",
+    "Crack in eggs and scramble until cooked through.",
+    "Mix eggs with shrimp.",
+    "Add stir-fry sauce, soy sauce and sugar to the wok.",
+    "Stir well to combine.",
+    "Cook for an additional 1-2 minutes.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "shrimp",
+    "egg",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-norwegian-egg-yolks-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:37:07.981Z"
+}
