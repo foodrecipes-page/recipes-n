@@ -8026,17 +8026,15 @@
   },
   {
     "slug": "nourishing-slovakian-date-paella",
-    "title": "Nourishing Slovakian Date Paella",
+    "title": "Slovakian Paella",
     "tags": [
-      "charred",
-      "comfort-food",
-      "dense",
-      "one-pan",
       "slovakian",
-      "vegan"
+      "paella",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 45,
+    "cuisine": "slovakian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
