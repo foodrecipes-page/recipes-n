@@ -1,0 +1,80 @@
+{
+  "slug": "nutritious-irish-cheese-grill--japanese",
+  "title": "Irish Teriyaki Burger",
+  "description": "A twist on traditional Japanese Teriyaki, this burger combines Japanese flavors with Irish charm. The grill adds a smoky depth to the dish.",
+  "cuisine": "japanese",
+  "diet": [
+    "nutritious"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish Beef Patties",
+      "amount": "4",
+      "notes": "Use 80/20 lean to fat ratio beef for best results"
+    },
+    {
+      "name": "Teriyaki Sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought, adjust to taste"
+    },
+    {
+      "name": "Grilled Onions",
+      "amount": "1 large",
+      "notes": "Slice into 1/2 inch thick rings for best results"
+    },
+    {
+      "name": "Melted Cheese",
+      "amount": "4 slices",
+      "notes": "Use a mild Irish cheese such as Dubliner"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Buns",
+      "amount": "4",
+      "notes": "Soft and lightly toasted"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 leaves",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season beef patties with salt and pepper.",
+    "Grill beef patties for 4-5 minutes per side or until cooked to desired doneness.",
+    "Meanwhile, grill onions until caramelized and slightly charred.",
+    "Assemble burgers with teriyaki sauce, grilled onions, cheese, sesame seeds, lettuce, and tomato.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "cheese",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-irish-cheese-grill--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:21:46.313Z"
+}
