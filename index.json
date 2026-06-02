@@ -16401,17 +16401,15 @@
   },
   {
     "slug": "nutty-rich-german-egg-yolk-custard",
-    "title": "Nutty Rich German Egg Yolk Custard",
+    "title": "German Custard Tart",
     "tags": [
-      "egg-yolk-custard",
-      "german-dessert",
-      "keto-friendly",
-      "lazy-sunday",
-      "low-carb",
-      "nutty-flavors"
+      "dessert",
+      "tart",
+      "german",
+      "custard"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 65,
+    "cuisine": "german",
+    "totalTimeMin": 60,
     "shard": "n"
   },
   {
@@ -18590,6 +18588,20 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 22,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-mild-saudi-arabian-penne-pasta--thai",
+    "title": "Thai Penne Pasta Delight",
+    "tags": [
+      "thai",
+      "pasta",
+      "vegetarian",
+      "gluten-free",
+      "easy-dinner"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 18,
     "shard": "n"
   }
 ]
