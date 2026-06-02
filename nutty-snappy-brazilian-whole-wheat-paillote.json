@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-snappy-brazilian-whole-wheat-paillote",
+  "title": "Brazilian Paillote Crusted Wheat Bites",
+  "description": "A crunchy and nutty snack made with whole wheat and a hint of brazilian flavor.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "paillote",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "snappy",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "brazilian",
+      "amount": "2 tbsp",
+      "notes": "flavoring"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large bowl, mix together whole wheat, paillote, nutty, and snappy.",
+    "3. Add brazilian flavoring and mix well.",
+    "4. Use a cookie scoop or spoon to drop small balls of the mixture onto a baking sheet.",
+    "5. Bake for 12-15 minutes or until lightly browned.",
+    "6. Allow to cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "brazilian",
+    "crunchy",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-snappy-brazilian-whole-wheat-paillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:42:44.843Z"
+}
