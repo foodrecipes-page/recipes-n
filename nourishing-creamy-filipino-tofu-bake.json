@@ -1,0 +1,84 @@
+{
+  "slug": "nourishing-creamy-filipino-tofu-bake",
+  "title": "Filipino Tofu Bake",
+  "description": "A nourishing and creamy Filipino-inspired tofu bake, perfect for a comforting meal. This recipe is a twist on traditional Filipino dishes, but with a healthier and more accessible twist.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Extra-firm, drained and cubed"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": "Florets"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "Full-fat"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a blender or food processor, combine coconut milk, onion, garlic, and cayenne pepper (if using). Blend until smooth.",
+    "In a separate bowl, mix together tofu, salt, and black pepper.",
+    "In a baking dish, arrange a layer of cauliflower florets. Pour some of the coconut milk mixture over the cauliflower.",
+    "Add a layer of tofu on top of the cauliflower, followed by another layer of cauliflower. Repeat this process until all ingredients are used up, ending with a layer of coconut milk on top.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is lightly golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "tofu",
+    "bake",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-creamy-filipino-tofu-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:48:40.369Z"
+}
