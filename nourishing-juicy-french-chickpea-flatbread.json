@@ -1,0 +1,78 @@
+{
+  "slug": "nourishing-juicy-french-chickpea-flatbread",
+  "title": "French Chickpea Flatbread",
+  "description": "A flavorful flatbread topped with chickpea salad, perfect for a light meal or snack.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 (8-inch) round",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 (15-ounce) can, drained and rinsed",
+      "notes": ""
+    },
+    {
+      "name": "Nourishing",
+      "amount": "1/4 cup chopped fresh parsley",
+      "notes": ""
+    },
+    {
+      "name": "Juicy",
+      "amount": "1/4 cup chopped fresh cucumber",
+      "notes": ""
+    },
+    {
+      "name": "French",
+      "amount": "2 tablespoons olive oil",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place flatbread on a baking sheet.",
+    "Drizzle olive oil over flatbread.",
+    "Bake for 12-15 minutes, or until crispy.",
+    "Meanwhile, mix chickpeas, parsley, and cucumber in a bowl.",
+    "Season with salt and black pepper to taste.",
+    "Top baked flatbread with chickpea salad.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea",
+    "flatbread",
+    "parisian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-juicy-french-chickpea-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:37:18.174Z"
+}
