@@ -14409,13 +14409,11 @@
   },
   {
     "slug": "nutty-flaky-saudia-dum-crumble",
-    "title": "Nutty Flaky Saudi Dum Crumble with Redcurrants",
+    "title": "Saudi Dumplings",
     "tags": [
-      "nutty",
-      "flaky",
-      "saudi-arabian",
-      "kid-friendly",
-      "low-calorie"
+      "saudi",
+      "dumplings",
+      "pastry"
     ],
     "cuisine": "Saudi",
     "totalTimeMin": 35,
@@ -17203,17 +17201,14 @@
   },
   {
     "slug": "nutty-soft-ukrainian-pork-dumplings",
-    "title": "Nutty Soft Ukrainian Pork Dumplings",
+    "title": "Pork and Ukrainian Dumplings",
     "tags": [
-      "comfort-food",
-      "date-night",
-      "low-fat",
-      "nutty-flavors",
-      "pork-dishes",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "dumplings",
+      "homemade"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
