@@ -1,0 +1,77 @@
+{
+  "slug": "nutty-rich-german-egg-yolk-custard",
+  "title": "German Custard Tart",
+  "description": "A classic German dessert made with a nutty pastry crust and a rich custard filling.",
+  "cuisine": "german",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nutty pastry crust",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "yolk",
+      "amount": "3"
+    },
+    {
+      "name": "custard",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the nutty pastry crust and place in a tart pan.",
+    "In a medium bowl, whisk together the egg, sugar, and vanilla extract.",
+    "Add the milk and whisk until smooth.",
+    "Pour the custard mixture into the pastry crust.",
+    "Dot the top of the custard with the melted butter.",
+    "Bake for 40-45 minutes, or until the pastry is golden brown and the custard is set.",
+    "Remove from oven and let cool to room temperature.",
+    "Chill in the refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "tart",
+    "german",
+    "custard"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-rich-german-egg-yolk-custard",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:52:30.720Z"
+}
