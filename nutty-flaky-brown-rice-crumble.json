@@ -1,0 +1,65 @@
+{
+  "slug": "nutty-flaky-brown-rice-crumble",
+  "title": "Crispy Brown Rice Cakes",
+  "description": "A simple and crunchy snack made with brown rice, crumble topping, and nutty flaky crunch.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Crumbly Topping",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Nutty Flaky Crunch",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine brown rice and water. Mix well and let it sit for 30 minutes.",
+    "2. Preheat a non-stick pan with a small amount of oil over medium heat.",
+    "3. Add the crumbly topping and nutty flaky crunch to the pan and cook until golden brown.",
+    "4. Add the rice mixture to the pan and flatten it into a thin layer.",
+    "5. Cook for 3-4 minutes or until the bottom is golden brown.",
+    "6. Flip the rice cakes and cook for an additional 3-4 minutes or until golden brown.",
+    "7. Season with salt to taste.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "easy-to-make",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-flaky-brown-rice-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:26:17.534Z"
+}
