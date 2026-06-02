@@ -1,0 +1,66 @@
+{
+  "slug": "nutty-flaky-saudia-dum-crumble",
+  "title": "Saudi Dumplings",
+  "description": "A traditional Saudi dish with dumplings flavored with nutty spices. This recipe makes a delicious and satisfying meal.",
+  "cuisine": "Saudi",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dum",
+      "amount": "1 package (20-25 pieces)"
+    },
+    {
+      "name": "flaky",
+      "amount": "1 cup",
+      "notes": "flaky pastry for dumplings"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 teaspoon ground nutmeg",
+      "notes": "for flavoring"
+    },
+    {
+      "name": "saudia",
+      "amount": "1/2 teaspoon ground cinnamon",
+      "notes": "for flavoring"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for boiling dumplings"
+    }
+  ],
+  "instructions": [
+    "Boil water in a large pot and add dumplings.",
+    "Cook for 10-15 minutes or until dumplings float.",
+    "While dumplings are cooking, prepare the flaky pastry by rolling it out thinly.",
+    "Cut the pastry into small squares, about 3 inches per side.",
+    "Place a dumpling in the center of each square.",
+    "Fold the pastry squares over the dumplings to form triangles, pressing edges to seal.",
+    "Fry the dumplings in a pan with a little oil until crispy and golden brown.",
+    "Serve warm with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "dumplings",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-flaky-saudia-dum-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:19:05.700Z"
+}
