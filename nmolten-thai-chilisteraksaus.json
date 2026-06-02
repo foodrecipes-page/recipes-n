@@ -1,0 +1,88 @@
+{
+  "slug": "nmolten-thai-chilisteraksaus",
+  "title": "Thai-Style Chili Stir-Fry with Melted Cheese",
+  "description": "A spicy and savory Thai-inspired stir-fry with the addition of melted cheese. Perfect for a quick and satisfying meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nmolten",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "any color"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "chilisteraksaus",
+      "amount": "2-3 tablespoons"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of chilisteraksaus in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced bell pepper and cook for 2-3 minutes.",
+    "Add the snow peas and cook until tender, about 2-3 minutes.",
+    "In a small bowl, whisk together soy sauce and fish sauce.",
+    "Pour the soy sauce mixture over the vegetables and stir to combine.",
+    "Add the shredded nmolten and stir until melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or noodles.",
+    "Garnish with chopped cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nmolten-thai-chilisteraksaus",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:01:50.143Z"
+}
