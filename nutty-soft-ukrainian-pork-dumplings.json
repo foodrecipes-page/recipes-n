@@ -1,0 +1,79 @@
+{
+  "slug": "nutty-soft-ukrainian-pork-dumplings",
+  "title": "Pork and Ukrainian Dumplings",
+  "description": "A hearty Ukrainian-inspired dish featuring pork and homemade dumplings.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "gluten-free flour can be substituted"
+    },
+    {
+      "name": "soft flour",
+      "amount": "1 cup",
+      "notes": "for dumpling wrappers"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup",
+      "notes": "walnuts or hazelnuts work well"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine pork, nutty, egg, salt, and pepper. Mix well.",
+    "In a separate bowl, combine all-purpose flour and soft flour. Mix well.",
+    "Gradually add the flour mixture to the pork mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes and let rest for 10 minutes.",
+    "Divide the dough into small pieces and roll out each piece into a thin circle.",
+    "Place a tablespoon of water in the center of each circle and fold the dough over to form a dumpling.",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the dumplings to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve the dumplings with your favorite Ukrainian-inspired sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dumplings",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-soft-ukrainian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:20:52.802Z"
+}
