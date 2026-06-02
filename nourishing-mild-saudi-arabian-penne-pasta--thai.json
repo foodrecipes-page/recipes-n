@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-mild-saudi-arabian-penne-pasta--thai",
+  "title": "Thai Penne Pasta Delight",
+  "description": "A flavorful and nutritious Thai-inspired pasta dish made with mild and nourishing ingredients. Perfect for a quick weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Mild Arabic spice blend",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Nourishing oil",
+      "amount": "2 tbsp",
+      "notes": "olive or coconut oil"
+    },
+    {
+      "name": "Saudi Arabian dates",
+      "amount": "4-5",
+      "notes": "pitted"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the penne pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat the nourishing oil over medium heat.",
+    "Add the mild Arabic spice blend and cook for 1-2 minutes, until fragrant.",
+    "Add the Saudi Arabian dates and cook for an additional 2-3 minutes, until they start to soften.",
+    "Add the cooked penne pasta to the skillet and toss with the date and spice mixture.",
+    "Stir in the chopped cilantro and freshly squeezed lime juice.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "pasta",
+    "vegetarian",
+    "gluten-free",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-mild-saudi-arabian-penne-pasta--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:38:58.370Z"
+}
