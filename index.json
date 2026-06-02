@@ -6568,16 +6568,14 @@
   },
   {
     "slug": "nourishing-juicy-french-chickpea-flatbread",
-    "title": "Nourishing Juicy French Chickpea Flatbread",
+    "title": "French Chickpea Flatbread",
     "tags": [
-      "french-cuisine",
-      "low-sodium",
-      "romantic-dinner",
-      "scallop-shell",
-      "vegetarian"
+      "chickpea",
+      "flatbread",
+      "parisian"
     ],
     "cuisine": "French",
-    "totalTimeMin": 60,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -17132,17 +17130,15 @@
   },
   {
     "slug": "nutty-snappy-brazilian-whole-wheat-paillote",
-    "title": "Nutty, Snappy Brazilian Whole Wheat Paillote",
+    "title": "Brazilian Paillote Crusted Wheat Bites",
     "tags": [
-      "gluten-free",
-      "low-carb",
-      "one-pan",
-      "paleo-friendly",
       "snack",
-      "weeknight"
+      "brazilian",
+      "crunchy",
+      "nutty"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -18587,6 +18583,19 @@
       "easy-dinner"
     ],
     "cuisine": "Thai",
+    "totalTimeMin": 18,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-norwegian-egg-yolks-stir-fry--thai",
+    "title": "Thai Stir-Fried Egg with Norwegian Shrimp",
+    "tags": [
+      "thai",
+      "shrimp",
+      "egg",
+      "stir-fry"
+    ],
+    "cuisine": "thai",
     "totalTimeMin": 18,
     "shard": "n"
   }
