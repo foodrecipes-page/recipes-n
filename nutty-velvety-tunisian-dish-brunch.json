@@ -1,0 +1,94 @@
+{
+  "slug": "nutty-velvety-tunisian-dish-brunch",
+  "title": "Nutty Tunisian Brunch Bowl",
+  "description": "A hearty and flavorful brunch bowl filled with the richness of Tunisia. Perfect for a weekend morning.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tunisian chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "nutty granola",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "velvety hummus",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1 tsp",
+      "notes": "for dusting"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the chickpeas with coconut oil, cumin, smoked paprika, salt, and black pepper on a baking sheet.",
+    "Roast in the oven for 20-25 minutes, or until lightly browned.",
+    "In a small bowl, mix together the hummus and a pinch of salt.",
+    "Spoon the hummus into the bottom of a bowl.",
+    "Top with the roasted chickpeas, followed by the granola.",
+    "Dust with cocoa powder and garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "breakfast",
+    "brunch",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-velvety-tunisian-dish-brunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:05:03.224Z"
+}
