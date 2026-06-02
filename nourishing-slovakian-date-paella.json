@@ -1,0 +1,103 @@
+{
+  "slug": "nourishing-slovakian-date-paella",
+  "title": "Slovakian Paella",
+  "description": "A nourishing Slovakian-inspired paella dish, perfect for a family dinner.",
+  "cuisine": "slovakian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian sausage",
+      "amount": "1 pound",
+      "notes": "you can use kielbasa or another type of sausage"
+    },
+    {
+      "name": "Mixed bell peppers",
+      "amount": "2 cups, sliced",
+      "notes": "any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large, chopped",
+      "notes": "you can use red or yellow onions"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "you can use vegetable broth instead"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "fresh thyme works too"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet or smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "adjust according to your taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan or skillet over medium-high heat.",
+    "Add Slovakian sausage and cook until browned, about 5 minutes.",
+    "Remove sausage from the pan and set aside.",
+    "Add mixed bell peppers and onions to the pan, cooking until tender, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add paella rice and stir to coat with oil and mix with vegetables.",
+    "Add tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add chicken broth, thyme, and paprika. Stir to combine.",
+    "Return sausage to the pan and season with salt.",
+    "Bring mixture to a boil, then reduce heat to low and simmer, covered, until rice is tender and liquid has been absorbed, about 20-25 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "paella",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-slovakian-date-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:12:07.080Z"
+}
