@@ -5008,17 +5008,15 @@
   },
   {
     "slug": "nourishing-creamy-filipino-tofu-bake",
-    "title": "Nourishing Creamy Filipino Tofu Bake",
+    "title": "Filipino Tofu Bake",
     "tags": [
-      "ayurvedic-recipes",
-      "brunch-ideas",
-      "filipino-food",
-      "tofu-recipes",
-      "vegan-friendly",
-      "wood-fired-oven"
+      "filipino",
+      "tofu",
+      "bake",
+      "vegan"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
@@ -14330,19 +14328,14 @@
   },
   {
     "slug": "nutty-flaky-filipino-pig-lechon",
-    "title": "Filipino Pig Lechon",
+    "title": "Lechon Kare-Kare with Filipino Flair",
     "tags": [
-      "filipino",
-      "main-course",
-      "pork",
-      "roasted",
-      "slow-cooked",
-      "special-occasion",
-      "sugar-free",
-      "weeknight"
+      "filipino-cuisine",
+      "peanut-sauce",
+      "slow-roasted-pork"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 200,
+    "totalTimeMin": 150,
     "shard": "n"
   },
   {
