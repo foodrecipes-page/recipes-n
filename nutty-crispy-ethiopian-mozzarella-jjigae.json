@@ -1,0 +1,60 @@
+{
+  "slug": "nutty-crispy-ethiopian-mozzarella-jjigae",
+  "title": "Crispy Ethiopian Mozzarella Fritters",
+  "description": "A unique twist on traditional fritters, infused with the flavors of Ethiopia. Crunchy on the outside and gooey on the inside.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "jjigae",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup",
+      "notes": "Crushed"
+    },
+    {
+      "name": "mozzarella",
+      "amount": "1/2 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (175°C).",
+    "In a large bowl, combine jjigae, nutty, crispy, and mozzarella.",
+    "In a separate bowl, beat eggs. Add to the dry ingredients and mix well.",
+    "Using a spoon, drop small portions of the mixture into the hot oil.",
+    "Fry until golden brown, about 3-4 minutes.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "snack",
+    "fritters",
+    "mozzarella"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-ethiopian-mozzarella-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:58:01.123Z"
+}
