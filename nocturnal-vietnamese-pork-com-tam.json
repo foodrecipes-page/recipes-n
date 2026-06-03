@@ -1,0 +1,75 @@
+{
+  "slug": "nocturnal-vietnamese-pork-com-tam",
+  "title": "Vietnamese Pork Com Tam",
+  "description": "A traditional Vietnamese dish made with grilled pork, served with steamed tam and fragrant com.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thinly sliced pieces"
+    },
+    {
+      "name": "Tam (water caltrop)",
+      "amount": "2 cups",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "Com (broken rice)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Marinate pork in a mixture of fish sauce, soy sauce, sugar, and black pepper for at least 30 minutes.",
+    "Grill pork over medium-high heat until cooked through, about 5-7 minutes per side.",
+    "Steam tam until tender, about 10-12 minutes.",
+    "Cook com according to package instructions.",
+    "Serve grilled pork with steamed tam and com.",
+    "Drizzle with additional fish sauce and soy sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled-pork",
+    "tam",
+    "com"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nocturnal-vietnamese-pork-com-tam",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:21:57.887Z"
+}
