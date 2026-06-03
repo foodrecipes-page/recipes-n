@@ -1,0 +1,85 @@
+{
+  "slug": "nutty-german-chicken-casserole--italian",
+  "title": "Chicken Casserole Italiano",
+  "description": "A hearty and flavorful Italian-inspired casserole featuring chicken, nutty pesto sauce, and German sausage.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "german sausage",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "nutty pesto sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "casserole",
+      "amount": "1 (12 oz) box",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the German sausage in a large skillet over medium-high heat, breaking it up with a spoon as it cooks, until browned and cooked through.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the chicken breast to the skillet and cook until browned on all sides and cooked through.",
+    "Stir in the nutty pesto sauce and bring the mixture to a simmer.",
+    "Cook for 2-3 minutes or until the sauce has thickened slightly.",
+    "Transfer the mixture to a baking dish and top with casserole.",
+    "Season with salt and pepper to taste.",
+    "Bake in the preheated oven for 20-25 minutes or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "casserole",
+    "chicken",
+    "german-sausage"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 38,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-german-chicken-casserole--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:21:01.810Z"
+}
