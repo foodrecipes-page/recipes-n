@@ -1,0 +1,80 @@
+{
+  "slug": "nice-grassy-turkish-wagyu-dumplings",
+  "title": "Turkish Wagyu Dumpling Kebabs",
+  "description": "A delicious kebab dish combining the rich flavors of Turkish spices with the tenderness of Wagyu beef, served with a side of pan-seared dumplings.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu Beef",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Turkish-Style Spice Mix",
+      "amount": "2 tbsp",
+      "notes": "Available at most grocery stores or online"
+    },
+    {
+      "name": "Nice Grass Fed Butter",
+      "amount": "2 tbsp",
+      "notes": "For brushing kebabs"
+    },
+    {
+      "name": "Dumpling Wrappers",
+      "amount": "12-15 wrappers",
+      "notes": "Found in most Asian grocery stores"
+    },
+    {
+      "name": "Wagyu Beef Broth",
+      "amount": "2 cups",
+      "notes": "Available at most grocery stores or online"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt & Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together Turkish-Style Spice Mix, salt, and pepper.",
+    "3. Add Wagyu beef to the spice mix and toss to coat evenly.",
+    "4. Thread Wagyu beef cubes onto skewers.",
+    "5. Brush kebabs with Nice Grass Fed Butter.",
+    "6. Grill kebabs for 5-7 minutes per side, or until Wagyu beef reaches 130°F.",
+    "7. Meanwhile, heat Wagyu Beef Broth in a large skillet over medium heat.",
+    "8. Add Dumpling Wrappers to the skillet and cook for 2-3 minutes on each side, or until wrappers are lightly browned.",
+    "9. Serve kebabs with pan-seared dumplings and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "turkish",
+    "wagyu",
+    "kebabs",
+    "dinner",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-grassy-turkish-wagyu-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:43:59.621Z"
+}
