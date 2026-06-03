@@ -1,0 +1,64 @@
+{
+  "slug": "nutty-quick-american-fennel-grill",
+  "title": "Grilled Fennel with American Cheese",
+  "description": "A simple and flavorful side dish that highlights the sweetness of fennel paired with the creaminess of American cheese.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "fennel",
+      "amount": "1 large bulb, sliced",
+      "notes": null
+    },
+    {
+      "name": "American cheese",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 tablespoon, chopped",
+      "notes": "walnuts or hazelnuts"
+    },
+    {
+      "name": "quick",
+      "amount": "2 tablespoons, olive oil",
+      "notes": null
+    },
+    {
+      "name": "grill",
+      "amount": "1 grill",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush fennel slices with olive oil and season with salt and pepper.",
+    "Grill fennel for 3-4 minutes per side, or until tender and lightly charred.",
+    "Meanwhile, toast American cheese slices by placing them on the grill for 30 seconds on each side.",
+    "Assemble the dish by placing a grilled fennel slice on a plate, topping with a toasted American cheese slice, and sprinkling with chopped nuts.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "fennel",
+    "american-cheese",
+    "sides"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-quick-american-fennel-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:13:40.406Z"
+}
