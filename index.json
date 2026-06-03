@@ -9567,17 +9567,16 @@
   },
   {
     "slug": "nurturing-filipino-tempeh-pancit-bihon",
-    "title": "Nurturing Filipino Tempeh Pancit Bihon",
+    "title": "Filipino-Style Tempeh Stir Fry with Pancit Bihon",
     "tags": [
-      "comfort-food",
-      "cozy",
-      "herbal",
-      "pancit",
-      "quick",
-      "vegan"
+      "filipino",
+      "vegetarian",
+      "stir-fry",
+      "tempeh",
+      "pancit-bihon"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -14363,15 +14362,12 @@
   },
   {
     "slug": "nutty-flaky-polish-almonds-crumble",
-    "title": "Nutty Flaky Polish Almonds Crumble",
+    "title": "Polish Crumble Cake",
     "tags": [
-      "nutty",
-      "flaky",
-      "solo-dinner",
       "polish",
-      "cooking-wine",
-      "steam",
-      "dash-friendly"
+      "cake",
+      "crumble",
+      "almonds"
     ],
     "cuisine": "Polish",
     "totalTimeMin": 65,
