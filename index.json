@@ -1810,14 +1810,13 @@
   },
   {
     "slug": "nice-grassy-turkish-wagyu-dumplings",
-    "title": "Nice Grassy Turkish Wagyu Dumplings",
+    "title": "Turkish Wagyu Dumpling Kebabs",
     "tags": [
-      "cozy-dinner",
-      "dumplings",
-      "grassy-broth",
-      "kosher-friendly",
-      "turkish-cuisine",
-      "wagyu-beef"
+      "turkish",
+      "wagyu",
+      "kebabs",
+      "dinner",
+      "dumplings"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 50,
@@ -3324,17 +3323,15 @@
   },
   {
     "slug": "nocturnal-vietnamese-pork-com-tam",
-    "title": "nocturnal vietnamese pork com tam",
+    "title": "Vietnamese Pork Com Tam",
     "tags": [
-      "dairy-free",
-      "high-protein",
-      "one-pan",
-      "pork",
       "vietnamese",
-      "weeknight"
+      "grilled-pork",
+      "tam",
+      "com"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 40,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -3899,14 +3896,16 @@
   },
   {
     "slug": "nostalgic-nutty-crunchy-quinoa-pilaf",
-    "title": "Nostalgic Nutty Crunchy Quinoa Pilaf",
+    "title": "Pilaf Stuffed Quinoa Bites",
     "tags": [
+      "snack",
+      "breakfast",
       "quinoa",
-      "nutty",
-      "crunchy"
+      "pilaf",
+      "vegan"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -18625,6 +18624,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 22,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-german-chicken-casserole--italian",
+    "title": "Chicken Casserole Italiano",
+    "tags": [
+      "italian",
+      "casserole",
+      "chicken",
+      "german-sausage"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
     "shard": "n"
   }
 ]
