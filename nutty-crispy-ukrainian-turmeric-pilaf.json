@@ -1,0 +1,59 @@
+{
+  "slug": "nutty-crispy-ukrainian-turmeric-pilaf",
+  "title": "Crispy Ukrainian Pilaf Bites",
+  "description": "A crunchy twist on traditional pilaf, perfect as a snack or appetizer.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large bowl, combine the pilaf, nutty, and turmeric.",
+    "3. Mix in the crispy until well combined.",
+    "4. Using a small cookie scoop, form the mixture into balls.",
+    "5. Place the balls onto a baking sheet lined with parchment paper.",
+    "6. Bake for 15-20 minutes, or until golden brown.",
+    "7. Remove from the oven and let cool for 5 minutes.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "appetizer",
+    "crunchy",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-ukrainian-turmeric-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:10:38.677Z"
+}
