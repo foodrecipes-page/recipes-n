@@ -1,0 +1,90 @@
+{
+  "slug": "nourishing-herbal-turkish-sauerkraut-dolma",
+  "title": "Turkish Style Stuffed Cabbage Rolls with Dolma Filling",
+  "description": "Hearty cabbage rolls filled with dolma-inspired rice and herb mixture, perfect for a comforting meal. This recipe is a fusion of Eastern European and Turkish flavors, featuring sauerkraut and turkish spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage leaves",
+      "amount": "4-6",
+      "notes": "from a large head of cabbage"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "cooked white or brown rice"
+    },
+    {
+      "name": "dolma filling",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turkish spice mix",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Blanch the cabbage leaves for 5-7 minutes, until tender. Drain and set aside.",
+    "In a large skillet, sauté the onion and garlic until softened.",
+    "Add the dolma filling, sauerkraut, turkish spice mix, salt, and black pepper. Stir to combine.",
+    "Add the cooked rice to the skillet and stir to combine with the other ingredients.",
+    "To assemble the cabbage rolls, lay a cabbage leaf flat and place about 1/4 cup of the rice mixture in the center.",
+    "Fold the stem end over the filling, then fold in the sides and roll into a neat package. Repeat with the remaining cabbage leaves and filling.",
+    "In a large Dutch oven or pot, create a layer of cabbage rolls. You may need to trim the leaves to fit the pot.",
+    "Cover the rolls with water or a mixture of water and tomato sauce. Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes, until the cabbage is tender.",
+    "Serve the cabbage rolls hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage",
+    "dolma",
+    "sauerkraut",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-herbal-turkish-sauerkraut-dolma",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:35:03.621Z"
+}
