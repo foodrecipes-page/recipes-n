@@ -1,0 +1,85 @@
+{
+  "slug": "nocturnal-vietnamese-pork-com-tam--italian",
+  "title": "Vietnamese-Italian Pork Chops with Com Tam",
+  "description": "A fusion dish that combines the flavors of Italy with the spices of Vietnam.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1 inch thick"
+    },
+    {
+      "name": "com tam seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tam rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season pork chops with com tam seasoning, Italian seasoning, salt, and pepper.",
+    "Grill pork chops for 5-6 minutes per side, or until internal temperature reaches 145°F.",
+    "Meanwhile, cook tam rice according to package instructions.",
+    "Heat olive oil in a pan over medium heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Serve pork chops with cooked tam rice and garlic sauce.",
+    "Optional: serve with steamed vegetables or a side salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vietnamese",
+    "pork",
+    "grilled",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nocturnal-vietnamese-pork-com-tam--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:44:56.306Z"
+}
