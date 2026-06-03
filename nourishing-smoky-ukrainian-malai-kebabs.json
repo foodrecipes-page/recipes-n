@@ -1,0 +1,86 @@
+{
+  "slug": "nourishing-smoky-ukrainian-malai-kebabs",
+  "title": "Smoky Ukrainian Malai Kebabs",
+  "description": "A fusion recipe that combines traditional Ukrainian kebabs with the rich flavors of Malai, all wrapped up in a smoky twist.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Malai paneer",
+      "amount": "300g"
+    },
+    {
+      "name": "Smoked Ukrainian sausage",
+      "amount": "200g"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread Malai paneer, smoked sausage, bell peppers, onions, and zucchini onto skewers.",
+    "In a small bowl, whisk together lemon juice and olive oil.",
+    "Brush the mixture onto the kebabs.",
+    "Season with salt and pepper to taste.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally.",
+    "Serve hot, garnished with fresh parsley or dill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "smoky",
+    "ukrainian",
+    "malai",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-ukrainian-malai-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:50:17.047Z"
+}
