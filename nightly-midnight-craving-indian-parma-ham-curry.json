@@ -1,0 +1,68 @@
+{
+  "slug": "nightly-midnight-craving-indian-parma-ham-curry",
+  "title": "Indian-Style Ham and Cheese Naan",
+  "description": "A delicious and easy-to-make naan bread dish featuring ham and melted cheese, inspired by Indian flavors. Perfect for a quick snack or light meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Parma Ham",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Naan Bread (gluten-free)",
+      "amount": "2 pieces",
+      "notes": null
+    },
+    {
+      "name": "Indian Curry Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Place a naan bread piece in the pan and brush with curry sauce.",
+    "Top with a few slices of Parma Ham and sprinkle with mozzarella cheese.",
+    "Fold the naan bread in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the cheese is melted and the bread is crispy.",
+    "Flip the naan bread over and cook for an additional 2 minutes.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "easy",
+    "cheese",
+    "ham"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nightly-midnight-craving-indian-parma-ham-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:31:29.733Z"
+}
