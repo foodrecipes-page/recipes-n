@@ -6173,17 +6173,15 @@
   },
   {
     "slug": "nourishing-herbal-turkish-sauerkraut-dolma",
-    "title": "Nourishing Herbal Turkish Sauerkraut Dolma",
+    "title": "Turkish Style Stuffed Cabbage Rolls with Dolma Filling",
     "tags": [
-      "earthenware-bowl",
-      "herbal",
-      "kid-friendly",
-      "lacto-vegetarian",
-      "stone-bowl-recipes",
-      "turkish-cuisine"
+      "cabbage",
+      "dolma",
+      "sauerkraut",
+      "turkish"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
@@ -8475,17 +8473,16 @@
   },
   {
     "slug": "nourishing-smoky-ukrainian-malai-kebabs",
-    "title": "Nourishing Smoky Ukrainian Malai Kebabs",
+    "title": "Smoky Ukrainian Malai Kebabs",
     "tags": [
-      "dinner-ideas",
-      "grilled",
-      "meat-lovers",
-      "paleo-friendly",
+      "kebabs",
       "smoky",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "malai",
+      "grill"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -18637,6 +18634,20 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nocturnal-vietnamese-pork-com-tam--italian",
+    "title": "Vietnamese-Italian Pork Chops with Com Tam",
+    "tags": [
+      "italian",
+      "vietnamese",
+      "pork",
+      "grilled",
+      "fusion"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "n"
   }
 ]
