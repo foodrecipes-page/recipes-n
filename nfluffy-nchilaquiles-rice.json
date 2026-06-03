@@ -1,0 +1,58 @@
+{
+  "slug": "nfluffy-nchilaquiles-rice",
+  "title": "Nfluffy Chilaquiles Bowl",
+  "description": "A twist on traditional chilaquiles using nfluffy for a creamy and comforting breakfast dish.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "nfluffy",
+      "amount": "1 cup",
+      "notes": "scrambled"
+    },
+    {
+      "name": "nchilaquiles",
+      "amount": "2 cups",
+      "notes": "torn into bite-sized pieces"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of oil in a large skillet over medium heat.",
+    "2. Add the torn nchilaquiles to the skillet and cook for 2-3 minutes, until lightly toasted.",
+    "3. In a separate bowl, scramble the nfluffy and set aside.",
+    "4. Add the cooked rice to the skillet with the nchilaquiles and stir to combine.",
+    "5. Add the scrambled nfluffy to the skillet and stir to combine.",
+    "6. Cook for an additional 2-3 minutes, until the mixture is heated through.",
+    "7. Serve hot, garnished with your choice of toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nfluffy-nchilaquiles-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:08:34.812Z"
+}
