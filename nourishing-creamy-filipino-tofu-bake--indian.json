@@ -1,0 +1,93 @@
+{
+  "slug": "nourishing-creamy-filipino-tofu-bake--indian",
+  "title": "Creamy Indian Tofu Bake",
+  "description": "A nourishing and creamy tofu bake inspired by Indian spices, perfect for a comforting meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together coconut milk, plain yogurt, garam masala, cumin powder, coriander powder, turmeric powder, red chili powder, and salt.",
+    "Add the crumbled tofu to the bowl and mix well to coat.",
+    "Transfer the mixture to a baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until lightly browned.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Serve over basmati rice or with naan bread for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "tofu",
+    "bake",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-creamy-filipino-tofu-bake--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:52:26.905Z"
+}
