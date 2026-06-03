@@ -1,0 +1,93 @@
+{
+  "slug": "nurturing-filipino-tempeh-pancit-bihon",
+  "title": "Filipino-Style Tempeh Stir Fry with Pancit Bihon",
+  "description": "A twist on the classic Filipino stir fry dish, this recipe features tempeh as the protein and pancit bihon as the noodle. The result is a flavorful and nutritious meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "1 block (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Pancit Bihon",
+      "amount": "1 package (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Patís (Filipino chili peppers)",
+      "amount": "2-3",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the onion, garlic, and ginger and stir-fry until the onion is translucent.",
+    "Add the tempeh and stir-fry until it is browned on all sides.",
+    "Add the pancit bihon and stir-fry for 2-3 minutes.",
+    "Add the green onions, patís (if using), salt, and pepper, and stir-fry for another minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "stir-fry",
+    "tempeh",
+    "pancit-bihon"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nurturing-filipino-tempeh-pancit-bihon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:33:58.888Z"
+}
