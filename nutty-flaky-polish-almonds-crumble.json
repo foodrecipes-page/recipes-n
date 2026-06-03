@@ -1,0 +1,91 @@
+{
+  "slug": "nutty-flaky-polish-almonds-crumble",
+  "title": "Polish Crumble Cake",
+  "description": "A delicious Polish-inspired cake topped with a crunchy crumble made with almonds.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Polish almonds",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "nutty flour",
+      "amount": "2 1/4 cups",
+      "notes": null
+    },
+    {
+      "name": "flaky butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "crumble",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Grease a 9-inch (23cm) round cake pan.",
+    "In a medium bowl, whisk together flour, sugar, and salt.",
+    "Add eggs one at a time, whisking well after each addition.",
+    "Whisk in milk and vanilla extract.",
+    "Pour batter into prepared pan.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "While cake is baking, prepare crumble topping by mixing together almonds, crumble, and sugar in a small bowl.",
+    "Remove cake from oven and let cool for 5 minutes.",
+    "Top cake with crumble mixture and return to oven for an additional 5-7 minutes or until golden brown.",
+    "Remove from oven and let cool completely on a wire rack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "cake",
+    "crumble",
+    "almonds"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-flaky-polish-almonds-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:37:18.437Z"
+}
