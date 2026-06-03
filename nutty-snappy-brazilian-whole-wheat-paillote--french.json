@@ -1,0 +1,81 @@
+{
+  "slug": "nutty-snappy-brazilian-whole-wheat-paillote--french",
+  "title": "French Paillote Crusted Snapper",
+  "description": "A simple and flavorful dish featuring a crispy paillote crust on a delicate snapper, served with a side of sautéed wheat",
+  "cuisine": "french",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "paillote",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brazilian spices",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "nutty oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "snappy lemon",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the snapper fillets with salt and Brazilian spices.",
+    "Dredge the fillets in whole wheat flour, shaking off excess.",
+    "Dip the floured fillets in the paillote, pressing gently to coat.",
+    "Heat the nutty oil in an oven-safe skillet over medium-high heat.",
+    "Sear the paillote-crusted snapper for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the fish is cooked through.",
+    "Meanwhile, sauté the wheat in a separate pan with a squeeze of snappy lemon juice.",
+    "Serve the snapper with the sautéed wheat and a side of steamed vegetables.",
+    "Garnish with additional Brazilian spices, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "seafood",
+    "paillote",
+    "snapper"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-snappy-brazilian-whole-wheat-paillote--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:05:44.180Z"
+}
