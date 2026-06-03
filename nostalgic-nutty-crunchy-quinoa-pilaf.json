@@ -1,0 +1,79 @@
+{
+  "slug": "nostalgic-nutty-crunchy-quinoa-pilaf",
+  "title": "Pilaf Stuffed Quinoa Bites",
+  "description": "A crunchy, nutty, and quinoa-packed snack that's easy to make and fun to eat. Perfect for a quick pick-me-up or as a side dish for a party.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/2 cup",
+      "notes": "chopped pecans"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 tablespoon",
+      "notes": "honey"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the cooked pilaf, quinoa, crunchy, and nutty. Mix well.",
+    "In a separate bowl, beat the eggs and add salt and black pepper to taste. Mix well.",
+    "Add the egg mixture to the pilaf mixture and mix until well combined.",
+    "Use a spoon or your hands to shape the mixture into small balls.",
+    "Place the balls onto a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until golden brown.",
+    "Serve warm and enjoy!",
+    "Optional: For an extra crunchy coating, roll the balls in chopped nuts or seeds before baking."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "breakfast",
+    "quinoa",
+    "pilaf",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-nutty-crunchy-quinoa-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:33:07.816Z"
+}
