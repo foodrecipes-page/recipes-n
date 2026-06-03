@@ -1559,13 +1559,15 @@
   },
   {
     "slug": "nfluffy-nchilaquiles-rice",
-    "title": "Nfluffy NChilaquiles Rice",
+    "title": "Nfluffy Chilaquiles Bowl",
     "tags": [
-      "mexican-veracruzan",
-      "dinner"
+      "breakfast",
+      "lunch",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "mexican (veracruzan)",
-    "totalTimeMin": 40,
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
@@ -13009,16 +13011,15 @@
   },
   {
     "slug": "nutty-crispy-ethiopian-mozzarella-jjigae",
-    "title": "nutty crispy ethiopian mozzarella jjigae",
+    "title": "Crispy Ethiopian Mozzarella Fritters",
     "tags": [
-      "high-protein",
-      "mozzarella",
-      "one-pan",
-      "robata-grill",
-      "weeknight"
+      "ethiopian",
+      "snack",
+      "fritters",
+      "mozzarella"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 35,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -13265,15 +13266,15 @@
   },
   {
     "slug": "nutty-crispy-ukrainian-turmeric-pilaf",
-    "title": "Nutty Crispy Ukrainian Turmeric Pilaf",
+    "title": "Crispy Ukrainian Pilaf Bites",
     "tags": [
-      "nutty-crispy",
-      "post-workout",
-      "uconn-special",
-      "vegan-friendly"
+      "snack",
+      "appetizer",
+      "crunchy",
+      "easy-to-make"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -16314,14 +16315,14 @@
   },
   {
     "slug": "nutty-quick-american-fennel-grill",
-    "title": "Nutty Quick American Fennel Grill",
+    "title": "Grilled Fennel with American Cheese",
     "tags": [
-      "fennel-lovers",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "grilled",
+      "fennel",
+      "american-cheese",
+      "sides"
     ],
-    "cuisine": "American",
+    "cuisine": null,
     "totalTimeMin": 13,
     "shard": "n"
   },
@@ -18597,6 +18598,33 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 18,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-creamy-filipino-tofu-bake--indian",
+    "title": "Creamy Indian Tofu Bake",
+    "tags": [
+      "indian",
+      "tofu",
+      "bake",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-snappy-brazilian-whole-wheat-paillote--french",
+    "title": "French Paillote Crusted Snapper",
+    "tags": [
+      "french",
+      "seafood",
+      "paillote",
+      "snapper"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
     "shard": "n"
   }
 ]
