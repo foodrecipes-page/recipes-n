@@ -8293,17 +8293,16 @@
   },
   {
     "slug": "nourishing-smoky-norwegian-cheese-grill",
-    "title": "Nourishing Smoky Norwegian Cheese Grill",
+    "title": "Grilled Norwegian Salmon with Smoky Cheese Crust",
     "tags": [
-      "floral",
-      "indulgent",
-      "jain-friendly",
-      "norwegian-cuisine",
+      "grilled",
+      "salmon",
+      "cheese",
       "smoky",
-      "vegetarian"
+      "nordic"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 23,
     "shard": "n"
   },
   {
@@ -17903,17 +17902,15 @@
   },
   {
     "slug": "nutty-velvety-brazilian-myeolchi-poke",
-    "title": "Nutty Velvety Brazilian Myeolchi Poke",
+    "title": "Velvety Poke Bowl",
     "tags": [
-      "brazilian",
-      "high-protein",
-      "low-carb",
-      "pescatarian",
+      "vegan",
+      "gluten-free",
+      "tofu",
       "poke",
-      "sushi",
-      "weeknight"
+      "bowl"
     ],
-    "cuisine": "Brazilian",
+    "cuisine": null,
     "totalTimeMin": 15,
     "shard": "n"
   },
@@ -18684,6 +18681,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-light-portuguese-shiitake-mushrooms-skillet--vegan",
+    "title": "Portuguese Vegan Mushroom Skillet",
+    "tags": [
+      "vegan",
+      "portuguese",
+      "mushroom",
+      "skillet"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 25,
     "shard": "n"
   }
 ]
