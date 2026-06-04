@@ -1,0 +1,80 @@
+{
+  "slug": "nutty-venezuelan-peanuts-stew--indian",
+  "title": "Venezuelan Peanut Stew",
+  "description": "A hearty and flavorful Indian-inspired stew made with peanuts and a hint of Venezuelan spice. This dish is perfect for a chilly evening.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nutty stew",
+      "amount": "2 cups"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "venezuelan peanuts",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger; sauté until onion is translucent.",
+    "Add cumin, coriander, turmeric, and red chili powder; sauté for 1 minute.",
+    "Add stew, peanuts, and venezuelan peanuts; stir well.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot garnished with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "stew",
+    "peanuts",
+    "velezuelan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-venezuelan-peanuts-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:25:58.918Z"
+}
