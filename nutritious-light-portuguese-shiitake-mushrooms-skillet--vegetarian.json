@@ -1,0 +1,84 @@
+{
+  "slug": "nutritious-light-portuguese-shiitake-mushrooms-skillet--vegetarian",
+  "title": "Portuguese Shiitake and Mushroom Skillet",
+  "description": "A flavorful vegetarian skillet dish inspired by Portuguese cuisine, featuring shiitake and mushrooms cooked to perfection.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "portuguese mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "skillet olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced mushrooms and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped red bell pepper and cook for 2 minutes.",
+    "Add the tomato sauce and stir to combine.",
+    "Bring the sauce to a simmer and cook for 5-7 minutes or until the flavors have melded together.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "vegetarian",
+    "skillet",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-light-portuguese-shiitake-mushrooms-skillet--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:23:45.430Z"
+}
