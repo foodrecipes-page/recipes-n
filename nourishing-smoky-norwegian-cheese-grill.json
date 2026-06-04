@@ -1,0 +1,72 @@
+{
+  "slug": "nourishing-smoky-norwegian-cheese-grill",
+  "title": "Grilled Norwegian Salmon with Smoky Cheese Crust",
+  "description": "A smoky twist on the classic Norwegian salmon dish. The smoky cheese crust adds a depth of flavor and a nice char to the salmon.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": "Fresh Norwegian salmon"
+    },
+    {
+      "name": "Smoked cheese",
+      "amount": "1 cup",
+      "notes": "Crumbly smoked cheese"
+    },
+    {
+      "name": "Nourishing breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Whole wheat breadcrumbs"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten egg"
+    },
+    {
+      "name": "Norwegian black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground pepper"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "Freshly squeezed lemon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the salmon fillets with salt and pepper.",
+    "In a bowl, mix together smoked cheese, breadcrumbs, and a pinch of salt.",
+    "Dip each salmon fillet in the beaten egg and then coat in the cheese mixture, pressing gently to adhere.",
+    "Place the coated salmon fillets on the grill and cook for 4-5 minutes per side, or until cooked through.",
+    "Remove from grill and serve with a squeeze of lemon and a side of your choice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "salmon",
+    "cheese",
+    "smoky",
+    "nordic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-norwegian-cheese-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:35:05.281Z"
+}
