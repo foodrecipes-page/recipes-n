@@ -1,0 +1,80 @@
+{
+  "slug": "nourishing-smoky-norwegian-cheese-grill--gluten-free",
+  "title": "Grilled Norwegian Salmon with Smoky Cheese Crust",
+  "description": "A flavorful and healthy salmon dish, topped with a smoky cheese crust, perfect for a gluten-free dinner.",
+  "cuisine": "norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "smoked cheddar cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": "for crust"
+    },
+    {
+      "name": "gluten-free breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "for crust"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing salmon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove",
+      "notes": "for marinade"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season salmon with salt and pepper.",
+    "In a small bowl, mix together smoked cheddar cheese and gluten-free breadcrumbs.",
+    "Brush salmon with olive oil and place on grill.",
+    "Cook salmon for 4-5 minutes per side, or until cooked through.",
+    "While salmon is cooking, mix together lemon juice and minced garlic.",
+    "Brush lemon juice mixture on salmon during last minute of cooking.",
+    "Top cooked salmon with cheese crust and return to grill for 1 minute.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "salmon",
+    "smoky",
+    "cheese",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-norwegian-cheese-grill--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:00:41.720Z"
+}
