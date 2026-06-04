@@ -1,0 +1,75 @@
+{
+  "slug": "nutty-fluffy-chinese-rice-bake--thai",
+  "title": "Thai-Style Coconut Rice",
+  "description": "A simple and flavorful Thai dish made with coconut milk, fluffy rice, and a hint of nutty spices.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat canned coconut milk"
+    },
+    {
+      "name": "fluffy rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "chinese sausage",
+      "amount": "1/2 cup",
+      "notes": " Thai-style sweet sausages"
+    },
+    {
+      "name": "nutty peanuts",
+      "amount": "1/4 cup",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a medium saucepan over medium heat.",
+    "Add onion and garlic and sauté until softened, about 3-4 minutes.",
+    "Add Chinese sausage and cook, breaking up with a spoon, until browned, about 4-5 minutes.",
+    "Add coconut milk and bring to a simmer.",
+    "Add fluffy rice and stir to coat with coconut milk mixture.",
+    "Reduce heat to low, cover, and cook for 15-20 minutes, or until rice is cooked and liquid has been absorbed.",
+    "Stir in nutty peanuts and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "rice",
+    "coconutmilk",
+    "glutenfree"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 17
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-fluffy-chinese-rice-bake--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:39:45.258Z"
+}
