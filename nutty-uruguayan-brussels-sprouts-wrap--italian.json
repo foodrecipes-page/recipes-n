@@ -1,0 +1,74 @@
+{
+  "slug": "nutty-uruguayan-brussels-sprouts-wrap--italian",
+  "title": "Uruguayan Wrap with Nutty Sprouts",
+  "description": "A unique Italian-inspired wrap filled with sautéed Brussels sprouts and crunchy nuts, perfect for a quick snack.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound"
+    },
+    {
+      "name": "nutty (almonds or walnuts)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the olive oil, minced garlic, salt, and pepper to the skillet.",
+    "Sauté the Brussels sprouts until tender and slightly browned, about 5-7 minutes.",
+    "Add the chopped nuts to the skillet and cook for an additional 2 minutes.",
+    "Warm the large flour tortilla in the microwave for 10-15 seconds.",
+    "Assemble the wrap by placing the sautéed sprouts and nuts onto the tortilla.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap to enclose.",
+    "Cut the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "wrap",
+    "sprouts"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-uruguayan-brussels-sprouts-wrap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:22:41.302Z"
+}
