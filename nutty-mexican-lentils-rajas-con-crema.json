@@ -1,0 +1,73 @@
+{
+  "slug": "nutty-mexican-lentils-rajas-con-crema",
+  "title": "Rajas con Lentil Soup",
+  "description": "A hearty soup combining the flavors of Mexico with the comfort of lentils. Simple and nutritious.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup dried",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "rajas",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "con",
+      "amount": "2 cups vegetable broth",
+      "notes": ""
+    },
+    {
+      "name": "nutty",
+      "amount": "1 tsp cumin",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Sauté onion and garlic until softened.",
+    "Add lentils and con. Bring to a boil.",
+    "Reduce heat and simmer for 20 minutes.",
+    "Stir in rajas and cook for 5 minutes.",
+    "Season with nutty.",
+    "Serve hot, garnished with crema if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "lentil",
+    "mexican",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-mexican-lentils-rajas-con-crema",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:11:25.205Z"
+}
