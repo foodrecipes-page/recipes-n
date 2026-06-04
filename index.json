@@ -12396,18 +12396,14 @@
   },
   {
     "slug": "nutty-chewy-ethiopian-teff-injera",
-    "title": "Nutty Chewy Ethiopian Teff Injera",
+    "title": "Ethiopian Injera Bread",
     "tags": [
       "ethiopian",
-      "teff",
-      "injera",
       "gluten-free",
-      "vegan",
-      "jain",
-      "breakfast"
+      "bread"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -15434,18 +15430,16 @@
   },
   {
     "slug": "nutty-light-chinese-noodle-dish",
-    "title": "Nutty Light Chinese Noodle Dish",
+    "title": "Light Chinese Noodle Dish",
     "tags": [
       "chinese",
-      "noodle-dish",
-      "one-pot",
-      "tamasic-friendly",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "easy",
+      "quick",
+      "dinner",
+      "vegetarian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -17364,17 +17358,15 @@
   },
   {
     "slug": "nutty-sweet-canadian-sugar-wrap",
-    "title": "Nutty Sweet Canadian Sugar Wrap",
+    "title": "Nutty Canadian Wrap",
     "tags": [
-      "canadian",
-      "corn-husk",
-      "date-night",
-      "keto",
-      "sugar",
-      "wrap"
+      "nutty",
+      "sweet",
+      "dessert",
+      "wraps"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
