@@ -1,0 +1,90 @@
+{
+  "slug": "nutty-velvety-brazilian-myeolchi-poke",
+  "title": "Velvety Poke Bowl",
+  "description": "A refreshing poke bowl made with velvety tofu and topped with a tangy sauce. Perfect for a light lunch or dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Velvety Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": null
+    },
+    {
+      "name": "Miso",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Brazilian-Style Sea Salt",
+      "amount": "1/4 tsp",
+      "notes": "adds a nice depth of flavor"
+    },
+    {
+      "name": "Myeolchi (Korean Mung Bean Sprouts)",
+      "amount": "1 cup",
+      "notes": "adds a nice crunch and texture"
+    },
+    {
+      "name": "Chopped Green Onions",
+      "amount": "1/4 cup",
+      "notes": "adds a nice freshness"
+    },
+    {
+      "name": "Toasted Sesame Seeds",
+      "amount": "1 tbsp",
+      "notes": "adds a nice nutty flavor"
+    },
+    {
+      "name": "Poke Sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Cut the velvety tofu into small cubes.",
+    "In a medium bowl, whisk together the miso, rice vinegar, and soy sauce.",
+    "Add the Brazilian-Style Sea Salt and whisk until dissolved.",
+    "Add the chopped green onions and toasted sesame seeds to the bowl and mix well.",
+    "Add the cubed tofu to the bowl and toss to coat with the sauce.",
+    "Divide the cooked rice into bowls and top with the tofu mixture.",
+    "Add the myeolchi, poke sauce, and any additional toppings you like.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "tofu",
+    "poke",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-velvety-brazilian-myeolchi-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:26:00.987Z"
+}
