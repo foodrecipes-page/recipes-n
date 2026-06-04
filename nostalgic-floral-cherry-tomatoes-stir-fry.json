@@ -1,0 +1,70 @@
+{
+  "slug": "nostalgic-floral-cherry-tomatoes-stir-fry",
+  "title": "Floral Cherry Blossom Stir Fry",
+  "description": "A delicate and tasty stir fry dish inspired by the beauty of cherry blossoms. This dish is light, refreshing and perfect for spring.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "noodles (rice or soba)",
+      "amount": "1/2 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "you can use store-bought or homemade"
+    },
+    {
+      "name": "floral honey",
+      "amount": "1 teaspoon",
+      "notes": "add sweetness and floral flavor"
+    },
+    {
+      "name": "cherry blossoms (dried or edible flowers)",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the halved cherry tomatoes and cook for 2-3 minutes, or until they start to release their juices.",
+    "Add the cooked noodles and stir-fry sauce to the skillet. Cook for an additional 2-3 minutes, stirring constantly.",
+    "Stir in the floral honey and cook for 1 minute, until the sauce is bubbly and slightly thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the stir-fry to a serving platter and garnish with dried cherry blossoms or edible flowers, if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cherry-blossom",
+    "spring",
+    "stir-fry",
+    "noodles",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-floral-cherry-tomatoes-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:03:25.339Z"
+}
