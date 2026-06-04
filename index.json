@@ -3656,16 +3656,17 @@
   },
   {
     "slug": "nostalgic-floral-cherry-tomatoes-stir-fry",
-    "title": "Nostalgic Floral Cherry Tomatoes Stir-fry",
+    "title": "Floral Cherry Blossom Stir Fry",
     "tags": [
-      "nostalgic-floral",
-      "crisp",
-      "cherry-tomatoes",
+      "cherry-blossom",
+      "spring",
       "stir-fry",
-      "halal-friendly"
+      "noodles",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 30,
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -18644,6 +18645,33 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-venezuelan-peanuts-stew--indian",
+    "title": "Venezuelan Peanut Stew",
+    "tags": [
+      "indian",
+      "stew",
+      "peanuts",
+      "velezuelan"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-paneer-sweet--gluten-free",
+    "title": "Sweet Paneer Nutty Delight",
+    "tags": [
+      "dessert",
+      "gluten-free",
+      "sweet",
+      "paneer",
+      "nutty"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "n"
   }
 ]
