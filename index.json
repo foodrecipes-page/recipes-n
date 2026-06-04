@@ -15751,16 +15751,15 @@
   },
   {
     "slug": "nutty-mexican-lentils-rajas-con-crema",
-    "title": "Nutty Mexican Lentils Rajas Con Crema",
+    "title": "Rajas con Lentil Soup",
     "tags": [
-      "flexitarian-friendly",
-      "lentil-recipes",
-      "mexican-food",
-      "one-pot-meals",
-      "vegetarian-options"
+      "soup",
+      "lentil",
+      "mexican",
+      "vegan"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -18672,6 +18671,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 15,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-fluffy-chinese-rice-bake--thai",
+    "title": "Thai-Style Coconut Rice",
+    "tags": [
+      "thaicuisine",
+      "rice",
+      "coconutmilk",
+      "glutenfree"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "n"
   }
 ]
