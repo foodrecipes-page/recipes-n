@@ -3545,17 +3545,16 @@
   },
   {
     "slug": "nostalgic-british-leek-gratin",
-    "title": "Nostalgic British Leek Gratin",
+    "title": "Classic British Leek Gratin",
     "tags": [
       "british",
-      "cheese",
       "comfort-food",
-      "egg-free",
-      "leek",
-      "one-pan"
+      "sides",
+      "vegetarian",
+      "leeks"
     ],
     "cuisine": "British",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -12437,18 +12436,14 @@
   },
   {
     "slug": "nutty-chewy-irish-beef-stir-fry",
-    "title": "Nutty, Chewy Irish Beef Stir-Fry",
+    "title": "Irish Beef and Nutty Stir Fry",
     "tags": [
-      "irish",
       "beef",
-      "stir-fry",
-      "bok-choi",
-      "nutty",
-      "chewy",
-      "solo-dinner"
+      "irish",
+      "stir-fry"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -18697,6 +18692,19 @@
     ],
     "cuisine": "norwegian",
     "totalTimeMin": 18,
+    "shard": "n"
+  },
+  {
+    "slug": "nurturing-korean-pomegranate-jjigae--german",
+    "title": "Pomegranate Braised Jjigae German-Style",
+    "tags": [
+      "german",
+      "korean",
+      "pomegranate",
+      "braised"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
     "shard": "n"
   }
 ]
