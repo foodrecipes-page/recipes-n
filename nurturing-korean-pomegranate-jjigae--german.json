@@ -1,0 +1,87 @@
+{
+  "slug": "nurturing-korean-pomegranate-jjigae--german",
+  "title": "Pomegranate Braised Jjigae German-Style",
+  "description": "A creative twist on traditional German braises, incorporating the bold flavors of Korean jjigae and the sweetness of pomegranate.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pomegranate Molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Nurturing Pork Belly",
+      "amount": "1 lb, cut into 2-inch pieces",
+      "notes": "Look for pork belly with a thick layer of fat for this recipe."
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "German Mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork belly in batches, removing it from the pot as it browns.",
+    "Add the onions, garlic, carrots, and potatoes to the pot, cooking until the vegetables are tender.",
+    "Add the browned pork belly, Korean chili flakes, German mustard, brown sugar, beer, Worcestershire sauce, and pomegranate molasses to the pot.",
+    "Bring the mixture to a simmer, then cover the pot and transfer it to the oven.",
+    "Braise the mixture for 2.5 hours, or until the meat is tender and the sauce has thickened.",
+    "Serve the braised jjigae hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "korean",
+    "pomegranate",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nurturing-korean-pomegranate-jjigae--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:28:24.840Z"
+}
