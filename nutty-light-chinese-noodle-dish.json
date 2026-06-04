@@ -1,0 +1,81 @@
+{
+  "slug": "nutty-light-chinese-noodle-dish",
+  "title": "Light Chinese Noodle Dish",
+  "description": "A quick and easy Chinese-inspired noodle dish with a light sauce, perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Light Noodle",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Nutty Chinese Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sliced Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced Carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced Bell Peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add mushrooms, carrots, and bell peppers, and cook until tender.",
+    "Add Chinese sauce and stir to combine.",
+    "Add cooked noodles to the skillet and stir to combine.",
+    "Season with soy sauce, salt, and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "easy",
+    "quick",
+    "dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-light-chinese-noodle-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:50:23.629Z"
+}
