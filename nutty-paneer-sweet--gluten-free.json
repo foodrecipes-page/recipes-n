@@ -1,0 +1,57 @@
+{
+  "slug": "nutty-paneer-sweet--gluten-free",
+  "title": "Sweet Paneer Nutty Delight",
+  "description": "A delicious and easy-to-make dessert made with paneer, sweet ingredients, and nutty goodness. Perfect for gluten-free diets.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "Cubed"
+    },
+    {
+      "name": "sweet",
+      "amount": "150g",
+      "notes": "Pure maple syrup"
+    },
+    {
+      "name": "nutty",
+      "amount": "50g",
+      "notes": "Chopped almonds"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, combine paneer, sweet and nutty ingredients.",
+    "2. Cook over medium heat, stirring constantly, until the mixture is smooth and well combined.",
+    "3. Reduce heat to low and simmer for 5 minutes.",
+    "4. Remove from heat and let cool to room temperature.",
+    "5. Refrigerate for at least 2 hours or until chilled.",
+    "6. Serve cold, garnished with additional chopped nuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "sweet",
+    "paneer",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-paneer-sweet--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:00:29.002Z"
+}
