@@ -1,0 +1,58 @@
+{
+  "slug": "nutty-sweet-canadian-sugar-wrap",
+  "title": "Nutty Canadian Wrap",
+  "description": "A tasty dessert wrap filled with a sweet and nutty filling.",
+  "cuisine": null,
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nutty",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweet",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "canadian sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "wrap",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine nutty and sweet.",
+    "Add 2 tbsp of Canadian sugar and mix well.",
+    "Unfold the wrap and spread the nutty sweet mixture evenly.",
+    "Fold the wrap into a triangle and bake for 10 minutes.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "sweet",
+    "dessert",
+    "wraps"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-sweet-canadian-sugar-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:51:28.148Z"
+}
