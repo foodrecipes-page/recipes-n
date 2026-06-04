@@ -1,0 +1,65 @@
+{
+  "slug": "nutty-chewy-ethiopian-teff-injera",
+  "title": "Ethiopian Injera Bread",
+  "description": "A traditional Ethiopian flatbread made from teff flour, perfect for sopping up stews and salads.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "nutty injera starter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chewy injera starter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine teff flour and salt.",
+    "Gradually add water while mixing the batter with a wooden spoon until it becomes smooth and thick.",
+    "Add nutty and chewy injera starters and mix well.",
+    "Cover the bowl with a cloth and let the mixture rest in a warm, draft-free place for 24-48 hours.",
+    "After the resting time, preheat a non-stick skillet or injera pan over medium heat.",
+    "Pour a small amount of the batter onto the skillet and tilt it to evenly coat the surface.",
+    "Cook the injera for 1-2 minutes, until the edges start to curl and the surface is dry.",
+    "Flip the injera and cook for another minute.",
+    "Repeat with the remaining batter, adjusting the heat as needed to prevent burning.",
+    "Serve the injera hot with your favorite stews and salads."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "gluten-free",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-chewy-ethiopian-teff-injera",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:12:58.298Z"
+}
