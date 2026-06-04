@@ -1309,16 +1309,16 @@
   },
   {
     "slug": "nectarine-poached-light-elixir",
-    "title": "Nectarine Poached Light Elixir",
+    "title": "Poached Nectarine Elixir",
     "tags": [
+      "summer",
+      "dessert",
       "nectarine",
       "poached",
-      "light",
-      "elixir",
-      "whole30"
+      "refreshing"
     ],
     "cuisine": "American",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -18705,6 +18705,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 170,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-light-portuguese-shiitake-mushrooms-skillet--vegetarian",
+    "title": "Portuguese Shiitake and Mushroom Skillet",
+    "tags": [
+      "portuguese",
+      "vegetarian",
+      "skillet",
+      "mushroom"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 25,
     "shard": "n"
   }
 ]
