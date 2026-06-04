@@ -1,0 +1,84 @@
+{
+  "slug": "nutty-chewy-irish-beef-stir-fry",
+  "title": "Irish Beef and Nutty Stir Fry",
+  "description": "A hearty and flavorful stir fry dish combining tender beef and crunchy nuts with a variety of vegetables.",
+  "cuisine": "Irish",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "chewy",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes.",
+    "Remove beef from skillet and set aside.",
+    "Add onion, garlic, and bell pepper to skillet and cook until tender, about 5 minutes.",
+    "Add soy sauce and stir to combine.",
+    "Return beef to skillet and stir to coat with soy sauce mixture.",
+    "Add chewy and nutty to skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until nuts are toasted.",
+    "Serve hot and enjoy!",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "irish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-chewy-irish-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:05:25.914Z"
+}
