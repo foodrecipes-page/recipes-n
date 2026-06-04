@@ -18719,5 +18719,32 @@
     "cuisine": "portuguese",
     "totalTimeMin": 25,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-ethiopian-mozzarella-jjigae--french",
+    "title": "Crispy Ethiopian Mozzarella Croquettes",
+    "tags": [
+      "french",
+      "cheese",
+      "ethiopian",
+      "crispy",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 32,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-uruguayan-brussels-sprouts-wrap--italian",
+    "title": "Uruguayan Wrap with Nutty Sprouts",
+    "tags": [
+      "italian",
+      "snack",
+      "wrap",
+      "sprouts"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 20,
+    "shard": "n"
   }
 ]
