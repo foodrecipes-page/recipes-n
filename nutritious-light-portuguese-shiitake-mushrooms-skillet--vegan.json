@@ -1,0 +1,76 @@
+{
+  "slug": "nutritious-light-portuguese-shiitake-mushrooms-skillet--vegan",
+  "title": "Portuguese Vegan Mushroom Skillet",
+  "description": "A flavorful and nutritious vegan skillet dish inspired by traditional Portuguese cuisine, featuring shiitake mushrooms as the main ingredient.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Nutritious mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the light olive oil in a large skillet over medium heat.",
+    "Add the diced onion and cook for 3-4 minutes, until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced shiitake and nutritious mushrooms and cook for 5-6 minutes, until the mushrooms release their liquid and start to brown.",
+    "Season with salt to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "portuguese",
+    "mushroom",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-light-portuguese-shiitake-mushrooms-skillet--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:37:49.378Z"
+}
