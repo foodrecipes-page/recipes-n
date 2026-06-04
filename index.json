@@ -3490,15 +3490,14 @@
   },
   {
     "slug": "nostalgic-aerated-irish-bellflower-root-doraji-confit",
-    "title": "Nostalgic Aerated Irish Bellflower-Root-Doraji Confit",
+    "title": "Pan-Seared Irish Confit with Root Vegetables",
     "tags": [
       "comfort-food",
-      "irish",
-      "one-pan",
-      "pescatarian"
+      "irish-cuisine",
+      "winter-recipe"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 32,
+    "cuisine": "irish",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -13232,17 +13231,15 @@
   },
   {
     "slug": "nutty-crispy-turkish-lamb-tagine",
-    "title": "Nutty Crispy Turkish Lamb Tagine",
+    "title": "Lamb Tagine with Crispy Crunch",
     "tags": [
-      "date-night",
-      "lamb-recipes",
-      "one-pot",
-      "paleo-friendly",
-      "special-occasion",
-      "turkish-food"
+      "moroccan",
+      "lamb",
+      "couscous",
+      "tagine"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 180,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 140,
     "shard": "n"
   },
   {
@@ -18694,6 +18691,20 @@
     ],
     "cuisine": "portuguese",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-norwegian-cheese-grill--gluten-free",
+    "title": "Grilled Norwegian Salmon with Smoky Cheese Crust",
+    "tags": [
+      "grilled",
+      "salmon",
+      "smoky",
+      "cheese",
+      "gluten-free"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 18,
     "shard": "n"
   }
 ]
