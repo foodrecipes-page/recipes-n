@@ -1,0 +1,73 @@
+{
+  "slug": "nostalgic-aerated-irish-bellflower-root-doraji-confit",
+  "title": "Pan-Seared Irish Confit with Root Vegetables",
+  "description": "A hearty and comforting dish combining the rich flavors of Irish confit with the earthiness of root vegetables. Pan-searing adds a crispy texture to the confit while locking in its juices.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish confit",
+      "amount": "1/2 pound",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Beets",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and chop the carrots, beets, and onions into bite-sized pieces.",
+    "In a large bowl, toss the chopped vegetables with 2 tablespoons of olive oil, salt, and pepper until they are evenly coated.",
+    "Spread the vegetables on a baking sheet and roast in the oven for 20-25 minutes, or until tender.",
+    "While the vegetables are roasting, heat a skillet over medium-high heat.",
+    "Add the Irish confit to the skillet and sear for 2-3 minutes on each side, or until crispy and golden brown.",
+    "Add the garlic and thyme to the skillet and cook for an additional minute.",
+    "Serve the pan-seared confit with the roasted vegetables.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-aerated-irish-bellflower-root-doraji-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:33:39.589Z"
+}
