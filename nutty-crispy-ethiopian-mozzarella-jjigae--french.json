@@ -1,0 +1,76 @@
+{
+  "slug": "nutty-crispy-ethiopian-mozzarella-jjigae--french",
+  "title": "Crispy Ethiopian Mozzarella Croquettes",
+  "description": "A crispy French-inspired twist on traditional cheese croquettes, incorporating the flavors of Ethiopia.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "jjigae (Ethiopian chili paste)",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "nutty cheese (or mozzarella)",
+      "amount": "1 cup, shredded",
+      "notes": "any melty cheese works"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "crispy breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "a pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together jjigae paste, nutty cheese, flour, and eggs until well combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Heat a non-stick pan with a small amount of oil over medium heat.",
+    "Using a spoon, drop small portions of the cheese mixture into the pan.",
+    "Shape the mixture into small patties. If the mixture is too wet, add a bit more flour.",
+    "Fry the patties until they're golden brown on both sides.",
+    "Transfer the croquettes to a plate lined with paper towels to drain excess oil.",
+    "Dip the croquettes in crispy breadcrumbs for an added crunch.",
+    "Serve the crispy Ethiopian mozzarella croquettes immediately and enjoy!",
+    "Optional: sprinkle with a pinch of nutmeg for extra flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "cheese",
+    "ethiopian",
+    "crispy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-ethiopian-mozzarella-jjigae--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:20:34.263Z"
+}
