@@ -13860,13 +13860,14 @@
   },
   {
     "slug": "nutty-dense-canadian-oat-pilaf",
-    "title": "Nutty Dense Canadian Oat Pilaf",
+    "title": "Canadian Oat Pilaf",
     "tags": [
-      "nutty-dense-canadian-pilaf",
-      "egg-free-friendly"
+      "oatmeal",
+      "pilaf",
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 7,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
