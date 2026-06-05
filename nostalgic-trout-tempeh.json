@@ -1,0 +1,78 @@
+{
+  "slug": "nostalgic-trout-tempeh",
+  "title": "Pan-Seared Trout with Tempeh Crust",
+  "description": "A twist on a classic dish, where tempeh replaces breadcrumbs, adding protein and earthy flavor to the pan-seared trout.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": "6 ounces each"
+    },
+    {
+      "name": "tempeh",
+      "amount": "1 package",
+      "notes": "crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the trout fillets with salt and pepper.",
+    "3. In a food processor, crumble the tempeh into small pieces.",
+    "4. In a bowl, mix together the crumbled tempeh, minced garlic, and a pinch of salt and pepper.",
+    "5. Dip each trout fillet into the tempeh mixture, coating both sides evenly.",
+    "6. Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "7. Sear the trout fillets for 2-3 minutes on each side, or until golden brown.",
+    "8. Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "9. Remove the trout from the oven and squeeze a sliver of lemon juice over each fillet.",
+    "10. Serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-trout-tempeh",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:23:49.769Z"
+}
