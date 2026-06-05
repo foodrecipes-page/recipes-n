@@ -18776,5 +18776,43 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "n"
+  },
+  {
+    "slug": "nourishing-uruguayan-steak-empanadas--japanese",
+    "title": "Uruguayan Steak Empanadas with Japanese Twist",
+    "tags": [
+      "uruguayan",
+      "japanese",
+      "steak",
+      "empanadas",
+      "appetizer"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nectarine-poached-light-elixir--french",
+    "title": "French Nectarine Crumble",
+    "tags": [
+      "french",
+      "dessert",
+      "nectarine"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-syrian-fish-flatbread--vegan",
+    "title": "Syrian Vegan Flatbread",
+    "tags": [
+      "syrian",
+      "flatbread",
+      "vegan"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 15,
+    "shard": "n"
   }
 ]
