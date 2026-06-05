@@ -1,0 +1,78 @@
+{
+  "slug": "nutty-crisp-mediterranean-lamb-kebabs",
+  "title": "Lamb Kebabs with Mediterranean Flair",
+  "description": "A flavorful and healthy dish featuring lamb kebabs marinated in a mix of Mediterranean herbs and spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb (cut into kebab pieces)",
+      "amount": "500g",
+      "notes": "preferably shoulder or leg"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Crushed nutty breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "for coating kebabs"
+    },
+    {
+      "name": "Crushed crisp lettuce leaves",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "2 tsp",
+      "notes": "or homemade mix of oregano, thyme, and rosemary"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill or grill pan to medium-high heat.",
+    "In a bowl, mix together olive oil, Mediterranean seasoning, garlic, and mint leaves.",
+    "Add lamb pieces to the bowl and toss to coat with the marinade.",
+    "Thread the lamb onto skewers, leaving a little space between each piece.",
+    "Brush the kebabs with olive oil and sprinkle with crushed breadcrumbs.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until cooked to desired level of doneness.",
+    "Serve immediately, garnished with crushed crisp lettuce leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilling",
+    "lamb",
+    "mediterranean",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crisp-mediterranean-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:04:03.938Z"
+}
