@@ -4112,14 +4112,13 @@
   },
   {
     "slug": "nostalgic-trout-tempeh",
-    "title": "Nostalgic Trout Tempeh",
+    "title": "Pan-Seared Trout with Tempeh Crust",
     "tags": [
-      "nostalgic-trout-tempeh",
-      "savory-crunchy-canadian-dish",
-      "jain-friendly-cuisine"
+      "seafood",
+      "gluten-free"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 27,
     "shard": "n"
   },
   {
@@ -9521,17 +9520,15 @@
   },
   {
     "slug": "numbing-creamy-german-cabbage-stew",
-    "title": "Numbing Creamy German Cabbage Stew",
+    "title": "German Cabbage Stew",
     "tags": [
+      "german",
+      "stew",
       "comfort-food",
-      "fusion",
-      "low-carb",
-      "sick-day",
-      "spicy",
-      "stew"
+      "cabbage"
     ],
-    "cuisine": "German-Asian Fusion",
-    "totalTimeMin": 45,
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -12865,17 +12862,15 @@
   },
   {
     "slug": "nutty-crisp-mediterranean-lamb-kebabs",
-    "title": "Nutty Crisp Mediterranean Lamb Kebabs",
+    "title": "Lamb Kebabs with Mediterranean Flair",
     "tags": [
-      "grilled",
-      "high-protein",
+      "grilling",
       "lamb",
       "mediterranean",
-      "one-pan",
-      "weeknight"
+      "healthy"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
