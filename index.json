@@ -14938,18 +14938,16 @@
   },
   {
     "slug": "nutty-gooey-spanish-shungiku-patatas-bravas",
-    "title": "Nutty Gooey Spanish Shungiku Patatas Bravas",
+    "title": "Patatas Bravas Bites",
     "tags": [
-      "clay-pot",
-      "gooey",
-      "nutty",
-      "one-pot",
-      "shojin",
-      "spanish",
+      "spain",
+      "potatoes",
+      "bravas",
+      "snack",
       "vegetarian"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -18744,6 +18742,19 @@
       "vegetarian"
     ],
     "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-light-russian-eggs-frittata--italian",
+    "title": "Italian Frittata with Eggs",
+    "tags": [
+      "italian",
+      "eggs",
+      "breakfast",
+      "frittata"
+    ],
+    "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "n"
   }
