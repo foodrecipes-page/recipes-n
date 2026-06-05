@@ -1,0 +1,81 @@
+{
+  "slug": "nectarine-poached-light-elixir--french",
+  "title": "French Nectarine Crumble",
+  "description": "A delicious French-inspired dessert featuring poached nectarines topped with a crumbly mixture and baked to perfection.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarine",
+      "amount": "3"
+    },
+    {
+      "name": "poached",
+      "amount": "1 cup",
+      "notes": "Reserved poaching liquid"
+    },
+    {
+      "name": "light",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "elixir",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bakers ground almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "1"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, combine the reserved poaching liquid, nectarine, and light. Heat over medium heat until the nectarine is tender.",
+    "In a separate bowl, combine the flour, sugar, and ground almonds.",
+    "Add the cold butter to the flour mixture and use a pastry blender or your fingers to work the butter into the mixture until it resembles coarse crumbs.",
+    "Press the crumb mixture evenly over the top of the nectarine mixture.",
+    "Bake for 25-30 minutes or until the topping is golden brown and the nectarine is bubbly.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Serve warm with a dollop of whipped cream or vanilla ice cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "nectarine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nectarine-poached-light-elixir--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:15:29.146Z"
+}
