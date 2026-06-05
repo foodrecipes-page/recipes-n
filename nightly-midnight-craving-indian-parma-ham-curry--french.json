@@ -1,0 +1,80 @@
+{
+  "slug": "nightly-midnight-craving-indian-parma-ham-curry--french",
+  "title": "French Ham and Curry Frittata",
+  "description": "A French-inspired breakfast dish featuring ham and curry, perfect for a midnight craving.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Curry",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Nightly",
+      "amount": "2-3 eggs",
+      "notes": "adjust to serving size"
+    },
+    {
+      "name": "Indian",
+      "amount": "1/2 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "Midnight",
+      "amount": "1/4 tsp",
+      "notes": "ground turmeric"
+    },
+    {
+      "name": "Craving",
+      "amount": "Salt and pepper to taste",
+      "notes": ""
+    },
+    {
+      "name": "Parma",
+      "amount": "1 cup",
+      "notes": "shredded cheese (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk eggs, cumin, turmeric, salt, and pepper in a bowl.",
+    "Add the sliced ham and mix well.",
+    "Pour the egg mixture into a greased skillet.",
+    "Cook over medium heat until the eggs start to set.",
+    "Transfer the skillet to the preheated oven.",
+    "Bake for 12-15 minutes or until the eggs are set.",
+    "Remove from the oven and sprinkle with shredded cheese (if using).",
+    "Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "french",
+    "eggs",
+    "ham",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nightly-midnight-craving-indian-parma-ham-curry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:26:56.127Z"
+}
