@@ -11287,18 +11287,15 @@
   },
   {
     "slug": "nutritious-nourishing-middle-eastern-grains-mujaddara",
-    "title": "Nutritious Nourishing Middle-Eastern Grains Mujaddara",
+    "title": "Classic Mujaddara",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "gluten-free",
-      "middle-eastern",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "mujaddara",
+      "middle eastern",
+      "lentil",
+      "rice"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -18736,6 +18733,18 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nostalgic-aerated-irish-bellflower-root-doraji-confit--thai",
+    "title": "Coconut Doraji Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "n"
   }
 ]
