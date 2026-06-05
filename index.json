@@ -3204,16 +3204,15 @@
   },
   {
     "slug": "noble-mexican-noodles-horchata",
-    "title": "Noble Mexican Noodles Horchata",
+    "title": "Creamy Horchata Panna Cotta",
     "tags": [
+      "mexican",
       "dessert",
-      "easy-to-prepare",
-      "high-protein",
-      "keto-friendly",
-      "molten"
+      "horchata",
+      "creamy"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 23,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
