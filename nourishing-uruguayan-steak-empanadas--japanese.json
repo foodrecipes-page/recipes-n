@@ -1,0 +1,79 @@
+{
+  "slug": "nourishing-uruguayan-steak-empanadas--japanese",
+  "title": "Uruguayan Steak Empanadas with Japanese Twist",
+  "description": "A fusion of Japanese flavors in traditional Uruguayan empanadas filled with steak. Perfect as a snack or appetizer.",
+  "cuisine": "japanese",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "steak (ribeye)",
+      "amount": "300g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "uruguayan cheese (queso fresco)",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "japanese soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "for empanada egg wash"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing empanadas"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, whisk together flour, soy sauce, and egg. Mix until a dough forms. Knead for 5 minutes.",
+    "Divide dough into 8 equal pieces. Roll out each piece into a thin circle.",
+    "Place a tablespoon of steak, cheese, and green onions in the center of each dough circle. Fold the dough in half and press edges to seal.",
+    "Brush egg wash on top of empanadas and sprinkle with sesame seeds.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "japanese",
+    "steak",
+    "empanadas",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-uruguayan-steak-empanadas--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:18:41.266Z"
+}
