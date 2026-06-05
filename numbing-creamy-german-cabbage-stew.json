@@ -1,0 +1,66 @@
+{
+  "slug": "numbing-creamy-german-cabbage-stew",
+  "title": "German Cabbage Stew",
+  "description": "A hearty and comforting stew featuring tender cabbage and a rich creamy sauce.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head, chopped"
+    },
+    {
+      "name": "german",
+      "amount": "1 packet of german seasoning blend",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup of beef broth",
+      "notes": "you can use vegetable broth for a vegetarian option"
+    },
+    {
+      "name": "numbing",
+      "amount": "1 teaspoon of caraway seeds",
+      "notes": "optional, for added depth of flavor"
+    },
+    {
+      "name": "creamy",
+      "amount": "1/2 cup of sour cream",
+      "notes": "adjust to desired creaminess"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped cabbage and cook until tender, about 10 minutes.",
+    "Add the german seasoning blend, caraway seeds, and beef broth.",
+    "Bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "Stir in the sour cream and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "stew",
+    "comfort-food",
+    "cabbage"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/numbing-creamy-german-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:59:22.531Z"
+}
