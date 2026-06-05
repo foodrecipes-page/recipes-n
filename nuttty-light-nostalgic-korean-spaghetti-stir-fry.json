@@ -1,0 +1,68 @@
+{
+  "slug": "nuttty-light-nostalgic-korean-spaghetti-stir-fry",
+  "title": "Stir Fried Spaghetti",
+  "description": "A simple and quick spaghetti stir fry recipe that combines Asian flavors with Italian pasta.",
+  "cuisine": "Italian-Asian Fusion",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "nutty stir oil",
+      "amount": "2tbsp",
+      "notes": "Use any neutral oil like vegetable or canola oil"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "1tbsp",
+      "notes": "Adjust to taste for saltiness"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1tsp",
+      "notes": "Optional for some heat"
+    },
+    {
+      "name": "noodles garnish (optional)",
+      "amount": null,
+      "notes": "Chopped green onions or sesame seeds"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions.",
+    "Heat the nutty stir oil in a large skillet or wok over medium-high heat.",
+    "Add the light soy sauce and korean chili flakes, stir to combine.",
+    "Once the spaghetti is cooked, drain it and add it to the skillet or wok.",
+    "Stir fry the spaghetti in the sauce for 1-2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the stir fried spaghetti to a serving dish and garnish with noodles garnish (if using).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "asian-fusion",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nuttty-light-nostalgic-korean-spaghetti-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:56:19.956Z"
+}
