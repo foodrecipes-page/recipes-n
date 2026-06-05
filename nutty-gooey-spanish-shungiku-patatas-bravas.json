@@ -1,0 +1,70 @@
+{
+  "slug": "nutty-gooey-spanish-shungiku-patatas-bravas",
+  "title": "Patatas Bravas Bites",
+  "description": "Crunchy on the outside, fluffy on the inside, these bite-sized Spanish potato treats are smothered in a rich, nutty bravas sauce.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "nutty bravas sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "shungiku leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the potatoes and cook for 5-7 minutes, until golden brown.",
+    "Transfer the potatoes to a paper towel-lined plate to drain excess oil.",
+    "In a separate saucepan, heat the nutty bravas sauce over low heat.",
+    "Add the chopped shungiku leaves (if using) and stir to combine.",
+    "Dip each potato cube into the bravas sauce to coat.",
+    "Serve the patatas bravas bites hot, garnished with additional shungiku leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "spain",
+    "potatoes",
+    "bravas",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-gooey-spanish-shungiku-patatas-bravas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:43:35.127Z"
+}
