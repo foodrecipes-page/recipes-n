@@ -12454,18 +12454,14 @@
   },
   {
     "slug": "nutty-chewy-middle-eastern-yellow-split-pea-stew",
-    "title": "Nutty Chewy Middle Eastern Yellow Split Pea Stew",
+    "title": "Yellow Split Pea Stew",
     "tags": [
-      "middle-eastern",
       "stew",
-      "yellow-split-peas",
-      "nutty",
-      "chewy",
-      "halal",
+      "middle eastern",
       "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -18765,6 +18761,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 60,
+    "shard": "n"
+  },
+  {
+    "slug": "nightly-midnight-craving-indian-parma-ham-curry--french",
+    "title": "French Ham and Curry Frittata",
+    "tags": [
+      "breakfast",
+      "french",
+      "eggs",
+      "ham",
+      "curry"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "n"
   }
 ]
