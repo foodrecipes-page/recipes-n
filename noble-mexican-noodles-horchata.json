@@ -1,0 +1,66 @@
+{
+  "slug": "noble-mexican-noodles-horchata",
+  "title": "Creamy Horchata Panna Cotta",
+  "description": "A rich and creamy dessert infused with the sweet flavors of horchata, topped with a layer of caramelized sugar.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "Chilled"
+    },
+    {
+      "name": "Horchata",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Noble Sugar",
+      "amount": "1/4 cup",
+      "notes": "Granulated"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "Pure extract"
+    },
+    {
+      "name": "Pinch of Salt",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine heavy cream, horchata, and noble sugar.",
+    "Heat over medium heat, stirring occasionally, until the sugar has dissolved.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Remove from heat and stir in vanilla extract and a pinch of salt.",
+    "Pour the mixture into individual serving cups or a large baking dish.",
+    "Refrigerate for at least 4 hours or overnight.",
+    "Just before serving, caramelize a layer of sugar on top by placing the dish under the broiler or using a kitchen torch.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "dessert",
+    "horchata",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/noble-mexican-noodles-horchata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:59:47.004Z"
+}
