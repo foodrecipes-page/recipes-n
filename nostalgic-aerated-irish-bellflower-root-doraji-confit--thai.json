@@ -1,0 +1,71 @@
+{
+  "slug": "nostalgic-aerated-irish-bellflower-root-doraji-confit--thai",
+  "title": "Coconut Doraji Stir Fry",
+  "description": "A Thai-inspired stir fry dish featuring doraji and bellflower, served with a side of nostalgic crispy fried noodles.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "doraji",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "bellflower",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "aerated oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "irish onion",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "root vegetable",
+      "amount": "1 cup, peeled and diced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confit",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of aerated oil in a pan over medium heat.",
+    "Add the sliced irish onion and cook until softened.",
+    "Add the sliced doraji and bellflower, and cook for 3-4 minutes.",
+    "Add the diced root vegetable and cook for another 2-3 minutes.",
+    "Pour in the coconut milk and stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Stir in the confit and cook for 1 minute.",
+    "Season with salt to taste.",
+    "Serve hot with a side of crispy fried noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-aerated-irish-bellflower-root-doraji-confit--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:38:52.819Z"
+}
