@@ -7130,16 +7130,16 @@
   },
   {
     "slug": "nourishing-molten-kenyan-dish-pilaf",
-    "title": "Nourishing Molten Kenyan Pilaf",
+    "title": "Kenyan Chicken Pilaf",
     "tags": [
-      "comfort-food",
-      "kenyan-cuisine",
-      "keto",
-      "one-pan",
-      "sick-day"
+      "kenyan",
+      "chicken",
+      "pilaf",
+      "rice",
+      "spicy"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 65,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -15961,16 +15961,14 @@
   },
   {
     "slug": "nutty-new-style-greek-pork-gyro",
-    "title": "Nutty New-Style Greek Pork Gyro",
+    "title": "Greek-Style Pork Gyro",
     "tags": [
-      "easy-to-make",
       "greek",
-      "gyro",
-      "pork",
-      "weeknight"
+      "grill",
+      "pork"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 140,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
