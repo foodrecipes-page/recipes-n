@@ -1,0 +1,66 @@
+{
+  "slug": "nourishing-light-russian-eggs-frittata--italian",
+  "title": "Italian Frittata with Eggs",
+  "description": "A light and nourishing Italian-inspired frittata, perfect for any meal. This recipe features eggs as the main ingredient, combined with a blend of flavors and textures.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "large eggs"
+    },
+    {
+      "name": "light",
+      "amount": "1/4 cup",
+      "notes": "grated light cheese, such as mozzarella or parmesan"
+    },
+    {
+      "name": "rusian",
+      "amount": "1/2 cup",
+      "notes": "diced russian sausage, such as kielbasa"
+    },
+    {
+      "name": "nourishing",
+      "amount": "1 cup",
+      "notes": "chopped fresh spinach"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Add the grated light cheese and diced russian sausage to the bowl.",
+    "Stir in the chopped nourishing and season with pepper.",
+    "Heat a 9-inch (23cm) oven-safe skillet over medium heat.",
+    "Add the egg mixture to the skillet and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes, or until the frittata is set and golden brown.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to loosen the frittata from the skillet and slide it onto a plate.",
+    "Slice the frittata into wedges and serve hot.",
+    "Garnish with additional chopped nourishing, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "eggs",
+    "breakfast",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-light-russian-eggs-frittata--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:29:47.495Z"
+}
