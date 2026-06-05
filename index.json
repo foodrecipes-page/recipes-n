@@ -17411,17 +17411,14 @@
   },
   {
     "slug": "nutty-syrian-fish-flatbread",
-    "title": "Nutty Syrian Fish Flatbread",
+    "title": "Fish Tacos with Syrian Herbs",
     "tags": [
-      "gluten-free",
-      "kid-friendly",
-      "lunch-ideas",
-      "one-pan",
-      "pescatarian",
-      "syrian-cuisine"
+      "fish-tacos",
+      "syrian-herbs",
+      "flatbread"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 18,
     "shard": "n"
   },
   {
@@ -18756,6 +18753,18 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nostalgic-aerated-irish-bellflower-root-doraji-confit--gluten-free",
+    "title": "Irish Confit Root Tart",
+    "tags": [
+      "irish",
+      "dessert",
+      "root"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 60,
     "shard": "n"
   }
 ]
