@@ -9268,17 +9268,15 @@
   },
   {
     "slug": "nourishing-uruguayan-steak-empanadas",
-    "title": "Nourishing Uruguayan Steak Empanadas",
+    "title": "Uruguayan Empanadas with Grilled Steak",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "latin-american",
-      "meat-pie",
-      "one-pan",
-      "weeknight"
+      "uruguayan",
+      "empanadas",
+      "steak",
+      "beef"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
@@ -11743,14 +11741,14 @@
   },
   {
     "slug": "nuttty-light-nostalgic-korean-spaghetti-stir-fry",
-    "title": "Nuttty Light Nostalgic Korean Spaghetti Stir-fry",
+    "title": "Stir Fried Spaghetti",
     "tags": [
-      "korean-spaghetti-stir-fry",
-      "nostalgic-light-dish",
-      "pescatarian-friendly"
+      "italian",
+      "asian-fusion",
+      "quick-and-easy"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "cuisine": "Italian-Asian Fusion",
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
