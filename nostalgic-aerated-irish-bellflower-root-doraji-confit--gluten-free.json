@@ -1,0 +1,89 @@
+{
+  "slug": "nostalgic-aerated-irish-bellflower-root-doraji-confit--gluten-free",
+  "title": "Irish Confit Root Tart",
+  "description": "A twist on a classic dessert, this Irish confit root tart combines the sweetness of root with the depth of Irish confit.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Confit",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Root, peeled and sliced",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Aerated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Doraji, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nostalgic biscuits, gluten-free",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Irish butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bellflower honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the nostalgic biscuits and place in a tart pan.",
+    "In a separate bowl, mix together confit, sliced root, aerated sugar, doraji, and salt.",
+    "Pour the mixture into the tart shell.",
+    "Drizzle with Irish butter and bellflower honey.",
+    "Bake for 30 minutes or until the root is tender.",
+    "In a separate bowl, whisk together egg and a pinch of salt.",
+    "Pour the egg mixture over the tart.",
+    "Return to the oven and bake for an additional 10 minutes or until the egg is set.",
+    "Remove from the oven and let cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "dessert",
+    "root"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-aerated-irish-bellflower-root-doraji-confit--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:35:58.661Z"
+}
