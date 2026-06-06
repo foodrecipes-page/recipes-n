@@ -1,87 +1,89 @@
 {
   "slug": "nurturing-korean-pomegranate-jjigae--german",
-  "title": "Pomegranate Braised Jjigae German-Style",
-  "description": "A creative twist on traditional German braises, incorporating the bold flavors of Korean jjigae and the sweetness of pomegranate.",
+  "title": "Korean-Style Braised Short Ribs in German Beer",
+  "description": "A fusion dish that combines the rich flavors of Korea and Germany. Short ribs are slow-cooked in a spicy Korean-inspired sauce made with nurturing ingredients and finished with a sweet and tangy pomegranate glaze.",
   "cuisine": "german",
   "diet": [
-    "vegetarian"
+    "meat"
   ],
   "meal": "dinner",
   "ingredients": [
     {
+      "name": "Braising Short Ribs",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Nurturing Korean Chili Flakes (gochugaru)",
+      "amount": "2 teaspoons"
+    },
+    {
       "name": "Pomegranate Molasses",
-      "amount": "2 tbsp"
+      "amount": "2 tablespoons"
     },
     {
-      "name": "Nurturing Pork Belly",
-      "amount": "1 lb, cut into 2-inch pieces",
-      "notes": "Look for pork belly with a thick layer of fat for this recipe."
-    },
-    {
-      "name": "Korean Chili Flakes",
-      "amount": "1 tsp"
-    },
-    {
-      "name": "German Mustard",
-      "amount": "2 tbsp"
-    },
-    {
-      "name": "Brown Sugar",
-      "amount": "1 tbsp"
-    },
-    {
-      "name": "Beer",
+      "name": "German Beer (dark lager)",
       "amount": "1 cup"
     },
     {
-      "name": "Worcestershire Sauce",
-      "amount": "2 tbsp"
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "Onions",
-      "amount": "2 medium, chopped"
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon"
     },
     {
       "name": "Garlic",
-      "amount": "3 cloves, minced"
+      "amount": "3 cloves"
     },
     {
-      "name": "Carrots",
-      "amount": "2 medium, chopped"
+      "name": "Ginger",
+      "amount": "1 inch"
     },
     {
-      "name": "Potatoes",
-      "amount": "2 large, chopped"
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Korean Chili Paste (gochujang)",
+      "amount": "2 tablespoons"
     }
   ],
   "instructions": [
-    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
-    "Brown the pork belly in batches, removing it from the pot as it browns.",
-    "Add the onions, garlic, carrots, and potatoes to the pot, cooking until the vegetables are tender.",
-    "Add the browned pork belly, Korean chili flakes, German mustard, brown sugar, beer, Worcestershire sauce, and pomegranate molasses to the pot.",
-    "Bring the mixture to a simmer, then cover the pot and transfer it to the oven.",
-    "Braise the mixture for 2.5 hours, or until the meat is tender and the sauce has thickened.",
-    "Serve the braised jjigae hot, garnished with chopped fresh herbs if desired."
+    "Preheat the oven to 300°F (150°C).",
+    "Season the short ribs with salt and pepper.",
+    "Heat the sesame oil in a large Dutch oven over medium-high heat.",
+    "Sear the short ribs until browned on all sides, about 5 minutes.",
+    "Remove the short ribs from the pot and set aside.",
+    "Add the garlic and ginger to the pot and cook until fragrant, about 1 minute.",
+    "Add the Korean chili flakes, soy sauce, brown sugar, and beer to the pot.",
+    "Stir to combine and bring to a boil.",
+    "Return the short ribs to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the meat is tender.",
+    "Remove the pot from the oven and stir in the pomegranate molasses and Korean chili paste.",
+    "Simmer the sauce over medium heat until thickened, about 10 minutes.",
+    "Serve the short ribs with the spicy Korean-inspired sauce spooned over the top."
   ],
-  "prepTimeMin": 20,
+  "prepTimeMin": 15,
   "cookTimeMin": 150,
-  "totalTimeMin": 170,
+  "totalTimeMin": 165,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "hard",
   "tags": [
     "german",
     "korean",
     "pomegranate",
-    "braised"
+    "braised",
+    "short-ribs"
   ],
   "nutrition": {
     "calories": 720,
-    "protein": 45,
-    "carbs": 60,
+    "protein": 64,
+    "carbs": 30,
     "fat": 45
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/nurturing-korean-pomegranate-jjigae--german",
   "providerUsed": "groq",
-  "createdAt": "2026-06-01T16:28:24.840Z"
+  "createdAt": "2026-06-02T21:07:43.941Z"
 }
