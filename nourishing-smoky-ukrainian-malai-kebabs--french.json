@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-smoky-ukrainian-malai-kebabs--french",
+  "title": "Smoked Ukrainian Kebabs with Malai Sauce",
+  "description": "A fusion of Ukrainian and French flavors, these smoky kebabs are served with a creamy malai sauce, perfect for a summer evening.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked pork shoulder",
+      "amount": "500g",
+      "notes": "smoked in-house"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "malai sauce",
+      "amount": "200ml",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread pork, bell pepper, onion, and garlic onto skewers.",
+    "Brush with olive oil and season with salt and pepper.",
+    "Grill for 12-15 minutes or until cooked through.",
+    "Meanwhile, heat malai sauce in a small saucepan over low heat.",
+    "Stir in lemon juice and parsley.",
+    "Serve kebabs with malai sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "french-ukrainian",
+    "smoked-pork",
+    "malai-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-ukrainian-malai-kebabs--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:29:17.528Z"
+}
