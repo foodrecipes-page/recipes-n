@@ -1,0 +1,90 @@
+{
+  "slug": "nimble-roasted-syrian-lamb-kebabs",
+  "title": "Syrian Lamb Kebabs",
+  "description": "A flavorful and aromatic Syrian-style lamb kebab recipe, perfect for a quick dinner or outdoor barbecue.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "preferably leg of lamb, cut into 1-inch cubes"
+    },
+    {
+      "name": "Syrian",
+      "amount": "2 tbsp",
+      "notes": "Syrian spice blend"
+    },
+    {
+      "name": "Roasted",
+      "amount": "1 tbsp",
+      "notes": "roasted garlic paste"
+    },
+    {
+      "name": "Nimble",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine lamb, Syrian spice blend, roasted garlic paste, nimble, salt, and black pepper.",
+    "Mix well to combine and let marinate for at least 30 minutes.",
+    "Thread lamb onto skewers, leaving a small space between each piece.",
+    "Brush olive oil onto the grates.",
+    "Grill lamb kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Let rest for 5 minutes before serving.",
+    "Serve with chopped onion and bell pepper on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "lamb",
+    "kebab",
+    "grill",
+    "middle-eastern",
+    "barbecue"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-roasted-syrian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:44:07.345Z"
+}
