@@ -167,17 +167,15 @@
   },
   {
     "slug": "naturally-charred-argentinian-beef-skewers",
-    "title": "Naturally Charred Argentinian Beef Skewers",
+    "title": "Argentinian Beef Skewers",
     "tags": [
-      "argentinian-cuisine",
-      "beef-recipes",
-      "claypot-cooking",
-      "gluten-free",
-      "high-protein",
-      "weeknight"
+      "grilling",
+      "argentinian",
+      "beef",
+      "skewers"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -18672,15 +18670,16 @@
   },
   {
     "slug": "nurturing-korean-pomegranate-jjigae--german",
-    "title": "Pomegranate Braised Jjigae German-Style",
+    "title": "Korean-Style Braised Short Ribs in German Beer",
     "tags": [
       "german",
       "korean",
       "pomegranate",
-      "braised"
+      "braised",
+      "short-ribs"
     ],
     "cuisine": "german",
-    "totalTimeMin": 170,
+    "totalTimeMin": 165,
     "shard": "n"
   },
   {
