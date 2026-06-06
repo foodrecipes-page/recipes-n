@@ -1,0 +1,75 @@
+{
+  "slug": "nutty-australian-almonds-crumble",
+  "title": "Australian Crumble",
+  "description": "A simple and delicious dessert featuring a mix of almonds and nutty flavors topped with a crunchy crumble.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "crumble",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare a 9x9-inch baking dish.",
+    "Mix together the sliced almonds and chopped nutty in a bowl.",
+    "In a separate bowl, combine the flour and granulated sugar.",
+    "Add the cold unsalted butter to the flour mixture and mix until crumbly.",
+    "Press half of the crumb mixture into the prepared baking dish.",
+    "Add the almond mixture on top.",
+    "Top with the remaining crumb mixture.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "dessert",
+    "almonds",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-australian-almonds-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:43:32.641Z"
+}
