@@ -1,0 +1,64 @@
+{
+  "slug": "nutty-australian-almonds-crumble--german",
+  "title": "German Apple Crumble",
+  "description": "A classic German dessert featuring tender apples topped with a crunchy crumble made from almonds and a hint of nutty flavor.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "6-8 medium-sized apples, peeled and sliced"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1 cup sliced almonds"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1 cup all-purpose flour, 1/2 cup granulated sugar, 1/2 cup cold unsalted butter, crumbled"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp ground cinnamon",
+      "notes": "optional"
+    },
+    {
+      "name": "Vanilla",
+      "amount": "1/2 tsp vanilla extract",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine sliced apples, cinnamon, and vanilla extract. Mix well.",
+    "Transfer the apple mixture to a 9x9-inch baking dish.",
+    "In a separate bowl, mix together flour, sugar, and cold butter until crumbly.",
+    "Add sliced almonds to the crumble mixture and mix until well combined.",
+    "Spread the crumble mixture evenly over the apple mixture.",
+    "Bake for 40-45 minutes or until the topping is golden brown and the apples are tender.",
+    "Serve warm with vanilla ice cream or whipped cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "apple",
+    "crumble",
+    "almonds",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-australian-almonds-crumble--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:41:58.016Z"
+}
