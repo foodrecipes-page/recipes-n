@@ -1,0 +1,89 @@
+{
+  "slug": "nimble-roasted-syrian-lamb-kebabs--thai",
+  "title": "Thai-Style Lamb Kebabs",
+  "description": "A flavorful and spicy recipe featuring lamb skewers, marinated in a mixture of Thai red curry paste, fish sauce, and lime juice. Perfect for a quick and delicious meal.",
+  "cuisine": "thai",
+  "diet": [
+    "pork-free",
+    "fish-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": "Use a gluten-free option if needed"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the kebabs"
+    },
+    {
+      "name": "Syrup",
+      "amount": "2 tbsp",
+      "notes": "For serving (optional)"
+    },
+    {
+      "name": "Roasted Peanuts",
+      "amount": "2 tbsp",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Nimble Chilies",
+      "amount": "2",
+      "notes": "Sliced, for garnish"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together the curry paste, fish sauce, and lime juice to make the marinade.",
+    "2. Add the lamb cubes to the marinade and mix well to coat. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "3. Preheat the grill to medium-high heat. Thread the marinated lamb onto skewers, leaving a small space between each piece.",
+    "4. Brush the kebabs with vegetable oil to prevent sticking.",
+    "5. Grill the kebabs for 8-10 minutes per side, or until they are cooked to your desired level of doneness. Use a meat thermometer to ensure the lamb reaches a safe internal temperature of 145°F (63°C).",
+    "6. While the kebabs are cooking, toast the peanuts in a small pan over medium heat, stirring frequently, until fragrant and lightly browned.",
+    "7. Once the kebabs are done, remove them from the grill and let them rest for 5 minutes.",
+    "8. Slice the kebabs into thin strips and serve with toasted peanuts, sliced chilies, and a sprinkle of cilantro. Drizzle with syrup, if desired.",
+    "9. Garnish with additional cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "lamb",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-roasted-syrian-lamb-kebabs--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:43:41.125Z"
+}
