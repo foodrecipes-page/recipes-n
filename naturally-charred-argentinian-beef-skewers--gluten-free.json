@@ -1,0 +1,88 @@
+{
+  "slug": "naturally-charred-argentinian-beef-skewers--gluten-free",
+  "title": "Grilled Argentinian Beef Skewers",
+  "description": "A gluten-free recipe for juicy and flavorful beef skewers, inspired by Argentinian cuisine. These char-grilled skewers are perfect for a summer BBQ or outdoor gathering.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (skewers, 1 inch pieces)",
+      "amount": "1 pound",
+      "notes": "Choose a tender cut such as sirloin or flank steak"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Zest of 1 lime",
+      "amount": "1/4 cup",
+      "notes": "Use a zester or fine grater"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the grill"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade (see notes)"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Thread beef, onion, and bell pepper onto skewers.",
+    "In a small bowl, mix together lime zest, garlic, salt, and black pepper.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Add the skewers to the grill and cook for 8-10 minutes per side, or until the beef reaches 135°F for medium-rare.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve with chimichurri sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "gluten-free",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-charred-argentinian-beef-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:44:05.915Z"
+}
