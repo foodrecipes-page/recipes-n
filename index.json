@@ -18914,5 +18914,33 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "n"
+  },
+  {
+    "slug": "naturally-charred-argentinian-beef-skewers--vegan",
+    "title": "Charred Argentinian Style Black Bean Skewers",
+    "tags": [
+      "vegan",
+      "argentinian",
+      "black-beans",
+      "skewers",
+      "grilled"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "naturally-charred-argentinian-beef-skewers--gluten-free",
+    "title": "Grilled Argentinian Beef Skewers",
+    "tags": [
+      "argentinian",
+      "beef",
+      "gluten-free",
+      "skewers",
+      "grilled"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 33,
+    "shard": "n"
   }
 ]
