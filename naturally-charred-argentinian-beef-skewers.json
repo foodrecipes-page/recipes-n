@@ -1,0 +1,77 @@
+{
+  "slug": "naturally-charred-argentinian-beef-skewers",
+  "title": "Argentinian Beef Skewers",
+  "description": "A classic Argentinian recipe featuring charred beef skewers grilled to perfection.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chimichurri",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef cubes onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together olive oil, garlic, salt, and black pepper.",
+    "Brush the skewers with the olive oil mixture, making sure each piece of beef is coated.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the beef is cooked to your desired level of doneness.",
+    "Meanwhile, warm the chimichurri sauce according to package instructions or by heating it in a saucepan over low heat.",
+    "Once the beef is cooked, remove the skewers from the grill and brush with the chimichurri sauce.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilling",
+    "argentinian",
+    "beef",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-charred-argentinian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:08:27.289Z"
+}
