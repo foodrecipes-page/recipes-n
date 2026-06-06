@@ -1,0 +1,76 @@
+{
+  "slug": "nutty-chewy-middle-eastern-yellow-split-pea-stew--thai",
+  "title": "Spicy Yellow Pea Stew",
+  "description": "A flavorful Thai-inspired stew made with yellow peas, nutty flavors and spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutty stew mix",
+      "amount": "2 tablespoons",
+      "notes": "available at local market"
+    },
+    {
+      "name": "middle eastern spices",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chewy split peas",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add minced garlic and cook for another minute.",
+    "Add yellow peas, stew mix and spices. Stir to combine.",
+    "Add chewy split peas (if using). Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 15-20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stew",
+    "peas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-chewy-middle-eastern-yellow-split-pea-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:09:40.891Z"
+}
