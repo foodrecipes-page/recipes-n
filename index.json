@@ -18814,5 +18814,30 @@
     "cuisine": "Syrian",
     "totalTimeMin": 15,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-chewy-middle-eastern-yellow-split-pea-stew--thai",
+    "title": "Spicy Yellow Pea Stew",
+    "tags": [
+      "thai",
+      "stew",
+      "peas",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nectarine-poached-light-elixir--vegetarian",
+    "title": "Nectarine Elixir Dessert",
+    "tags": [
+      "nectarine",
+      "dessert",
+      "summer"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
+    "shard": "n"
   }
 ]
