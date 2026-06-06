@@ -1,0 +1,87 @@
+{
+  "slug": "nostalgic-british-leek-gratin--mexican",
+  "title": "Leek and British Cheese Gratin with a Mexican Twist",
+  "description": "A rich and creamy gratin dish that combines the comfort of British cheese with the bold flavors of Mexico, all wrapped up in a delicate leek and onion package.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Leeks",
+      "amount": "2 large"
+    },
+    {
+      "name": "British Cheese (like Cheddar or Lancashire)",
+      "amount": "1 block, crumbled"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Nostalgic British Breadcrumbs (or regular breadcrumbs)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Slice the leeks and separate them into individual rings.",
+    "3. In a large skillet, sauté the leeks in butter until softened.",
+    "4. In a separate saucepan, melt the butter and whisk in flour.",
+    "5. Gradually add milk, whisking until smooth and thickened.",
+    "6. Stir in cheese, cumin, paprika, salt, and pepper until melted and combined.",
+    "7. In a greased 9x13 inch baking dish, arrange a layer of leeks.",
+    "8. Pour half of the cheese sauce over the leeks.",
+    "9. Sprinkle with half of the breadcrumbs.",
+    "10. Repeat the layers.",
+    "11. Top with the remaining breadcrumbs and bake for 25-30 minutes or until golden brown.",
+    "12. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "british",
+    "vegetarian",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-british-leek-gratin--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:38:39.107Z"
+}
