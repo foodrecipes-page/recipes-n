@@ -1,0 +1,88 @@
+{
+  "slug": "nourishing-herbal-turkish-sauerkraut-dolma--mexican",
+  "title": "Turkish Dolma Tacos",
+  "description": "A fusion of Mexican and Turkish flavors in a delicious taco. Dolma fills are wrapped in a warm flour tortilla with fresh cilantro, onion, and salsa.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Nourishing Rice",
+      "amount": "1 cup",
+      "notes": " Cooked according to package instructions"
+    },
+    {
+      "name": "Herbal Mix (cumin, coriander, paprika)",
+      "amount": "2 tsp",
+      "notes": "Mix of store-bought or homemade spices"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "Cooked to 160°F (71°C)"
+    },
+    {
+      "name": "Dolma Filling",
+      "amount": "1 cup",
+      "notes": " Store-bought or homemade"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": "Finely chopped and drained"
+    },
+    {
+      "name": "Flour Tortillas",
+      "amount": "4-6",
+      "notes": "Soft and pliable"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet to medium-high heat.",
+    "Add 1 tablespoon of oil and cook the ground beef until browned, breaking it up into small pieces.",
+    "Add the herbal mix and cook for 1 minute.",
+    "Stir in the dolma filling and cook for 2-3 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the beef and dolma mixture onto a tortilla, followed by a spoonful of sauerkraut and a sprinkle of cilantro and onion.",
+    "Serve with salsa on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "turkish",
+    "dolma",
+    "beef",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-herbal-turkish-sauerkraut-dolma--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:17:50.221Z"
+}
