@@ -18942,5 +18942,19 @@
     "cuisine": "argentinian",
     "totalTimeMin": 33,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-australian-almonds-crumble--german",
+    "title": "German Apple Crumble",
+    "tags": [
+      "german",
+      "apple",
+      "crumble",
+      "almonds",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "n"
   }
 ]
