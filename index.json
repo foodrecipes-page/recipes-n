@@ -17794,17 +17794,16 @@
   },
   {
     "slug": "nutty-turkish-milk-kazandibi",
-    "title": "Nutty Turkish Milk Kazandibi",
+    "title": "Turkish Kazandibi with Nutty Crunch",
     "tags": [
-      "caramelized",
-      "gluten-free",
-      "milk-based",
+      "dessert",
+      "turkish",
       "nutty",
-      "salt-block",
-      "turkish-dessert"
+      "crunchy",
+      "gluten-free"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -18864,6 +18863,33 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-herbal-turkish-sauerkraut-dolma--mexican",
+    "title": "Turkish Dolma Tacos",
+    "tags": [
+      "mexican",
+      "turkish",
+      "dolma",
+      "beef",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-ukrainian-malai-kebabs--french",
+    "title": "Smoked Ukrainian Kebabs with Malai Sauce",
+    "tags": [
+      "kebabs",
+      "french-ukrainian",
+      "smoked-pork",
+      "malai-sauce"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
     "shard": "n"
   }
 ]
