@@ -1,0 +1,52 @@
+{
+  "slug": "nutty-turkish-milk-kazandibi--german",
+  "title": "Traditional German Kazandibi Milk Pudding",
+  "description": "A creamy, nutty, and sweet German dessert based on the Turkish kazandibi recipe, topped with a layer of caramelized nuts.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nutty",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kazandibi",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix the milk, kazandibi, and nutty in a bowl, whisking until well combined.",
+    "Pour the mixture into a baking dish and bake for 20-25 minutes, or until set.",
+    "Let cool to room temperature.",
+    "Caramelize the nutty by cooking it in a pan over medium heat, stirring constantly.",
+    "Top the pudding with the caramelized nutty."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-desserts",
+    "turkish-cuisine",
+    "nutty",
+    "creamy",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-turkish-milk-kazandibi--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:43:28.234Z"
+}
