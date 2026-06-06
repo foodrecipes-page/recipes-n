@@ -1,0 +1,91 @@
+{
+  "slug": "nimble-roasted-syrian-lamb-kebabs--french",
+  "title": "Syrian Lamb Kebabs with Roasted Vegetables",
+  "description": "A French-inspired twist on traditional lamb kebabs, served with a side of roasted vegetables.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "syrian",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "nimble",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "kebabs",
+      "amount": "10-12 wooden skewers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "roasted",
+      "amount": "2 large",
+      "notes": "onion, cut into 1-inch pieces"
+    },
+    {
+      "name": "roasted",
+      "amount": "2 large",
+      "notes": "bell pepper, cut into 1-inch pieces"
+    },
+    {
+      "name": "roasted",
+      "amount": "2 large",
+      "notes": "zucchini, cut into 1-inch slices"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, cumin, salt, and black pepper. Add the lamb cubes and toss to coat.",
+    "Thread the lamb cubes onto the skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "While the kebabs are cooking, toss the onion, bell pepper, and zucchini with a little bit of olive oil and season with salt and pepper.",
+    "Roast the vegetables in the oven at 425°F (220°C) for 20-25 minutes, or until tender and lightly browned.",
+    "Serve the kebabs hot with the roasted vegetables and garnished with chopped parsley.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "roasted-vegetables",
+    "french-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-roasted-syrian-lamb-kebabs--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:56:50.092Z"
+}
