@@ -11931,17 +11931,15 @@
   },
   {
     "slug": "nutty-australian-almonds-crumble",
-    "title": "Nutty Australian Almonds Crumble",
+    "title": "Australian Crumble",
     "tags": [
       "australian",
       "dessert",
       "almonds",
-      "crumble",
-      "nutty",
-      "sugar-free"
+      "nutty"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {
@@ -18890,6 +18888,32 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-turkish-milk-kazandibi--german",
+    "title": "Traditional German Kazandibi Milk Pudding",
+    "tags": [
+      "german-desserts",
+      "turkish-cuisine",
+      "nutty",
+      "creamy",
+      "sweet"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nimble-roasted-syrian-lamb-kebabs--thai",
+    "title": "Thai-Style Lamb Kebabs",
+    "tags": [
+      "thai",
+      "lamb",
+      "kebabs"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "n"
   }
 ]
