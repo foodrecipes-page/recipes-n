@@ -1,0 +1,74 @@
+{
+  "slug": "nutty-turkish-milk-kazandibi",
+  "title": "Turkish Kazandibi with Nutty Crunch",
+  "description": "A traditional Turkish dessert, kazandibi is a creamy semolina pudding topped with a nutty crunch. Inspired by the flavors of Turkey, this recipe adds a delightful twist to the classic dessert.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup, chopped",
+      "notes": "almonds or pistachios work well"
+    },
+    {
+      "name": "semolina flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kazandibi",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "1. In a medium saucepan, combine milk, semolina flour, and sugar. Cook over medium heat, stirring constantly, until the mixture thickens.",
+    "2. Remove from heat and stir in butter and vanilla extract.",
+    "3. Pour the mixture into individual serving cups or a large serving dish.",
+    "4. Refrigerate until chilled and set.",
+    "5. To make the nutty crunch, melt 1 tablespoon of butter in a pan over medium heat.",
+    "6. Add the chopped nuts and cook, stirring constantly, until lightly toasted.",
+    "7. Sprinkle the nutty crunch over the chilled kazandibi.",
+    "8. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "turkish",
+    "nutty",
+    "crunchy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-turkish-milk-kazandibi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:20:47.357Z"
+}
