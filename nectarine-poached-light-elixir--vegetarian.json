@@ -1,0 +1,80 @@
+{
+  "slug": "nectarine-poached-light-elixir--vegetarian",
+  "title": "Nectarine Elixir Dessert",
+  "description": "A refreshing summer dessert made with poached nectarines and a light elixir. Perfect for warm weather.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "elaxir",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Butter a 9-inch (23cm) pie dish and set aside.",
+    "Cut nectarines into wedges and place them on a baking sheet.",
+    "Sprinkle granulated sugar over the nectarines and toss to coat.",
+    "Bake nectarines for 15-20 minutes, or until tender.",
+    "Meanwhile, combine elixir, water, lemon juice, and salt in a blender.",
+    "Blend until smooth and set aside.",
+    "In a separate saucepan, melt butter over medium heat.",
+    "Pour the elixir mixture into the saucepan and cook, stirring constantly, until slightly thickened.",
+    "To assemble the dessert, place the nectarine wedges in the prepared pie dish.",
+    "Drizzle the elixir mixture over the nectarines and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "nectarine",
+    "dessert",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nectarine-poached-light-elixir--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:09:44.852Z"
+}
