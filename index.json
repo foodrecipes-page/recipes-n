@@ -18852,5 +18852,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 50,
     "shard": "n"
+  },
+  {
+    "slug": "nimble-roasted-syrian-lamb-kebabs--french",
+    "title": "Syrian Lamb Kebabs with Roasted Vegetables",
+    "tags": [
+      "lamb",
+      "kebabs",
+      "roasted-vegetables",
+      "french-cuisine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "n"
   }
 ]
