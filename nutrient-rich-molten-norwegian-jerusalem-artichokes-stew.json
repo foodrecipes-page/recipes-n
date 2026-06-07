@@ -1,0 +1,90 @@
+{
+  "slug": "nutrient-rich-molten-norwegian-jerusalem-artichokes-stew",
+  "title": "Norwegian Artichoke Stew",
+  "description": "A hearty and flavorful stew featuring artichokes and a rich, savory broth. This dish is perfect for a cold winter night.",
+  "cuisine": "nordic",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "artichokes",
+      "amount": "2",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rich nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "molten beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "norwegian feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the artichokes, beef broth, nutmeg, salt, and pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Stir in the crumbled feta cheese.",
+    "Serve hot, garnished with additional feta cheese if desired.",
+    "Serve over rice, noodles, or with crusty bread.",
+    "Adjust seasoning as needed.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nordic",
+    "stew",
+    "artichoke",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutrient-rich-molten-norwegian-jerusalem-artichokes-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:12:16.698Z"
+}
