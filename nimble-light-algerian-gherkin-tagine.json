@@ -1,0 +1,80 @@
+{
+  "slug": "nimble-light-algerian-gherkin-tagine",
+  "title": "Algerian Nimble Chicken Tagine",
+  "description": "A flavorful and healthy chicken tagine recipe, adapted with nimble ingredients. This dish showcases the rich flavors of Algerian cuisine.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "light olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "gherkin",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "nimble",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add spice blend and cook for 1 minute.",
+    "Add gherkin, nimble, and chicken broth. Stir to combine.",
+    "Bring to a simmer and cook until chicken is cooked through, about 10 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional gherkin if desired.",
+    "Serve with couscous or rice, if desired.",
+    "Refrigerate leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "tagine",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-light-algerian-gherkin-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:38:02.490Z"
+}
