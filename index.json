@@ -1867,13 +1867,11 @@
   },
   {
     "slug": "nice-light-ethiopian-onion-kik-alicha",
-    "title": "Nice Light Ethiopian Onion Kik Alicha",
+    "title": "Ethiopian Alicha Stew",
     "tags": [
-      "ethiopian-cuisine",
-      "grilled",
-      "halal-friendly",
-      "light-meal",
-      "one-pan",
+      "ethiopian",
+      "stew",
+      "lunch",
       "vegetarian"
     ],
     "cuisine": "Ethiopian",
@@ -8252,15 +8250,14 @@
   },
   {
     "slug": "nourishing-smoky-malaysian-morcilla-satay",
-    "title": "Nourishing Smoky Malaysian Morcilla Satay",
+    "title": "Smoky Malaysian Morcilla Satay",
     "tags": [
+      "malaysian",
       "grilled",
-      "high-protein",
-      "malaysian-inspired",
-      "one-pan",
-      "weeknight"
+      "peanut-sauce",
+      "morcilla-sausage"
     ],
-    "cuisine": "Malaysian",
+    "cuisine": "malaysian",
     "totalTimeMin": 35,
     "shard": "n"
   },
@@ -13388,16 +13385,16 @@
   },
   {
     "slug": "nutty-crumbly-mediterranean-honey-cake-grill",
-    "title": "Nutty Crumbly Mediterranean Honey Cake Grill",
+    "title": "Honey and Cake Mediterranean Grilled Pita",
     "tags": [
-      "mediterranean",
-      "diabetic-friendly",
-      "kid-friendly",
-      "grilled",
-      "cake"
+      "grill",
+      "honey",
+      "cake",
+      "snack",
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 13,
     "shard": "n"
   },
   {
