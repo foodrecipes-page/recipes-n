@@ -1,0 +1,67 @@
+{
+  "slug": "nice-light-ethiopian-onion-kik-alicha",
+  "title": "Ethiopian Alicha Stew",
+  "description": "A flavorful and aromatic stew made with tender meat and spices, served with a side of kik bread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Nice",
+      "amount": "1 medium",
+      "notes": "for serving"
+    },
+    {
+      "name": "Light",
+      "amount": "2 medium",
+      "notes": "for serving"
+    },
+    {
+      "name": "Ethiopian Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Kik",
+      "amount": "1 cup",
+      "notes": "dried, soaked overnight"
+    },
+    {
+      "name": "Alicha",
+      "amount": "2 tablespoons",
+      "notes": "ground spice mix"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chopped onion and cook until softened.",
+    "Add soaked kik and cook, stirring occasionally, until tender.",
+    "Add Alicha spice mix and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot with nice and light on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-light-ethiopian-onion-kik-alicha",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:37:32.535Z"
+}
