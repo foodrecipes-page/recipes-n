@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-gentle-korean-haricot-beans-stew",
+  "title": "Korean Haricot Bean Stew",
+  "description": "A nourishing and gentle stew made with Korean spices, haricot beans, and vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Haricot beans",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "Gentle vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "gochugaru"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "brown sugar"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "vegetable broth or water"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Sauté the onion and ginger until softened.",
+    "Add the chili flakes and cook for 1 minute.",
+    "Add the haricot beans, soy sauce, sugar, and water.",
+    "Bring to a boil, then reduce heat to low and simmer for 1 hour.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "beans",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-gentle-korean-haricot-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T09:56:37.841Z"
+}
