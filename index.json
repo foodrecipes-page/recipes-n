@@ -3002,16 +3002,14 @@
   },
   {
     "slug": "nimble-velvety-syrian-sweet-potato-bowl",
-    "title": "Nimble Velvety Syrian Sweet Potato Bowl",
+    "title": "Velvety Sweet Potato Bowl",
     "tags": [
-      "no-grain",
-      "one-pan",
-      "quick-healthy",
-      "vegetarian",
-      "whole30-friendly"
+      "sweet-potatoes",
+      "vegan",
+      "lunch"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {
@@ -16245,15 +16243,14 @@
   },
   {
     "slug": "nutty-provencal-peanut-curry",
-    "title": "Nutty Provencal Peanut Curry",
+    "title": "Peanut Curry Chicken Noodle Soup",
     "tags": [
-      "cheese-pull",
-      "low-sodium",
-      "nutty",
-      "provence",
-      "tangy"
+      "chicken",
+      "peanut",
+      "curry",
+      "soup"
     ],
-    "cuisine": "French",
+    "cuisine": "Southeast Asian",
     "totalTimeMin": 35,
     "shard": "n"
   },
