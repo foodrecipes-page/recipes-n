@@ -1,0 +1,63 @@
+{
+  "slug": "nutty-crumbly-mediterranean-honey-cake-grill",
+  "title": "Honey and Cake Mediterranean Grilled Pita",
+  "description": "A sweet and savory combination of grilled pita bread, topped with a nutty and crumbly Mediterranean spread and a drizzle of honey.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pita Bread",
+      "amount": "4 pita bread",
+      "notes": "gluten-free pita bread"
+    },
+    {
+      "name": "Nutty Crumbly Spread",
+      "amount": "1 cup",
+      "notes": "made from nutty, crumbly, mediterranean ingredients"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "pure honey"
+    },
+    {
+      "name": "Cake (optional)",
+      "amount": "",
+      "notes": "for a sweet treat"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill pita bread for 2-3 minutes per side, or until lightly charred.",
+    "Spread the Nutty Crumbly Spread on each pita bread.",
+    "Drizzle with honey.",
+    "Optional: top with Cake crumbs for a sweet treat.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grill",
+    "honey",
+    "cake",
+    "snack",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crumbly-mediterranean-honey-cake-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:35:21.240Z"
+}
