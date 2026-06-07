@@ -1,0 +1,114 @@
+{
+  "slug": "nourishing-smoky-malaysian-morcilla-satay",
+  "title": "Smoky Malaysian Morcilla Satay",
+  "description": "A fusion twist on traditional satay, featuring smoky morcilla sausage. Grilled to perfection, served with a side of peanut sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Morcilla sausage",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Nourishing peanut sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoky satay seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Malaysian-style rice cakes",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Thai chili",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut morcilla sausage into 1-inch slices.",
+    "Thread sausage slices onto skewers.",
+    "Brush coconut oil on skewers.",
+    "Season with smoky satay seasoning.",
+    "Grill for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, toast rice cakes on the grill.",
+    "Cut onion, bell pepper, and Thai chili into bite-sized pieces.",
+    "Grill vegetables for 3-5 minutes, or until tender.",
+    "Mix peanut sauce ingredients in a bowl.",
+    "Stir in soy sauce and lime juice.",
+    "Serve grilled morcilla satay with peanut sauce, toasted rice cakes, and grilled vegetables.",
+    "Garnish with chopped cilantro and lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "grilled",
+    "peanut-sauce",
+    "morcilla-sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-malaysian-morcilla-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:36:04.266Z"
+}
