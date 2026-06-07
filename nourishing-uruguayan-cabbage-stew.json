@@ -1,0 +1,80 @@
+{
+  "slug": "nourishing-uruguayan-cabbage-stew",
+  "title": "Uruguayan Cabbage Stew",
+  "description": "A hearty and comforting stew from Uruguay made with tender cabbage and nourishing beef.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat (1.5 lbs)",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "Cabbage (2 medium heads)",
+      "amount": "2"
+    },
+    {
+      "name": "Onion (1 large)",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3"
+    },
+    {
+      "name": "Tomato Paste (2 tbsp)",
+      "amount": "2"
+    },
+    {
+      "name": "Uruguayan Stew Seasoning (1 tsp)",
+      "amount": "1"
+    },
+    {
+      "name": "Salt (1 tsp)",
+      "amount": "1"
+    },
+    {
+      "name": "Black Pepper (1/2 tsp)",
+      "amount": "0.5"
+    },
+    {
+      "name": "Red Wine (1 cup)",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add cabbage, tomato paste, stew seasoning, salt, and pepper. Cook for 1 minute.",
+    "Add red wine and bring to a boil.",
+    "Return beef to pot and stir to coat with wine mixture.",
+    "Cover pot and transfer to oven. Braise for 2 1/2 hours, or until beef is tender.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "uruguayan",
+    "stew",
+    "cabbage"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-uruguayan-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:25:03.900Z"
+}
