@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-crunchy-croatian-beef-skewers",
+  "title": "Croatian Beef Skewers with Nutty Crunch",
+  "description": "A flavorful and easy-to-make dish from Croatia, featuring marinated beef skewers with a nutty crunch.",
+  "cuisine": "croatian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "lean beef for skewers"
+    },
+    {
+      "name": "croatian",
+      "amount": "2 tbsp",
+      "notes": "dried spices from Croatia"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup",
+      "notes": "chopped walnuts for garnish"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/2 cup",
+      "notes": "chopped panko breadcrumbs"
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": "wooden skewers for grilling"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a large bowl, combine beef, Croatian spices, salt, and pepper.",
+    "3. Thread beef onto skewers, leaving space for even cooking.",
+    "4. Grill skewers for 8-10 minutes, turning occasionally.",
+    "5. Meanwhile, mix walnuts and panko breadcrumbs in a small bowl.",
+    "6. Once skewers are cooked, brush with olive oil and sprinkle with walnut-panko mixture.",
+    "7. Serve skewers hot, garnished with additional walnuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 9,
+  "totalTimeMin": 24,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-beef",
+    "grilled-skewers",
+    "walnut-garnish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crunchy-croatian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:11:58.058Z"
+}
