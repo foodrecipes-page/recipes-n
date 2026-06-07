@@ -1,0 +1,104 @@
+{
+  "slug": "nutritious-velvety-malaysian-chicken-tagine",
+  "title": "Malaysian Chicken Tagine",
+  "description": "A rich and flavorful stew originating from Malaysia, made with tender chicken and a blend of aromatic spices.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "nutritious coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "velvety tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "1 onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "3 cloves",
+      "amount": "3",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "1 tablespoon",
+      "amount": "1",
+      "notes": "grated ginger"
+    },
+    {
+      "name": "1 tablespoon",
+      "amount": "1",
+      "notes": "curry powder"
+    },
+    {
+      "name": "1 teaspoon",
+      "amount": "1",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "1/2 teaspoon",
+      "amount": "0.5",
+      "notes": "turmeric powder"
+    },
+    {
+      "name": "1/2 teaspoon",
+      "amount": "0.5",
+      "notes": "salt"
+    },
+    {
+      "name": "1/4 teaspoon",
+      "amount": "0.25",
+      "notes": "black pepper"
+    },
+    {
+      "name": "2 tablespoons",
+      "amount": "2",
+      "notes": "tagine spice mix"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger; cook for 1 minute.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add tomatoes, curry powder, cumin, turmeric, salt, and pepper.",
+    "Stir in coconut milk and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20-25 minutes or until chicken is cooked through.",
+    "Stir in tagine spice mix and cook for an additional 2-3 minutes.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "coconut-milk",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-velvety-malaysian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:12:47.518Z"
+}
