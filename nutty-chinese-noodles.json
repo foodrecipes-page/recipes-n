@@ -1,0 +1,72 @@
+{
+  "slug": "nutty-chinese-noodles",
+  "title": "Nutty Chinese Noodle Stir Fry",
+  "description": "Quick and easy stir fry recipe with nutty flavors using noodles, Chinese ingredients, and a hint of sweetness.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegetable Noodles",
+      "amount": "1 package (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Grated Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Peanuts",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions. Drain and set aside.",
+    "In a large skillet or wok, heat 1 tsp of sesame oil over medium-high heat.",
+    "Add 1 tsp of grated ginger and cook for 30 seconds.",
+    "Add chopped scallions and cook for 1 minute.",
+    "Add cooked noodles, soy sauce, and chopped peanuts (if using). Stir-fry for 2-3 minutes.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "noodles",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-chinese-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:42:57.140Z"
+}
