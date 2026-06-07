@@ -14843,17 +14843,15 @@
   },
   {
     "slug": "nutty-gooey-moroccan-chicken-stir-fry",
-    "title": "Nutty Gooey Moroccan Chicken Stir-fry",
+    "title": "Moroccan Chicken Stir Fry",
     "tags": [
-      "moroccan-chicken-stir-fry",
-      "nutty-gooey-dish",
-      "lazy-sunday-meal",
-      "dairy-free",
-      "grain-free",
-      "gluten-free"
+      "chicken",
+      "moroccan",
+      "spicy",
+      "stir-fry"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 90,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
