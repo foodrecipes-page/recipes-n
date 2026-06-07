@@ -4248,17 +4248,15 @@
   },
   {
     "slug": "nourishing-aerated-italian-chicken-breast-skillet",
-    "title": "Nourishing Aerated Italian Chicken Breast Skillet",
+    "title": "Pan-Seared Chicken Breast with Italian Skillet",
     "tags": [
-      "high-protein",
-      "italian-cuisine",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "weeknight-dinner"
+      "chicken",
+      "italian",
+      "easy",
+      "dinner"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -12528,15 +12526,15 @@
   },
   {
     "slug": "nutty-chinese-noodles",
-    "title": "Nutty Chinese Noodles",
+    "title": "Nutty Chinese Noodle Stir Fry",
     "tags": [
-      "nutty-chinese-noodles",
-      "creamy-chinese-dish",
-      "vegan-friendly",
-      "noodle-dessert"
+      "chinese",
+      "stir-fry",
+      "noodles",
+      "vegetarian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
@@ -12899,17 +12897,14 @@
   },
   {
     "slug": "nutty-crispy-almond-stir-fry",
-    "title": "Nutty Crispy Almond Stir-fry",
+    "title": "Almond Crusted Stir Fry",
     "tags": [
-      "nutty",
-      "crispy",
-      "romantic",
-      "vietnamese",
-      "candied-peel",
-      "paleo-friendly"
+      "almond",
+      "stir-fry",
+      "crispy"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
