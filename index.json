@@ -2766,16 +2766,15 @@
   },
   {
     "slug": "nimble-light-algerian-gherkin-tagine",
-    "title": "Nimble Light Algerian Gherkin Tagine",
+    "title": "Algerian Nimble Chicken Tagine",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "low-carb",
-      "north-african",
-      "sous-vide"
+      "algerian",
+      "chicken",
+      "tagine",
+      "healthy"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -11644,17 +11643,14 @@
   },
   {
     "slug": "nutritious-velvety-malaysian-chicken-tagine",
-    "title": "Nutritious Velvety Malaysian Chicken Tagine",
+    "title": "Malaysian Chicken Tagine",
     "tags": [
-      "ayurvedic",
-      "dinner-ideas",
-      "gluten-free",
-      "healthy-meals",
-      "malaysian-cuisine",
-      "one-pot"
+      "chicken",
+      "coconut-milk",
+      "spicy"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -13544,17 +13540,14 @@
   },
   {
     "slug": "nutty-crunchy-croatian-beef-skewers",
-    "title": "Nutty Crunchy Croatian Beef Skewers",
+    "title": "Croatian Beef Skewers with Nutty Crunch",
     "tags": [
-      "croatian",
-      "beef",
-      "walnuts",
-      "poached",
-      "hangover-cure",
-      "halal"
+      "croatian-beef",
+      "grilled-skewers",
+      "walnut-garnish"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 55,
+    "cuisine": "croatian",
+    "totalTimeMin": 24,
     "shard": "n"
   },
   {
