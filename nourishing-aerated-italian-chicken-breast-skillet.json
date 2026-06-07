@@ -1,0 +1,79 @@
+{
+  "slug": "nourishing-aerated-italian-chicken-breast-skillet",
+  "title": "Pan-Seared Chicken Breast with Italian Skillet",
+  "description": "A delicious and easy-to-make dish that combines the flavors of Italy with the tenderness of chicken breast.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "italian",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "nourishing",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "aerated",
+      "amount": "1 cup",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Season the chicken breast with salt and pepper.",
+    "Add the olive oil to the skillet and sear the chicken breast for 5-6 minutes per side.",
+    "Remove the chicken breast from the skillet and set aside.",
+    "Add the minced garlic to the skillet and sauté for 1 minute.",
+    "Add the chicken broth to the skillet and bring to a simmer.",
+    "Return the chicken breast to the skillet and cook for an additional 5-7 minutes or until cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "italian",
+    "easy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-aerated-italian-chicken-breast-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:42:46.872Z"
+}
