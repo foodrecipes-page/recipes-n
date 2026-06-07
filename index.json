@@ -9205,16 +9205,15 @@
   },
   {
     "slug": "nourishing-uruguayan-cabbage-stew",
-    "title": "Nourishing Uruguayan Cabbage Stew",
+    "title": "Uruguayan Cabbage Stew",
     "tags": [
-      "cedar-plank",
-      "comfort-food",
-      "fermented",
-      "shojin-friendly",
-      "vegan"
+      "beef",
+      "uruguayan",
+      "stew",
+      "cabbage"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 75,
+    "totalTimeMin": 170,
     "shard": "n"
   },
   {
@@ -10213,18 +10212,15 @@
   },
   {
     "slug": "nutrient-rich-molten-norwegian-jerusalem-artichokes-stew",
-    "title": "Nutrient-rich Norwegian Jerusalem Artichokes Stew",
+    "title": "Norwegian Artichoke Stew",
     "tags": [
-      "comfort-food",
-      "fall-recipes",
-      "gluten-free",
-      "one-pan",
-      "weeknight",
-      "whole30-friendly",
-      "winter-recipes"
+      "nordic",
+      "stew",
+      "artichoke",
+      "vegetarian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 60,
+    "cuisine": "nordic",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -12408,13 +12404,13 @@
   },
   {
     "slug": "nutty-chewy-indulgent-filipino-almond-stir-fry",
-    "title": "Nutty Chewy Indulgent Filipino Almond Stir-fry",
+    "title": "Filipino Fried Rice with Almonds",
     "tags": [
-      "nutty",
-      "chewy",
-      "indulgent",
       "filipino",
-      "stir-fry"
+      "fried-rice",
+      "almonds",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 25,
@@ -13430,16 +13426,15 @@
   },
   {
     "slug": "nutty-crumbly-norwegian-turmeric",
-    "title": "Nutty Crumbly Norwegian Turmeric",
+    "title": "Norwegian Nutmeg Cookies",
     "tags": [
-      "nutty",
-      "crumbly",
-      "turmeric",
+      "cookies",
       "norwegian",
-      "friendly"
+      "nutmeg",
+      "turmeric"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
