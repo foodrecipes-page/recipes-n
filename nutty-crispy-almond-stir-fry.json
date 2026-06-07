@@ -1,0 +1,70 @@
+{
+  "slug": "nutty-crispy-almond-stir-fry",
+  "title": "Almond Crusted Stir Fry",
+  "description": "A quick and easy stir fry with a crunchy almond crust. Perfect for a weeknight dinner.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and bell pepper and stir-fry for 3-4 minutes, or until they begin to soften.",
+    "Add the remaining 1 tablespoon of vegetable oil, then add the almonds and stir-fry for 1-2 minutes, or until they are lightly toasted.",
+    "Add the soy sauce and stir-fry sauce, and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond",
+    "stir-fry",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-almond-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:35:02.932Z"
+}
