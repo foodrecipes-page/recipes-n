@@ -1,0 +1,60 @@
+{
+  "slug": "nimble-velvety-syrian-sweet-potato-bowl",
+  "title": "Velvety Sweet Potato Bowl",
+  "description": "A simple and comforting sweet potato dish, topped with a variety of flavors.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "syrian zaatar",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "velvety tahini",
+      "amount": "1 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Poke some holes in the sweet potatoes with a fork and roast for 45-50 minutes, or until tender.",
+    "While the sweet potatoes are roasting, mix the olive oil, zaatar, and salt in a small bowl.",
+    "Once the sweet potatoes are done, let them cool for a few minutes before slicing them in half lengthwise.",
+    "Spoon the velvety tahini over the top of each sweet potato, then sprinkle with the olive oil and zaatar mixture.",
+    "Serve immediately, garnished with a sprinkle of zaatar and a drizzle of tahini."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-potatoes",
+    "vegan",
+    "lunch"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-velvety-syrian-sweet-potato-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:05:35.133Z"
+}
