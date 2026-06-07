@@ -1,0 +1,91 @@
+{
+  "slug": "nutty-provencal-peanut-curry",
+  "title": "Peanut Curry Chicken Noodle Soup",
+  "description": "A hearty and flavorful peanut-based soup perfect for a chilly evening. This recipe combines the rich taste of peanuts with the spices of curry and the comfort of chicken noodle soup.",
+  "cuisine": "Southeast Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add diced onion and cook until softened.",
+    "Add chicken breast and cook until browned.",
+    "Add vegetable broth, peanut butter, curry powder, and nutmeg.",
+    "Bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "Add rice noodles and cook until tender.",
+    "Stir in chopped peanuts and coconut milk.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with additional peanuts if desired.",
+    "Refrigerate leftovers for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "peanut",
+    "curry",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-provencal-peanut-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:03:21.520Z"
+}
