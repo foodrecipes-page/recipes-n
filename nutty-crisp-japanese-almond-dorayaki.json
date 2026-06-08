@@ -1,0 +1,78 @@
+{
+  "slug": "nutty-crisp-japanese-almond-dorayaki",
+  "title": "Dorayaki Pancake Cake",
+  "description": "A traditional Japanese dessert made with dorayaki pancakes, filled with sweet red bean paste and topped with crispy almond flakes.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dorayaki",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "red bean paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almond flakes",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together eggs, sugar, and water.",
+    "Add flour and whisk until combined.",
+    "Heat a non-stick pan over medium heat.",
+    "Add butter and swirl to coat the pan.",
+    "Pour 1/4 cup of the batter into the pan and cook until bubbles appear on the surface.",
+    "Flip the dorayaki and cook for another minute.",
+    "Repeat with the remaining batter.",
+    "To assemble the cake, place a dorayaki on a plate and spread a tablespoon of red bean paste on top.",
+    "Sprinkle with almond flakes.",
+    "Repeat with the remaining dorayaki and red bean paste.",
+    "Serve and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "dessert",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crisp-japanese-almond-dorayaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:32:16.803Z"
+}
