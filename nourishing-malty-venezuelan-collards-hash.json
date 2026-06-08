@@ -1,0 +1,65 @@
+{
+  "slug": "nourishing-malty-venezuelan-collards-hash",
+  "title": "Hearty Collard Hash",
+  "description": "A simple, comforting dish made with collard greens and hash browns, perfect for a cold winter morning.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Collard greens",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Hash browns",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Nourishing oil",
+      "amount": "2 tablespoons",
+      "notes": "such as olive or avocado oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Venezuelan black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Optional: other desired spices or seasonings",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add chopped collard greens to the skillet and cook until wilted.",
+    "Add shredded hash browns to the skillet and stir to combine with collard greens.",
+    "Season with salt and black pepper to taste.",
+    "Cook for an additional 2-3 minutes, stirring occasionally.",
+    "Serve hot, garnished with desired spices or seasonings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "hash",
+    "collard-greens"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-malty-venezuelan-collards-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:20:24.148Z"
+}
