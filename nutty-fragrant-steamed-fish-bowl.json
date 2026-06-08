@@ -1,0 +1,66 @@
+{
+  "slug": "nutty-fragrant-steamed-fish-bowl",
+  "title": "Steamed Nutty Rice Bowl",
+  "description": "A simple and healthy bowl filled with nutty steamed rice and fragrant steamed vegetables. Perfect for a quick lunch or dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Nutty Brown Rice",
+      "amount": "1 cup",
+      "notes": "preferably short-grain"
+    },
+    {
+      "name": "Fragrant Fresh Herbs",
+      "amount": "1/4 cup",
+      "notes": "such as basil, cilantro or mint"
+    },
+    {
+      "name": "Steamed Carrots",
+      "amount": "1 cup",
+      "notes": "or other favorite steamed vegetables"
+    },
+    {
+      "name": "Steamed Peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and soak it in water for 30 minutes. Drain and steam the rice in a steamer or a pot with a steamer basket.",
+    "Steam the carrots and peas in a steamer or a pot with a steamer basket until tender.",
+    "In a small bowl, mix the fish sauce with the fragrant fresh herbs.",
+    "To assemble the bowl, place the steamed rice in the bottom, then add the steamed carrots and peas.",
+    "Garnish with the herb fish sauce mixture and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "steamed",
+    "rice",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-fragrant-steamed-fish-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:11:53.461Z"
+}
