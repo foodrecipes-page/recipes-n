@@ -6888,16 +6888,14 @@
   },
   {
     "slug": "nourishing-malty-venezuelan-collards-hash",
-    "title": "Nourishing Malty Venezuelan Collards Hash",
+    "title": "Hearty Collard Hash",
     "tags": [
-      "brunch-idea",
-      "latin-american",
-      "low-carb",
-      "one-pan",
-      "veggie-packed"
+      "breakfast",
+      "hash",
+      "collard-greens"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -14582,19 +14580,15 @@
   },
   {
     "slug": "nutty-fragrant-steamed-fish-bowl",
-    "title": "Nutty Fragrant Steamed Fish Bowl",
+    "title": "Steamed Nutty Rice Bowl",
     "tags": [
-      "healthy",
-      "high-protein",
-      "korean-cuisine",
-      "low-carb",
-      "one-pan",
-      "sattvic",
-      "vegan-friendly",
-      "weeknight"
+      "steamed",
+      "rice",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
