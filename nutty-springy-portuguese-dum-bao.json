@@ -1,0 +1,75 @@
+{
+  "slug": "nutty-springy-portuguese-dum-bao",
+  "title": "Nutty Bao Buns",
+  "description": "Sweet, fluffy bao buns filled with a crunchy nutty filling, perfect for a snack or dessert.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bao dough",
+      "amount": "500g",
+      "notes": "available in most Asian grocery stores or online"
+    },
+    {
+      "name": "nutty filling",
+      "amount": "250g",
+      "notes": "see instructions for preparation"
+    },
+    {
+      "name": "springy egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "portuguese milk",
+      "amount": "60ml",
+      "notes": "adds richness to the dough"
+    },
+    {
+      "name": "dum flour",
+      "amount": "100g",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Combine bao dough ingredients and knead for 10 minutes.",
+    "Rest the dough for 1 hour.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll out each piece into a ball.",
+    "Use a rolling pin to flatten each ball into a disk.",
+    "Mix nutty filling ingredients and set aside.",
+    "Place a tablespoon of nutty filling in the center of each disk.",
+    "Fold the dough over the filling to form a bun.",
+    "Use a fork to crimp the edges.",
+    "Brush the tops with egg wash.",
+    "Bake at 375°F (190°C) for 15-20 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bao",
+    "buns",
+    "nutty",
+    "filling",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-springy-portuguese-dum-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:38:04.189Z"
+}
