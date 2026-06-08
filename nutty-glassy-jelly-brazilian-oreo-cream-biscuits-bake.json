@@ -1,0 +1,66 @@
+{
+  "slug": "nutty-glassy-jelly-brazilian-oreo-cream-biscuits-bake",
+  "title": "Brazilian Cream Puffs",
+  "description": "Delicate cream-filled pastries with a nutty twist, inspired by Brazilian cuisine. These puffs are perfect for a sweet dessert or snack.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nutty biscuits",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "glassy jelly",
+      "amount": "1 cup",
+      "notes": "any flavor"
+    },
+    {
+      "name": "brazilian cream",
+      "amount": "1 cup",
+      "notes": "sweetened whipped cream"
+    },
+    {
+      "name": "oreo",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "bake",
+      "amount": "350°F",
+      "notes": "oven temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cut nutty biscuits into small squares.",
+    "In a separate bowl, whip glassy jelly until smooth.",
+    "In another bowl, whip brazilian cream until stiff peaks form.",
+    "Fold crushed oreo into the whipped cream.",
+    "Assemble cream puffs by placing a square of nutty biscuits on a baking sheet, topping with a spoonful of jelly, and finishing with a dollop of cream mixture.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Allow puffs to cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "dessert",
+    "cream-puffs",
+    "puff-pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-glassy-jelly-brazilian-oreo-cream-biscuits-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:41:51.661Z"
+}
