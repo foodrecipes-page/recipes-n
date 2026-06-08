@@ -2805,16 +2805,15 @@
   },
   {
     "slug": "nimble-mustard-uruguayan-snapper-ceviche",
-    "title": "Nimble Mustard Uruguayan Snapper Ceviche",
+    "title": "Pan-Seared Snapper with Uruguayan Mustard Sauce",
     "tags": [
-      "fodmap-friendly",
-      "quick",
+      "latin-american",
+      "fish",
       "seafood",
-      "spherified",
-      "uruguayan"
+      "dinner"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 15,
+    "cuisine": "Latin American",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
