@@ -1,0 +1,82 @@
+{
+  "slug": "naturally-crisp-uruguayan-fish-ceviche",
+  "title": "Uruguayan Crisp Fish Ceviche",
+  "description": "A refreshing Uruguayan-inspired dish featuring crisp fish marinated in a zesty ceviche sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh mackerel",
+      "amount": "1 lb",
+      "notes": "Crisp and firm fish works best"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1/4 cup",
+      "notes": "High-quality, 100% lime juice"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced, add to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, add to taste"
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "1/4 cup",
+      "notes": "Diced, add to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Add to taste"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Cut the mackerel into 1-inch pieces and place in a shallow dish.",
+    "2. In a separate bowl, whisk together lime juice, red onion, cilantro, aji amarillo pepper, salt, and black pepper.",
+    "3. Pour the marinade over the mackerel and refrigerate for at least 30 minutes.",
+    "4. Just before serving, garnish with mixed greens and serve immediately.",
+    "5. Note: Make sure all ingredients are at room temperature before preparing the dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "uruguayan",
+    "fish",
+    "seafood",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-crisp-uruguayan-fish-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:43:50.731Z"
+}
