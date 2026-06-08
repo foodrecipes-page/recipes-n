@@ -4448,18 +4448,15 @@
   },
   {
     "slug": "nourishing-basque-poppy-seeds-stew",
-    "title": "Nourishing Basque Poppy Seeds Stew",
+    "title": "Basque Stew",
     "tags": [
+      "stew",
       "basque",
-      "kid-friendly",
-      "one-pot",
-      "poppy-seeds",
-      "quick",
-      "tagine",
-      "vegetarian"
+      "vegetarian",
+      "nourishing"
     ],
-    "cuisine": "Basque Spanish",
-    "totalTimeMin": 55,
+    "cuisine": "Basque",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
