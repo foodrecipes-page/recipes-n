@@ -1,0 +1,62 @@
+{
+  "slug": "nourishing-basque-poppy-seeds-stew",
+  "title": "Basque Stew",
+  "description": "A hearty, nourishing stew originating from the Basque region, rich in flavors and textures.",
+  "cuisine": "Basque",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "Mixed vegetables"
+    },
+    {
+      "name": "Nourishing",
+      "amount": "2 cups",
+      "notes": "Mixed beans and grains"
+    },
+    {
+      "name": "Poppy seeds",
+      "amount": "2 tablespoons",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional spice addition"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat.",
+    "Add a small amount of oil and sauté the stew until tender.",
+    "Add the nourishing mixture, stir well, and bring to a boil.",
+    "Reduce heat and let simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with poppy seeds and serve hot.",
+    "Optional: Add seeds to taste for extra flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "basque",
+    "vegetarian",
+    "nourishing"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-basque-poppy-seeds-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:40:18.757Z"
+}
