@@ -1,0 +1,78 @@
+{
+  "slug": "nimble-mustard-uruguayan-snapper-ceviche",
+  "title": "Pan-Seared Snapper with Uruguayan Mustard Sauce",
+  "description": "A flavorful and easy-to-make dish featuring pan-seared snapper topped with a tangy Uruguayan mustard sauce.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Nimble olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the snapper fillets with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the snapper fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "Meanwhile, mix the Uruguayan mustard and lime juice in a small bowl.",
+    "Serve the snapper fillets with the Uruguayan mustard sauce spooned over the top.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "latin-american",
+    "fish",
+    "seafood",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-mustard-uruguayan-snapper-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:11:01.190Z"
+}
