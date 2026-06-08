@@ -6304,17 +6304,16 @@
   },
   {
     "slug": "nourishing-italian-chicken-pasta",
-    "title": "Nourishing Italian Chicken Pasta",
+    "title": "Creamy Chicken Pasta",
     "tags": [
-      "gluten-free",
-      "healthy-dinner",
-      "high-protein",
-      "italian-food",
-      "low-sodium",
-      "one-pot"
+      "italian",
+      "comfort-food",
+      "pasta",
+      "chicken",
+      "cream-sauce"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -14635,15 +14634,15 @@
   },
   {
     "slug": "nutty-glassy-jelly-brazilian-oreo-cream-biscuits-bake",
-    "title": "Nutty Glassy-Jelly Brazilian Oreo Cream Biscuits Bake",
+    "title": "Brazilian Cream Puffs",
     "tags": [
       "brazilian",
       "dessert",
-      "jain-friendly",
-      "steamed"
+      "cream-puffs",
+      "puff-pastry"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -17270,16 +17269,17 @@
   },
   {
     "slug": "nutty-springy-portuguese-dum-bao",
-    "title": "nutty springy portuguese dum bao",
+    "title": "Nutty Bao Buns",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "plant-based",
-      "portuguese",
-      "weeknight"
+      "bao",
+      "buns",
+      "nutty",
+      "filling",
+      "snack",
+      "dessert"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 50,
+    "cuisine": "Asian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
