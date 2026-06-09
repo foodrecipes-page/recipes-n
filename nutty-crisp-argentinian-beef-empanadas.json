@@ -1,0 +1,61 @@
+{
+  "slug": "nutty-crisp-argentinian-beef-empanadas",
+  "title": "Beef Empanadas Recipe",
+  "description": "A classic South American dish, beef empanadas are a delicious and savory treat. This recipe uses homemade empanada dough and a flavorful beef filling.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound, ground"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "crisp",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "empanadas",
+      "amount": "4-6, homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped nutty and crisp to the skillet and cook until the vegetables are tender.",
+    "Season the beef mixture with salt and pepper to taste.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Spoon a tablespoon or two of the beef mixture onto one half of the dough, leaving a 1/2 inch border around the edges.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of water and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "argentinian",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crisp-argentinian-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:31:34.063Z"
+}
