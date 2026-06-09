@@ -1,0 +1,86 @@
+{
+  "slug": "nice-crunchy-american-potato-burger",
+  "title": "American Burger",
+  "description": "A classic American-style burger with a crispy potato topping. Enjoy as a casual dinner or snack.",
+  "cuisine": "american",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "American Cheese",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Burger Patty",
+      "amount": "2 patties",
+      "notes": "beef"
+    },
+    {
+      "name": "Bun",
+      "amount": "2",
+      "notes": "toasted"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Form the burger patties and cook for 3-4 minutes per side, or until cooked through.",
+    "3. Slice the potatoes thinly and pan-fry until crispy.",
+    "4. Assemble the burgers with cheese, lettuce, tomato, onion, ketchup, and mayonnaise.",
+    "5. Serve immediately on toasted buns."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "burger",
+    "american",
+    "easy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 42,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-crunchy-american-potato-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:11:30.019Z"
+}
