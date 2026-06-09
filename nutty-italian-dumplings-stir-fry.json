@@ -1,0 +1,86 @@
+{
+  "slug": "nutty-italian-dumplings-stir-fry",
+  "title": "Nutty Italian Stir-Fry Dumplings",
+  "description": "A fusion of Italian and Asian flavors, these dumplings are filled with a nutty mixture of vegetables, then stir-fried to perfection.",
+  "cuisine": "Asian-Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wonton wrappers",
+      "amount": "20-24 wrappers"
+    },
+    {
+      "name": "Nutty filling",
+      "amount": "1 cup",
+      "notes": "mix of chopped nuts (walnuts, almonds), dried basil, and oregano"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Fill a small bowl with warm water.",
+    "2. Lay a wonton wrapper on a flat surface.",
+    "3. Place a small spoonful of the nutty filling in the center of the wrapper.",
+    "4. Dip your finger in the water and run it along the edges of the wrapper.",
+    "5. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "6. Press the edges together to seal the dumpling.",
+    "7. Repeat with the remaining wrappers and filling.",
+    "8. Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "9. Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "10. Add the minced garlic and cook for 1 minute.",
+    "11. Add the sliced mushrooms and cook until they release their moisture and start to brown, about 3-4 minutes.",
+    "12. Add the chopped spinach and cook until wilted, about 1-2 minutes.",
+    "13. Add the sealed dumplings to the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "14. Serve hot with grated Parmesan cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "asian",
+    "stir-fry",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-italian-dumplings-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:58:58.736Z"
+}
