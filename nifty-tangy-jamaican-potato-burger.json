@@ -1,0 +1,63 @@
+{
+  "slug": "nifty-tangy-jamaican-potato-burger",
+  "title": "Jamaican Burger Bites",
+  "description": "A twist on the classic burger, these bite-sized patties pack a punch of Jamaican flavor. Serve with your favorite toppings for a fun and easy meal.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nifty ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "1 medium, finely grated",
+      "notes": ""
+    },
+    {
+      "name": "burger buns",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, combine ground beef, Jamaican seasoning, and grated potato. Mix well with your hands until just combined.",
+    "3. Divide the mixture into 8 equal pieces and shape each into a ball.",
+    "4. Flatten each ball into a patty.",
+    "5. Place the patties on a baking sheet lined with parchment paper.",
+    "6. Bake for 12-15 minutes, or until cooked through.",
+    "7. Meanwhile, toast the burger buns on the oven rack.",
+    "8. Assemble the bites by placing a cooked patty on each bun.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caribbean",
+    "beef",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nifty-tangy-jamaican-potato-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:21:21.940Z"
+}
