@@ -1,0 +1,58 @@
+{
+  "slug": "nutty-silky-peruvian-pork-knuckle-stew",
+  "title": "Crispy Peruvian Pork Knuckle",
+  "description": "A traditional Peruvian dish made with a crispy pork knuckle, served with a side of stew.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Knuckle",
+      "amount": "1",
+      "notes": "1 lb"
+    },
+    {
+      "name": "Silky Stew",
+      "amount": "1 cup",
+      "notes": "see silky stew recipe"
+    },
+    {
+      "name": "Nutty Seasoning",
+      "amount": "2 tsp",
+      "notes": "ground cumin, paprika, garlic powder"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together the nutty seasoning.",
+    "Rub the seasoning mixture all over the pork knuckle, making sure to coat it evenly.",
+    "Heat a large skillet over medium-high heat.",
+    "Sear the pork knuckle until browned on all sides, about 5 minutes.",
+    "Transfer the pork knuckle to a baking sheet and roast in the preheated oven for 20 minutes.",
+    "Reduce the oven temperature to 375°F (190°C) and continue roasting for another 20-25 minutes, or until the pork is crispy and golden brown.",
+    "While the pork is cooking, heat the silky stew in a saucepan over low heat.",
+    "To serve, slice the pork knuckle and serve with a side of silky stew."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "pork",
+    "knuckle"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-silky-peruvian-pork-knuckle-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:35:33.307Z"
+}
