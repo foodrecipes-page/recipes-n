@@ -13999,20 +13999,14 @@
   },
   {
     "slug": "nutty-dense-syrian-broccoli-stew",
-    "title": "Nutty Dense Syrian Broccoli Stew",
+    "title": "Stew with Syrian Bread",
     "tags": [
-      "slow-cook",
-      "fodmap-friendly",
-      "vegetarian",
-      "gluten-free",
-      "nutty",
-      "dense",
-      "syrian",
-      "broccoli",
-      "stew"
+      "stew",
+      "bread",
+      "middleeastern"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 375,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -15125,17 +15119,15 @@
   },
   {
     "slug": "nutty-jamaican-sausage-grill",
-    "title": "Nutty Jamaican Sausage Grill",
+    "title": "Jamaican Sausage Skewers",
     "tags": [
-      "high-protein",
-      "jamaican",
-      "lacto-vegetarian",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "caribbean",
+      "grilled",
+      "sausage",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 30,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
