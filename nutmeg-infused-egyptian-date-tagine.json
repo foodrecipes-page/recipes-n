@@ -1,0 +1,69 @@
+{
+  "slug": "nutmeg-infused-egyptian-date-tagine",
+  "title": "Traditional Egyptian Date Tagine",
+  "description": "A classic North African dessert made with dates, nutmeg, and a hint of spice.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "infused sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Egyptian tagine spice blend",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine dates, infused sugar, almond extract, and ground nutmeg.",
+    "Mix well until the dates are evenly coated with the sugar mixture.",
+    "Transfer the date mixture to a 9-inch (23cm) round baking dish.",
+    "Sprinkle the Egyptian tagine spice blend evenly over the top of the date mixture.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the filling is bubbly.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "dates",
+    "north-african",
+    "spiced"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutmeg-infused-egyptian-date-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:15:48.400Z"
+}
