@@ -1,0 +1,98 @@
+{
+  "slug": "naturally-smoky-jamaican-duck-skewers",
+  "title": "Smoky Jamaican Duck Skewers",
+  "description": "Tender duck breast marinated in smoky Jamaican spices, grilled to perfection on skewers.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "poultry",
+    "grill"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "500g",
+      "notes": "2 breasts"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pineapple chunks",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "100g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "100g",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a small bowl, whisk together the Jamaican jerk seasoning, honey, lime juice, vegetable oil, smoked paprika, and garlic powder.",
+    "Place the duck breasts in a large ziplock bag or a shallow dish.",
+    "Pour the marinade over the duck breasts and coat evenly.",
+    "Refrigerate for at least 2 hours or overnight.",
+    "Thread the pineapple chunks, red onion, and bell pepper onto the skewers.",
+    "Remove the duck from the marinade, letting any excess liquid drip off.",
+    "Grill the duck for 5-6 minutes per side, or until it reaches an internal temperature of 63°C.",
+    "Grill the skewers for 2-3 minutes per side, or until the vegetables are tender.",
+    "Let the duck rest for 5 minutes before slicing and serving with the skewers."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "smoky",
+    "grill",
+    "duck",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-smoky-jamaican-duck-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:52:32.588Z"
+}
