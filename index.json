@@ -44,16 +44,14 @@
   },
   {
     "slug": "nanized-fatty-venezuelan-solo-dinner-skewers",
-    "title": "Nanized Fatty Venezuelan Solo-Dinner Skewers",
+    "title": "Delicious Fatty Skewers",
     "tags": [
-      "crispy",
-      "fodmap-friendly",
+      "latinamerican",
       "grilled",
-      "high-fat",
-      "venezuelan"
+      "meat"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 27,
+    "cuisine": "Latin American",
+    "totalTimeMin": 31,
     "shard": "n"
   },
   {
@@ -8661,19 +8659,16 @@
   },
   {
     "slug": "nourishing-spicy-algerian-kimchi-tagine",
-    "title": "Nourishing Spicy Algerian Kimchi Tagine",
+    "title": "Spicy Algerian Chicken Tagine",
     "tags": [
-      "breakfast",
-      "brunch",
-      "egg-free",
-      "gluten-free",
-      "keto",
-      "low-carb",
-      "one-pot",
-      "spicy"
+      "algerian",
+      "kimchi",
+      "spicy",
+      "chicken",
+      "tagine"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
