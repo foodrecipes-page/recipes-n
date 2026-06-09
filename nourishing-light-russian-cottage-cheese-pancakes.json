@@ -1,0 +1,85 @@
+{
+  "slug": "nourishing-light-russian-cottage-cheese-pancakes",
+  "title": "Russian Cottage Pancakes",
+  "description": "A light and fluffy pancake recipe with a Russian twist, topped with nourishing cottage cheese.",
+  "cuisine": "russian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "gluten-free option: use almond flour"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "low-fat option: use 2% cottage cheese"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "use flax eggs for vegan option"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "dairy-free option: use almond milk"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "use coconut oil for vegan option"
+    },
+    {
+      "name": "blueberries",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together the cottage cheese, eggs, milk, and vegetable oil.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Do not overmix.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with fresh blueberries and a dollop of sour cream or whipped cream, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "russian",
+    "cottage-cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-light-russian-cottage-cheese-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:06:43.365Z"
+}
