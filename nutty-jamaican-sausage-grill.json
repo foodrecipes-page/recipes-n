@@ -1,0 +1,91 @@
+{
+  "slug": "nutty-jamaican-sausage-grill",
+  "title": "Jamaican Sausage Skewers",
+  "description": "Grilled sausage skewers with a Jamaican twist, featuring a spicy nutty glaze.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jamaican sausage",
+      "amount": "500g",
+      "notes": "preferably with a spicy flavor"
+    },
+    {
+      "name": "nutty glaze (peanut butter, soy sauce, brown sugar, garlic powder)",
+      "amount": "200g",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "grill",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "pineapple",
+      "amount": "200g",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "100ml",
+      "notes": "for marinade"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "50g",
+      "notes": "for marinade"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a blender or food processor, blend the nutty glaze ingredients until smooth.",
+    "3. In a large bowl, whisk together soy sauce and brown sugar for the marinade.",
+    "4. Add the chopped onion, bell pepper, and pineapple to the marinade and mix well.",
+    "5. Thread the Jamaican sausage onto skewers, leaving a little space between each piece.",
+    "6. Brush the nutty glaze onto the sausage, then place on the grill.",
+    "7. Cook the sausage for 5-7 minutes per side, or until it reaches an internal temperature of 74°C.",
+    "8. Remove the sausage from the grill and let it rest for a few minutes.",
+    "9. Serve the Jamaican sausage skewers with the grilled pineapple and onion slices.",
+    "10. Garnish with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "grilled",
+    "sausage",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-jamaican-sausage-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:17:18.140Z"
+}
