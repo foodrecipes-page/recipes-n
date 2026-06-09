@@ -13441,19 +13441,15 @@
   },
   {
     "slug": "nutty-crumbly-syrian-hind-shank-tagine",
-    "title": "Nutty Crumbly Syrian Hind Shank Tagine",
+    "title": "Braised Hind Shank Tagine",
     "tags": [
-      "nutty",
-      "crumbly",
-      "festive",
-      "sous-vide",
-      "dairy-free-friendly",
-      "syrian",
-      "hind-shank",
-      "tagine"
+      "moroccan",
+      "tagine",
+      "stew",
+      "hindshank"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 2190,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 165,
     "shard": "n"
   },
   {
@@ -13611,17 +13607,15 @@
   },
   {
     "slug": "nutty-crunchy-peruvian-chicken-skewers",
-    "title": "Nutty Crunchy Peruvian Chicken Skewers",
+    "title": "Peruvian Chicken Skewers",
     "tags": [
-      "crunchy-textures",
-      "date-night",
-      "gluten-free",
-      "healthy-dinner",
-      "nutty-flavors",
-      "peruvian-cuisine"
+      "grilling",
+      "chicken",
+      "peruvian",
+      "latin-american"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "cuisine": "Latin American",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -15029,18 +15023,15 @@
   },
   {
     "slug": "nutty-italian-dumplings-stir-fry",
-    "title": "Nutty Italian Dumplings Stir-fry",
+    "title": "Nutty Italian Stir-Fry Dumplings",
     "tags": [
-      "nutty",
-      "fluffy",
-      "hangover-cure",
       "italian",
-      "neapolitan",
-      "dumplings",
-      "vegan"
+      "asian",
+      "stir-fry",
+      "dumplings"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "cuisine": "Asian-Italian",
+    "totalTimeMin": 32,
     "shard": "n"
   },
   {
