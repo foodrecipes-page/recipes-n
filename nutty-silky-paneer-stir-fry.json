@@ -1,0 +1,70 @@
+{
+  "slug": "nutty-silky-paneer-stir-fry",
+  "title": "Nutty Paneer Stir Fry",
+  "description": "A simple and flavorful Indian-inspired dish made with paneer, nuts, and silky stir-fry sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup",
+      "notes": "chopped almonds or walnuts"
+    },
+    {
+      "name": "silky",
+      "amount": "2 tbsp",
+      "notes": "stir-fry sauce"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add garlic and ginger and sauté for 1 minute.",
+    "Add paneer and cook for 2-3 minutes, until lightly browned.",
+    "Add nutty and stir-fry sauce, and cook for 1-2 minutes, until sauce is bubbly.",
+    "Serve hot, garnished with chopped nuts and fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "veggie",
+    "paneer",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-silky-paneer-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:40:38.113Z"
+}
