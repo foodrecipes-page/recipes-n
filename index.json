@@ -2220,17 +2220,14 @@
   },
   {
     "slug": "nifty-tangy-jamaican-potato-burger",
-    "title": "Nifty Tangy Jamaican Potato Burger",
+    "title": "Jamaican Burger Bites",
     "tags": [
-      "jamaican",
-      "lunch",
-      "nut-free",
-      "potato-burger",
-      "quick",
-      "tangy"
+      "caribbean",
+      "beef",
+      "snack"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -3953,17 +3950,14 @@
   },
   {
     "slug": "nostalgic-slovakian-knafeh-fritters",
-    "title": "Nostalgic Slovakian Knafeh Fritters",
+    "title": "Traditional Slovakian Apple Fritters",
     "tags": [
-      "fritters",
-      "high-protein",
-      "nostalgic",
       "slovakian",
-      "snack",
-      "weeknight"
+      "fritters",
+      "dessert"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 35,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -9855,16 +9849,15 @@
   },
   {
     "slug": "nutmeg-infused-egyptian-date-tagine",
-    "title": "Nutmeg Infused Egyptian Date Tagine",
+    "title": "Traditional Egyptian Date Tagine",
     "tags": [
-      "date-night",
-      "flexitarian",
-      "middle-eastern",
-      "one-pan",
-      "spicy"
+      "dessert",
+      "dates",
+      "north-african",
+      "spiced"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
