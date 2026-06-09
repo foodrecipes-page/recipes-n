@@ -1,0 +1,71 @@
+{
+  "slug": "nanized-fatty-venezuelan-solo-dinner-skewers",
+  "title": "Delicious Fatty Skewers",
+  "description": "A flavorful and easy-to-make dish perfect for dinner. Skewers filled with marinated fatty meats, ready to be grilled to perfection.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fatty (pork or beef)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan (ají amarillo) peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Solo (or olive) oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nanized (onion) powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together Venezuelan peppers, solo oil, nanized powder, salt, and black pepper.",
+    "Add fatty meat to the marinade and mix well.",
+    "Thread the marinated meat onto skewers.",
+    "Grill the skewers for 8-10 minutes per side, or until the internal temperature reaches 160°F (71°C) for pork or 145°F (63°C) for beef.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "latinamerican",
+    "grilled",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nanized-fatty-venezuelan-solo-dinner-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:42:43.279Z"
+}
