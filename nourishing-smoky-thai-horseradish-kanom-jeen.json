@@ -1,0 +1,87 @@
+{
+  "slug": "nourishing-smoky-thai-horseradish-kanom-jeen",
+  "title": "Spicy Smoked Nourishing Noodle Soup",
+  "description": "A nourishing and flavorful Thai-inspired noodle soup that combines smoky flavors with a hint of spicy horseradish. A comforting meal for any time of the day.",
+  "cuisine": "Thai",
+  "diet": [
+    "Vegetarian",
+    "Vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jeen Mee (Rice Noodles)",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Smoked Tofu",
+      "amount": "1 block",
+      "notes": "diced"
+    },
+    {
+      "name": "Nourishing Broth",
+      "amount": "4 cups",
+      "notes": "vegetable-based broth"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Horseradish",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Kanom Jeen Sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the nourishing broth in a large pot over medium heat.",
+    "Add the Thai Red Curry Paste and stir to combine.",
+    "Add the diced smoked tofu and cook for 2-3 minutes.",
+    "Add the rice noodles and cook according to package instructions.",
+    "Stir in the Kanom Jeen Sauce and adjust seasoning as needed.",
+    "Taste and adjust the horseradish level to desired spiciness.",
+    "Serve hot, garnished with chopped cilantro and lime wedges.",
+    "Enjoy with your favorite Thai-inspired dishes.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat as needed, adding more broth if necessary."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "noodle-soup",
+    "vegan",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-thai-horseradish-kanom-jeen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:29:10.723Z"
+}
