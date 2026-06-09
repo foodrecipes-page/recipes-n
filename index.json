@@ -793,16 +793,16 @@
   },
   {
     "slug": "naturally-smoky-jamaican-duck-skewers",
-    "title": "Naturally Smoky Jamaican Duck Skewers",
+    "title": "Smoky Jamaican Duck Skewers",
     "tags": [
-      "brunch-ideas",
-      "gluten-free",
-      "grilled-meats",
-      "jamaican-cuisine",
-      "smoky-flavors"
+      "jamaican",
+      "smoky",
+      "grill",
+      "duck",
+      "skewers"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 32,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -6808,18 +6808,15 @@
   },
   {
     "slug": "nourishing-light-russian-cottage-cheese-pancakes",
-    "title": "Nourishing Light Russian Cottage Cheese Pancakes",
+    "title": "Russian Cottage Pancakes",
     "tags": [
       "breakfast",
-      "fermented",
-      "gluten-free",
-      "healthy",
-      "high-protein",
+      "pancakes",
       "russian",
-      "vegetarian"
+      "cottage-cheese"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "cuisine": "russian",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
