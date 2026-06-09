@@ -1,0 +1,107 @@
+{
+  "slug": "nourishing-spicy-algerian-kimchi-tagine",
+  "title": "Spicy Algerian Chicken Tagine",
+  "description": "A flavorful and spicy North African inspired dish made with chicken, kimchi, and a blend of Moroccan spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Remove chicken and set aside.",
+    "Add onion, garlic, and ginger to pot and cook until softened, about 5 minutes.",
+    "Add kimchi, cumin, coriander, cayenne pepper, salt, and black pepper to pot. Cook for 1 minute.",
+    "Add browned chicken back to pot and stir to combine.",
+    "Cover pot and transfer to oven.",
+    "Bake at 375°F (190°C) for 25-30 minutes, or until chicken is cooked through.",
+    "Garnish with parsley and serve over couscous or rice.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "kimchi",
+    "spicy",
+    "chicken",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-spicy-algerian-kimchi-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:05:12.648Z"
+}
