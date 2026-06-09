@@ -16712,17 +16712,15 @@
   },
   {
     "slug": "nutty-silky-paneer-stir-fry",
-    "title": "Nutty Silky Paneer Stir-fry",
+    "title": "Nutty Paneer Stir Fry",
     "tags": [
-      "nutty",
-      "silky",
-      "cozy",
-      "egyptian",
+      "indian",
+      "veggie",
       "paneer",
       "stir-fry"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
