@@ -1658,17 +1658,15 @@
   },
   {
     "slug": "nice-crunchy-american-potato-burger",
-    "title": "Nice Crunchy American Potato Burger",
+    "title": "American Burger",
     "tags": [
-      "american-classics",
-      "crunchy-texture",
-      "easy-meal",
-      "quick-fix",
-      "vegetarian-friendly",
-      "wood-fired"
+      "burger",
+      "american",
+      "easy",
+      "dinner"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 45,
+    "cuisine": "american",
+    "totalTimeMin": 18,
     "shard": "n"
   },
   {
@@ -6445,16 +6443,20 @@
   },
   {
     "slug": "nourishing-japanese-chicken-katsudon",
-    "title": "Nourishing Japanese Chicken Katsudon",
+    "title": "Japanese Chicken Katsu Don",
     "tags": [
-      "high-protein",
-      "japanese-cuisine",
-      "kid-friendly",
-      "one-pan",
-      "weeknight"
+      "japanese",
+      "chicken",
+      "katsu",
+      "don",
+      "breading",
+      "frying",
+      "rice",
+      "egg",
+      "tonkatsu"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -8417,17 +8419,16 @@
   },
   {
     "slug": "nourishing-smoky-thai-horseradish-kanom-jeen",
-    "title": "Nourishing Smoky Thai Horseradish Kanom Jeen",
+    "title": "Spicy Smoked Nourishing Noodle Soup",
     "tags": [
-      "gluten-free",
-      "low-calorie",
-      "romantic-dinner",
-      "spicy-food",
-      "thai-cuisine",
-      "wood-fired"
+      "thai",
+      "noodle-soup",
+      "vegan",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -16742,17 +16743,14 @@
   },
   {
     "slug": "nutty-silky-peruvian-pork-knuckle-stew",
-    "title": "Nutty Silky Peruvian Pork Knuckle Stew",
+    "title": "Crispy Peruvian Pork Knuckle",
     "tags": [
-      "comfort-food",
-      "halal-friendly",
-      "nutty-flavors",
-      "peruvian-cuisine",
-      "pork-recipes",
-      "silky-texture"
+      "peruvian",
+      "pork",
+      "knuckle"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
