@@ -9958,17 +9958,14 @@
   },
   {
     "slug": "nutmeg-roasted-uruguayan-potatoes-hash",
-    "title": "nutmeg roasted uruguayan potatoes hash",
+    "title": "Uruguayan Hash with Roasted Potatoes",
     "tags": [
       "breakfast",
-      "brunch",
       "hash",
-      "one-pan",
-      "uruguayan",
-      "vegetarian",
-      "weeknight"
+      "potatoes",
+      "uruguayan"
     ],
-    "cuisine": "uruguayan",
+    "cuisine": "Uruguayan",
     "totalTimeMin": 40,
     "shard": "n"
   },
@@ -12739,17 +12736,15 @@
   },
   {
     "slug": "nutty-crisp-argentinian-beef-empanadas",
-    "title": "Nutty Crisp Argentinian Beef Empanadas",
+    "title": "Beef Empanadas Recipe",
     "tags": [
-      "argentinian-cuisine",
-      "beef-recipes",
+      "beef",
       "empanadas",
-      "keto-friendly",
-      "low-carb",
-      "nutty-flavors"
+      "argentinian",
+      "south-american"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "cuisine": "argentinian",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
