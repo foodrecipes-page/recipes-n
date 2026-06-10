@@ -661,17 +661,16 @@
   },
   {
     "slug": "naturally-smoked-argentinian-beef-skewers",
-    "title": "Naturally Smoked Argentinian Beef Skewers",
+    "title": "Grilled Smoked Beef Skewers with Chimichurri",
     "tags": [
+      "beef",
+      "grilled",
       "argentinian",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "smoked",
-      "weeknight"
+      "skewers",
+      "summer"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 36,
     "shard": "n"
   },
   {
