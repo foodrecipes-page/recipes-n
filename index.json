@@ -442,15 +442,14 @@
   },
   {
     "slug": "naturally-earthy-venezuelan-water-chestnut-casserole",
-    "title": "Venezuelan Water Chestnut Casserole",
+    "title": "Chestnut and Earthy Venezuelan Casserole",
     "tags": [
-      "earth-friendly",
       "latin-american",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "casserole",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Venezuelan",
+    "cuisine": "Latin American",
     "totalTimeMin": 45,
     "shard": "n"
   },
@@ -6254,17 +6253,16 @@
   },
   {
     "slug": "nourishing-irish-turkey-neck-stew",
-    "title": "Nourishing Irish Turkey Neck Stew",
+    "title": "Hearty Irish Turkey Stew",
     "tags": [
-      "comfort-food",
       "hearty",
-      "homestyle",
-      "one-pan",
+      "comforting",
+      "turkey",
       "stew",
-      "turkey"
+      "irish"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 150,
+    "totalTimeMin": 105,
     "shard": "n"
   },
   {
@@ -18050,16 +18048,14 @@
   },
   {
     "slug": "nutty-venezuelan-dates-empanadas",
-    "title": "Nutty Venezuelan Dates Empanadas",
+    "title": "Empanadas with Date Filling",
     "tags": [
-      "flexitarian",
-      "hangover-cure",
-      "one-pan",
-      "savory",
-      "weeknight"
+      "dessert",
+      "empanada",
+      "venezuelan"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
