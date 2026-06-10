@@ -1,0 +1,92 @@
+{
+  "slug": "nourishing-irish-turkey-neck-stew",
+  "title": "Hearty Irish Turkey Stew",
+  "description": "A comforting and nourishing stew made with tender turkey, fresh vegetables, and herbs, perfect for a chilly evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey neck",
+      "amount": "1",
+      "notes": "about 2 pounds"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": "about 1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the turkey neck on all sides, about 5 minutes.",
+    "Remove the turkey and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the carrots, potatoes, thyme, and parsley. Cook for 5 minutes.",
+    "Add the flour and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Return the turkey to the pot and simmer, covered, until the meat is tender, about 1 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "comforting",
+    "turkey",
+    "stew",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-irish-turkey-neck-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:13:18.283Z"
+}
