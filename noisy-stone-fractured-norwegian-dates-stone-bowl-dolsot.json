@@ -1,0 +1,65 @@
+{
+  "slug": "noisy-stone-fractured-norwegian-dates-stone-bowl-dolsot",
+  "title": "Norwegian Stone Bowl Stew",
+  "description": "A hearty and flavorful stew made with Norwegian ingredients, perfect for a cold evening. This recipe is a twist on traditional Korean dolsot bibimbap.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup"
+    },
+    {
+      "name": "stone (scallions)",
+      "amount": "1 bunch",
+      "notes": "use the green parts"
+    },
+    {
+      "name": "fractured (tofu)",
+      "amount": "1 block",
+      "notes": "press out excess liquid"
+    },
+    {
+      "name": "bowl (serves 4-6)",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "dolsot",
+      "amount": "1",
+      "notes": "traditional Korean stone bowl"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the dolsot over medium-high heat.",
+    "Add the scallions and cook until slightly caramelized.",
+    "Add the tofu and cook until golden brown.",
+    "Add the dates and stir to combine.",
+    "Cook for an additional 2-3 minutes.",
+    "Serve hot in the dolsot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "vegetarian",
+    "bowl",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/noisy-stone-fractured-norwegian-dates-stone-bowl-dolsot",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:04:08.006Z"
+}
