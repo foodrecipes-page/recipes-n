@@ -3101,14 +3101,14 @@
   },
   {
     "slug": "nnutty-spanish-cherry-pilaf",
-    "title": "NNutty Spanish Cherry Pilaf",
+    "title": "Spanish Cherry Pilaf",
     "tags": [
-      "mediterranean",
-      "nocumin",
-      "noonion"
+      "spanish",
+      "pilaf",
+      "vegetarian"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 15,
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -4318,17 +4318,14 @@
   },
   {
     "slug": "nourishing-arabian-lamb-grill",
-    "title": "Nourishing Arabian Lamb Grill",
+    "title": "Lamb Koftas with Arabian Spices",
     "tags": [
-      "arabian",
-      "family-friendly",
+      "lamb",
       "grill",
-      "high-protein",
-      "post-workout",
-      "raclette-grill"
+      "arabian"
     ],
-    "cuisine": "Saudi Arab",
-    "totalTimeMin": 49,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -11175,15 +11172,15 @@
   },
   {
     "slug": "nutritious-no-cook-korean-haricot-beans-mixed-rice-bowl",
-    "title": "Nutritious no-cook Korean Haricot beans Mixed-Rice-Bowl",
+    "title": "Korean Mixed Rice Bowl",
     "tags": [
-      "bibimbap",
-      "jeju-island",
-      "korean-cuisine",
-      "plant-based"
+      "korean",
+      "mixed-rice-bowl",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 15,
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
@@ -11950,17 +11947,15 @@
   },
   {
     "slug": "nutty-australian-tofu-skewers",
-    "title": "Nutty Australian Tofu Skewers",
+    "title": "Australian Shrimp Skewers",
     "tags": [
-      "australian",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "plant-based",
-      "weeknight"
+      "healthy",
+      "seafood",
+      "vegetarian"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 32,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
