@@ -1,0 +1,70 @@
+{
+  "slug": "nchar-ngrilled-fil-pi-lan-tinola",
+  "title": "Grilled Nchar with Ngrilled and Pi",
+  "description": "A simple and flavorful dish made with grilled nchar, ngrilled, and pi.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "nchar",
+      "amount": "1 bunch",
+      "notes": "grated"
+    },
+    {
+      "name": "ngrilled",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "fil oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "pi",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "lan ngusang",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tinola spice mix",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the fil oil in a pan over medium heat.",
+    "Add the ngrilled and cook until slightly browned.",
+    "Add the grated nchar and cook until wilted.",
+    "Add the pi, lan ngusang, and tinola spice mix. Stir well.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "filipino",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nchar-ngrilled-fil-pi-lan-tinola",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:34:00.206Z"
+}
