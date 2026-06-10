@@ -1,0 +1,85 @@
+{
+  "slug": "nutty-venezuelan-dates-empanadas",
+  "title": "Empanadas with Date Filling",
+  "description": "A delicious Venezuelan-inspired dessert, featuring sweet empanadas filled with a date-based filling.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dried dates",
+      "amount": "1 cup, pitted",
+      "notes": null
+    },
+    {
+      "name": "Nutty pastry dough (homemade or store-bought)",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Venezuelan cheese (or substitute with mozzarella)",
+      "amount": "1 cup, crumbled",
+      "notes": "Optional"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Melted butter",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Make or thaw the pastry dough according to package instructions.",
+    "In a bowl, mix together the crumbled cheese, melted butter, cinnamon, sugar, and salt.",
+    "Add the pitted dates to the cheese mixture and mix well.",
+    "Roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the date mixture in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges to seal.",
+    "Brush the tops of the empanadas with a little water and sprinkle with sugar.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "empanada",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-venezuelan-dates-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:21:32.378Z"
+}
