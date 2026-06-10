@@ -1,0 +1,76 @@
+{
+  "slug": "nutritious-no-cook-korean-haricot-beans-mixed-rice-bowl",
+  "title": "Korean Mixed Rice Bowl",
+  "description": "A quick and easy Korean-inspired mixed rice bowl with a variety of nutritious ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed rice",
+      "amount": "2 cups",
+      "notes": "preferably short-grain rice"
+    },
+    {
+      "name": "Haricot beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Cooked Korean kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "No-sauce vegetables",
+      "amount": "",
+      "notes": "such as bean sprouts, shredded carrots, chopped green onions"
+    },
+    {
+      "name": "Cooked nutritious greens",
+      "amount": "2 cups",
+      "notes": "such as spinach, kale"
+    },
+    {
+      "name": "No-sauce nuts",
+      "amount": "1/4 cup",
+      "notes": "such as chopped peanuts or almonds"
+    },
+    {
+      "name": "No-sauce seeds",
+      "amount": "1/4 cup",
+      "notes": "such as sesame seeds"
+    }
+  ],
+  "instructions": [
+    "1. Cook the mixed rice according to package instructions.",
+    "2. Heat the cooked haricot beans in a pan with a little bit of oil.",
+    "3. Add the cooked Korean kimchi to the pan with the haricot beans and stir-fry for 2-3 minutes.",
+    "4. Assemble the mixed rice bowl by placing the cooked rice at the bottom, followed by the haricot bean and kimchi mixture, then the nutritious greens, no-sauce nuts, and no-sauce seeds.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "mixed-rice-bowl",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-no-cook-korean-haricot-beans-mixed-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:13:28.404Z"
+}
