@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-arabian-lamb-grill",
+  "title": "Lamb Koftas with Arabian Spices",
+  "description": "A flavorful and aromatic Middle Eastern-inspired lamb dish, perfect for a summer evening. The combination of spices and herbs adds a unique twist to traditional koftas.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Lamb",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio works best"
+    },
+    {
+      "name": "Arabian Spices",
+      "amount": "2 teaspoons",
+      "notes": "available in most Middle Eastern markets"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing the grill"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4-6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat (375°F).",
+    "2. In a large bowl, combine the ground lamb, Arabian spices, olive oil, onion, garlic, parsley, salt, and black pepper. Mix well with your hands until just combined.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "4. Remove the lamb mixture from the refrigerator and use your hands to shape it into 8-10 koftas, about 1 1/2 inches in diameter.",
+    "5. Thread the koftas onto skewers, if using.",
+    "6. Brush the grill with olive oil to prevent sticking.",
+    "7. Grill the koftas for 4-5 minutes per side, or until they are cooked through and slightly charred.",
+    "8. Transfer the koftas to a serving platter and let them rest for 5 minutes before serving.",
+    "9. Warm the pita bread by wrapping it in foil and heating it in the oven at 350°F for 5 minutes.",
+    "10. Serve the koftas in the pita bread with your favorite toppings, such as tomato, onion, and tzatziki sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "grill",
+    "arabian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-arabian-lamb-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:04:24.073Z"
+}
