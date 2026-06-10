@@ -776,17 +776,15 @@
   },
   {
     "slug": "naturally-smoky-italian-dates-skewers",
-    "title": "Naturally Smoky Italian Dates Skewers",
+    "title": "Smoky Italian Chicken Skewers with Dates",
     "tags": [
-      "date-night",
-      "grilled-vegetables",
-      "italian-food",
-      "robata-grill",
-      "satvik-friendly",
-      "umami-rich"
+      "italian",
+      "grilled",
+      "chicken",
+      "dates"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 28,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -1248,16 +1246,14 @@
   },
   {
     "slug": "nchar-ngrilled-fil-pi-lan-tinola",
-    "title": "Nchar-Ngrilled Fil-Pi Lan Tinola",
+    "title": "Grilled Nchar with Ngrilled and Pi",
     "tags": [
-      "filipino-dish",
-      "grilled-fil-pi",
-      "high-protein-friendly",
-      "tangy-juicy",
-      "tinola-style"
+      "grilled",
+      "filipino",
+      "vegetarian"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -4944,14 +4940,11 @@
   },
   {
     "slug": "nourishing-chinese-tomato-stew",
-    "title": "Nourishing Chinese Tomato Stew",
+    "title": "Chinese Nourishing Stew",
     "tags": [
-      "chinese-cuisine",
-      "dinner-ideas",
-      "gluten-free",
-      "healthy-eating",
-      "one-pot",
-      "paleo-friendly"
+      "chinese",
+      "nourishing",
+      "stew"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 40,
