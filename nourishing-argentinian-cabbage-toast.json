@@ -1,0 +1,84 @@
+{
+  "slug": "nourishing-argentinian-cabbage-toast",
+  "title": "Nourishing Cabbage Soup",
+  "description": "A hearty and comforting soup made with cabbage and nourishing ingredients. Perfect for a cold day.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Nourishing Bone Broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large pot over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the shredded cabbage and cook for 5 minutes until slightly tender.",
+    "Add the chopped carrots, bone broth, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Stir in the remaining 1 tablespoon of olive oil.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "comfort-food",
+    "cabbage"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-argentinian-cabbage-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:27:01.643Z"
+}
