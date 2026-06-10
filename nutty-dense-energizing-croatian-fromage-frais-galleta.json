@@ -1,0 +1,75 @@
+{
+  "slug": "nutty-dense-energizing-croatian-fromage-frais-galleta",
+  "title": "Croatian Honey Cakes (Galletas)",
+  "description": "Delicious Croatian-inspired honey cakes made with a hint of nutty goodness, perfect for a snack or dessert.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "galleta",
+      "amount": "2 1/4 cups",
+      "notes": "sugar cookies"
+    },
+    {
+      "name": "frais",
+      "amount": "1/2 cup",
+      "notes": "soft cheese"
+    },
+    {
+      "name": "energizing",
+      "amount": "2 large",
+      "notes": "eggs"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup",
+      "notes": "hazelnuts"
+    },
+    {
+      "name": "fromage",
+      "amount": "1/4 cup",
+      "notes": "grated cheese"
+    },
+    {
+      "name": "croatian",
+      "amount": "1 teaspoon",
+      "notes": "vanilla extract"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (180°C).",
+    "2. Crush the galleta cookies into fine crumbs.",
+    "3. In a large bowl, cream together the frais and energizing.",
+    "4. Add the nutty, fromage, and croatian to the bowl. Mix well.",
+    "5. Gradually add the galleta crumbs to the wet ingredients. Mix until a dough forms.",
+    "6. Scoop the dough into balls and place on a baking sheet.",
+    "7. Bake for 12-15 minutes or until lightly golden.",
+    "8. Allow the cakes to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+    "9. Dust with powdered sugar before serving.",
+    "10. Enjoy your delicious Croatian honey cakes!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "honey-cakes",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-dense-energizing-croatian-fromage-frais-galleta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:48:07.585Z"
+}
