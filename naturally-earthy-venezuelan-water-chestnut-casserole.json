@@ -1,0 +1,85 @@
+{
+  "slug": "naturally-earthy-venezuelan-water-chestnut-casserole",
+  "title": "Chestnut and Earthy Venezuelan Casserole",
+  "description": "A hearty, flavorful casserole from Venezuela, featuring earthy and naturally sweet chestnut. Perfect for a cold evening.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chestnut",
+      "amount": "1 (14 oz) can",
+      "notes": "drained and sliced"
+    },
+    {
+      "name": "Venezuelan Casserole",
+      "amount": "1 package",
+      "notes": "following package instructions for preparation"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for boiling chestnuts"
+    },
+    {
+      "name": "Earthy Spice Blend",
+      "amount": "1 tsp",
+      "notes": "available at most Latin American markets"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "optional for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Boil the chestnuts in water for 10 minutes, then drain and slice.",
+    "Follow the package instructions for preparing the Venezuelan casserole.",
+    "In a large skillet, combine the sliced chestnuts, Venezuelan casserole, earthy spice blend, ground cumin, salt, and black pepper.",
+    "Heat the mixture over medium heat, stirring occasionally, until the flavors are well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with shredded cheese (if using).",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot, garnished with chopped fresh herbs (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "latin-american",
+    "casserole",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-earthy-venezuelan-water-chestnut-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:15:33.422Z"
+}
