@@ -3320,16 +3320,15 @@
   },
   {
     "slug": "noisy-stone-fractured-norwegian-dates-stone-bowl-dolsot",
-    "title": "noisy stone-fractured norwegian dates stone-bowl-dolsot",
+    "title": "Norwegian Stone Bowl Stew",
     "tags": [
-      "dairy-free",
-      "fermented",
-      "monsoon",
       "norwegian",
-      "shattering"
+      "vegetarian",
+      "bowl",
+      "stew"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 50,
+    "cuisine": "Norwegian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -4330,17 +4329,14 @@
   },
   {
     "slug": "nourishing-argentinian-cabbage-toast",
-    "title": "nourishing argentinian cabbage toast",
+    "title": "Nourishing Cabbage Soup",
     "tags": [
-      "argentinian",
-      "easy",
-      "flexitarian",
-      "post-workout",
-      "quick",
-      "snack"
+      "healthy",
+      "comfort-food",
+      "cabbage"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 15,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -9553,13 +9549,15 @@
   },
   {
     "slug": "nurturing-indian-peppers-thali",
-    "title": "Nurturing Indian Peppers Thali",
+    "title": "Indian Vegetable Thali",
     "tags": [
       "indian",
-      "dinner"
+      "vegetarian",
+      "lunch",
+      "gluten-free"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 40,
+    "cuisine": "indian",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
@@ -11070,17 +11068,15 @@
   },
   {
     "slug": "nutritious-nice-japanese-vegetables-kushikatsu",
-    "title": "Nutritious Nice Japanese Vegetables Kushikatsu",
+    "title": "Japanese Vegetable Kushikatsu",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "kushikatsu",
-      "one-pan",
-      "speculaas",
-      "weeknight"
+      "japanese",
+      "vegetarian",
+      "snack",
+      "kushikatsu"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
