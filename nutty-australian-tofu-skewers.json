@@ -1,0 +1,93 @@
+{
+  "slug": "nutty-australian-tofu-skewers",
+  "title": "Australian Shrimp Skewers",
+  "description": "A flavorful and healthy Australian-inspired dish featuring marinated shrimp grilled to perfection on skewers.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": null
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "australian",
+      "amount": "2 tsp",
+      "notes": "Australian seasoning blend"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo skewers",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp, tofu, and vegetables onto skewers, leaving a little space between each piece.",
+    "In a small bowl, mix together nutty, australian, olive oil, lemon juice, garlic, salt, and pepper.",
+    "Brush the marinade onto both sides of the shrimp and tofu.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the shrimp are pink and the tofu is golden brown.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "healthy",
+    "seafood",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-australian-tofu-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:20:33.445Z"
+}
