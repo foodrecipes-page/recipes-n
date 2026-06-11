@@ -1,0 +1,76 @@
+{
+  "slug": "nimble-citrus-peruvian-beef-stir-fry",
+  "title": "Peruvian Beef Stir Fry",
+  "description": "A quick and flavorful stir-fry dish made with beef, Peruvian spices, and citrus.",
+  "cuisine": "Latin American",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin)",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Nimble Greens (such as spinach or kale)",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Peruvian Stir Fry Sauce",
+      "amount": "2 tablespoons",
+      "notes": "See below for recipe"
+    },
+    {
+      "name": "Citrus (orange or lime juice)",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Oil (coconut or vegetable)",
+      "amount": "1 tablespoon",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes. Remove from skillet.",
+    "Add Peruvian Stir Fry Sauce to the skillet and cook for 1 minute.",
+    "Add nimble greens and cook until wilted, about 1-2 minutes.",
+    "Return beef to the skillet and stir to combine with greens and sauce.",
+    "Squeeze citrus juice over the top and season with salt and pepper.",
+    "Serve hot over rice or noodles, garnished with additional citrus wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "peruvian",
+    "stir-fry",
+    "latinamerican"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-citrus-peruvian-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:16:51.921Z"
+}
