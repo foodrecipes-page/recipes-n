@@ -2450,17 +2450,14 @@
   },
   {
     "slug": "nimble-citrus-peruvian-beef-stir-fry",
-    "title": "Nimble Citrus Peruvian Beef Stir-fry",
+    "title": "Peruvian Beef Stir Fry",
     "tags": [
       "beef",
-      "low-calorie",
       "peruvian",
-      "quick",
       "stir-fry",
-      "ti-leaf-wrap",
-      "weeknight"
+      "latinamerican"
     ],
-    "cuisine": "Peruvian",
+    "cuisine": "Latin American",
     "totalTimeMin": 25,
     "shard": "n"
   },
@@ -4248,16 +4245,15 @@
   },
   {
     "slug": "nourishing-algerian-lamb-tagine",
-    "title": "Nourishing Algerian Lamb Tagine",
+    "title": "Classic Algerian Lamb Tagine",
     "tags": [
-      "lamb-based",
-      "north-african",
-      "one-pot",
-      "slow-cooked",
-      "spicy"
+      "algerian",
+      "lamb",
+      "stew",
+      "slow-cooked"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 170,
     "shard": "n"
   },
   {
@@ -10579,16 +10575,15 @@
   },
   {
     "slug": "nutritious-filipino-anchovy-fillet-lumpia",
-    "title": "Nutritious Filipino Anchovy Fillet Lumpia",
+    "title": "Filipino-Style Battered Lumpia with Anchovy Dipping Sauce",
     "tags": [
-      "anchovy-recipes",
-      "filipino-food",
-      "lumpia-recipes",
-      "pescatarian-dishes",
-      "steamed-snacks"
+      "filipino",
+      "lumpia",
+      "anchovy",
+      "snack"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
