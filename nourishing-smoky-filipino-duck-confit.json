@@ -1,0 +1,82 @@
+{
+  "slug": "nourishing-smoky-filipino-duck-confit",
+  "title": "Smoked Duck Confit",
+  "description": "A rich and savory Filipino-inspired dish featuring slow-cooked duck confit with a smoky twist.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "4",
+      "notes": "skin-on"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 275°F (135°C).",
+    "Season the duck legs with smoked paprika, garlic, fish sauce, brown sugar, and black pepper.",
+    "Heat coconut oil in a large Dutch oven over medium-high heat. Sear the duck legs until browned, about 5 minutes per side.",
+    "Transfer the Dutch oven to the preheated oven and slow-cook the duck confit for 2-1/2 hours, or until tender and falling off the bone.",
+    "Remove the duck from the oven and let it rest for 10 minutes before serving.",
+    "Garnish with fresh cilantro and serve with steamed rice or vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 165,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked",
+    "duck",
+    "confit",
+    "filipino",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-filipino-duck-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:35:46.072Z"
+}
