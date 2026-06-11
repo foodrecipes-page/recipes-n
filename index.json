@@ -1327,17 +1327,15 @@
   },
   {
     "slug": "nectarous-cheesy-venezuelan-beef-wrap",
-    "title": "Nectarous Cheesy Venezuelan Beef Wrap",
+    "title": "Venezuelan Beef Wrap",
     "tags": [
-      "cheesy",
-      "citrusy",
-      "easy-dish",
-      "latin-american",
-      "quick-lunch",
-      "wrap"
+      "beef",
+      "wrap",
+      "venezuelan",
+      "lunch"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 32,
     "shard": "n"
   },
   {
@@ -12968,17 +12966,16 @@
   },
   {
     "slug": "nutty-crispy-irish-potato-skillet",
-    "title": "Nutty Crispy Irish Potato Skillet",
+    "title": "Irish Skillet Hash",
     "tags": [
-      "comfort-food",
-      "crispy-potatoes",
-      "irish-cuisine",
-      "jain-friendly",
-      "nutty-flavors",
-      "one-pan"
+      "hash",
+      "potatoes",
+      "irish",
+      "breakfast",
+      "brunch"
     ],
-    "cuisine": "irish",
-    "totalTimeMin": 45,
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
