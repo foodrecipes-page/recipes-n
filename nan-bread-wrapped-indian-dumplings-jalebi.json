@@ -1,0 +1,98 @@
+{
+  "slug": "nan-bread-wrapped-indian-dumplings-jalebi",
+  "title": "Indian-Style Jalebi Bread Bites",
+  "description": "A twist on traditional Indian jalebi, these crispy bread bites make a delicious snack or side dish. Serve warm with a dollop of yogurt or a sprinkle of powdered sugar.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "wrapped",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "dumplings",
+      "amount": "1 package",
+      "notes": "flour or bread-based dumplings work best"
+    },
+    {
+      "name": "jalebi",
+      "amount": "1 can",
+      "notes": "or make from scratch with gram flour, sugar, and spices"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "Cut bread into 1-inch cubes and set aside.",
+    "In a separate bowl, mix together wrapped dumplings, jalebi, ginger, cumin, coriander, and cayenne pepper.",
+    "Dip each bread cube into the mixture, coating evenly.",
+    "Fry bread bites in batches until golden brown, about 2-3 minutes per side.",
+    "Drain on paper towels and serve warm with yogurt or powdered sugar.",
+    "Optional: serve with a side of sweet chutney or raita (yogurt with cucumber and cumin).",
+    "Adjust spice level to taste by adding more cayenne pepper or omitting it altogether.",
+    "For an extra crunchy coating, sprinkle a pinch of gram flour or cornstarch on fried bread bites before serving.",
+    "Experiment with different types of dumplings or bread for unique textures and flavors.",
+    "For a lighter version, bake bread bites in a preheated oven at 375°F (190°C) for 10-12 minutes, or until crispy and golden.",
+    "Store leftover bread bites in an airtight container at room temperature for up to 2 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "breakfast",
+    "brunch",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nan-bread-wrapped-indian-dumplings-jalebi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:04:03.247Z"
+}
