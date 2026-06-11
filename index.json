@@ -8135,17 +8135,16 @@
   },
   {
     "slug": "nourishing-smoky-filipino-duck-confit",
-    "title": "Nourishing Smoky Filipino Duck Confit",
+    "title": "Smoked Duck Confit",
     "tags": [
+      "smoked",
+      "duck",
+      "confit",
       "filipino",
-      "one-pan",
-      "plant-based",
-      "romantic",
-      "smoky",
-      "weeknight"
+      "meat"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 55,
+    "totalTimeMin": 180,
     "shard": "n"
   },
   {
