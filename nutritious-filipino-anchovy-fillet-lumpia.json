@@ -1,0 +1,72 @@
+{
+  "slug": "nutritious-filipino-anchovy-fillet-lumpia",
+  "title": "Filipino-Style Battered Lumpia with Anchovy Dipping Sauce",
+  "description": "A crispy and flavorful Filipino-inspired dish made with lumpia and served with a tangy anchovy dipping sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lumpia wrappers",
+      "amount": "1 package (20-25 pieces)"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Anchovies",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together vinegar, salt, and sugar.",
+    "In a separate bowl, mix together chopped anchovies and water.",
+    "Dip each lumpia wrapper into the vinegar mixture, coating both sides.",
+    "Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "Fry the lumpia until golden brown, about 2-3 minutes per side.",
+    "Drain the lumpia on paper towels.",
+    "Serve the lumpia with the anchovy dipping sauce.",
+    "To make the dipping sauce, mix together the anchovy mixture and vinegar mixture.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "lumpia",
+    "anchovy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-filipino-anchovy-fillet-lumpia",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:31:58.747Z"
+}
