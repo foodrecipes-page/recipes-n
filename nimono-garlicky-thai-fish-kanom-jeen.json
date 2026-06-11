@@ -1,0 +1,75 @@
+{
+  "slug": "nimono-garlicky-thai-fish-kanom-jeen",
+  "title": "Thai Fish Nimono",
+  "description": "Delicately flavored Thai fish curry made with nimono ingredients, perfect for a quick dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (cod or tilapia)",
+      "amount": "4"
+    },
+    {
+      "name": "Nimono",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlicky sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a pan over medium heat.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the fish fillets and cook for 2-3 minutes per side, until cooked through.",
+    "Add the nimono, garlicky sauce, coconut milk, fish sauce, and sugar to the pan.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 5-7 minutes, until the sauce has thickened.",
+    "Stir in the Thai basil and serve the curry over rice or noodles.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fish",
+    "nimono",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimono-garlicky-thai-fish-kanom-jeen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:36:39.868Z"
+}
