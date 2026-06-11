@@ -1,0 +1,92 @@
+{
+  "slug": "nourishing-bitter-spanish-navy-beans-patatas-bravas",
+  "title": "Patatas Bravas with Spanish Bean Stew",
+  "description": "A hearty and flavorful Spanish-inspired stew featuring patatas bravas and navy beans.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "patatas",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "nourishing beans",
+      "amount": "1 cup",
+      "notes": "navy beans, soaked overnight"
+    },
+    {
+      "name": "bravas",
+      "amount": "1/4 cup",
+      "notes": "bravas sauce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the diced onion and cook for 3-4 minutes until softened.",
+    "Add the cumin, smoked paprika, salt, and pepper. Cook for 1 minute.",
+    "Add the soaked navy beans, diced patatas, and bravas sauce. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "lunch",
+    "beans",
+    "patatas"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-bitter-spanish-navy-beans-patatas-bravas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:33:33.722Z"
+}
