@@ -1,0 +1,83 @@
+{
+  "slug": "nectarous-cheesy-venezuelan-beef-wrap",
+  "title": "Venezuelan Beef Wrap",
+  "description": "A flavorful and spicy beef wrap inspired by the cuisine of Venezuela. Marinated beef is grilled to perfection and wrapped in a warm tortilla with fresh toppings.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (skirt steak or flank steak)",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Nectarous (honey)",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Cheesy (cheddar or Monterey Jack)",
+      "amount": "1/2 cup, shredded",
+      "notes": "For serving"
+    },
+    {
+      "name": "Wrap (tortilla)",
+      "amount": "4-6",
+      "notes": "Depending on serving size"
+    },
+    {
+      "name": "Venezuelan seasoning (or alternative)",
+      "amount": "1 tablespoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine nectarous, Venezuelan seasoning, red pepper flakes, salt, and black pepper to make marinade.",
+    "2. Place beef strips in a large zip-top plastic bag or a shallow dish. Pour marinade over beef, turning to coat. Seal or cover, and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat grill to medium-high heat. Remove beef from marinade, letting any excess liquid drip off.",
+    "4. Grill beef for 5-7 minutes per side, or until it reaches an internal temperature of 135°F for medium-rare.",
+    "5. Transfer beef to a cutting board and let it rest for 5 minutes before slicing into thin strips.",
+    "6. Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "7. Assemble wraps by placing beef strips onto a tortilla, followed by a sprinkle of cheddar cheese, a sprinkle of chopped cilantro (if desired), and a squeeze of lime juice.",
+    "8. Fold bottom edge of tortilla up over filling, then fold in sides and roll up to form a neat package.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "wrap",
+    "venezuelan",
+    "lunch"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nectarous-cheesy-venezuelan-beef-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:36:49.395Z"
+}
