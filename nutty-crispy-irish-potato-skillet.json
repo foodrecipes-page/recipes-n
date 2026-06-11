@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-crispy-irish-potato-skillet",
+  "title": "Irish Skillet Hash",
+  "description": "A hearty, crispy Irish-inspired potato dish perfect for breakfast or brunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "cooking vessel"
+    },
+    {
+      "name": "nutty oil",
+      "amount": "2 tablespoons",
+      "notes": "olive or avocado oil"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "4 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh herbs",
+      "amount": "1/4 cup",
+      "notes": "such as parsley or chives"
+    }
+  ],
+  "instructions": [
+    "1. Heat the oil in the skillet over medium-high heat.",
+    "2. Add the diced potatoes and cook until they start to brown, about 5 minutes.",
+    "3. Add the crispy bacon (if using) and cook for an additional 2 minutes.",
+    "4. Use a spatula to break up the potatoes and create a crispy crust on the bottom.",
+    "5. Continue cooking for an additional 5-7 minutes, or until the potatoes are golden brown and crispy.",
+    "6. Garnish with chopped fresh herbs and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hash",
+    "potatoes",
+    "irish",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-irish-potato-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:42:47.364Z"
+}
