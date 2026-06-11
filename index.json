@@ -4476,17 +4476,15 @@
   },
   {
     "slug": "nourishing-bitter-spanish-navy-beans-patatas-bravas",
-    "title": "Nourishing Bitter Spanish Navy Beans Patatas Bravas",
+    "title": "Patatas Bravas with Spanish Bean Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
       "spanish",
-      "vegetarian",
-      "weeknight"
+      "lunch",
+      "beans",
+      "patatas"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -14210,18 +14208,14 @@
   },
   {
     "slug": "nutty-flaky-korean-squash-bao",
-    "title": "Nutty Flaky Korean Squash Bao",
+    "title": "Korean Bao Squash Bites",
     "tags": [
       "korean",
-      "bao",
-      "squash",
-      "nutty",
-      "flaky",
-      "vegan-friendly",
-      "gluten-free"
+      "snack",
+      "vegan"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
