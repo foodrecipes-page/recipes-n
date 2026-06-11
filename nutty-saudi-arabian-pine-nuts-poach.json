@@ -1,0 +1,62 @@
+{
+  "slug": "nutty-saudi-arabian-pine-nuts-poach",
+  "title": "Saudi Arabian Pine Nut Pudding",
+  "description": "A creamy dessert made with pine nuts, reminiscent of traditional Saudi Arabian sweets. Perfect for warm weather.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pine nuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutty milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "arabian honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "poach pears",
+      "amount": "2"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a blender, blend the nutty milk, arabian honey, and lemon juice until smooth.",
+    "Add the pine nuts to the blender and blend until well combined.",
+    "Pour the mixture into 4 ramekins or small baking dishes.",
+    "Place the poach pears in the ramekins.",
+    "Bake for 20-25 minutes or until the pudding is set.",
+    "Chill in the refrigerator for at least 2 hours.",
+    "Serve cold, garnished with additional pine nuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "saudi-arabian",
+    "pine-nuts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-saudi-arabian-pine-nuts-poach",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:52:23.903Z"
+}
