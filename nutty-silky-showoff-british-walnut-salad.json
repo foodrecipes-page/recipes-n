@@ -1,0 +1,72 @@
+{
+  "slug": "nutty-silky-showoff-british-walnut-salad",
+  "title": "Walnut Salad with Walnut Crust",
+  "description": "A light and refreshing salad topped with a crunchy walnut crust. Perfect for a spring evening.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "silky",
+      "amount": "2 cups",
+      "notes": "lettuce or other greens"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup",
+      "notes": "crushed walnuts"
+    },
+    {
+      "name": "showoff",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh herbs, such as parsley"
+    },
+    {
+      "name": "british",
+      "amount": "1/4 cup",
+      "notes": "crumbly blue cheese"
+    },
+    {
+      "name": "walnut",
+      "amount": "2 tbsp",
+      "notes": "walnut oil"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a food processor, grind the walnuts into a coarse crumb.",
+    "Add the crushed walnuts to a bowl and mix in the chopped herbs.",
+    "In a separate pan, heat the walnut oil over medium heat.",
+    "Add the blue cheese to the pan and stir until melted.",
+    "To assemble the salad, place the silky greens on a plate and top with the walnut crumble.",
+    "Drizzle the melted blue cheese over the salad and serve immediately.",
+    "Garnish with additional chopped herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "walnuts",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-silky-showoff-british-walnut-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:29:49.867Z"
+}
