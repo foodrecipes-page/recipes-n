@@ -1,0 +1,70 @@
+{
+  "slug": "nutty-crispy-turkish-leek-stir-fry",
+  "title": "Turkish-Style Stir Fry with Leek",
+  "description": "A flavorful and crunchy stir fry dish inspired by Turkish cuisine, featuring leek as the main ingredient.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leek",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "turkish",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh herbs"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tablespoons",
+      "notes": "chopped walnuts"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup",
+      "notes": "chopped crispy fried onions"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "neutral oil"
+    },
+    {
+      "name": "fry",
+      "amount": "1 teaspoon",
+      "notes": "ground black pepper"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the chopped leek and cook until softened, about 3-4 minutes.",
+    "Add the chopped Turkish herbs and cook for 1 minute.",
+    "Add the chopped walnuts and cook for an additional 1-2 minutes.",
+    "Stir in the crispy fried onions and ground black pepper.",
+    "Serve hot and garnish with additional Turkish herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish-style",
+    "veggie-stir-fry",
+    "nutty-crunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-turkish-leek-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:23:59.694Z"
+}
