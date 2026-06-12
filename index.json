@@ -9802,17 +9802,14 @@
   },
   {
     "slug": "nutmeg-crunchy-algerian-pineapple-tagine",
-    "title": "Nutmeg crunchy Algerian pineapple Tagine",
+    "title": "Algerian Pineapple Tagine",
     "tags": [
-      "algerian-cuisine",
-      "gluten-free",
-      "low-sodium",
-      "north-african-food",
-      "pineapple-recipes",
-      "tagine-recipes"
+      "north-african",
+      "pineapple",
+      "vegetarian"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
