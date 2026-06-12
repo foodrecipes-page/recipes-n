@@ -2730,17 +2730,15 @@
   },
   {
     "slug": "nimble-korean-scallion-dosirak",
-    "title": "Nimble Korean Scallion Dosirak",
+    "title": "Korean-Style Scallion Nimble Rice",
     "tags": [
-      "easy",
-      "flambe",
       "korean",
-      "lunchbox",
-      "sattvic-friendly",
+      "vegetarian",
+      "rice",
       "scallion"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": 35,
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
