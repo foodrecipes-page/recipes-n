@@ -1,0 +1,83 @@
+{
+  "slug": "nimble-korean-scallion-dosirak",
+  "title": "Korean-Style Scallion Nimble Rice",
+  "description": "A simple and flavorful dish made with nimble, scallion, and dosirak, inspired by Korean cuisine.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Nimble",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dosirak",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add ginger and garlic and sauté for 1 minute.",
+    "Add scallion and cook for an additional 2 minutes.",
+    "Add dosirak and stir-fry for 3-4 minutes.",
+    "Add nimble and stir-fry for an additional 5-6 minutes.",
+    "Season with soy sauce and sugar.",
+    "Serve hot.",
+    "Garnish with additional scallion if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "rice",
+    "scallion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-korean-scallion-dosirak",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:15:31.154Z"
+}
