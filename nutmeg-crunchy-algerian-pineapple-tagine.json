@@ -1,0 +1,55 @@
+{
+  "slug": "nutmeg-crunchy-algerian-pineapple-tagine",
+  "title": "Algerian Pineapple Tagine",
+  "description": "A sweet and savory North African-inspired stew made with pineapple and spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Algerian",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup (chopped)"
+    },
+    {
+      "name": "pineapple",
+      "amount": "1 cup (diced)"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add Algerian and cook until fragrant, 1 minute.",
+    "Add pineapple and cook until tender, 5 minutes.",
+    "Add crunchy and stir to combine.",
+    "Season with nutmeg and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "pineapple",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutmeg-crunchy-algerian-pineapple-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:25:57.256Z"
+}
