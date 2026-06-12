@@ -1,0 +1,87 @@
+{
+  "slug": "nourishing-catalan-kabocha-wrap",
+  "title": "Catalan Kabocha Wrap",
+  "description": "A delicious and nutritious wrap filled with roasted kabocha squash and topped with a tangy Catalan-inspired sauce.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kabocha squash",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Catalan wrap",
+      "amount": "1 large"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Catalan seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the kabocha squash in half and scoop out the seeds.",
+    "Place the squash on a baking sheet, cut side up.",
+    "Drizzle with olive oil and sprinkle with Catalan seasoning, salt, pepper, and garlic powder.",
+    "Roast the squash in the preheated oven for 30-40 minutes, or until tender.",
+    "While the squash is roasting, prepare the Catalan-inspired sauce by whisking together lemon juice and olive oil in a small bowl.",
+    "Once the squash is done, let it cool for a few minutes before scooping it out of its skin and into a bowl.",
+    "Add the Catalan-inspired sauce to the bowl with the squash and toss to combine.",
+    "Warm the Catalan wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spoon the squash mixture onto the wrap and top with chopped fresh parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "vegan",
+    "gluten-free",
+    "wrap",
+    "kabocha",
+    "catalan",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-catalan-kabocha-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:18:23.508Z"
+}
