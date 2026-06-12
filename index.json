@@ -13669,17 +13669,15 @@
   },
   {
     "slug": "nutty-dense-adventurous-italian-rocket-stir-fry",
-    "title": "Nutty Dense Adventurous Italian Rocket Stir-fry",
+    "title": "Italian Pan-Seared Chicken with Rocket",
     "tags": [
-      "nutty",
-      "dense",
-      "adventurous",
       "italian",
+      "chicken",
       "rocket",
-      "ferment"
+      "pan-seared"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 18,
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "n"
   },
   {
@@ -15864,15 +15862,13 @@
   },
   {
     "slug": "nutty-noodle-vietnamese-chicken-pho",
-    "title": "Nutty Noodle Vietnamese Chicken Pho",
+    "title": "Vietnamese Chicken Pho",
     "tags": [
-      "gluten-free-dish",
-      "high-protein",
-      "kid-friendly",
-      "one-pan",
-      "pasta-dish",
       "vietnamese",
-      "weeknight"
+      "pho",
+      "chicken",
+      "noodle",
+      "soup"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
@@ -17151,17 +17147,15 @@
   },
   {
     "slug": "nutty-springy-italian-shrimp-ravioli",
-    "title": "Nutty Springy Italian Shrimp Ravioli",
+    "title": "Shrimp Ravioli with Italian Seasoning",
     "tags": [
-      "chocolate",
-      "donabe",
-      "italian-cuisine",
-      "kosher-friendly",
-      "seafood",
-      "spring-inspired"
+      "italian",
+      "pasta",
+      "shrimp",
+      "seafood"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
