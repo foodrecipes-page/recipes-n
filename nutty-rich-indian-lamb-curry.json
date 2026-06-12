@@ -1,0 +1,85 @@
+{
+  "slug": "nutty-rich-indian-lamb-curry",
+  "title": "Lamb Curry",
+  "description": "A flavorful and aromatic Indian-inspired dish featuring tender lamb in a rich and nutty curry sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Remove lamb from pot and set aside.",
+    "Reduce heat to medium and sauté onion until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Stir in curry powder and garam masala; cook for 1 minute.",
+    "Add tomato and cook until softened, about 3 minutes.",
+    "Return lamb to pot and stir in coconut milk.",
+    "Bring to a simmer, then reduce heat to low and cook, covered, until lamb is tender, about 1 1/2 hours.",
+    "Season with nutmeg to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "curry",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-rich-indian-lamb-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:52:48.039Z"
+}
