@@ -11049,16 +11049,15 @@
   },
   {
     "slug": "nutritious-nice-north-indian-sushi-rice-spicy-chaat",
-    "title": "Nutritious Nice North Indian Sushi Rice Spicy Chaat",
+    "title": "Spicy North Indian Chaat",
     "tags": [
-      "high-protein",
-      "indian-cuisine",
-      "one-pan",
-      "spicy-food",
-      "sushi-rice",
-      "weeknight"
+      "north-indian",
+      "chaat",
+      "snack",
+      "spicy",
+      "vegetarian"
     ],
-    "cuisine": "North Indian",
+    "cuisine": "north indian",
     "totalTimeMin": 25,
     "shard": "n"
   },
@@ -16689,14 +16688,13 @@
   },
   {
     "slug": "nutty-silky-showoff-british-walnut-salad",
-    "title": "Nutty Silky Showoff British Walnut Salad",
+    "title": "Walnut Salad with Walnut Crust",
     "tags": [
-      "nutty",
-      "silky",
-      "british",
-      "keto-friendly"
+      "salad",
+      "walnuts",
+      "herbs"
     ],
-    "cuisine": "British",
+    "cuisine": null,
     "totalTimeMin": 20,
     "shard": "n"
   },
