@@ -1,0 +1,78 @@
+{
+  "slug": "nutty-dense-adventurous-italian-rocket-stir-fry",
+  "title": "Italian Pan-Seared Chicken with Rocket",
+  "description": "A flavorful chicken dish with a rich Italian twist, served with a peppery rocket salad.",
+  "cuisine": "italian",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "rocket",
+      "amount": "4 cups",
+      "notes": "fresh, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Season the chicken breast with Italian seasoning, salt, and pepper.",
+    "Add the chicken to the skillet and sear for 5-6 minutes per side, or until cooked through.",
+    "Remove the chicken from the skillet and let it rest for 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1-2 minutes, or until fragrant.",
+    "Add the chopped rocket to the skillet and cook for an additional 2-3 minutes, or until wilted.",
+    "Slice the cooked chicken breast and serve with the rocket salad.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "rocket",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-dense-adventurous-italian-rocket-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:47:52.868Z"
+}
