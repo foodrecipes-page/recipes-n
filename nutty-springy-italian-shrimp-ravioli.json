@@ -1,0 +1,77 @@
+{
+  "slug": "nutty-springy-italian-shrimp-ravioli",
+  "title": "Shrimp Ravioli with Italian Seasoning",
+  "description": "A classic Italian-inspired dish featuring shrimp and ravioli. This recipe is easy to make and perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 package ravioli",
+      "amount": ""
+    },
+    {
+      "name": "1 pound large shrimp, peeled and deveined",
+      "amount": "",
+      "notes": "Cook shrimp according to package instructions, then chop into bite-sized pieces"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "Use to cook shrimp and ravioli"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": "Add to olive oil for flavor"
+    },
+    {
+      "name": "1 teaspoon dried Italian seasoning",
+      "amount": "",
+      "notes": "Add to olive oil for flavor"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": "Season with salt and pepper before serving"
+    },
+    {
+      "name": "Nutty parmesan cheese (optional)",
+      "amount": "",
+      "notes": "Sprinkle on top of dish for added flavor"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook ravioli according to package instructions.",
+    "Heat olive oil in a large skillet over medium-high heat. Add garlic and cook for 1 minute, until fragrant.",
+    "Add shrimp to the skillet and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Add cooked ravioli to the skillet and toss with shrimp and garlic.",
+    "Sprinkle with Italian seasoning and cook for an additional 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with nutty parmesan cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "shrimp",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-springy-italian-shrimp-ravioli",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:05:23.627Z"
+}
