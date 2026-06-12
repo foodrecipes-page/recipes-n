@@ -1958,18 +1958,15 @@
   },
   {
     "slug": "nice-nutty-jamaican-shrimp-skewers",
-    "title": "Nice Nutty Jamaican Shrimp Skewers",
+    "title": "Jamaican Shrimp Skewers",
     "tags": [
-      "flambe",
       "grilled",
-      "jamaican-cuisine",
-      "nutty",
-      "quick-fix",
-      "robata-grill",
-      "seafood"
+      "jamaican",
+      "seafood",
+      "quick"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 28,
+    "totalTimeMin": 18,
     "shard": "n"
   },
   {
@@ -9753,15 +9750,15 @@
   },
   {
     "slug": "nutella-grilled-kimchi",
-    "title": "NutellaGrilledKimchi",
+    "title": "Nutella Kimchi Grilled Bites",
     "tags": [
-      "nutella",
+      "dessert",
       "grilled",
-      "kimchi",
-      "high-protein-friendly"
+      "nutella",
+      "kimchi"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 20,
+    "totalTimeMin": 7,
     "shard": "n"
   },
   {
