@@ -4717,17 +4717,18 @@
   },
   {
     "slug": "nourishing-catalan-kabocha-wrap",
-    "title": "Nourishing Catalan Kabocha Wrap",
+    "title": "Catalan Kabocha Wrap",
     "tags": [
-      "cooking-in-corn-husk",
-      "low-carb",
-      "meal-prep",
-      "spicy",
-      "vegan-friendly",
-      "vegetarian"
+      "healthy",
+      "vegan",
+      "gluten-free",
+      "wrap",
+      "kabocha",
+      "catalan",
+      "mediterranean"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 30,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -10637,15 +10638,15 @@
   },
   {
     "slug": "nutritious-grassy-canadian-rice-bake",
-    "title": "Nutritious Grassy Canadian Rice Bake",
+    "title": "Canadian Rice Bake",
     "tags": [
       "canadian",
-      "high-protein",
-      "lazy-sunday",
-      "one-pan",
-      "weeknight"
+      "rice",
+      "bake",
+      "quinoa",
+      "vegetarian"
     ],
-    "cuisine": "Canadian",
+    "cuisine": "canadian",
     "totalTimeMin": 50,
     "shard": "n"
   },
@@ -13126,16 +13127,14 @@
   },
   {
     "slug": "nutty-crispy-turkish-leek-stir-fry",
-    "title": "Nutty Crispy Turkish Leek Stir-fry",
+    "title": "Turkish-Style Stir Fry with Leek",
     "tags": [
-      "turkish",
-      "stir-fry",
-      "leek",
-      "nutty",
-      "crispy"
+      "turkish-style",
+      "veggie-stir-fry",
+      "nutty-crunch"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 65,
+    "totalTimeMin": 18,
     "shard": "n"
   },
   {
