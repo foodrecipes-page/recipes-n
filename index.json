@@ -16234,17 +16234,14 @@
   },
   {
     "slug": "nutty-rich-indian-lamb-curry",
-    "title": "Nutty Rich Indian Lamb Curry",
+    "title": "Lamb Curry",
     "tags": [
-      "indian-cuisine",
-      "lamb-recipes",
-      "low-sodium",
-      "one-pot",
-      "rich-and-creamy",
-      "weeknight-dinner"
+      "lamb",
+      "curry",
+      "indian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 110,
     "shard": "n"
   },
   {
