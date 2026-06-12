@@ -1,0 +1,68 @@
+{
+  "slug": "nutella-grilled-kimchi",
+  "title": "Nutella Kimchi Grilled Bites",
+  "description": "A sweet and spicy dessert or snack with crunchy grilled bites filled with nutella and kimchi.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nutella",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1/4 cup, chopped",
+      "notes": "spicy and fermented Korean cabbage"
+    },
+    {
+      "name": "ice cream cones",
+      "amount": "4-6"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium heat.",
+    "2. Mix together nutella and chopped kimchi in a small bowl.",
+    "3. Place a tablespoon of the nutella-kimchi mixture into each ice cream cone.",
+    "4. Dot the top of each cone with butter.",
+    "5. Sprinkle a pinch of sugar and salt over the top of each cone.",
+    "6. Grill the cones for 30-45 seconds on each side, until lightly toasted.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "grilled",
+    "nutella",
+    "kimchi"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutella-grilled-kimchi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:30:59.160Z"
+}
