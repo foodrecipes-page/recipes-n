@@ -1,0 +1,90 @@
+{
+  "slug": "nutty-noodle-vietnamese-chicken-pho",
+  "title": "Vietnamese Chicken Pho",
+  "description": "A flavorful and aromatic Vietnamese noodle soup made with chicken, pho noodles, and a variety of spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Pho Noodles",
+      "amount": "1 package",
+      "notes": "Rice noodles"
+    },
+    {
+      "name": "Nutty Ginger Broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Star Anise",
+      "amount": "2",
+      "notes": "Whole"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 cinnamon stick",
+      "notes": "Whole"
+    },
+    {
+      "name": "Vietnamese Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Bring the nutty ginger broth to a boil in a large pot.",
+    "Add the sliced onion and sliced ginger to the pot and simmer for 10 minutes.",
+    "Add the chicken breast to the pot and cook until cooked through.",
+    "Add the star anise and cinnamon stick to the pot and simmer for an additional 5 minutes.",
+    "Cook the pho noodles according to package instructions and set aside.",
+    "To assemble the pho, place some noodles in a bowl, then add sliced chicken and a spoonful of the hot broth.",
+    "Serve immediately and garnish with fresh herbs such as basil or mint.",
+    "Optional: Add a few drops of Vietnamese fish sauce and soy sauce to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pho",
+    "chicken",
+    "noodle",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-noodle-vietnamese-chicken-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:11:16.922Z"
+}
