@@ -3183,17 +3183,15 @@
   },
   {
     "slug": "noble-slovakian-mushroom-stew",
-    "title": "Noble Slovakian Mushroom Stew",
+    "title": "Slovakian Mushroom Stew",
     "tags": [
-      "egg-free",
-      "hearty",
-      "one-pot",
-      "rich",
       "slovakian",
-      "vegetarian"
+      "mushroom",
+      "stew",
+      "beef"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 60,
+    "cuisine": "slovakian",
+    "totalTimeMin": 110,
     "shard": "n"
   },
   {
