@@ -1,0 +1,67 @@
+{
+  "slug": "nice-nutty-jamaican-shrimp-skewers",
+  "title": "Jamaican Shrimp Skewers",
+  "description": "A flavorful and spicy Jamaican-inspired dish featuring succulent shrimp grilled to perfection on skewers.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "nice jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "nutty brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "skewers",
+      "amount": "12",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together jerk seasoning and brown sugar (if using).",
+    "Brush the skewers with vegetable oil and sprinkle with the jerk seasoning mixture.",
+    "Grill the skewers for 2-3 minutes per side, or until the shrimp are pink and cooked through.",
+    "Serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "jamaican",
+    "seafood",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-nutty-jamaican-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:50:41.768Z"
+}
