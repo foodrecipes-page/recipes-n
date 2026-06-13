@@ -3051,17 +3051,15 @@
   },
   {
     "slug": "nitro-charred-tunisian-chickpeas-casserole",
-    "title": "Nitro Charred Tunisian Chickpeas Casserole",
+    "title": "Tunisian Chickpea Casserole",
     "tags": [
-      "claypot",
-      "crisp",
-      "meal-prep",
-      "one-pan",
-      "tunisian",
-      "vegan"
+      "chickpeas",
+      "vegetarian",
+      "casserole",
+      "tunisian"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
@@ -4786,17 +4784,16 @@
   },
   {
     "slug": "nourishing-cheese-pull-portuguese-porridge-oats-bake",
-    "title": "nourishing cheese-pull portuguese porridge oats bake",
+    "title": "Hearty Oat Porridge with Cheese Crust",
     "tags": [
       "breakfast",
-      "cheese-pull",
-      "dairy-free",
-      "hangover-cure",
       "porridge",
-      "portuguese"
+      "oats",
+      "cheese",
+      "comfort-food"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 45,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -14035,14 +14032,12 @@
   },
   {
     "slug": "nutty-egyptian-chicken-toast",
-    "title": "Nutty Egyptian Chicken Toast",
+    "title": "Egyptian Chicken Toast",
     "tags": [
-      "chicken-recipes",
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "egyptian",
+      "breakfast",
+      "toast"
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
@@ -17613,17 +17608,15 @@
   },
   {
     "slug": "nutty-turkish-goats-cheese-jel-lik-pudding",
-    "title": "Nutty Turkish Goats Cheese Jel-lik Pudding",
+    "title": "Turkish Cheese Pudding",
     "tags": [
-      "dessert",
-      "kid-friendly",
-      "low-carb",
-      "one-pan",
       "turkish",
-      "weeknight"
+      "cheese",
+      "pudding",
+      "dessert"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
