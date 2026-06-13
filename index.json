@@ -2351,17 +2351,14 @@
   },
   {
     "slug": "nimble-aerated-british-lemongrass-stew",
-    "title": "Nimble Aerated British Lemongrass Stew",
+    "title": "Aerated British Stew",
     "tags": [
-      "british",
       "comfort-food",
-      "lemon",
-      "malted-barley-syrup",
-      "spring",
-      "winter"
+      "british-cuisine",
+      "beef-stew"
     ],
     "cuisine": "British",
-    "totalTimeMin": 37,
+    "totalTimeMin": 170,
     "shard": "n"
   },
   {
@@ -7871,14 +7868,12 @@
   },
   {
     "slug": "nourishing-silky-ukrainian-beet-pilaf",
-    "title": "Nourishing Silky Ukrainian Beet Pilaf",
+    "title": "Braised Beet Pilaf",
     "tags": [
-      "dairy-free",
-      "healthy",
-      "one-pan",
-      "post-workout",
-      "ukrainian-cuisine",
-      "vegetarian"
+      "beets",
+      "pilaf",
+      "ukrainian",
+      "gluten-free"
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 50,
@@ -9038,17 +9033,14 @@
   },
   {
     "slug": "nourishing-thai-spaghetti-gaeng-curry",
-    "title": "Nourishing Thai Spaghetti Gaeng Curry",
+    "title": "Spaghetti Thai Curry",
     "tags": [
-      "ayurvedic-rajasic",
-      "brunch-ideas",
-      "gluten-free",
-      "one-pot",
-      "thai-cuisine",
-      "vegetarian-friendly"
+      "spaghetti",
+      "thai-curry",
+      "vegetarian"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -9244,17 +9236,14 @@
   },
   {
     "slug": "nourishing-velvety-american-pasta-bake",
-    "title": "Nourishing Velvety American Pasta Bake",
+    "title": "Creamy American Pasta Bake",
     "tags": [
-      "american-classics",
-      "cheesy-goodness",
       "comfort-food",
-      "low-sodium",
       "pasta-bake",
-      "weeknight-dinners"
+      "american-cuisine"
     ],
     "cuisine": "American",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -14865,17 +14854,15 @@
   },
   {
     "slug": "nutty-herbal-greek-walnuts-stew",
-    "title": "Nutty Herbal Greek Walnuts Stew",
+    "title": "Walnut Stew with Herbal Twist",
     "tags": [
-      "vegetarian",
-      "herbal",
-      "high-protein",
-      "greek",
+      "mediterranean",
       "stew",
-      "nutty"
+      "walnuts",
+      "herbal"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -17524,16 +17511,14 @@
   },
   {
     "slug": "nutty-tunisian-chicken-biryani",
-    "title": "Nutty Tunisian Chicken Biryani",
+    "title": "Spicy Chicken Biryani",
     "tags": [
-      "chicken-dish",
-      "dairy-free",
-      "gluten-free",
-      "middle-eastern",
-      "one-pot",
-      "weeknight"
+      "chicken",
+      "rice",
+      "north-african",
+      "lunch"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 35,
     "shard": "n"
   },
