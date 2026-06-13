@@ -2248,16 +2248,14 @@
   },
   {
     "slug": "nightly-roasted-moroccan-lamb-tagine",
-    "title": "Nightly Roasted Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "comfort-food",
       "lamb",
-      "moroccan",
-      "one-pot",
-      "slow-cooked",
-      "tagine"
+      "tagine",
+      "north-african",
+      "dinner"
     ],
-    "cuisine": "Moroccan",
+    "cuisine": "North African",
     "totalTimeMin": 180,
     "shard": "n"
   },
@@ -16883,16 +16881,14 @@
   },
   {
     "slug": "nutty-smoky-polish-egg-skillet",
-    "title": "Nutty Smoky Polish Egg Skillet",
+    "title": "Polish Skillet Omelette",
     "tags": [
-      "brunch-recipe",
-      "low-sodium",
-      "one-pan",
-      "polish-cuisine",
-      "smoky-flavors"
+      "breakfast",
+      "omnivore",
+      "polish"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
