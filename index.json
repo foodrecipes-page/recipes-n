@@ -9711,15 +9711,14 @@
   },
   {
     "slug": "nutella-earthy-one-pot-kosher-delight",
-    "title": "Nutella Earthy One-Pot Kosher Delight",
+    "title": "Nutella Delight",
     "tags": [
       "nutella",
-      "earthly",
-      "kosher-friendly",
-      "one-pot"
+      "cookies",
+      "dessert"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 60,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
