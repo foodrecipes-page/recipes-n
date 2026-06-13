@@ -1,0 +1,91 @@
+{
+  "slug": "nourishing-thai-spaghetti-gaeng-curry",
+  "title": "Spaghetti Thai Curry",
+  "description": "A flavorful and spicy Thai-inspired dish with the comfort of spaghetti. Perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz",
+      "notes": "cooked al dente"
+    },
+    {
+      "name": "Thai Curry Paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Gaeng",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the spaghetti according to the package instructions until al dente.",
+    "In a large skillet, heat the vegetable oil over medium-high heat.",
+    "Add the Thai curry paste and stir for 1 minute, until fragrant.",
+    "Add the Gaeng, fish sauce, soy sauce, brown sugar, and chili flakes. Cook for 2-3 minutes, until the Gaeng is tender.",
+    "Add the cooked spaghetti to the skillet, tossing everything together to combine.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spaghetti",
+    "thai-curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-thai-spaghetti-gaeng-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:50:45.998Z"
+}
