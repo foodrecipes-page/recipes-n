@@ -1,0 +1,94 @@
+{
+  "slug": "nitro-charred-tunisian-chickpeas-casserole",
+  "title": "Tunisian Chickpea Casserole",
+  "description": "A hearty, flavorful casserole made with chickpeas, inspired by the cuisine of Tunisia. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 small",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "tunisian",
+      "amount": "2 tbsp",
+      "notes": "spice blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat oil in a large skillet over medium heat. Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add tomato paste and cook for 1 minute.",
+    "Stir in Tunisian spice blend, salt, and pepper. Cook for 1 minute.",
+    "Add chickpeas, diced tomatoes, and casseroles. Stir to combine.",
+    "Transfer mixture to a 9x13 inch baking dish.",
+    "Cover with aluminum foil and bake for 25 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, or until hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpeas",
+    "vegetarian",
+    "casserole",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nitro-charred-tunisian-chickpeas-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:24:12.595Z"
+}
