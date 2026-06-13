@@ -1,0 +1,96 @@
+{
+  "slug": "nourishing-pillowy-vietnamese-semolina-pho",
+  "title": "Vietnamese Pho with Semolina Croutons",
+  "description": "Warm up with this comforting Vietnamese Pho recipe featuring semolina croutons for a delightful twist. This hearty noodle soup is a perfect remedy for a chilly evening.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Semolina bread",
+      "amount": "1 loaf",
+      "notes": "day-old bread works best"
+    },
+    {
+      "name": "Vietnamese Pho noodles",
+      "amount": "1 package",
+      "notes": "look for fresh or frozen options"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought broth works"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini work well"
+    },
+    {
+      "name": "Bok choy",
+      "amount": "1 bunch",
+      "notes": "or other Asian greens"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "Pho spices",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cut semolina bread into 1-inch cubes and toast in the oven for 5-7 minutes, or until crispy.",
+    "Cook Pho noodles according to package instructions. Drain and set aside.",
+    "In a large pot, combine vegetable broth, mushrooms, bok choy, and Pho spices. Bring to a boil, then reduce heat to a simmer.",
+    "Add cooked Pho noodles to the pot and cook for an additional 2-3 minutes.",
+    "Taste and adjust seasoning with soy sauce.",
+    "To assemble, place a portion of noodles into a bowl, then add a spoonful of the Pho broth.",
+    "Garnish with toasted semolina croutons, green onions, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!",
+    "Optional: drizzle with sesame oil for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pho",
+    "vietnamese",
+    "semolina",
+    "noodle soup",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-pillowy-vietnamese-semolina-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:37:00.094Z"
+}
