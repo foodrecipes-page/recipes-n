@@ -1,0 +1,63 @@
+{
+  "slug": "nutty-algerian-chickpea-tagine",
+  "title": "Algerian Chickpea Tagine",
+  "description": "A hearty and flavorful North African stew made with chickpeas and spices, perfect for a cold winter night.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nutty bread",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most international grocery stores"
+    },
+    {
+      "name": "chickpea",
+      "amount": "2 cups",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the chopped tagine and cook until tender, about 10 minutes.",
+    "Add the chickpeas, algerian spice blend, and nutty bread crumbs. Stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, until the flavors have melded together and the liquid has thickened, about 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "north-african",
+    "stew",
+    "chickpea",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-algerian-chickpea-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:58:04.579Z"
+}
