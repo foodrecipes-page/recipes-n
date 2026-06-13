@@ -1,0 +1,84 @@
+{
+  "slug": "nutty-smoky-moroccan-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A hearty, slow-cooked stew originating from Morocco, typically made with lamb and a blend of spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "nutty spice blend",
+      "amount": "2 tsp",
+      "notes": "mix of cumin, coriander, cinnamon"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": "add a smoky depth to the dish"
+    },
+    {
+      "name": "moroccan preserved lemon",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for browning the lamb"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces on all sides, then set aside.",
+    "Add more oil if needed, then sauté the spice blend for 1-2 minutes until fragrant.",
+    "Add the preserved lemon, olives, and chicken broth. Stir to combine.",
+    "Return the lamb to the pot and cover with a lid.",
+    "Transfer to the oven and braise at 300°F (150°C) for 2 1/2 hours.",
+    "Stir in the honey (if using) and serve hot over couscous or rice.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "stew",
+    "braised",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-smoky-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:47:13.106Z"
+}
