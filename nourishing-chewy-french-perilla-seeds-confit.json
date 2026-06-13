@@ -1,0 +1,73 @@
+{
+  "slug": "nourishing-chewy-french-perilla-seeds-confit",
+  "title": "Seeded Perilla Confit Toast",
+  "description": "A flavorful and nutritious French-inspired toast topped with perilla seeds and confit.",
+  "cuisine": "French",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole wheat bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day old"
+    },
+    {
+      "name": "Perilla seeds",
+      "amount": "1/4 cup",
+      "notes": "available at most health food stores"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for toasting bread"
+    },
+    {
+      "name": "Confit",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the bread into 1-inch thick rounds and place on a baking sheet.",
+    "Drizzle the olive oil over the bread and sprinkle with salt.",
+    "Toast the bread in the oven for 5-7 minutes, or until lightly browned.",
+    "Remove the bread from the oven and let cool for a few minutes.",
+    "Spread the confit over the toasted bread, leaving a small border around the edges.",
+    "Sprinkle the perilla seeds over the confit.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "toast",
+    "perilla",
+    "confit"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-chewy-french-perilla-seeds-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:22:57.685Z"
+}
