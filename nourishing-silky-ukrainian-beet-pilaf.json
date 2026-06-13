@@ -1,0 +1,82 @@
+{
+  "slug": "nourishing-silky-ukrainian-beet-pilaf",
+  "title": "Braised Beet Pilaf",
+  "description": "A hearty, comforting pilaf dish with roasted beets and a hint of Ukrainian flair.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 medium"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Peel and chop the beets into 1-inch cubes.",
+    "Toss beets with 1 tablespoon olive oil, salt, and pepper on a baking sheet.",
+    "Roast beets in the oven for 25-30 minutes, or until tender.",
+    "Heat remaining 1 tablespoon olive oil in a large skillet over medium heat.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Stir in pilaf and cook for 2-3 minutes, or until lightly toasted.",
+    "Add roasted beets, thyme, salt, and pepper to the skillet.",
+    "Stir to combine and cook for an additional 2-3 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beets",
+    "pilaf",
+    "ukrainian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-silky-ukrainian-beet-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:22:12.887Z"
+}
