@@ -1,0 +1,65 @@
+{
+  "slug": "nutty-egyptian-chicken-toast",
+  "title": "Egyptian Chicken Toast",
+  "description": "A simple and flavorful Egyptian-inspired dish made with chicken, toasted bread, and a hint of nutty spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "nutty spice blend",
+      "amount": "2 teaspoons",
+      "notes": "mix of coriander, cumin, and cardamom"
+    },
+    {
+      "name": "egyptian flatbread",
+      "amount": "4 slices",
+      "notes": "or substitute with regular toast"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken breast with salt and nutty spice blend. Bake in the oven for 20-25 minutes, or until cooked through.",
+    "Meanwhile, toast the egyptian flatbread until lightly browned.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing.",
+    "Assemble the toast by spreading unsalted butter on each slice, then topping with sliced chicken and a sprinkle of nutty spice blend."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "egyptian",
+    "breakfast",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-egyptian-chicken-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:14:24.056Z"
+}
