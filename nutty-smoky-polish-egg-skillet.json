@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-smoky-polish-egg-skillet",
+  "title": "Polish Skillet Omelette",
+  "description": "A hearty and flavorful omelette made with polish sausage, egg, and topped with nutty cheese.",
+  "cuisine": "Polish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Egg",
+      "amount": "2"
+    },
+    {
+      "name": "Skillet cheese (nutty)",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "Onion (smoky)",
+      "amount": "1/4 cup, diced"
+    },
+    {
+      "name": "Salt",
+      "amount": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat.",
+    "Add the sliced polish sausage and cook until browned, about 3-4 minutes.",
+    "Push the sausage to one side of the skillet.",
+    "Crack in the eggs and scramble them until cooked through.",
+    "Mix the eggs with the sausage.",
+    "Sprinkle the shredded cheese over the top.",
+    "Add the diced onion on top of the cheese.",
+    "Season with salt and black pepper to taste.",
+    "Cook for an additional 1-2 minutes or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "omnivore",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-smoky-polish-egg-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:09:24.162Z"
+}
