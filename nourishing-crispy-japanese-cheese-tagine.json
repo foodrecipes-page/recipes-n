@@ -1,0 +1,84 @@
+{
+  "slug": "nourishing-crispy-japanese-cheese-tagine",
+  "title": "Crispy Japanese Tagine",
+  "description": "A crispy, Japanese-inspired twist on traditional tagine. Perfect for a snack or light meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Crunchy tempura bits",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Japanese-style crispy noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook Japanese rice according to package instructions.",
+    "In a pan, heat 1 tbsp of vegetable oil over medium-high heat.",
+    "Add Japanese-style crispy noodles and cook until crispy, about 3-4 minutes.",
+    "Remove noodles from pan and set aside.",
+    "In the same pan, add 1 tbsp of vegetable oil and cook the green onions until crispy, about 2 minutes.",
+    "Add the cooked Japanese rice to the pan, stirring to combine with the green onions.",
+    "Add the tagine spice blend and stir-fry for 1 minute.",
+    "Stir in soy sauce and sesame oil.",
+    "Return the crispy noodles to the pan and stir to combine.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "crispy",
+    "nourishing"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-crispy-japanese-cheese-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:45:45.286Z"
+}
