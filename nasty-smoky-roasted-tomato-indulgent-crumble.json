@@ -1,0 +1,74 @@
+{
+  "slug": "nasty-smoky-roasted-tomato-indulgent-crumble",
+  "title": "Roasted Vegetable Tart",
+  "description": "A savory tart filled with roasted vegetables and topped with a crumbly crust.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "indulgent puff pastry",
+      "amount": "1 sheet, thawed",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup, finely chopped",
+      "notes": "such as sweet potatoes and carrots"
+    },
+    {
+      "name": "nasty kale",
+      "amount": "1 cup, stems removed and discarded, leaves chopped",
+      "notes": "massaged to remove bitterness"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": "smoked for added depth"
+    },
+    {
+      "name": "tomato",
+      "amount": "2, diced",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup, crumbled",
+      "notes": "used for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry and place on a baking sheet.",
+    "Top with roasted vegetables, kale, and diced tomato.",
+    "Sprinkle with smoky paprika.",
+    "Bake for 25-30 minutes or until pastry is golden brown.",
+    "Remove from oven and top with crumble.",
+    "Return to oven and bake for an additional 5-10 minutes or until crumble is golden brown.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "tart",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nasty-smoky-roasted-tomato-indulgent-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:25:49.549Z"
+}
