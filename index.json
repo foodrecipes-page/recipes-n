@@ -5168,17 +5168,14 @@
   },
   {
     "slug": "nourishing-crispy-japanese-cheese-tagine",
-    "title": "Nourishing Crispy Japanese Cheese Tagine",
+    "title": "Crispy Japanese Tagine",
     "tags": [
-      "comfort-food",
-      "crispy-top",
-      "garlicky",
-      "japanese-cuisine",
-      "one-pan",
-      "vegetarian-friendly"
+      "japanese",
+      "crispy",
+      "nourishing"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -7285,16 +7282,15 @@
   },
   {
     "slug": "nourishing-pillowy-ukrainian-hummus-dumplings",
-    "title": "Nourishing Pillowy Ukrainian Hummus Dumplings",
+    "title": "Traditional Ukrainian Dumplings Recipe",
     "tags": [
-      "comfort-food",
-      "homemade",
-      "ukrainian-cuisine",
-      "vegan",
-      "vegetarian"
+      "ukrainian",
+      "dumplings",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -12721,16 +12717,15 @@
   },
   {
     "slug": "nutty-crisp-jamaican-fish-tagine",
-    "title": "Nutty Crisp Jamaican Fish Tagine",
+    "title": "Pan-Seared Fish with Jamaican Spice Crust",
     "tags": [
-      "jamaican",
+      "caribbean",
       "fish",
-      "tagine",
-      "sugar-free",
-      "gluten-free"
+      "spicy",
+      "easy"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 30,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
