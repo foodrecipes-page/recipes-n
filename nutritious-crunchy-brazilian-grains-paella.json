@@ -1,0 +1,77 @@
+{
+  "slug": "nutritious-crunchy-brazilian-grains-paella",
+  "title": "Brazilian Paella with Crunchy Nuts",
+  "description": "A classic Brazilian dish with a crunchy twist, perfect for a delicious and satisfying meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brazilian-style sazon seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "nutritious sweet potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "grains of paradise",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crunchy fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the sazon seasoning and cook for 1-2 minutes, until fragrant.",
+    "Add the diced sweet potatoes and cook for 5 minutes, until they start to brown.",
+    "Add the paella rice and grains of paradise, and stir well to combine.",
+    "Cook for 2-3 minutes, until the rice is coated in oil and slightly toasted.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the heat and stir in the chopped almonds and parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "Brazilian",
+    "vegan",
+    "gluten-free",
+    "paella",
+    "sweet potatoes"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-crunchy-brazilian-grains-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T00:33:41.893Z"
+}
