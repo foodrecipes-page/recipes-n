@@ -11730,16 +11730,15 @@
   },
   {
     "slug": "nutty-algerian-chickpea-tagine",
-    "title": "Nutty Algerian Chickpea Tagine",
+    "title": "Algerian Chickpea Tagine",
     "tags": [
-      "algerian-cuisine",
-      "chickpea-recipes",
-      "flexitarian-friendly",
-      "north-african-food",
-      "one-pot-meals",
-      "vegetarian-options"
+      "algerian",
+      "north-african",
+      "stew",
+      "chickpea",
+      "vegan"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "North African",
     "totalTimeMin": 40,
     "shard": "n"
   },
