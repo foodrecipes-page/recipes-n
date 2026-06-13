@@ -1,0 +1,84 @@
+{
+  "slug": "nutty-turkish-goats-cheese-jel-lik-pudding",
+  "title": "Turkish Cheese Pudding",
+  "description": "A rich and creamy dessert inspired by Turkish cuisine, made with nutty goat cheese pudding and topped with a crunchy nutty crust.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "goats cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 cup"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "jel",
+      "amount": "50g"
+    },
+    {
+      "name": "lik",
+      "amount": "50g"
+    },
+    {
+      "name": "pudding",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "butter",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "In a large mixing bowl, combine goats cheese, nutty, turkish, jel, lik, pudding, and sugar.",
+    "Add milk and mix until smooth.",
+    "Beat in eggs and melted butter.",
+    "Pour mixture into a greased pudding basin or individual ramekins.",
+    "Bake for 25-30 minutes or until set.",
+    "Remove from oven and let cool.",
+    "Serve warm or chilled, garnished with toasted nuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "cheese",
+    "pudding",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-turkish-goats-cheese-jel-lik-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:50:27.795Z"
+}
