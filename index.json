@@ -4857,18 +4857,15 @@
   },
   {
     "slug": "nourishing-chewy-french-perilla-seeds-confit",
-    "title": "Nourishing Chewy French Perilla Seeds Confit",
+    "title": "Seeded Perilla Confit Toast",
     "tags": [
-      "ayurvedic",
-      "comfort-food",
-      "french-cuisine",
-      "gluten-free",
-      "one-pot",
-      "rajasic",
-      "vegetarian"
+      "breakfast",
+      "toast",
+      "perilla",
+      "confit"
     ],
     "cuisine": "French",
-    "totalTimeMin": 150,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
@@ -7295,13 +7292,13 @@
   },
   {
     "slug": "nourishing-pillowy-vietnamese-semolina-pho",
-    "title": "nourishing pillowy Vietnamese semolina Pho",
+    "title": "Vietnamese Pho with Semolina Croutons",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "pho",
+      "vietnamese",
+      "semolina",
+      "noodle soup",
+      "comfort food"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
@@ -13147,15 +13144,15 @@
   },
   {
     "slug": "nutty-crispy-uruguayan-chicken-skewers",
-    "title": "Nutty Crispy Uruguayan Chicken Skewers",
+    "title": "Uruguayan Chicken Skewers with Crispy Topping",
     "tags": [
-      "uruguayan-cuisine",
-      "keto-friendly",
-      "chicken-skewers",
-      "massaman-curry"
+      "chicken",
+      "skewers",
+      "grilled",
+      "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "n"
   },
   {
@@ -16874,18 +16871,16 @@
   },
   {
     "slug": "nutty-smoky-moroccan-lamb-tagine",
-    "title": "Nutty Smoky Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "gluten-free",
       "lamb",
       "moroccan",
-      "nutty",
-      "one-pot",
-      "smoky"
+      "stew",
+      "braised",
+      "slow-cooked"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 110,
+    "totalTimeMin": 180,
     "shard": "n"
   },
   {
