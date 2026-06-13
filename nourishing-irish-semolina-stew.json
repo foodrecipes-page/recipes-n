@@ -1,0 +1,81 @@
+{
+  "slug": "nourishing-irish-semolina-stew",
+  "title": "Irish Stew",
+  "description": "A hearty and comforting Irish stew made with lamb, potatoes, carrots, and onions. Perfect for a cold winter's night.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Semolina flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Nourishing beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium-high heat.",
+    "Brown the lamb cubes on all sides, about 5 minutes.",
+    "Add the chopped onions to the pot and cook until they are softened, about 5 minutes.",
+    "Add the sliced carrots and cubed potatoes to the pot, and stir to combine.",
+    "In a small bowl, mix together the semolina flour and beef broth until smooth.",
+    "Add the flour-broth mixture to the pot and stir to combine.",
+    "Add the browned lamb back to the pot, and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 hour, or until the lamb is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "stew",
+    "lamb",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-irish-semolina-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T04:08:02.052Z"
+}
