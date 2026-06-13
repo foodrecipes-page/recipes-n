@@ -1,0 +1,68 @@
+{
+  "slug": "nutty-crispy-uruguayan-chicken-skewers",
+  "title": "Uruguayan Chicken Skewers with Crispy Topping",
+  "description": "Savory Uruguayan-style chicken skewers topped with a crunchy and nutty topping. Perfect for a quick and delicious dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Uruguayan seasoning",
+      "amount": "2 tsp",
+      "notes": "or substitute with a mix of paprika and garlic powder"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Crispy topping",
+      "amount": "1 cup",
+      "notes": "see instructions for preparation"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "soak in water for 30 minutes before use"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, combine chicken, Uruguayan seasoning, and olive oil. Toss to coat.",
+    "3. Thread chicken onto skewers, leaving a small space between each piece.",
+    "4. Grill skewers for 8-10 minutes per side, or until chicken is cooked through.",
+    "5. Meanwhile, prepare the crispy topping by crumbling it into small pieces.",
+    "6. To assemble, brush the top of each skewer with a small amount of olive oil and sprinkle with crispy topping.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "skewers",
+    "grilled",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-uruguayan-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:42:15.177Z"
+}
