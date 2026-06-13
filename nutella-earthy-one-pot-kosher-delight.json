@@ -1,0 +1,68 @@
+{
+  "slug": "nutella-earthy-one-pot-kosher-delight",
+  "title": "Nutella Delight",
+  "description": "A rich dessert made with Nutella and earthy undertones.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Nutella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Earthy delight",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "One pot",
+      "amount": "1 (note: this is an unconventional ingredient, treat as a placeholder)"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine Nutella, earthy delight, sugar, and flour. Mix until well combined.",
+    "Add in butter and mix until a smooth dough forms.",
+    "Roll out dough to 1/4 inch thickness and cut into desired shapes.",
+    "Bake for 12-15 minutes or until edges are lightly golden.",
+    "Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "nutella",
+    "cookies",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutella-earthy-one-pot-kosher-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:15:51.273Z"
+}
