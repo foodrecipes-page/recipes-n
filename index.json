@@ -6201,16 +6201,15 @@
   },
   {
     "slug": "nourishing-irish-semolina-stew",
-    "title": "Nourishing Irish Semolina Stew",
+    "title": "Irish Stew",
     "tags": [
-      "comfort-food",
       "irish",
-      "nut-free",
-      "slow-cook",
-      "vegetable-rich"
+      "stew",
+      "lamb",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 70,
+    "totalTimeMin": 80,
     "shard": "n"
   },
   {
