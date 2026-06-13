@@ -1,0 +1,67 @@
+{
+  "slug": "nourishing-cheese-pull-portuguese-porridge-oats-bake",
+  "title": "Hearty Oat Porridge with Cheese Crust",
+  "description": "A comforting and filling oat porridge topped with a crispy cheese crust, perfect for a cold morning.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine oats, water, and salt. Cook over medium heat, stirring occasionally, until the oats are creamy and the water has been absorbed.",
+    "In a small bowl, mix together grated cheese and flour.",
+    "Once the oats are cooked, remove from heat and stir in butter until melted.",
+    "Transfer the oat mixture to a baking dish or individual ramekins.",
+    "Top each serving with a sprinkle of the cheese mixture.",
+    "Bake in a preheated oven at 375°F (190°C) for 10-12 minutes, or until the cheese is golden brown and crispy.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "porridge",
+    "oats",
+    "cheese",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-cheese-pull-portuguese-porridge-oats-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:10:51.519Z"
+}
