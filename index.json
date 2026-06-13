@@ -5460,16 +5460,15 @@
   },
   {
     "slug": "nourishing-dense-croatian-pork-stew",
-    "title": "Nourishing Dense Croatian Pork Stew",
+    "title": "Croatian Pork Stew",
     "tags": [
-      "anti-inflammatory",
-      "comfort-food",
-      "croatian-cuisine",
-      "one-pot",
-      "pork-recipes"
+      "croatian",
+      "stew",
+      "pork",
+      "comfort-food"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 170,
+    "totalTimeMin": 150,
     "shard": "n"
   },
   {
@@ -10383,16 +10382,16 @@
   },
   {
     "slug": "nutritious-crunchy-brazilian-grains-paella",
-    "title": "Nutritious Crunchy Brazilian Grains Paella",
+    "title": "Brazilian Paella with Crunchy Nuts",
     "tags": [
+      "Brazilian",
+      "vegan",
       "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight",
-      "whole30"
+      "paella",
+      "sweet potatoes"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -13753,15 +13752,15 @@
   },
   {
     "slug": "nutty-dense-ethiopian-turkey-neck-en-croute",
-    "title": "nutty dense ethiopian turkey neck en-croute",
+    "title": "Ethiopian Turkey Croustade",
     "tags": [
+      "turkey",
       "ethiopian",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "pastry",
+      "lunch"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 65,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
