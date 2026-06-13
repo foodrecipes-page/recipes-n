@@ -1,0 +1,83 @@
+{
+  "slug": "nutty-herbal-greek-walnuts-stew",
+  "title": "Walnut Stew with Herbal Twist",
+  "description": "A hearty and comforting stew made with walnuts, Greek yogurt, and a hint of herbal spices.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "nutty stew broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "herbal spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp, dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the chopped walnuts, nutty stew broth, Greek yogurt, herbal spices, thyme, salt, and pepper to the pot.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and let stew for 20-25 minutes, or until the flavors have melded together.",
+    "Serve hot, garnished with additional thyme if desired.",
+    "Optional: serve with crusty bread or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "stew",
+    "walnuts",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-herbal-greek-walnuts-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:46:00.016Z"
+}
