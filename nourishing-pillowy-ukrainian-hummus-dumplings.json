@@ -1,0 +1,72 @@
+{
+  "slug": "nourishing-pillowy-ukrainian-hummus-dumplings",
+  "title": "Traditional Ukrainian Dumplings Recipe",
+  "description": "A hearty and comforting Ukrainian dish filled with nourishing goodness. These pillowy dumplings are sure to become a family favorite!",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pillowy dumpling dough",
+      "amount": "2 cups",
+      "notes": "see notes for recipe"
+    },
+    {
+      "name": "Ukrainian filling (see notes for recipe)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Hummus",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine dumpling dough ingredients and knead until smooth.",
+    "Divide dough into 8 equal pieces and roll out each piece into a thin circle.",
+    "Place 1-2 tablespoons of Ukrainian filling in the center of each dough circle.",
+    "Fold dough over filling and press edges together to seal.",
+    "In a large pot of boiling, salted water, cook dumplings for 10-12 minutes or until they float to the surface.",
+    "Serve with hummus and garnish with chopped parsley.",
+    "Note: To make Ukrainian filling, combine 1 cup cooked and mashed potatoes, 1/2 cup cooked and mashed carrots, and 1/4 cup chopped fresh dill in a bowl. Mix well to combine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dumplings",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-pillowy-ukrainian-hummus-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:58:11.128Z"
+}
