@@ -1,0 +1,92 @@
+{
+  "slug": "nightly-roasted-moroccan-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A traditional North African stew made with tender lamb and a blend of aromatic spices, slow-cooked in a rich and flavorful tagine sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Moroccan lamb seasoning",
+      "amount": "2 tablespoons",
+      "notes": "Available at most spice stores or online"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, for some heat"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for sweetness"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Add lamb and cook until browned, about 5 minutes. Remove lamb from pot and set aside.",
+    "Reduce heat to medium and add chopped onion to pot. Cook, stirring occasionally, until onion is softened and lightly browned, about 8 minutes.",
+    "Add minced garlic to pot and cook for 1 minute, stirring constantly.",
+    "Add Moroccan lamb seasoning, cumin, cinnamon, ginger, and cayenne pepper to pot. Cook for 1 minute, stirring constantly.",
+    "Add browned lamb back to pot, along with 2 cups of water and 2 tablespoons of honey (if using). Bring to a boil, then reduce heat to low and simmer, covered, for 2 1/2 hours, or until lamb is tender.",
+    "Stir in chopped fresh parsley and adjust seasoning as needed.",
+    "Serve tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 27,
+    "fat": 33
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nightly-roasted-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:09:48.667Z"
+}
