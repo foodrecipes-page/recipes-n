@@ -7981,17 +7981,16 @@
   },
   {
     "slug": "nourishing-smoked-ukrainian-fish-kebabs",
-    "title": "Nourishing Smoked Ukrainian Fish Kebabs",
+    "title": "Smoked Salmon Kebabs",
     "tags": [
-      "grilled",
-      "high-protein",
-      "pescatarian",
-      "post-workout",
-      "smoked-fish",
-      "ukrainian-cuisine"
+      "smoked salmon",
+      "ukrainian food",
+      "kebabs",
+      "grilled fish",
+      "light meal"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -11891,18 +11890,16 @@
   },
   {
     "slug": "nutty-bengali-nuts-poha-balls",
-    "title": "Nutty Bengali Nuts Poha Balls",
+    "title": "Bengali Poha Balls",
     "tags": [
       "bengali",
-      "dairy-free",
-      "deep-fried",
-      "finger-food",
-      "indian",
       "snack",
-      "vegan-friendly"
+      "nutty",
+      "poha",
+      "crispy"
     ],
-    "cuisine": "bengali",
-    "totalTimeMin": 35,
+    "cuisine": "Bengali",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
