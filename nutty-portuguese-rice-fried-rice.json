@@ -1,0 +1,82 @@
+{
+  "slug": "nutty-portuguese-rice-fried-rice",
+  "title": "Nutty Fried Rice",
+  "description": "A simple and delicious Portuguese-inspired dish made with fried rice and nutty flavors.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Nutty",
+      "amount": "1/4 cup",
+      "notes": "chopped almonds or walnuts"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add chopped onion and minced garlic and stir-fry until softened.",
+    "Add day-old rice and stir-fry for 2-3 minutes.",
+    "Add beaten egg and stir-fry until scrambled and combined with rice.",
+    "Add chopped nuts and stir-fry for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: add diced vegetables (e.g. peas, carrots) for added flavor and nutrition."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rice",
+    "portuguese",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-portuguese-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:25:18.699Z"
+}
