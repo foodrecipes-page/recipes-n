@@ -4101,16 +4101,15 @@
   },
   {
     "slug": "nostalgic-velvet-chicken-pilaf",
-    "title": "Nostalgic Velvet Chicken Pilaf",
+    "title": "Nostalgic Chicken Pilaf",
     "tags": [
-      "lazy-susan-spinner",
-      "narrative-dish",
-      "satiq-friendly",
-      "umami",
-      "velvety"
+      "comfort-food",
+      "chicken",
+      "pilaf",
+      "nostalgic"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 75,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
