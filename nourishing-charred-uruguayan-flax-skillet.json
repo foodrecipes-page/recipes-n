@@ -1,0 +1,85 @@
+{
+  "slug": "nourishing-charred-uruguayan-flax-skillet",
+  "title": "Uruguayan Flaxseed Skillet",
+  "description": "A hearty and nutritious dish inspired by the flavors of Uruguay, made with flaxseed and cooked to perfection in a skillet.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "nourishing",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Flaxseed",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Charred Scallions",
+      "amount": "1/2 cup",
+      "notes": "charred in a skillet"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Grated Cheddar Cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the olive oil and swirl to coat.",
+    "Add the charred scallions and cook for 2-3 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "In a separate bowl, mix together the flaxseed and a pinch of salt.",
+    "Add the flaxseed mixture to the skillet and stir to combine.",
+    "Cook for an additional 5-7 minutes, stirring occasionally, until the flaxseed is lightly toasted.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, topped with grated cheddar cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaxseed",
+    "uruguayan",
+    "breakfast",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-charred-uruguayan-flax-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:48:58.397Z"
+}
