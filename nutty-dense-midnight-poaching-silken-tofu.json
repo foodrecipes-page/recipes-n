@@ -1,0 +1,69 @@
+{
+  "slug": "nutty-dense-midnight-poaching-silken-tofu",
+  "title": "Midnight Tofu Pudding",
+  "description": "A rich and creamy dessert made with silken tofu, nutty flavors and a dense texture, perfect for warm nights.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 block (12 oz)",
+      "notes": null
+    },
+    {
+      "name": "midnight",
+      "amount": "1 tsp",
+      "notes": "black sesame seeds for garnish"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tsp",
+      "notes": "vanilla extract"
+    },
+    {
+      "name": "dense",
+      "amount": "1/4 cup",
+      "notes": "coconut sugar"
+    },
+    {
+      "name": "poaching liquid",
+      "amount": "2 cups",
+      "notes": "water or plant-based milk"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the poaching liquid to a simmer.",
+    "2. Drain and press the silken tofu.",
+    "3. Crumble the tofu into a blender.",
+    "4. Add the nutty flavor, dense sweetness and poaching liquid to the blender.",
+    "5. Blend until smooth and creamy.",
+    "6. Pour the mixture into individual serving cups.",
+    "7. Cover and chill in the refrigerator for at least 2 hours.",
+    "8. Garnish with midnight black sesame seeds before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "dessert",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-dense-midnight-poaching-silken-tofu",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:54:51.137Z"
+}
