@@ -1,0 +1,84 @@
+{
+  "slug": "nourishing-brazilian-cream-wrap",
+  "title": "Brazilian Creamy Wrap",
+  "description": "A delicious Brazilian-inspired wrap filled with creamy sauce, nourishing ingredients, and wrapped up in a warm tortilla.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tortilla wrap",
+      "amount": "1 piece",
+      "notes": "gluten-free tortilla"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Shredded chicken",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "In a bowl, mix together cream cheese, salsa, and lime juice.",
+    "Add shredded chicken to the bowl and stir until combined.",
+    "Warm the tortilla in the pan for about 30 seconds on each side.",
+    "Spread the creamy chicken mixture onto the tortilla.",
+    "Top with diced avocado and chopped cilantro.",
+    "Season with salt to taste.",
+    "Fold the tortilla in half to enclose the filling."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "creamy",
+    "wrap",
+    "nourishing"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-brazilian-cream-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:31:08.703Z"
+}
