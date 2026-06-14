@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-bengali-nuts-poha-balls",
+  "title": "Bengali Poha Balls",
+  "description": "A traditional Bengali snack made with poha, nuts, and a hint of nutty flavor. These crispy balls are perfect for munching on the go.",
+  "cuisine": "Bengali",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Poha",
+      "amount": "1 cup",
+      "notes": "flat rice flakes"
+    },
+    {
+      "name": "Nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Nutty",
+      "amount": "1 tablespoon",
+      "notes": "nutty flavor powder"
+    },
+    {
+      "name": "Balls",
+      "amount": "1/4 cup",
+      "notes": "chocolate balls for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine poha, nuts, and nutty flavor powder.",
+    "2. Mix well until the poha is evenly coated with the nutty flavor.",
+    "3. Add a little water to the mixture and mix until it forms a dough.",
+    "4. Divide the dough into small balls.",
+    "5. Roll each ball between your palms to shape it into a smooth ball.",
+    "6. Heat oil in a deep frying pan over medium heat.",
+    "7. When the oil is hot, add a few poha balls to the pan.",
+    "8. Fry the poha balls until they are golden brown and crispy.",
+    "9. Remove the fried poha balls from the oil and place them on a paper towel-lined plate.",
+    "10. Garnish with chocolate balls and serve hot.",
+    "11. Repeat the process with the remaining dough and oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "bengali",
+    "snack",
+    "nutty",
+    "poha",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-bengali-nuts-poha-balls",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:56:07.827Z"
+}
