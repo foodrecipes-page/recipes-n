@@ -1,0 +1,68 @@
+{
+  "slug": "nice-crunchy-greek-duck-baklava",
+  "title": "Greek Baklava with Crunchy Nut Topping",
+  "description": "A sweet and crunchy twist on the classic Greek pastry dessert. Layers of flaky phyllo, crunchy nuts, and sweet honey come together in a delightful treat.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package (usually 20-24 sheets)"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Nice crunchy biscuits",
+      "amount": "1/2 cup, crushed"
+    },
+    {
+      "name": "Baklava",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Thaw phyllo dough according to package instructions.",
+    "Layer phyllo dough in a baking dish, brushing each sheet with melted butter.",
+    "Sprinkle chopped walnuts and crushed biscuits over the phyllo layers.",
+    "Drizzle honey over the top layer of phyllo.",
+    "Bake for 35-40 minutes, or until golden brown.",
+    "Allow to cool before serving.",
+    "Serve warm or at room temperature, topped with a dollop of Greek yogurt and chopped baklava."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "dessert",
+    "baklava",
+    "honey",
+    "walnuts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-crunchy-greek-duck-baklava",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T04:57:13.664Z"
+}
