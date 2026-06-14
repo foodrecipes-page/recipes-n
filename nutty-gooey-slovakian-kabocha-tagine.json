@@ -1,0 +1,88 @@
+{
+  "slug": "nutty-gooey-slovakian-kabocha-tagine",
+  "title": "Kabocha Tagine",
+  "description": "A sweet and nutty tagine made with kabocha squash, perfect for fall. This traditional slovakian dish is a hearty mix of spices and fall flavors.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "slovakian nutty spices",
+      "amount": "2 tsp",
+      "notes": "pre-mixed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "pre-mixed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tagine over medium heat.",
+    "Add onion and cook until softened.",
+    "Add ginger and cook for 1 minute.",
+    "Add kabocha, spices, salt, and pepper. Stir to combine.",
+    "Bring to a simmer and cook for 20 minutes.",
+    "Add honey, if using, and stir to combine.",
+    "Cook for an additional 5 minutes.",
+    "Serve hot, garnished with fresh herbs, if desired.",
+    "Serve over couscous, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "tagine",
+    "kabocha"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-gooey-slovakian-kabocha-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:47:16.202Z"
+}
