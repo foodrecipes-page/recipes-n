@@ -1,0 +1,61 @@
+{
+  "slug": "nice-sweet-malaysian-toffee-popcorn-bowl",
+  "title": "Malaysian Sweet Popcorn Bowl",
+  "description": "A sweet and crunchy dessert bowl made with malaysian-inspired flavors.",
+  "cuisine": "asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "popcorn",
+      "amount": "4 cups",
+      "notes": "popped"
+    },
+    {
+      "name": "sweet toffee sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "nice coconut flakes",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "malaysian-style condensed milk",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "any size"
+    }
+  ],
+  "instructions": [
+    "1. Pop the popcorn in a large bowl.",
+    "2. In a small saucepan, heat the sweet toffee sauce over low heat.",
+    "3. In a separate bowl, mix together the coconut flakes and condensed milk.",
+    "4. Pour the toffee sauce over the popcorn and toss to coat.",
+    "5. Sprinkle the coconut-condensed milk mixture over the popcorn.",
+    "6. Serve immediately in a bowl.",
+    "7. Enjoy as a sweet and crunchy dessert!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "snack",
+    "sweet",
+    "asian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-sweet-malaysian-toffee-popcorn-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:57:00.632Z"
+}
