@@ -3724,17 +3724,15 @@
   },
   {
     "slug": "nostalgic-japanese-beef-gyudon",
-    "title": "Nostalgic Japanese Beef Gyudon",
+    "title": "Japanese Beef Gyudon",
     "tags": [
-      "air-fryer-recipes",
-      "beef-recipes",
-      "cheesy-dishes",
-      "japanese-cuisine",
-      "raw-friendly",
-      "shikoku-inspired"
+      "japanese",
+      "beef",
+      "gyudon",
+      "onions"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -13774,17 +13772,15 @@
   },
   {
     "slug": "nutty-dense-midnight-poaching-silken-tofu",
-    "title": "Nutty Dense Midnight Poaching Silken Tofu",
+    "title": "Midnight Tofu Pudding",
     "tags": [
-      "nutty",
-      "dense",
-      "midnight",
-      "poaching",
-      "silken tofu",
-      "pescatarian"
+      "tofu",
+      "dessert",
+      "vegetarian",
+      "dairy-free"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
@@ -15626,17 +15622,15 @@
   },
   {
     "slug": "nutty-middle-eastern-noodles-dish",
-    "title": "Nutty Middle Eastern Noodles",
+    "title": "Nutty Eastern Noodle Dish",
     "tags": [
-      "brunch-idea",
-      "low-calorie",
       "middle-eastern",
-      "noodle-dish",
-      "quick-meal",
-      "vegetarian"
+      "vegetarian",
+      "lunch",
+      "noodles"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -16041,14 +16035,11 @@
   },
   {
     "slug": "nutty-portuguese-rice-fried-rice",
-    "title": "Nutty Portuguese Rice Fried-Rice",
+    "title": "Nutty Fried Rice",
     "tags": [
-      "cheese-pull",
-      "nutty",
-      "one-pot",
-      "quick-dinner",
-      "sattvic-friendly",
-      "vegetarian"
+      "rice",
+      "portuguese",
+      "nutty"
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 25,
