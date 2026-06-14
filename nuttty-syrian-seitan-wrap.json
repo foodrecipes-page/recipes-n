@@ -1,0 +1,82 @@
+{
+  "slug": "nuttty-syrian-seitan-wrap",
+  "title": "Veggie Wrap Delight",
+  "description": "A delicious and healthy veggie wrap filled with seitan, nuttty sauce, and topped with fresh Syrian herbs.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "8 oz",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "nuttty sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Syrian herbs",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley and thyme"
+    },
+    {
+      "name": "whole wheat wrap",
+      "amount": "1",
+      "notes": "or gluten-free wrap"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for brushing wrap"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle over medium heat.",
+    "Brush the whole wheat wrap with olive oil and cook for 1-2 minutes on each side.",
+    "Slice the seitan into thin strips and cook in the pan for 3-4 minutes on each side, or until browned.",
+    "In a small bowl, mix together nuttty sauce and a squeeze of lemon juice (if using).",
+    "Assemble the wrap by spreading the nuttty sauce mixture on the cooked wrap, followed by the seitan strips and Syrian herbs.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!",
+    "Optional: Add sliced veggies like cucumbers, tomatoes, or bell peppers to the wrap."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "veggie",
+    "wrap",
+    "middle-eastern",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nuttty-syrian-seitan-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T02:34:43.819Z"
+}
