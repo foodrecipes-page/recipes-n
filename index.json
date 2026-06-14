@@ -14755,19 +14755,14 @@
   },
   {
     "slug": "nutty-gooey-slovakian-kabocha-tagine",
-    "title": "nutty gooey slovakian kabocha tagine",
+    "title": "Kabocha Tagine",
     "tags": [
-      "date-night",
-      "high-protein",
-      "mediterranean",
-      "one-pan",
-      "slavic",
       "slovakian",
       "tagine",
-      "unique"
+      "kabocha"
     ],
-    "cuisine": "slav cuisine",
-    "totalTimeMin": 65,
+    "cuisine": "slovakian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
