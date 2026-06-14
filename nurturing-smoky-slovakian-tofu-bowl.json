@@ -1,0 +1,79 @@
+{
+  "slug": "nurturing-smoky-slovakian-tofu-bowl",
+  "title": "Smoky Slovakian Tofu Bowl",
+  "description": "A hearty, smoky Slovakian-inspired bowl filled with marinated tofu and a variety of vegetables. Perfect for a quick and easy dinner.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "slovakian smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, olive oil, and Slovakian smoked paprika (if using). Add the tofu and marinate for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat. Remove the tofu from the marinade and cook for 3-4 minutes per side, or until golden brown.",
+    "While the tofu is cooking, heat some olive oil in a large skillet over medium heat. Add the sliced onion, bell pepper, and carrot, and cook until the vegetables are tender.",
+    "To assemble the bowls, place a scoop of cooked brown rice on the bottom, followed by the marinated tofu and sautéed vegetables.",
+    "Garnish with your choice of toppings, such as chopped fresh herbs or a dollop of sour cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-option",
+    "gluten-free",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nurturing-smoky-slovakian-tofu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T02:27:22.392Z"
+}
