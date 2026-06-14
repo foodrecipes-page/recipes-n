@@ -1676,18 +1676,16 @@
   },
   {
     "slug": "nice-crunchy-greek-duck-baklava",
-    "title": "Nice Crunchy Greek Duck Baklava",
+    "title": "Greek Baklava with Crunchy Nut Topping",
     "tags": [
+      "greek",
       "dessert",
-      "duck-sauce",
-      "gluten-free",
-      "greek-food",
-      "low-carb",
-      "phyllo-dough",
+      "baklava",
+      "honey",
       "walnuts"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 75,
+    "totalTimeMin": 60,
     "shard": "n"
   },
   {
@@ -9584,15 +9582,13 @@
   },
   {
     "slug": "nurturing-smoky-slovakian-tofu-bowl",
-    "title": "Nurturing Smoky Slovakian Tofu Bowl",
+    "title": "Smoky Slovakian Tofu Bowl",
     "tags": [
-      "high-protein",
-      "low-carb",
-      "one-bowl",
-      "smoky",
-      "vegan"
+      "vegan-option",
+      "gluten-free",
+      "slovakian-cuisine"
     ],
-    "cuisine": "Slovakian",
+    "cuisine": "slovakian",
     "totalTimeMin": 35,
     "shard": "n"
   },
@@ -11630,15 +11626,15 @@
   },
   {
     "slug": "nuttty-syrian-seitan-wrap",
-    "title": "Nuttty Syrian Seitan Wrap",
+    "title": "Veggie Wrap Delight",
     "tags": [
-      "nutty",
-      "adventurous",
-      "syrian",
-      "fish-inspired"
+      "veggie",
+      "wrap",
+      "middle-eastern",
+      "gluten-free"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
