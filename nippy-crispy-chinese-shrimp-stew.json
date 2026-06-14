@@ -1,0 +1,71 @@
+{
+  "slug": "nippy-crispy-chinese-shrimp-stew",
+  "title": "Crispy Shrimp Stir Fry",
+  "description": "A quick and easy stir fry recipe using crispy shrimp, perfect for a weeknight dinner. Serve with steamed vegetables or rice.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "chinese",
+      "amount": "2 tablespoons",
+      "notes": "stir-fry sauce"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "fried noodles"
+    },
+    {
+      "name": "nippy",
+      "amount": "1/4 cup",
+      "notes": "green onions"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add shrimp and cook for 2-3 minutes, until pink and cooked through.",
+    "Add stir-fry sauce and cook for 1 minute, until the sauce is bubbly.",
+    "Add fried noodles and green onions, and stir to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "stir-fry",
+    "chinese-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nippy-crispy-chinese-shrimp-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:41:59.598Z"
+}
