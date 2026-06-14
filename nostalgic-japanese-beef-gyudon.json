@@ -1,0 +1,77 @@
+{
+  "slug": "nostalgic-japanese-beef-gyudon",
+  "title": "Japanese Beef Gyudon",
+  "description": "A classic Japanese beef bowl dish made with thinly sliced beef and onions simmered in a sweet soy sauce broth, served over a bed of steamed rice.",
+  "cuisine": "Japanese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thinly sliced beef (gyu)",
+      "amount": "250g",
+      "notes": "Sliced against the grain"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Japanese soy sauce"
+    },
+    {
+      "name": "Sake",
+      "amount": "1 tbsp",
+      "notes": "Japanese rice wine"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "150g",
+      "notes": "Short-grain Japanese rice"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onions and cook until caramelized, about 8 minutes.",
+    "Add beef and cook until browned, about 3-4 minutes.",
+    "Add soy sauce, sake, and sugar. Stir to combine.",
+    "Add water and bring to a simmer.",
+    "Reduce heat to low and cook for 10 minutes.",
+    "Serve beef and onions over steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "beef",
+    "gyudon",
+    "onions"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-japanese-beef-gyudon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:16:38.223Z"
+}
