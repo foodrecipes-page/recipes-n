@@ -1,0 +1,65 @@
+{
+  "slug": "nifty-mustard-brazilian-beef-skewers",
+  "title": "Brazilian Beef Skewers with Mustard Sauce",
+  "description": "Tender beef skewers marinated in a zesty Brazilian-inspired sauce, grilled to perfection. Serve with a side of tangy mustard sauce for dipping.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound (450g) beef sirloin, cut into 1-inch (2.5 cm) cubes"
+    },
+    {
+      "name": "skewers",
+      "amount": "10 bamboo skewers, soaked in water for 30 minutes"
+    },
+    {
+      "name": "mustard",
+      "amount": "1/4 cup (60g) whole-grain mustard"
+    },
+    {
+      "name": "nifty",
+      "amount": "2 cloves nifty (such as garlic or onion), minced"
+    },
+    {
+      "name": "brazilian",
+      "amount": "2 tablespoons (30g) Brazilian-style seasoning (such as malagueta pepper, cumin, and coriander)"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together mustard, nifty, and brazilian seasoning.",
+    "Add the beef cubes to the marinade and toss to coat.",
+    "Thread the marinated beef onto the skewers, leaving a little space between each piece.",
+    "Preheat the grill to medium-high heat (400°F/200°C).",
+    "Grill the skewers for 8-10 minutes per side, or until the beef is cooked to your desired level of doneness.",
+    "Meanwhile, mix together the remaining marinade and a little water to create a dipping sauce.",
+    "Serve the skewers with the mustard sauce for dipping.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "skewers",
+    "mustard",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "40g",
+    "carbs": "6g",
+    "fat": "22g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nifty-mustard-brazilian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T21:48:40.368Z"
+}
