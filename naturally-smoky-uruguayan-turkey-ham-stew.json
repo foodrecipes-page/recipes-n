@@ -1,0 +1,85 @@
+{
+  "slug": "naturally-smoky-uruguayan-turkey-ham-stew",
+  "title": "Uruguayan-Style Smoked Turkey Stew",
+  "description": "A hearty and flavorful stew made with smoky Uruguayan sausage, tender turkey, and a blend of aromatic spices.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uruguayan Smoked Sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Boneless, Skinless Turkey Thighs",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "1 (14.5 oz) can"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large Dutch oven, brown the sliced Uruguayan smoked sausage over medium-high heat.",
+    "2. Remove the cooked sausage from the pot and set aside.",
+    "3. Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "4. Add the minced garlic and cook for an additional 1 minute.",
+    "5. Add the turkey thighs to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "6. Add the canned diced tomatoes, stew, red wine, chili powder, salt, and black pepper to the pot.",
+    "7. Stir to combine and bring the mixture to a simmer.",
+    "8. Return the cooked sausage to the pot and continue to simmer for an additional 20-25 minutes, or until the turkey is cooked through.",
+    "9. Serve hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "smoked",
+    "turkey",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-smoky-uruguayan-turkey-ham-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-29T22:09:19.804Z"
+}
