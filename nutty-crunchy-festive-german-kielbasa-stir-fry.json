@@ -1,0 +1,70 @@
+{
+  "slug": "nutty-crunchy-festive-german-kielbasa-stir-fry",
+  "title": "German Kielbasa Stir Fry",
+  "description": "A hearty and flavorful German-inspired stir fry featuring kielbasa sausage and crunchy vegetables.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kielbasa Sausage",
+      "amount": "1 pound, sliced",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, sliced",
+      "notes": null
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium, sliced",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium, peeled and diced",
+      "notes": null
+    },
+    {
+      "name": "Fry",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Nutty German Seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the Fry in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the sliced bell pepper and cook for an additional 2-3 minutes.",
+    "Add the sliced kielbasa sausage and cook until browned, about 5 minutes.",
+    "Add the diced potatoes and cook for about 5-7 minutes, or until they begin to tenderize.",
+    "Sprinkle the Nutty German Seasoning over the top and stir to combine.",
+    "Continue cooking for an additional 2-3 minutes, or until the potatoes are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stir-fry",
+    "kielbasa"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crunchy-festive-german-kielbasa-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:22:35.133Z"
+}
