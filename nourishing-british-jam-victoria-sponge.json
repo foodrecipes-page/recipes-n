@@ -1,0 +1,69 @@
+{
+  "slug": "nourishing-british-jam-victoria-sponge",
+  "title": "Traditional Victoria Sponge Cake",
+  "description": "A classic British dessert consisting of two layers of light sponge cake, separated by a layer of jam.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "jam (such as raspberry or strawberry)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Butter two 8-inch round cake pans and line the bottoms with parchment paper.",
+    "In a medium bowl, whisk together the flour and confectioners' sugar.",
+    "In a large mixing bowl, beat the eggs and sugar until light and fluffy.",
+    "Add the softened butter and beat until well combined.",
+    "Gradually add the flour mixture to the wet ingredients and mix until just combined.",
+    "Divide the batter evenly between the prepared pans and smooth the tops.",
+    "Bake for 20-25 minutes, or until a toothpick inserted into the center of each cake comes out clean.",
+    "Allow the cakes to cool in the pans for 5 minutes, then transfer them to a wire rack to cool completely.",
+    "Once the cakes are cool, spread a layer of jam on top of one of the cakes.",
+    "Place the second cake on top of the jam and dust with confectioners' sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "british",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-british-jam-victoria-sponge",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:09:28.527Z"
+}
