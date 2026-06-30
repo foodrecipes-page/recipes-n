@@ -1,0 +1,68 @@
+{
+  "slug": "nimble-southern-thai-tomatoes-kanom-ko",
+  "title": "Thai Nimble Stir Fry",
+  "description": "A spicy and flavorful stir-fry dish combining nimble and southern flavors, served with fresh tomatoes. This dish is quick to make and perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Nimble",
+      "amount": "1 cup",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Southern",
+      "amount": "2 tablespoons",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Chop into bite-sized pieces"
+    },
+    {
+      "name": "Kanom",
+      "amount": "1 tablespoon",
+      "notes": "Crush into small pieces"
+    },
+    {
+      "name": "Ko",
+      "amount": "2 cloves",
+      "notes": "Mince into small pieces"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the nimble and southern and cook for 2-3 minutes, or until the vegetables are tender.",
+    "Add the kanom and ko and cook for 1-2 minutes, or until fragrant.",
+    "Add the chopped tomatoes and stir-fry for 2-3 minutes, or until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-southern-thai-tomatoes-kanom-ko",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:00:15.260Z"
+}
