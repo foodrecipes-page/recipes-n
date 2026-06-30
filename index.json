@@ -13426,16 +13426,14 @@
   },
   {
     "slug": "nutty-crunchy-festive-german-kielbasa-stir-fry",
-    "title": "Nutty Crunchy Festive German Kielbasa Stir-fry",
+    "title": "German Kielbasa Stir Fry",
     "tags": [
+      "german",
       "stir-fry",
-      "gluten-free",
-      "festive",
-      "nutty",
-      "crunchy"
+      "kielbasa"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 55,
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
