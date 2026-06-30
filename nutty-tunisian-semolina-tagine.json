@@ -1,0 +1,84 @@
+{
+  "slug": "nutty-tunisian-semolina-tagine",
+  "title": "Tunisian Semolina Cake with Nutty Crust",
+  "description": "A traditional Tunisian dessert made with semolina flour, featuring a crunchy nutty crust. Perfect for a sweet treat.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chopped pistachios or almonds",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Grease a 9-inch (23cm) round cake pan.",
+    "In a medium bowl, whisk together semolina flour, all-purpose flour, sugar, ground almonds, and salt.",
+    "In a large bowl, whisk together melted butter, eggs, vanilla extract, and nutmeg.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes.",
+    "Transfer the cake to a wire rack to cool completely.",
+    "Garnish with chopped pistachios or almonds before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "semolina",
+    "cake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-tunisian-semolina-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:55:10.551Z"
+}
