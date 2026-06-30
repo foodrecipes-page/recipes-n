@@ -4525,16 +4525,14 @@
   },
   {
     "slug": "nourishing-british-jam-victoria-sponge",
-    "title": "Nourishing British Jam Victoria Sponge",
+    "title": "Traditional Victoria Sponge Cake",
     "tags": [
-      "british-classics",
-      "homemade-with-love",
-      "romantic-desserts",
-      "unique-textures",
-      "vegetarian-friendly"
+      "cake",
+      "british",
+      "dessert"
     ],
     "cuisine": "British",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -17483,16 +17481,15 @@
   },
   {
     "slug": "nutty-tunisian-semolina-tagine",
-    "title": "Nutty Tunisian Semolina Tagine",
+    "title": "Tunisian Semolina Cake with Nutty Crust",
     "tags": [
-      "comfort-food",
-      "festive",
-      "north-african",
-      "one-pot",
-      "vegan-friendly"
+      "tunisian",
+      "semolina",
+      "cake",
+      "dessert"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
