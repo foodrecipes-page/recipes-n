@@ -1,0 +1,82 @@
+{
+  "slug": "nice-crunchy-kenyan-beef-stir-fry",
+  "title": "Kenyan Beef Stir Fry",
+  "description": "A flavorful and spicy stir fry dish from Kenya, made with tender beef and crunchy vegetables.",
+  "cuisine": "kenyan",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "250g",
+      "notes": "Slice the beef into thin strips"
+    },
+    {
+      "name": "nice",
+      "amount": "2",
+      "notes": "Use 2 nice large onions"
+    },
+    {
+      "name": "crunchy",
+      "amount": "2",
+      "notes": "Add 2 crunchy carrots"
+    },
+    {
+      "name": "kenyan",
+      "amount": "2",
+      "notes": "Add 2 Kenyan sweet potatoes"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "Use vegetable oil for frying"
+    },
+    {
+      "name": "stir",
+      "amount": "1 tsp",
+      "notes": "Add 1 tsp stir-fry sauce"
+    },
+    {
+      "name": "fry",
+      "amount": "1 tsp",
+      "notes": "Add 1 tsp soy sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "Season with salt to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Add the onions, carrots, and sweet potatoes, and cook for another 5 minutes.",
+    "Add the stir-fry sauce and soy sauce, and stir-fry for another 2 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "kenyan",
+    "stir-fry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-crunchy-kenyan-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:36:45.901Z"
+}
