@@ -1080,17 +1080,15 @@
   },
   {
     "slug": "naturally-sweet-peruvian-sweet-potato-picarones",
-    "title": "Peruvian Sweet Potato Picarones",
+    "title": "Peruvian Picarones",
     "tags": [
-      "desserts",
-      "fried-dough",
-      "lacquer-glaze",
-      "low-carb-friendly",
-      "peruvian-dishes",
-      "sweet-potato-recipes"
+      "peruvian",
+      "sweet",
+      "potato",
+      "donuts"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -1688,17 +1686,15 @@
   },
   {
     "slug": "nice-crunchy-kenyan-beef-stir-fry",
-    "title": "Nice Crunchy Kenyan Beef Stir Fry",
+    "title": "Kenyan Beef Stir Fry",
     "tags": [
-      "beef-recipes",
-      "buddhist-friendly",
-      "high-protein",
-      "kenyan-cuisine",
-      "quick-dinner",
-      "stir-fry"
+      "beef",
+      "kenyan",
+      "stir-fry",
+      "spicy"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -4409,17 +4405,15 @@
   },
   {
     "slug": "nourishing-bitter-british-lamb-shepherds-pie",
-    "title": "Nourishing Bitter British Lamb Shepherds Pie",
+    "title": "Traditional British Shepherd's Pie",
     "tags": [
-      "british-cuisine",
-      "brunch-idea",
-      "hearty-meal",
-      "high-protein",
-      "one-pan",
-      "weeknight-meal"
+      "british",
+      "lamb",
+      "comfort-food",
+      "winter-recipe"
     ],
     "cuisine": "British",
-    "totalTimeMin": 60,
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {
@@ -7481,17 +7475,15 @@
   },
   {
     "slug": "nourishing-savory-german-ground-beef-casserole",
-    "title": "Nourishing Savory German Ground Beef Casserole",
+    "title": "Ground Beef German Casserole",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "ground-beef",
-      "one-pan",
-      "weeknight"
+      "german",
+      "beef",
+      "casserole",
+      "comfort-food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 75,
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
