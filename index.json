@@ -16461,17 +16461,15 @@
   },
   {
     "slug": "nutty-silky-cozy-pumpkin-stir-fry",
-    "title": "Nutty Silky Cozy Pumpkin Stir-fry",
+    "title": "Pumpkin Stir Fry",
     "tags": [
-      "nutty",
-      "silky",
-      "cozy",
-      "filipino",
-      "vegetarian-friendly",
-      "stir-fry"
+      "pumpkin",
+      "stir-fry",
+      "vegetarian",
+      "easy"
     ],
-    "cuisine": "Philippine",
-    "totalTimeMin": 35,
+    "cuisine": "asian",
+    "totalTimeMin": 13,
     "shard": "n"
   },
   {
