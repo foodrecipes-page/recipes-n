@@ -1,0 +1,79 @@
+{
+  "slug": "nutty-tender-kenyan-rainbow-trout-stew",
+  "title": "Pan-Seared Trout with Rainbow Stew",
+  "description": "A flavorful and nutritious dish featuring pan-seared trout served with a delicious rainbow stew. The stew is made with a variety of vegetables and tender meat.",
+  "cuisine": "kenyan",
+  "diet": [
+    "fish",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "trout",
+      "amount": "2 fillets",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "tender",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "rainbow",
+      "amount": "1 cup",
+      "notes": "such as bell peppers and carrots"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C)",
+    "2. Season the trout fillets with salt and pepper",
+    "3. Heat a skillet over medium-high heat and add a small amount of oil",
+    "4. Sear the trout fillets for 2-3 minutes on each side",
+    "5. Transfer the skillet to the preheated oven and bake for 8-10 minutes",
+    "6. While the trout is baking, heat a separate skillet over medium heat",
+    "7. Add the stew and cook for 5-7 minutes, stirring occasionally",
+    "8. Add the nutty and tender ingredients to the skillet and cook for an additional 2-3 minutes",
+    "9. Stir in the onion and garlic and cook for 1-2 minutes",
+    "10. Serve the pan-seared trout with the rainbow stew"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-tender-kenyan-rainbow-trout-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:05:42.650Z"
+}
