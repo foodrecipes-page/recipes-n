@@ -1,0 +1,76 @@
+{
+  "slug": "nutty-crispy-light-moroccan-beef-tagine",
+  "title": "Moroccan Beef Tagine",
+  "description": "A hearty and flavorful Moroccan stew made with tender beef and aromatic spices. Serve with crusty bread or couscous.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 lb (450g) beef short ribs or chuck"
+    },
+    {
+      "name": "Moroccan",
+      "amount": "2 tbsp (30g) moroccan spice blend"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup (30g) chopped almonds"
+    },
+    {
+      "name": "light",
+      "amount": "2 tbsp (30g) olive oil"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup (30g) chopped fresh parsley"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 large onion, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the moroccan spice blend and cook for 1 minute.",
+    "Add the beef broth and bring to a boil.",
+    "Transfer the stew to the oven and cook, covered, at 300°F (150°C) for 2 1/2 hours, or until the beef is tender.",
+    "Stir in the almonds and parsley.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over couscous or with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "moroccan",
+    "stew",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-light-moroccan-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:45:21.709Z"
+}
