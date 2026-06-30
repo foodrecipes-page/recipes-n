@@ -2928,16 +2928,15 @@
   },
   {
     "slug": "nimble-southern-thai-tomatoes-kanom-ko",
-    "title": "Nimble Southern-Thai Tomatoes Kanom Ko",
+    "title": "Thai Nimble Stir Fry",
     "tags": [
-      "date-night",
-      "easy-dessert",
-      "halal",
-      "southern-thai",
-      "weeknight"
+      "thai",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "southern-thai",
-    "totalTimeMin": 35,
+    "cuisine": "Thai",
+    "totalTimeMin": 22,
     "shard": "n"
   },
   {
@@ -12935,17 +12934,15 @@
   },
   {
     "slug": "nutty-crispy-light-moroccan-beef-tagine",
-    "title": "Nutty, Crispy, Light Moroccan Beef Tagine",
+    "title": "Moroccan Beef Tagine",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-glycemic",
+      "beef",
       "moroccan",
-      "one-pan",
-      "weeknight"
+      "stew",
+      "couscous"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 170,
     "shard": "n"
   },
   {
