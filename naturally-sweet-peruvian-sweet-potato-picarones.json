@@ -1,0 +1,78 @@
+{
+  "slug": "naturally-sweet-peruvian-sweet-potato-picarones",
+  "title": "Peruvian Picarones",
+  "description": "Traditional Peruvian sweet potato donuts, often served as a dessert or snack.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chancaca (or brown sugar)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "anise extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh anise",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour, sugar, cinnamon, and yeast.",
+    "Add the shortening and mix until the dough is smooth.",
+    "Knead the dough for 10 minutes.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oil in a deep frying pan to 375°F.",
+    "Punch down the dough and turn it out onto a lightly floured surface.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Fry the dough circles for 2-3 minutes on each side, or until they are golden brown.",
+    "Drain the picarones on paper towels.",
+    "Serve warm, dust with powdered sugar, and garnish with chopped anise."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "sweet",
+    "potato",
+    "donuts"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-sweet-peruvian-sweet-potato-picarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:38:56.198Z"
+}
