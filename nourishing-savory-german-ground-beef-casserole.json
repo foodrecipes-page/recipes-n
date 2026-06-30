@@ -1,0 +1,95 @@
+{
+  "slug": "nourishing-savory-german-ground-beef-casserole",
+  "title": "Ground Beef German Casserole",
+  "description": "A hearty, comforting casserole filled with ground beef and savory German flavors.",
+  "cuisine": "german",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Sweet"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Egg noodles",
+      "amount": "8 ounces",
+      "notes": "Dry"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook egg noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, cook ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add chopped onion, toasted caraway seeds, sweet paprika, salt, and black pepper to the skillet. Cook until onion is translucent.",
+    "Stir in tomato paste and cook for 1-2 minutes.",
+    "Add beef broth to the skillet and bring to a simmer. Scrape up any browned bits from the bottom of the pan.",
+    "In a large mixing bowl, combine cooked egg noodles, ground beef mixture, and shredded cheddar cheese.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 25-30 minutes or until hot and bubbly.",
+    "Remove foil and bake for an additional 5-10 minutes or until top is lightly browned."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 25,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-savory-german-ground-beef-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:09:30.515Z"
+}
