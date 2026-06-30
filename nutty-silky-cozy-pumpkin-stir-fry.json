@@ -1,0 +1,61 @@
+{
+  "slug": "nutty-silky-cozy-pumpkin-stir-fry",
+  "title": "Pumpkin Stir Fry",
+  "description": "A delicious and healthy stir fry made with pumpkin, perfect for a weeknight dinner. This recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 small"
+    },
+    {
+      "name": "nutty oil",
+      "amount": "2 tbsp",
+      "notes": "any neutral oil will do"
+    },
+    {
+      "name": "stir-fry spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cozy soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "silky honey",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the nutty oil in a large skillet or wok over medium-high heat.",
+    "Add the pumpkin and stir-fry for 3-4 minutes, or until slightly tender.",
+    "Add the stir-fry spice mix and stir-fry for another minute.",
+    "Add the cozy soy sauce and silky honey, and stir-fry for a final 2 minutes.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pumpkin",
+    "stir-fry",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-silky-cozy-pumpkin-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:29:26.760Z"
+}
