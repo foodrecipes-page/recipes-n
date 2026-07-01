@@ -1,0 +1,80 @@
+{
+  "slug": "nutritious-syrian-poppy-seed-encroute",
+  "title": "Syrian Poppy Seed Encroute",
+  "description": "A delicious Syrian-inspired breakfast dish featuring poppy seed encroute with nutritious ingredients.",
+  "cuisine": "Syrian",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Poppy seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Encroute dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large eggs"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the encroute dough.",
+    "Mix the poppy seeds, sugar, and cinnamon in a bowl.",
+    "Add the eggs, milk, and melted butter to the bowl and mix well.",
+    "Pour the mixture over the rolled-out encroute dough.",
+    "Sprinkle the top with additional poppy seeds if desired.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Let cool for 5 minutes before serving.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "syrian",
+    "poppy-seed",
+    "encroute"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-syrian-poppy-seed-encroute",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:22:49.224Z"
+}
