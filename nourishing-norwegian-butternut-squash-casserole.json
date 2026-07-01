@@ -1,0 +1,78 @@
+{
+  "slug": "nourishing-norwegian-butternut-squash-casserole",
+  "title": "Norwegian Butternut Squash Casserole",
+  "description": "A warm and comforting Norwegian-inspired casserole made with roasted butternut squash, nourishing ingredients, and a crispy topping.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "Vegetarian",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butternut squash",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-purpose gluten-free flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Nourishing oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1/2 cup shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, de-seed, and chop the butternut squash into 1-inch cubes.",
+    "In a large mixing bowl, combine the flour, milk, salt, and black pepper. Stir until smooth.",
+    "Add the chopped butternut squash to the bowl and mix until well coated.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, mix together the oats and shredded cheese.",
+    "Sprinkle the oat and cheese mixture evenly over the top of the casserole.",
+    "Dot the top of the casserole with unsalted butter.",
+    "Bake for 35-40 minutes, or until the casserole is golden brown and the squash is tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "norwegian",
+    "butternut squash",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-norwegian-butternut-squash-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:12:19.202Z"
+}
