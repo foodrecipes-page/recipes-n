@@ -1,0 +1,73 @@
+{
+  "slug": "nutty-silky-indian-long-beans-curry",
+  "title": "Silky Curry Bean Bowl",
+  "description": "A flavorful and nutritious bowl filled with silky curry sauce and long beans, perfect for a quick dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Long beans",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Curry",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Nutty sauce",
+      "amount": "1 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Silky sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": "for thinning the sauce"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a pan over medium heat.",
+    "Add the long beans and cook until tender, about 3-4 minutes.",
+    "In a separate pan, heat the curry sauce over low heat.",
+    "Add the nutty sauce and silky sauce to the curry sauce and stir well.",
+    "Add the cooked long beans to the sauce and stir to combine.",
+    "Season with salt to taste.",
+    "Serve the curry bean sauce over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "curry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-silky-indian-long-beans-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:22:32.967Z"
+}
