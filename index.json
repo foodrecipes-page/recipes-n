@@ -8377,17 +8377,17 @@
   },
   {
     "slug": "nourishing-smoky-venezuelan-mackerel-skewers",
-    "title": "Nourishing Smoky Venezuelan Mackerel Skewers",
+    "title": "Grilled Mackerel Skewers with Smoky Nourishing Glaze",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "pescatarian",
-      "seafood",
-      "weeknight"
+      "grilled",
+      "mackerel",
+      "skewers",
+      "nourishing",
+      "glaze",
+      "venezuelan"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 32,
+    "totalTimeMin": 31,
     "shard": "n"
   },
   {
@@ -9329,16 +9329,14 @@
   },
   {
     "slug": "nriched-cheese-bean-sprout-pilaf",
-    "title": "NRiched Cheese Bean Sprout Pilaf",
+    "title": "Cheesy Bean and Sprout Pilaf",
     "tags": [
-      "american-dish",
-      "gluten-free",
-      "quick-cook",
-      "vegan",
-      "vegetarian"
+      "vegetarian",
+      "quick-meal",
+      "pilaf"
     ],
     "cuisine": "American",
-    "totalTimeMin": 40,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
