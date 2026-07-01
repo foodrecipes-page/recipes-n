@@ -1,0 +1,68 @@
+{
+  "slug": "nutty-polish-vegetable-skewers",
+  "title": "Grilled Polish Sausages with Vegetables",
+  "description": "A simple and flavorful grilled sausage dish, served with a variety of roasted vegetables.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish sausages",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable skewers",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Vegetables (bell peppers, onions, mushrooms, zucchini)",
+      "amount": "1 cup each",
+      "notes": ""
+    },
+    {
+      "name": "Nutty oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak vegetable skewers in water for 30 minutes.",
+    "Thread vegetables onto skewers.",
+    "Season sausages with salt and pepper.",
+    "Grill sausages for 5-7 minutes per side, or until cooked through.",
+    "Grill vegetable skewers for 5-7 minutes per side, or until tender.",
+    "Brush with nutty oil during last minute of grilling.",
+    "Serve sausage and vegetables hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "sausages",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-polish-vegetable-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:25:34.944Z"
+}
