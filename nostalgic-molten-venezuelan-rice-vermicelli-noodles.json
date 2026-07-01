@@ -1,0 +1,85 @@
+{
+  "slug": "nostalgic-molten-venezuelan-rice-vermicelli-noodles",
+  "title": "Venezuelan Noodle Stew",
+  "description": "A hearty stew originating from Venezuela, made with noodles, rice, and other traditional ingredients.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vermicelli",
+      "amount": "250g"
+    },
+    {
+      "name": "rice",
+      "amount": "150g"
+    },
+    {
+      "name": "noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "molten",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and sauté until softened.",
+    "Add noodles, vermicelli, and rice. Stir to combine.",
+    "Pour in molten, tomato sauce, salt, and black pepper.",
+    "Add water and bring to a boil.",
+    "Reduce heat and let simmer for 20 minutes.",
+    "Serve hot and enjoy!",
+    "Optional: Add more seasoning to taste.",
+    "Serve with additional rice or noodles if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "stew",
+    "south-american",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-molten-venezuelan-rice-vermicelli-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:27:11.160Z"
+}
