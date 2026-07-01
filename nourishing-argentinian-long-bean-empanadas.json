@@ -1,0 +1,92 @@
+{
+  "slug": "nourishing-argentinian-long-bean-empanadas",
+  "title": "Empanadas Argentinas",
+  "description": "Traditional Argentinian beef empanadas, perfect for a snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nourishing Empanada Dough",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the beef is browned, add the onion, garlic, salt, and black pepper to the skillet and cook until the onion is translucent.",
+    "Add the beef broth to the skillet and stir to combine.",
+    "Roll out the empanada dough and cut it into circles, about 3 inches in diameter.",
+    "Spoon a tablespoon of the beef mixture onto the center of each dough circle, leaving a 1/2-inch border around the edges.",
+    "Fold the dough in half over the filling and press the edges together with a fork to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush with a little bit of water.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until they are golden brown.",
+    "Serve the empanadas hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "snack",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-argentinian-long-bean-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:30:46.601Z"
+}
