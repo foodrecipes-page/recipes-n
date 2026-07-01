@@ -1,0 +1,68 @@
+{
+  "slug": "nimble-light-australian-cream-mousse",
+  "title": "Australian Mousse Recipe",
+  "description": "A light and airy dessert with the flavors of Australia. Perfect for warm weather and outdoor gatherings.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup light cream",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "8 ounces Australian chocolate",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "8 ounces mousse",
+      "amount": "",
+      "notes": "optional for topping"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, heat the cream over low heat until it starts to simmer.",
+    "Remove the cream from the heat and add in the chocolate. Let it sit for 1-2 minutes to melt.",
+    "Whisk the mixture until smooth and creamy.",
+    "Stir in the sugar and vanilla extract until combined.",
+    "Pour the mixture into individual serving cups.",
+    "Chill in the refrigerator for at least 2 hours.",
+    "Top with mousse, if using.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "dessert",
+    "chocolate",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-light-australian-cream-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:39:07.130Z"
+}
