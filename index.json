@@ -6687,17 +6687,16 @@
   },
   {
     "slug": "nourishing-light-korean-red-cabbage-noodles",
-    "title": "Nourishing Light Korean Red Cabbage Noodles",
+    "title": "Korean Red Cabbage Stir Fry",
     "tags": [
-      "dairy-free",
-      "healthy-meal",
-      "korean-food",
-      "lazy-sunday",
-      "noodle-dish",
-      "vegetarian"
+      "korean",
+      "vegetarian",
+      "stir-fry",
+      "noodles",
+      "cabbage"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
