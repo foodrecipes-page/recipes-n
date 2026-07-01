@@ -3813,17 +3813,15 @@
   },
   {
     "slug": "nostalgic-molten-venezuelan-rice-vermicelli-noodles",
-    "title": "Nostalgic Molten Venezuelan Rice Vermicelli Noodles",
+    "title": "Venezuelan Noodle Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "noodles",
-      "one-pot",
-      "stone-bowl",
-      "vegetarian"
+      "vegan",
+      "stew",
+      "south-american",
+      "comfort-food"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -4305,18 +4303,16 @@
   },
   {
     "slug": "nourishing-argentinian-long-bean-empanadas",
-    "title": "Nourishing Argentinian Long-bean Empanadas",
+    "title": "Empanadas Argentinas",
     "tags": [
       "argentinian",
-      "double-fried",
+      "beef",
       "empanadas",
-      "long-beans",
-      "shojin-friendly",
-      "south-american",
-      "vegetarian"
+      "snack",
+      "meat"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 40,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -6947,16 +6943,15 @@
   },
   {
     "slug": "nourishing-middle-eastern-chickpea-tagine",
-    "title": "Nourishing Middle Eastern Chickpea Tagine",
+    "title": "Chickpea Tagine",
     "tags": [
-      "hassle-free",
-      "low-sugar",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "chickpea",
+      "middle-eastern",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -7140,17 +7135,15 @@
   },
   {
     "slug": "nourishing-norwegian-butternut-squash-casserole",
-    "title": "Nourishing Norwegian Butternut Squash Casserole",
+    "title": "Norwegian Butternut Squash Casserole",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "kid-friendly",
-      "norwegian-cuisine",
-      "vegetarian",
-      "weeknight-dinner"
+      "casserole",
+      "norwegian",
+      "butternut squash",
+      "vegetarian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {
@@ -15977,17 +15970,14 @@
   },
   {
     "slug": "nutty-polish-vegetable-skewers",
-    "title": "Nutty Polish Vegetable Skewers",
+    "title": "Grilled Polish Sausages with Vegetables",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "one-pan",
-      "polish",
-      "snack",
-      "vegan"
+      "grilled",
+      "sausages",
+      "vegetables"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -17263,19 +17253,15 @@
   },
   {
     "slug": "nutty-tender-italian-mincemeat-stew",
-    "title": "Nutty Tender Italian Mincemeat Stew",
+    "title": "Tender Italian Meatball Stew",
     "tags": [
       "italian",
-      "sicilian",
-      "low-sodium",
-      "nutty",
-      "mincemeat",
-      "braised",
-      "savory",
-      "stew"
+      "stew",
+      "beef",
+      "meatballs"
     ],
-    "cuisine": "Italian (Sicilian)",
-    "totalTimeMin": 105,
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
     "shard": "n"
   },
   {
