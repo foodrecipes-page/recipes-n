@@ -1,0 +1,79 @@
+{
+  "slug": "naturally-crisp-uruguayan-potato-buns-burger",
+  "title": "Uruguayan-Style Crisp Burger",
+  "description": "A juicy burger with a crispy twist, inspired by Uruguayan flavors. Perfect for a quick dinner or lunch.",
+  "cuisine": null,
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "For crispy potato wedges"
+    },
+    {
+      "name": "Buns",
+      "amount": "4"
+    },
+    {
+      "name": "Crisp",
+      "amount": "1 bag",
+      "notes": "For topping"
+    },
+    {
+      "name": "Uruguayan Seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 200°C (400°F).",
+    "2. Cut the potatoes into wedges and toss with olive oil, salt, and pepper. Spread on a baking sheet and roast for 20 minutes.",
+    "3. In a large bowl, combine ground beef, Uruguayan seasoning, salt, and pepper. Mix well with your hands until just combined.",
+    "4. Divide the beef mixture into 4 equal parts and shape into patties.",
+    "5. Heat a non-stick pan over medium-high heat. Add a few drops of olive oil and cook the patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "6. Meanwhile, toast the buns on the pan or in the oven.",
+    "7. Assemble the burgers with the cooked patties, crispy potato wedges, and top with crisp.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "burgers",
+    "uruguayan",
+    "potato",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "34g",
+    "carbs": "30g",
+    "fat": "32g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-crisp-uruguayan-potato-buns-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:29:25.212Z"
+}
