@@ -2860,15 +2860,11 @@
   },
   {
     "slug": "nimble-slovak-sausage-skewers",
-    "title": "Nimble Slovak Sausage Skewers",
+    "title": "Slovak Sausage Skewers",
     "tags": [
-      "date-night",
-      "flamb",
-      "light-dinner",
-      "pescatarian-friendly",
-      "sausage",
       "skewers",
-      "umami"
+      "sausage",
+      "slovak"
     ],
     "cuisine": "Slovak",
     "totalTimeMin": 25,
@@ -13275,17 +13271,14 @@
   },
   {
     "slug": "nutty-crumbly-sausage-crumble",
-    "title": "Nutty Crumbly Sausage Crumble",
+    "title": "Sausage and Crumble Crumble",
     "tags": [
-      "nutty",
-      "crumbly",
-      "egyptian",
-      "weeknight",
+      "breakfast",
+      "english",
       "sausage",
-      "steamed",
-      "fodmap-friendly"
+      "crumble"
     ],
-    "cuisine": "Egyptian",
+    "cuisine": "english",
     "totalTimeMin": 35,
     "shard": "n"
   },
