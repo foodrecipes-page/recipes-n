@@ -1,0 +1,64 @@
+{
+  "slug": "nimble-slovak-sausage-skewers",
+  "title": "Slovak Sausage Skewers",
+  "description": "A simple and flavorful dish that combines the spices of Slovakia with the convenience of skewers.",
+  "cuisine": "Slovak",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovak sausage",
+      "amount": "1 pound",
+      "notes": "You can use any type of sausage you like, but Slovak sausage has a distinct flavor"
+    },
+    {
+      "name": "nimble skewers",
+      "amount": "10-12",
+      "notes": "You can soak the skewers in water for 30 minutes before using to prevent them from burning"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "You can use any color onion you like"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "2 medium",
+      "notes": "You can use any color bell pepper you like"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "You can use any type of zucchini you like"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread the sausage onto the skewers, leaving a little space between each piece.",
+    "Thread the onion, bell pepper, and zucchini onto the skewers, leaving a little space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "skewers",
+    "sausage",
+    "slovak"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-slovak-sausage-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:08:31.231Z"
+}
