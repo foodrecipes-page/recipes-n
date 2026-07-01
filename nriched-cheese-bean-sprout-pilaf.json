@@ -1,0 +1,65 @@
+{
+  "slug": "nriched-cheese-bean-sprout-pilaf",
+  "title": "Cheesy Bean and Sprout Pilaf",
+  "description": "A simple and flavorful vegetarian pilaf dish loaded with cheese, beans, and sprouts. Perfect for a quick weeknight meal.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bean",
+      "amount": "1 cup",
+      "notes": "canned black beans, drained and rinsed"
+    },
+    {
+      "name": "sprout",
+      "amount": "1/2 cup",
+      "notes": "alfalfa sprouts"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded cheddar"
+    },
+    {
+      "name": "enriched",
+      "amount": "2 tablespoons",
+      "notes": "butter or margarine"
+    }
+  ],
+  "instructions": [
+    "Heat butter or margarine in a large skillet over medium-high heat.",
+    "Add pilaf and cook until lightly toasted, about 2-3 minutes.",
+    "Add black beans, alfalfa sprouts, and shredded cheese. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until the cheese is melted and the sprouts are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "quick-meal",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nriched-cheese-bean-sprout-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:26:20.047Z"
+}
