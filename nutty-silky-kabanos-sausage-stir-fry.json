@@ -1,0 +1,91 @@
+{
+  "slug": "nutty-silky-kabanos-sausage-stir-fry",
+  "title": "Sausage and Kabanos Stir Fry",
+  "description": "A quick and easy stir fry recipe featuring sausage and kabanos, perfect for a weeknight dinner.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kabanos",
+      "amount": "1 package (about 8 slices)",
+      "notes": "Polish sausage"
+    },
+    {
+      "name": "Sausage",
+      "amount": "1 pound",
+      "notes": "Sweet or hot, sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Stir",
+      "amount": "2 tablespoons",
+      "notes": "Stir fry sauce"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 3-4 minutes.",
+    "Add the sliced onion and minced garlic and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the sliced bell pepper and cook for an additional 2 minutes.",
+    "Add the kabanos and cook for 1-2 minutes, until crispy.",
+    "Stir in the stir fry sauce and cook for an additional 1-2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!",
+    "Serve with additional stir fry sauce on the side, if desired.",
+    "Note: You can also serve with steamed vegetables or rice for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sausage",
+    "kabanos",
+    "stir-fry",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-silky-kabanos-sausage-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:33:43.766Z"
+}
