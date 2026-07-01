@@ -4731,16 +4731,14 @@
   },
   {
     "slug": "nourishing-charred-venezuelan-bean-casseroles",
-    "title": "Nourishing Charred Venezuelan Bean Casseroles",
+    "title": "Nourishing Venezuelan Casserole",
     "tags": [
-      "comfort-food",
-      "high-protein",
+      "vegan",
       "latin-american",
-      "one-pan",
-      "weeknight"
+      "comfort-food"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "cuisine": "Latin American",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -11984,16 +11982,15 @@
   },
   {
     "slug": "nutty-browned-croatian-pork-hash",
-    "title": "Nutty Browned Croatian Pork Hash",
+    "title": "Croatian Pork Hash with Nutty Browned Crostini",
     "tags": [
-      "croatian",
-      "high-protein",
-      "one-pan",
-      "umami",
-      "weeknight"
+      "breakfast",
+      "pork",
+      "hash",
+      "eastern-european"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 30,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
