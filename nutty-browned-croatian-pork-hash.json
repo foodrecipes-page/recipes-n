@@ -1,0 +1,77 @@
+{
+  "slug": "nutty-browned-croatian-pork-hash",
+  "title": "Croatian Pork Hash with Nutty Browned Crostini",
+  "description": "A hearty and flavorful dish that combines the savory flavors of Croatian pork with the nutty crunch of browned crostini.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Croatian pork shoulder",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Hash browns",
+      "amount": "2 cups",
+      "notes": "shredded potatoes"
+    },
+    {
+      "name": "Browned crostini",
+      "amount": "1 cup",
+      "notes": "toasted bread, crushed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork cubes with salt, black pepper, and garlic.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the pork cubes until browned on all sides, about 5 minutes.",
+    "Transfer the pork to a baking dish and bake for 15-20 minutes, or until cooked through.",
+    "Meanwhile, cook the hash browns in a separate skillet over medium heat until golden brown.",
+    "To assemble the dish, place a scoop of hash browns on a plate, top with a few pieces of the cooked pork, and sprinkle with browned crostini.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pork",
+    "hash",
+    "eastern-european"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 34,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-browned-croatian-pork-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:43:36.412Z"
+}
