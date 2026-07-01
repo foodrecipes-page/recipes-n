@@ -2732,17 +2732,15 @@
   },
   {
     "slug": "nimble-light-australian-cream-mousse",
-    "title": "Nimble Light Australian Cream Mousse",
+    "title": "Australian Mousse Recipe",
     "tags": [
-      "australian-desserts",
-      "citrus-flavored",
-      "cream-based",
-      "easy-to-make",
-      "gluten-free",
-      "light-and-tangy"
+      "australian",
+      "dessert",
+      "chocolate",
+      "light"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 50,
+    "cuisine": "australian",
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
@@ -11429,14 +11427,12 @@
     "title": "Syrian Poppy Seed Encroute",
     "tags": [
       "breakfast",
-      "brunch",
-      "crust",
-      "encroute",
-      "poppy-seeds",
-      "syrian"
+      "syrian",
+      "poppy-seed",
+      "encroute"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -16479,10 +16475,15 @@
   },
   {
     "slug": "nutty-silky-indian-long-beans-curry",
-    "title": "Nutty Silky Indian Long Beans Curry",
-    "tags": [],
-    "cuisine": "Indian",
-    "totalTimeMin": null,
+    "title": "Silky Curry Bean Bowl",
+    "tags": [
+      "indian",
+      "curry",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
