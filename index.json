@@ -280,17 +280,16 @@
   },
   {
     "slug": "naturally-crisp-uruguayan-potato-buns-burger",
-    "title": "Naturally Crisp Uruguayan Potato Buns Burger",
+    "title": "Uruguayan-Style Crisp Burger",
     "tags": [
-      "beef-burgers",
-      "charcoal-grilled",
-      "grilled",
-      "potato-buns",
-      "summer-dinner",
-      "uruguayan-cuisine"
+      "beef",
+      "burgers",
+      "uruguayan",
+      "potato",
+      "crispy"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
