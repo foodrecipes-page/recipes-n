@@ -1,0 +1,78 @@
+{
+  "slug": "nutty-crunchy-moroccan-peanut-tagine",
+  "title": "Moroccan Peanut Tagine",
+  "description": "A traditional Moroccan stew cooked to perfection in a clay pot. This dish is a perfect blend of spices and flavors.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crunchy Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Nutty Apricots",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Moroccan Spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay pot over medium heat.",
+    "Add the Moroccan Spices, Cumin, Coriander, Salt, and Black Pepper. Cook for 1 minute.",
+    "Add the chopped Carrots and cook for 5 minutes.",
+    "Add the diced Apricots and cook for another 5 minutes.",
+    "Add the Peanuts and stir well. Cook for 2 minutes.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve hot garnished with chopped Fresh Herbs, if desired.",
+    "Enjoy your delicious Moroccan Peanut Tagine!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "peanut",
+    "stew",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crunchy-moroccan-peanut-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:51:00.645Z"
+}
