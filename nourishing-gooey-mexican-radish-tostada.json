@@ -1,0 +1,75 @@
+{
+  "slug": "nourishing-gooey-mexican-radish-tostada",
+  "title": "Mexican Radish Tostada",
+  "description": "A flavorful and crunchy tostada topped with radish, gooey cheese, and savory mexican spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Radish",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Tostada",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Gooey Cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Mexican Spice Blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime",
+      "amount": "2 wedges"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "for brushing"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Brush tostada pieces with olive oil and toast for 5-7 minutes, or until crispy.",
+    "3. In a bowl, mix together radish, Mexican spice blend, and salt.",
+    "4. Spread a layer of radish mixture onto each toasted tostada piece.",
+    "5. Top with shredded cheese and bake for an additional 2-3 minutes, or until cheese is melted and gooey.",
+    "6. Garnish with chopped cilantro and a squeeze of lime juice.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-gooey-mexican-radish-tostada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:24:16.210Z"
+}
