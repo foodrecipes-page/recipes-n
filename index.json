@@ -14337,17 +14337,14 @@
   },
   {
     "slug": "nutty-fluffy-pistachio-stir-fry",
-    "title": "Nutty Fluffy Pistachio Stir-fry",
+    "title": "Delicious Pistachio Pancakes",
     "tags": [
-      "nutty",
-      "fluffy",
-      "pistachio",
-      "stir-fry",
-      "weeknight",
-      "low-sodium"
+      "breakfast",
+      "pancakes",
+      "pistachio"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
