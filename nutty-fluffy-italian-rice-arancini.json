@@ -1,0 +1,69 @@
+{
+  "slug": "nutty-fluffy-italian-rice-arancini",
+  "title": "Crunchy Arancini Bites",
+  "description": "A snack-sized version of the Italian street food arancini, these crunchy fried rice balls are filled with a flavorful mixture of fluffy risotto and nutty ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fluffy Risotto",
+      "amount": "1 cup cooked",
+      "notes": "preferably leftover"
+    },
+    {
+      "name": "Nutty Italian Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "preferably freshly toasted"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup cooked",
+      "notes": "preferably leftover"
+    },
+    {
+      "name": "Arancini Seasoning",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine cooked risotto, cooked rice, nutty breadcrumbs, and arancini seasoning (if using). Mix well to combine.",
+    "2. Using your hands, shape the mixture into small balls, about 1 1/2 inches in diameter.",
+    "3. Heat the olive oil in a large skillet over medium-high heat.",
+    "4. Once the oil is hot, carefully place the arancini balls into the skillet and fry until golden brown, about 3-4 minutes on each side.",
+    "5. Remove the arancini from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "6. Serve the arancini hot and enjoy!",
+    "7. Optional: you can also bake the arancini in a preheated oven at 375°F (190°C) for 10-12 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "arancini",
+    "risotto",
+    "breaded"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-fluffy-italian-rice-arancini",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:31:22.147Z"
+}
