@@ -4353,16 +4353,17 @@
   },
   {
     "slug": "nourishing-australian-pilchards-pilaf",
-    "title": "Nourishing Australian Pilchards Pilaf",
+    "title": "Australian Pilchard Pilaf",
     "tags": [
       "australian",
-      "halal-friendly",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "pilchard",
+      "pilaf",
+      "nourishing",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 35,
+    "cuisine": "Australian",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -14297,17 +14298,16 @@
   },
   {
     "slug": "nutty-fluffy-italian-rice-arancini",
-    "title": "Nutty Fluffy Italian Rice Arancini",
+    "title": "Crunchy Arancini Bites",
     "tags": [
-      "dairy-free",
-      "italian-food",
-      "kid-friendly",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "italian",
+      "snack",
+      "arancini",
+      "risotto",
+      "breaded"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
