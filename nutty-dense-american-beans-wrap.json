@@ -1,0 +1,75 @@
+{
+  "slug": "nutty-dense-american-beans-wrap",
+  "title": "Nutty Bean Wrap",
+  "description": "A delicious and healthy wrap filled with nutty goodness and protein-rich beans. Perfect for a quick snack or lunch.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat wrap",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "cooked black beans",
+      "amount": "1/2 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "honey roasted nuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chopped lettuce",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "sliced avocado",
+      "amount": "1/2",
+      "notes": "ripe"
+    },
+    {
+      "name": "shredded reduced fat cheddar",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Warm the wrap in the pan for 30 seconds.",
+    "Spread the black beans over the center of the wrap.",
+    "Top with chopped nuts, lettuce, and sliced avocado.",
+    "If using cheese, sprinkle on top.",
+    "Fold the bottom half of the wrap up over the filling.",
+    "Fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "easy",
+    "wrap",
+    "beans",
+    "nuts"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-dense-american-beans-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:29:35.984Z"
+}
