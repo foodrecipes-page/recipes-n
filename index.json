@@ -2121,16 +2121,15 @@
   },
   {
     "slug": "nicely-browned-slovakian-pork-roast",
-    "title": "Nicely Browned Slovakian Pork Roast",
+    "title": "Slovakian-Style Pork Roast",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
       "pork",
       "roast",
-      "slovakian"
+      "slovakian",
+      "meat"
     ],
     "cuisine": "slovakian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 60,
     "shard": "n"
   },
   {
@@ -3864,16 +3863,15 @@
   },
   {
     "slug": "nostalgic-portuguese-ricotta-roast",
-    "title": "Nostalgic Portuguese Ricotta Roast",
+    "title": "Bacalhau à Brás: Portuguese-Style Shredded Cod Fritters",
     "tags": [
-      "comfort-food",
-      "easy-dinner",
-      "low-carb",
-      "one-pan",
-      "vegetarian-friendly"
+      "portuguese",
+      "breakfast",
+      "seafood",
+      "fried"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 30,
+    "cuisine": "portuguese",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
