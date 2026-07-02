@@ -1,0 +1,78 @@
+{
+  "slug": "numbing-brazilian-paneer-curry",
+  "title": "Brazilian Paneer Curry",
+  "description": "A flavorful and spicy Brazilian-inspired curry made with paneer, perfect for a quick dinner. Serve with rice or naan for a satisfying meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g"
+    },
+    {
+      "name": "numbing sambal",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large pan over medium heat.",
+    "Add the onion, garlic, and ginger, and cook until the onion is translucent.",
+    "Add the curry powder and cook for 1 minute, until fragrant.",
+    "Add the paneer and cook until it starts to brown, about 5 minutes.",
+    "Add the sambal, broth, and coconut milk, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook for 10-15 minutes, until the sauce has thickened.",
+    "Season with salt to taste, then serve hot over rice or with naan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "curry",
+    "paneer",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/numbing-brazilian-paneer-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:29:43.775Z"
+}
