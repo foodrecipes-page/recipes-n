@@ -1,0 +1,84 @@
+{
+  "slug": "nourishing-silky-thai-chicken-curry",
+  "title": "Thai Chicken Curry",
+  "description": "A creamy and aromatic Thai-inspired curry made with chicken and a blend of spices. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Thai curry paste",
+      "amount": "2 tablespoons",
+      "notes": "red or green"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "14 ounces"
+    },
+    {
+      "name": "nourishing broth",
+      "amount": "2 cups",
+      "notes": "chicken or vegetable"
+    },
+    {
+      "name": "silky soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or tamari"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the curry paste to the skillet and cook for 1-2 minutes, until fragrant.",
+    "Pour in the coconut milk, broth, and soy sauce, and stir to combine.",
+    "Return the chicken to the skillet and bring the mixture to a simmer.",
+    "Reduce the heat to medium-low and cook, covered, for 10-12 minutes, or until the chicken is cooked through.",
+    "Stir in the fish sauce and brown sugar, if using.",
+    "Season the curry with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-curry",
+    "chicken-curry",
+    "creamy-curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-silky-thai-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T09:36:28.205Z"
+}
