@@ -1,0 +1,87 @@
+{
+  "slug": "nutty-tender-ethiopian-peanut-stir-fry",
+  "title": "Ethiopian Peanut Stir Fry",
+  "description": "A flavorful and spicy stir fry dish from Ethiopia, made with peanuts and a blend of spices.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tender chicken",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "nutty brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the remaining 1 tablespoon of oil to the pan.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the peanuts, brown sugar, garam masala, curry powder, salt, and pepper to the pan.",
+    "Stir to combine and cook for 1-2 minutes.",
+    "Add the cooked chicken back to the pan and stir to combine.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nutty",
+    "tender",
+    "ethiopian",
+    "peanut",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-tender-ethiopian-peanut-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T04:55:27.644Z"
+}
