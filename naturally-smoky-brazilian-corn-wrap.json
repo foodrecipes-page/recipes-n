@@ -1,0 +1,91 @@
+{
+  "slug": "naturally-smoky-brazilian-corn-wrap",
+  "title": "Brazilian Smoky Wrap",
+  "description": "A delicious Brazilian-inspired wrap filled with smoky chicken and naturally sweet corn.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Smoky Sausage",
+      "amount": "1/2 pound",
+      "notes": "Cut into thin slices"
+    },
+    {
+      "name": "Corn Kernels",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Large flour tortilla"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sliced Red Onion",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the wrap"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill chicken and sausage for 5-7 minutes per side, or until cooked through.",
+    "Slice the grilled chicken and sausage into thin strips.",
+    "Grill corn kernels for 2-3 minutes per side, or until slightly charred.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading sour cream on the bottom half, followed by slices of chicken, sausage, corn, cilantro, and red onion.",
+    "Brush the top half of the wrap with olive oil and fold the wrap in half.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "brazilian",
+    "wrap",
+    "chicken",
+    "sausage",
+    "corn"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-smoky-brazilian-corn-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:57:01.003Z"
+}
