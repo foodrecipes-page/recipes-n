@@ -4753,17 +4753,16 @@
   },
   {
     "slug": "nourishing-cheesy-australian-fish-bake",
-    "title": "Nourishing Cheesy Australian Fish Bake",
+    "title": "Australian Fish Bake",
     "tags": [
-      "australian-cuisine",
-      "baked",
+      "australian",
       "cheesy",
-      "fish-recipe",
-      "flexitarian",
-      "one-pot"
+      "fish",
+      "bake",
+      "nourishing"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 29,
+    "cuisine": "australian",
+    "totalTimeMin": 27,
     "shard": "n"
   },
   {
@@ -10363,14 +10362,12 @@
     "slug": "nutritious-dense-korean-pork-dumplings",
     "title": "Korean Pork Dumplings",
     "tags": [
-      "asian-cuisine",
-      "dumplings",
-      "korean-food",
-      "plant-based",
-      "snack-food"
+      "korean",
+      "pork",
+      "dumplings"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -13430,16 +13427,15 @@
   },
   {
     "slug": "nutty-crunchy-moroccan-peanut-tagine",
-    "title": "Nutty, Crunchy Moroccan Peanut Tagine",
+    "title": "Moroccan Peanut Tagine",
     "tags": [
       "moroccan",
-      "nutty",
-      "crunchy",
-      "plum-tomato",
-      "low-carb"
+      "peanut",
+      "stew",
+      "tagine"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
