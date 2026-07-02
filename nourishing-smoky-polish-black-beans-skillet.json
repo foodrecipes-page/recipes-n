@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-smoky-polish-black-beans-skillet",
+  "title": "Smoky Polish Black Bean Skillet",
+  "description": "A hearty and flavorful skillet dish filled with smoky polish sausage, black beans, and a blend of spices.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Black beans, canned",
+      "amount": "1 (15 ounce) can, drained and rinsed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Skillet seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the sliced polish sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the garlic powder, chili powder, smoked paprika, salt, and black pepper. Stir to combine.",
+    "Add the canned black beans and stir to combine.",
+    "Reduce heat to medium-low and simmer for 10 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "black-beans",
+    "polish-sausage",
+    "skillet-dinner",
+    "easy-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-polish-black-beans-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:29:34.382Z"
+}
