@@ -7713,17 +7713,14 @@
   },
   {
     "slug": "nourishing-silky-moroccan-gouda-tagine",
-    "title": "Nourishing Silky Moroccan Gouda Tagine",
+    "title": "Moroccan Gouda Tagine",
     "tags": [
-      "high-protein",
       "moroccan",
-      "one-pan",
-      "silky",
-      "spicy",
-      "tagine"
+      "cheesy",
+      "comfort-food"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -17094,16 +17091,15 @@
   },
   {
     "slug": "nutty-sweet-kenyan-beef-stew",
-    "title": "Nutty Sweet Kenyan Beef Stew",
+    "title": "Kenyan Beef Stew",
     "tags": [
-      "comfort-food",
-      "kenyan-cuisine",
-      "keto-friendly",
-      "low-carb",
-      "one-pot"
+      "beef",
+      "stew",
+      "kenyan",
+      "easy"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 180,
+    "totalTimeMin": 110,
     "shard": "n"
   },
   {
