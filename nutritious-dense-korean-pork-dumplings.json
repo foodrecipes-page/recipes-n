@@ -1,0 +1,103 @@
+{
+  "slug": "nutritious-dense-korean-pork-dumplings",
+  "title": "Korean Pork Dumplings",
+  "description": "A delicious and savory dish filled with the flavors of Korea, featuring pork dumplings served with a side of spicy sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "1 pound",
+      "notes": "Ground pork"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "20-24 wrappers",
+      "notes": "Available at most Asian grocery stores"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small onion",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Spicy sauce (gochujang)",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a large pan over medium-high heat, cook the pork until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion, garlic, and ginger to the pan and cook until the onion is translucent.",
+    "Add the soy sauce, sesame oil, salt, and black pepper to the pan and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the mixture is fragrant.",
+    "Wrap the dumpling wrappers around small balls of the pork mixture, making sure to seal the edges.",
+    "In a large pot of boiling water, cook the dumplings for 5-7 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve with a side of spicy sauce (if using).",
+    "Garnish with green onions and chopped scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-dense-korean-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:47:49.154Z"
+}
