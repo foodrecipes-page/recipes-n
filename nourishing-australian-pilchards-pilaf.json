@@ -1,0 +1,88 @@
+{
+  "slug": "nourishing-australian-pilchards-pilaf",
+  "title": "Australian Pilchard Pilaf",
+  "description": "A hearty and nutritious Australian-inspired pilaf dish packed with pilchards and nourishing ingredients.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Pilchards",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Pilaf seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Nourishing seeds",
+      "amount": "1 tablespoon",
+      "notes": "such as sesame or sunflower seeds"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the grated carrot and cook for an additional 2-3 minutes.",
+    "Add the pilchards, pilaf seasoning, and nourishing seeds. Stir to combine.",
+    "Add the uncooked rice and stir to coat the rice with the oil and seasoning mixture.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "pilchard",
+    "pilaf",
+    "nourishing",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-australian-pilchards-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:31:29.999Z"
+}
