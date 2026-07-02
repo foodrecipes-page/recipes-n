@@ -1,0 +1,68 @@
+{
+  "slug": "nourishing-silky-moroccan-gouda-tagine",
+  "title": "Moroccan Gouda Tagine",
+  "description": "A creamy, comforting dish inspired by traditional Moroccan cuisine, featuring a rich and flavorful tagine sauce with gouda cheese.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Silky tagine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Nourishing vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the Moroccan spice blend and cook for 1 minute.",
+    "Add the silky tagine and cook for an additional 1-2 minutes.",
+    "Pour in the nourishing vegetable broth and bring to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 10-15 minutes.",
+    "Stir in the shredded gouda cheese until melted and creamy.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley.",
+    "Serve with crusty bread or over rice for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "cheesy",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-silky-moroccan-gouda-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:53:42.026Z"
+}
