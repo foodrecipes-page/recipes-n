@@ -13112,18 +13112,15 @@
   },
   {
     "slug": "nutty-croatian-chilli-sushi",
-    "title": "Nutty Croatian Chilli Sushi",
+    "title": "Croatian Chilli and Sushi Wrap",
     "tags": [
+      "spicy",
       "croatian",
-      "keto",
-      "chilli",
       "sushi",
-      "nutty",
-      "romantic",
-      "steam"
+      "wrap"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": null,
+    "cuisine": "Croatian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -15500,18 +15497,15 @@
   },
   {
     "slug": "nutty-middle-eastern-chicken-upside-down-pot",
-    "title": "Nutty Middle-Eastern Chicken Upside-Down Pot",
+    "title": "Eastern-Style Chicken Shawarma",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "middle eastern",
+      "grilled",
+      "shawarma"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 55,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -17766,14 +17760,15 @@
   },
   {
     "slug": "nutty-velvety-moroccan-cranberry-stir-fry",
-    "title": "Nutty Velvety Moroccan Cranberry Stir-fry",
+    "title": "Cranberry Moroccan Chicken",
     "tags": [
-      "moroccan-stir-fry",
-      "nutty-velvety-dish",
-      "cranberry-morocco"
+      "chicken",
+      "couscous",
+      "cranberries",
+      "moroccan"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
