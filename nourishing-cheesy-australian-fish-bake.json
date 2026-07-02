@@ -1,0 +1,81 @@
+{
+  "slug": "nourishing-cheesy-australian-fish-bake",
+  "title": "Australian Fish Bake",
+  "description": "A simple and delicious fish bake recipe, inspired by Australian flavors, featuring a nourishing and cheesy twist.",
+  "cuisine": "australian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets (4-6)",
+      "amount": "6 ounces",
+      "notes": "Fresh fish, skin removed"
+    },
+    {
+      "name": "Lemon wedges (4-6)",
+      "amount": "2",
+      "notes": "Fresh lemons"
+    },
+    {
+      "name": "Australian bush tomato sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Cheddar cheese (1 cup shredded)",
+      "amount": "120g",
+      "notes": "Shredded or grated"
+    },
+    {
+      "name": "Fresh parsley (chopped)",
+      "amount": "1/4 cup",
+      "notes": "Fresh parsley leaves"
+    },
+    {
+      "name": "Garlic (minced)",
+      "amount": "2 cloves",
+      "notes": "Minced garlic"
+    },
+    {
+      "name": "Olive oil (for brushing)",
+      "amount": "2 tbsp",
+      "notes": "For brushing fish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Rinse the cod fillets and pat them dry with paper towels.",
+    "Brush the cod fillets with olive oil and season with salt and pepper.",
+    "Place the cod fillets on the prepared baking sheet.",
+    "Mix the Australian bush tomato sauce, shredded cheese, chopped parsley, and minced garlic in a bowl.",
+    "Spoon the sauce mixture evenly over the cod fillets.",
+    "Place a lemon wedge on top of each cod fillet.",
+    "Bake in the preheated oven for 12-15 minutes or until the fish is cooked through and the cheese is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "cheesy",
+    "fish",
+    "bake",
+    "nourishing"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-cheesy-australian-fish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:02:27.024Z"
+}
