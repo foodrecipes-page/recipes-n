@@ -5992,18 +5992,15 @@
   },
   {
     "slug": "nourishing-gooey-mexican-radish-tostada",
-    "title": "Nourishing Gooey Mexican Radish Tostada",
+    "title": "Mexican Radish Tostada",
     "tags": [
-      "deep-fry",
       "mexican",
-      "radish",
       "snack",
-      "tofu",
-      "tostada",
-      "vegan"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
