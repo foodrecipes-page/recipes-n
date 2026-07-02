@@ -701,16 +701,17 @@
   },
   {
     "slug": "naturally-smoky-brazilian-corn-wrap",
-    "title": "Naturally Smoky Brazilian Corn Wrap",
+    "title": "Brazilian Smoky Wrap",
     "tags": [
-      "brazilian-food",
-      "corn-recipes",
-      "gluten-free",
-      "smoky-flavors",
-      "vegetarian-options"
+      "smoky",
+      "brazilian",
+      "wrap",
+      "chicken",
+      "sausage",
+      "corn"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -8210,16 +8211,14 @@
   },
   {
     "slug": "nourishing-smoky-polish-black-beans-skillet",
-    "title": "Nourishing Smoky Polish Black Beans Skillet",
+    "title": "Smoky Polish Black Bean Skillet",
     "tags": [
       "black-beans",
-      "one-pot",
-      "polish",
-      "smoky",
-      "vegan",
-      "vegetarian"
+      "polish-sausage",
+      "skillet-dinner",
+      "easy-meals"
     ],
-    "cuisine": "Polish",
+    "cuisine": "american",
     "totalTimeMin": 35,
     "shard": "n"
   },
@@ -9351,17 +9350,15 @@
   },
   {
     "slug": "numbing-brazilian-paneer-curry",
-    "title": "Numbing Brazilian Paneer Curry",
+    "title": "Brazilian Paneer Curry",
     "tags": [
       "brazilian",
-      "cheese-pull",
-      "one-pot",
-      "sattvic",
-      "spicy",
-      "weeknight"
+      "curry",
+      "paneer",
+      "dinner"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -13227,15 +13224,15 @@
   },
   {
     "slug": "nutty-crumbly-moroccan-shrimp-crumble",
-    "title": "Nutty Crumbly Moroccan Shrimp Cumble",
+    "title": "Moroccan Shrimp Cakes",
     "tags": [
       "moroccan",
-      "nutty",
-      "crumbly",
-      "adventurous"
+      "shrimp",
+      "appetizer",
+      "gluten-free"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 27,
     "shard": "n"
   },
   {
@@ -17181,17 +17178,16 @@
   },
   {
     "slug": "nutty-tender-ethiopian-peanut-stir-fry",
-    "title": "Nutty Tender Ethiopian Peanut Stir-fry",
+    "title": "Ethiopian Peanut Stir Fry",
     "tags": [
       "nutty",
       "tender",
       "ethiopian",
-      "mint",
-      "stir-fry",
-      "pescatarian"
+      "peanut",
+      "stir-fry"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
