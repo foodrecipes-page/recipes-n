@@ -7768,14 +7768,11 @@
   },
   {
     "slug": "nourishing-silky-thai-chicken-curry",
-    "title": "Nourishing Silky Thai Chicken Curry",
+    "title": "Thai Chicken Curry",
     "tags": [
-      "gluten-free",
-      "low-carb",
-      "no-onion-no-garlic",
-      "post-workout",
-      "silky-curry",
-      "thai-curry"
+      "thai-curry",
+      "chicken-curry",
+      "creamy-curry"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
@@ -10354,17 +10351,14 @@
   },
   {
     "slug": "nutritious-dense-greek-lamb-stew",
-    "title": "Nutritious Dense Greek Lamb Stew",
+    "title": "Greek Lamb Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "meal-prep",
-      "one-pan",
-      "weeknight"
+      "greek",
+      "lamb",
+      "stew"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "n"
   },
   {
@@ -13570,17 +13564,16 @@
   },
   {
     "slug": "nutty-dense-american-beans-wrap",
-    "title": "nutty dense american bean sprouts wrap",
+    "title": "Nutty Bean Wrap",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "robata-grill",
-      "vegetarian",
-      "weeknight"
+      "healthy",
+      "easy",
+      "wrap",
+      "beans",
+      "nuts"
     ],
     "cuisine": "american",
-    "totalTimeMin": 27,
+    "totalTimeMin": 10,
     "shard": "n"
   },
   {
