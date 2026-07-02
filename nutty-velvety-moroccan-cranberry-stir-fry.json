@@ -1,0 +1,91 @@
+{
+  "slug": "nutty-velvety-moroccan-cranberry-stir-fry",
+  "title": "Cranberry Moroccan Chicken",
+  "description": "A flavorful and aromatic chicken dish infused with Moroccan spices and sweet cranberries.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "nutty couscous",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the chicken breast and pat dry with paper towels.",
+    "Season the chicken with salt and pepper.",
+    "Heat olive oil in a skillet over medium-high heat. Sear the chicken breast until browned on both sides, about 5 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes or until cooked through.",
+    "While the chicken is cooking, prepare the couscous according to package instructions.",
+    "In a small bowl, mix together the Moroccan spice blend and stir-fry sauce.",
+    "Once the chicken is done, let it rest for a few minutes before slicing.",
+    "To serve, place a slice of chicken on top of the couscous, followed by a spoonful of cranberries and a sprinkle of parsley.",
+    "Drizzle the Moroccan spice blend mixture over the top and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "couscous",
+    "cranberries",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-velvety-moroccan-cranberry-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:44:40.826Z"
+}
