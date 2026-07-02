@@ -1,0 +1,94 @@
+{
+  "slug": "nostalgic-portuguese-ricotta-roast",
+  "title": "Bacalhau à Brás: Portuguese-Style Shredded Cod Fritters",
+  "description": "A rich and savory Portuguese classic, this recipe features crispy fried cod fritters, creamy ricotta, and nostalgic flavors.",
+  "cuisine": "portuguese",
+  "diet": [
+    "dairy",
+    "fish"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cod",
+      "amount": "1 pound, shredded (bacalhau)",
+      "notes": "preferably dried and rehydrated"
+    },
+    {
+      "name": "Ricotta",
+      "amount": "1 cup, whole-milk",
+      "notes": "for serving"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large, peeled and diced",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat 2 tablespoons of oil over medium heat.",
+    "Add the sliced onions and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced potatoes and cook for 10 minutes, stirring occasionally.",
+    "Add the shredded cod and stir to combine.",
+    "Transfer the mixture to a bowl and let cool to room temperature.",
+    "In a separate bowl, whisk together the eggs and flour.",
+    "Add the egg mixture to the cooled cod mixture and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Using your hands, shape the mixture into 8-10 patties.",
+    "Heat 1/2 inch of oil in a large skillet over medium-high heat.",
+    "Fry the patties until golden brown and crispy, about 3-4 minutes per side.",
+    "Drain on paper towels and serve warm with ricotta cheese on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "breakfast",
+    "seafood",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-portuguese-ricotta-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:29:14.528Z"
+}
