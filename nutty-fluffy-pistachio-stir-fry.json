@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-fluffy-pistachio-stir-fry",
+  "title": "Delicious Pistachio Pancakes",
+  "description": "A tasty breakfast treat made with pistachio and nutty flavors.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fluffy oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pistachio milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "nutty sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "stir flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fry eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together oats, sugar, and eggs.",
+    "2. Add milk and stir until well combined.",
+    "3. Add flour and stir until smooth.",
+    "4. Heat a non-stick pan over medium heat.",
+    "5. Drop batter by 1/4 cupfuls onto the pan.",
+    "6. Cook for 2-3 minutes, until bubbles appear on the surface.",
+    "7. Flip and cook for another 1-2 minutes.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "pistachio"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-fluffy-pistachio-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:18:24.648Z"
+}
