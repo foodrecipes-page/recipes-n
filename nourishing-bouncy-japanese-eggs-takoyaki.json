@@ -1,0 +1,65 @@
+{
+  "slug": "nourishing-bouncy-japanese-eggs-takoyaki",
+  "title": "Takoyaki Bites",
+  "description": "A Japanese-inspired breakfast dish featuring crispy takoyaki balls filled with eggs and served with a side of savory sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "breakfast",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Nourishing Flour",
+      "amount": "1 1/2 cups",
+      "notes": "Use a gluten-free flour if necessary"
+    },
+    {
+      "name": "Bouncy Water",
+      "amount": "1/2 cup",
+      "notes": "Use water at room temperature"
+    },
+    {
+      "name": "Japanese Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the flour and water to form a smooth batter.",
+    "2. Add the Japanese sauce to the batter and mix until well combined.",
+    "3. Crack in the eggs and mix until the batter is smooth.",
+    "4. Heat a non-stick pan or takoyaki grill over medium heat.",
+    "5. Drop the batter into the pan, filling each cavity about 2/3 full.",
+    "6. Cook the takoyaki for 2-3 minutes, until the bottoms are golden brown.",
+    "7. Flip the takoyaki over and cook for an additional 2 minutes.",
+    "8. Serve the takoyaki hot with additional Japanese sauce for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "eggs",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-bouncy-japanese-eggs-takoyaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:30:58.220Z"
+}
