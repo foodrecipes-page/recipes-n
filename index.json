@@ -96,15 +96,15 @@
   },
   {
     "slug": "nasty-shattering-festive-sweet-red-pepper-pasta",
-    "title": "Nasty Shattering Festive Sweet Red Pepper Pasta",
+    "title": "Spicy Pasta with Sweet Pepper Sauce",
     "tags": [
-      "dash-friendly",
-      "festive",
-      "savory",
-      "sweet"
+      "italian",
+      "pasta",
+      "vegetarian",
+      "quick-dinner"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -15828,16 +15828,16 @@
   },
   {
     "slug": "nutty-peruvian-rice-vermicelli-rocoto-relleno",
-    "title": "Nutty Peruvian Rice Vermicelli Rocoto Relleno",
+    "title": "Rocoto Relleno with Peruvian Flair",
     "tags": [
-      "diabetic-friendly",
-      "grilled-vegetables",
-      "peruvian-cuisine",
-      "rice-bowls",
-      "south-american-food"
+      "peruvian",
+      "vegetarian",
+      "rice",
+      "cheese",
+      "beans"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
