@@ -1,0 +1,90 @@
+{
+  "slug": "nimble-roasted-french-prawns-rillettes",
+  "title": "Rillettes-Top Prawns with French Toast",
+  "description": "A breakfast twist that combines succulent prawns with rich rillettes, all on top of crispy French toast.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Large Prawns",
+      "amount": "4",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Rillettes",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Bread, French",
+      "amount": "2 slices",
+      "notes": "day-old, cubed"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "whole"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Nimble Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Ground White Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, whisk together eggs, milk, and a pinch of salt and pepper.",
+    "Heat a non-stick skillet over medium heat.",
+    "Dip each bread cube into the egg mixture, coating completely.",
+    "Place the coated bread cubes in the skillet and cook until golden brown, about 2-3 minutes per side.",
+    "In a separate skillet, melt butter over medium heat.",
+    "Add prawns and cook until pink and just cooked through, about 2-3 minutes per side.",
+    "Meanwhile, toast the French bread slices.",
+    "To assemble, place toasted bread slices on a serving plate, top with cooked prawns, and spoon rillettes over the top.",
+    "Drizzle with maple syrup, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "prawns",
+    "rillettes",
+    "french-toast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-roasted-french-prawns-rillettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:24:58.517Z"
+}
