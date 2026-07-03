@@ -1,0 +1,69 @@
+{
+  "slug": "nutty-crispy-french-chicken-hash",
+  "title": "Crispy Chicken Hash",
+  "description": "A crispy chicken hash dish that combines chicken and potatoes for a delicious meal. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "hash browns",
+      "amount": "1 cup",
+      "notes": "frozen"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a bowl, mix together chicken, nutmeg, and garlic salt.",
+    "In a separate pan, cook hash browns according to package instructions.",
+    "In a separate pan, heat 1 tablespoon of oil over medium heat.",
+    "Add chicken to the pan and cook until browned, about 5-6 minutes.",
+    "Transfer chicken to a baking sheet and bake for 8-10 minutes.",
+    "Add cooked hash browns to the baking sheet with the chicken and toss to combine.",
+    "Top with crispy fried onions and serve hot.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "hash",
+    "breakfast-for-dinner",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-french-chicken-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:46:40.909Z"
+}
