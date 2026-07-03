@@ -1,0 +1,70 @@
+{
+  "slug": "nutty-cheesy-moroccan-turnip-briouat",
+  "title": "Moroccan-Style Turnip Tart",
+  "description": "A savory tart filled with roasted turnips and a blend of spices, perfect for a cozy dinner. Serve warm, garnished with fresh herbs.",
+  "cuisine": "moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turnip",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "briouat",
+      "amount": "1 package, thawed",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cheesy",
+      "amount": "1 cup, shredded",
+      "notes": "vegetarian or dairy-based"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Peel and thinly slice the turnips. Place on a baking sheet lined with parchment paper.",
+    "3. Drizzle with olive oil and sprinkle with salt and pepper. Toss to coat.",
+    "4. Roast in the oven for 20-25 minutes, or until tender and lightly browned.",
+    "5. In a large skillet, heat a couple of tablespoons of oil over medium heat.",
+    "6. Add the chopped nuts and cook, stirring constantly, until lightly toasted.",
+    "7. In a separate bowl, mix together the thawed briouat and shredded cheese.",
+    "8. Roll out a sheet of puff pastry to a thickness of about 1/8 inch.",
+    "9. Transfer the pastry to a tart pan with a removable bottom.",
+    "10. Arrange the roasted turnips over the pastry, leaving a 1-inch border around the edges.",
+    "11. Sprinkle the nut mixture and briouat-cheese mixture over the turnips.",
+    "12. Fold the edges of the pastry up over the filling to form a crust.",
+    "13. Brush the edges with a little water and sprinkle with sugar.",
+    "14. Bake for an additional 15-20 minutes, or until the pastry is golden brown and the filling is heated through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "tart",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-cheesy-moroccan-turnip-briouat",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:27:27.684Z"
+}
