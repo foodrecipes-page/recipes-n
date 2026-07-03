@@ -1,0 +1,83 @@
+{
+  "slug": "nutritious-no-fuss-mediterranean-oyster-mushrooms-pilaf",
+  "title": "Mediterranean Pilaf with Mushrooms",
+  "description": "A flavorful and nutritious Mediterranean pilaf dish made with sautéed mushrooms, pilaf, and a blend of herbs and spices.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté for 3-4 minutes until softened.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the uncooked pilaf and stir to combine with the mushroom mixture.",
+    "Add the dried oregano, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20-25 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "pilaf",
+    "mushrooms"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-no-fuss-mediterranean-oyster-mushrooms-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:05:07.496Z"
+}
