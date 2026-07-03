@@ -1,0 +1,120 @@
+{
+  "slug": "nourishing-australian-lamb-tagine",
+  "title": "Australian Lamb Tagine",
+  "description": "A hearty and flavorful tagine dish featuring tender lamb, rich spices, and a medley of vegetables, inspired by Australian cuisine.",
+  "cuisine": "australian",
+  "diet": [
+    "nourishing"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "Bone-in for better flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For browning the lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "For some heat"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb on all sides, then set aside.",
+    "Add more oil if necessary, then sauté the onion and garlic until softened.",
+    "Add the ginger, cumin, coriander, cinnamon, turmeric, and red pepper flakes. Cook for 1 minute, stirring constantly.",
+    "Add the chickpeas, apricots, and chicken broth. Stir to combine.",
+    "Return the lamb to the pot, cover, and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2-1/2 hours, or until the lamb is tender and falls apart easily.",
+    "Season with salt to taste.",
+    "Garnish with parsley and serve hot over couscous or rice.",
+    "Let the dish rest for 10-15 minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lamb",
+    "tagine",
+    "nourishing"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-australian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:36:47.954Z"
+}
