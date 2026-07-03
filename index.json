@@ -6215,15 +6215,12 @@
     "slug": "nourishing-jamaican-callaloo-salad",
     "title": "Nourishing Jamaican Callaloo Salad",
     "tags": [
-      "fermented-foods",
-      "fondue-pot",
-      "gluten-free",
-      "hangover-cure",
-      "jamaican-cuisine",
-      "low-glycemic"
+      "healthy",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 10,
     "shard": "n"
   },
   {
@@ -7958,16 +7955,15 @@
   },
   {
     "slug": "nourishing-smoky-australian-chicken-skewers",
-    "title": "Nourishing Smoky Australian Chicken Skewers",
+    "title": "Australian Chicken Skewers",
     "tags": [
-      "australian-cuisine",
-      "grilled-chicken",
-      "lazy-sunday",
-      "low-fat",
-      "smoky-flavors"
+      "australian",
+      "barbecue",
+      "chicken",
+      "grilled"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 32,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -12800,17 +12796,15 @@
   },
   {
     "slug": "nutty-crispy-french-chicken-hash",
-    "title": "Nutty Crispy French Chicken Hash",
+    "title": "Crispy Chicken Hash",
     "tags": [
-      "breakfast-recipe",
-      "chicken-recipe",
-      "french-cuisine",
-      "gluten-free",
-      "low-calorie",
-      "nutty-flavor"
+      "chicken",
+      "hash",
+      "breakfast-for-dinner",
+      "easy-dinner"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 28,
     "shard": "n"
   },
   {
