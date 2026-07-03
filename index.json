@@ -5083,13 +5083,15 @@
   },
   {
     "slug": "nourishing-crispy-irish-snap-peas-grill",
-    "title": "Nourishing Crispy Irish Snap Peas Grill",
+    "title": "Irish Snap Pea Salad",
     "tags": [
-      "irish",
-      "breakfast"
+      "vegan",
+      "vegetarian",
+      "salad",
+      "spring"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "cuisine": "irish",
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
@@ -11053,17 +11055,15 @@
   },
   {
     "slug": "nutritious-no-fuss-mediterranean-oyster-mushrooms-pilaf",
-    "title": "Mediterranean Oyster Mushroom Pilaf",
+    "title": "Mediterranean Pilaf with Mushrooms",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "one-pan",
-      "pescatarian",
+      "mediterranean",
       "vegetarian",
-      "weeknight"
+      "pilaf",
+      "mushrooms"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
