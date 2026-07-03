@@ -12085,17 +12085,15 @@
   },
   {
     "slug": "nutty-cheesy-moroccan-turnip-briouat",
-    "title": "Nutty Cheesy Moroccan Turnip Briouat",
+    "title": "Moroccan-Style Turnip Tart",
     "tags": [
-      "cheesy",
-      "mini-cocotte",
       "moroccan",
-      "nutty",
-      "quick",
-      "turnip"
+      "tart",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "cuisine": "moroccan",
+    "totalTimeMin": 65,
     "shard": "n"
   },
   {
@@ -14312,17 +14310,15 @@
   },
   {
     "slug": "nutty-fluffy-squash-stir-fry",
-    "title": "Nutty Fluffy Squash Stir-fry",
+    "title": "Nutty Squash Fritters",
     "tags": [
-      "nutty",
-      "fluffy",
       "squash",
-      "moroccan",
-      "date-night",
-      "ferment"
+      "fritters",
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 27,
     "shard": "n"
   },
   {
