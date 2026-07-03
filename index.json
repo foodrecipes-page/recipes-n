@@ -12499,15 +12499,15 @@
   },
   {
     "slug": "nutty-creamy-quick-fix-korean-pork-stir-fry",
-    "title": "Nutty Creamy Quick Fix Korean Pork Stir-fry",
+    "title": "Korean-Style Pork Stir Fry",
     "tags": [
-      "nutty-creamy",
-      "quick-fix",
-      "korean-pork-stir-fry",
-      "vegetarian-friendly"
+      "korean",
+      "pork",
+      "stir-fry",
+      "dinner"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 18,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -17233,18 +17233,16 @@
   },
   {
     "slug": "nutty-tender-slovakian-dates-fold",
-    "title": "Tender Slovakian Dates Fold with Walnut Crust",
+    "title": "Slovakian Date Cake",
     "tags": [
-      "post-workout",
+      "cake",
       "slovakian",
-      "vegan",
-      "dessert",
-      "walnut",
-      "date",
-      "fold"
+      "dates",
+      "snack",
+      "dessert"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "cuisine": "slovakian",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
