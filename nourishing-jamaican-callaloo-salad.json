@@ -1,0 +1,68 @@
+{
+  "slug": "nourishing-jamaican-callaloo-salad",
+  "title": "Nourishing Jamaican Callaloo Salad",
+  "description": "A flavorful and nutritious salad made with callaloo, a staple leafy green in Jamaican cuisine. This recipe combines the earthy taste of callaloo with the crunch of jamaican salad and the nutty flavor of nourishing ingredients.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Callaloo",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Jamaican Salad",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Nourishing Greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine callaloo, jamaican salad, and nourishing greens.",
+    "Slice the avocado and add it to the bowl.",
+    "Squeeze the lime juice over the salad and toss to combine.",
+    "Drizzle the olive oil over the salad and season with salt to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-jamaican-callaloo-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:40:39.159Z"
+}
