@@ -1,0 +1,90 @@
+{
+  "slug": "nourishing-double-fried-slovakian-cheese-dumplings",
+  "title": "Slovakian Fried Dumplings",
+  "description": "A hearty Slovakian dish featuring fried dumplings smothered in a rich, cheesy sauce.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian Dumplings (Maultaschen)",
+      "amount": "1 package (12-15 dumplings)",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, grated (such as cheddar or mozzarella)",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add chopped onion and cook until softened, about 3-4 minutes.",
+    "Add fried dumplings to the skillet and cook until browned on both sides, about 5 minutes.",
+    "In a separate saucepan, melt 1 tablespoon of butter over medium heat.",
+    "Add grated cheese and stir until melted and smooth.",
+    "Add milk, flour, salt, and black pepper to the cheese sauce, stirring constantly.",
+    "Bring the cheese sauce to a simmer and cook until thickened, about 2-3 minutes.",
+    "Pour the cheese sauce over the fried dumplings and toss to coat.",
+    "Sprinkle bread crumbs on top and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "cheese",
+    "dumplings",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-double-fried-slovakian-cheese-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:48:03.165Z"
+}
