@@ -2798,17 +2798,15 @@
   },
   {
     "slug": "nimble-roasted-french-prawns-rillettes",
-    "title": "Nimble Roasted French Prawns Rillettes",
+    "title": "Rillettes-Top Prawns with French Toast",
     "tags": [
-      "french-cuisine",
-      "gluten-free",
-      "lazy-sunday",
-      "one-pan",
-      "seafood",
-      "vegan-friendly"
+      "breakfast",
+      "prawns",
+      "rillettes",
+      "french-toast"
     ],
     "cuisine": "French",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "n"
   },
   {
@@ -6407,17 +6405,15 @@
   },
   {
     "slug": "nourishing-juicy-dutch-pork-stew",
-    "title": "Nourishing Juicy Dutch Pork Stew",
+    "title": "Dutch Pork Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "one-pan",
-      "pork-recipes",
-      "slow-cooked",
-      "weeknight"
+      "dutch",
+      "pork",
+      "stew",
+      "comfort food"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 200,
+    "cuisine": "dutch",
+    "totalTimeMin": 170,
     "shard": "n"
   },
   {
