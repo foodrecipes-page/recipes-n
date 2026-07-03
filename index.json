@@ -1268,14 +1268,15 @@
   },
   {
     "slug": "ncrunchy-nceviche-nshrimp-ntagine",
-    "title": "Ncrunchy Nceviche Nshrimp Ntagine",
+    "title": "Shrimp and Vegetable Tagine",
     "tags": [
-      "crunchy",
-      "floral",
-      "indulgent"
+      "north-african",
+      "seafood",
+      "shrimp",
+      "tagine"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 25,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -9777,18 +9778,15 @@
   },
   {
     "slug": "nutmeg-naga-indian-chicken-liver-pilaf",
-    "title": "Nutmeg Naga Indian Chicken Liver Pilaf",
+    "title": "Spicy Chicken and Pilaf Bowl",
     "tags": [
-      "indian-cuisine",
-      "lacto-ovo-vegetarian",
-      "low-glycemic",
-      "one-pan",
-      "pescetarian",
+      "chicken",
+      "indian",
       "spicy",
-      "weeknight"
+      "pilaf"
     ],
-    "cuisine": "indian",
-    "totalTimeMin": 55,
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
