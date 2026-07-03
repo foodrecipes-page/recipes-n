@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-crisp-uruguayan-lamb-bake",
+  "title": "Uruguayan-Style Baked Lamb with Crisp Nourishing Vegetables",
+  "description": "A hearty and flavorful dish from Uruguay, featuring tender lamb and a variety of crisp vegetables.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 (1.5-2 kg)",
+      "notes": "Bone-in for added flavor"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4-5 medium",
+      "notes": "Peel and chop into 2-inch pieces"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2-3 large",
+      "notes": "Peel and chop into 2-inch pieces"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 large",
+      "notes": "Chop into 1-inch pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince and crush"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing lamb and vegetables"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning lamb and vegetables"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning lamb and vegetables"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the lamb shoulder with salt and black pepper. Place the lamb in a roasting pan and brush with olive oil.",
+    "Toss the chopped carrots, potatoes, and onions with olive oil, salt, and black pepper. Spread the vegetables around the lamb in the roasting pan.",
+    "Roast the lamb and vegetables in the preheated oven for 20 minutes.",
+    "Reduce oven temperature to 375°F (190°C) and continue roasting for an additional 1 hour and 15 minutes, or until the lamb reaches an internal temperature of 145°F (63°C).",
+    "Let the lamb rest for 10-15 minutes before slicing and serving with the roasted vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 105,
+  "totalTimeMin": 135,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "lamb",
+    "baked",
+    "roasted",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-crisp-uruguayan-lamb-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:29:31.290Z"
+}
