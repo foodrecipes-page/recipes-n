@@ -1,0 +1,80 @@
+{
+  "slug": "nimble-japanese-chicken-gyoza",
+  "title": "Pan-Seared Chicken Gyoza",
+  "description": "A fusion of Japanese and Western flavors, these pan-seared chicken gyoza are crispy on the outside and juicy on the inside.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "250g"
+    },
+    {
+      "name": "gyoza wrappers",
+      "amount": "20"
+    },
+    {
+      "name": "noodle sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. In a mixing bowl, combine the chicken breast, noodle sauce, soy sauce, sugar, and green onions.",
+    "2. Mix well until the chicken is evenly coated with the sauce.",
+    "3. Lay a gyoza wrapper on a flat surface.",
+    "4. Place a small amount of the chicken mixture in the center of the wrapper.",
+    "5. Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "6. Fold the wrapper into a triangle and press the edges together to seal the gyoza.",
+    "7. Heat a large skillet or wok over medium-high heat.",
+    "8. Add the oil to the skillet and swirl it around.",
+    "9. When the oil is hot, add the gyoza to the skillet and cook until the bottoms are golden brown.",
+    "10. Flip the gyoza over and cook for another 2-3 minutes, until the other side is also golden brown.",
+    "11. Serve the gyoza hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "gyoza",
+    "japanese",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-japanese-chicken-gyoza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:23:58.348Z"
+}
