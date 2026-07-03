@@ -1,0 +1,78 @@
+{
+  "slug": "nutty-velvety-korean-porcini-kalguksu-noodle-soup",
+  "title": "Spicy Kalguksu Noodle Soup",
+  "description": "A hearty Korean-inspired noodle soup with spicy kick.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kalguksu noodles",
+      "amount": "1 package (200g)"
+    },
+    {
+      "name": "Porcini broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Porcini mushrooms",
+      "amount": "1 cup (fresh)",
+      "notes": "sliced"
+    },
+    {
+      "name": "Velvety miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Nutty sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup (chopped)"
+    }
+  ],
+  "instructions": [
+    "1. Cook Kalguksu noodles according to package instructions.",
+    "2. In a large pot, heat vegetable oil over medium heat.",
+    "3. Sauté sliced porcini mushrooms until tender.",
+    "4. Add Porcini broth, miso paste, and Korean chili flakes to the pot.",
+    "5. Bring the mixture to a simmer.",
+    "6. Add cooked noodles to the pot and stir to combine.",
+    "7. Season with sesame oil and scallions.",
+    "8. Serve immediately, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "korean",
+    "soup",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-velvety-korean-porcini-kalguksu-noodle-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:43:15.332Z"
+}
