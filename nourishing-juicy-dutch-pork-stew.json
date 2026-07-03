@@ -1,0 +1,88 @@
+{
+  "slug": "nourishing-juicy-dutch-pork-stew",
+  "title": "Dutch Pork Stew",
+  "description": "A hearty and flavorful stew made with tender pork and root vegetables.",
+  "cuisine": "dutch",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "dutch spice blend",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork cubes on all sides, then set aside.",
+    "Add the chopped onions to the pot and cook until they're softened and lightly browned.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the browned pork, beef broth, water, dutch spice blend, salt, and pepper to the pot.",
+    "Bring the stew to a boil, then cover the pot and transfer it to the oven.",
+    "Bake the stew at 300°F for 2 1/2 hours, or until the pork is tender.",
+    "Remove the pot from the oven and let the stew rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "pork",
+    "stew",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-juicy-dutch-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T20:21:46.091Z"
+}
