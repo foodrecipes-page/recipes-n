@@ -1,0 +1,87 @@
+{
+  "slug": "nourishing-crispy-russian-beef-dumplings",
+  "title": "Russian Beef Dumplings",
+  "description": "A Russian-inspired dish featuring crispy beef dumplings served with a side of nourishing vegetables.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat",
+    "comfort"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80% lean, 20% fat"
+    },
+    {
+      "name": "Dumpling Wrappers",
+      "amount": "1 package (20-24 wrappers)",
+      "notes": "available at most supermarkets or Asian markets"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large mixing bowl, combine ground beef, onion, garlic, soy sauce, salt, and black pepper. Mix well with your hands until just combined.",
+    "Add the beaten egg to the bowl and mix until the mixture is just combined.",
+    "Lay a dumpling wrapper on a flat surface. Place a tablespoon of the beef mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper in half over the filling, pressing the edges together to seal the dumpling.",
+    "Repeat with the remaining wrappers and filling.",
+    "Place the dumplings on a baking sheet lined with parchment paper.",
+    "Brush the tops of the dumplings with a little bit of water and sprinkle with a pinch of salt.",
+    "Bake the dumplings in the preheated oven for 18-20 minutes, or until golden brown.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "dumplings",
+    "russian",
+    "comfort"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-crispy-russian-beef-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:43:44.402Z"
+}
