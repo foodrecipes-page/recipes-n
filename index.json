@@ -1993,16 +1993,15 @@
   },
   {
     "slug": "nice-oven-roasted-jamaican-christmas-pudding-grill",
-    "title": "jamaican christmas pudding grill",
+    "title": "Jamaican Christmas Pudding",
     "tags": [
       "christmas",
+      "pudding",
       "dessert",
-      "grill",
-      "jamaican",
-      "pudding"
+      "holiday"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 27,
+    "cuisine": "Jamaican",
+    "totalTimeMin": 75,
     "shard": "n"
   },
   {
@@ -4337,16 +4336,14 @@
   },
   {
     "slug": "nourishing-australian-lamb-tagine",
-    "title": "Nourishing Australian Lamb Tagine",
+    "title": "Australian Lamb Tagine",
     "tags": [
-      "australian-cuisine",
-      "ceramic-cooking",
-      "lamb-recipes",
-      "low-carb",
-      "one-pot",
-      "slow-cooked"
+      "australian",
+      "lamb",
+      "tagine",
+      "nourishing"
     ],
-    "cuisine": "Australian",
+    "cuisine": "australian",
     "totalTimeMin": 180,
     "shard": "n"
   },
@@ -5060,18 +5057,16 @@
   },
   {
     "slug": "nourishing-crisp-uruguayan-lamb-bake",
-    "title": "Nourishing Crisp Uruguayan Lamb Bake",
+    "title": "Uruguayan-Style Baked Lamb with Crisp Nourishing Vegetables",
     "tags": [
-      "flambeed-onions",
-      "high-protein",
-      "keto-friendly",
-      "one-pan-meal",
-      "post-workout-dinner",
-      "uruguayan-cuisine",
-      "weeknight-dinner"
+      "uruguayan",
+      "lamb",
+      "baked",
+      "roasted",
+      "vegetables"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 70,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 135,
     "shard": "n"
   },
   {
@@ -5127,17 +5122,15 @@
   },
   {
     "slug": "nourishing-crispy-russian-beef-dumplings",
-    "title": "Nourishing Crispy Russian Beef Dumplings",
+    "title": "Russian Beef Dumplings",
     "tags": [
-      "beef-recipes",
-      "comfort-food",
+      "beef",
       "dumplings",
-      "fermented-foods",
-      "halal-friendly",
-      "russian-cuisine"
+      "russian",
+      "comfort"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -13737,17 +13730,15 @@
   },
   {
     "slug": "nutty-dense-saudi-arabian-lamb-kebabs",
-    "title": "Nutty Dense Saudi Arabian Lamb Kebabs",
+    "title": "Saudi Arabian Lamb Kebabs",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "kid-friendly",
+      "lamb",
+      "kebabs",
       "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "grilled"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -16049,17 +16040,15 @@
   },
   {
     "slug": "nutty-rich-egyptian-lentil-curry",
-    "title": "Nutty Rich Egyptian Lentil Curry",
+    "title": "Lentil and Curry Stew",
     "tags": [
-      "high-fiber",
-      "jain-friendly",
-      "nutty",
-      "one-pot",
-      "rich",
-      "weeknight"
+      "lentil",
+      "curry",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
