@@ -12775,16 +12775,15 @@
   },
   {
     "slug": "nutty-crispy-ethiopian-peanut-stir-fry",
-    "title": "Nutty Crispy Ethiopian Peanut Stir-fry",
+    "title": "Ethiopian Peanut Stir Fry",
     "tags": [
-      "nutty",
-      "crispy",
-      "monsoon",
+      "peanut",
+      "stir-fry",
       "ethiopian",
-      "paleo-friendly"
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -17669,18 +17668,15 @@
   },
   {
     "slug": "nutty-velvety-korean-porcini-kalguksu-noodle-soup",
-    "title": "Nutty Velvety Korean Porcini Kalguksu Noodle Soup",
+    "title": "Spicy Kalguksu Noodle Soup",
     "tags": [
-      "kalguksu",
+      "spicy",
       "korean",
-      "low-carb",
-      "meal-prep",
-      "noodle-soup",
-      "vegetarian",
-      "weeknight"
+      "soup",
+      "noodles"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
