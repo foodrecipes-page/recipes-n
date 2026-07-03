@@ -1,0 +1,80 @@
+{
+  "slug": "nourishing-smoky-australian-chicken-skewers",
+  "title": "Australian Chicken Skewers",
+  "description": "Grilled chicken skewers with a smoky flavor, inspired by Australian cuisine. Perfect for a quick and easy dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Australian barbecue sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "nourishing olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken pieces onto skewers, leaving a little space between each piece.",
+    "In a small bowl, mix together barbecue sauce, paprika, garlic powder, salt, and pepper.",
+    "Brush the skewers with olive oil and then brush with the barbecue sauce mixture.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until chicken is cooked through.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired.",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "barbecue",
+    "chicken",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-australian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:22:22.347Z"
+}
