@@ -1,0 +1,75 @@
+{
+  "slug": "nice-oven-roasted-jamaican-christmas-pudding-grill",
+  "title": "Jamaican Christmas Pudding",
+  "description": "A traditional Jamaican dessert made with roasted ingredients, perfect for the holiday season.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "brown sugar",
+      "amount": "2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried fruit",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "rum or rum extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large mixing bowl, combine the brown sugar, flour, dried fruit, eggs, rum or rum extract, vanilla extract, cinnamon, and allspice.",
+    "Mix well until all the ingredients are well combined.",
+    "Pour the mixture into a greased 9x13 inch baking dish.",
+    "Bake for 45-50 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm, topped with a scoop of vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 50,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "christmas",
+    "pudding",
+    "dessert",
+    "holiday"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-oven-roasted-jamaican-christmas-pudding-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:05:18.275Z"
+}
