@@ -1,0 +1,97 @@
+{
+  "slug": "nourishing-sour-ethiopian-beef-gored-gored",
+  "title": "Tibs with Salsa",
+  "description": "A flavorful and spicy Ethiopian-style Tibs dish with a tangy salsa. This recipe is a unique combination of sour and beef flavors.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips (sirloin)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "habanero peppers",
+      "amount": "2",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "For the salsa"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "oregano",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "nourishing oil (such as avocado oil)",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, heat the nourishing oil over medium heat.",
+    "2. Add the chopped onion and sauté for 5 minutes or until translucent.",
+    "3. Add the minced garlic and cook for 1 minute.",
+    "4. Add the habanero peppers and cook for another 2 minutes.",
+    "5. Add the beef strips and cook for 5-7 minutes or until browned.",
+    "6. Season with cumin, coriander, and oregano.",
+    "7. Meanwhile, combine the sour cream, diced tomatoes, and a pinch of salt in a bowl.",
+    "8. Stir the salsa mixture and adjust the seasoning.",
+    "9. Serve the Tibs with the salsa on top.",
+    "10. Garnish with chopped fresh cilantro, if desired.",
+    "11. Serve hot over injera or with steamed rice.",
+    "12. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "beef",
+    "salsa",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-sour-ethiopian-beef-gored-gored",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:14:27.454Z"
+}
