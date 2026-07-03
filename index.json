@@ -2679,17 +2679,15 @@
   },
   {
     "slug": "nimble-japanese-chicken-gyoza",
-    "title": "Nimble Japanese Chicken Gyoza",
+    "title": "Pan-Seared Chicken Gyoza",
     "tags": [
-      "appetizers",
-      "asian-inspired",
-      "chicken-recipes",
-      "japanese-cuisine",
-      "snacks",
-      "steamed-dishes"
+      "chicken",
+      "gyoza",
+      "japanese",
+      "pan-seared"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 27,
     "shard": "n"
   },
   {
@@ -4431,17 +4429,15 @@
   },
   {
     "slug": "nourishing-bouncy-japanese-eggs-takoyaki",
-    "title": "Nourishing Bouncy Japanese Eggs Takoyaki",
+    "title": "Takoyaki Bites",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein",
-      "japanese-street-food",
-      "low-carb",
-      "one-pan"
+      "breakfast",
+      "japanese",
+      "eggs",
+      "savory"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "n"
   },
   {
@@ -12823,17 +12819,14 @@
   },
   {
     "slug": "nutty-crispy-jamaican-ackee-fritters",
-    "title": "Nutty Crispy Jamaican Ackee Fritters",
+    "title": "Jamaican Fritter Breakfast",
     "tags": [
-      "ackee",
-      "brunch",
-      "crispy",
-      "jamaican-cuisine",
-      "nutty",
-      "vegetarian"
+      "breakfast",
+      "jamaican",
+      "ackee"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "jamaican",
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
@@ -16917,17 +16910,15 @@
   },
   {
     "slug": "nutty-spicy-peruvian-potato-stew",
-    "title": "Nutty Spicy Peruvian Potato Stew",
+    "title": "Peruvian Stew",
     "tags": [
-      "comfort-food",
-      "one-pot",
       "peruvian",
-      "shojin-friendly",
-      "spicy",
-      "vegetarian"
+      "stew",
+      "vegetarian",
+      "lunch"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
