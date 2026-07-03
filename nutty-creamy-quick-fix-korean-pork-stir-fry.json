@@ -1,0 +1,88 @@
+{
+  "slug": "nutty-creamy-quick-fix-korean-pork-stir-fry",
+  "title": "Korean-Style Pork Stir Fry",
+  "description": "A quick and easy stir fry dish made with pork and a variety of colorful vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Nutty Oil",
+      "amount": "2 tablespoons",
+      "notes": "peanut or vegetable oil"
+    },
+    {
+      "name": "Korean Stir Fry Sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Quick-Fix Broccoli",
+      "amount": "1 cup",
+      "notes": "frozen"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Creamy Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat nutty oil in a large skillet or wok over medium-high heat.",
+    "Add pork and cook until browned, about 3-4 minutes.",
+    "Add onion and bell pepper and cook until tender, about 3-4 minutes.",
+    "Add snow peas and cook until tender, about 2-3 minutes.",
+    "Add quick-fix broccoli and cook until thawed, about 1-2 minutes.",
+    "Pour in Korean stir fry sauce and cook for 1 minute.",
+    "Season with salt and creamy soy sauce to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "pork",
+    "stir-fry",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-creamy-quick-fix-korean-pork-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:50:47.818Z"
+}
