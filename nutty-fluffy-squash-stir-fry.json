@@ -1,0 +1,74 @@
+{
+  "slug": "nutty-fluffy-squash-stir-fry",
+  "title": "Nutty Squash Fritters",
+  "description": "A crispy and flavorful fritter recipe made with roasted squash and crunchy nuts.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 medium squash",
+      "amount": "",
+      "notes": "Any variety will do, such as butternut or acorn"
+    },
+    {
+      "name": "1/4 cup chopped nuts",
+      "amount": "",
+      "notes": "Walnuts or almonds work well"
+    },
+    {
+      "name": "1/4 cup fluffy",
+      "amount": "",
+      "notes": "Breadcrumbs or cracker crumbs"
+    },
+    {
+      "name": "1 tablespoon nutty",
+      "amount": "",
+      "notes": "Nutritional yeast or sesame oil"
+    },
+    {
+      "name": "1/4 teaspoon stir",
+      "amount": "",
+      "notes": "Spice blend or ground ginger"
+    },
+    {
+      "name": "1/4 teaspoon fry",
+      "amount": "",
+      "notes": "Paprika or cayenne pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the squash in half lengthwise and roast for 30 minutes, or until tender.",
+    "Scoop out the flesh and mash in a bowl.",
+    "Mix in the chopped nuts, fluffy, nutty, stir, and fry.",
+    "Using a 1/4 cup measuring cup, scoop the mixture into balls.",
+    "Flatten each ball into a disk shape.",
+    "Heat about 1/2 inch (1 cm) of oil in a large skillet over medium-high heat.",
+    "Fry the fritters until golden brown, about 3-4 minutes per side.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "squash",
+    "fritters",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-fluffy-squash-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:09:57.916Z"
+}
