@@ -1,0 +1,82 @@
+{
+  "slug": "nutty-tender-slovakian-dates-fold",
+  "title": "Slovakian Date Cake",
+  "description": "Moist and delicious Slovakian date cake, perfect for a snack or dessert. The nutty flavor from the dates pairs well with the tender texture of the cake.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup, pitted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Grease a 9-inch (23cm) round cake pan and set aside.",
+    "In a medium bowl, whisk together the flour, baking powder, baking soda, and cinnamon. Set aside.",
+    "In a large bowl, use an electric mixer to cream together the butter and sugar until light and fluffy, about 2 minutes.",
+    "Beat in the eggs one at a time, followed by the vanilla extract.",
+    "With the mixer on low speed, gradually add the flour mixture to the wet ingredients and mix until just combined.",
+    "Fold in the dates.",
+    "Pour the batter into the prepared pan and smooth the top.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 10 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "slovakian",
+    "dates",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-tender-slovakian-dates-fold",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:44:43.321Z"
+}
