@@ -1,0 +1,92 @@
+{
+  "slug": "nutmeg-naga-indian-chicken-liver-pilaf",
+  "title": "Spicy Chicken and Pilaf Bowl",
+  "description": "A flavorful and spicy chicken dish served with a side of pilaf, inspired by Indian cuisine.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "naga peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the chopped naga peppers and cook until softened, about 3-4 minutes.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Return the chicken to the skillet and reduce heat to medium-low.",
+    "Simmer the chicken until cooked through, about 10-12 minutes.",
+    "While the chicken is cooking, cook the brown rice according to package instructions.",
+    "To assemble the dish, place a scoop of pilaf on a plate, followed by a piece of the chicken.",
+    "Sprinkle with salt and black pepper to taste.",
+    "Garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "spicy",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutmeg-naga-indian-chicken-liver-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T20:47:47.099Z"
+}
