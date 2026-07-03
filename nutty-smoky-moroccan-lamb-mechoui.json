@@ -1,0 +1,92 @@
+{
+  "slug": "nutty-smoky-moroccan-lamb-mechoui",
+  "title": "Moroccan Mechoui Lamb Wraps",
+  "description": "A flavorful and aromatic lamb dish, typically served in North African cuisine. This recipe is a mechoui-inspired twist on traditional lamb wraps, with a nutty and smoky flavor profile.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 (2-3 pound)",
+      "notes": "preferably boneless"
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most middle eastern stores"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking and serving"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4-6",
+      "notes": "preferably day-old"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven or oven-safe pot, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes per side.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce heat to medium and add the remaining 1 tablespoon of olive oil.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the moroccan spice blend and cook for 1 minute, stirring constantly.",
+    "Return the lamb to the pot and add the apricot jam (if using).",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Braise the lamb for 2-3 hours, or until tender and easily shredded with a fork.",
+    "Remove the pot from the oven and let rest for 10-15 minutes.",
+    "Using two forks, shred the lamb into bite-sized pieces.",
+    "Warm the pita bread by wrapping it in foil and heating in the oven for 5 minutes.",
+    "Assemble the wraps by spooning the lamb onto the pita bread and topping with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "mechoui",
+    "wraps",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-smoky-moroccan-lamb-mechoui",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:45:17.036Z"
+}
