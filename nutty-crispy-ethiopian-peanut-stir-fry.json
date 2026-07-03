@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-crispy-ethiopian-peanut-stir-fry",
+  "title": "Ethiopian Peanut Stir Fry",
+  "description": "A flavorful and spicy Ethiopian peanut stir fry dish made with crunchy vegetables and a rich peanut sauce.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "Ethiopian Berbere Spice Mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Stir Fry Vegetables (Carrots, Zucchini, and Bell Peppers)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crispy Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Nutty Brown Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add garlic and stir fry for 1 minute.",
+    "Add stir fry vegetables and cook for 3-4 minutes.",
+    "Add berbere spice mix, peanuts, and brown sugar. Stir well.",
+    "Cook for another 2-3 minutes or until the sauce thickens.",
+    "Serve hot garnished with crispy garlic."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peanut",
+    "stir-fry",
+    "ethiopian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-ethiopian-peanut-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:33:19.990Z"
+}
