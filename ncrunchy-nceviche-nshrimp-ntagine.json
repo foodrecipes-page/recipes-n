@@ -1,0 +1,64 @@
+{
+  "slug": "ncrunchy-nceviche-nshrimp-ntagine",
+  "title": "Shrimp and Vegetable Tagine",
+  "description": "A flavorful and aromatic North African-inspired tagine with shrimp and vegetables. Serve over couscous for a delicious and nutritious meal.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ncshrimp",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "ntagine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "ncceviche",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "nccrunchy",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large tagine or Dutch oven over medium heat.",
+    "Add chopped onions and cook until softened, about 5 minutes.",
+    "Add chopped carrots and cook until they start to soften, about 5 minutes.",
+    "Add shrimp and cook until pink, about 2-3 minutes per side.",
+    "Add cumin, coriander, and paprika, and stir to combine.",
+    "Add chopped tomatoes, salt, and pepper, and stir to combine.",
+    "Bring to a simmer, reduce heat to low, and cook, covered, until the sauce has thickened and the vegetables are tender, about 20 minutes.",
+    "Stir in chopped cilantro and serve over couscous.",
+    "Garnish with chopped crunchy and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "seafood",
+    "shrimp",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ncrunchy-nceviche-nshrimp-ntagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:07:20.884Z"
+}
