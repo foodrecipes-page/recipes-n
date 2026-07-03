@@ -5522,16 +5522,15 @@
   },
   {
     "slug": "nourishing-double-fried-slovakian-cheese-dumplings",
-    "title": "Nourishing Double Fried Slovakian Cheese Dumplings",
+    "title": "Slovakian Fried Dumplings",
     "tags": [
-      "comfort-food",
-      "halal-friendly",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "slovakian",
+      "cheese",
+      "dumplings",
+      "fried"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "cuisine": "slovakian",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -5656,13 +5655,15 @@
   },
   {
     "slug": "nourishing-ethiopian-lentil-stew",
-    "title": "Nourishing Ethiopian Lentil Stew",
+    "title": "Ethiopian Red Lentil Stew",
     "tags": [
+      "lentil",
+      "stew",
       "ethiopian",
-      "lunch"
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -6791,17 +6792,15 @@
   },
   {
     "slug": "nourishing-mediterranean-christmas-pudding-trifle",
-    "title": "Nourishing Mediterranean Christmas Pudding Trifle",
+    "title": "Traditional English Trifle",
     "tags": [
-      "christmas",
+      "english",
       "dessert",
-      "mediterranean",
-      "nourishing",
-      "shojin-friendly",
-      "trifle"
+      "trifle",
+      "traditional"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 50,
+    "cuisine": "English",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -8434,17 +8433,15 @@
   },
   {
     "slug": "nourishing-sour-ethiopian-beef-gored-gored",
-    "title": "Nourishing Sour Ethiopian Beef Gored Gored",
+    "title": "Tibs with Salsa",
     "tags": [
-      "dairy-free",
-      "ethiopian-cuisine",
-      "exotic",
-      "gluten-free",
-      "high-protein",
-      "one-pot"
+      "ethiopian",
+      "beef",
+      "salsa",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
