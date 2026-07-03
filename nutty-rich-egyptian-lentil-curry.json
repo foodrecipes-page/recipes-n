@@ -1,0 +1,62 @@
+{
+  "slug": "nutty-rich-egyptian-lentil-curry",
+  "title": "Lentil and Curry Stew",
+  "description": "A hearty, comforting stew made with lentils and a rich curry sauce. Serve over steamed rice or with naan bread.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Curry",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup chopped almonds"
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 cloves garlic, minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the lentils, curry, and broth. Bring to a boil, then reduce heat and simmer, covered, for 20-25 minutes, or until the lentils are tender.",
+    "Stir in chopped almonds.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "curry",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-rich-egyptian-lentil-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:22:37.958Z"
+}
