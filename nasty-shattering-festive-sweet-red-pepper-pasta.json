@@ -1,0 +1,74 @@
+{
+  "slug": "nasty-shattering-festive-sweet-red-pepper-pasta",
+  "title": "Spicy Pasta with Sweet Pepper Sauce",
+  "description": "A vibrant and flavorful pasta dish featuring a sweet pepper sauce and a kick of spice. Perfect for a quick weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "sweet",
+      "amount": "2",
+      "notes": "bell peppers"
+    },
+    {
+      "name": "red",
+      "amount": "1",
+      "notes": "pepper, diced"
+    },
+    {
+      "name": "nasty",
+      "amount": "2",
+      "notes": "garlic cloves, minced"
+    },
+    {
+      "name": "festive",
+      "amount": "1/2 cup",
+      "notes": "grated Parmesan cheese"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat a tablespoon of oil over medium-high heat.",
+    "Add the diced red pepper and cook for 3-4 minutes until tender.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced sweet peppers and cook for 2-3 minutes until tender.",
+    "Stir in the grated Parmesan cheese and cook until melted.",
+    "Add the cooked pasta to the skillet and toss with the sweet pepper sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "vegetarian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nasty-shattering-festive-sweet-red-pepper-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:06:10.411Z"
+}
