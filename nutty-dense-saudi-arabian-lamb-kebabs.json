@@ -1,0 +1,85 @@
+{
+  "slug": "nutty-dense-saudi-arabian-lamb-kebabs",
+  "title": "Saudi Arabian Lamb Kebabs",
+  "description": "A classic Middle Eastern dish that's perfect for grilling. Marinated lamb kebabs are cooked to perfection and served with a side of flavorful spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "Saudi Arabian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing the grill"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the Saudi Arabian spice blend, lemon juice, olive oil, garlic, ginger, salt, and black pepper.",
+    "Add the lamb cubes to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145°F.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides, such as rice, salad, or flatbread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "middle-eastern",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "10g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-dense-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:34:37.923Z"
+}
