@@ -1,0 +1,65 @@
+{
+  "slug": "nutty-crispy-jamaican-ackee-fritters",
+  "title": "Jamaican Fritter Breakfast",
+  "description": "A twist on traditional breakfast with crispy Jamaican fritters and ackee.",
+  "cuisine": "jamaican",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup",
+      "notes": "Canned or fresh, drained and chopped"
+    },
+    {
+      "name": "Jamaican Fritters",
+      "amount": "1 package",
+      "notes": "Crispy and nutty, store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a pan over medium heat.",
+    "Add ackee and cook, stirring occasionally, until heated through.",
+    "Add Jamaican fritters to the pan and stir to combine with ackee.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: Serve with additional Jamaican fritters on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "jamaican",
+    "ackee"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-jamaican-ackee-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:29:39.510Z"
+}
