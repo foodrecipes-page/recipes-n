@@ -6722,18 +6722,15 @@
   },
   {
     "slug": "nourishing-malaysian-tofu-fried-rice",
-    "title": "Nourishing Malaysian Tofu Fried Rice",
+    "title": "Nourishing Malaysian Fried Rice",
     "tags": [
-      "brunch",
-      "comfort-food",
-      "easy-ingredients",
-      "fried-rice",
       "malaysian",
-      "ovo-vegetarian",
-      "tofu"
+      "fried-rice",
+      "vegan",
+      "vegetarian"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -16597,17 +16594,15 @@
   },
   {
     "slug": "nutty-smoky-fujian-pork-noodles",
-    "title": "Nutty Smoky Fujian Pork Noodles",
+    "title": "Smoky Pork Noodle Stir Fry",
     "tags": [
-      "chinese-food",
-      "date-night",
-      "gluten-free",
-      "noodle-dish",
-      "pork-recipe",
-      "smoky-flavors"
+      "smoky",
+      "pork",
+      "noodles",
+      "stir-fry"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
