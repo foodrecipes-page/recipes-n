@@ -1,0 +1,83 @@
+{
+  "slug": "nutty-peruvian-quinoa-bowl",
+  "title": "Peruvian Quinoa Bowl with Nutty Crunch",
+  "description": "A hearty and nutritious bowl filled with the flavors of Peru, topped with a nutty crunch. Perfect for a quick and easy lunch.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peruvian-Style Roasted Sweet Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1"
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Nutty Crunch (see notes)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss sweet potatoes with 1 tbsp lime juice and roast for 20-25 minutes.",
+    "In a medium saucepan, bring 2 cups water to a boil. Add quinoa and reduce heat to low. Simmer for 15-20 minutes.",
+    "Drain chickpeas and rinse with water.",
+    "Cut avocado into small pieces.",
+    "In a large bowl, combine cooked quinoa, roasted sweet potatoes, chickpeas, and avocado.",
+    "Sprinkle pumpkin seeds and nutty crunch on top.",
+    "Squeeze remaining 1 tbsp lime juice over the bowl.",
+    "Garnish with chopped cilantro and season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "quinoa",
+    "vegan",
+    "gluten-free",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-peruvian-quinoa-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:22:17.582Z"
+}
