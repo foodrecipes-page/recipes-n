@@ -1,0 +1,80 @@
+{
+  "slug": "nimble-peruvian-chicken-broth",
+  "title": "Peruvian Chicken Soup",
+  "description": "A flavorful and comforting Peruvian chicken soup made with nimble chicken, aromatic broth, and a touch of spice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Nimble chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the Peruvian broth in a large pot over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add the aji amarillo pepper and cumin, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes, or until the chicken is cooked through.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "soup",
+    "paleo",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-peruvian-chicken-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:36:33.833Z"
+}
