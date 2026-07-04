@@ -5920,17 +5920,14 @@
   },
   {
     "slug": "nourishing-gooey-dutch-potato-casserole",
-    "title": "Nourishing Gooey Dutch Potato Casserole",
+    "title": "Creamy Potato Casserole",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "hearty-casserole",
-      "lacto-vegetarian",
-      "one-pot",
-      "winter-night"
+      "potato",
+      "casserole",
+      "comfort-food"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 65,
+    "cuisine": "American",
+    "totalTimeMin": 60,
     "shard": "n"
   },
   {
@@ -16857,17 +16854,15 @@
   },
   {
     "slug": "nutty-spicy-jamaican-semolina-pilaf",
-    "title": "Nutty Spicy Jamaican Semolina Pilaf",
+    "title": "Jamaican Semolina Pilaf",
     "tags": [
-      "gluten-free",
-      "jamaican-cuisine",
-      "meal-prep",
-      "one-pot",
-      "spicy-food",
-      "weeknight-dinner"
+      "caribbean",
+      "semolina",
+      "pilaf",
+      "vegetarian"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
