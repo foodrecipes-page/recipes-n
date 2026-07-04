@@ -1,0 +1,83 @@
+{
+  "slug": "naturally-crispy-venezuelan-snapper-fish-roast",
+  "title": "Pan-Seared Snapper with Venezuelan Seasoning",
+  "description": "A flavorful and crispy snapper dish inspired by Venezuelan cuisine. This recipe is perfect for a quick dinner.",
+  "cuisine": "latin american",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "naturally smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crispy garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "venezuelan seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the snapper fillets and pat them dry with paper towels.",
+    "Season the snapper with salt, black pepper, and venezuelan seasoning.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the snapper for 2-3 minutes on each side, or until it develops a nice crust.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the snapper is cooked through.",
+    "Remove the skillet from the oven and serve the snapper hot with a squeeze of lemon juice.",
+    "Garnish with crispy garlic powder and naturally smoked paprika, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "latin american",
+    "fish",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-crispy-venezuelan-snapper-fish-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:14:16.870Z"
+}
