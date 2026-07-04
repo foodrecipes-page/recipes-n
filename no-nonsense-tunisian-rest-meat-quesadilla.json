@@ -1,0 +1,86 @@
+{
+  "slug": "no-nonsense-tunisian-rest-meat-quesadilla",
+  "title": "Tunisian Quesadilla",
+  "description": "A fusion of Tunisian and Mexican flavors, this recipe combines the spices of Tunisia with the comfort of a quesadilla.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tunisian Spice Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "No-Nonsense Chili Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rest of the Day Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Meat, shredded chicken",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Quesadilla Tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Red Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet over medium-high heat.",
+    "2. Add the shredded chicken to the skillet and cook until heated through.",
+    "3. In a large bowl, combine the Tunisian Spice Blend and chili powder.",
+    "4. Add the shredded cheese, chopped cilantro, and sliced red onion to the bowl and stir until well combined.",
+    "5. Add the cooked chicken to the bowl and stir until well combined.",
+    "6. Place a tortilla in the skillet and sprinkle a quarter of the chicken mixture onto half of the tortilla.",
+    "7. Fold the tortilla in half and cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "8. Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy and the cheese is melted.",
+    "9. Repeat with the remaining tortillas and chicken mixture.",
+    "10. Cut the quesadillas into wedges and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "mexican",
+    "quesadilla",
+    "easy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/no-nonsense-tunisian-rest-meat-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:07:34.567Z"
+}
