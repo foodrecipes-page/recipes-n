@@ -1,0 +1,78 @@
+{
+  "slug": "nourishing-umami-malaysian-broad-beans-tagine",
+  "title": "Malaysian Braised Tagine with Broad Beans",
+  "description": "A hearty and flavorful stew originating from Malaysia, made with tender broad beans in a rich and aromatic tagine sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "250g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tsp",
+      "notes": "a blend of cumin, coriander, turmeric, cinnamon, and chili powder"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "250ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "250ml",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the onion and cook, stirring occasionally, until softened (5 minutes).",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tagine spice mix and cook for 1 minute, stirring constantly.",
+    "Add the broad beans, coconut milk, and vegetable broth.",
+    "Bring to a simmer, then reduce heat to low and cook, covered, until the beans are tender (20-25 minutes).",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "vegetarian",
+    "stew",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "10g",
+    "carbs": "40g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-umami-malaysian-broad-beans-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:02:49.128Z"
+}
