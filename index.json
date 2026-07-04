@@ -350,17 +350,14 @@
   },
   {
     "slug": "naturally-crispy-venezuelan-snapper-fish-roast",
-    "title": "Naturally Crispy Venezuelan Snapper Fish Roast",
+    "title": "Pan-Seared Snapper with Venezuelan Seasoning",
     "tags": [
+      "latin american",
       "fish",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "seafood"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 55,
+    "cuisine": "latin american",
+    "totalTimeMin": 22,
     "shard": "n"
   },
   {
@@ -3070,16 +3067,16 @@
   },
   {
     "slug": "no-nonsense-tunisian-rest-meat-quesadilla",
-    "title": "No-nonsense Tunisian Rest-meat Quesadilla",
+    "title": "Tunisian Quesadilla",
     "tags": [
-      "cheesy",
-      "frenchie",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "tunisian",
+      "mexican",
+      "quesadilla",
+      "easy",
+      "snack"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 30,
+    "cuisine": "Tunisian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -7417,18 +7414,16 @@
   },
   {
     "slug": "nourishing-saudi-arabian-herbal-tagine",
-    "title": "Nourishing Saudi- Arabian Herbal Tagine",
+    "title": "Saudi Arabian Chicken Tagine",
     "tags": [
-      "energizing",
-      "hearty",
-      "herbal",
-      "one-pan",
-      "saudi-arabian",
-      "vegan",
-      "weeknight"
+      "chicken",
+      "tagine",
+      "saudi arabian",
+      "arabic",
+      "middle eastern"
     ],
-    "cuisine": "Saudi-Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -8235,20 +8230,15 @@
   },
   {
     "slug": "nourishing-smoky-spanish-chorizo-paella",
-    "title": "Nourishing Smoky Spanish Chorizo Paella",
+    "title": "Smoked Paella with Chorizo",
     "tags": [
-      "chorizo",
-      "comforting",
-      "jam-n-ib-rico",
-      "one-pan",
-      "paella",
-      "smoky",
       "spanish",
-      "weeknight",
-      "whole30"
+      "paella",
+      "chorizo",
+      "smoked-paprika"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -8996,17 +8986,15 @@
   },
   {
     "slug": "nourishing-umami-malaysian-broad-beans-tagine",
-    "title": "Nourishing Umami Malaysian Broad Beans Tagine",
+    "title": "Malaysian Braised Tagine with Broad Beans",
     "tags": [
-      "cheese-pull",
-      "fodmap-friendly",
-      "malaysian-cuisine",
-      "one-pot",
-      "quick-fix",
-      "umami-rich"
+      "malaysian",
+      "vegetarian",
+      "stew",
+      "beans"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -10676,16 +10664,14 @@
   },
   {
     "slug": "nutritious-korean-style-filipino-mung-bean-sprouts-pinakbet",
-    "title": "Nutritious Korean-Style Filipino Mung Bean Sprouts Pinakbet",
+    "title": "Pinakbet with Mung Bean Sprouts",
     "tags": [
-      "high-protein",
-      "lazy-sunday",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "filipino",
+      "vegetarian",
+      "stir-fry"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
