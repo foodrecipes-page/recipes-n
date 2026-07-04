@@ -1,0 +1,72 @@
+{
+  "slug": "nostalgic-chewy-american-emmentaler-cheese-braise",
+  "title": "Braised Emmentaler Mac and Cheese",
+  "description": "A comforting, nostalgic macaroni and cheese dish with a creamy, cheesy sauce and a tender emmentaler crust.",
+  "cuisine": "american",
+  "diet": [
+    "comfort-food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "emmentaler",
+      "amount": "1 1/2 cups, shredded"
+    },
+    {
+      "name": "macaroni",
+      "amount": "8 oz"
+    },
+    {
+      "name": "chewy",
+      "amount": "1/2 cup, panko breadcrumbs"
+    },
+    {
+      "name": "american",
+      "amount": "1/2 cup, all-purpose flour"
+    },
+    {
+      "name": "cheese",
+      "amount": "2 cups, grated cheddar"
+    },
+    {
+      "name": "braise",
+      "amount": "2 cups, milk"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the macaroni according to package instructions until al dente.",
+    "In a large saucepan, melt 2 tbsp butter over medium heat.",
+    "Add the flour and whisk to make a roux, cooking for 1-2 minutes.",
+    "Slowly pour in the milk, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, until thickened.",
+    "Remove the sauce from the heat and stir in the shredded emmentaler and grated cheddar until melted and smooth.",
+    "In a large mixing bowl, combine the cooked macaroni, cheese sauce, and a pinch of salt and pepper. Mix well to combine.",
+    "Transfer the macaroni mixture to a baking dish and top with the panko breadcrumbs.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the mac and cheese is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mac-and-cheese",
+    "emmentaler",
+    "american"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-chewy-american-emmentaler-cheese-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:30:05.340Z"
+}
