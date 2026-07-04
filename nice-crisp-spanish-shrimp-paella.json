@@ -1,0 +1,82 @@
+{
+  "slug": "nice-crisp-spanish-shrimp-paella",
+  "title": "Spanish-Style Paella with Shrimp",
+  "description": "A classic Spanish dish made with saffron-infused rice, succulent shrimp, and crispy vegetables.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Nice Spanish olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crisp Spanish onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crisp Spanish bell peppers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spanish smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chopped onions and cook until translucent, about 5 minutes.",
+    "Add the sliced bell peppers and cook for an additional 2 minutes.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the Spanish rice to the pan and stir to coat with the oil and spice mixture.",
+    "Cook for 2-3 minutes, until the rice is lightly toasted.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "shrimp",
+    "rice",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-crisp-spanish-shrimp-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:48:28.743Z"
+}
