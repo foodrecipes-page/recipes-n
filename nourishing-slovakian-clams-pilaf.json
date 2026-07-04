@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-slovakian-clams-pilaf",
+  "title": "Slovakian Clam Pilaf",
+  "description": "A hearty and flavorful Slovakian-inspired dish featuring clams, rice, and spices.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Clams",
+      "amount": "1 pound, scrubbed and rinsed"
+    },
+    {
+      "name": "Slovakian Pilaf",
+      "amount": "1 package, 6 oz"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add clams, white wine, water, salt, and black pepper.",
+    "Stir to combine, then bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 5-7 minutes, or until clams open.",
+    "Stir in pilaf according to package instructions.",
+    "Cook for an additional 2-3 minutes, until pilaf is cooked through.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "seafood",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-slovakian-clams-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:41:58.797Z"
+}
