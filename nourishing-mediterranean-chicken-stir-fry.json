@@ -1,0 +1,87 @@
+{
+  "slug": "nourishing-mediterranean-chicken-stir-fry",
+  "title": "Mediterranean Chicken Stir Fry",
+  "description": "A quick and flavorful stir fry made with Mediterranean-inspired ingredients and juicy chicken.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Stir in the Mediterranean seasoning and cook for 1 minute.",
+    "Add the cherry tomatoes to the skillet and cook for 2-3 minutes, or until they start to release their juices.",
+    "Add the chopped spinach to the skillet and cook until wilted.",
+    "Return the chicken to the skillet and stir in the crumbled feta cheese.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "mediterranean",
+    "stir-fry",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-mediterranean-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:37:20.181Z"
+}
