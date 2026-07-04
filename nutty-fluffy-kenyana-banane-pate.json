@@ -1,0 +1,71 @@
+{
+  "slug": "nutty-fluffy-kenyana-banane-pate",
+  "title": "Fluffy Kenyana Pancakes with Nutty Sauce",
+  "description": "Delicious pancakes made with Kenyana flour and topped with a nutty sauce made from the finest ingredients.",
+  "cuisine": "western",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kenyana flour",
+      "amount": "250g"
+    },
+    {
+      "name": "Banane",
+      "amount": "2"
+    },
+    {
+      "name": "nutty",
+      "amount": "15g"
+    },
+    {
+      "name": "fluffy",
+      "amount": "100g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "pate",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine Kenyana flour, sugar, and salt.",
+    "In a separate bowl, whisk together eggs and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Add the mashed bananas and nutty mixture and stir until smooth.",
+    "Heat a non-stick pan over medium heat and grease with pate.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip the pancakes and cook for another 1-2 minutes or until golden brown.",
+    "Serve the pancakes hot with a drizzle of nutty sauce.",
+    "To make the nutty sauce, combine nutty and fluffy in a blender and blend until smooth.",
+    "Add a little water to achieve the desired consistency.",
+    "Serve the pancakes with a side of fresh fruit or maple syrup."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "nutty",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-fluffy-kenyana-banane-pate",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:02:55.848Z"
+}
