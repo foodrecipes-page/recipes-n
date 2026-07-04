@@ -3479,17 +3479,15 @@
   },
   {
     "slug": "nostalgic-chewy-american-emmentaler-cheese-braise",
-    "title": "Nostalgic Chewy American Emmentaler Cheese Braise",
+    "title": "Braised Emmentaler Mac and Cheese",
     "tags": [
-      "nostalgic",
-      "chewy",
-      "american",
+      "comfort-food",
+      "mac-and-cheese",
       "emmentaler",
-      "braise",
-      "fodmap-friendly"
+      "american"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 60,
+    "cuisine": "american",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -12125,19 +12123,15 @@
   },
   {
     "slug": "nutty-chewy-canadian-brisket-pulled",
-    "title": "Nutty Chewy Canadian Brisket Pulled",
+    "title": "Canadian Brisket Sandwich",
     "tags": [
-      "beef",
       "canadian",
-      "comfort-food",
-      "fall-winter",
-      "gluten-free",
-      "one-pan",
-      "slow-cooked",
-      "weeknight"
+      "brisket",
+      "bbq",
+      "sandwich"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 170,
+    "totalTimeMin": 195,
     "shard": "n"
   },
   {
