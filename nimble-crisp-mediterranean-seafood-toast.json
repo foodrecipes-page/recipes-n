@@ -1,0 +1,78 @@
+{
+  "slug": "nimble-crisp-mediterranean-seafood-toast",
+  "title": "Mediterranean Seafood Toast",
+  "description": "A twist on the classic toast, this Mediterranean seafood toast combines the savory flavors of the sea with the tanginess of the Mediterranean.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Crusty bread",
+      "amount": "4 slices",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Seafood mix",
+      "amount": "1 cup",
+      "notes": "containing shrimp, mussels, and scallops"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Arrange the bread slices on a baking sheet and toast in the oven for 5-7 minutes or until lightly browned.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium heat.",
+    "Add the seafood mix and cook for 2-3 minutes or until the seafood is opaque and cooked through.",
+    "Stir in the feta cheese, parsley, lemon juice, and garlic.",
+    "Remove the toasted bread from the oven and top each slice with the seafood mixture.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "seafood",
+    "toast",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-crisp-mediterranean-seafood-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:13:36.539Z"
+}
