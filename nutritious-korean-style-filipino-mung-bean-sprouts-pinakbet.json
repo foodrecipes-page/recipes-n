@@ -1,0 +1,78 @@
+{
+  "slug": "nutritious-korean-style-filipino-mung-bean-sprouts-pinakbet",
+  "title": "Pinakbet with Mung Bean Sprouts",
+  "description": "A Filipino-inspired stir-fry featuring pinakbet vegetables and nutritious mung bean sprouts. This easy-to-make dish is perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mung Bean Sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pinakbet (vegetable mix)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Palm Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add onion and garlic, sauté until softened.",
+    "Add pinakbet mix, stir-fry for 2 minutes.",
+    "Add mung bean sprouts, stir-fry for 1 minute.",
+    "Add tomato, cook until tender.",
+    "Add palm vinegar and fish sauce (if using), stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped green onions (optional).",
+    "Cooking time will vary based on desired doneness of vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-korean-style-filipino-mung-bean-sprouts-pinakbet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:36:55.603Z"
+}
