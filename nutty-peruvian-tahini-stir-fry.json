@@ -1,0 +1,92 @@
+{
+  "slug": "nutty-peruvian-tahini-stir-fry",
+  "title": "Nutty Stir Fry",
+  "description": "A quick and flavorful stir fry dish with a nutty twist, perfect for a weeknight dinner.",
+  "cuisine": "Asian-Inspired",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peruvian corn",
+      "amount": "1 cup",
+      "notes": "frozen or fresh"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Stir fry oil",
+      "amount": "2 tablespoons",
+      "notes": "peanut or vegetable oil"
+    },
+    {
+      "name": "Nutty sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of stir fry oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the bell pepper and cook for an additional 2-3 minutes.",
+    "Add the Peruvian corn, snow peas, and nutty sauce. Cook for 2-3 minutes or until the vegetables are tender.",
+    "Stir in the tahini and fry sauce. Cook for an additional minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "nutty",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-peruvian-tahini-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T22:21:34.868Z"
+}
