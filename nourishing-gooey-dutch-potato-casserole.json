@@ -1,0 +1,74 @@
+{
+  "slug": "nourishing-gooey-dutch-potato-casserole",
+  "title": "Creamy Potato Casserole",
+  "description": "A comforting, creamy casserole made with potatoes, gooey cheese, and a crispy topping.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": "2 1/2 pounds",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Gooey Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Milk",
+      "amount": "3/4 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "Dutch Processed Cocoa Powder",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced potatoes, melted butter, warm milk, cocoa powder (if using), salt, and pepper. Toss to coat.",
+    "Transfer the potato mixture to a 9x13 inch baking dish.",
+    "Sprinkle shredded cheese evenly over the top of the potatoes.",
+    "Bake for 35-40 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Remove from the oven and let it rest for 10-15 minutes before serving.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "potato",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-gooey-dutch-potato-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:55:01.948Z"
+}
