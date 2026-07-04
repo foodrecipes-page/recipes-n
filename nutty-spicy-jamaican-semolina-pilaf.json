@@ -1,0 +1,86 @@
+{
+  "slug": "nutty-spicy-jamaican-semolina-pilaf",
+  "title": "Jamaican Semolina Pilaf",
+  "description": "A flavorful and nutty side dish with a Caribbean twist. Perfect for accompanying grilled meats or stews.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "jamaican spice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "nutty oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat nutty oil in a large saucepan over medium heat.",
+    "Add onion and garlic, sauté until softened.",
+    "Add semolina and pilaf, stir to combine.",
+    "Add jamaican spice, chicken broth, salt, and black pepper.",
+    "Bring to a boil, reduce heat to low and simmer for 15-20 minutes.",
+    "Serve hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caribbean",
+    "semolina",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-spicy-jamaican-semolina-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:34:12.579Z"
+}
