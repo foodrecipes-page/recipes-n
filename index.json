@@ -4305,16 +4305,14 @@
   },
   {
     "slug": "nourishing-australian-flour-wrap",
-    "title": "Nourishing Australian Flour Wrap",
+    "title": "Australian Wrap",
     "tags": [
-      "high-protein",
-      "late-night",
-      "low-fat",
-      "vegan",
-      "vegetarian"
+      "australian",
+      "wrap",
+      "nourishing"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "australian",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -5326,17 +5324,15 @@
   },
   {
     "slug": "nourishing-dense-american-russet-potato-casserole",
-    "title": "Nourishing Dense American Russet Potato Casserole",
+    "title": "Classic American Potato Casserole",
     "tags": [
+      "casserole",
+      "potato",
       "comfort-food",
-      "gluten-free",
-      "high-carb",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "american"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 80,
+    "cuisine": "american",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -6747,14 +6743,12 @@
   },
   {
     "slug": "nourishing-mediterranean-chicken-stir-fry",
-    "title": "Nourishing Mediterranean Chicken Stir-fry",
+    "title": "Mediterranean Chicken Stir Fry",
     "tags": [
-      "fodmap-friendly",
-      "healthy",
+      "chicken",
       "mediterranean",
-      "mustard",
-      "one-pan",
-      "quick"
+      "stir-fry",
+      "quick-and-easy"
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 25,
@@ -7120,16 +7114,15 @@
   },
   {
     "slug": "nourishing-peruvian-matcha-salad",
-    "title": "Nourishing Peruvian Matcha Salad",
+    "title": "Peruvian Green Salad with Nourishing Matcha Dressing",
     "tags": [
-      "anti-inflammatory",
-      "low-carb",
-      "one-bowl",
-      "quick",
-      "vegetarian"
+      "healthy",
+      "salad",
+      "matcha",
+      "peruvian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
@@ -15781,16 +15774,14 @@
   },
   {
     "slug": "nutty-peruvian-tahini-stir-fry",
-    "title": "Nutty Peruvian Tahini Stir-fry",
+    "title": "Nutty Stir Fry",
     "tags": [
+      "stir-fry",
       "nutty",
-      "tender",
-      "peruvian",
-      "meal-prep",
-      "whole30-friendly"
+      "peruvian"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "cuisine": "Asian-Inspired",
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
