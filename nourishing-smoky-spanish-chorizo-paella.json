@@ -1,0 +1,87 @@
+{
+  "slug": "nourishing-smoky-spanish-chorizo-paella",
+  "title": "Smoked Paella with Chorizo",
+  "description": "A traditional Spanish dish with smoky flavors and spicy chorizo. Serve with a side of fresh vegetables for a hearty meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Chorizo, sliced",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Nourishing Long-Grain Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Spanish Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red Bell Pepper, diced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Artichoke Hearts, canned",
+      "amount": "1 can"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet over medium-high heat.",
+    "2. Add the chorizo and cook until browned, about 2-3 minutes.",
+    "3. Remove the chorizo from the skillet and set aside.",
+    "4. Add the diced onion to the skillet and cook until softened, about 3-4 minutes.",
+    "5. Add the minced garlic and cook for an additional minute.",
+    "6. Add the diced red bell pepper and cook until tender, about 4-5 minutes.",
+    "7. Add the smoked paprika, salt, and pepper, and stir to combine.",
+    "8. Add the chicken broth and bring to a boil.",
+    "9. Add the cooked chorizo and artichoke hearts back to the skillet.",
+    "10. Stir in the nourishing long-grain rice.",
+    "11. Reduce heat to low, cover, and simmer for 20-25 minutes or until the rice is tender and the liquid has been absorbed.",
+    "12. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "chorizo",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-spanish-chorizo-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:50:22.366Z"
+}
