@@ -1614,14 +1614,13 @@
   },
   {
     "slug": "nice-crisp-spanish-shrimp-paella",
-    "title": "Nice Crisp Spanish Shrimp Paella",
+    "title": "Spanish-Style Paella with Shrimp",
     "tags": [
-      "gluten-free",
-      "one-pot",
-      "sattvic-friendly",
-      "seafood",
-      "spanish-cuisine",
-      "weeknight"
+      "spanish",
+      "paella",
+      "shrimp",
+      "rice",
+      "seafood"
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 40,
@@ -14260,16 +14259,15 @@
   },
   {
     "slug": "nutty-fluffy-kenyana-banane-pate",
-    "title": "Nutty Fluffy Kenyana Banane Pâté",
+    "title": "Fluffy Kenyana Pancakes with Nutty Sauce",
     "tags": [
-      "kenyan",
+      "breakfast",
+      "pancakes",
       "nutty",
-      "fluffy",
-      "bananapate",
-      "fry"
+      "fluffy"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "western",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
