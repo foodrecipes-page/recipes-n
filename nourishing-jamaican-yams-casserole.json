@@ -1,0 +1,98 @@
+{
+  "slug": "nourishing-jamaican-yams-casserole",
+  "title": "Classic Jamaican Yam Casserole",
+  "description": "A hearty, comforting Jamaican-inspired casserole featuring yams, perfect for a warm and satisfying meal. This recipe is a twist on a traditional casserole, with a boost of Caribbean flavor.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yams",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and dice the yams into 1-inch cubes.",
+    "Melt butter in a large skillet over medium heat. Add onion and garlic; cook until softened, about 5 minutes.",
+    "Stir in flour; cook for 1 minute.",
+    "Slowly add milk, whisking continuously; bring to a simmer.",
+    "Reduce heat to low and add cheddar cheese; stir until melted and smooth.",
+    "Add cumin, nutmeg, and salt to taste. Stir to combine.",
+    "In a separate bowl, combine the cooked yams and cheese sauce. Mix well.",
+    "Transfer the yam mixture to a 9x13-inch baking dish.",
+    "Bake for 25-30 minutes or until the casserole is golden brown and the yams are tender.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "yam",
+    "casserole",
+    "comfort-food",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-jamaican-yams-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:06:50.378Z"
+}
