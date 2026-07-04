@@ -1031,17 +1031,14 @@
   },
   {
     "slug": "naturally-sweet-brazilian-feta-pudding",
-    "title": "Naturally Sweet Brazilian Feta Pudding",
+    "title": "Brazilian Pudding Parfait",
     "tags": [
-      "brazilian-desserts",
-      "feta-cheese",
-      "glassy-jelly",
-      "lacto-vegetarian",
-      "naturally-sweet",
-      "yeast-based"
+      "dessert",
+      "parfait",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
@@ -6269,17 +6266,16 @@
   },
   {
     "slug": "nourishing-jamaican-yams-casserole",
-    "title": "Nourishing Jamaican Yams Casserole",
+    "title": "Classic Jamaican Yam Casserole",
     "tags": [
-      "coconut-milk",
-      "gluten-free",
-      "jamaican-cuisine",
-      "spicy-food",
-      "vegetarian",
-      "yam-recipes"
+      "jamaican",
+      "yam",
+      "casserole",
+      "comfort-food",
+      "caribbean"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 60,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
