@@ -1,0 +1,91 @@
+{
+  "slug": "nourishing-malaysian-tofu-fried-rice",
+  "title": "Nourishing Malaysian Fried Rice",
+  "description": "A simple, comforting dish packed with protein and fiber. This recipe is inspired by Southeast Asian flavors.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups cooked",
+      "notes": "preferably leftover or day-old"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large skillet over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes. Remove from skillet and set aside.",
+    "Add the remaining 1 tbsp of vegetable oil to the skillet.",
+    "Add the chopped onion and cook until translucent, about 2-3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir in the soy sauce, sesame oil, salt, and pepper.",
+    "Add the cooked tofu back into the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the rice is well coated with the flavors.",
+    "Serve hot and garnish with chopped scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "fried-rice",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-malaysian-tofu-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:56:47.870Z"
+}
