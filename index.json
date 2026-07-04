@@ -2451,18 +2451,15 @@
   },
   {
     "slug": "nimble-crisp-mediterranean-seafood-toast",
-    "title": "Nimble Crisp Mediterranean Seafood Toast",
+    "title": "Mediterranean Seafood Toast",
     "tags": [
-      "crispy",
-      "lazy-susan",
-      "low-calorie",
       "mediterranean",
-      "one-pan",
       "seafood",
-      "wine-infused"
+      "toast",
+      "breakfast"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
@@ -3052,17 +3049,15 @@
   },
   {
     "slug": "no-heat-balanced-argentinian-fish-stone-bowl",
-    "title": "Spicy Argentinian Fish Stone Bowl",
+    "title": "Grilled Fish with Stone Bowl",
     "tags": [
       "argentinian",
-      "gluten-free",
-      "high-protein",
-      "pescatarian",
-      "spicy",
-      "stone-bowl"
+      "fish",
+      "grilled",
+      "stone bowl"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 27,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
@@ -15768,16 +15763,16 @@
   },
   {
     "slug": "nutty-peruvian-quinoa-bowl",
-    "title": "Nutty Peruvian Quinoa Bowl",
+    "title": "Peruvian Quinoa Bowl with Nutty Crunch",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
+      "peruvian",
+      "quinoa",
       "vegan",
-      "weeknight"
+      "gluten-free",
+      "lunch"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 40,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
