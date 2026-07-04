@@ -1,0 +1,58 @@
+{
+  "slug": "nourishing-australian-flour-wrap",
+  "title": "Australian Wrap",
+  "description": "A flavorful Australian-inspired wrap filled with savory ingredients. Perfect for a quick and easy meal.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wrap",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Australian flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "nourishing",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the flour, salt, and sugar.",
+    "Gradually add in the nourishing, mixing until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Divide the dough into 4 equal pieces and roll out each piece into a thin circle.",
+    "Cook the wraps for 1-2 minutes on each side, until lightly browned and crispy.",
+    "Serve the wraps warm with your favorite fillings.",
+    "Fill the wraps with any combination of ingredients you like, such as grilled meats, vegetables, and cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "wrap",
+    "nourishing"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-australian-flour-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:59:58.157Z"
+}
