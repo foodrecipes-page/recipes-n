@@ -2783,16 +2783,16 @@
   },
   {
     "slug": "nimble-peruvian-chicken-broth",
-    "title": "Nimble Peruvian Chicken Broth",
+    "title": "Peruvian Chicken Soup",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
       "peruvian",
-      "quick"
+      "chicken",
+      "soup",
+      "paleo",
+      "gluten-free"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -6924,14 +6924,12 @@
   },
   {
     "slug": "nourishing-middle-eastern-lamb-kebabs",
-    "title": "Nourishing Middle Eastern Lamb Kebabs",
+    "title": "Lamb Kebabs with Tzatziki Sauce",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
+      "lamb",
+      "kebabs",
       "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "grilled"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 30,
@@ -7845,17 +7843,14 @@
   },
   {
     "slug": "nourishing-slovakian-clams-pilaf",
-    "title": "Nourishing Slovakian Clams Pilaf",
+    "title": "Slovakian Clam Pilaf",
     "tags": [
-      "gluten-free",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
+      "slovakian",
       "seafood",
-      "weeknight"
+      "pilaf"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
