@@ -1,0 +1,73 @@
+{
+  "slug": "no-heat-balanced-argentinian-fish-stone-bowl",
+  "title": "Grilled Fish with Stone Bowl",
+  "description": "A simple and delicious Argentinian-inspired dish featuring grilled fish served with a stone bowl. The balanced flavors and perfectly cooked fish make this a great meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "balanced"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet (Salmon)",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Bowl (stone or ceramic)",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat your grill to medium-high heat.",
+    "2. Season the fish fillets with salt and pepper.",
+    "3. Brush the grill with olive oil to prevent sticking.",
+    "4. Grill the fish for 4-5 minutes per side, or until cooked through.",
+    "5. While the fish is cooking, prepare the stone bowl by heating it in the oven at 350°F (175°C) for 10 minutes.",
+    "6. Remove the bowl from the oven and add a squeeze of lemon juice.",
+    "7. Serve the grilled fish in the stone bowl and garnish with garlic.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "fish",
+    "grilled",
+    "stone bowl"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/no-heat-balanced-argentinian-fish-stone-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:37:23.129Z"
+}
