@@ -1,0 +1,66 @@
+{
+  "slug": "nutty-chewy-canadian-brisket-pulled",
+  "title": "Canadian Brisket Sandwich",
+  "description": "A hearty, slow-cooked brisket served on a bun with a tangy BBQ sauce.",
+  "cuisine": "Canadian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brisket",
+      "amount": "1 pound",
+      "notes": "Flat cut"
+    },
+    {
+      "name": "Nutty BBQ Sauce",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Chewy Buns",
+      "amount": "4",
+      "notes": "Soft and fresh"
+    },
+    {
+      "name": "Canadian Cheddar Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the brisket with salt, pepper, and your favorite spices.",
+    "Heat a large Dutch oven over medium-high heat. Sear the brisket until browned on both sides.",
+    "Transfer the brisket to the oven and cook for 2 1/2 hours, or until tender.",
+    "Remove the brisket from the oven and let it rest for 10 minutes.",
+    "Slice the brisket against the grain into thin strips.",
+    "Heat the BBQ sauce in a saucepan over medium heat.",
+    "Add the sliced brisket to the BBQ sauce and toss to coat.",
+    "Split the buns in half and toast until lightly browned.",
+    "Assemble the sandwiches by placing the brisket mixture onto the buns.",
+    "Top with cheese, if using, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "brisket",
+    "bbq",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-chewy-canadian-brisket-pulled",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:27:32.632Z"
+}
