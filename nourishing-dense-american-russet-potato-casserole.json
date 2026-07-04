@@ -1,0 +1,86 @@
+{
+  "slug": "nourishing-dense-american-russet-potato-casserole",
+  "title": "Classic American Potato Casserole",
+  "description": "A comforting, rich casserole made with mashed russet potatoes and topped with a crispy, golden-brown crust.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": "for thickening milk"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Boil the russet potatoes until tender.",
+    "Mash the cooked potatoes with butter, milk, and a pinch of salt and pepper.",
+    "In a separate bowl, mix sour cream and shredded cheddar cheese.",
+    "Combine the mashed potatoes and sour cream mixture.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "In a small bowl, mix flour and a pinch of salt.",
+    "Add the flour mixture to the milk and stir until smooth.",
+    "Pour the milk mixture over the potato mixture in the baking dish.",
+    "Top with additional shredded cheddar cheese if desired.",
+    "Bake for 25-30 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "potato",
+    "comfort-food",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-dense-american-russet-potato-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:08:53.713Z"
+}
