@@ -1,0 +1,58 @@
+{
+  "slug": "nutty-smoky-fujian-pork-noodles",
+  "title": "Smoky Pork Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry made with smoky pork and fujian noodles. Serve hot and enjoy!",
+  "cuisine": "Chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoky pork",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "fujian noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced pork and cook until browned, about 3-4 minutes.",
+    "Add the chopped nutty and stir-fry for 1 minute.",
+    "Add the fujian noodles and stir-fry for 2-3 minutes, until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "pork",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-smoky-fujian-pork-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:38:03.281Z"
+}
