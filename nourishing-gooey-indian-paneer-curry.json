@@ -1,0 +1,84 @@
+{
+  "slug": "nourishing-gooey-indian-paneer-curry",
+  "title": "Paneer Curry",
+  "description": "A flavorful and creamy Indian dish made with paneer cheese and a mix of spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin and let it sizzle for a few seconds.",
+    "Add onion, garlic, and ginger, and sauté until the onion is translucent.",
+    "Add curry powder, garam masala, and salt. Mix well.",
+    "Add tomato puree and mix well.",
+    "Add paneer cheese and mix well.",
+    "Pour in coconut milk and let it simmer for 5-7 minutes.",
+    "Stir occasionally and adjust seasoning as needed.",
+    "Serve hot garnished with cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paneer",
+    "curry",
+    "indian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 24,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-gooey-indian-paneer-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:15:13.385Z"
+}
