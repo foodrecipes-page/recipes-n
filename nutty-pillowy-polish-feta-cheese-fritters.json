@@ -1,0 +1,64 @@
+{
+  "slug": "nutty-pillowy-polish-feta-cheese-fritters",
+  "title": "Polish Feta Fritters",
+  "description": "A crispy and savory fritter filled with Polish flavors and topped with feta. The perfect snack or light meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "polish",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "feta",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "fritters",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oil to 350°F (175°C).",
+    "In a bowl, mix together polish and feta.",
+    "Add chopped nutty to the bowl and mix well.",
+    "Open fritter package and separate the fritters.",
+    "Dip each fritter into the polish and feta mixture.",
+    "Place the fritters in the hot oil and cook for 2-3 minutes.",
+    "Flip the fritters and cook for an additional 2 minutes.",
+    "Remove the fritters from the oil and place on paper towels.",
+    "Serve the fritters hot and enjoy!",
+    "Optional: Serve with a side of cheese for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "feta",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-pillowy-polish-feta-cheese-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T01:08:37.693Z"
+}
