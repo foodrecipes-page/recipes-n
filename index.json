@@ -14680,17 +14680,15 @@
   },
   {
     "slug": "nutty-indulgent-mexican-pork-cochinita-pibil",
-    "title": "Nutty Indulgent Mexican Pork Cochinita Pibil",
+    "title": "Cochinita Pibil",
     "tags": [
-      "air-fryer",
-      "cochinita-pibil",
-      "desiccated-coconut",
-      "macrobiotic",
-      "mexican-food",
-      "pork-recipes"
+      "mexican",
+      "pork",
+      "cochinita",
+      "pibil"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 70,
+    "totalTimeMin": 210,
     "shard": "n"
   },
   {
