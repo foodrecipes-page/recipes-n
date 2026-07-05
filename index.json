@@ -1434,14 +1434,15 @@
   },
   {
     "slug": "new-potato-nutty-delight",
-    "title": "New Potato Nutty Delight",
+    "title": "Delightful New Potato Delight",
     "tags": [
       "new potatoes",
-      "nutty",
-      "velvety",
-      "plant-based"
+      "side dish",
+      "snack",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Russian",
+    "cuisine": "western",
     "totalTimeMin": 55,
     "shard": "n"
   },
@@ -2733,15 +2734,15 @@
   },
   {
     "slug": "nimble-middle-eastern-fennel-warak-enab",
-    "title": "Nimble Middle-Eastern Fennel Warak Enab",
+    "title": "Warak Enab Fritters",
     "tags": [
-      "flexitarian",
       "middle-eastern",
-      "one-pan",
-      "yeast-bread"
+      "fritters",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 60,
+    "totalTimeMin": 23,
     "shard": "n"
   },
   {
@@ -10104,17 +10105,15 @@
   },
   {
     "slug": "nutritious-american-seitan-burger",
-    "title": "Nutritious American Seitan Burger",
+    "title": "American Seitan Burger",
     "tags": [
-      "american",
-      "easy-dinner",
-      "high-protein",
-      "post-workout",
-      "vegan",
-      "weeknight"
+      "healthy",
+      "american-food",
+      "burgers",
+      "seitan"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 18,
     "shard": "n"
   },
   {
@@ -14512,15 +14511,15 @@
   },
   {
     "slug": "nutty-gooey-moroccan-cashew-stir-fry",
-    "title": "Nutty Gooey Moroccan Cashew Stir-fry",
+    "title": "Moroccan Cashew Stir Fry",
     "tags": [
-      "nutty",
-      "gooey",
       "moroccan",
-      "turmeric"
+      "cashew-nuts",
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
