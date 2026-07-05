@@ -1,0 +1,89 @@
+{
+  "slug": "nutty-smoky-indian-chicken-curry",
+  "title": "Smoky Chicken Curry",
+  "description": "A flavorful and aromatic Indian-inspired dish featuring smoky chicken in a rich, nutty curry sauce. Serve over steamed basmati rice or with naan bread.",
+  "cuisine": "Indian",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "nutty curry paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garden tomatoes",
+      "amount": "2 cups",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of coconut oil to the skillet.",
+    "Add the chopped onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the nutty curry paste, smoky paprika, curry powder, and garam masala to the skillet.",
+    "Cook for 1-2 minutes, stirring constantly, until the spices are fragrant.",
+    "Add the chopped garden tomatoes to the skillet and cook until they start to break down, about 3-4 minutes.",
+    "Return the chicken to the skillet and stir to coat with the curry sauce.",
+    "Reduce heat to low and simmer, uncovered, for 10-15 minutes or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over steamed basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "curry",
+    "smoky",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-smoky-indian-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:12:26.703Z"
+}
