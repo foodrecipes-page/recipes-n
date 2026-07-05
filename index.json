@@ -2238,17 +2238,15 @@
   },
   {
     "slug": "nighttime-craving-mediterranean-duck-legs-nigiri",
-    "title": "nighttime craving mediterranean duck legs nigiri",
+    "title": "Pan-Seared Duck Legs with Mediterranean Flair",
     "tags": [
-      "easy-snack",
-      "high-protein",
-      "low-calorie",
+      "duck",
       "mediterranean",
-      "one-pan",
-      "sushi"
+      "gluten-free",
+      "paleo"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 75,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -2296,17 +2294,15 @@
   },
   {
     "slug": "nighttime-roasted-tunisian-chestnuts-tagine",
-    "title": "Nighttime Roasted Tunisian Chestnuts Tagine",
+    "title": "Tunisian-Style Roasted Chestnut Tagine",
     "tags": [
-      "date-night",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "special-occasion",
-      "wintertime"
+      "winter-dinner",
+      "vegetarian-tagine",
+      "chestnut-recipe",
+      "tunisian-cuisine"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 55,
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -2610,17 +2606,15 @@
   },
   {
     "slug": "nimble-grilled-kenyan-beetroot-biryani",
-    "title": "Nimble Grilled Kenyan Beetroot Biryani",
+    "title": "Grilled Kenyan Nimble Biryani",
     "tags": [
-      "beetroot",
-      "brunch",
       "kenyan",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "indian",
+      "vegetarian",
+      "easy"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 75,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -4959,16 +4953,14 @@
   },
   {
     "slug": "nourishing-crisp-indian-lamb-vada-pav",
-    "title": "Nourishing Crisp Indian Lamb Vada Pav",
+    "title": "Lamb Vada Pav",
     "tags": [
-      "easy-meals",
-      "gluten-free",
-      "indian-street-food",
-      "lamb-recipes",
-      "nut-free",
-      "snack-ideas"
+      "indian",
+      "snack",
+      "lamb",
+      "vada-pav"
     ],
-    "cuisine": "Indian",
+    "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "n"
   },
@@ -14135,13 +14127,15 @@
   },
   {
     "slug": "nutty-fluffy-dutch-beef-stir-fry",
-    "title": "Nutty Fluffy Dutch Beef Stir-fry",
+    "title": "Beef and Stir Fry",
     "tags": [
-      "nutty-fluffy-dutch-beef-stir-fry",
-      "low-calorie-friendly"
+      "beef",
+      "stir-fry",
+      "dinner",
+      "easy"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -16569,17 +16563,16 @@
   },
   {
     "slug": "nutty-smoky-indian-chicken-curry",
-    "title": "Nutty Smoky Indian Chicken Curry",
+    "title": "Smoky Chicken Curry",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "indian-cuisine",
-      "one-pot",
-      "smoky-flavors",
-      "weeknight-dinner"
+      "chicken",
+      "indian",
+      "curry",
+      "smoky",
+      "nutty"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
