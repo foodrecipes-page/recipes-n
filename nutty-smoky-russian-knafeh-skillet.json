@@ -1,0 +1,74 @@
+{
+  "slug": "nutty-smoky-russian-knafeh-skillet",
+  "title": "Smoky Knafeh Skillet",
+  "description": "A twist on traditional breakfast dishes, this recipe combines the flavors of smoky cheese with crispy kneafeh in a skillet. Serve warm and enjoy!",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "knafeh",
+      "amount": "1 package (about 12 sheets)",
+      "notes": null
+    },
+    {
+      "name": "smoky cheese",
+      "amount": "8 oz (225g)",
+      "notes": "Shredded or crumbled"
+    },
+    {
+      "name": "nutty butter",
+      "amount": "2 tbsp (30g)",
+      "notes": "Optional"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "Any type of skillet will do"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Crack the eggs into a bowl and beat them together. Add a pinch of salt to taste.",
+    "2. Heat the skillet over medium heat and add the nutty butter if using.",
+    "3. Add the kneafeh sheets to the skillet and cook for 2-3 minutes on each side, until crispy.",
+    "4. Remove the kneafeh from the skillet and set aside.",
+    "5. Add the shredded cheese to the skillet and stir until melted and smooth.",
+    "6. Pour the beaten eggs over the cheese in the skillet.",
+    "7. Add the cooked kneafeh back into the skillet and stir until the eggs are cooked through.",
+    "8. Serve the smoky kneafeh skillet warm, garnished with additional cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "skillet",
+    "eggs",
+    "cheese",
+    "knafeh"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-smoky-russian-knafeh-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T01:33:55.934Z"
+}
