@@ -1,0 +1,74 @@
+{
+  "slug": "nutty-new-japanese-pappardelle-zenzai-style-pappardelle",
+  "title": "Nutty Pappardelle with Zenzai Sauce",
+  "description": "A Japanese-inspired pasta dish featuring nutty flavors and a sweet zenzai sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pappardelle",
+      "amount": "8 oz",
+      "notes": "wide, flat pasta"
+    },
+    {
+      "name": "Zenzai Sauce",
+      "amount": "1 cup",
+      "notes": "sweet soybean sauce"
+    },
+    {
+      "name": "Toasted Almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped, toasted"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle according to the package instructions.",
+    "In a small saucepan, heat the sesame oil over medium heat.",
+    "Add the zenzai sauce and soy sauce to the saucepan and stir to combine.",
+    "Simmer the sauce for 2-3 minutes, stirring occasionally.",
+    "While the sauce is simmering, toast the almonds in a small skillet over medium heat, stirring frequently.",
+    "Add the toasted almonds to the saucepan and stir to combine.",
+    "Once the pappardelle is cooked, drain it and return it to the pot.",
+    "Add the zenzai sauce mixture to the pappardelle and toss to combine.",
+    "Season with salt to taste.",
+    "Serve the pappardelle hot, garnished with sesame seeds and chopped green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "japanese",
+    "vegetarian",
+    "nutty"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-new-japanese-pappardelle-zenzai-style-pappardelle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:57:28.001Z"
+}
