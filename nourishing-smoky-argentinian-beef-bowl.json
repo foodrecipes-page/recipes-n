@@ -1,0 +1,73 @@
+{
+  "slug": "nourishing-smoky-argentinian-beef-bowl",
+  "title": "Argentinian Beef Bowl",
+  "description": "Tender beef, smoky flavors and nourishing goodness in every bite. Perfect for a hearty meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flank steak",
+      "amount": "1 pound",
+      "notes": "Tender cut of beef"
+    },
+    {
+      "name": "Smoky chipotle peppers",
+      "amount": "2",
+      "notes": "Smoky heat"
+    },
+    {
+      "name": "Argentinian chimichurri",
+      "amount": "1/2 cup",
+      "notes": "Herby, tangy sauce"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Sweet and crunchy"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh and herbaceous"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "Season to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the flank steak with salt and pepper.",
+    "Grill the steak for 5-6 minutes per side, or until it reaches an internal temperature of 135°F.",
+    "Let the steak rest for 5 minutes before slicing it thinly.",
+    "In a small bowl, mix together the smoky chipotle peppers and Argentinian chimichurri.",
+    "Slice the red onion and add it to the bowl with the peppers and chimichurri.",
+    "Stir in the fresh cilantro and season with salt and pepper to taste.",
+    "Serve the sliced steak on top of the smoky onion mixture in a bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "grilled",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-argentinian-beef-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:32:18.414Z"
+}
