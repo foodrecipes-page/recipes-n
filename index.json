@@ -5465,16 +5465,16 @@
   },
   {
     "slug": "nourishing-dense-syrian-fennel-pilaf",
-    "title": "Nourishing Dense Syrian Fennel Pilaf",
+    "title": "Hearty Syrian Pilaf",
     "tags": [
       "comfort-food",
-      "fennel-recipes",
-      "one-pan",
-      "rice-bowls",
-      "syrian-cuisine"
+      "syrian-cuisine",
+      "pilaf",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -6644,16 +6644,15 @@
   },
   {
     "slug": "nourishing-light-polish-blackeye-pea-pilaf",
-    "title": "Nourishing Light Polish Blackeye Pea Pilaf",
+    "title": "Polish Blackeye Pea Pilaf",
     "tags": [
-      "healthy-dinner",
-      "high-protein",
-      "one-pot",
-      "vegetarian-friendly",
-      "weeknight-meal"
+      "blackeye-peas",
+      "polish-sausage",
+      "pilaf",
+      "eastern-european"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 60,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -9180,17 +9179,16 @@
   },
   {
     "slug": "nourishing-warm-algerian-lamb-tagine",
-    "title": "Nourishing Warm Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "comfort-food",
-      "lamb-recipes",
-      "low-glycemic",
-      "one-pot",
-      "wine-based"
+      "north-african",
+      "lamb",
+      "tagine",
+      "hearty",
+      "flavorful"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 120,
+    "totalTimeMin": 150,
     "shard": "n"
   },
   {
@@ -10918,16 +10916,15 @@
   },
   {
     "slug": "nutritious-no-bake-korean-creme-patissiere-jjigae",
-    "title": "Nutritious No-Bake Korean Creme-Patissiere Jjigae",
+    "title": "Patissiere's Korean Jjigae",
     "tags": [
-      "dessert-free",
       "korean",
-      "no-bake",
-      "no-onion-garlic",
-      "vegan"
+      "fusion",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
