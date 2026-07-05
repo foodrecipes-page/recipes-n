@@ -1,0 +1,82 @@
+{
+  "slug": "nutritious-american-seitan-burger",
+  "title": "American Seitan Burger",
+  "description": "A classic American-style burger made with seitan instead of beef, topped with lettuce, tomato, and cheese.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Seitan Burger Patty",
+      "amount": "1 patty",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "American Cheese",
+      "amount": "2 slices",
+      "notes": "or your preferred cheese"
+    },
+    {
+      "name": "Buns",
+      "amount": "2",
+      "notes": "toasted"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 slice",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or grill pan over medium-high heat.",
+    "Cook the seitan burger patty for about 4-5 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "Meanwhile, toast the buns by grilling or toasting them in a toaster.",
+    "Assemble the burger by spreading ketchup and mayonnaise on the bottom bun, followed by a lettuce leaf, a tomato slice, a seitan burger patty, and finally the top bun.",
+    "Add cheese slices on top of the patty if desired.",
+    "Add sliced onion on top if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "american-food",
+    "burgers",
+    "seitan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-american-seitan-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:49:45.570Z"
+}
