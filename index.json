@@ -16495,17 +16495,14 @@
   },
   {
     "slug": "nutty-smoked-malaysian-chicken-skewers",
-    "title": "Nutty Smoked Malaysian Chicken Skewers",
+    "title": "Smoked Chicken Skewers",
     "tags": [
-      "diabetic-friendly",
-      "grilled",
-      "high-protein",
-      "malaysian-cuisine",
-      "one-pan",
-      "weeknight"
+      "smoked",
+      "chicken",
+      "skewers"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 32,
+    "cuisine": "malaysian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -16640,17 +16637,16 @@
   },
   {
     "slug": "nutty-smoky-russian-knafeh-skillet",
-    "title": "Nutty Smoky Russian Knafeh Skillet",
+    "title": "Smoky Knafeh Skillet",
     "tags": [
-      "crunchy",
-      "nutty",
-      "one-pan",
-      "russian-cuisine",
-      "smoky",
-      "whole30"
+      "breakfast",
+      "skillet",
+      "eggs",
+      "cheese",
+      "knafeh"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
