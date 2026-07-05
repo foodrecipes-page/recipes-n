@@ -1,0 +1,82 @@
+{
+  "slug": "nutty-molten-vietnamese-chicken-bun-cha",
+  "title": "Vietnamese Chicken Cha Buns",
+  "description": "Delicious Vietnamese-style buns filled with flavorful chicken cha. A perfect snack or light meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bun",
+      "amount": "4",
+      "notes": "soft, fluffy Vietnamese buns"
+    },
+    {
+      "name": "Chicken",
+      "amount": "1 pound",
+      "notes": "boneless, skinless chicken breast"
+    },
+    {
+      "name": "Cha",
+      "amount": "2 tablespoons",
+      "notes": "Vietnamese-style ground pork mix"
+    },
+    {
+      "name": "Vietnamese",
+      "amount": "2 tablespoons",
+      "notes": "Vietnamese fish sauce"
+    },
+    {
+      "name": "Molten",
+      "amount": "2 tablespoons",
+      "notes": "molten soy sauce"
+    },
+    {
+      "name": "Nutty",
+      "amount": "1 tablespoon",
+      "notes": "toasted peanuts"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Add cha and cook, breaking up with a spoon, until browned and crispy.",
+    "Add chicken and cook until browned and cooked through.",
+    "Add bun, Vietnamese fish sauce, and molten soy sauce. Cook until bun is toasted.",
+    "Add nutty peanuts and season with salt and pepper to taste.",
+    "Fill buns with chicken cha mixture and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "snack",
+    "cha",
+    "bun"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-molten-vietnamese-chicken-bun-cha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:13:43.580Z"
+}
