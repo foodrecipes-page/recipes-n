@@ -1,0 +1,85 @@
+{
+  "slug": "nostalgic-crumbly-marzipan-crumble",
+  "title": "Classic Apple Crumble",
+  "description": "A traditional dessert with tender apples topped with a crunchy oat and butter crumble.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "6",
+      "notes": "Granny Smith or other sweet-tart varieties"
+    },
+    {
+      "name": "Oats",
+      "amount": "1 cup",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Marzipan",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the apples.",
+    "Mix the sliced apples with cinnamon and nutmeg in a 9x9-inch baking dish.",
+    "Make the crumble topping by combining oats, flour, and brown sugar in a bowl.",
+    "Add cold butter to the dry ingredients and use your fingers or a pastry blender to work the butter into a crumbly mixture.",
+    "Stir in crumbled marzipan.",
+    "Spread the crumble topping evenly over the apple mixture.",
+    "Bake for 40-45 minutes, or until the topping is golden brown and the apples are tender.",
+    "Let cool for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "apple",
+    "crumble",
+    "british",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-crumbly-marzipan-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:45:26.296Z"
+}
