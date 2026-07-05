@@ -1,0 +1,92 @@
+{
+  "slug": "nostalgic-fermented-lard-stir-fry",
+  "title": "Southern Fried Chicken Biscuits",
+  "description": "A classic comfort food dish featuring crispy fried chicken, flaky biscuits, and a side of nostalgic charm. Perfect for a Southern-style brunch.",
+  "cuisine": "American",
+  "diet": [
+    "comfort-food"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "4 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cold lard",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flour for dredging",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together flour, baking powder, and salt.",
+    "Cut in lard with a pastry blender or fingers until mixture resembles coarse crumbs.",
+    "Pour in buttermilk and stir until dough comes together in a shaggy mass.",
+    "Turn dough out onto a floured surface and knead gently until it comes together.",
+    "Roll dough out to about 1 inch (2.5 cm) thickness.",
+    "Cut into biscuits using a biscuit cutter or the rim of a glass.",
+    "Place biscuits on a baking sheet lined with parchment paper.",
+    "Bake biscuits in preheated oven for 15-20 minutes, or until golden brown.",
+    "While biscuits are baking, prepare chicken by drying with paper towels and seasoning with salt, pepper, and hot sauce.",
+    "In a shallow dish, mix together flour, paprika, garlic powder, and onion powder.",
+    "Dredge chicken in flour mixture, shaking off excess.",
+    "Dip floured chicken in beaten eggs and then coat in flour mixture again.",
+    "Heat about 1/2 inch (1 cm) of lard in a large skillet over medium-high heat.",
+    "Add chicken to skillet and cook until golden brown and cooked through, about 5-7 minutes per side.",
+    "Serve fried chicken with warm biscuits and a side of nostalgia.",
+    "Enjoy your Southern-style brunch!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fried-chicken",
+    "biscuits",
+    "comfort-food",
+    "southern-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-fermented-lard-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:17:18.042Z"
+}
