@@ -1,0 +1,62 @@
+{
+  "slug": "new-potato-nutty-delight",
+  "title": "Delightful New Potato Delight",
+  "description": "A simple and flavorful side dish that brings out the natural sweetness of new potatoes. Perfect for a quick snack or as a side for any meal.",
+  "cuisine": "western",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "New Potatoes",
+      "amount": "4-6",
+      "notes": "about 1 inch in diameter"
+    },
+    {
+      "name": "Nutty Delight",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wash and dry the new potatoes thoroughly.",
+    "Poke some holes in each potato with a fork.",
+    "Rub the potatoes with a little bit of oil and sprinkle with salt.",
+    "Place the potatoes on a baking sheet.",
+    "Bake for 45-60 minutes, or until the potatoes are tender when pierced with a fork.",
+    "While the potatoes are baking, heat a skillet over medium heat.",
+    "Add the chopped Nutty Delight to the skillet and toast until fragrant.",
+    "Once the potatoes are done, remove them from the oven and let them cool for a few minutes.",
+    "Slice the potatoes in half lengthwise and serve with the toasted Nutty Delight."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "new potatoes",
+    "side dish",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/new-potato-nutty-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:52:38.499Z"
+}
