@@ -1,0 +1,88 @@
+{
+  "slug": "nourishing-sour-syrian-galangal-stew",
+  "title": "Galangal Stew",
+  "description": "A hearty and flavorful Syrian-inspired stew with the warmth of galangal. This nourishing dish is perfect for a cold evening.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the galangal and onion and cook until softened, about 5 minutes.",
+    "Add the carrots and potatoes and cook for another 5 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Pour in the beef broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Stir in the sour cream and season with salt and pepper.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "stew",
+    "soup",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-sour-syrian-galangal-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:59:15.102Z"
+}
