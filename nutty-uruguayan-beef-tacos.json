@@ -1,0 +1,83 @@
+{
+  "slug": "nutty-uruguayan-beef-tacos",
+  "title": "Uruguayan-Style Beef Tacos",
+  "description": "A flavorful and tender beef dish inspired by Uruguayan cuisine, served in crispy tacos.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "450g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Nutty Uruguayan Seasoning",
+      "amount": "2 tbsp",
+      "notes": "Blend of thyme, oregano, and rosemary"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tacos",
+      "amount": "8-10",
+      "notes": "Corn or flour"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the ground beef with Nutty Uruguayan Seasoning, salt, and black pepper.",
+    "Cook the beef in the grill, breaking it up into small pieces as it cooks, until it reaches an internal temperature of 160°F (71°C).",
+    "Transfer the cooked beef to a bowl and stir in diced onion and minced garlic.",
+    "Warm the tacos according to package instructions.",
+    "Assemble the tacos by spooning the beef mixture onto a warmed taco and squeezing a sliver of lime juice on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "tacos",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-uruguayan-beef-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:36:13.081Z"
+}
