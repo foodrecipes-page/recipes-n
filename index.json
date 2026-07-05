@@ -251,17 +251,18 @@
   },
   {
     "slug": "naturally-crisp-turkish-beef-doner-kebab",
-    "title": "Naturally Crisp Turkish Beef Doner Kebab",
+    "title": "Turkish-Style Beef Doner Kebab",
     "tags": [
-      "beef-recipes",
-      "gluten-free",
-      "kebab-recipes",
-      "middle-eastern",
-      "sugar-free",
-      "turkish-food"
+      "turkish",
+      "doner",
+      "kebab",
+      "beef",
+      "meat",
+      "pita",
+      "salad"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -1219,17 +1220,15 @@
   },
   {
     "slug": "naughty-nuka-pickle-slovakian-sausages-bake",
-    "title": "naughty nuka-pickle slovakian sausages bake",
+    "title": "Slovakian Sausage and Pickle Bake",
     "tags": [
-      "cheesy",
-      "dinner",
-      "high-protein",
-      "one-pan",
       "slovakian",
-      "weeknight"
+      "sausages",
+      "pickles",
+      "bake"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 40,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -3815,16 +3814,14 @@
   },
   {
     "slug": "nostalgic-nutty-syrian-lamb-kebabs",
-    "title": "Nostalgic Nutty Syrian Lamb Kebabs",
+    "title": "Syrian Lamb Kebabs",
     "tags": [
-      "fruity",
-      "grilled",
-      "high-protein",
-      "middle-eastern",
-      "nutty",
-      "spicy"
+      "syrian",
+      "lamb",
+      "kebabs",
+      "middle-eastern"
     ],
-    "cuisine": "Syrian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
     "shard": "n"
   },
@@ -10319,16 +10316,15 @@
   },
   {
     "slug": "nutritious-earthy-peruvian-duck-arroz-con-pato",
-    "title": "Nutritious Earthy Peruvian Duck Arroz Con Pato",
+    "title": "Pato a la Brasa with Arroz con Vegetales",
     "tags": [
-      "dairy-free",
-      "duck-recipes",
-      "gluten-free",
-      "one-pot-meals",
-      "peruvian-cuisine"
+      "peruvian",
+      "lunch",
+      "duck",
+      "rice"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "cuisine": "peruvian",
+    "totalTimeMin": 80,
     "shard": "n"
   },
   {
