@@ -1,0 +1,85 @@
+{
+  "slug": "nutritious-no-bake-korean-creme-patissiere-jjigae",
+  "title": "Patissiere's Korean Jjigae",
+  "description": "A unique fusion of Korean jjigae and French patissiere techniques, resulting in a rich and flavorful stew.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Baked tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Doenjang (Korean fermented soybean paste)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Bake the tofu for 15-20 minutes, or until golden brown.",
+    "In a large pan, heat 2 tablespoons of oil over medium heat.",
+    "Add the minced garlic and grated ginger, and cook for 1 minute.",
+    "Add the Korean chili flakes, soy sauce, sugar, doenjang, and gochujang, and cook for 2 minutes.",
+    "Add the baked tofu and cook for 2-3 minutes.",
+    "Add the spinach and cook until wilted.",
+    "Stir in the cream and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with green onions and toasted sesame seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "fusion",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-no-bake-korean-creme-patissiere-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T13:55:35.362Z"
+}
