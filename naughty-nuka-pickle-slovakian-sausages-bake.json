@@ -1,0 +1,76 @@
+{
+  "slug": "naughty-nuka-pickle-slovakian-sausages-bake",
+  "title": "Slovakian Sausage and Pickle Bake",
+  "description": "A hearty Slovakian-inspired dish featuring sausages and pickles baked to perfection.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian sausages",
+      "amount": "4",
+      "notes": "pork sausages"
+    },
+    {
+      "name": "Pickles",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bake",
+      "amount": "1",
+      "notes": "coarse breadcrumbs"
+    },
+    {
+      "name": "Naughty",
+      "amount": "1/4 cup",
+      "notes": "onion, finely chopped"
+    },
+    {
+      "name": "Nuka",
+      "amount": "1/4 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine flour, onion, and breadcrumbs.",
+    "Cut sausages in half lengthwise and place in the bowl.",
+    "Roll each sausage in the breadcrumb mixture to coat.",
+    "Heat olive oil in a large oven-safe skillet over medium-high heat.",
+    "Brown the sausages on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until cooked through.",
+    "While the sausages are baking, mix pickles and a pinch of salt in a bowl.",
+    "After the sausages have baked for 10 minutes, remove from the oven and top each sausage with a spoonful of pickle mixture.",
+    "Return to the oven and bake for an additional 5-10 minutes, or until the pickles are slightly caramelized.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "sausages",
+    "pickles",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naughty-nuka-pickle-slovakian-sausages-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:16:47.337Z"
+}
