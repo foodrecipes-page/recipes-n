@@ -1,0 +1,97 @@
+{
+  "slug": "nourishing-crisp-polish-beef-shin-stew",
+  "title": "Braised Shin Beef Stew",
+  "description": "A hearty and comforting beef stew made with slow-cooked shin beef and tender vegetables. Perfect for a cold winter's night.",
+  "cuisine": "Western",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef shin",
+      "amount": "1 kg",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the beef shin with salt and black pepper.",
+    "Heat a large Dutch oven over medium-high heat. Add a small amount of oil and sear the beef until browned on all sides.",
+    "Remove the beef from the pot and set aside.",
+    "Add the sliced onion to the pot and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced carrots and potatoes to the pot.",
+    "Add the browned beef back to the pot, along with the red wine and beef broth.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-crisp-polish-beef-shin-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:29:02.684Z"
+}
