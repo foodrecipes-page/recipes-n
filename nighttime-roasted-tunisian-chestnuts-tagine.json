@@ -1,0 +1,87 @@
+{
+  "slug": "nighttime-roasted-tunisian-chestnuts-tagine",
+  "title": "Tunisian-Style Roasted Chestnut Tagine",
+  "description": "A hearty and flavorful tagine dish made with roasted chestnuts, inspired by Tunisian cuisine. Perfect for a cool winter night.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 pound",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss chestnuts with olive oil, salt, and pepper. Spread on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "Heat oil in a large skillet over medium heat. Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add cumin, coriander, and cinnamon to the skillet and cook for 1 minute.",
+    "Add roasted chestnuts to the skillet and stir to combine with spice mixture.",
+    "Cook for an additional 2-3 minutes, stirring frequently.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "winter-dinner",
+    "vegetarian-tagine",
+    "chestnut-recipe",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nighttime-roasted-tunisian-chestnuts-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T22:17:36.142Z"
+}
