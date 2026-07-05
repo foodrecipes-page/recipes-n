@@ -5006,17 +5006,14 @@
   },
   {
     "slug": "nourishing-crisp-polish-beef-shin-stew",
-    "title": "Nourishing Crisp Polish Beef Shin Stew",
+    "title": "Braised Shin Beef Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "kid-friendly",
-      "low-calorie",
-      "one-pot",
-      "polish-cuisine"
+      "beef",
+      "stew",
+      "braised"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 210,
+    "cuisine": "Western",
+    "totalTimeMin": 170,
     "shard": "n"
   },
   {
@@ -17412,17 +17409,15 @@
   },
   {
     "slug": "nutty-uruguayan-beef-tacos",
-    "title": "Nutty Uruguayan Beef Tacos",
+    "title": "Uruguayan-Style Beef Tacos",
     "tags": [
-      "air-fryer-recipes",
-      "beef-recipes",
-      "halal-friendly",
-      "nutty-flavors",
-      "south-american-cuisine",
-      "unique-tacos"
+      "uruguayan",
+      "beef",
+      "tacos",
+      "grilled"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
