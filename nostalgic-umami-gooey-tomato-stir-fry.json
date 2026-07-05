@@ -1,0 +1,84 @@
+{
+  "slug": "nostalgic-umami-gooey-tomato-stir-fry",
+  "title": "Stir-Fried Nostalgic Mac and Cheese",
+  "description": "A comforting twist on a classic mac and cheese, incorporating nostalgic flavors and gooey textures. This dish combines the comfort of childhood with the savory umami of stir-fried ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tsp, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook macaroni according to package instructions.",
+    "In a saucepan, melt butter over medium heat.",
+    "Add flour and whisk to create a roux. Cook for 1-2 minutes.",
+    "Slowly pour in milk, whisking continuously. Bring to a simmer.",
+    "Remove from heat and stir in cheddar and mozzarella cheese until melted.",
+    "Stir in tomato sauce and cooked macaroni.",
+    "Transfer mixture to a baking dish and top with additional cheese.",
+    "Bake for 20-25 minutes, or until golden brown and gooey.",
+    "Sprinkle with parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "mac-and-cheese",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-umami-gooey-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:19:23.279Z"
+}
