@@ -4039,15 +4039,14 @@
   },
   {
     "slug": "nostalgic-umami-gooey-tomato-stir-fry",
-    "title": "Nostalgic Umami Gooey Tomato Stir-fry",
+    "title": "Stir-Fried Nostalgic Mac and Cheese",
     "tags": [
-      "nostalgic",
-      "umami",
-      "gooyetomato",
-      "nut-free"
+      "comfort-food",
+      "mac-and-cheese",
+      "cheesy"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -7639,16 +7638,14 @@
   },
   {
     "slug": "nourishing-silky-egyptian-oat-pilaf",
-    "title": "Nourishing Silky Egyptian Oat Pilaf",
+    "title": "Egyptian Oat Pilaf",
     "tags": [
-      "comfort-food",
-      "lacto-vegetarian",
+      "easy",
       "middle-eastern",
-      "oat-based",
-      "one-pot"
+      "gluten-free"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -14586,15 +14583,15 @@
   },
   {
     "slug": "nutty-gooey-venetian-pecorino-stir-fry",
-    "title": "Nutty Gooey Venetian Pecorino Stir-fry",
+    "title": "Pecorino Fritters with Honey Glaze",
     "tags": [
-      "nutty",
-      "gooey",
-      "venezuelan",
-      "low-fat-friendly"
+      "italian",
+      "dessert",
+      "honey",
+      "pecorino"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
