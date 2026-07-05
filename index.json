@@ -3497,16 +3497,15 @@
   },
   {
     "slug": "nostalgic-crumbly-marzipan-crumble",
-    "title": "Nostalgic Crumbly Marzipan Crumble",
+    "title": "Classic Apple Crumble",
     "tags": [
-      "nachos",
+      "apple",
       "crumble",
-      "marzipan",
-      "uruguayan",
+      "british",
       "dessert"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "cuisine": "British",
+    "totalTimeMin": 60,
     "shard": "n"
   },
   {
@@ -3525,15 +3524,15 @@
   },
   {
     "slug": "nostalgic-fermented-lard-stir-fry",
-    "title": "Nostalgic Fermented Lard Stir-fry",
+    "title": "Southern Fried Chicken Biscuits",
     "tags": [
-      "jamaican",
-      "snack",
-      "fermented-lard",
-      "egg-free"
+      "fried-chicken",
+      "biscuits",
+      "comfort-food",
+      "southern-cuisine"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 15,
+    "cuisine": "American",
+    "totalTimeMin": 70,
     "shard": "n"
   },
   {
@@ -8407,15 +8406,12 @@
   },
   {
     "slug": "nourishing-sour-syrian-galangal-stew",
-    "title": "Nourishing Sour Syrian Galangal Stew",
+    "title": "Galangal Stew",
     "tags": [
-      "galangal",
-      "hot-pot",
-      "lamb-shoulder",
-      "paleo",
-      "syrian-cuisine",
-      "whole30",
-      "yakimono-grill"
+      "syrian",
+      "stew",
+      "soup",
+      "comfort food"
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 50,
