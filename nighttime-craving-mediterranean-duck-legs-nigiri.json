@@ -1,0 +1,72 @@
+{
+  "slug": "nighttime-craving-mediterranean-duck-legs-nigiri",
+  "title": "Pan-Seared Duck Legs with Mediterranean Flair",
+  "description": "Satisfy your nighttime craving with this flavorful, pan-seared duck legs dish infused with the essence of the Mediterranean.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "2"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the duck legs and pat them dry with paper towels.",
+    "Season the duck legs with salt and pepper.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the duck legs for 2-3 minutes on each side, until browned.",
+    "Transfer the skillet to the preheated oven and roast for 15-20 minutes, until the duck is cooked through.",
+    "While the duck is cooking, mix the minced garlic, chopped rosemary, lemon juice, and honey in a small bowl.",
+    "Remove the skillet from the oven and brush the garlic-herb mixture over the duck legs.",
+    "Return the skillet to the oven and cook for an additional 2-3 minutes, until the glaze is caramelized.",
+    "Let the duck rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "duck",
+    "mediterranean",
+    "gluten-free",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 56,
+    "carbs": 20,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nighttime-craving-mediterranean-duck-legs-nigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T22:34:14.083Z"
+}
