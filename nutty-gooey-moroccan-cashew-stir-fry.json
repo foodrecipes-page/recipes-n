@@ -1,0 +1,87 @@
+{
+  "slug": "nutty-gooey-moroccan-cashew-stir-fry",
+  "title": "Moroccan Cashew Stir Fry",
+  "description": "A sweet and savory stir fry dish from Morocco, featuring cashew nuts and a variety of spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashew nuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "nutty butter",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "gooseberries",
+      "amount": "1 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat the nutty butter in a pan over medium heat.",
+    "Add the chopped onion and grated ginger to the pan and cook until softened.",
+    "Add the chopped cashew nuts to the pan and cook for 2-3 minutes.",
+    "Add the cinnamon, cumin, and salt to the pan and stir to combine.",
+    "Add the ghee to the pan and stir to combine.",
+    "Add the fresh gooseberries to the pan and cook for 2-3 minutes.",
+    "Serve the Moroccan Cashew Stir Fry hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "cashew-nuts",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-gooey-moroccan-cashew-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:27:21.770Z"
+}
