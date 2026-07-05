@@ -1,0 +1,79 @@
+{
+  "slug": "nutty-gooey-venetian-pecorino-stir-fry",
+  "title": "Pecorino Fritters with Honey Glaze",
+  "description": "A sweet and savory Italian-inspired dessert where crispy fritters are drizzled in a sweet honey glaze. The nutty notes of pecorino add a depth of flavor to the airy fritters.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pecorino Cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Venetian Olive Oil",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Gooey Caramel Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Stir-Fry Spices",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "2. In a bowl, mix together the pecorino, flour, and egg until well combined.",
+    "3. Drop spoonfuls of the mixture into the hot oil.",
+    "4. Fry the fritters until they are golden brown and crispy.",
+    "5. Remove the fritters from the oil and place on a paper towel-lined plate.",
+    "6. In a small saucepan, heat the honey and caramel sauce over low heat.",
+    "7. Drizzle the honey glaze over the fritters.",
+    "8. Sprinkle with stir-fry spices before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "honey",
+    "pecorino"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-gooey-venetian-pecorino-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:25:03.918Z"
+}
