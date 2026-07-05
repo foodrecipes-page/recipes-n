@@ -7898,17 +7898,15 @@
   },
   {
     "slug": "nourishing-smoky-argentinian-beef-bowl",
-    "title": "Nourishing Smoky Argentinian Beef Bowl",
+    "title": "Argentinian Beef Bowl",
     "tags": [
-      "argentinian-cuisine",
-      "keto-friendly",
-      "low-carb",
-      "meal-prep",
-      "smoky-flavors",
-      "weeknight-dinner"
+      "argentinian",
+      "beef",
+      "grilled",
+      "bowl"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "n"
   },
   {
