@@ -11105,16 +11105,15 @@
   },
   {
     "slug": "nutritious-rich-ethiopian-lamb-berbere-stew",
-    "title": "Nutritious Rich Ethiopian Lamb Berbere Stew",
+    "title": "Ethiopian Lamb Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pot",
-      "slow-cooked",
-      "weeknight"
+      "lamb",
+      "stew",
+      "ethiopian",
+      "berbere"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 170,
+    "totalTimeMin": 140,
     "shard": "n"
   },
   {
@@ -15491,17 +15490,16 @@
   },
   {
     "slug": "nutty-molten-vietnamese-chicken-bun-cha",
-    "title": "Nutty Molten Vietnamese Chicken Bun Cha",
+    "title": "Vietnamese Chicken Cha Buns",
     "tags": [
-      "caramelized",
-      "high-protein",
-      "one-pan",
-      "solo-dinner",
       "vietnamese",
-      "weeknight"
+      "chicken",
+      "snack",
+      "cha",
+      "bun"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -15536,18 +15534,15 @@
   },
   {
     "slug": "nutty-new-japanese-pappardelle-zenzai-style-pappardelle",
-    "title": "Nutty New Japanese Pappardelle Zenzai-Style",
+    "title": "Nutty Pappardelle with Zenzai Sauce",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "japanese-cuisine",
-      "one-pan",
-      "quick-meal",
+      "pasta",
+      "japanese",
       "vegetarian",
-      "weeknight"
+      "nutty"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 18,
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
@@ -15767,18 +15762,14 @@
   },
   {
     "slug": "nutty-pillowy-polish-feta-cheese-fritters",
-    "title": "Nutty Pillowy Polish Feta Cheese Fritters",
+    "title": "Polish Feta Fritters",
     "tags": [
-      "cheese-fritters",
-      "deep-fried",
-      "finger-food",
-      "gluten-free",
-      "polish-cuisine",
-      "snack",
-      "vegetarian"
+      "polish",
+      "feta",
+      "fritters"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 23,
+    "totalTimeMin": 14,
     "shard": "n"
   },
   {
