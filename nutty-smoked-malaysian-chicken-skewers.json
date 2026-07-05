@@ -1,0 +1,70 @@
+{
+  "slug": "nutty-smoked-malaysian-chicken-skewers",
+  "title": "Smoked Chicken Skewers",
+  "description": "Delicious and easy-to-make skewers with marinated smoked chicken, perfect for a summer barbecue.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "nutty peanut oil",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "smoked soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "malaysian chili sauce",
+      "amount": "1 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together peanut oil, smoked soy sauce, chili sauce, and brown sugar.",
+    "Add the chicken to the marinade and mix well to coat.",
+    "Thread the marinated chicken onto the skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-smoked-malaysian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:07:12.059Z"
+}
