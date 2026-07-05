@@ -1,0 +1,78 @@
+{
+  "slug": "nutritious-earthy-peruvian-duck-arroz-con-pato",
+  "title": "Pato a la Brasa with Arroz con Vegetales",
+  "description": "A traditional Peruvian dish featuring roasted duck with a side of earthy vegetables and rice.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "duck",
+      "amount": "1 whole",
+      "notes": "4-6 lbs"
+    },
+    {
+      "name": "arroz",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "vegetables (such as carrots, potatoes, and peas)",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pato seasoning",
+      "amount": "2 tbsp",
+      "notes": "available at most Latin American markets"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the duck with pato seasoning, making sure to get some under the skin as well.",
+    "Stuff the duck's cavity with chopped onion and garlic.",
+    "Place the duck in a roasting pan and put it in the oven.",
+    "Roast the duck for 20 minutes per pound, or until the internal temperature reaches 165°F (74°C).",
+    "While the duck is cooking, prepare the arroz con vegetales.",
+    "Heat a large skillet over medium heat and sauté the chopped vegetables until they are tender.",
+    "Add the uncooked rice to the skillet and stir to combine with the vegetables.",
+    "Cook the rice for 2-3 minutes, stirring constantly.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 15-20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Once the duck is done, let it rest for 10 minutes before carving and serving with the arroz con vegetales.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "lunch",
+    "duck",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-earthy-peruvian-duck-arroz-con-pato",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:59:31.205Z"
+}
