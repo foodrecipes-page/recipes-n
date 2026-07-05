@@ -1,0 +1,78 @@
+{
+  "slug": "nourishing-dense-syrian-fennel-pilaf",
+  "title": "Hearty Syrian Pilaf",
+  "description": "A flavorful and nutritious Syrian-inspired pilaf dish, packed with fennel and nutritious ingredients. Perfect for a comforting meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "Vegetarian",
+    "Vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fennel",
+      "amount": "2 bulbs",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "Cooked"
+    },
+    {
+      "name": "Nourishing",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Dense",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large pan over medium heat.",
+    "Add chopped fennel and cook until softened, about 5 minutes.",
+    "Add cooked pilaf, chopped nourishing, and chopped dense to the pan.",
+    "Stir well to combine and cook for an additional 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "syrian-cuisine",
+    "pilaf",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-dense-syrian-fennel-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:07:39.158Z"
+}
