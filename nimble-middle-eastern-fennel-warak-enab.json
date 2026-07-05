@@ -1,0 +1,80 @@
+{
+  "slug": "nimble-middle-eastern-fennel-warak-enab",
+  "title": "Warak Enab Fritters",
+  "description": "A Middle Eastern-inspired fritter dish made with crispy warak enab and flavorful spices, perfect as a snack or appetizer.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Warak Enab",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 bulb",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Nimble flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Middle Eastern spices",
+      "amount": "2 tsp",
+      "notes": "dried oregano, cumin, coriander"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F.",
+    "Sift together flour, spices, salt, and pepper.",
+    "Add chopped fennel and beaten egg to the flour mixture. Mix well.",
+    "Add warak enab and water to the mixture. Knead for 5 minutes.",
+    "Shape the dough into small patties.",
+    "Fry the patties for 3-4 minutes on each side, or until golden brown.",
+    "Drain on paper towels.",
+    "Serve warm with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "fritters",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-middle-eastern-fennel-warak-enab",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:33:48.864Z"
+}
