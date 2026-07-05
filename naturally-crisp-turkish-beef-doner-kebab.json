@@ -1,0 +1,93 @@
+{
+  "slug": "naturally-crisp-turkish-beef-doner-kebab",
+  "title": "Turkish-Style Beef Doner Kebab",
+  "description": "A classic Turkish dish featuring thinly sliced beef, served in a warm pita with crunchy vegetables and creamy sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4-6",
+      "notes": "warmed"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Turkish-Style Salad Dressing",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1 cup",
+      "notes": "for marinating"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine ground beef, beef broth, and a pinch of salt. Mix well with your hands until just combined, being careful not to overmix.",
+    "2. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "3. Preheat a vertical spit or a large skillet over medium-high heat.",
+    "4. Remove the meat from the marinade, allowing any excess to drip off.",
+    "5. Thread the meat onto the spit or skewers, if using.",
+    "6. Cook the meat for 5-7 minutes per side, or until it reaches an internal temperature of 160°F (71°C).",
+    "7. Transfer the meat to a cutting board and let it rest for 5 minutes.",
+    "8. Slice the meat into thin strips against the grain.",
+    "9. Warm the pita bread by wrapping it in foil and heating it in the oven at 350°F (180°C) for 5-7 minutes.",
+    "10. Assemble the kebabs by placing a few slices of meat onto each pita, followed by a dollop of mayonnaise, a sprinkle of salad dressing, and a layer of sliced vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "doner",
+    "kebab",
+    "beef",
+    "meat",
+    "pita",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-crisp-turkish-beef-doner-kebab",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T18:01:29.265Z"
+}
