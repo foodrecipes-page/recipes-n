@@ -1,0 +1,71 @@
+{
+  "slug": "nutty-indulgent-mexican-pork-cochinita-pibil",
+  "title": "Cochinita Pibil",
+  "description": "A traditional Mexican dish from the Yucatán region, Cochinita Pibil is a slow-roasted pork marinated in citrus juice, spices, and chili peppers.",
+  "cuisine": "Mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chilies",
+      "amount": "4 ancho chilies"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine orange and lime juice, chilies, garlic, cumin, and oregano. Blend until smooth.",
+    "Rub the marinade all over the pork shoulder, making sure to coat it evenly.",
+    "Cover the pork and refrigerate for at least 2 hours or overnight.",
+    "Preheat the oven to 300°F (150°C).",
+    "Place the pork in a large Dutch oven or oven-safe pot, fat side up.",
+    "Roast the pork for 2 1/2 to 3 hours, or until it reaches an internal temperature of 190°F (88°C).",
+    "Let the pork rest for 10 to 15 minutes before slicing and serving.",
+    "Serve the pork with your choice of sides, such as rice, beans, or tortillas."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pork",
+    "cochinita",
+    "pibil"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 20,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-indulgent-mexican-pork-cochinita-pibil",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T05:36:37.551Z"
+}
