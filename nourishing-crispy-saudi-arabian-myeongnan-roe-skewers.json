@@ -1,0 +1,74 @@
+{
+  "slug": "nourishing-crispy-saudi-arabian-myeongnan-roe-skewers",
+  "title": "Grilled Arabian Shrimp Skewers with Myeongnan Roe",
+  "description": "A flavorful and healthy dish that combines the richness of Myeongnan roe with the spiciness of Arabian spices, served with crispy shrimp skewers.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "12 pieces",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Myeongnan Roe",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Arabian Spice Blend",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Skewers",
+      "amount": "1 dozen",
+      "notes": "preferably bamboo"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together Arabian Spice Blend and lemon juice.",
+    "3. Add shrimp to the bowl and toss to coat with the spice mixture.",
+    "4. Thread shrimp onto skewers, leaving a small space between each piece.",
+    "5. Brush the skewers with olive oil.",
+    "6. Grill the skewers for 8-10 minutes, turning occasionally, until the shrimp are pink and cooked through.",
+    "7. If using Myeongnan roe, sprinkle it over the skewers during the last minute of grilling.",
+    "8. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "arabian",
+    "seafood",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-crispy-saudi-arabian-myeongnan-roe-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T00:56:53.169Z"
+}
