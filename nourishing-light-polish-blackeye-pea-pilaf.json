@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-light-polish-blackeye-pea-pilaf",
+  "title": "Polish Blackeye Pea Pilaf",
+  "description": "A hearty and nutritious pilaf dish made with blackeye peas, polish sausage, and a hint of spice.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Blackeye peas",
+      "amount": "1 cup dried",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot or Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the Polish sausage and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until softened, about 3 minutes.",
+    "Add the blackeye peas, pilaf, salt, black pepper, and paprika.",
+    "Stir to combine, then add 2 cups of water.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 25 minutes.",
+    "Serve hot, garnished with chopped fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "blackeye-peas",
+    "polish-sausage",
+    "pilaf",
+    "eastern-european"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-light-polish-blackeye-pea-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:01:55.237Z"
+}
