@@ -1,0 +1,77 @@
+{
+  "slug": "nutty-fluffy-dutch-beef-stir-fry",
+  "title": "Beef and Stir Fry",
+  "description": "A simple beef and stir fry recipe with a nutty twist using dutch spices. Serve as a quick dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "nutty oil (such as peanut oil)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dutch spice mix",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fluffy mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "stir-fry veggies (such as bell peppers and onions)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the nutty oil in a large skillet or wok over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Add the dutch spice mix and stir to combine.",
+    "Add the fluffy mushrooms and stir-fry veggies, and cook until tender, about 4-5 minutes.",
+    "Add the soy sauce and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-fluffy-dutch-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:42:13.926Z"
+}
