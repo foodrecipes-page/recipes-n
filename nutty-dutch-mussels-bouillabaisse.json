@@ -1,0 +1,83 @@
+{
+  "slug": "nutty-dutch-mussels-bouillabaisse",
+  "title": "Dutch Bouillabaisse Stew",
+  "description": "A hearty, flavorful stew originating from the Netherlands, inspired by the classic French Bouillabaisse. Rich and comforting, it's perfect for a cold winter's night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mussels",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "Bouillabaisse",
+      "amount": "2 tablespoons",
+      "notes": "canned"
+    },
+    {
+      "name": "Dutch Nutty Brown Ale",
+      "amount": "1 cup",
+      "notes": "dark beer"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the Dutch Nutty Brown Ale in a large pot over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced carrot and diced potato, and cook for 5 minutes.",
+    "Add the fresh mussels, canned bouillabaisse, and tomato paste.",
+    "Stir to combine, then bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 10-15 minutes or until the mussels are cooked through.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "stew",
+    "dutch",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-dutch-mussels-bouillabaisse",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:14:41.397Z"
+}
