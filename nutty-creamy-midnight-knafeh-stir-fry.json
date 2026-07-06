@@ -1,0 +1,82 @@
+{
+  "slug": "nutty-creamy-midnight-knafeh-stir-fry",
+  "title": "Midnight Knafeh Dessert",
+  "description": "A rich, creamy dessert inspired by the flavors of the Middle East.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Midnight",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Knafeh",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nutty",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Stir",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fry",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a saucepan, combine midnight and water. Heat over medium heat, stirring occasionally.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the mixture has thickened.",
+    "Add knafeh, nutty, stir, fry, sugar, and vanilla to the saucepan. Stir until well combined.",
+    "Continue to cook for an additional 2-3 minutes, or until the dessert has reached the desired consistency.",
+    "Remove the saucepan from the heat and let cool slightly.",
+    "Serve warm, garnished with additional midnight if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "middle-eastern",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-creamy-midnight-knafeh-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:08:02.258Z"
+}
