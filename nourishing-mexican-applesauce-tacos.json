@@ -1,0 +1,67 @@
+{
+  "slug": "nourishing-mexican-applesauce-tacos",
+  "title": "Sweet Apple Tacos",
+  "description": "A twist on traditional tacos, this dessert combines the crunch of apples with the warmth of cinnamon. Perfect for a sweet treat.",
+  "cuisine": "mexican",
+  "diet": [
+    "nourishing"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "6"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, mix together applesauce, cinnamon, and brown sugar.",
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add tortillas and cook for 1-2 minutes on each side, until slightly puffed.",
+    "Transfer tortillas to a baking sheet and spoon applesauce mixture onto each tortilla.",
+    "Top with chopped walnuts and bake for 10-12 minutes, or until caramelized.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "apple",
+    "taco",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-mexican-applesauce-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T18:03:08.647Z"
+}
