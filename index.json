@@ -5571,13 +5571,14 @@
   },
   {
     "slug": "nourishing-ethiopian-berbere-stew-hot-pot",
-    "title": "Nourishing Ethiopian Berbere Stew Hot Pot",
+    "title": "Classic Ethiopian Stew",
     "tags": [
+      "nourishing",
       "ethiopian",
-      "high-protein",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "berbere",
+      "stew",
+      "hot",
+      "pot"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 45,
@@ -12285,16 +12286,15 @@
   },
   {
     "slug": "nutty-creamy-ethiopian-chinese-leaf-stew",
-    "title": "Nutty Creamy Ethiopian Chinese Leaf Stew",
+    "title": "Spicy Ethiopian Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "international",
-      "one-pot",
-      "weeknight"
+      "spicy",
+      "ethiopian",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Ethiopian Chinese",
-    "totalTimeMin": 45,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -16396,18 +16396,14 @@
   },
   {
     "slug": "nutty-silky-syrian-lamb-flatbread",
-    "title": "Nutty Silky Syrian Lamb Flatbread",
+    "title": "Syrian Lamb Flatbreads",
     "tags": [
-      "ayurvedic-friendly",
-      "flatbread",
-      "herbal",
-      "lamb-recipes",
-      "silky",
-      "syrian-cuisine",
-      "weeknight"
+      "syrian",
+      "lamb",
+      "flatbread"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
