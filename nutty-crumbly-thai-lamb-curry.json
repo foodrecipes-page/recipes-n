@@ -1,0 +1,74 @@
+{
+  "slug": "nutty-crumbly-thai-lamb-curry",
+  "title": "Thai Lamb Curry",
+  "description": "A flavorful and aromatic Thai-inspired curry made with lamb and a blend of spices. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Thai curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "nutty rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "3. Remove the lamb from the pot and set aside.",
+    "4. Add the curry paste to the pot and cook, stirring constantly, for 1-2 minutes.",
+    "5. Pour in the coconut milk and bring the mixture to a simmer.",
+    "6. Return the lamb to the pot and bring to a boil.",
+    "7. Reduce the heat to low and simmer, covered, until the lamb is tender, about 1 1/2 hours.",
+    "8. Stir in the fish sauce and brown sugar.",
+    "9. Serve the curry over nutty rice.",
+    "10. Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "curry",
+    "thai",
+    "dinner",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crumbly-thai-lamb-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:25:31.665Z"
+}
