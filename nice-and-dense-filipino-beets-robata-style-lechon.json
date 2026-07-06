@@ -1,0 +1,85 @@
+{
+  "slug": "nice-and-dense-filipino-beets-robata-style-lechon",
+  "title": "Filipino-Style Lechon",
+  "description": "A classic Filipino dish, roasted to perfection in a robata style.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "main course",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "2.5 kg",
+      "notes": "Bone-in or boneless, skin on"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1/4 cup",
+      "notes": "Apple cider or white vinegar"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Dark or light soy sauce"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Lechon mix",
+      "amount": "1 cup",
+      "notes": "Available at most Filipino markets"
+    },
+    {
+      "name": "Beets",
+      "amount": "2 medium",
+      "notes": "For roasting and garnish"
+    },
+    {
+      "name": "Nice and dense lechon broth",
+      "amount": "1 cup",
+      "notes": "For basting and serving"
+    },
+    {
+      "name": "And a few sprigs of fresh herbs",
+      "amount": "as needed",
+      "notes": "Parsley, thyme, or lemongrass"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rub the pork belly with vinegar, soy sauce, and black pepper.",
+    "Stuff the cavity with lechon mix and a few sprigs of fresh herbs.",
+    "Truss the pork belly with kitchen twine.",
+    "Place the pork belly in a roasting pan and roast for 2 hours.",
+    "Baste the pork belly with lechon broth every 30 minutes.",
+    "Increase oven temperature to 425°F (220°C) and roast for an additional 30 minutes.",
+    "Let the pork belly rest for 30 minutes before slicing and serving.",
+    "Roast the beets in the oven for 45-60 minutes, or until tender.",
+    "Peel and slice the roasted beets for garnish.",
+    "Serve the sliced pork belly with roasted beets and a side of steamed rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "filipino",
+    "barbecue",
+    "roasted-pork"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 90
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-and-dense-filipino-beets-robata-style-lechon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:04:19.424Z"
+}
