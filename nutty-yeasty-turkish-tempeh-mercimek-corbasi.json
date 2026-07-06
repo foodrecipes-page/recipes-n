@@ -1,0 +1,89 @@
+{
+  "slug": "nutty-yeasty-turkish-tempeh-mercimek-corbasi",
+  "title": "Turkish Lentil Stew with Tempeh",
+  "description": "A hearty and comforting Turkish-inspired stew made with lentils, tempeh, and spices. Perfect for a cold winter's day.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mercimek (Turkish lentils)",
+      "amount": "1 cup dried",
+      "notes": "Rinse and soak overnight"
+    },
+    {
+      "name": "Tempeh",
+      "amount": "1/2 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Turkish spices (sumac, cumin, coriander)",
+      "amount": "2 tsp",
+      "notes": "Blend together or use store-bought mix"
+    },
+    {
+      "name": "Corbasi (Turkish rice)",
+      "amount": "1 cup uncooked",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add soaked lentils, spices, and salt. Cook for 1 minute, stirring constantly.",
+    "Add 4 cups water and bring to a boil. Reduce heat and simmer for 20-25 minutes.",
+    "Stir in corbasi and tempeh. Cook for an additional 5 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-stew",
+    "turkish-cuisine",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-yeasty-turkish-tempeh-mercimek-corbasi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T18:28:01.944Z"
+}
