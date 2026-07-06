@@ -1,0 +1,90 @@
+{
+  "slug": "nourishing-tunisian-cranberries-crumble",
+  "title": "Tunisian Cranberry Crumble",
+  "description": "A sweet and tangy dessert combining the flavors of Tunisia with the freshness of cranberries, topped with a crunchy crumble.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fresh or Frozen Cranberries",
+      "amount": "2 cups",
+      "notes": "Fresh is preferred for best flavor"
+    },
+    {
+      "name": "Tunisian Orange Marmalade",
+      "amount": "1/4 cup",
+      "notes": "Can substitute with regular orange marmalade"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": "Can adjust to taste"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cold Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Rolled Oats",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the cranberries, orange marmalade, and granulated sugar. Mix well to coat the cranberries evenly.",
+    "Transfer the cranberry mixture into a 9x9-inch baking dish.",
+    "In a separate bowl, combine the flour, cold butter, rolled oats, brown sugar, cinnamon, and salt. Mix until the mixture resembles coarse crumbs.",
+    "Spread the crumble mixture evenly over the cranberry mixture.",
+    "Bake for 40-45 minutes or until the topping is golden brown and the filling is bubbly.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm, topped with vanilla ice cream or whipped cream if desired.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cranberry",
+    "crumble",
+    "dessert",
+    "tunisian",
+    "orange-marmalade"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-tunisian-cranberries-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:06:51.527Z"
+}
