@@ -1,0 +1,75 @@
+{
+  "slug": "nutty-australian-cashews-stew",
+  "title": "Cashew Stew with a Twist",
+  "description": "A hearty stew with a nutty twist, featuring australian cashews and a rich flavor profile.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups beef broth"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add carrots and potatoes, and cook for an additional 5 minutes.",
+    "Stir in tomato paste, salt, and pepper.",
+    "Pour in beef broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Add cashews and cook for an additional 5 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "cashew",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-australian-cashews-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:51:03.073Z"
+}
