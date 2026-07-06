@@ -7203,18 +7203,16 @@
   },
   {
     "slug": "nourishing-rich-moroccan-lamb-mrouzia",
-    "title": "Nourishing Rich Moroccan Lamb Mrouzia",
+    "title": "Moroccan Lamb Mrouzia",
     "tags": [
-      "indulgent",
-      "lamb",
-      "low-fat",
       "moroccan",
-      "one-pot",
+      "lamb",
+      "dessert",
       "rich",
-      "special-occasion"
+      "nourishing"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 190,
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
@@ -8090,18 +8088,15 @@
   },
   {
     "slug": "nourishing-smoky-peruvian-pork-belly-tiradito",
-    "title": "Nourishing Smoky Peruvian Pork Belly Tiradito",
+    "title": "Peruvian Smoked Pork Belly Tiradito",
     "tags": [
-      "monsoon",
       "peruvian",
-      "pork-belly",
-      "shojin",
-      "smoky",
-      "springy",
-      "tandoor"
+      "smoked-pork-belly",
+      "ceviche",
+      "tiradito"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "cuisine": "peruvian",
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
@@ -8423,14 +8418,12 @@
   },
   {
     "slug": "nourishing-spanish-pak-choi-stew",
-    "title": "Nourishing Spanish Pak Choi Stew",
+    "title": "Pak Choi Stew",
     "tags": [
-      "comfort-food",
-      "dark-chocolate",
-      "mason-jar",
-      "one-pot",
-      "spanish-cuisine",
-      "whole30"
+      "pak-choi",
+      "vegetarian",
+      "spanish",
+      "stew"
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 35,
@@ -17612,16 +17605,16 @@
   },
   {
     "slug": "nutty-velvety-syrian-apples-grill",
-    "title": "Nutty Velvety Syrian Apples Grill",
+    "title": "Grilled Apple and Syrian Delight",
     "tags": [
-      "apple-recipes",
-      "fall-recipes",
-      "gluten-free",
-      "syrian-dishes",
-      "vegan"
+      "grilled",
+      "dessert",
+      "middle-eastern",
+      "fall",
+      "winter"
     ],
-    "cuisine": "syrian",
-    "totalTimeMin": 30,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
