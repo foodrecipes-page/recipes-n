@@ -743,16 +743,15 @@
   },
   {
     "slug": "naturally-smoky-german-sauerkraut-skillet",
-    "title": "Naturally Smoky German Sauerkraut Skillet",
+    "title": "Smoky Sausage with Sauerkraut and Potatoes",
     "tags": [
-      "flexitarian",
-      "german-cuisine",
-      "one-pan",
-      "smoky-flavor",
-      "weeknight"
+      "german",
+      "sauerkraut",
+      "potatoes",
+      "sausage"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -2122,16 +2121,16 @@
   },
   {
     "slug": "nicely-nicotine-noked-andalusian-lamb-kidney-patatas-bravas-style-cooked-potatoe",
-    "title": "Nicely Nicotine-Noked Andalusian Lamb Kidney Patatas-Bravas Style Cooked Potatoes",
+    "title": "Andalusian Lamb Kebabs with Bravas Potatoes",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "spanish",
-      "weeknight"
+      "andalusian",
+      "lamb",
+      "kebabs",
+      "bravas",
+      "potatoes"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 75,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -4419,16 +4418,15 @@
   },
   {
     "slug": "nourishing-brazilian-bean-sprouts-wrap",
-    "title": "Nourishing Brazilian Bean Sprouts Wrap",
+    "title": "Brazilian Bean Wrap",
     "tags": [
-      "brazilian-cuisine",
-      "corn-husk-wraps",
-      "gluten-free",
-      "healthy-snacks",
-      "low-carb",
-      "midnight-cravings"
+      "brazilian",
+      "latin",
+      "wrap",
+      "lunch",
+      "beans"
     ],
-    "cuisine": "brazilian",
+    "cuisine": "Brazilian",
     "totalTimeMin": 25,
     "shard": "n"
   },
@@ -6763,16 +6761,15 @@
   },
   {
     "slug": "nourishing-mexican-applesauce-tacos",
-    "title": "Nourishing Mexican Applesauce Tacos",
+    "title": "Sweet Apple Tacos",
     "tags": [
-      "breakfast",
-      "easy-to-make",
-      "high-fiber",
-      "snack",
-      "weeknight"
+      "sweet",
+      "apple",
+      "taco",
+      "dessert"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 25,
+    "totalTimeMin": 22,
     "shard": "n"
   },
   {
@@ -17804,17 +17801,15 @@
   },
   {
     "slug": "nutty-yeasty-turkish-tempeh-mercimek-corbasi",
-    "title": "Nutty Yeasty Turkish Tempeh Mercimek Corbasi",
+    "title": "Turkish Lentil Stew with Tempeh",
     "tags": [
-      "brunch-idea",
-      "lentil-based",
-      "low-calorie",
-      "nutty-flavors",
-      "turkish-inspired",
-      "vegetarian-friendly"
+      "lentil-stew",
+      "turkish-cuisine",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
