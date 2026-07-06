@@ -1,0 +1,78 @@
+{
+  "slug": "naturally-smoky-german-sauerkraut-skillet",
+  "title": "Smoky Sausage with Sauerkraut and Potatoes",
+  "description": "A hearty German-inspired dish featuring smoky sausage, sauerkraut, and crispy potatoes.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoky sausage",
+      "amount": "1 pound",
+      "notes": "such as knockwurst or bratwurst"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until browned, about 5 minutes.",
+    "Add the sliced potatoes and cook for 5 minutes, stirring occasionally.",
+    "Add the sauerkraut, caraway seeds, salt, and pepper to the skillet.",
+    "Stir to combine and cook for 2 minutes.",
+    "Add the smoky sausage to the skillet and cook until browned, about 5 minutes.",
+    "Serve the sausage and sauerkraut mixture hot, garnished with additional caraway seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sauerkraut",
+    "potatoes",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-smoky-german-sauerkraut-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:05:06.565Z"
+}
