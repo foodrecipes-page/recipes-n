@@ -1,0 +1,66 @@
+{
+  "slug": "nutty-silky-syrian-lamb-flatbread",
+  "title": "Syrian Lamb Flatbreads",
+  "description": "A flavorful and aromatic flatbread recipe topped with tender lamb and a hint of spice, inspired by Syrian cuisine.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Ground lamb is best for this recipe"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4",
+      "notes": "Homemade or store-bought flatbread works well"
+    },
+    {
+      "name": "Syrian",
+      "amount": "1tbsp",
+      "notes": "Syrian spice blend adds a rich flavor to the dish"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2tsp",
+      "notes": "A hint of nutmeg adds warmth to the dish"
+    },
+    {
+      "name": "Silky",
+      "amount": "1tbsp",
+      "notes": "Honey adds a touch of sweetness to balance the flavors"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a large pan, cook the ground lamb over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the Syrian spice blend, nutmeg, and honey to the pan and stir to combine.",
+    "Warm the flatbread in the oven for 2-3 minutes.",
+    "Place the flatbread on a baking sheet and top with the lamb mixture, dividing it evenly among the four flatbreads.",
+    "Return the flatbreads to the oven and bake for an additional 5-7 minutes, until the lamb is heated through and the flatbread is crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "lamb",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-silky-syrian-lamb-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:04:13.520Z"
+}
