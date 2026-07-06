@@ -1,0 +1,72 @@
+{
+  "slug": "nutty-creamy-show-off-slovakian-stir-fry",
+  "title": "Slovakian Stir Fry",
+  "description": "A simple and flavorful stir fry recipe using Slovakian ingredients. This dish is perfect for a quick weeknight dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "nutty brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "creamy garlic sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "show stopping bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "off the charts onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "stir fry oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the stir fry oil in a large skillet over medium-high heat.",
+    "Add the onions and cook until they start to brown, about 5 minutes.",
+    "Add the bell peppers and cook for another 5 minutes, until they start to soften.",
+    "Add the cabbage and cook until it starts to wilt, about 3 minutes.",
+    "Stir in the creamy garlic sauce and cook for 1 minute.",
+    "Serve the stir fry over nutty brown rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-creamy-show-off-slovakian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:19:57.018Z"
+}
