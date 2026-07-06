@@ -5692,16 +5692,16 @@
   },
   {
     "slug": "nourishing-flaky-turkish-beans-pilaf",
-    "title": "Nourishing Flaky Turkish Beans Pilaf",
+    "title": "Turkish Stuffed Pilaf",
     "tags": [
-      "flaky-pastry",
-      "one-pot",
-      "turkish-cuisine",
-      "vegetarian-friendly",
-      "weeknight-dinner"
+      "turkish",
+      "pilaf",
+      "stuffed",
+      "beans",
+      "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -9378,17 +9378,14 @@
   },
   {
     "slug": "nurturing-jamaican-hibiscus-stew",
-    "title": "Nurturing Jamaican Hibiscus Stew",
+    "title": "Jamaican Stew",
     "tags": [
-      "cozy",
-      "floral",
       "jamaican",
-      "kosher-friendly",
-      "one-pot",
-      "vegetarian"
+      "stew",
+      "caribbean"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
