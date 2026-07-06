@@ -1,0 +1,78 @@
+{
+  "slug": "nectarous-japanese-apricots-soup",
+  "title": "Japanese Spring Soup",
+  "description": "A light and refreshing soup that combines the sweetness of nectarines with the savory flavors of a traditional Japanese broth.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Nectarines",
+      "amount": "2",
+      "notes": "halved"
+    },
+    {
+      "name": "Japanese Miso Paste",
+      "amount": "2 tbsp",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "Dried Apricots",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine vegetable broth, nectarines, apricots, and miso paste.",
+    "Bring to a boil over high heat, then reduce the heat to low and simmer for 15 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Stir in soy sauce (if using).",
+    "Taste and adjust seasoning as needed.",
+    "Ladle soup into bowls and garnish with chopped green onions and a drizzle of sesame oil.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "spring",
+    "nectarines",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nectarous-japanese-apricots-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T12:30:20.052Z"
+}
