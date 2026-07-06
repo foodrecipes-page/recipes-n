@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-smoky-peruvian-pork-belly-tiradito",
+  "title": "Peruvian Smoked Pork Belly Tiradito",
+  "description": "A twist on the traditional Peruvian tiradito, this dish features tender smoked pork belly served raw with a zesty sauce.",
+  "cuisine": "peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "smoked"
+    },
+    {
+      "name": "nourishing",
+      "amount": "1/4 cup",
+      "notes": " Peruvian aji amarillo sauce"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tablespoons",
+      "notes": " Peruvian aji amarillo pepper"
+    },
+    {
+      "name": "tiger's milk",
+      "amount": "1 cup",
+      "notes": " Peruvian ceviche marinade"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": " thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": " chopped"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": " freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the smoked pork belly into thin slices and set aside.",
+    "In a blender, combine the Peruvian aji amarillo sauce, Peruvian aji amarillo pepper, and tigers' milk.",
+    "Blend until smooth and set aside.",
+    "In a large bowl, combine the sliced pork belly, red onion, cilantro, and freshly squeezed lime juice.",
+    "Pour the blended sauce over the pork belly mixture and toss to coat.",
+    "Season with salt to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with additional cilantro if desired.",
+    "Serve chilled, garnished with additional lime wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "smoked-pork-belly",
+    "ceviche",
+    "tiradito"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-peruvian-pork-belly-tiradito",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:03:17.772Z"
+}
