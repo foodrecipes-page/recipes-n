@@ -1,0 +1,71 @@
+{
+  "slug": "nimble-german-swede-pancake",
+  "title": "Swedish Pancake Dinner",
+  "description": "A delicious and easy-to-make Swedish-inspired dinner, featuring Swedish pancakes with a German twist.",
+  "cuisine": null,
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "nimble sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "german butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "swede salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pancake mix-ins (choice of: sugar, cinnamon, or swede syrup)",
+      "amount": "as desired"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, milk, eggs, and nimble sugar.",
+    "Add german butter and swede salt; mix until combined.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop batter by 1/4 cupfuls onto the pan.",
+    "Cook for 2-3 minutes, until bubbles appear on surface.",
+    "Flip and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve hot with pancake mix-ins of choice.",
+    "Optional: add swede syrup for an extra touch of sweetness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "swedish",
+    "pancakes",
+    "german",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-german-swede-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T15:13:29.543Z"
+}
