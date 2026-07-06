@@ -1,0 +1,91 @@
+{
+  "slug": "nourishing-juicy-filipino-avocado-bicol-express",
+  "title": "Bicol Express",
+  "description": "A popular Filipino spicy dish made with chili peppers, coconut milk, and meat. This recipe is a simplified version of the classic.",
+  "cuisine": "filipino",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "250ml",
+      "notes": null
+    },
+    {
+      "name": "bird's eye chilies",
+      "amount": "3",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2tbsp",
+      "notes": null
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": "sliced, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Sauté garlic and onion until fragrant.",
+    "Add bird's eye chilies and cook for 1 minute.",
+    "Add pork belly and cook until browned.",
+    "Add coconut milk, fish sauce, salt, and pepper.",
+    "Simmer for 10 minutes or until the pork is tender.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot with sliced avocado."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "filipino",
+    "spicy",
+    "pork",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-juicy-filipino-avocado-bicol-express",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:28:35.263Z"
+}
