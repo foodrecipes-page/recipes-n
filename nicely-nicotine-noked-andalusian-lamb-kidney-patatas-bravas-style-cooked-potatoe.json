@@ -1,0 +1,80 @@
+{
+  "slug": "nicely-nicotine-noked-andalusian-lamb-kidney-patatas-bravas-style-cooked-potatoe",
+  "title": "Andalusian Lamb Kebabs with Bravas Potatoes",
+  "description": "A flavorful and spicy dish from Andalusia, Spain, featuring lamb kebabs served with bravas-style potatoes.",
+  "cuisine": "Spanish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "patatas",
+      "amount": "3",
+      "notes": "large potatoes, peeled and cut into 1-inch chunks"
+    },
+    {
+      "name": "andalusian",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "bravas",
+      "amount": "1 tsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "kidney",
+      "amount": "2",
+      "notes": "red kidney beans, drained and rinsed"
+    },
+    {
+      "name": "nicely",
+      "amount": "1 tsp",
+      "notes": "salt"
+    },
+    {
+      "name": "noked",
+      "amount": "1 tsp",
+      "notes": "black pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread lamb cubes onto skewers.",
+    "Brush lamb with olive oil and season with smoked paprika, salt, and black pepper.",
+    "Grill lamb for 5-7 minutes per side, or until cooked to desired doneness.",
+    "Meanwhile, boil potatoes in salted water until tender.",
+    "Drain potatoes and toss with kidney beans, salt, and black pepper.",
+    "Serve lamb kebabs with bravas-style potatoes and garnish with chopped fresh parsley.",
+    "Cook potatoes for an additional 5 minutes in the oven at 400°F (200°C) for a crispy texture.",
+    "Check lamb temperature to ensure it reaches a safe minimum internal temperature of 145°F (63°C)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "andalusian",
+    "lamb",
+    "kebabs",
+    "bravas",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nicely-nicotine-noked-andalusian-lamb-kidney-patatas-bravas-style-cooked-potatoe",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:05:04.764Z"
+}
