@@ -1547,17 +1547,14 @@
   },
   {
     "slug": "nice-and-dense-filipino-beets-robata-style-lechon",
-    "title": "Nice and Dense Filipino Beets Robata-Style Lechon",
+    "title": "Filipino-Style Lechon",
     "tags": [
       "filipino",
-      "gluten-free",
-      "one-pan",
-      "robata-grill",
-      "vegetarian",
-      "weeknight"
+      "barbecue",
+      "roasted-pork"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "totalTimeMin": 270,
     "shard": "n"
   },
   {
@@ -8862,13 +8859,16 @@
   },
   {
     "slug": "nourishing-tunisian-cranberries-crumble",
-    "title": "Nourishing Tunisian Cranberries Crumble",
+    "title": "Tunisian Cranberry Crumble",
     "tags": [
+      "cranberry",
+      "crumble",
+      "dessert",
       "tunisian",
-      "dessert"
+      "orange-marmalade"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {
@@ -9063,17 +9063,16 @@
   },
   {
     "slug": "nourishing-velvety-brazilian-chicken-stew",
-    "title": "Nourishing Velvety Brazilian Chicken Stew",
+    "title": "Creamy Brazilian Stew",
     "tags": [
-      "brazilian-cuisine",
-      "comfort-food",
-      "gluten-free",
-      "nut-free",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "stew",
+      "brazilian",
+      "comfort food",
+      "beef"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -13152,10 +13151,16 @@
   },
   {
     "slug": "nutty-crumbly-thai-lamb-curry",
-    "title": "Nutty Crumbly Thai Lamb Curry",
-    "tags": [],
+    "title": "Thai Lamb Curry",
+    "tags": [
+      "lamb",
+      "curry",
+      "thai",
+      "dinner",
+      "main-course"
+    ],
     "cuisine": "Thai",
-    "totalTimeMin": null,
+    "totalTimeMin": 105,
     "shard": "n"
   },
   {
