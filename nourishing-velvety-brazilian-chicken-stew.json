@@ -1,0 +1,95 @@
+{
+  "slug": "nourishing-velvety-brazilian-chicken-stew",
+  "title": "Creamy Brazilian Stew",
+  "description": "A rich, comforting stew that combines the flavors of Brazil with the creaminess of velvety sauce. Perfect for a chilly evening.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "velvety sauce mix",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "nourishing stew seasoning",
+      "amount": "1 teaspoon",
+      "notes": "see notes"
+    },
+    {
+      "name": "brazilian sausage",
+      "amount": "1 pound, sliced",
+      "notes": "use mild or hot sausage"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": "about 1 tablespoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "see notes"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional, for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes. Remove from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the beef broth, water, and browned sausage back to the pot. Bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the velvety sauce mix and nourishing stew seasoning. Return the chicken to the pot and cook until the chicken is cooked through, about 10-12 minutes.",
+    "Taste and adjust the seasoning as needed. Serve hot, topped with a dollop of sour cream if desired.",
+    "Serve with steamed rice or crusty bread, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "brazilian",
+    "comfort food",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 32,
+    "fat": 29
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-velvety-brazilian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:10:55.059Z"
+}
