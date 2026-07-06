@@ -1,0 +1,85 @@
+{
+  "slug": "nourishing-creamy-kenyan-lime-wrap",
+  "title": "Creamy Kenyan Wrap",
+  "description": "A flavorful and nourishing wrap with Kenyan spices and a creamy sauce.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lime Tortilla Wrap",
+      "amount": "1",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1/4 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Kenyan Curry Powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Chopped Cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1/2 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together coconut cream, lime juice, and Kenyan curry powder.",
+    "Taste and adjust the seasoning as needed.",
+    "Lay the lime tortilla wrap on a flat surface.",
+    "Spread a quarter of the coconut cream mixture on the center of the wrap.",
+    "Add chopped cucumber, cherry tomatoes, fresh cilantro, and red onion on top of the cream mixture.",
+    "Gently fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap.",
+    "Cut in half and serve immediately.",
+    "If desired, garnish with additional cilantro and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "wrap",
+    "lunch",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-creamy-kenyan-lime-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T15:32:45.660Z"
+}
