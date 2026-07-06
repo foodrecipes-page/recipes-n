@@ -1,0 +1,55 @@
+{
+  "slug": "nimble-croatian-cod-broth",
+  "title": "Croatian Fish Stew",
+  "description": "A hearty and flavorful stew originating from Croatia, featuring cod as the main ingredient.",
+  "cuisine": "Croatian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, cut into 1-inch pieces"
+    },
+    {
+      "name": "Croatian Broth",
+      "amount": "2 cups",
+      "notes": "You can substitute with fish stock or make your own"
+    },
+    {
+      "name": "Nimble",
+      "amount": "1/4 cup",
+      "notes": "Sliced or chopped, can be substituted with bell peppers"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large pot over medium-high heat.",
+    "Add the cod and cook until browned, about 3-4 minutes.",
+    "Add the Croatian broth and bring to a simmer.",
+    "Reduce heat to low and add the nimble. Let it simmer for 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley or dill."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish-stew",
+    "croatian-cuisine",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-croatian-cod-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T15:51:49.956Z"
+}
