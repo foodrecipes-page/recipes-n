@@ -1,0 +1,88 @@
+{
+  "slug": "nourishing-norwegian-beef-stew",
+  "title": "Beef Stew",
+  "description": "A hearty Norwegian-style beef stew made with nourishing ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes, then remove from pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes, cook for 5 minutes.",
+    "Add the flour, cook for 1 minute.",
+    "Add the beef broth, wine, and tomato paste, stir to combine.",
+    "Return the beef to the pot, bring to a boil, then cover and transfer to oven.",
+    "Bake at 300°F for 2-3 hours or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "norwegian-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-norwegian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:33:36.612Z"
+}
