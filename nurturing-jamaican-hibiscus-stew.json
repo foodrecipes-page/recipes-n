@@ -1,0 +1,61 @@
+{
+  "slug": "nurturing-jamaican-hibiscus-stew",
+  "title": "Jamaican Stew",
+  "description": "A hearty and flavorful stew inspired by the islands, perfect for a weeknight dinner. This dish is a great way to warm up on a chilly evening.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Nurturing Greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Jamaican Seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Hibiscus Tea",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Stew Tomatoes",
+      "amount": "1 can"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic; cook until softened, about 5 minutes.",
+    "Add nurturing greens, Jamaican seasoning, and hibiscus tea.",
+    "Bring to a boil; reduce heat to low and simmer for 20 minutes.",
+    "Stir in stew tomatoes.",
+    "Continue to simmer for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "stew",
+    "caribbean"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nurturing-jamaican-hibiscus-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:12:58.600Z"
+}
