@@ -1,0 +1,82 @@
+{
+  "slug": "nutty-malaysian-rice-noodles",
+  "title": "Spicy Malaysian Noodle Stir Fry",
+  "description": "A simple and flavorful stir fry made with Malaysian noodles, rice, and a hint of nutty flavor.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Malaysian noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Uncooked rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Toasted peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chopped onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped bell peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Spicy peanut sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to package instructions.",
+    "Toast the peanuts in a dry pan over medium heat until fragrant.",
+    "Heat the vegetable oil in a large pan over medium-high heat.",
+    "Add the chopped onions, carrots, and bell peppers. Cook until the vegetables are tender.",
+    "Add the cooked noodles, soy sauce, and spicy peanut sauce. Stir-fry for 2-3 minutes.",
+    "Stir in the toasted peanuts and chopped cilantro.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over the cooked rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-malaysian-rice-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T12:40:44.621Z"
+}
