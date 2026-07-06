@@ -1,0 +1,68 @@
+{
+  "slug": "nutty-creamy-ethiopian-chinese-leaf-stew",
+  "title": "Spicy Ethiopian Stew",
+  "description": "A flavorful and spicy stew inspired by Ethiopian cuisine. This dish is perfect for a chilly evening and can be served with a side of rice or injera.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nutty",
+      "amount": "2 cups",
+      "notes": "roasted peanuts"
+    },
+    {
+      "name": "leaf",
+      "amount": "2 cups",
+      "notes": "fresh spinach"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "creamy",
+      "amount": "1 cup",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "ethiopian",
+      "amount": "2 teaspoons",
+      "notes": "berbere spice"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat. Add berbere spice and cook for 1 minute, stirring constantly.",
+    "Add roasted peanuts and cook for an additional 2 minutes, stirring frequently.",
+    "Add chicken broth and bring the mixture to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in coconut milk and cook for an additional 2 minutes.",
+    "Add fresh spinach and cook until wilted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with a side of rice or injera."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "ethiopian",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-creamy-ethiopian-chinese-leaf-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:14:35.199Z"
+}
