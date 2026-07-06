@@ -6372,17 +6372,15 @@
   },
   {
     "slug": "nourishing-juicy-filipino-avocado-bicol-express",
-    "title": "Nourishing Juicy Filipino Avocado Bicol Express",
+    "title": "Bicol Express",
     "tags": [
-      "avocado-recipes",
-      "copper-cooking",
-      "filipino-food",
-      "kimchi-lovers",
-      "midnight-munchies",
-      "spicy-food"
+      "filipino",
+      "spicy",
+      "pork",
+      "coconut-milk"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 25,
+    "cuisine": "filipino",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -7039,19 +7037,14 @@
   },
   {
     "slug": "nourishing-norwegian-beef-stew",
-    "title": "Nourishing Norwegian Beef Stew",
+    "title": "Beef Stew",
     "tags": [
-      "beef",
-      "cold-weather",
-      "comforting",
-      "hearty",
-      "norwegian",
-      "one-pan",
-      "stew",
-      "weeknight"
+      "beef-stew",
+      "norwegian-cuisine",
+      "comfort-food"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 170,
+    "totalTimeMin": 140,
     "shard": "n"
   },
   {
@@ -8721,15 +8714,13 @@
     "slug": "nourishing-tender-croatian-meat-casseroles",
     "title": "Croatian Meat Casserole",
     "tags": [
-      "casserole",
-      "comfort-food",
-      "hearty",
-      "homestyle",
-      "meat-based",
-      "one-dish"
+      "croatian",
+      "casseroles",
+      "meat",
+      "comfort-food"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -9418,17 +9409,16 @@
   },
   {
     "slug": "nurturing-pungent-thai-apricots-khanom-thai",
-    "title": "Nurturing Pungent Thai Apricots Khanom Thai",
+    "title": "Thai Khanom with Apricot Glaze",
     "tags": [
-      "dairy-free",
-      "hot-pot",
-      "khanom-thai",
-      "kid-friendly",
-      "pungent",
-      "quick"
+      "thai",
+      "dessert",
+      "snack",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "thai",
-    "totalTimeMin": 30,
+    "totalTimeMin": 27,
     "shard": "n"
   },
   {
@@ -9635,16 +9625,16 @@
   },
   {
     "slug": "nutmeg-infused-hunan-chicken-noodles",
-    "title": "Nutmeg Infused Hunan Chicken Noodles",
+    "title": "Hunan-Style Chicken Noodle Stir Fry",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "hunan",
+      "chicken",
+      "noodles",
+      "stir-fry",
+      "gluten-free"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 140,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -12373,18 +12363,15 @@
   },
   {
     "slug": "nutty-creamy-midnight-knafeh-stir-fry",
-    "title": "Nutty Creamy Midnight Knafeh Stir-fry",
+    "title": "Midnight Knafeh Dessert",
     "tags": [
-      "nutty",
-      "creamy",
-      "midnight-craving",
-      "peruvian",
-      "knafeh",
-      "broil",
-      "dairy-free-friendly"
+      "dessert",
+      "middle-eastern",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 15,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
