@@ -1358,17 +1358,15 @@
   },
   {
     "slug": "nectarous-japanese-apricots-soup",
-    "title": "Nectarous Japanese Apricots Soup",
+    "title": "Japanese Spring Soup",
     "tags": [
-      "kanto-style",
-      "quick",
-      "seasonal",
-      "smoked",
       "soup",
-      "vegan"
+      "spring",
+      "nectarines",
+      "japanese"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 65,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -15171,12 +15169,11 @@
   },
   {
     "slug": "nutty-malaysian-rice-noodles",
-    "title": "Nutty Malaysian Rice Noodles",
+    "title": "Spicy Malaysian Noodle Stir Fry",
     "tags": [
-      "gluten-free",
-      "kid-friendly",
-      "one-pan",
-      "weeknight"
+      "malaysian",
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "malaysian",
     "totalTimeMin": 25,
