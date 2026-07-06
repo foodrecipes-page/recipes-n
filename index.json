@@ -2467,18 +2467,14 @@
   },
   {
     "slug": "nimble-croatian-cod-broth",
-    "title": "Nimble Croatian Cod Broth",
+    "title": "Croatian Fish Stew",
     "tags": [
-      "briny",
-      "broth",
-      "citrus",
-      "low-carb",
-      "pescatarian",
-      "quick",
-      "sugar-free"
+      "fish-stew",
+      "croatian-cuisine",
+      "easy-recipe"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -2585,18 +2581,15 @@
   },
   {
     "slug": "nimble-german-swede-pancake",
-    "title": "Nimble German Swede Pancake",
+    "title": "Swedish Pancake Dinner",
     "tags": [
-      "breakfast",
-      "fluffy",
-      "healthy",
-      "kid-friendly",
-      "one-pan",
-      "quick",
-      "savory"
+      "swedish",
+      "pancakes",
+      "german",
+      "breakfast"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 20,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -4903,17 +4896,16 @@
   },
   {
     "slug": "nourishing-creamy-kenyan-lime-wrap",
-    "title": "Nourishing Creamy Kenyan Lime Wrap",
+    "title": "Creamy Kenyan Wrap",
     "tags": [
-      "creamy",
       "kenyan",
-      "low-fat",
-      "umami",
-      "weeknight",
-      "wrap"
+      "wrap",
+      "lunch",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 10,
     "shard": "n"
   },
   {
@@ -11632,18 +11624,15 @@
   },
   {
     "slug": "nutty-australian-cashews-stew",
-    "title": "Nutty Australian Cashews Stew",
+    "title": "Cashew Stew with a Twist",
     "tags": [
-      "buddhist-friendly",
-      "chewy",
-      "dairy-free",
-      "gluten-free",
-      "one-pot",
-      "quick",
-      "weeknight"
+      "australian",
+      "cashew",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 30,
+    "cuisine": "australian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
