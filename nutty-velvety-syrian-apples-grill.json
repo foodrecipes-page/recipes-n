@@ -1,0 +1,60 @@
+{
+  "slug": "nutty-velvety-syrian-apples-grill",
+  "title": "Grilled Apple and Syrian Delight",
+  "description": "A sweet and savory dessert that combines the crunch of grilled apples with the nutty flavors of Syrian cuisine. This perfect dessert for fall and winter seasons.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Syrian olives",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granny Smith apples",
+      "amount": "2",
+      "notes": "Grilled"
+    },
+    {
+      "name": "Nutty granola",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Velvety dark chocolate",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill to medium-high heat.",
+    "2. Slice the apples into wedges and brush with a little bit of oil.",
+    "3. Grill the apples for 2-3 minutes on each side, or until they have a nice char.",
+    "4. In a small bowl, mix together the Syrian olives and nutty granola.",
+    "5. Dip each grilled apple wedge into the chocolate and then into the olive-granola mixture.",
+    "6. Place the coated apple wedges on a serving plate and refrigerate for at least 30 minutes.",
+    "7. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "dessert",
+    "middle-eastern",
+    "fall",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-velvety-syrian-apples-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T08:11:55.503Z"
+}
