@@ -1,0 +1,75 @@
+{
+  "slug": "nourishing-brazilian-bean-sprouts-wrap",
+  "title": "Brazilian Bean Wrap",
+  "description": "A flavorful and nutritious wrap filled with sautéed Brazilian-style beans, crunchy sprouts, and wrapped in a nourishing tortilla.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Black beans, cooked",
+      "amount": "1 cup",
+      "notes": "Canned or cooked from scratch"
+    },
+    {
+      "name": "Brazilian-style sausage, sliced",
+      "amount": "4 oz",
+      "notes": "Optional, omit for vegetarian version"
+    },
+    {
+      "name": "Cabbage, shredded",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Nourishing whole wheat tortilla",
+      "amount": "1",
+      "notes": "Large or split into smaller wraps"
+    },
+    {
+      "name": "Edible sprouts",
+      "amount": "1/4 cup",
+      "notes": "Radish or alfalfa work well"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium-high heat.",
+    "2. Sauté the sliced sausage (if using) until browned, about 3-4 minutes.",
+    "3. Add the cooked black beans, cabbage (if using), and cook for an additional 2-3 minutes.",
+    "4. Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "5. Assemble the wrap by spooning the bean mixture onto the center of the tortilla.",
+    "6. Top with edible sprouts and chopped cilantro (if using).",
+    "7. Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "8. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "latin",
+    "wrap",
+    "lunch",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-brazilian-bean-sprouts-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T18:29:23.230Z"
+}
