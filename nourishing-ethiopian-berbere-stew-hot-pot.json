@@ -1,0 +1,96 @@
+{
+  "slug": "nourishing-ethiopian-berbere-stew-hot-pot",
+  "title": "Classic Ethiopian Stew",
+  "description": "A hearty and flavorful stew made with berbere spice, perfect for a cold day. This authentic Ethiopian recipe is a staple in many East African households.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red kidney beans",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add berbere spice and stir for 1 minute.",
+    "Add tomatoes, potatoes, carrots, and red kidney beans.",
+    "Pour in water and bring to a boil.",
+    "Reduce heat to low and simmer for 30 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over injera bread or with rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nourishing",
+    "ethiopian",
+    "berbere",
+    "stew",
+    "hot",
+    "pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-ethiopian-berbere-stew-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:49:51.811Z"
+}
