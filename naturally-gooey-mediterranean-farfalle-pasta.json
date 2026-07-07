@@ -1,0 +1,90 @@
+{
+  "slug": "naturally-gooey-mediterranean-farfalle-pasta",
+  "title": "Mediterranean Gooey Pasta Bake",
+  "description": "A comforting, cheesy pasta bake with a Mediterranean twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle pasta",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "goey mozzarella cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean hummus",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the farfalle pasta according to package instructions until al dente.",
+    "In a large mixing bowl, combine cooked pasta, hummus, parsley, parmesan cheese, salt, and pepper.",
+    "Transfer the pasta mixture to a baking dish.",
+    "Sprinkle the shredded mozzarella cheese on top.",
+    "Drizzle the olive oil over the mozzarella cheese.",
+    "Add the minced garlic on top.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "mediterranean",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-gooey-mediterranean-farfalle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:08:31.142Z"
+}
