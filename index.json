@@ -4989,17 +4989,16 @@
   },
   {
     "slug": "nourishing-crisp-slovakian-danmuji-salad",
-    "title": "Nourishing Crisp Slovakian Danmuji Salad",
+    "title": "Crisp Slovakian Danmuji Salad",
     "tags": [
-      "crunchy",
-      "gluten-free",
-      "low-carb",
-      "refreshing",
+      "salad",
       "slovakian",
-      "vegetarian"
+      "danmuji",
+      "nourishing",
+      "crisp"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
@@ -10089,16 +10088,15 @@
   },
   {
     "slug": "nutritious-bitter-argentinian-rice-stew",
-    "title": "Nutritious Bitter Argentinian Rice Stew",
+    "title": "Argentinian Beef Stew",
     "tags": [
       "argentinian",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "vegan-friendly"
+      "beef-stew",
+      "comfort-food",
+      "meat-lovers"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 185,
     "shard": "n"
   },
   {
@@ -14470,18 +14468,15 @@
   },
   {
     "slug": "nutty-gooey-moroccan-fish-stir-fry",
-    "title": "Nutty Gooey Moroccan Fish Stir-fry",
+    "title": "Moroccan Style Pan-Seared Fish",
     "tags": [
-      "nutty",
-      "gooey",
-      "lazy-sunday",
       "moroccan",
       "fish",
-      "stir-fry",
-      "keto-friendly"
+      "seafood",
+      "spicy"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -14697,16 +14692,15 @@
   },
   {
     "slug": "nutty-jamaican-chicken-curry",
-    "title": "Nutty Jamaican Chicken Curry",
+    "title": "Jamaican Curry Chicken",
     "tags": [
-      "comfort-food",
-      "jamaican-cuisine",
-      "nutty-flavors",
-      "one-pot",
-      "weeknight-dinner"
+      "chicken",
+      "curry",
+      "jamaican",
+      "spicy"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
