@@ -1,0 +1,74 @@
+{
+  "slug": "nutty-gooey-moroccan-fish-stir-fry",
+  "title": "Moroccan Style Pan-Seared Fish",
+  "description": "A flavorful and spicy Moroccan-inspired dish made with pan-seared fish, served with a variety of sides.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (4)",
+      "amount": "4",
+      "notes": "any white fish, such as tilapia or mahi-mahi"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan spice mix",
+      "amount": "1 tsp",
+      "notes": "available at most spice stores or online"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Season the fish fillets with salt and pepper.",
+    "Add the garlic and ginger to the skillet and sauté for 1 minute.",
+    "Add the fish fillets to the skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "Remove the fish from the skillet and place on a plate.",
+    "Reduce heat to medium and add the Moroccan spice mix to the skillet.",
+    "Stir for 1 minute and then squeeze in the lemon juice.",
+    "Serve the fish with the spicy sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "fish",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-gooey-moroccan-fish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:49:39.576Z"
+}
