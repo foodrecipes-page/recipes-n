@@ -1,0 +1,92 @@
+{
+  "slug": "nutty-jamaican-chicken-curry",
+  "title": "Jamaican Curry Chicken",
+  "description": "A flavorful and aromatic curry dish made with chicken, nutty spices, and a hint of Jamaican flair.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "Jamaican-style"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for coating the chicken"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Season the chicken breast with salt, pepper, and Jamaican jerk seasoning.",
+    "Coat the chicken in flour, shaking off excess.",
+    "Heat vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped onion and minced garlic to the skillet and cook until softened, about 3-4 minutes.",
+    "Stir in the curry powder and cook for 1 minute.",
+    "Add the coconut milk to the skillet and bring to a simmer.",
+    "Return the chicken to the skillet and cook until cooked through, about 10-12 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "jamaican",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "38g",
+    "carbs": "30g",
+    "fat": "32g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-jamaican-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T02:41:41.983Z"
+}
