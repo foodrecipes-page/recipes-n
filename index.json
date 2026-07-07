@@ -378,17 +378,16 @@
   },
   {
     "slug": "naturally-crunchy-syrian-beef-stock-kebabs",
-    "title": "Naturally Crunchy Syrian Beef Stock Kebabs",
+    "title": "Beef Kebabs with Syrian Crunch",
     "tags": [
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "syrian-cuisine",
-      "vegan-friendly",
-      "weeknight"
+      "kebabs",
+      "beef",
+      "syrian",
+      "crunchy",
+      "middle-eastern"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -509,15 +508,14 @@
   },
   {
     "slug": "naturally-gooey-mediterranean-farfalle-pasta",
-    "title": "naturally gooey mediterranean farfalle pasta",
+    "title": "Mediterranean Gooey Pasta Bake",
     "tags": [
-      "gooey",
-      "mediterranean",
+      "italian",
       "pasta",
-      "ramekin",
-      "vegetarian"
+      "mediterranean",
+      "comfort-food"
     ],
-    "cuisine": "mediterranean",
+    "cuisine": "Italian",
     "totalTimeMin": 35,
     "shard": "n"
   },
