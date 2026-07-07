@@ -1,0 +1,94 @@
+{
+  "slug": "nutritious-bitter-argentinian-rice-stew",
+  "title": "Argentinian Beef Stew",
+  "description": "A hearty and flavorful stew originating from Argentina, featuring tender beef and nutritious vegetables.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat-lovers",
+    "comfort-food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "parsnip",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, about 5 minutes.",
+    "Add the onion, carrot, potato, and parsnip. Cook until the vegetables are slightly tender, about 5 minutes.",
+    "Add the garlic, red wine, beef broth, thyme, and bay leaves. Stir to combine.",
+    "Bring the stew to a boil, then cover and transfer to the oven.",
+    "Braise the stew in a preheated oven at 300°F (150°C) for 2 1/2 hours, or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 165,
+  "totalTimeMin": 185,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef-stew",
+    "comfort-food",
+    "meat-lovers"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-bitter-argentinian-rice-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:06:59.422Z"
+}
