@@ -1,0 +1,82 @@
+{
+  "slug": "nourishing-smoky-american-italian-chicken-casserole",
+  "title": "Smoky Chicken Casserole",
+  "description": "A hearty, comforting dish featuring smoky flavors and tender chicken.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "smoky american cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "italian breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the chicken breast in a skillet over medium-high heat until browned on both sides and cooked through.",
+    "In a separate skillet, sauté the onion and garlic until softened.",
+    "In a large bowl, combine the cooked chicken, sautéed onion and garlic, smoky american cheese, italian breadcrumbs, salt, and pepper.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Drizzle with olive oil and toss to coat.",
+    "Cover with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-american-italian-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:02:40.974Z"
+}
