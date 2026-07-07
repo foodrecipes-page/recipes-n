@@ -1,0 +1,79 @@
+{
+  "slug": "nostalgic-venezuelan-plantains-pudding",
+  "title": "Pabellón Criollo Pudding Dessert",
+  "description": "A twist on the classic Venezuelan dessert, substituting traditional Tres Leches cake with a creamy pudding.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "3 large",
+      "notes": "ripe"
+    },
+    {
+      "name": "vanilla pudding",
+      "amount": "1 box",
+      "notes": null
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Peel and slice the plantains into 1-inch rounds.",
+    "In a large bowl, combine the pudding mix, evaporated milk, heavy cream, sugar, cinnamon, and salt. Mix well.",
+    "Arrange half of the plantain slices in a 9x13 inch baking dish.",
+    "Pour the pudding mixture over the plantains.",
+    "Arrange the remaining plantain slices on top.",
+    "Bake for 35-40 minutes, or until the pudding is set and the plantains are caramelized.",
+    "Remove from oven and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "pudding",
+    "plantains",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-venezuelan-plantains-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:35:44.189Z"
+}
