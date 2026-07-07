@@ -1,0 +1,93 @@
+{
+  "slug": "nourishing-middle-eastern-cabbage-tabbouleh",
+  "title": "Eastern-Style Stuffed Cabbage Rolls",
+  "description": "A twist on traditional cabbage rolls, featuring a nourishing Middle Eastern filling. Serve warm, garnished with fresh parsley.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large cabbage leaves",
+      "amount": "1 head",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "tabbouleh mix",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "nourishing rice blend",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "garnish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Blanch the cabbage leaves for 30 seconds, then remove and rinse with cold water.",
+    "In a large bowl, combine the tabbouleh mix, cooked rice, feta cheese (if using), lemon juice, olive oil, cumin, salt, and black pepper. Mix well.",
+    "To assemble the rolls, lay a cabbage leaf flat and place about 1/4 cup of the rice mixture in the center. Fold the stem end over the filling, then fold in the sides and roll up the leaf to form a tight cylinder.",
+    "Repeat with the remaining cabbage leaves and filling. Place the rolls seam-side down in a baking dish.",
+    "Cover the rolls with aluminum foil and bake at 375°F (190°C) for 25 minutes.",
+    "Remove the foil and bake for an additional 10-15 minutes, or until the cabbage is tender and the filling is heated through.",
+    "Serve warm, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "stuffed cabbage",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-middle-eastern-cabbage-tabbouleh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:34:48.300Z"
+}
