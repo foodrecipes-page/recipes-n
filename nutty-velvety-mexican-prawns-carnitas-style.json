@@ -1,0 +1,88 @@
+{
+  "slug": "nutty-velvety-mexican-prawns-carnitas-style",
+  "title": "Crispy Carnitas Tacos with Avocado Salsa",
+  "description": "A delicious and flavorful Mexican-inspired dish featuring crispy carnitas, avocado salsa, and fresh cilantro. Perfect for a dinner or snack.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mexican-style seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Avocados",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1 pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut pork shoulder into large chunks and place in a bowl.",
+    "In a small bowl, mix together lime juice, vegetable oil, and Mexican-style seasoning. Pour over pork chunks and toss to coat.",
+    "Cover bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove pork from refrigerator and let sit at room temperature for 30 minutes.",
+    "Place pork chunks on a baking sheet lined with parchment paper and roast for 20-25 minutes, or until crispy and golden brown.",
+    "While pork is cooking, toast Mexican-style seasoning in a small skillet over medium heat for 1-2 minutes, or until fragrant.",
+    "To make avocado salsa, cut avocados in half and remove pit. Mash in a bowl with a fork until desired consistency.",
+    "Add red onion, cilantro, and toasted Mexican-style seasoning to bowl with mashed avocado. Mix until combined.",
+    "Serve crispy carnitas in tacos with avocado salsa and additional cilantro if desired.",
+    "Cook time for the salsa is 5-7 minutes, depending on desired consistency."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "carnitas",
+    "tacos",
+    "avocado",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-velvety-mexican-prawns-carnitas-style",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:22:23.087Z"
+}
