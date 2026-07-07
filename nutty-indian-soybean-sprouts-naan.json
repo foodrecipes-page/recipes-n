@@ -1,0 +1,79 @@
+{
+  "slug": "nutty-indian-soybean-sprouts-naan",
+  "title": "Nutty Sprouts Naan",
+  "description": "A flavorful and nutritious naan recipe topped with nutty sprouts and spices, inspired by Indian cuisine.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Naan bread",
+      "amount": "4 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Sprouts",
+      "amount": "1 cup",
+      "notes": "roasted or raw"
+    },
+    {
+      "name": "Soybean oil",
+      "amount": "2 tablespoons",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "or ground cumin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Brush the naan bread with soybean oil on both sides.",
+    "Place the naan in the skillet and sprinkle with garam masala and cumin seeds.",
+    "Cook for 1-2 minutes on the first side, or until lightly browned and puffed.",
+    "Flip the naan and cook for another minute on the second side.",
+    "Top each naan with a spoonful of sprouts and a sprinkle of salt.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "healthy",
+    "snack",
+    "naan",
+    "sprouts"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-indian-soybean-sprouts-naan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T20:52:50.534Z"
+}
