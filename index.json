@@ -4805,17 +4805,15 @@
   },
   {
     "slug": "nourishing-chinese-tofu-mapo-tofu",
-    "title": "Nourishing Chinese Tofu Mapo Tofu",
+    "title": "Mapo Tofu",
     "tags": [
-      "chinese-food",
-      "high-protein",
-      "macrobiotic",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "sichuan",
+      "chinese",
+      "tofu",
+      "ground-pork"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -11030,16 +11028,15 @@
   },
   {
     "slug": "nutritious-polish-chickpeas-skillet",
-    "title": "Nutritious Polish Chickpeas Skillet",
+    "title": "Polish Chickpea Skillet",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "polish",
+      "chickpea",
+      "skillet",
+      "one-pot"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
@@ -14603,17 +14600,16 @@
   },
   {
     "slug": "nutty-indian-soybean-sprouts-naan",
-    "title": "Nutty Indian Soybean Sprouts Naan",
+    "title": "Nutty Sprouts Naan",
     "tags": [
-      "cheesy",
-      "indian-food",
-      "naan-bread",
-      "salt-block",
-      "soybean-sprouts",
-      "vegetarian"
+      "indian",
+      "healthy",
+      "snack",
+      "naan",
+      "sprouts"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
@@ -17513,19 +17509,16 @@
   },
   {
     "slug": "nutty-velvety-mexican-prawns-carnitas-style",
-    "title": "Nutty Velvety Mexican Prawns Carnitas-Style",
+    "title": "Crispy Carnitas Tacos with Avocado Salsa",
     "tags": [
-      "carnitas",
-      "comfort-food",
-      "easy-weeknight",
-      "low-carb",
       "mexican",
-      "one-skillet",
-      "prawns",
-      "sick-day"
+      "carnitas",
+      "tacos",
+      "avocado",
+      "salsa"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 35,
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
