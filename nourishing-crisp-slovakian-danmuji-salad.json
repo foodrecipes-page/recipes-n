@@ -1,0 +1,84 @@
+{
+  "slug": "nourishing-crisp-slovakian-danmuji-salad",
+  "title": "Crisp Slovakian Danmuji Salad",
+  "description": "A refreshing salad with crunchy Slovakian danmuji, crisp ingredients, and a nourishing twist.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Slovakian danmuji",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Shredded carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crisp lettuce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine danmuji, carrot, lettuce, and red onion.",
+    "2. In a small bowl, whisk together apple cider vinegar, lemon juice, and olive oil.",
+    "3. Pour the dressing over the danmuji mixture and toss to coat.",
+    "4. Season with salt and black pepper to taste.",
+    "5. Sprinkle parsley over the top and serve.",
+    "6. Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "7. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "slovakian",
+    "danmuji",
+    "nourishing",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-crisp-slovakian-danmuji-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:47:14.322Z"
+}
