@@ -1,0 +1,69 @@
+{
+  "slug": "nostalgic-crumble-thai-flavor",
+  "title": "Thai Crumble Nostalgic Delight",
+  "description": "A sweet and crunchy dessert that combines the nostalgia of a classic crumble with the exotic flavors of Thailand.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Nostalgic Crumble Mix",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Thai Red Rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Thai Tea Syrup",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Flavorful Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "high-quality"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together the Thai Red Rice and Nostalgic Crumble Mix.",
+    "In a separate bowl, whisk together the melted Coconut Oil and Thai Tea Syrup.",
+    "Pour the wet ingredients into the dry ingredients and stir until a crumbly mixture forms.",
+    "Press the mixture into a 9x9 inch baking dish.",
+    "Bake for 25-30 minutes or until the top is golden brown.",
+    "Remove from the oven and drizzle with the Flavorful Vanilla Extract.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "thaicrumbledessert",
+    "coconut",
+    "vanilla",
+    "rice",
+    "crust"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-crumble-thai-flavor",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T09:29:52.548Z"
+}
