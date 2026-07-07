@@ -1,0 +1,94 @@
+{
+  "slug": "nourishing-chinese-tofu-mapo-tofu",
+  "title": "Mapo Tofu",
+  "description": "A classic Sichuan dish made with tofu, ground meat, and chili peppers. This mapo tofu recipe is a staple of Chinese cuisine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "250g",
+      "notes": "firm or soft, whichever is available"
+    },
+    {
+      "name": "ground pork",
+      "amount": "200g",
+      "notes": "or ground beef for variation"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "3",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or tamari for gluten-free option"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "chili oil",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over high heat.",
+    "Add sliced chili peppers and cook until fragrant.",
+    "Add ground pork and cook until browned, breaking it up with a spatula.",
+    "Add garlic, ginger, and chili oil. Cook until fragrant.",
+    "Add tofu and stir-fry until it's golden brown.",
+    "In a small bowl, mix soy sauce, sugar, and cornstarch (if using). Pour the mixture into the wok or skillet.",
+    "Stir-fry for another minute, until the sauce has thickened.",
+    "Season with salt to taste.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "sichuan",
+    "chinese",
+    "tofu",
+    "ground-pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-chinese-tofu-mapo-tofu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T21:34:48.917Z"
+}
