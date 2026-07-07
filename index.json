@@ -3465,14 +3465,16 @@
   },
   {
     "slug": "nostalgic-crumble-thai-flavor",
-    "title": "Nostalgic Crumble Thai Flavor",
+    "title": "Thai Crumble Nostalgic Delight",
     "tags": [
-      "crumble",
-      "thai",
-      "zhejiang"
+      "thaicrumbledessert",
+      "coconut",
+      "vanilla",
+      "rice",
+      "crust"
     ],
-    "cuisine": "Chinese (Zhejiang)",
-    "totalTimeMin": 25,
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -7829,16 +7831,13 @@
   },
   {
     "slug": "nourishing-smoky-american-italian-chicken-casserole",
-    "title": "Nourishing Smoky American Italian Chicken Casserole",
+    "title": "Smoky Chicken Casserole",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "italian-inspired",
-      "one-pan",
-      "smoky",
-      "weeknight"
+      "chicken",
+      "casserole",
+      "comfort-food"
     ],
-    "cuisine": "American Italian",
+    "cuisine": null,
     "totalTimeMin": 50,
     "shard": "n"
   },
