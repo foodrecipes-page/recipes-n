@@ -1,0 +1,84 @@
+{
+  "slug": "naturally-crunchy-syrian-beef-stock-kebabs",
+  "title": "Beef Kebabs with Syrian Crunch",
+  "description": "Tender beef skewers with a crunchy Syrian twist, served with a side of savory stock.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lean Beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Syrian Crunchy Bread",
+      "amount": "1 cup, torn into small pieces",
+      "notes": "for serving"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Crushed Garlic",
+      "amount": "2 cloves",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Beef Stock",
+      "amount": "2 cups",
+      "notes": "for serving"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread beef cubes onto skewers, leaving a small space between each piece.",
+    "3. Brush olive oil onto the kebabs and season with salt, pepper, garlic, paprika, and cumin.",
+    "4. Grill kebabs for 8-10 minutes, turning occasionally, until cooked to desired doneness.",
+    "5. Meanwhile, toast Syrian crunchy bread by grilling for 2-3 minutes or baking in oven at 350°F for 5-7 minutes.",
+    "6. Serve kebabs with a side of beef stock and toasted crunchy bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "beef",
+    "syrian",
+    "crunchy",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-crunchy-syrian-beef-stock-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:05:35.494Z"
+}
