@@ -8337,16 +8337,15 @@
   },
   {
     "slug": "nourishing-sour-irish-thai-lamb-stew",
-    "title": "Nourishing Sour Irish Thai Lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
-      "hearty-stew",
-      "irish-thai-fusion",
-      "one-pot",
-      "shojin-friendly",
-      "stone-bowl-cooking"
+      "irish",
+      "lamb",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Fusion",
-    "totalTimeMin": 110,
+    "cuisine": "Irish",
+    "totalTimeMin": 180,
     "shard": "n"
   },
   {
