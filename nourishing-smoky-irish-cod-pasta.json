@@ -1,0 +1,96 @@
+{
+  "slug": "nourishing-smoky-irish-cod-pasta",
+  "title": "Smoked Cod Pasta Bake",
+  "description": "A comforting Irish-inspired pasta bake featuring smoky cod and a nourishing blend of vegetables.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod",
+      "amount": "1 pound",
+      "notes": "smoked"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the gluten-free pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Stir in the diced tomatoes, salt, and pepper.",
+    "Add the cooked pasta to the skillet and stir to combine.",
+    "Transfer the pasta mixture to a baking dish.",
+    "Top the pasta with smoked cod and shredded cheddar cheese.",
+    "Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "seafood",
+    "pasta",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-irish-cod-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:18:39.348Z"
+}
