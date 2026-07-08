@@ -14,16 +14,13 @@
   },
   {
     "slug": "namul-blanch-seasoned-croatian-onions-gallette",
-    "title": "Namul-Blanch-Seasoned Croatian Onions Gallette",
+    "title": "Croatian Namul Gallette",
     "tags": [
-      "gluten-free",
-      "low-carb",
-      "meal-prep",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "gallette",
+      "namul",
+      "vegetarian"
     ],
-    "cuisine": "Croatian",
+    "cuisine": "Eastern European",
     "totalTimeMin": 30,
     "shard": "n"
   },
@@ -8248,17 +8245,16 @@
   },
   {
     "slug": "nourishing-snappy-canadian-lamb-kebabs",
-    "title": "Nourishing Snappy Canadian Lamb Kebabs",
+    "title": "Nourishing Lamb and Vegetable Kebabs",
     "tags": [
-      "canadian",
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "romantic",
-      "weeknight"
+      "lamb",
+      "kebabs",
+      "mediterranean",
+      "gluten-free",
+      "low-carb"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 33,
     "shard": "n"
   },
   {
@@ -13839,16 +13835,15 @@
   },
   {
     "slug": "nutty-flaky-filipino-malai-paella",
-    "title": "Nutty Flaky Filipino Malai Paella",
+    "title": "Malai Paella with Filpino Twist",
     "tags": [
-      "filipino-food",
-      "gluten-free",
-      "low-glycemic",
-      "one-pan",
-      "weeknight"
+      "filipino",
+      "spanish",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "cuisine": "Filipino-Spanish",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -14734,21 +14729,16 @@
   },
   {
     "slug": "nutty-juicy-dutch-steak-skewers",
-    "title": "Nutty Juicy Dutch Steak Skewers",
+    "title": "Grilled Steak Skewers",
     "tags": [
-      "dutch",
+      "grilled",
       "steak",
       "skewers",
-      "nutty",
-      "tandoor",
-      "egg-free",
-      "festive",
-      "grill",
-      "beef",
-      "summer"
+      "easy-dinner",
+      "quick-meal"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 31,
     "shard": "n"
   },
   {
@@ -16644,10 +16634,13 @@
   },
   {
     "slug": "nutty-spanish-peanuts-stir-fry",
-    "title": "Nutty Spanish Peanuts Stir-Fry",
+    "title": "Spanish Peanut Stir-Fry",
     "tags": [
-      "nutty-spanish-peanuts-stir-fry",
-      "fluffy-slow-cook-raw-friendly-dish"
+      "spanish",
+      "peanuts",
+      "stir-fry",
+      "quick",
+      "easy"
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 25,
