@@ -7426,17 +7426,15 @@
   },
   {
     "slug": "nourishing-shaggy-mexican-chicken-mole-poblano",
-    "title": "Nourishing Shaggy Mexican Chicken Mole Poblano",
+    "title": "Chicken Mole Enchiladas",
     "tags": [
-      "ayurvedic-recipes",
-      "chicken-recipes",
-      "dairy-free-recipes",
-      "gluten-free-recipes",
-      "mexican-food",
-      "mole-poblano"
+      "mexican",
+      "chicken",
+      "enchiladas",
+      "mole"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 55,
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
@@ -8717,17 +8715,14 @@
   },
   {
     "slug": "nourishing-tender-portuguese-chicken-empanadas",
-    "title": "Nourishing Tender Portuguese Chicken Empanadas",
+    "title": "Portuguese Empanadas with Chicken",
     "tags": [
-      "chicken-recipes",
-      "filo-pastry",
-      "kosher-friendly",
-      "portuguese-cuisine",
-      "tangy-food",
-      "weeknight-dinner"
+      "chicken",
+      "portuguese",
+      "empanadas"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "cuisine": "portuguese",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
