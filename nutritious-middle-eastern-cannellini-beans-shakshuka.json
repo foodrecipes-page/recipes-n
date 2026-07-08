@@ -1,0 +1,81 @@
+{
+  "slug": "nutritious-middle-eastern-cannellini-beans-shakshuka",
+  "title": "Shakshuka with Cannellini Beans",
+  "description": "A twist on the classic North African dish, adding cannellini beans for extra protein and fiber.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cannellini beans",
+      "amount": "1 (15 ounce) can",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Shakshuka sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the chopped onion and cook, stirring occasionally, until it is lightly browned, about 8 minutes.",
+    "Add the sliced bell pepper and cook, stirring occasionally, until it is tender, about 5 minutes.",
+    "Add the minced garlic and cook, stirring constantly, for 1 minute.",
+    "Stir in the shakshuka sauce and bring to a simmer.",
+    "Reduce the heat to medium-low and add the cannellini beans.",
+    "Create 4 wells in the sauce and crack an egg into each well.",
+    "Cover the skillet and cook, undisturbed, until the eggs are cooked to your desired doneness, about 10-12 minutes.",
+    "Season the shakshuka with salt and pepper to taste.",
+    "Serve the shakshuka hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-middle-eastern-cannellini-beans-shakshuka",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:21:14.658Z"
+}
