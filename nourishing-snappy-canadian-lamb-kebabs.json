@@ -1,0 +1,85 @@
+{
+  "slug": "nourishing-snappy-canadian-lamb-kebabs",
+  "title": "Nourishing Lamb and Vegetable Kebabs",
+  "description": "A flavorful and nutritious lamb kebab recipe, perfect for a quick and easy dinner. This dish is packed with fresh vegetables and herbs.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "1 1/2 pounds"
+    },
+    {
+      "name": "Nourishing",
+      "amount": "1 cup",
+      "notes": "mixed greens (kale, spinach, arugula)"
+    },
+    {
+      "name": "Snappy",
+      "amount": "1 cup",
+      "notes": "carrots, peeled and chopped"
+    },
+    {
+      "name": "Canadian",
+      "amount": "1 cup",
+      "notes": "peeled and chopped zucchini"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, and minced garlic.",
+    "Add chopped onion, carrots, zucchini, and mixed greens to the bowl. Toss to coat.",
+    "Thread lamb, onion, carrots, zucchini, and mixed greens onto skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes per side, or until lamb reaches 145°F (63°C).",
+    "Let rest for 5 minutes before serving.",
+    "Serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "mediterranean",
+    "gluten-free",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-snappy-canadian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T10:44:47.220Z"
+}
