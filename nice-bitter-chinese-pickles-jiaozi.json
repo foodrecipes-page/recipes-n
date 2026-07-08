@@ -1,0 +1,76 @@
+{
+  "slug": "nice-bitter-chinese-pickles-jiaozi",
+  "title": "Pan-Fried Jiaozi with Pickle Slaw",
+  "description": "A Chinese-inspired recipe that combines the flavors of pan-fried jiaozi with a refreshing pickle slaw.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jiaozi",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "pickles",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for pickle slaw"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "for jiaozi"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the jiaozi to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "While the jiaozi is cooking, prepare the pickle slaw by mixing together the sliced pickles, rice vinegar, and grated ginger in a bowl.",
+    "Once the jiaozi is cooked, remove it from the skillet and add the chopped green onions to the skillet.",
+    "Cook for 1 minute, until the green onions are wilted.",
+    "Serve the jiaozi with the pickle slaw on top.",
+    "Garnish with additional chopped green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-bitter-chinese-pickles-jiaozi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T07:15:08.416Z"
+}
