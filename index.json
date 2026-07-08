@@ -1556,17 +1556,14 @@
   },
   {
     "slug": "nice-bitter-chinese-pickles-jiaozi",
-    "title": "Nice Bitter Chinese Pickles Jiaozi",
+    "title": "Pan-Fried Jiaozi with Pickle Slaw",
     "tags": [
-      "asian-cuisine",
-      "chinese-food",
-      "gluten-free",
-      "jiaozi-recipe",
-      "pickled-vegetables",
-      "yakimono-grill"
+      "chinese",
+      "vegetarian",
+      "lunch"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
@@ -9312,18 +9309,14 @@
   },
   {
     "slug": "nurturing-irish-rice-pilaf",
-    "title": "Nurturing Irish Rice Pilaf",
+    "title": "Irish Pilaf with Nurturing Touch",
     "tags": [
-      "cedar-plank",
-      "crisp",
-      "date-night",
-      "grassy",
-      "irish",
-      "macrobiotic-friendly",
-      "rice-pilaf"
+      "comfort-food",
+      "irish-cuisine",
+      "vegetarian-options"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -11946,19 +11939,15 @@
   },
   {
     "slug": "nutty-cheesy-venezuelan-turnips-quesadilla",
-    "title": "Nutty Cheesy Venezuelan Turnips Quesadilla",
+    "title": "Cheesy Turnip Quesadilla",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "nut-free",
-      "one-pan",
-      "plant-based",
-      "soy-free",
-      "venezuelan",
-      "weeknight"
+      "quesadilla",
+      "turnip",
+      "cheese",
+      "veggie"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
