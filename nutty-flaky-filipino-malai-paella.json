@@ -1,0 +1,85 @@
+{
+  "slug": "nutty-flaky-filipino-malai-paella",
+  "title": "Malai Paella with Filpino Twist",
+  "description": "A fusion of Spanish paella with Filipino flavors, featuring nutty malai rice and savory filipino spices.",
+  "cuisine": "Filipino-Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nutty malai rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "flaky coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "filipino-style patis",
+      "amount": "2 tbsp",
+      "notes": "fish sauce alternative"
+    },
+    {
+      "name": "chicken bouillon",
+      "amount": "2 cups",
+      "notes": "vegetarian option: mushroom broth"
+    },
+    {
+      "name": "paella spices",
+      "amount": "1 tsp",
+      "notes": "paprika, saffron, and thyme"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup",
+      "notes": "optional, for added color"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan or skillet over medium heat.",
+    "Add fried shallots and cook for 2-3 minutes, until fragrant.",
+    "Add chicken bouillon and patis; stir to combine.",
+    "Add paella spices; stir to combine.",
+    "Add flaky coconut milk and bring to a simmer.",
+    "Add nutty malai rice; stir to combine.",
+    "Reduce heat to low and cook for 15-20 minutes, until rice is tender.",
+    "Stir in frozen peas (if using).",
+    "Serve immediately, garnished with additional fried shallots if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "spanish",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-flaky-filipino-malai-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:28:38.329Z"
+}
