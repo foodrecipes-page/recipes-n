@@ -1,0 +1,79 @@
+{
+  "slug": "nourishing-shaggy-mexican-chicken-mole-poblano",
+  "title": "Chicken Mole Enchiladas",
+  "description": "A rich and flavorful Mexican dish featuring shredded chicken in a complex mole sauce, served in tortillas and baked until golden.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "nourishing flour tortillas",
+      "amount": "8-10",
+      "notes": null
+    },
+    {
+      "name": "mole paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "shaggy chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "mexican shredded cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roast poblano peppers over an open flame or in the oven until charred, then peel and chop.",
+    "Shred the chicken breasts and set aside.",
+    "Heat oil in a large skillet over medium heat. Add mole paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add chicken broth to the skillet and stir to combine. Bring to a simmer and cook for 2-3 minutes.",
+    "Stir in shredded chicken and cook until heated through.",
+    "In a separate pan, warm tortillas over medium heat for 30-60 seconds on each side.",
+    "To assemble the enchiladas, lay a tortilla flat and spoon some of the chicken mixture onto the center of the tortilla.",
+    "Roll the tortilla up and place seam-side down in a baking dish. Repeat with remaining tortillas and chicken mixture.",
+    "Pour the mole sauce over the top of the enchiladas and sprinkle with cheese.",
+    "Cover the dish with aluminum foil and bake for 20-25 minutes. Remove foil and bake for an additional 5-10 minutes, or until cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "enchiladas",
+    "mole"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-shaggy-mexican-chicken-mole-poblano",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:32:46.755Z"
+}
