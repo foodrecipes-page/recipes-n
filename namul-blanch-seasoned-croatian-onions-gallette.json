@@ -1,0 +1,59 @@
+{
+  "slug": "namul-blanch-seasoned-croatian-onions-gallette",
+  "title": "Croatian Namul Gallette",
+  "description": "A flavorful vegetarian dish combining the crunch of namul with the savory taste of croatian gallette. This recipe is perfect for those looking for a satisfying meal.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian gallette",
+      "amount": "1 large sheet"
+    },
+    {
+      "name": "Namul",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Seasoned croatian breadcrumbs",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the Croatian gallette to the desired thickness.",
+    "Spread the namul evenly over the gallette, leaving a 1 inch border around the edges.",
+    "Top the namul with thinly sliced onions.",
+    "Sprinkle the seasoned croatian breadcrumbs over the onions.",
+    "Bake in the preheated oven for 15-20 minutes, or until the crust is golden brown.",
+    "Remove the gallette from the oven and let it cool for a few minutes.",
+    "Slice the gallette into desired portions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gallette",
+    "namul",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/namul-blanch-seasoned-croatian-onions-gallette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T10:13:22.260Z"
+}
