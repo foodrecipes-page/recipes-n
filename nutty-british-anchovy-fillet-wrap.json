@@ -1,0 +1,68 @@
+{
+  "slug": "nutty-british-anchovy-fillet-wrap",
+  "title": "British-Style Fish Wrap",
+  "description": "A classic British-inspired fish wrap recipe featuring a delicate fish fillet in a tangy anchovy sauce, wrapped in a crispy British-style wrap.",
+  "cuisine": "british",
+  "diet": [
+    "fish",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fillet",
+      "amount": "1",
+      "notes": "Fresh cod or haddock fillet"
+    },
+    {
+      "name": "Anchovy",
+      "amount": "2",
+      "notes": "Anchovy paste or 2-3 anchovy fillets"
+    },
+    {
+      "name": "Nutty",
+      "amount": "1 tsp",
+      "notes": "Nutty or savory seasoning"
+    },
+    {
+      "name": "British",
+      "amount": "1",
+      "notes": "British-style wrap or flatbread"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": "Wedge of lemon for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or griddle over medium heat.",
+    "2. Season the fish fillet with salt, pepper, and nutty seasoning.",
+    "3. Add a small amount of butter or oil to the skillet and cook the fish for 2-3 minutes per side, or until cooked through.",
+    "4. Meanwhile, mix together the anchovy paste, lemon juice, and a pinch of salt and pepper.",
+    "5. Spread the anchovy sauce on the British-style wrap.",
+    "6. Once the fish is cooked, place it on the wrap, and top with a squeeze of lemon.",
+    "7. Fold the wrap to enclose the filling, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "wrap",
+    "british",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-british-anchovy-fillet-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:35:41.779Z"
+}
