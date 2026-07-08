@@ -1,0 +1,77 @@
+{
+  "slug": "nourishing-tender-portuguese-chicken-empanadas",
+  "title": "Portuguese Empanadas with Chicken",
+  "description": "Delicious empanadas filled with tender chicken, perfect for a snack or light meal.",
+  "cuisine": "portuguese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, boneless and skinless",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing empanadas"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "for filling"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": "for filling"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix chicken, onion, garlic, salt, and pepper in a bowl.",
+    "Roll out empanada dough and cut into circles.",
+    "Place a tablespoon of the chicken mixture onto the center of each circle.",
+    "Brush edges with olive oil and fold the dough in half, pressing edges together.",
+    "Place empanadas on a baking sheet and brush tops with olive oil.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "portuguese",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-tender-portuguese-chicken-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:04:00.415Z"
+}
