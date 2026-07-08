@@ -11746,17 +11746,15 @@
   },
   {
     "slug": "nutty-british-anchovy-fillet-wrap",
-    "title": "Nutty British Anchovy Fillet Wrap",
+    "title": "British-Style Fish Wrap",
     "tags": [
+      "fish",
+      "wrap",
       "british",
-      "date-night",
-      "high-protein",
-      "one-pan",
-      "seafood",
-      "shojin-friendly"
+      "lunch"
     ],
     "cuisine": "british",
-    "totalTimeMin": 23,
+    "totalTimeMin": 18,
     "shard": "n"
   },
   {
