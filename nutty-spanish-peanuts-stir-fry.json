@@ -1,0 +1,85 @@
+{
+  "slug": "nutty-spanish-peanuts-stir-fry",
+  "title": "Spanish Peanut Stir-Fry",
+  "description": "A quick and flavorful stir-fry made with peanuts, Spanish ingredients, and a nutty twist.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "peanut halves or sliced"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "nutty almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "stir-fry bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "fry onions",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook until softened, about 3-4 minutes.",
+    "Add the sliced bell peppers and cook for another 3-4 minutes, until tender.",
+    "Add the peanut halves and sliced almonds, stir-frying for 2-3 minutes.",
+    "Season with nutmeg, salt, and black pepper, to taste.",
+    "Cook for an additional 1-2 minutes to heat through.",
+    "Serve immediately, garnished with chopped peanuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "peanuts",
+    "stir-fry",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "8g",
+    "carbs": "20g",
+    "fat": "22g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-spanish-peanuts-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:37:31.002Z"
+}
