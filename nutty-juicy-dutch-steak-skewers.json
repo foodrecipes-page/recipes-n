@@ -1,0 +1,69 @@
+{
+  "slug": "nutty-juicy-dutch-steak-skewers",
+  "title": "Grilled Steak Skewers",
+  "description": "A flavorful and easy-to-make dish featuring grilled steak skewers, perfect for a weeknight dinner. This recipe combines the richness of steak with the sweetness of juicy vegetables.",
+  "cuisine": null,
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "1.5 lbs",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "juicy",
+      "amount": "1 cup",
+      "notes": "bell pepper, onion, and cherry tomatoes"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup",
+      "notes": "chopped almonds or walnuts"
+    },
+    {
+      "name": "dutch",
+      "amount": "2 tbsp",
+      "notes": "Dutch seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut the steak into 1-inch cubes and season with salt, pepper, and Dutch seasoning.",
+    "Thread the steak and juicy vegetables onto the skewers, leaving a little space between each piece.",
+    "Brush the skewers with oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until the steak reaches 135°F for medium-rare.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Sprinkle the nutty topping over the skewers before serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "skewers",
+    "easy-dinner",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-juicy-dutch-steak-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T10:13:04.669Z"
+}
