@@ -1,0 +1,71 @@
+{
+  "slug": "nostalgic-umami-dense-grapefruit-stir-fry",
+  "title": "Grapefruit Pan-Seared Pork Chops",
+  "description": "A sweet and savory dish featuring pan-seared pork chops with a grapefruit glaze. Perfect for a cozy dinner.",
+  "cuisine": "American",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Season the pork chops with salt and pepper.",
+    "2. Heat the butter in a skillet over medium-high heat.",
+    "3. Sear the pork chops for 2-3 minutes on each side, or until browned.",
+    "4. In a small bowl, whisk together the grapefruit juice and brown sugar.",
+    "5. Brush the grapefruit glaze over the pork chops during the last minute of cooking.",
+    "6. Remove the pork chops from the skillet and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grapefruit",
+    "pan-seared",
+    "pork-chops",
+    "dinner-ideas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-umami-dense-grapefruit-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T02:54:23.893Z"
+}
