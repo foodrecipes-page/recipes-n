@@ -1,0 +1,98 @@
+{
+  "slug": "nice-spicy-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A rich and aromatic stew originating from Tunisia, typically cooked in a clay pot.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "Bone-in"
+    },
+    {
+      "name": "Nice olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Spicy preserved lemon",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tunisian harissa",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger; cook for 1 minute.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Add harissa, cumin, and cinnamon; cook for 1 minute.",
+    "Add olives, preserved lemon, and enough water to cover the lamb.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 2 hours.",
+    "Remove the lamb and let it rest for 10 minutes.",
+    "Shred the lamb with two forks and return it to the pot.",
+    "Simmer, uncovered, for an additional 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "tunisian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-spicy-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:44:48.315Z"
+}
