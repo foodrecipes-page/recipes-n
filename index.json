@@ -2049,17 +2049,15 @@
   },
   {
     "slug": "nice-spicy-tunisian-lamb-tagine",
-    "title": "Nice Spicy Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "lamb-based",
-      "one-pot",
-      "spicy",
-      "weeknight"
+      "lamb",
+      "tagine",
+      "tunisian",
+      "stew"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 150,
     "shard": "n"
   },
   {
@@ -13311,18 +13309,15 @@
   },
   {
     "slug": "nutty-crunchy-spanish-gorgonzola-pasta",
-    "title": "Nutty Crunchy Spanish Gorgonzola Pasta",
+    "title": "Spanish Pasta with Gorgonzola",
     "tags": [
-      "crunchy",
-      "gorgonzola",
-      "nutty",
-      "one-pan",
-      "pasta",
       "spanish",
-      "weeknight"
+      "pasta",
+      "dinner",
+      "vegetarian"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 27,
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
