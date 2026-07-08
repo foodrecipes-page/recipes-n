@@ -1,0 +1,70 @@
+{
+  "slug": "nutty-crunchy-spanish-gorgonzola-pasta",
+  "title": "Spanish Pasta with Gorgonzola",
+  "description": "A creamy pasta dish with a tangy Spanish twist. Perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine work well"
+    },
+    {
+      "name": "gorgonzola",
+      "amount": "1/2 cup crumbled",
+      "notes": "don't overdo it, gorgonzola can be strong"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup chopped walnuts",
+      "notes": "adds a nice crunch"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup chopped fresh parsley",
+      "notes": "fresh from the garden is best"
+    },
+    {
+      "name": "spanish",
+      "amount": "1 tsp smoked paprika",
+      "notes": "adds a smoky depth to the dish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook pasta according to package instructions until al dente.",
+    "Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, melt 2 tbsp of olive oil over medium heat.",
+    "Add the gorgonzola and stir until smooth and creamy.",
+    "Add the nutty and crunchy ingredients and stir to combine.",
+    "Add the cooked pasta to the skillet, tossing to coat with the gorgonzola sauce.",
+    "If the sauce seems too thick, add a bit of the reserved pasta water.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "pasta",
+    "dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crunchy-spanish-gorgonzola-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:05:20.253Z"
+}
