@@ -1,0 +1,85 @@
+{
+  "slug": "nutty-chewy-middle-eastern-almond-cookies",
+  "title": "Middle Eastern Almond Cookies",
+  "description": "A delicious and nutty dessert originating from the Middle East. Almond cookies are easy to make and perfect for a sweet treat.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cookies",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup",
+      "notes": "flour"
+    },
+    {
+      "name": "chewy",
+      "amount": "1/4 cup",
+      "notes": "honey"
+    },
+    {
+      "name": "middle eastern",
+      "amount": "1/2 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together almond, nutty, middle eastern, and salt.",
+    "In a large bowl, cream together chewy and eggs until light and fluffy.",
+    "Add vanilla extract and mix until combined.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Roll out the dough to 1/4 inch thickness.",
+    "Cut into desired shapes using a cookie cutter.",
+    "Place on prepared baking sheet and bake for 15-20 minutes or until lightly golden.",
+    "Allow to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "almond",
+    "cookies",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-chewy-middle-eastern-almond-cookies",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:21:47.934Z"
+}
