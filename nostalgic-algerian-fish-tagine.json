@@ -1,0 +1,85 @@
+{
+  "slug": "nostalgic-algerian-fish-tagine",
+  "title": "Baked Fish Tagine",
+  "description": "A traditional algerian dish with a nostalgic twist, featuring flaky baked fish in a flavorful tagine sauce.",
+  "cuisine": "algerian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (4)",
+      "amount": "4",
+      "notes": "Any white fish works well"
+    },
+    {
+      "name": "Nostalgic olives (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Algerian preserved lemon (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Tagine spice mix (2 tsp)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Season the fish fillets with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the preserved lemon and cook for 2-3 minutes, until fragrant.",
+    "Add the tagine spice mix and cook for 1 minute, until fragrant.",
+    "Transfer the fish fillets to the skillet and cook for 2-3 minutes, until browned on both sides.",
+    "Transfer the fish to the prepared baking sheet and bake for 8-10 minutes, until cooked through.",
+    "Garnish with chopped parsley and serve with nostalgic olives on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked-fish",
+    "algerian-cuisine",
+    "nostalgic-olives",
+    "tagine-sauce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-algerian-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T09:45:36.764Z"
+}
