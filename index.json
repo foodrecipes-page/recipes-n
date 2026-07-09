@@ -17675,18 +17675,15 @@
   },
   {
     "slug": "nutty-x-tra-crisp-algerian-sausage-tagine",
-    "title": "Nutty X-tra Crisp Algerian Sausage Tagine",
+    "title": "Savory Algerian Sausage Tagine",
     "tags": [
-      "algerian",
-      "brunch",
-      "crisp",
-      "nutty",
-      "one-pan",
-      "vegetarian-friendly",
-      "weekend"
+      "north-african-cuisine",
+      "sausage",
+      "tagine",
+      "one-pot-dinner"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
