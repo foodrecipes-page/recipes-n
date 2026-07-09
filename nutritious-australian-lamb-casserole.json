@@ -1,0 +1,96 @@
+{
+  "slug": "nutritious-australian-lamb-casserole",
+  "title": "Australian Lamb Casserole",
+  "description": "A hearty, comforting Australian lamb casserole made with tender lamb, vegetables, and rich gravy.",
+  "cuisine": "Australian",
+  "diet": [
+    "meat-containing"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "In a large Dutch oven, heat the butter over medium heat. Sear the lamb shoulder until browned on all sides.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onions to the pot and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the tomato paste, red wine, beef broth, and flour to the pot. Stir to combine.",
+    "Return the lamb to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "casserole",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-australian-lamb-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:35:23.882Z"
+}
