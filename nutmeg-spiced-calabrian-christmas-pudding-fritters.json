@@ -1,0 +1,91 @@
+{
+  "slug": "nutmeg-spiced-calabrian-christmas-pudding-fritters",
+  "title": "Christmas Fritters with Spiced Pudding",
+  "description": "A sweet dessert recipe featuring crispy fritters topped with a warm spiced pudding.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "For the fritters"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon",
+      "notes": "For the fritters"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "For the fritters"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": "For the fritters"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "1 cup",
+      "notes": "For the fritters"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "For the fritters"
+    },
+    {
+      "name": "Ground nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "For the fritters"
+    },
+    {
+      "name": "Spiced pudding mix",
+      "amount": "1 package",
+      "notes": "For the pudding"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "2 cups",
+      "notes": "For the pudding"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, whisk together the flour, baking powder, sugar, and nutmeg.",
+    "In a separate bowl, whisk together the eggs, milk, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Using a cookie scoop, drop the batter into the hot oil, about 1/4 cupfuls.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and place on a paper towel-lined plate.",
+    "To make the pudding, combine the pudding mix and milk in a medium saucepan.",
+    "Cook over medium heat, stirring constantly, until the pudding comes to a boil.",
+    "Remove from heat and stir in any additional spices or flavorings.",
+    "Serve the fritters warm with the spiced pudding spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "christmas",
+    "fritters",
+    "pudding",
+    "spiced"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutmeg-spiced-calabrian-christmas-pudding-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T02:19:37.618Z"
+}
