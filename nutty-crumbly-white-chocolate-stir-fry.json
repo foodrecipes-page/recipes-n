@@ -1,0 +1,83 @@
+{
+  "slug": "nutty-crumbly-white-chocolate-stir-fry",
+  "title": "Chocolate Crust Cheesecake",
+  "description": "A rich and creamy cheesecake with a crunchy chocolate crust. Perfect for dessert or snack time.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "white chocolate",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "nutty biscuits",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "crumbly biscuit crumbs",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100g",
+      "notes": "softened"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "cream",
+      "amount": "250ml",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C (325°F).",
+    "Prepare the crust by mixing biscuit crumbs and butter until well combined.",
+    "Press the crust mixture into a springform pan.",
+    "Bake the crust for 10 minutes, then set aside.",
+    "In a separate bowl, mix the cream cheese, sugar, eggs, and vanilla extract until smooth.",
+    "Pour the cheesecake mixture into the prepared pan over the crust.",
+    "Bake the cheesecake for 45 minutes, then reduce the oven temperature to 140°C (285°F) and bake for an additional 15 minutes.",
+    "Let the cheesecake cool in the oven with the door ajar for 10 minutes.",
+    "Remove the cheesecake from the oven and let it cool completely on a wire rack.",
+    "Once cooled, refrigerate the cheesecake for at least 4 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesecake",
+    "chocolate",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 32,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crumbly-white-chocolate-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T03:20:25.589Z"
+}
