@@ -1,0 +1,82 @@
+{
+  "slug": "nutty-charred-russian-morbier-pasta",
+  "title": "Charred Russian Pasta With Morbier Crust",
+  "description": "A rich and savory pasta dish with a nutty twist, featuring a crunchy morbier crust. Perfect for a dinner party or special occasion.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "preferably penne or rigatoni"
+    },
+    {
+      "name": "morbier",
+      "amount": "100g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "nutty",
+      "amount": "20g",
+      "notes": "nutritional yeast"
+    },
+    {
+      "name": "charred",
+      "amount": "10g",
+      "notes": "charred garlic"
+    },
+    {
+      "name": "russian",
+      "amount": "20g",
+      "notes": "dried dill"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a separate pan, heat the olive oil over medium heat.",
+    "Add charred garlic and cook for 1-2 minutes, until fragrant.",
+    "Add russian (dried dill) and cook for another minute.",
+    "Combine cooked pasta, nutty (nutritional yeast), and russian (dried dill) mixture.",
+    "Transfer the pasta mixture to a baking dish.",
+    "Crumbly morbier crust: in a bowl, mix together morbier and a pinch of salt.",
+    "Top the pasta mixture with the morbier crust.",
+    "Bake in the preheated oven for 10-15 minutes, until crust is golden brown.",
+    "Serve hot and enjoy!",
+    "Optional: garnish with chopped fresh herbs or grated morbier for added flavor and texture"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "vegetarian",
+    "morbier"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-charred-russian-morbier-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:13:45.765Z"
+}
