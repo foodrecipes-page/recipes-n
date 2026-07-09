@@ -7502,18 +7502,15 @@
   },
   {
     "slug": "nourishing-shattering-vietnamese-wild-mushrooms-com-tam",
-    "title": "Nourishing Shattering Vietnamese Wild Mushrooms Com Tam",
+    "title": "Tam Com Nourishing Bowl",
     "tags": [
-      "buddhist-temple-friendly",
-      "com-tam",
-      "ssam-wrap",
-      "vegan",
+      "breakfast",
       "vegetarian",
-      "vietnamese-cuisine",
-      "wild-mushrooms"
+      "gluten-free",
+      "comfort-food"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -10108,17 +10105,14 @@
   },
   {
     "slug": "nutritious-creamy-irish-ice-cream-cake",
-    "title": "Nutritious Creamy Irish Ice Cream Cake",
+    "title": "Irish Cream Cake",
     "tags": [
-      "adventurous",
-      "ice-cream",
-      "irish",
-      "long-fermentation-dough",
-      "vegan",
-      "whiskey"
+      "cake",
+      "irish-cream",
+      "dessert"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -14493,21 +14487,14 @@
   },
   {
     "slug": "nutty-hangover-cure-dumplings",
-    "title": "Nutty Hangover Cure Dumplings",
+    "title": "Hangover Dumpling Cure Stew",
     "tags": [
-      "arepa",
-      "coriander",
-      "gluten-free",
-      "hangover-cure",
-      "maca",
-      "macrobiotic",
-      "miso",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "hangover",
+      "comfort-food",
+      "dumplings"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
