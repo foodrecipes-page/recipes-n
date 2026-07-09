@@ -1501,17 +1501,14 @@
   },
   {
     "slug": "newly-whipped-tava-greek-semolina-pancakes",
-    "title": "Newly Whipped Tava Greek Semolina Pancakes",
+    "title": "Greek Pancakes with Whipped Semolina Topping",
     "tags": [
-      "fusion-brunch",
-      "griddle-cakes",
-      "quick-meals",
-      "sattvic-diet",
-      "semolina",
-      "tava-cooking"
+      "breakfast",
+      "greek-cuisine",
+      "pancakes"
     ],
-    "cuisine": "Greek-Indian Fusion",
-    "totalTimeMin": 30,
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -8539,17 +8536,15 @@
   },
   {
     "slug": "nourishing-sweet-tunisian-raspberry-tagine",
-    "title": "Nourishing Sweet Tunisian Raspberry Tagine",
+    "title": "Tunisian Sweet Raspberry Tagine",
     "tags": [
-      "fruity",
-      "north-african",
-      "one-pot",
-      "sweet-and-savory",
-      "tunisian-cuisine",
-      "vegetarian"
+      "raspberry",
+      "tunisian",
+      "dessert",
+      "vegan"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -9691,19 +9686,15 @@
   },
   {
     "slug": "nutmeg-spiced-calabrian-christmas-pudding-fritters",
-    "title": "Nutmeg-Spiced Calabrian Christmas Pudding Fritters",
+    "title": "Christmas Fritters with Spiced Pudding",
     "tags": [
       "christmas",
-      "dessert",
       "fritters",
-      "italian",
-      "pistachio",
-      "spices",
-      "sugar",
-      "weeknight"
+      "pudding",
+      "spiced"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 27,
+    "cuisine": "american",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -13086,16 +13077,15 @@
   },
   {
     "slug": "nutty-crumbly-white-chocolate-stir-fry",
-    "title": "Nutty Crumbly White Chocolate Stir-fry",
+    "title": "Chocolate Crust Cheesecake",
     "tags": [
-      "nutty",
-      "crumbly",
-      "brazilian",
-      "white-chocolate",
-      "stir-fry"
+      "cheesecake",
+      "chocolate",
+      "dessert",
+      "snack"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 80,
     "shard": "n"
   },
   {
@@ -13241,16 +13231,16 @@
   },
   {
     "slug": "nutty-crunchy-portuguese-king-prawns-skillet",
-    "title": "Nutty Crunchy Portuguese King Prawns Skillet",
+    "title": "Skillet Prawn Stir-Fry",
     "tags": [
+      "quick",
+      "easy",
+      "prawns",
       "portuguese",
-      "seafood",
-      "nuts",
-      "high-protein",
-      "gluten-free"
+      "skillet"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "n"
   },
   {
