@@ -1,0 +1,82 @@
+{
+  "slug": "nutritious-creamy-irish-ice-cream-cake",
+  "title": "Irish Cream Cake",
+  "description": "A moist and creamy cake with a hint of Irish whiskey, perfect for a special occasion.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cake mix",
+      "amount": "1 box",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "irish cream",
+      "amount": "1/2 cup",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "for a rich and creamy texture"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature for best results"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated sugar for sweetness"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted butter for flavor"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "whiskey",
+      "amount": "2 tablespoons",
+      "notes": "optional, for added depth"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C). Grease two 9-inch round cake pans.",
+    "Prepare the cake mix according to the package instructions.",
+    "Add the irish cream, heavy cream, eggs, sugar, butter, and vanilla extract to the cake mix. Mix until well combined.",
+    "Pour the batter evenly into the prepared pans.",
+    "Bake for 30-35 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove the cakes from the oven and let them cool in the pans for 5 minutes.",
+    "Transfer the cakes to a wire rack to cool completely.",
+    "Once the cakes are completely cool, you can frost and decorate them as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "irish-cream",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-creamy-irish-ice-cream-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T23:25:07.824Z"
+}
