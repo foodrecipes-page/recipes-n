@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-crunchy-portuguese-king-prawns-skillet",
+  "title": "Skillet Prawn Stir-Fry",
+  "description": "Quick and easy stir-fry with succulent prawns, crunchy textures, and a nutty flavor.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prawns (12)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Nutty Oils (Chili-Infused)",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian markets or online."
+    },
+    {
+      "name": "Crunchy Vegetables (Red Bell Pepper, Carrots)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese Seasoning",
+      "amount": "1 teaspoon",
+      "notes": "A blend of herbs and spices, typically used in Portuguese cooking."
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the nutty oils and swirl to coat the pan.",
+    "Add the prawns and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Add the crunchy vegetables and cook until tender, about 3-4 minutes.",
+    "Sprinkle with Portuguese seasoning and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "prawns",
+    "portuguese",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crunchy-portuguese-king-prawns-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T02:32:18.086Z"
+}
