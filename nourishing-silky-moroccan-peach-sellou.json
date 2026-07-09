@@ -1,0 +1,94 @@
+{
+  "slug": "nourishing-silky-moroccan-peach-sellou",
+  "title": "Peach Sellou Crisp",
+  "description": "A twist on the traditional sellou by adding a sweet and juicy peach topping. This Moroccan-inspired dessert is perfect for warm weather.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sellou (Moroccan semolina cake)",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Peaches",
+      "amount": "3",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted almond milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Silky pastry (such as puff pastry or filo dough)",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Nourishing chopped nuts (such as almonds or walnuts)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the sellou into 1-inch cubes and place in a baking dish.",
+    "In a large bowl, mix together the sliced peaches, coconut sugar, almond milk, olive oil, cinnamon, ginger, and salt. Pour the mixture over the sellou.",
+    "Roll out the silky pastry and place on top of the sellou mixture. Trim the edges and cut a few slits in the top to allow steam to escape.",
+    "Sprinkle the nourishing chopped nuts over the pastry.",
+    "Bake for 35-40 minutes, or until the pastry is golden brown and the filling is bubbly.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peach",
+    "sellou",
+    "moroccan",
+    "dessert",
+    "warm-weather"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-silky-moroccan-peach-sellou",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:15:53.175Z"
+}
