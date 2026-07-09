@@ -1,0 +1,71 @@
+{
+  "slug": "nutty-tender-turkish-beetroot-stir-fry",
+  "title": "Turkish Beetroot Stew",
+  "description": "A hearty and flavorful stew originating from Turkish cuisine, perfect for a cozy dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2 large"
+    },
+    {
+      "name": "Turkish",
+      "amount": "1 tablespoon",
+      "notes": "Turkish red pepper flakes"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup",
+      "notes": "chopped walnuts"
+    },
+    {
+      "name": "stir",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "fry",
+      "amount": "1 onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the Turkish red pepper flakes and stir well.",
+    "Add the beetroot and stir well to combine.",
+    "Add the chopped walnuts and stir to combine.",
+    "Season with salt to taste.",
+    "Reduce heat to low and simmer for 30 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "beetroot",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-tender-turkish-beetroot-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T19:27:02.213Z"
+}
