@@ -7713,13 +7713,12 @@
   },
   {
     "slug": "nourishing-slovakian-beef-fondue",
-    "title": "Nourishing Slovakian Beef Fondue",
+    "title": "Slovak Beef Fondue",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pot",
-      "special-occasion",
-      "weeknight"
+      "beef",
+      "fondue",
+      "slovakian",
+      "dinner"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
@@ -9373,17 +9372,16 @@
   },
   {
     "slug": "nut-free-creamy-american-herbal-cream-bisque",
-    "title": "Herbal American Cream Bisque",
+    "title": "Herbal Nut Bisque",
     "tags": [
-      "comfort-food",
-      "herbal-soup",
-      "high-protein",
-      "nut-free-friendly",
-      "one-pan",
-      "weeknight"
+      "bisque",
+      "creamy",
+      "nut",
+      "soup",
+      "herbal"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
@@ -10035,16 +10033,14 @@
   },
   {
     "slug": "nutritious-australian-lamb-casserole",
-    "title": "Nutritious Australian Lamb Casserole",
+    "title": "Australian Lamb Casserole",
     "tags": [
-      "australian-cuisine",
-      "comfort-food",
-      "gluten-free",
-      "low-calorie",
-      "one-pot"
+      "australian",
+      "casserole",
+      "lamb"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 180,
     "shard": "n"
   },
   {
@@ -14122,17 +14118,16 @@
   },
   {
     "slug": "nutty-fragrant-middle-eastern-rice-pilaf",
-    "title": "Nutty Fragrant Middle-eastern Rice Pilaf",
+    "title": "Nutty Middle Eastern Rice Pilaf",
     "tags": [
-      "easy-to-make",
-      "flavorful",
+      "rice",
+      "pilaf",
       "middle-eastern",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "nutty",
+      "fragrant"
     ],
-    "cuisine": "Middle-eastern",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
