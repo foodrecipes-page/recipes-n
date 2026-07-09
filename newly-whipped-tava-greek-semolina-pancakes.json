@@ -1,0 +1,85 @@
+{
+  "slug": "newly-whipped-tava-greek-semolina-pancakes",
+  "title": "Greek Pancakes with Whipped Semolina Topping",
+  "description": "A delicious Greek-inspired breakfast dish with crispy pancakes, topped with a whipped semolina sauce and fresh whipped cream.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup semolina flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon baking powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup melted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Whipped cream (for serving)",
+      "amount": "",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together semolina flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together eggs, Greek yogurt, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth batter forms.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface.",
+    "Flip the pancakes and cook for an additional 1-2 minutes.",
+    "Repeat with remaining batter.",
+    "To make the whipped semolina topping, whip together 1 cup of semolina flour and 1 cup of heavy cream until stiff peaks form.",
+    "Serve the pancakes warm with the whipped semolina topping and a dollop of whipped cream, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "greek-cuisine",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/newly-whipped-tava-greek-semolina-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T02:30:21.358Z"
+}
