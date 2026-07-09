@@ -6941,16 +6941,16 @@
   },
   {
     "slug": "nourishing-monsoon-andalusian-paccheri-pasta-cazuela-andalusia",
-    "title": "nourishing monsoon andalusian paccheri pasta cazuela andalusia",
+    "title": "Andalusian Paccheri Pasta with Cazuela",
     "tags": [
       "andalusian",
-      "gluten-free-friendly",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "andalusia",
+      "pasta",
+      "cazuela",
+      "spanish"
     ],
-    "cuisine": "andalusian",
-    "totalTimeMin": 25,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -16668,17 +16668,16 @@
   },
   {
     "slug": "nutty-spicy-indian-tofu-kebabs",
-    "title": "Nutty Spicy Indian Tofu Kebabs",
+    "title": "Tofu Indian Kebabs",
     "tags": [
-      "indian-cuisine",
-      "kebabs",
-      "plant-based",
-      "romantic-dinner",
-      "spicy-food",
-      "tandoor-style"
+      "indian-kebabs",
+      "spicy",
+      "tofu",
+      "vegan-option",
+      "nutty"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -17028,17 +17027,15 @@
   },
   {
     "slug": "nutty-tender-turkish-beetroot-stir-fry",
-    "title": "Nutty Tender Turkish Beetroot Stir-fry",
+    "title": "Turkish Beetroot Stew",
     "tags": [
-      "nutty",
-      "tender",
-      "comforting",
       "turkish",
       "beetroot",
-      "stir-fry"
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -17092,17 +17089,14 @@
   },
   {
     "slug": "nutty-thai-tamarind-ball-boat-noodles",
-    "title": "Nutty Thai Tamarind Ball Boat Noodles",
+    "title": "Thai Noodle Stir-Fry",
     "tags": [
-      "boat-noodles",
-      "broiled",
-      "dairy-free",
-      "one-pan",
-      "thai-cuisine",
-      "vegan-friendly"
+      "thai",
+      "noodles",
+      "vegetarian"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
