@@ -1,0 +1,76 @@
+{
+  "slug": "nourishing-monsoon-andalusian-paccheri-pasta-cazuela-andalusia",
+  "title": "Andalusian Paccheri Pasta with Cazuela",
+  "description": "A hearty and flavorful pasta dish inspired by the cuisine of Andalusia, Spain. The combination of paccheri pasta, cazuela sausage, and a rich tomato sauce makes for a satisfying meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "cazuela sausage, sliced",
+      "amount": "1 lb"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "28 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the paccheri pasta according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the sliced cazuela sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent, about 5 minutes.",
+    "Add the canned crushed tomatoes to the skillet and stir to combine. Bring the sauce to a simmer and let cook for 10-15 minutes, stirring occasionally.",
+    "Add the cooked paccheri pasta to the skillet, tossing to combine with the tomato sauce. If the sauce seems too thick, add a bit of the reserved pasta water.",
+    "Season the pasta with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "andalusian",
+    "andalusia",
+    "pasta",
+    "cazuela",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 70,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-monsoon-andalusian-paccheri-pasta-cazuela-andalusia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T19:20:57.180Z"
+}
