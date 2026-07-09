@@ -1,0 +1,78 @@
+{
+  "slug": "nutty-hangover-cure-dumplings",
+  "title": "Hangover Dumpling Cure Stew",
+  "description": "A hearty, comforting stew to help ease the pain of a hangover. Rich, savory flavors blend with the soothing goodness of dumplings.",
+  "cuisine": null,
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Nutty",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon grated"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine chicken broth, water, cure, soy sauce, and sugar. Bring to a boil.",
+    "Reduce heat and simmer for 10 minutes.",
+    "Add chopped scallions and grated ginger.",
+    "Add dumplings and cook for 10 minutes.",
+    "Stir in chopped nutty.",
+    "Cook for an additional 5 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover",
+    "comfort-food",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-hangover-cure-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:35:27.053Z"
+}
