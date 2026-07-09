@@ -188,17 +188,14 @@
   },
   {
     "slug": "naturally-citrusy-croatian-green-beans-tagine",
-    "title": "Naturally Citrusy Croatian Green Beans Tagine",
+    "title": "Croatian Green Bean Stew",
     "tags": [
-      "citrusy",
-      "croatian-cuisine",
-      "flambe",
-      "gluten-free",
-      "low-fodmap",
-      "one-pot"
+      "croatian",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": "croatian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -3382,17 +3379,15 @@
   },
   {
     "slug": "nostalgic-algerian-fish-tagine",
-    "title": "Nostalgic Algerian Fish Tagine",
+    "title": "Baked Fish Tagine",
     "tags": [
+      "baked-fish",
       "algerian-cuisine",
-      "fish-recipes",
-      "north-african",
-      "one-pot",
-      "seafood",
-      "tagine-pot"
+      "nostalgic-olives",
+      "tagine-sauce"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "algerian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -7596,17 +7591,16 @@
   },
   {
     "slug": "nourishing-silky-moroccan-peach-sellou",
-    "title": "Nourishing Silky Moroccan Peach Sellou",
+    "title": "Peach Sellou Crisp",
     "tags": [
-      "claypot-cooking",
-      "jain-friendly",
-      "moroccan-desserts",
-      "peach-recipes",
-      "silky-texture",
-      "vegetarian-options"
+      "peach",
+      "sellou",
+      "moroccan",
+      "dessert",
+      "warm-weather"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {
