@@ -1,0 +1,71 @@
+{
+  "slug": "nourishing-sweet-tunisian-raspberry-tagine",
+  "title": "Tunisian Sweet Raspberry Tagine",
+  "description": "A traditional Tunisian stew with the sweetness of raspberries, perfect for a dessert or snack.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Raspberries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Nourishing Tagine Spice Blend",
+      "amount": "1 tsp",
+      "notes": "or substitute with a mixture of cinnamon, ginger, and cumin"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1/2 cup",
+      "notes": "or substitute with brown sugar"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "1 cup",
+      "notes": "or substitute with other non-dairy milk"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "1. Heat the coconut oil in a large saucepan over medium heat.",
+    "2. Add the tagine spice blend and cook for 1 minute, until fragrant.",
+    "3. Add the raspberries, coconut sugar, and lemon juice. Cook for 5 minutes, until the sugar has dissolved.",
+    "4. Pour in the almond milk and bring the mixture to a simmer.",
+    "5. Reduce the heat to low and cook for 10-15 minutes, until the sauce has thickened slightly.",
+    "6. Serve warm, garnished with additional raspberries if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "raspberry",
+    "tunisian",
+    "dessert",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-sweet-tunisian-raspberry-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T02:19:39.364Z"
+}
