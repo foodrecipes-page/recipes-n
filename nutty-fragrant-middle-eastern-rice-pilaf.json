@@ -1,0 +1,100 @@
+{
+  "slug": "nutty-fragrant-middle-eastern-rice-pilaf",
+  "title": "Nutty Middle Eastern Rice Pilaf",
+  "description": "A flavorful and aromatic rice pilaf infused with the warmth of the Middle East, featuring nutty and fragrant notes from toasted spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Long-grain rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fragrant spices (such as cinnamon, cardamom)",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Nutty spices (such as sumac, za'atar)",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a medium saucepan over medium heat.",
+    "Add onion and garlic; sauté until softened, about 3-4 minutes.",
+    "Stir in cumin seeds, coriander seeds, turmeric, and salt. Cook for 1 minute.",
+    "Add long-grain rice; stir to coat with oil and spice mixture.",
+    "Add 2 cups water; bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until rice is cooked and liquid is absorbed.",
+    "Fluff with a fork; stir in chopped parsley and nutty spices.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rice",
+    "pilaf",
+    "middle-eastern",
+    "nutty",
+    "fragrant"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-fragrant-middle-eastern-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:26:21.190Z"
+}
