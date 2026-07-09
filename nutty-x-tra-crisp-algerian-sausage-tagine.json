@@ -1,0 +1,68 @@
+{
+  "slug": "nutty-x-tra-crisp-algerian-sausage-tagine",
+  "title": "Savory Algerian Sausage Tagine",
+  "description": "A hearty and flavorful North African-inspired dish made with tender sausage, crispy vegetables, and aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Algerian sausages",
+      "amount": "4-6",
+      "notes": "preferably with beef or lamb"
+    },
+    {
+      "name": "Tra",
+      "amount": "2",
+      "notes": "small to medium size"
+    },
+    {
+      "name": "Crisp",
+      "amount": "2",
+      "notes": "small to medium size"
+    },
+    {
+      "name": "Nutty",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1",
+      "notes": "with a heavy bottom for slow cooking"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in the tagine over medium heat.",
+    "2. Add the Algerian sausages and cook until browned, about 5 minutes.",
+    "3. Add the tra and crisp, cook for another 5 minutes, until the vegetables start to soften.",
+    "4. Add the nutty and cook until fragrant, about 1 minute.",
+    "5. Season with salt and pepper to taste.",
+    "6. Cover the tagine and transfer it to the oven.",
+    "7. Cook at 300°F (150°C) for 20-25 minutes, or until the sausages are cooked through and the vegetables are tender.",
+    "8. Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african-cuisine",
+    "sausage",
+    "tagine",
+    "one-pot-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-x-tra-crisp-algerian-sausage-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:09:01.320Z"
+}
