@@ -11872,16 +11872,14 @@
   },
   {
     "slug": "nutty-charred-russian-morbier-pasta",
-    "title": "Nutty Charred Russian Morbier Pasta",
+    "title": "Charred Russian Pasta With Morbier Crust",
     "tags": [
-      "charred",
-      "nutty",
-      "one-pot",
-      "pescatarian",
-      "russian-cuisine",
-      "weeknight"
+      "italian",
+      "pasta",
+      "vegetarian",
+      "morbier"
     ],
-    "cuisine": "Russian",
+    "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "n"
   },
