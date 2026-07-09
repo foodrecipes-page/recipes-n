@@ -1,0 +1,90 @@
+{
+  "slug": "nourishing-shattering-vietnamese-wild-mushrooms-com-tam",
+  "title": "Tam Com Nourishing Bowl",
+  "description": "A wholesome bowl filled with nourishing ingredients and the crunch of wild mushrooms.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Com (Vietnamese Rice)",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Wild Mushrooms",
+      "amount": "1 cup",
+      "notes": "such as shiitake or oyster mushrooms"
+    },
+    {
+      "name": "Tam (Tapioca Starch)",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": "full-fat for richness"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "for depth of flavor"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced for garnish"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of sesame oil in a large saucepan over medium heat.",
+    "Add the sliced wild mushrooms and cook until they release their liquid and start to brown.",
+    "Add the vegetable broth, coconut milk, and soy sauce to the saucepan.",
+    "Bring the mixture to a simmer and let cook for 5-7 minutes or until the liquid has reduced slightly.",
+    "Stir in the tapioca starch to thicken the mixture.",
+    "Season with salt to taste.",
+    "To serve, divide the cooked com among bowls and top with the mushroom and broth mixture.",
+    "Garnish with chopped cilantro and thinly sliced green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "gluten-free",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-shattering-vietnamese-wild-mushrooms-com-tam",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:58:35.211Z"
+}
