@@ -1,0 +1,94 @@
+{
+  "slug": "nutty-spicy-indian-tofu-kebabs",
+  "title": "Tofu Indian Kebabs",
+  "description": "A spicy and nutty twist on traditional Indian kebabs, featuring marinated tofu and a blend of aromatic spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Extra-firm, drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "Spicy Indian Spice Blend",
+      "amount": "2 tbsp",
+      "notes": "Available at most grocery stores or online"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "Ground spice blend commonly used in Indian cuisine"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground, adds warm, earthy flavor"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground, adds citrusy, slightly sweet flavor"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "Add more or less to taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed, adds brightness and acidity"
+    },
+    {
+      "name": "Nutty Peanut oil",
+      "amount": "1/4 cup",
+      "notes": "Substitute with neutral oil if necessary"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine Spice Blend, cumin, coriander, cayenne pepper, and salt. Blend until smooth.",
+    "2. In a large bowl, whisk together lime juice and blended spice mixture.",
+    "3. Add tofu cubes to the marinade and toss to coat. Cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "4. Preheat grill or grill pan to medium-high heat.",
+    "5. Thread marinated tofu onto skewers, leaving a small space between each piece.",
+    "6. Brush grill or grill pan with Peanut oil to prevent sticking.",
+    "7. Grill tofu kebabs for 8-10 minutes, turning occasionally, until golden brown and crispy on the outside.",
+    "8. Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-kebabs",
+    "spicy",
+    "tofu",
+    "vegan-option",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-spicy-indian-tofu-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:36:43.871Z"
+}
