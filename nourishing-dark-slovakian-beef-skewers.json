@@ -1,0 +1,87 @@
+{
+  "slug": "nourishing-dark-slovakian-beef-skewers",
+  "title": "Slovakian Beef Skewers",
+  "description": "A delicious and easy-to-make Slovakian-inspired dish featuring marinated beef skewers grilled to perfection.",
+  "cuisine": "slovakian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Dark beer",
+      "amount": "1/2 cup",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "2 tbsp",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Nourishing mushrooms (such as shiitake)",
+      "amount": "200g",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Slovakian dark bread",
+      "amount": "4 slices",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together beer, paprika, garlic, salt, and pepper.",
+    "Add beef cubes to the marinade and toss to coat.",
+    "Cover bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Thread beef and mushrooms onto skewers, leaving a small space between each piece.",
+    "Brush grill with olive oil to prevent sticking.",
+    "Grill skewers for 8-10 minutes per side, or until meat reaches an internal temperature of 63°C for medium-rare.",
+    "Serve with warm Slovakian dark bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "beef",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-dark-slovakian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:12:44.963Z"
+}
