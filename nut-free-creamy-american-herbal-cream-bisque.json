@@ -1,0 +1,68 @@
+{
+  "slug": "nut-free-creamy-american-herbal-cream-bisque",
+  "title": "Herbal Nut Bisque",
+  "description": "A creamy and comforting soup made with roasted nuts and herbal spices.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "nut",
+      "amount": "1 cup",
+      "notes": "almonds or hazelnuts work well"
+    },
+    {
+      "name": "free",
+      "amount": "2 cups",
+      "notes": "vegetable or chicken broth"
+    },
+    {
+      "name": "creamy",
+      "amount": "1/2 cup",
+      "notes": "heavy cream or non-dairy alternative"
+    },
+    {
+      "name": "herbal",
+      "amount": "2 tsp",
+      "notes": "dried thyme or rosemary"
+    },
+    {
+      "name": "american",
+      "amount": "1 tsp",
+      "notes": "paprika"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C)",
+    "Roast nuts on a baking sheet for 10 minutes",
+    "In a blender, combine roasted nuts, free, creamy, herbal, and american",
+    "Blend until smooth",
+    "Return blend to pot and simmer over medium heat",
+    "Season with salt and pepper to taste"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bisque",
+    "creamy",
+    "nut",
+    "soup",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nut-free-creamy-american-herbal-cream-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:24:42.769Z"
+}
