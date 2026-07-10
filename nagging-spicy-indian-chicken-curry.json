@@ -1,0 +1,88 @@
+{
+  "slug": "nagging-spicy-indian-chicken-curry",
+  "title": "Indian Chicken Curry",
+  "description": "A flavorful and aromatic chicken curry dish, inspired by the spices of India.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and ginger, cook until onion is translucent.",
+    "Add chicken and cook until browned on all sides.",
+    "Add curry powder, cumin powder, turmeric, salt, and black pepper, stir well.",
+    "Cook for 1-2 minutes, until spices are fragrant.",
+    "Add coconut milk and stir well.",
+    "Bring to a simmer and cook for 10-15 minutes, until chicken is cooked through.",
+    "Serve hot, garnished with cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nagging-spicy-indian-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:01:37.206Z"
+}
