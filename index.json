@@ -1601,17 +1601,15 @@
   },
   {
     "slug": "nice-crispy-malaysian-beef-suet-roti",
-    "title": "Malaysian Beef Suet Roti",
+    "title": "Crispy Roti with Beef Suet Filling",
     "tags": [
-      "beef",
-      "binchotan",
-      "charcoal",
-      "high-fat",
       "malaysian",
-      "romantic",
-      "suet"
+      "beef",
+      "suet",
+      "roti",
+      "snack"
     ],
-    "cuisine": "malaysian",
+    "cuisine": "Malaysian",
     "totalTimeMin": 40,
     "shard": "n"
   },
@@ -5296,17 +5294,16 @@
   },
   {
     "slug": "nourishing-dense-british-lentil-casserole",
-    "title": "Nourishing Dense British Lentil Casserole",
+    "title": "Traditional British Lentil Casserole",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "jain-friendly",
-      "lentil-based",
-      "one-pan",
-      "vegetarian"
+      "lentil",
+      "british",
+      "casserole",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 70,
+    "totalTimeMin": 60,
     "shard": "n"
   },
   {
@@ -9421,16 +9418,15 @@
   },
   {
     "slug": "nutella-bhuna-nachos",
-    "title": "Nutella Bhuna Nachos",
+    "title": "Nutella Nachos",
     "tags": [
+      "dessert",
+      "nachos",
       "nutella",
-      "bhuna",
-      "algerian",
-      "snack",
-      "egg-free"
+      "bhuna"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 18,
+    "cuisine": null,
+    "totalTimeMin": 12,
     "shard": "n"
   },
   {
