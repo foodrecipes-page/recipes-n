@@ -1,0 +1,91 @@
+{
+  "slug": "nourishing-dense-british-lentil-casserole",
+  "title": "Traditional British Lentil Casserole",
+  "description": "A hearty, comforting casserole filled with lentils and flavors reminiscent of the British countryside. Serve warm, garnished with fresh herbs.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Green Lentils",
+      "amount": "1 cup dried",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, heat oil over medium heat.",
+    "Add onion, carrot, and celery; sauté until vegetables are tender.",
+    "Add mushroom and cook until tender.",
+    "Add lentils, diced tomatoes, vegetable broth, salt, and pepper.",
+    "Bring to a boil, then reduce heat and simmer for 30 minutes.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Cover with aluminum foil and bake for 25 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes.",
+    "Serve warm, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "british",
+    "casserole",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-dense-british-lentil-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:11:53.449Z"
+}
