@@ -1,0 +1,88 @@
+{
+  "slug": "nourishing-german-potato-bowl",
+  "title": "German Potato Bowl",
+  "description": "A hearty and comforting German-inspired dish, made with tender potatoes, crispy bacon, and a side of steamed vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "about 1 pound"
+    },
+    {
+      "name": "nourishing vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Peel the potatoes and cut them into 1-inch pieces. Place them in a bowl and drizzle with olive oil, salt, and pepper. Toss to coat.",
+    "3. Spread the potatoes out in a single layer on a baking sheet and roast for 20-25 minutes, or until tender and golden brown.",
+    "4. While the potatoes are roasting, heat the vegetable broth in a large saucepan over medium heat.",
+    "5. Add the sliced onion, carrots, and celery to the saucepan and cook until the vegetables are tender, about 10-12 minutes.",
+    "6. To assemble the bowls, place a portion of the roasted potatoes in the bottom of each bowl, followed by a portion of the steamed vegetables.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "potato",
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-german-potato-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:00:28.408Z"
+}
