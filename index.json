@@ -5818,16 +5818,15 @@
   },
   {
     "slug": "nourishing-german-potato-bowl",
-    "title": "Nourishing German Potato Bowl",
+    "title": "German Potato Bowl",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "healthy-dinner",
-      "one-bowl",
-      "vegetarian-friendly"
+      "german",
+      "potato",
+      "vegetarian",
+      "vegan-friendly"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 50,
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
