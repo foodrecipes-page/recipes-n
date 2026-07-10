@@ -2605,17 +2605,15 @@
   },
   {
     "slug": "nimble-irish-pepper-hash",
-    "title": "Nimble Irish Pepper Hash",
+    "title": "Irish Pepper Hash",
     "tags": [
       "breakfast",
-      "easy-to-make",
-      "high-protein",
       "irish",
-      "one-pan",
-      "weeknight"
+      "meat",
+      "potato"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 37,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -11056,14 +11054,11 @@
   },
   {
     "slug": "nutritious-silky-croatian-noodles",
-    "title": "Nutritious Silky Croatian Noodles",
+    "title": "Croatian Noodle Soup",
     "tags": [
-      "gluten-free",
-      "high-carb",
-      "indian-inspired",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "soup",
+      "croatian",
+      "vegetarian"
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 35,
@@ -11855,16 +11850,13 @@
   },
   {
     "slug": "nutty-charred-spanish-cheese-catalan-gazpacho",
-    "title": "nutty charred spanish cheese catalan gazpacho",
+    "title": "Catalan Gazpacho Soup",
     "tags": [
-      "brunch",
-      "cheese-lovers",
-      "comal-cooked",
-      "fodmap-friendly",
-      "one-pan",
-      "spanish-food"
+      "cold soup",
+      "spanish cuisine",
+      "summer recipe"
     ],
-    "cuisine": "spanish",
+    "cuisine": "Spanish",
     "totalTimeMin": 35,
     "shard": "n"
   },
@@ -11907,16 +11899,14 @@
   },
   {
     "slug": "nutty-chewy-almond-stir-fry",
-    "title": "Nutty Chewy Almond Stir-fry",
+    "title": "Stir Fry with Almond Crunch",
     "tags": [
-      "nutty",
-      "chewy",
-      "almond",
       "stir-fry",
-      "high-protein-friendly"
+      "almond-crunch",
+      "vegan-option"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 18,
+    "cuisine": "Asian",
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
