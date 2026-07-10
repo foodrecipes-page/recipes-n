@@ -1877,17 +1877,14 @@
   },
   {
     "slug": "nice-nutty-dutch-beef-skewers",
-    "title": "Nice Nutty Dutch Beef Skewers",
+    "title": "Grilled Beef Skewers with Dutch Seasoning",
     "tags": [
-      "beef-recipes",
-      "date-night",
-      "dutch-cuisine",
-      "grilled-meats",
-      "special-occasion",
-      "sugar-free"
+      "beef",
+      "grilled",
+      "summer"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 30,
+    "cuisine": "American",
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
@@ -5223,17 +5220,15 @@
   },
   {
     "slug": "nourishing-dark-dutch-beef-skewers",
-    "title": "Nourishing Dark Dutch Beef Skewers",
+    "title": "Grilled Dutch Beef Skewers",
     "tags": [
-      "beef-recipes",
-      "dutch-cuisine",
-      "grilled-meats",
-      "keto-friendly",
-      "low-carb",
-      "weeknight"
+      "grilled-beef",
+      "skewers",
+      "dutch-beef",
+      "dark-soy-sauce"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 26,
     "shard": "n"
   },
   {
@@ -8534,17 +8529,14 @@
   },
   {
     "slug": "nourishing-sweet-tunisian-red-peppers-tagine",
-    "title": "Nourishing Sweet Tunisian Red Peppers Tagine",
+    "title": "Tunisian Sweet Pepper Tagine",
     "tags": [
-      "ayurvedic",
-      "gluten-free",
-      "lazy-sunday",
-      "north-african",
-      "one-pot",
-      "vegetarian"
+      "tunisian",
+      "sweet-peppers",
+      "red-peppers"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
