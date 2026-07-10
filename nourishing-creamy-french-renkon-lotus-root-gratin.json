@@ -1,0 +1,74 @@
+{
+  "slug": "nourishing-creamy-french-renkon-lotus-root-gratin",
+  "title": "Renkon Lotus Root Gratin",
+  "description": "A creamy gratin dish made with renkon lotus root and topped with a crunchy french breadcrumb.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "renkon lotus root",
+      "amount": "1 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gratin cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "french breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, toss the sliced lotus root with 1 tablespoon of vegetable oil, salt, and pepper until coated.",
+    "In a greased 9x13 inch baking dish, arrange a layer of lotus root slices.",
+    "Sprinkle a layer of grated cheese and a sprinkle of breadcrumbs over the lotus root.",
+    "Repeat the layers two more times, ending with a layer of breadcrumbs on top.",
+    "Bake for 30 minutes or until the top is golden brown and the gratin is heated through.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lotus-root",
+    "renkon",
+    "gratin",
+    "french",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-creamy-french-renkon-lotus-root-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T05:28:32.230Z"
+}
