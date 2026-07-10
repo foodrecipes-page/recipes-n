@@ -1,0 +1,72 @@
+{
+  "slug": "nimble-irish-pepper-hash",
+  "title": "Irish Pepper Hash",
+  "description": "A hearty, flavorful breakfast dish featuring crispy hash browns, succulent Irish sausage, and a hint of pepper.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish Sausage",
+      "amount": "4 links",
+      "notes": "look for Irish breakfast sausage"
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "2 cups, shredded",
+      "notes": "about 1 large potato"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp, freshly ground",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Nimble Onion",
+      "amount": "1 medium, diced",
+      "notes": "about 1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a large bowl, toss the hash browns with 1/2 tsp salt until evenly coated.",
+    "Spread the hash browns out in a single layer on the prepared baking sheet.",
+    "Bake for 20-25 minutes, or until crispy and golden brown, flipping halfway through.",
+    "While the hash browns are baking, cook the Irish sausage in a large skillet over medium-high heat, breaking up with a spoon as it cooks.",
+    "Remove the cooked sausage from the skillet and set aside.",
+    "Add the diced onion to the same skillet and cook until translucent, about 3-4 minutes.",
+    "Add the cooked hash browns to the skillet and stir to combine with the onion.",
+    "Return the cooked sausage to the skillet and stir to combine with the hash browns and onion.",
+    "Season with black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "irish",
+    "meat",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 44,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-irish-pepper-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:31:48.845Z"
+}
