@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-aerated-jamaican-feta-cheese-hash",
+  "title": "Jamaican Feta Hash",
+  "description": "A spicy and savory breakfast dish made with feta cheese, a hint of Jamaican spices, and a crunchy hash.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Feta cheese",
+      "amount": "1 block (8 oz)",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Hash",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Nutty",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "1 tsp",
+      "notes": "spicy"
+    },
+    {
+      "name": "Aerated bread",
+      "amount": "2 slices",
+      "notes": "cubed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together crumbled feta cheese, chopped nutty, and Jamaican seasoning.",
+    "Add diced hash to the bowl and mix until well combined.",
+    "Place cubed aerated bread on a baking sheet and toast in the oven for 2-3 minutes.",
+    "In a skillet, cook the feta-hash mixture over medium heat until the cheese is melted and the hash is crispy.",
+    "Serve the feta-hash mixture over toasted bread and enjoy!",
+    "Optional: top with additional chopped nutty or a fried egg for extra flavor and texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "caribbean",
+    "cheese",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-aerated-jamaican-feta-cheese-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T07:25:52.044Z"
+}
