@@ -1,0 +1,57 @@
+{
+  "slug": "nutella-bhuna-nachos",
+  "title": "Nutella Nachos",
+  "description": "A sweet and spicy twist on classic nachos. This dessert combines the richness of Nutella with the spicy kick of bhuna.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Nacho Tortilla Chips",
+      "amount": "1 bag",
+      "notes": null
+    },
+    {
+      "name": "Nutella",
+      "amount": "1 jar",
+      "notes": null
+    },
+    {
+      "name": "Bhuna Sauce",
+      "amount": "1/4 cup",
+      "notes": "You can use more or less depending on desired spice level"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 350°F (175°C).",
+    "2. Arrange the tortilla chips in a single layer on a baking sheet.",
+    "3. Drizzle the Nutella over the tortilla chips.",
+    "4. Sprinkle the bhuna sauce over the Nutella.",
+    "5. Bake in the preheated oven for 5-7 minutes, or until the Nutella has melted and the tortilla chips are crispy.",
+    "6. Remove from the oven and let cool for a few minutes.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "nachos",
+    "nutella",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutella-bhuna-nachos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:23:47.521Z"
+}
