@@ -1,0 +1,91 @@
+{
+  "slug": "nourishing-garlicky-ethiopian-chicken-doro-wot",
+  "title": "Spicy Ethiopian Chicken Doro Wot",
+  "description": "A traditional Ethiopian dish made with chicken in a spicy berbere sauce.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast or thighs (1 lb)",
+      "amount": "",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "garlic (4 cloves)",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "nourishing berbere spice mix (2 tbsp)",
+      "amount": "",
+      "notes": "or homemade blend of chili peppers, garlic, ginger, coriander, and fenugreek"
+    },
+    {
+      "name": "ethiopian wot spice (1 tsp)",
+      "amount": "",
+      "notes": "or substitute with cumin and coriander"
+    },
+    {
+      "name": "onion (1 medium)",
+      "amount": "",
+      "notes": "diced"
+    },
+    {
+      "name": "ginger (1-inch piece)",
+      "amount": "",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste (2 tbsp)",
+      "amount": "",
+      "notes": "or 1 can of diced tomatoes"
+    },
+    {
+      "name": "chicken broth (1 cup)",
+      "amount": "",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "nourishing vegetable oil (2 tbsp)",
+      "amount": "",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and cook for another minute.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Add garlic, berbere spice mix, and wot spice. Cook for 1 minute.",
+    "Add tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add chicken broth and bring to a simmer.",
+    "Reduce heat to low and cook, covered, until chicken is cooked through, about 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve over injera or rice, garnished with chopped fresh cilantro (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "chicken",
+    "spicy",
+    "stew",
+    "doro-wot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-garlicky-ethiopian-chicken-doro-wot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:07:37.788Z"
+}
