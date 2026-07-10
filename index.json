@@ -8553,16 +8553,16 @@
   },
   {
     "slug": "nourishing-syrian-lentil-wrap",
-    "title": "Nourishing Syrian Lentil Wrap",
+    "title": "Syrian Lentil Wrap",
     "tags": [
-      "herbal-delights",
-      "jain-friendly",
-      "lentil-recipes",
-      "syrian-cuisine",
-      "weeknight-dinners"
+      "lentil",
+      "syrian",
+      "wrap",
+      "vegetarian",
+      "healthy"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -12363,10 +12363,15 @@
   },
   {
     "slug": "nutty-crisp-ethiopian-fish-stew",
-    "title": "Nutty Crisp Ethiopian Fish Stew",
-    "tags": [],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": null,
+    "title": "Ethiopian Stew Recipe",
+    "tags": [
+      "ethiopian",
+      "stew",
+      "fish",
+      "vegetarian-options"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -17666,17 +17671,15 @@
   },
   {
     "slug": "nutty-yeasty-vietnamese-doner-meat-pho-ga",
-    "title": "Nutty Yeasty Vietnamese Doner Meat Pho Ga",
+    "title": "Vietnamese-Style Pho Beef Noodle Soup",
     "tags": [
-      "cedar-plank",
-      "doner-meat",
-      "double-fry",
-      "low-glycemic",
-      "pho-ga",
-      "vietnamese-cuisine"
+      "beef",
+      "noodle",
+      "soup",
+      "vietnamese"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 70,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
