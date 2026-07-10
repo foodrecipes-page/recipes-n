@@ -1,0 +1,68 @@
+{
+  "slug": "nice-crispy-malaysian-beef-suet-roti",
+  "title": "Crispy Roti with Beef Suet Filling",
+  "description": "A Malaysian-inspired dish featuring crispy roti bread filled with a savory beef suet mixture.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "beef",
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Roti",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Beef Suet",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Nice Beef",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crispy Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a pan over medium heat.",
+    "Add the beef suet and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the nice beef and cook until heated through.",
+    "Season with salt to taste.",
+    "Warm the roti pieces in the microwave or in a dry pan for a few seconds.",
+    "Place a piece of roti on a flat surface and spoon the beef suet mixture onto one half of the roti.",
+    "Fold the roti in half to enclose the filling.",
+    "Heat the remaining 1 tablespoon of oil in the pan over medium heat.",
+    "Add the folded roti and cook until the bottom is crispy and golden brown.",
+    "Flip the roti and cook for another minute, until the other side is also crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "beef",
+    "suet",
+    "roti",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-crispy-malaysian-beef-suet-roti",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:18:18.872Z"
+}
