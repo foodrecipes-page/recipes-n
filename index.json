@@ -6426,18 +6426,15 @@
   },
   {
     "slug": "nourishing-juicy-uruguayan-haggis-bowl",
-    "title": "Nourishing Juicy Uruguayan Haggis Bowl",
+    "title": "Uruguayan Haggis Bowl",
     "tags": [
-      "dinner",
-      "hearty",
-      "herbaceous",
-      "low-glycemic",
-      "one-pan",
-      "quick",
-      "uruguayan"
+      "uruguayan",
+      "haggis",
+      "beef",
+      "dinner"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 15,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
