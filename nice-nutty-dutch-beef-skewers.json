@@ -1,0 +1,67 @@
+{
+  "slug": "nice-nutty-dutch-beef-skewers",
+  "title": "Grilled Beef Skewers with Dutch Seasoning",
+  "description": "A flavorful and easy-to-make dish perfect for a summer evening. The combination of beef, Dutch seasoning, and a hint of nuttiness will leave you wanting more.",
+  "cuisine": "American",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (1 pound)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Dutch seasoning",
+      "amount": "2 tablespoons",
+      "notes": "Available in most supermarkets or online"
+    },
+    {
+      "name": "Nice (1/2 cup)",
+      "amount": "1/2 cup",
+      "notes": "Peanuts or peanut butter can be used as a substitute"
+    },
+    {
+      "name": "Nutty (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": "Walnut oil or chopped walnuts can be used as a substitute"
+    },
+    {
+      "name": "Skewers (10-12)",
+      "amount": "10-12",
+      "notes": "Wooden or metal skewers can be used"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a large bowl, whisk together Dutch seasoning, nice (peanuts), and nutty (walnut oil).",
+    "Add the beef cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the beef cubes onto the skewers, leaving a little space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the beef is cooked through to an internal temperature of 140°F.",
+    "Remove the skewers from the grill and let rest for 2-3 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-nutty-dutch-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T22:11:06.784Z"
+}
