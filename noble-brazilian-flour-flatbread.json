@@ -1,0 +1,68 @@
+{
+  "slug": "noble-brazilian-flour-flatbread",
+  "title": "Brazilian Noble Flatbread",
+  "description": "A traditional Brazilian-inspired flatbread with the sweetness of noble sapote, perfect as a snack or dessert.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Noble Sapote",
+      "amount": "2",
+      "notes": "ripe and mashed"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 1/2 cups",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix mashed noble sapote, flour, and melted coconut oil in a bowl.",
+    "Roll out the flatbread to desired thickness.",
+    "Spread the noble sapote mixture evenly over the flatbread.",
+    "Bake for 15-20 minutes or until lightly golden.",
+    "Drizzle with honey if desired.",
+    "Cut into desired shapes or sizes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "flatbread",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/noble-brazilian-flour-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T04:58:10.316Z"
+}
