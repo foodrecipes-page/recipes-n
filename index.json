@@ -3032,18 +3032,15 @@
   },
   {
     "slug": "noble-brazilian-flour-flatbread",
-    "title": "Noble Brazilian Flour Flatbread",
+    "title": "Brazilian Noble Flatbread",
     "tags": [
       "brazilian",
-      "copper",
-      "crowd-pleaser",
-      "egg-free",
-      "flaky",
       "flatbread",
-      "one-pan"
+      "dessert",
+      "snack"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -4834,20 +4831,16 @@
   },
   {
     "slug": "nourishing-creamy-french-renkon-lotus-root-gratin",
-    "title": "Nourishing Creamy French Renkon Lotus Root Gratin",
+    "title": "Renkon Lotus Root Gratin",
     "tags": [
-      "creamy",
-      "french",
-      "gluten-free",
-      "gratin",
       "lotus-root",
-      "nourishing",
-      "poached",
       "renkon",
-      "special-occasion"
+      "gratin",
+      "french",
+      "creamy"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 55,
+    "cuisine": "french",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
@@ -8472,17 +8465,17 @@
   },
   {
     "slug": "nourishing-sweet-peruvian-shredded-beef-aji-de-gallina",
-    "title": "Nourishing Sweet Peruvian Shredded Beef Aji De Gallina",
+    "title": "Peruvian-Style Aji Gallina",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "leftover-beef",
-      "peruvian-fusion",
-      "sick-day-meal",
-      "sugar-free-friendly"
+      "peruvian",
+      "aji",
+      "gallina",
+      "chicken",
+      "cream",
+      "parmesan"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -15297,17 +15290,15 @@
   },
   {
     "slug": "nutty-mild-dutch-red-pepper-stew",
-    "title": "Nutty Mild Dutch Red Pepper Stew",
+    "title": "Dutch Pepper Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "lazy-sunday",
-      "nutty-flavors",
-      "one-pot",
-      "vegan-friendly"
+      "beef",
+      "stew",
+      "peppers",
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "totalTimeMin": 105,
     "shard": "n"
   },
   {
@@ -17070,18 +17061,15 @@
   },
   {
     "slug": "nutty-tunisian-flaky-pastry-galette",
-    "title": "nutty tunisian flaky pastry galette",
+    "title": "Tunisian Galette",
     "tags": [
-      "easy-dessert",
-      "high-fiber",
-      "kid-friendly",
-      "middle-eastern",
-      "morning-food",
-      "one-pan",
-      "weeknight"
+      "flaky",
+      "nutty",
+      "tunisian",
+      "galette"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 75,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
