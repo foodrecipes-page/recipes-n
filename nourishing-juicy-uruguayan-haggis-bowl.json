@@ -1,0 +1,89 @@
+{
+  "slug": "nourishing-juicy-uruguayan-haggis-bowl",
+  "title": "Uruguayan Haggis Bowl",
+  "description": "A hearty and flavorful bowl dish combining the savory taste of Uruguayan beef with the traditional Scottish haggis.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "haggis",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "nourishing bowl",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the chili flakes and cook for 1 minute.",
+    "Add the Uruguayan beef and cook until browned.",
+    "Add the haggis and cook for 2 minutes.",
+    "Add the beef broth and tomato paste, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Spoon the mixture into the nourishing bowl and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "haggis",
+    "beef",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-juicy-uruguayan-haggis-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T19:52:35.383Z"
+}
