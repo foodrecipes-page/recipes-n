@@ -1,0 +1,80 @@
+{
+  "slug": "nutty-yeasty-vietnamese-doner-meat-pho-ga",
+  "title": "Vietnamese-Style Pho Beef Noodle Soup",
+  "description": "A traditional Vietnamese beef noodle soup made with a rich, flavorful broth, tender beef, and soft noodles.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (ga)",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pho noodles",
+      "amount": "1 package",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "nutty cinnamon",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "yeasty fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "meat beef broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "doner hoisin sauce",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large stockpot, combine beef broth, onion, and garlic. Bring to a boil over high heat.",
+    "2. Reduce heat to low and simmer for 10 minutes.",
+    "3. Add beef to the pot and cook for 5 minutes, or until browned.",
+    "4. Add pho noodles to the pot and cook for an additional 2-3 minutes, or until tender.",
+    "5. Season the soup with nutty cinnamon and serve hot with yeasty fish sauce and doner hoisin sauce on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "noodle",
+    "soup",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-yeasty-vietnamese-doner-meat-pho-ga",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T03:36:07.196Z"
+}
