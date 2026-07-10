@@ -1,0 +1,70 @@
+{
+  "slug": "nourishing-smoky-peruvian-cabbage-skewers",
+  "title": "Grilled Peruvian Cabbage Skewers with Smoky Nourishing Sauce",
+  "description": "A delicious and healthy Peruvian-inspired dish featuring smoky, nourishing flavors and perfectly grilled cabbage skewers.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head",
+      "notes": ""
+    },
+    {
+      "name": "Nourishing",
+      "amount": "2 tablespoons nourishing oil",
+      "notes": "such as avocado oil"
+    },
+    {
+      "name": "Smoky",
+      "amount": "1 tablespoon smoked paprika",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian",
+      "amount": "2 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "10 bamboo skewers",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut cabbage into 1-inch pieces and thread onto skewers.",
+    "In a small bowl, whisk together nourishing oil, smoked paprika, and minced garlic.",
+    "Brush skewers with the Peruvian sauce and season with salt and pepper.",
+    "Preheat grill to medium-high heat.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until cabbage is slightly charred.",
+    "Serve skewers hot, garnished with additional Peruvian sauce if desired.",
+    "Optional: Serve with a side of quinoa or rice for a more filling snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "cabbage",
+    "skewers",
+    "peruvian",
+    "healthy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-peruvian-cabbage-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:15:30.797Z"
+}
