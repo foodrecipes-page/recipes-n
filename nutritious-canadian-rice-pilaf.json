@@ -1,0 +1,97 @@
+{
+  "slug": "nutritious-canadian-rice-pilaf",
+  "title": "Canadian Pilaf with Nutritious Twist",
+  "description": "A flavorful and nutritious take on the classic Canadian pilaf, incorporating wholesome ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Nutritious rice blend",
+      "amount": "1 cup",
+      "notes": "Brown and white rice blend"
+    },
+    {
+      "name": "Canadian pilaf spice mix",
+      "amount": "2 tsp",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup",
+      "notes": "Fresh, trimmed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "1 cup",
+      "notes": "Unsweetened"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the almond milk in a medium saucepan over medium heat.",
+    "2. Add the vegetable broth, pilaf spice mix, salt, and pepper to the saucepan.",
+    "3. Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "4. Add the diced carrots, green beans, and chopped onion to the saucepan.",
+    "5. Cook, covered, for 10-12 minutes or until the vegetables are tender.",
+    "6. Stir in the minced garlic and cook for 1-2 minutes.",
+    "7. Add the nutritious rice blend to the saucepan and stir to combine.",
+    "8. Cook for 2-3 minutes or until the rice is lightly toasted.",
+    "9. Fluff the pilaf with a fork and serve hot, garnished with chopped fresh parsley if desired.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "pilaf",
+    "vegetarian",
+    "gluten-free",
+    "nutritious"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-canadian-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:34:21.587Z"
+}
