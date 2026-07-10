@@ -5741,17 +5741,16 @@
   },
   {
     "slug": "nourishing-garlicky-ethiopian-chicken-doro-wot",
-    "title": "Nourishing Garlicky Ethiopian Chicken Doro Wot",
+    "title": "Spicy Ethiopian Chicken Doro Wot",
     "tags": [
-      "african-cuisine",
-      "egg-free",
-      "gluten-free",
-      "high-protein",
-      "one-pot",
-      "weeknight"
+      "ethiopian",
+      "chicken",
+      "spicy",
+      "stew",
+      "doro-wot"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -10040,17 +10039,16 @@
   },
   {
     "slug": "nutritious-canadian-rice-pilaf",
-    "title": "Nutritious Canadian Rice Pilaf",
+    "title": "Canadian Pilaf with Nutritious Twist",
     "tags": [
       "canadian",
+      "pilaf",
+      "vegetarian",
       "gluten-free",
-      "high-protein",
-      "meal-prep",
-      "one-pan",
-      "weeknight"
+      "nutritious"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -12157,15 +12155,15 @@
   },
   {
     "slug": "nutty-cozy-algerian-cheese-pull-tagine",
-    "title": "nutty cozy algerian cheese-pull tagine",
+    "title": "Algerian Tagine",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-fiber",
-      "vegan"
+      "algerian",
+      "tagine",
+      "stew",
+      "chicken"
     ],
     "cuisine": "algerian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {
@@ -17442,17 +17440,16 @@
   },
   {
     "slug": "nutty-velvety-peruvian-chicken-aji-de-gallina",
-    "title": "Nutty Velvety Peruvian Chicken Aji De Gallina",
+    "title": "Chicken Aji Gallina",
     "tags": [
-      "creamy-stew",
-      "high-protein",
-      "low-glycemic",
-      "monsoon-comfort",
-      "nutty-flavor",
-      "peruvian-cuisine"
+      "peruvian",
+      "chicken",
+      "aji",
+      "gallina",
+      "sauce"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
