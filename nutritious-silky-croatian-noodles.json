@@ -1,0 +1,71 @@
+{
+  "slug": "nutritious-silky-croatian-noodles",
+  "title": "Croatian Noodle Soup",
+  "description": "A hearty and comforting soup originating from Croatia, made with nutritious and silky ingredients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "nutritious mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "silky heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the onion, carrots, and celery in a little bit of oil until the vegetables are tender.",
+    "Add the vegetable broth, mushrooms, and noodles to the pot.",
+    "Bring the mixture to a boil, then reduce the heat and let it simmer for 15 minutes.",
+    "Stir in the heavy cream and parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "croatian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-silky-croatian-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:56:25.734Z"
+}
