@@ -1,0 +1,74 @@
+{
+  "slug": "nutty-velvety-peruvian-chicken-aji-de-gallina",
+  "title": "Chicken Aji Gallina",
+  "description": "A Peruvian-inspired dish featuring chicken cooked in a creamy aji gallina sauce, served with a side of rice and vegetables.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Aji gallina sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Nutty rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Velvety potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Peruvian red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "De gallo",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the aji gallina sauce to the skillet and stir to combine with the remaining oil.",
+    "Return the chicken to the skillet and simmer in the sauce until cooked through, about 10-12 minutes.",
+    "Stir in the cooked nutty rice and cook for an additional 2-3 minutes.",
+    "Serve the chicken and sauce over the rice, garnished with diced velvety potatoes, Peruvian red onion, and a sprinkle of de gallo.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "aji",
+    "gallina",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-velvety-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:03:44.714Z"
+}
