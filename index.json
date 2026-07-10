@@ -1,15 +1,14 @@
 [
   {
     "slug": "nagging-spicy-indian-chicken-curry",
-    "title": "Nagging Spicy Indian Chicken Curry",
+    "title": "Indian Chicken Curry",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "weekday"
+      "indian",
+      "curry",
+      "chicken"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 55,
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -8001,17 +8000,17 @@
   },
   {
     "slug": "nourishing-smoky-peruvian-cabbage-skewers",
-    "title": "Nourishing Smoky Peruvian Cabbage Skewers",
+    "title": "Grilled Peruvian Cabbage Skewers with Smoky Nourishing Sauce",
     "tags": [
-      "bamboo-tray",
-      "gluten-free",
-      "midnight-craving",
+      "grilled",
+      "cabbage",
+      "skewers",
       "peruvian",
-      "smoky",
-      "vegetarian"
+      "healthy",
+      "gluten-free"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
