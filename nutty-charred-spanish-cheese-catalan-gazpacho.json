@@ -1,0 +1,76 @@
+{
+  "slug": "nutty-charred-spanish-cheese-catalan-gazpacho",
+  "title": "Catalan Gazpacho Soup",
+  "description": "A refreshing cold soup originating from Catalonia, made with gazpacho, nutty bread croutons, and a charred Spanish twist.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gazpacho",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Nutty bread",
+      "amount": "1 cup cubed",
+      "notes": "crusty bread toasted in the oven with olive oil and salt"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Catalan cheese (e.g. Idiazabal)",
+      "amount": "1/2 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Charred red bell peppers",
+      "amount": "1 cup sliced",
+      "notes": "roasted in the oven until charred"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C). Roast the red bell peppers until charred.",
+    "Toast the nutty bread cubes in the oven until crunchy.",
+    "Chop the roasted red bell peppers and crumbled Catalan cheese.",
+    "In a large bowl, combine the gazpacho, roasted red bell peppers, crumbled cheese, toasted bread cubes, olive oil, salt, and black pepper.",
+    "Mix well and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve cold and garnish with additional crumbled cheese and toasted bread cubes, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cold soup",
+    "spanish cuisine",
+    "summer recipe"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-charred-spanish-cheese-catalan-gazpacho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:25:23.871Z"
+}
