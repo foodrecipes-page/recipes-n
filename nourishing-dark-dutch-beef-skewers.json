@@ -1,0 +1,68 @@
+{
+  "slug": "nourishing-dark-dutch-beef-skewers",
+  "title": "Grilled Dutch Beef Skewers",
+  "description": "A flavorful and nutritious recipe featuring tender Dutch beef, marinated in a mix of dark and nourishing ingredients, grilled to perfection.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch beef (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Dark soy sauce (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Nourishing honey (1 tbsp)",
+      "amount": "1 tbsp",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Fresh parsley (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Chopped (for garnish)"
+    },
+    {
+      "name": "Garlic (2 cloves)",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt and pepper (to taste)",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (400°F / 200°C).",
+    "2. In a large bowl, whisk together soy sauce, honey, garlic, salt, and pepper.",
+    "3. Add the beef cubes to the marinade and mix well.",
+    "4. Thread the marinated beef onto skewers, leaving a small space between each piece.",
+    "5. Brush the grill grates with oil to prevent sticking.",
+    "6. Grill the skewers for 8-10 minutes per side, or until the beef reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "7. Transfer the skewers to a plate and let rest for 5 minutes.",
+    "8. Sprinkle with parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-beef",
+    "skewers",
+    "dutch-beef",
+    "dark-soy-sauce"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-dark-dutch-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T22:48:07.710Z"
+}
