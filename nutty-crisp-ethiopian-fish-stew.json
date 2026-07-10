@@ -1,0 +1,74 @@
+{
+  "slug": "nutty-crisp-ethiopian-fish-stew",
+  "title": "Ethiopian Stew Recipe",
+  "description": "A hearty and flavorful Ethiopian stew made with fish, vegetables, and spices.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish(florets)",
+      "amount": "400g",
+      "notes": "any firm white fish"
+    },
+    {
+      "name": "crisp carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "stew tomatoes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "nutty onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ethiopian spices",
+      "amount": "",
+      "notes": "berbere, cumin, coriander, garlic powder, salt and black pepper"
+    },
+    {
+      "name": "oil",
+      "amount": "",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the chopped onions and cook until softened, about 5 minutes.",
+    "Add the chopped tomatoes and cook for a further 5 minutes.",
+    "Add the fish florets and cook until they start to flake, about 3-4 minutes.",
+    "Add the berbere spice mix and cook for a further minute.",
+    "Add the sliced carrots and cook until they start to soften, about 5 minutes.",
+    "Season with salt, black pepper, cumin, coriander, and garlic powder.",
+    "Simmer the stew for 10-12 minutes or until the fish is cooked through and the carrots are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "fish",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crisp-ethiopian-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T03:39:49.599Z"
+}
