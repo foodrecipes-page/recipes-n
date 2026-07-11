@@ -1,0 +1,80 @@
+{
+  "slug": "nice-n-spicy-australian-chicken-grill",
+  "title": "Australian-Style Grilled Chicken",
+  "description": "A spicy twist on traditional grilled chicken, inspired by Australian flavors. This dish is perfect for a summer evening.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nice chicken breast",
+      "amount": "2",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "spicy australian barbecue sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "grill seasoning",
+      "amount": "2 tsp",
+      "notes": "such as salt, pepper, and paprika"
+    },
+    {
+      "name": "n fresh rosemary leaves",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "australian olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "nice lemons",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "a bit of nice salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (around 400°F/200°C).",
+    "In a small bowl, mix together the grill seasoning, rosemary, and a pinch of salt.",
+    "Brush the chicken breast with olive oil and sprinkle the seasoning mixture evenly over both sides.",
+    "Place the chicken on the grill and cook for 5-7 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is cooking, brush the grill with a bit more olive oil to prevent sticking.",
+    "Once the chicken is cooked, let it rest for a few minutes before slicing.",
+    "Serve the chicken with a drizzle of Australian barbecue sauce and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "chicken",
+    "australian",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-n-spicy-australian-chicken-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T15:28:13.961Z"
+}
