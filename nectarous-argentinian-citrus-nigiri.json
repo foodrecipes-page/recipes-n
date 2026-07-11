@@ -1,0 +1,67 @@
+{
+  "slug": "nectarous-argentinian-citrus-nigiri",
+  "title": "Nigiri with Citrus-Glazed Nectarous",
+  "description": "A simple and delicious dessert featuring nigiri and a sweet citrus glaze on top of nectarous.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Nectarous",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "Nigiri",
+      "amount": "1 cup",
+      "notes": "store-bought"
+    },
+    {
+      "name": "Citrus zest",
+      "amount": "2 tablespoons",
+      "notes": "from Argentinian oranges"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a saucepan, combine citrus zest, honey, and granulated sugar. Heat over low heat, stirring occasionally, until the sugar dissolves.",
+    "Arrange the nectarous in a single layer on a baking sheet.",
+    "Drizzle the citrus glaze over the nectarous.",
+    "Bake for 10-12 minutes or until the nectarous is tender and lightly caramelized.",
+    "Let cool slightly before serving.",
+    "Top each serving with nigiri."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "vegetarian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nectarous-argentinian-citrus-nigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:47:10.633Z"
+}
