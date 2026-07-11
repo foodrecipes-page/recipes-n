@@ -1,0 +1,88 @@
+{
+  "slug": "nutty-crisp-croatian-nuts-stir-fry",
+  "title": "Nutty Croatian Stir-Fry",
+  "description": "A flavorful and crunchy stir-fry dish with a mix of vegetables and nuts, inspired by Croatian cuisine.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian paprika",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Crisp carrots",
+      "amount": "1 cup",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Nutty walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the sliced carrots and cook for 5 minutes, until they start to brown.",
+    "Add the chopped walnuts and cook for 1-2 minutes, until fragrant.",
+    "Add the Croatian paprika, stir-fry sauce, salt, and black pepper. Stir well to combine.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened and the carrots are tender.",
+    "Serve hot, garnished with chopped fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "stir-fry",
+    "nuts",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crisp-croatian-nuts-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:47:03.438Z"
+}
