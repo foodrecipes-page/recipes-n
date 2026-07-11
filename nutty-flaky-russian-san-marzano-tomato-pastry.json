@@ -1,0 +1,79 @@
+{
+  "slug": "nutty-flaky-russian-san-marzano-tomato-pastry",
+  "title": "Russian-Style Pastry Tart",
+  "description": "A savory tart filled with caramelized onions, flaky pastry, and a hint of nutty Russian sauce.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "nutty Russian sauce",
+      "amount": "2 tbsp",
+      "notes": "see note for sauce recipe"
+    },
+    {
+      "name": "san marzano tomatoes",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "canned, chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "caramelized"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry sheet to a thickness of 1/8 inch.",
+    "Transfer the pastry to a 9-inch tart pan with a removable bottom.",
+    "Spread the nutty Russian sauce evenly over the pastry, leaving a 1-inch border around the edges.",
+    "Top with the chopped tomatoes and caramelized onions.",
+    "Season with salt and black pepper to taste.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "pastry",
+    "tart",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-flaky-russian-san-marzano-tomato-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:50:03.876Z"
+}
