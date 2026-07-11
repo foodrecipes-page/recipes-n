@@ -1,0 +1,101 @@
+{
+  "slug": "nourishing-roasted-french-vegetable-macaron",
+  "title": "Creamy Roasted Vegetable Mac",
+  "description": "A comforting and creamy macaroni dish loaded with roasted vegetables for a nutritious meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "nourishing"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaron",
+      "amount": "8 oz"
+    },
+    {
+      "name": "butternut squash",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for roasting"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for roasting"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "for creamy sauce"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "for creamy sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss butternut squash, carrots, zucchini, onion, and garlic with olive oil, salt, and black pepper on a baking sheet.",
+    "Roast in the oven for 25-30 minutes, or until the vegetables are tender.",
+    "Cook macaroni according to package instructions until al dente. Drain and set aside.",
+    "In a large saucepan, combine roasted vegetables, chicken broth, and heavy cream.",
+    "Bring the mixture to a simmer over medium heat.",
+    "Reduce heat to low and let the sauce simmer for 5-7 minutes.",
+    "Stir in cooked macaroni and let the sauce coat the pasta.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "comfort",
+    "creamy",
+    "vegetarian",
+    "nourishing"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-roasted-french-vegetable-macaron",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:34:27.442Z"
+}
