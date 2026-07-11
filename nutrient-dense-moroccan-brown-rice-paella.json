@@ -1,0 +1,81 @@
+{
+  "slug": "nutrient-dense-moroccan-brown-rice-paella",
+  "title": "North African-Style Brown Rice Paella",
+  "description": "A flavorful and nutritious twist on traditional paella, made with brown rice and infused with the bold spices of North Africa.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dense moroccan spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Nutrient-rich vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Chopped tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped bell pepper and cook for an additional 3-4 minutes.",
+    "Add the chopped tomato and cook for 2-3 minutes.",
+    "Add the brown rice, moroccan spice blend, and vegetable broth to the pan.",
+    "Stir to combine and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove the pan from the heat and let it rest for 5 minutes.",
+    "Garnish with chopped parsley and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "gluten-free",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "8g",
+    "carbs": "60g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutrient-dense-moroccan-brown-rice-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:18:18.327Z"
+}
