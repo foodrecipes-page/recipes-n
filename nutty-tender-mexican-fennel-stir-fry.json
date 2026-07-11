@@ -1,0 +1,68 @@
+{
+  "slug": "nutty-tender-mexican-fennel-stir-fry",
+  "title": "Crispy Mexican Fennel Fritters",
+  "description": "A flavorful and crunchy snack featuring the perfect combination of Mexican spices and tender fennel. Serve warm with your favorite dipping sauce.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mexican",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "tender fennel",
+      "amount": "2 bulbs",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup",
+      "notes": "chopped almonds or pecans"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "fry",
+      "amount": "1 teaspoon",
+      "notes": "paprika"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "In a large bowl, combine the sliced fennel, chopped nuts, and a pinch of paprika.",
+    "Add the Mexican spice blend and stir until the fennel is evenly coated.",
+    "Using a spoon, drop small balls of the fennel mixture into the hot oil.",
+    "Fry the fritters for 2-3 minutes on each side, until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and drain on paper towels.",
+    "Serve the fritters warm with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "snack",
+    "fritters",
+    "fennel"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-tender-mexican-fennel-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:20:22.152Z"
+}
