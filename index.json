@@ -6230,17 +6230,15 @@
   },
   {
     "slug": "nourishing-japanese-vegetable-pilaf",
-    "title": "Nourishing Japanese Vegetable Pilaf",
+    "title": "Vegetable Kasha",
     "tags": [
-      "healthy",
-      "japanese-cuisine",
-      "macrobiotic",
-      "one-pot",
+      "japanese",
       "vegetarian",
-      "weeknight"
+      "pilaf",
+      "vegan"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
