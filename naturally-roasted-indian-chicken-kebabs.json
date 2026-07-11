@@ -1,0 +1,94 @@
+{
+  "slug": "naturally-roasted-indian-chicken-kebabs",
+  "title": "Roasted Chicken Kebabs",
+  "description": "A flavorful and easy-to-make dish featuring roasted chicken and vegetables, perfect for a delicious dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "Cut into large pieces"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1",
+      "notes": "Cut into large pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1",
+      "notes": "Cut into large slices"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 ounces",
+      "notes": "Cut into large pieces"
+    },
+    {
+      "name": "Roasted red chili powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together roasted red chili powder, garam masala, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the spice mixture.",
+    "Thread the chicken and vegetables onto skewers.",
+    "Brush the kebabs with lime juice.",
+    "Place the kebabs on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 20-25 minutes, or until the chicken is cooked through and the vegetables are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "kebabs",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-roasted-indian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:03:04.244Z"
+}
