@@ -3144,17 +3144,14 @@
   },
   {
     "slug": "nocturnal-night-ethiopian-ume-plum-atakilt-wat",
-    "title": "Nocturnal Night Ethiopian Ume-Plum Atakilt-Wat",
+    "title": "Classic Ethiopian-Style Atakilt Wat",
     "tags": [
       "atakilt-wat",
-      "ethiopian",
-      "flambe",
-      "grassy-crumbly",
-      "halal",
-      "midnight-snack"
+      "ethiopian-cuisine",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -6891,17 +6888,16 @@
   },
   {
     "slug": "nourishing-molten-tunisian-lamb-tagine",
-    "title": "Nourishing Molten Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "gluten-free",
-      "lamb-recipes",
-      "one-pot",
-      "tunisian-cuisine"
+      "lamb",
+      "tagine",
+      "north-african",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "n"
   },
   {
@@ -7173,16 +7169,16 @@
   },
   {
     "slug": "nourishing-roasted-french-vegetable-macaron",
-    "title": "Nourishing Roasted French Vegetable Macaron",
+    "title": "Creamy Roasted Vegetable Mac",
     "tags": [
-      "comfort-food",
-      "french-cuisine",
-      "healthy-snack",
-      "low-fat",
-      "vegetarian"
+      "french",
+      "comfort",
+      "creamy",
+      "vegetarian",
+      "nourishing"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 52,
+    "cuisine": "french",
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {
@@ -9719,17 +9715,15 @@
   },
   {
     "slug": "nutrient-dense-moroccan-brown-rice-paella",
-    "title": "Nutrient-Dense Moroccan Brown Rice Paella",
+    "title": "North African-Style Brown Rice Paella",
     "tags": [
-      "diabetic-friendly",
+      "north-african",
+      "vegetarian",
       "gluten-free",
-      "high-protein",
-      "low-carb",
-      "moroccan",
-      "one-pan"
+      "paella"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -11188,17 +11182,15 @@
   },
   {
     "slug": "nutritious-uruguayan-comte-cheese-empanadas",
-    "title": "Uruguayan Comte Cheese Empanadas",
+    "title": "Uruguayan Empanadas",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "snack",
       "uruguayan",
-      "weeknight"
+      "snack",
+      "empanadas",
+      "cheese"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 40,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -11669,14 +11661,12 @@
   },
   {
     "slug": "nutty-brazilian-buckwheat-empanadas",
-    "title": "Nutty Brazilian Buckwheat Empanadas",
+    "title": "Brazilian Buckwheat Empanadas",
     "tags": [
-      "brazilian-food",
-      "buckwheat-recipes",
+      "brazilian",
+      "buckwheat",
       "empanadas",
-      "kid-friendly",
-      "snack-ideas",
-      "vegan-recipes"
+      "gluten-free"
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 40,
