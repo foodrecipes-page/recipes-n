@@ -1,0 +1,89 @@
+{
+  "slug": "nourishing-smoky-ethiopian-turkey-neck-stew",
+  "title": "Smoky Ethiopian Turkey Stew",
+  "description": "A hearty and flavorful stew originating from Ethiopia, slow-cooked with tender turkey neck and a blend of aromatic spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey neck",
+      "amount": "1",
+      "notes": "About 2 pounds"
+    },
+    {
+      "name": "Nourishing stew mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional 1 minute.",
+    "Add turkey neck and cook until browned on all sides, about 5-7 minutes.",
+    "Add stew mix, paprika, carrots, potatoes, tomato paste, and chicken broth.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise for 2 hours, or until the meat is tender and falls off the bone.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkey",
+    "ethiopian",
+    "stew",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-ethiopian-turkey-neck-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:54:14.738Z"
+}
