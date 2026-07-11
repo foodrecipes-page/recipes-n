@@ -1,0 +1,78 @@
+{
+  "slug": "nutrient-rich-peruvian-duck-arroz-con-pato",
+  "title": "Pato a la Criolla",
+  "description": "A traditional Peruvian dish made with slow-cooked duck in a rich and flavorful sauce, served with rice and vegetables.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "arroz",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "pato",
+      "amount": "1 whole duck",
+      "notes": ""
+    },
+    {
+      "name": "peruvian",
+      "amount": "2 tablespoons Peruvian aji amarillo pepper paste",
+      "notes": ""
+    },
+    {
+      "name": "nutrient",
+      "amount": "2 cups mixed vegetables (such as carrots, potatoes, and peas)",
+      "notes": ""
+    },
+    {
+      "name": "rich",
+      "amount": "2 tablespoons olive oil",
+      "notes": ""
+    },
+    {
+      "name": "duck",
+      "amount": "2 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "con",
+      "amount": "1 tablespoon chopped fresh cilantro",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the duck and cook until browned on all sides, about 5 minutes.",
+    "Add the mixed vegetables, Peruvian pepper paste, and 1 cup of water to the pot.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Add the cooked rice to the pot and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve the duck and sauce over the rice, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "peruvian",
+    "duck",
+    "rice",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutrient-rich-peruvian-duck-arroz-con-pato",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T19:14:43.448Z"
+}
