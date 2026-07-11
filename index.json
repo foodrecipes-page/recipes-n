@@ -2584,16 +2584,15 @@
   },
   {
     "slug": "nimble-herbal-steamed-russian-datterini-tomato-borscht",
-    "title": "Nimble Herbal Steamed Russian Datterini-tomato Borscht",
+    "title": "Borscht Soup with Datterini Tomatoes",
     "tags": [
-      "herbal",
-      "no-onion-no-garlic",
-      "one-pan",
-      "russian",
-      "vegan",
-      "weeknight"
+      "russian-cuisine",
+      "soup",
+      "vegetarian-options",
+      "beet-based",
+      "datterini-tomatoes"
     ],
-    "cuisine": "russian",
+    "cuisine": "Russian",
     "totalTimeMin": 30,
     "shard": "n"
   },
@@ -10850,17 +10849,13 @@
   },
   {
     "slug": "nutritious-nourishing-korean-pork-doenjang-jjigae",
-    "title": "Nutritious Nourishing Korean Pork Doenjang Jjigae",
+    "title": "Doenjang Jjigae with Pork",
     "tags": [
-      "gluten-free",
       "korean",
-      "one-pan",
-      "stew",
-      "weeknight",
-      "whole30-friendly"
+      "pork"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "cuisine": "korean",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -15934,16 +15929,15 @@
   },
   {
     "slug": "nutty-savory-irish-pork-stew",
-    "title": "Nutty Savory Irish Pork Stew",
+    "title": "Irish Pork Stew",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "hearty-stew",
-      "irish-cuisine",
-      "one-pot"
+      "irish",
+      "stew",
+      "pork",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 150,
+    "totalTimeMin": 165,
     "shard": "n"
   },
   {
