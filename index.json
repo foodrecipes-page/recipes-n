@@ -4532,18 +4532,14 @@
   },
   {
     "slug": "nourishing-canadian-tart-pudding",
-    "title": "Nourishing Canadian Tart Pudding",
+    "title": "Tart Pudding",
     "tags": [
-      "canadian",
-      "comfort-food",
-      "dessert",
-      "easy-to-make",
-      "fall-perfect",
-      "tomato-based",
-      "weeknight"
+      "tart",
+      "pudding",
+      "nourishing"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
