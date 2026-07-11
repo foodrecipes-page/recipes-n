@@ -1,0 +1,77 @@
+{
+  "slug": "nourishing-smoky-russian-english-muffin-kebabs",
+  "title": "Russian Kebabs with Smoky Flavor",
+  "description": "A hearty and flavorful dish inspired by Russian cuisine, featuring smoky kebabs served with a side of warm English muffins.",
+  "cuisine": "russian",
+  "diet": [
+    "meat-lovers",
+    "grilled-food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Kebabs",
+      "amount": "4",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": "adds a smoky flavor"
+    },
+    {
+      "name": "Russian Seasoning",
+      "amount": "1 tsp",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "English Muffins",
+      "amount": "4",
+      "notes": "split in half"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a bowl, whisk together smoked paprika, Russian seasoning, and garlic.",
+    "Toss pork kebabs in the spice mixture to coat.",
+    "Grill kebabs for 8-10 minutes, turning occasionally.",
+    "Meanwhile, toast English muffins on the grill or in a toaster.",
+    "Butter the muffins and serve with kebabs.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian-kebabs",
+    "smoky-flavor",
+    "pork-kebabs"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-russian-english-muffin-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T09:45:19.570Z"
+}
