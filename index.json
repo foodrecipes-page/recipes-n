@@ -6022,16 +6022,15 @@
   },
   {
     "slug": "nourishing-irish-potato-stew",
-    "title": "Nourishing Irish Potato Stew",
+    "title": "Irish Nourishing Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hangover-cure",
-      "hearty-stew",
-      "irish-cuisine"
+      "irish",
+      "stew",
+      "potato",
+      "nourishing"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 140,
     "shard": "n"
   },
   {
@@ -13660,20 +13659,15 @@
   },
   {
     "slug": "nutty-egyptian-chickpea-stew",
-    "title": "Nutty Egyptian Chickpea Stew",
+    "title": "Nutty Chickpea Stew",
     "tags": [
-      "nutty",
       "chickpea",
-      "egyptian",
-      "meal-prep",
-      "pescatarian",
-      "ginger",
-      "garlic",
-      "tempering",
-      "stew"
+      "stew",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
