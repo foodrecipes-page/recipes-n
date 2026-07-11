@@ -1,0 +1,94 @@
+{
+  "slug": "nutty-garlicky-algerian-lamb-tagine",
+  "title": "Traditional Algerian Lamb Tagine",
+  "description": "A classic North African dish made with tender lamb, fragrant spices, and dried fruits, slow-cooked in a clay pot.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Algerian spice mix",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern or North African markets"
+    },
+    {
+      "name": "Garlicky olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality extra virgin olive oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dried prunes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tablespoons",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium broth"
+    },
+    {
+      "name": "Nutty almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay pot or Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, and Algerian spice mix. Cook, stirring occasionally, until the onion is softened, about 5 minutes.",
+    "Add the dried apricots, prunes, flour, and chicken broth. Stir to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "Stir in the sliced almonds and continue to bake for an additional 10 minutes.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 150,
+  "totalTimeMin": 175,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lamb",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 35,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-garlicky-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:51:03.990Z"
+}
