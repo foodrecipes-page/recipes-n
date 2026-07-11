@@ -7195,17 +7195,16 @@
   },
   {
     "slug": "nourishing-roasted-irish-duck-legs-tagine",
-    "title": "Nourishing Roasted Irish Duck Legs Tagine",
+    "title": "Duck Tagine with Irish Flair",
     "tags": [
-      "duck-recipes",
-      "irish-cuisine",
-      "jain-friendly",
-      "one-pot-meal",
-      "romantic-dinner",
-      "tagine-cooking"
+      "irish",
+      "duck",
+      "tagine",
+      "slow-cooked",
+      "hearty"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 70,
+    "cuisine": "African",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -14500,17 +14499,16 @@
   },
   {
     "slug": "nutty-irish-khao-khua-hash",
-    "title": "Nutty Irish Khao Khua Hash",
+    "title": "Khao Hash with Nutty Crust",
     "tags": [
-      "egg-free",
-      "high-calorie",
-      "irish-cuisine",
-      "meal-prep",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "irish",
+      "hash",
+      "khao",
+      "nutty"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 22,
+    "cuisine": "irish",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -17439,17 +17437,16 @@
   },
   {
     "slug": "nutty-venezuelan-chocolate-mousse",
-    "title": "Nutty Venezuelan Chocolate Mousse",
+    "title": "Venezuelan Chocolate Mousse",
     "tags": [
-      "chocolate-dessert",
-      "low-fat",
-      "molcajete",
-      "slow-cooked",
-      "south-american",
-      "weeknight"
+      "venezuelan",
+      "chocolate",
+      "nutty",
+      "dairy-free",
+      "gluten-free"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "cuisine": "Latin American",
+    "totalTimeMin": 120,
     "shard": "n"
   },
   {
