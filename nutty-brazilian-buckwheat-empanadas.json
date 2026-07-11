@@ -1,0 +1,75 @@
+{
+  "slug": "nutty-brazilian-buckwheat-empanadas",
+  "title": "Brazilian Buckwheat Empanadas",
+  "description": "A twist on traditional empanadas using nutty buckwheat flour and Brazilian-style fillings. Perfect for a snack or light meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Buckwheat Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Brazilian Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Nutty Butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Empanada Pastry",
+      "amount": "1 package, thawed"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine buckwheat flour, cheese, nutty butter, and egg.",
+    "Knead dough for 5-7 minutes until smooth.",
+    "Roll out dough to 1/4 inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of filling in the center of each dough circle.",
+    "Fold dough in half and press edges together to seal.",
+    "Brush tops with egg wash and sprinkle with salt and pepper.",
+    "Place empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "buckwheat",
+    "empanadas",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-brazilian-buckwheat-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T15:00:24.583Z"
+}
