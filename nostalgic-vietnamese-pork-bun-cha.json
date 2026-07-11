@@ -1,0 +1,90 @@
+{
+  "slug": "nostalgic-vietnamese-pork-bun-cha",
+  "title": "Bún Chả",
+  "description": "A classic Vietnamese dish featuring grilled pork patties served with steamed rice noodles and herbs.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "500g",
+      "notes": "ground pork"
+    },
+    {
+      "name": "Bun noodles",
+      "amount": "200g",
+      "notes": "fresh or dried rice noodles"
+    },
+    {
+      "name": "Chili",
+      "amount": "2-3",
+      "notes": "optional"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh herbs",
+      "amount": "handful",
+      "notes": "such as mint, basil, or cilantro"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a medium bowl, mix the ground pork with minced garlic and grated ginger.",
+    "2. Divide the pork mixture into 4-6 portions, depending on the size of patty you prefer.",
+    "3. Shape each portion into a ball and then flatten it slightly into a patty.",
+    "4. Heat a grill or grill pan over medium-high heat.",
+    "5. Cook the patties for 3-4 minutes per side, or until they are cooked through.",
+    "6. While the patties are cooking, prepare the dipping sauce by mixing fish sauce, lime juice, and rice vinegar in a small bowl.",
+    "7. Cook the bun noodles according to the package instructions.",
+    "8. To assemble the dish, place a cooked patty on a bed of noodles, and garnish with fresh herbs and chili slices.",
+    "9. Serve immediately with the dipping sauce on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pork",
+    "noodle",
+    "grill",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-vietnamese-pork-bun-cha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T09:04:00.657Z"
+}
