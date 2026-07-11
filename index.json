@@ -5957,17 +5957,16 @@
   },
   {
     "slug": "nourishing-indian-lentil-curry",
-    "title": "Nourishing Indian Lentil Curry",
+    "title": "Indian-Style Lentil Curry",
     "tags": [
-      "high-protein",
-      "indian-cuisine",
-      "lentil-based",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "indian",
+      "lentil",
+      "curry",
+      "vegan",
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
