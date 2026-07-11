@@ -1,0 +1,80 @@
+{
+  "slug": "nourishing-japanese-vegetable-pilaf",
+  "title": "Vegetable Kasha",
+  "description": "A simple and healthy Japanese-inspired vegetarian pilaf dish made with vegetable broth, nourishing vegetables, and pilaf.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large saucepan over medium heat.",
+    "Add mushrooms and cook until they release their liquid and start to brown.",
+    "Add carrots and green onions, cook for 5 minutes.",
+    "Add pilaf and vegetable broth to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Simmer for 20 minutes or until the pilaf is tender.",
+    "Stir in soy sauce and sesame seeds.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "pilaf",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-japanese-vegetable-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T04:16:47.042Z"
+}
