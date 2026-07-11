@@ -1,0 +1,85 @@
+{
+  "slug": "nectarous-italian-pickles-pasta",
+  "title": "Italian Pasta Salad",
+  "description": "A classic Italian-inspired pasta salad with a tangy twist. Perfect for a quick and easy lunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Nectarous",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Italian dressing",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Pickles",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "Chop nectarous into bite-sized pieces.",
+    "Chop pickles into small pieces.",
+    "Chop cherry tomatoes in half.",
+    "Chop fresh basil into small pieces.",
+    "In a large bowl, combine cooked pasta, nectarous, pickles, cherry tomatoes, and basil.",
+    "Drizzle Italian dressing over the top and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Sprinkle grated Parmesan cheese over the top.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "salad",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nectarous-italian-pickles-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:49:25.391Z"
+}
