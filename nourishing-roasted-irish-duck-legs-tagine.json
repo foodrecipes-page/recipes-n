@@ -1,0 +1,84 @@
+{
+  "slug": "nourishing-roasted-irish-duck-legs-tagine",
+  "title": "Duck Tagine with Irish Flair",
+  "description": "A hearty and flavorful dish from North Africa, adapted with a hint of Irish charm using roasted duck legs.",
+  "cuisine": "African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "2 lbs",
+      "notes": "skin-on, patted dry"
+    },
+    {
+      "name": "Nourishing Irish butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Roasted vegetables",
+      "amount": "1 cup",
+      "notes": "chopped bell peppers, onions, carrots"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "includes cinnamon, ginger, cumin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the duck legs with salt and pepper. In a large Dutch oven, heat the Irish butter over medium-high heat.",
+    "Sear the duck legs until browned on all sides, about 5 minutes per side. Remove the duck from the pot and set aside.",
+    "Add the roasted vegetables to the pot and cook until they start to soften, about 5 minutes.",
+    "Add the tagine spice blend and garlic to the pot and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth to the pot and bring to a boil. Return the duck legs to the pot, cover, and transfer to the preheated oven.",
+    "Bake the duck for 20-25 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "Remove the pot from the oven and let it cool slightly. Serve the duck legs with the sauce spooned over the top. Garnish with fresh parsley and drizzle with honey, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "duck",
+    "tagine",
+    "slow-cooked",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-roasted-irish-duck-legs-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:30:52.198Z"
+}
