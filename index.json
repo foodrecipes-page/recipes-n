@@ -620,16 +620,15 @@
   },
   {
     "slug": "naturally-roasted-indian-chicken-kebabs",
-    "title": "Naturally Roasted Indian Chicken Kebabs",
+    "title": "Roasted Chicken Kebabs",
     "tags": [
-      "high-protein",
-      "indian-food",
-      "kid-friendly",
-      "roasted-chicken",
-      "weeknight-dinner"
+      "chicken",
+      "indian",
+      "kebabs",
+      "roasted"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -15760,18 +15759,14 @@
   },
   {
     "slug": "nutty-roasted-irish-beef-roast",
-    "title": "Nutty Roasted Irish Beef Roast",
+    "title": "Roasted Irish Beef with Nutty Glaze",
     "tags": [
-      "beef",
-      "gluten-free",
-      "high-protein",
-      "irish",
-      "one-pan",
-      "roast",
-      "weeknight"
+      "irish-beef",
+      "roasted-beef",
+      "nutty-glaze"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 150,
+    "totalTimeMin": 135,
     "shard": "n"
   },
   {
