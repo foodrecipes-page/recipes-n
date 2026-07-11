@@ -4052,16 +4052,16 @@
   },
   {
     "slug": "nostalgic-vietnamese-pork-bun-cha",
-    "title": "Nostalgic Vietnamese Pork Bun Cha",
+    "title": "Bún Chả",
     "tags": [
-      "ayurvedic-friendly",
-      "grilled-pork",
-      "rice-noodles",
-      "umami-flavors",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "pork",
+      "noodle",
+      "grill",
+      "lunch"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 27,
     "shard": "n"
   },
   {
@@ -8041,17 +8041,14 @@
   },
   {
     "slug": "nourishing-smoky-russian-english-muffin-kebabs",
-    "title": "Nourishing Smoky Russian English Muffin Kebabs",
+    "title": "Russian Kebabs with Smoky Flavor",
     "tags": [
-      "english-muffin",
-      "lazy-sunday",
-      "robata-grill",
-      "russian-inspired",
-      "smoky",
-      "tagine-pot"
+      "russian-kebabs",
+      "smoky-flavor",
+      "pork-kebabs"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 30,
+    "cuisine": "russian",
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
