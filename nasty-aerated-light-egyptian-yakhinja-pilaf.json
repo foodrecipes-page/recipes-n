@@ -1,0 +1,74 @@
+{
+  "slug": "nasty-aerated-light-egyptian-yakhinja-pilaf",
+  "title": "Egyptian Pilaf with Spices",
+  "description": "A flavorful and aromatic Egyptian pilaf dish made with local spices and ingredients. Serve warm or at room temperature.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yakhinja",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "light",
+      "amount": "2 cups"
+    },
+    {
+      "name": "nasty",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "aerated",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of light in a large saucepan over medium-high heat.",
+    "Add 1 cup of pilaf and cook, stirring frequently, until lightly toasted.",
+    "Add 1 cup of yakhinja and cook, stirring constantly, until heated through.",
+    "Add 1 tsp of nasty, 1/2 tsp of aerated, and 1/2 tsp of egyptian. Stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "pilaf",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nasty-aerated-light-egyptian-yakhinja-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:31:50.811Z"
+}
