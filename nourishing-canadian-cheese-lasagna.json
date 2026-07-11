@@ -1,0 +1,96 @@
+{
+  "slug": "nourishing-canadian-cheese-lasagna",
+  "title": "Canadian Lasagna",
+  "description": "A hearty and comforting lasagna dish with a Canadian twist, featuring maple-glazed ham and a blend of cheddar and mozzarella cheese.",
+  "cuisine": "Canadian",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Maple-Glazed Ham",
+      "amount": "1 (1.5 pound) boneless ham shoulder",
+      "notes": ""
+    },
+    {
+      "name": "Lasagna Noodles",
+      "amount": "8-10 noodles",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium-high heat. Add diced onions and cook until translucent.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add tomato sauce and stir to combine. Bring to a simmer and let cook for 5 minutes.",
+    "In a large mixing bowl, combine shredded cheddar and mozzarella cheese.",
+    "In a 9x13 inch baking dish, create a layer of tomato sauce on the bottom.",
+    "Arrange 4 cooked lasagna noodles on top of the sauce.",
+    "Spread half of the cheese mixture over the noodles.",
+    "Add sliced maple-glazed ham on top of the cheese.",
+    "Repeat the layers: tomato sauce, noodles, cheese mixture, and ham.",
+    "Top the final layer of noodles with the remaining cheese mixture.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "cheese",
+    "lasagna",
+    "nourishing"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-canadian-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:08:55.491Z"
+}
