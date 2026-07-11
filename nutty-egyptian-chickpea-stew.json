@@ -1,0 +1,79 @@
+{
+  "slug": "nutty-egyptian-chickpea-stew",
+  "title": "Nutty Chickpea Stew",
+  "description": "A hearty and nutritious stew made with chickpeas, nutty flavors and egyptian spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": null
+    },
+    {
+      "name": "nutty oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egyptian spice blend",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "low-sodium broth"
+    }
+  ],
+  "instructions": [
+    "Heat nutty oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened (5 min).",
+    "Stir in Egyptian spice blend, cook for 1 min.",
+    "Add tomato paste, cook for 2 min.",
+    "Add stew and bring to a boil.",
+    "Reduce heat, add chickpeas and simmer (20 min).",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-egyptian-chickpea-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T13:42:47.467Z"
+}
