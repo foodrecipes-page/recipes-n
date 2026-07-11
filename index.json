@@ -1332,17 +1332,15 @@
   },
   {
     "slug": "nectarous-italian-pickles-pasta",
-    "title": "Nectarous Italian Pickles Pasta",
+    "title": "Italian Pasta Salad",
     "tags": [
-      "easy",
-      "festive",
       "italian",
-      "nut-free",
       "pasta",
-      "weeknight"
+      "salad",
+      "vegan-friendly"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 23,
     "shard": "n"
   },
   {
@@ -7827,18 +7825,15 @@
   },
   {
     "slug": "nourishing-smoky-ethiopian-turkey-neck-stew",
-    "title": "Nourishing Smoky Ethiopian Turkey Neck Stew",
+    "title": "Smoky Ethiopian Turkey Stew",
     "tags": [
-      "bamboo-steamer",
+      "turkey",
       "ethiopian",
-      "low-fodmap",
-      "misir-wot",
-      "smoky",
-      "turkey-neck",
-      "weeknight"
+      "stew",
+      "slow-cooker"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 140,
     "shard": "n"
   },
   {
@@ -13233,16 +13228,14 @@
   },
   {
     "slug": "nutty-dark-syrian-chicken-tagine",
-    "title": "Nutty Dark Syrian Chicken Tagine",
+    "title": "Syrian Chicken Tagine",
     "tags": [
-      "chicken-recipes",
-      "dark-chocolate",
-      "low-calorie",
-      "one-pan",
-      "syrian-cuisine",
-      "weeknight"
+      "north-african",
+      "chicken",
+      "stew",
+      "couscous"
     ],
-    "cuisine": "Syrian",
+    "cuisine": "North African",
     "totalTimeMin": 45,
     "shard": "n"
   },
@@ -16862,16 +16855,15 @@
   },
   {
     "slug": "nutty-tender-mexican-fennel-stir-fry",
-    "title": "Nutty Tender Mexican Fennel Stir-fry",
+    "title": "Crispy Mexican Fennel Fritters",
     "tags": [
       "mexican",
-      "stir-fry",
-      "fennel",
-      "keto",
-      "gluten-free"
+      "snack",
+      "fritters",
+      "fennel"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 30,
+    "totalTimeMin": 18,
     "shard": "n"
   },
   {
