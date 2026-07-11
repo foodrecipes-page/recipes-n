@@ -1,0 +1,83 @@
+{
+  "slug": "nutty-venezuelan-chocolate-mousse",
+  "title": "Venezuelan Chocolate Mousse",
+  "description": "A rich and decadent dessert originating from Venezuela, made with dark chocolate and topped with toasted nuts.",
+  "cuisine": "Latin American",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark Chocolate",
+      "amount": "250g",
+      "notes": "preferably Venezuelan"
+    },
+    {
+      "name": "Mousse",
+      "amount": "150g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Toasted Hazelnuts",
+      "amount": "50g"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "100ml",
+      "notes": "optional"
+    },
+    {
+      "name": "Venezuelan Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "1. In a double boiler or a heatproof bowl set over a pot of simmering water, melt the dark chocolate, stirring occasionally.",
+    "2. In a separate bowl, whisk together the eggs and sugar until light and fluffy.",
+    "3. In another bowl, whip the heavy cream until stiff peaks form.",
+    "4. Fold the whipped cream into the egg mixture until well combined.",
+    "5. Add the melted chocolate to the egg mixture and fold until smooth.",
+    "6. Stir in the mousse and toasted hazelnuts.",
+    "7. Pour the mixture into individual serving cups or a large serving dish.",
+    "8. Chill in the refrigerator for at least 2 hours.",
+    "9. Just before serving, drizzle with a little heavy cream and sprinkle with toasted hazelnuts.",
+    "10. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "chocolate",
+    "nutty",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-venezuelan-chocolate-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:20:31.076Z"
+}
