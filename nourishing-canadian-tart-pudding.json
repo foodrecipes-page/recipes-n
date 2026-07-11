@@ -1,0 +1,90 @@
+{
+  "slug": "nourishing-canadian-tart-pudding",
+  "title": "Tart Pudding",
+  "description": "A sweet and comforting tart pudding made with nourishing ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Whole wheat flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pudding",
+      "amount": "1 box",
+      "notes": "Ensure vegan pudding"
+    },
+    {
+      "name": "Nourishing Canadian syrup or honey (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Tart fruit (blueberries, raspberries, strawberries)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tart crust",
+      "amount": "1 pre-made crust",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Roll out the tart crust and place it in a 9-inch tart pan.",
+    "In a large mixing bowl, whisk together the cocoa powder and whole wheat flour.",
+    "Add the pudding mix, coconut milk, vanilla extract, and salt to the bowl. Mix until well combined.",
+    "Pour the pudding mixture into the tart crust.",
+    "Bake for 35-40 minutes or until the edges are set and the center is slightly jiggly.",
+    "Remove from the oven and let cool to room temperature.",
+    "Once cooled, refrigerate for at least 4 hours or overnight.",
+    "Just before serving, top with tart fruit and a drizzle of nourishing Canadian syrup or honey (if using).",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "tart",
+    "pudding",
+    "nourishing"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-canadian-tart-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:30:24.387Z"
+}
