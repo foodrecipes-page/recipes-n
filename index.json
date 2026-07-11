@@ -51,14 +51,15 @@
   },
   {
     "slug": "nasty-aerated-light-egyptian-yakhinja-pilaf",
-    "title": "Nasty Aerated Light Egyptian Yakhinja Pilaf",
+    "title": "Egyptian Pilaf with Spices",
     "tags": [
-      "honey",
-      "low-carb",
-      "no-baking"
+      "egyptian",
+      "pilaf",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -1291,16 +1292,14 @@
   },
   {
     "slug": "nectarous-argentinian-citrus-nigiri",
-    "title": "nectarous argentinian citrus nigiri",
+    "title": "Nigiri with Citrus-Glazed Nectarous",
     "tags": [
-      "argentinian",
-      "garlic",
-      "low-carb",
-      "sugar-free",
-      "sushi"
+      "gluten-free",
+      "vegetarian",
+      "dessert"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 15,
+    "cuisine": "Japanese",
+    "totalTimeMin": 22,
     "shard": "n"
   },
   {
@@ -4483,17 +4482,15 @@
   },
   {
     "slug": "nourishing-canadian-cheese-lasagna",
-    "title": "Nourishing Canadian Cheese Lasagna",
+    "title": "Canadian Lasagna",
     "tags": [
-      "bechamel-sauce",
-      "cheesy",
-      "comfort-food",
-      "high-calorie",
+      "canadian",
+      "cheese",
       "lasagna",
-      "vegan-option-bechamel"
+      "nourishing"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 85,
+    "totalTimeMin": 60,
     "shard": "n"
   },
   {
@@ -4837,18 +4834,16 @@
   },
   {
     "slug": "nourishing-creamy-irish-potato-hash",
-    "title": "Nourishing Creamy Irish Potato Hash",
+    "title": "Creamy Irish Potato Hash",
     "tags": [
-      "breakfast-ideas",
-      "gluten-free",
-      "irish-food",
-      "one-pan",
-      "quick-fix",
-      "smoky-flavors",
-      "vegetarian-options"
+      "breakfast",
+      "irish",
+      "potato",
+      "hash",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -12315,15 +12310,15 @@
   },
   {
     "slug": "nutty-crisp-croatian-nuts-stir-fry",
-    "title": "Nutty Crisp Croatian Nuts Stir-fry",
+    "title": "Nutty Croatian Stir-Fry",
     "tags": [
-      "nutty",
-      "crisp",
       "croatian",
-      "stir-fry"
+      "stir-fry",
+      "nuts",
+      "vegetarian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
