@@ -8529,16 +8529,15 @@
   },
   {
     "slug": "nourishing-syrian-napa-cabbage-pilaf",
-    "title": "Nourishing Syrian Napa Cabbage Pilaf",
+    "title": "Syrian Napa Cabbage Pilaf",
     "tags": [
-      "comfort-food",
-      "meal-prep",
-      "one-pot",
-      "syrian-cuisine",
-      "vegetarian-friendly"
+      "syrian",
+      "healthy",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -17216,16 +17215,13 @@
   },
   {
     "slug": "nutty-velvety-irish-basmati-rice-pilaf",
-    "title": "Nutty Velvety Irish Basmati Rice Pilaf",
+    "title": "Irish Pilaf with Nutty Flavor",
     "tags": [
-      "basmati-rice",
-      "brunch-recipe",
-      "coconut-cream",
       "irish-cuisine",
-      "lacto-vegetarian",
-      "one-pot"
+      "veggie-pilaf",
+      "nutty-flavor"
     ],
-    "cuisine": "irish",
+    "cuisine": "Irish",
     "totalTimeMin": 30,
     "shard": "n"
   },
