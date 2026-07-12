@@ -1,0 +1,94 @@
+{
+  "slug": "nordic-spiced-norwegian-halibut-gratin",
+  "title": "Spiced Halibut Gratin",
+  "description": "A flavorful and moist halibut dish, baked in a creamy gratin with a hint of spice.",
+  "cuisine": "nordic",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Halibut fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Nordic crème fraîche",
+      "amount": "1 cup",
+      "notes": "Can be substituted with regular crème fraîche"
+    },
+    {
+      "name": "Norwegian spiced breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Grated Gruyère cheese",
+      "amount": "1/2 cup",
+      "notes": "Can be substituted with other hard cheeses"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped and used for garnish"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced and sautéed with halibut"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use high-quality, flaky salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted and softened"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season halibut fillets with salt and black pepper.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "Sauté minced garlic until fragrant, about 1 minute.",
+    "Add halibut fillets to the skillet and cook for 2-3 minutes per side, or until cooked through.",
+    "Transfer halibut to a baking dish and set aside.",
+    "In a separate bowl, mix Nordic crème fraîche and grated Gruyère cheese.",
+    "Sprinkle Norwegian spiced breadcrumbs on top of the halibut fillets.",
+    "Pour the crème fraîche mixture over the halibut, making sure they are fully coated.",
+    "Dot the top with remaining butter.",
+    "Bake in preheated oven for 12-15 minutes, or until the gratin is golden brown and bubbly.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halibut",
+    "gratin",
+    "nordic",
+    "spiced",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nordic-spiced-norwegian-halibut-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:44:49.559Z"
+}
