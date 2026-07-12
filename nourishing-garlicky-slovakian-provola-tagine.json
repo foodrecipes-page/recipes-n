@@ -1,0 +1,64 @@
+{
+  "slug": "nourishing-garlicky-slovakian-provola-tagine",
+  "title": "Slovakian-Style Stuffed Provolone",
+  "description": "A hearty, flavorful Slovakian-inspired dish featuring tender provolone cheese stuffed with aromatic ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Provolone cheese",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Nourishing chopped onions",
+      "amount": "1 cup",
+      "notes": " caramelized"
+    },
+    {
+      "name": "Garlicky minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Slovakian-style sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tagine-inspired paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Slice the provolone cheese in half lengthwise.",
+    "In a skillet, sauté the onions until caramelized.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Mix in the sauerkraut and paprika.",
+    "Stuff the provolone cheese with the onion mixture.",
+    "Place the stuffed cheese in a baking dish and bake for 15 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "cheesy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-garlicky-slovakian-provola-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:02:37.545Z"
+}
