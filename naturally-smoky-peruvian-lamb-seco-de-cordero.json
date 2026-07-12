@@ -1,0 +1,83 @@
+{
+  "slug": "naturally-smoky-peruvian-lamb-seco-de-cordero",
+  "title": "Grilled Cordero Skewers with Smoky Aji Verde",
+  "description": "A Peruvian-inspired dish featuring marinated lamb skewers grilled to perfection and served with a smoky aji verde sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cordero (Lamb)",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Peruvian Aji Panca",
+      "amount": "2 dried peppers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Naturally Smoked Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, blend soaked aji panca, garlic, smoked paprika, lime juice, olive oil, salt, and black pepper until smooth.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with the aji verde sauce and season with salt and black pepper.",
+    "Preheat grill to medium-high heat. Grill skewers for 8-10 minutes, turning occasionally, or until lamb reaches 145°F.",
+    "Serve skewers hot, garnished with chopped cilantro.",
+    "Serve with additional aji verde sauce on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "grilled",
+    "skewers",
+    "lamb",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-smoky-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:17:14.839Z"
+}
