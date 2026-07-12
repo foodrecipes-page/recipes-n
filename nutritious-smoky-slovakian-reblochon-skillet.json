@@ -1,0 +1,73 @@
+{
+  "slug": "nutritious-smoky-slovakian-reblochon-skillet",
+  "title": "Slovakian Skillet with Reblochon and Smoky Flavor",
+  "description": "A hearty Slovakian-inspired dish featuring smoky sausage, melted Reblochon cheese, and a skillet-cooked twist.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Slovakian sausage",
+      "amount": "1 pound",
+      "notes": "smoked"
+    },
+    {
+      "name": "Reblochon cheese",
+      "amount": "1 cup, shredded",
+      "notes": "semi-soft"
+    },
+    {
+      "name": "Skillet potatoes",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Cook the sliced onions until translucent, about 3-4 minutes.",
+    "Add the sliced potatoes and cook for an additional 5 minutes, stirring occasionally.",
+    "Add the sliced sausage and cook until browned, about 5-6 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Transfer the skillet to the oven and cook at 400°F (200°C) for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and sprinkle with chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "skillet",
+    "slovakian",
+    "reblochon"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-smoky-slovakian-reblochon-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:15:56.212Z"
+}
