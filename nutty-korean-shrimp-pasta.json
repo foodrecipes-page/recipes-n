@@ -1,0 +1,84 @@
+{
+  "slug": "nutty-korean-shrimp-pasta",
+  "title": "Shrimp Pasta in Korean Nutty Sauce",
+  "description": "A fusion dish combining the flavors of Korea and Italy, featuring succulent shrimp in a nutty sauce served over pasta.",
+  "cuisine": "Asian Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "Nutty Sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat sesame oil over medium-high heat.",
+    "Add garlic and ginger and sauté for 1 minute until fragrant.",
+    "Add shrimp and cook for 2-3 minutes per side until pink and cooked through.",
+    "Stir in nutty sauce and soy sauce. Cook for an additional 1-2 minutes.",
+    "Serve shrimp and sauce over cooked pasta.",
+    "Garnish with sesame seeds and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "italian",
+    "seafood",
+    "pasta",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 25,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-korean-shrimp-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:09:38.215Z"
+}
