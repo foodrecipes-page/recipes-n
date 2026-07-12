@@ -1,0 +1,88 @@
+{
+  "slug": "nutty-crispy-filipino-peanuts-kare-kare",
+  "title": "Filipino-Style Kare Kare",
+  "description": "A traditional Filipino stew made with ground peanuts and vegetables, served with steamed rice. Kare kare is a rich and flavorful dish that is often served during special occasions.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "kare kare powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetables",
+      "amount": "1 cup",
+      "notes": "such as eggplant, string beans, and bok choy"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium-high heat.",
+    "Add the onion and garlic and sauté until the onion is translucent.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the kare kare powder and stir to combine.",
+    "Add the vegetables and water and bring to a boil.",
+    "Reduce the heat to low and simmer for 10-15 minutes or until the vegetables are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve with steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "peanut-based",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-filipino-peanuts-kare-kare",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:28:31.328Z"
+}
