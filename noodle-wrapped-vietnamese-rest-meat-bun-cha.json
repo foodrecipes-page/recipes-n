@@ -1,0 +1,98 @@
+{
+  "slug": "noodle-wrapped-vietnamese-rest-meat-bun-cha",
+  "title": "Vietnamese Grilled Pork Buns",
+  "description": "A classic Vietnamese dish featuring grilled pork served in a crispy bun with various toppings.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "vietnamese bun",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "noodle wrapper",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "rest bun",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "cha",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "meat wrapper",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine fish sauce, lime juice, and sugar. Stir well to combine.",
+    "Add the marinade to the pork shoulder and mix until the pork is well coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the pork from the marinade and cook for 5-7 minutes per side, or until the internal temperature reaches 145°F.",
+    "Once the pork is cooked, let it rest for 5 minutes before slicing it thinly.",
+    "Cut the Vietnamese bun in half and toast it lightly.",
+    "Assemble the buns by placing a few slices of the grilled pork onto the bun, followed by a spoonful of the noodle wrapper and a sprinkle of cha.",
+    "Serve immediately and enjoy!",
+    "Note: You can also serve the grilled pork with a side of pickled carrots and daikon for added flavor and texture.",
+    "To make the pickled carrots and daikon, combine 1 cup of sliced carrots and daikon, 1/4 cup of rice vinegar, and 1 tablespoon of sugar in a small bowl. Let it sit at room temperature for at least 30 minutes before serving.",
+    "You can also add some sliced cucumber, cilantro, and sriracha to the buns for added flavor and texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled-pork",
+    "buns",
+    "noodle-wrapper"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/noodle-wrapped-vietnamese-rest-meat-bun-cha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:09:47.867Z"
+}
