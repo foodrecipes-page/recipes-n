@@ -5448,16 +5448,14 @@
   },
   {
     "slug": "nourishing-earthy-ukrainian-graham-cracker-terrine",
-    "title": "Nourishing Earthy Ukrainian Graham Cracker Terrine",
+    "title": "Traditional Terrine with Graham Cracker Crust",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-fiber",
-      "terrines",
-      "vegetarian"
+      "comfort-food",
+      "earth-tones",
+      "ukrainian-cuisine"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 70,
     "shard": "n"
   },
   {
@@ -12498,14 +12496,11 @@
   },
   {
     "slug": "nutty-crispy-filipino-peanuts-kare-kare",
-    "title": "Nutty Crispy Filipino Peanuts Kare Kare",
+    "title": "Filipino-Style Kare Kare",
     "tags": [
-      "filipino-cuisine",
-      "high-protein",
-      "macrobiotic",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "filipino",
+      "peanut-based",
+      "stew"
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
@@ -14621,16 +14616,15 @@
   },
   {
     "slug": "nutty-juicy-peruvian-date-stir-fry",
-    "title": "Nutty Juicy Peruvian Date Stir-fry",
+    "title": "Peruvian Stir Fry",
     "tags": [
-      "nutty",
-      "juicy",
-      "peruvian-date-stir-fry",
-      "date-night",
-      "lean-minced-beef",
-      "raw-friendly"
+      "peruvian",
+      "stir-fry",
+      "quinoa",
+      "chicken",
+      "dates"
     ],
-    "cuisine": "Peruvian",
+    "cuisine": "peruvian",
     "totalTimeMin": 25,
     "shard": "n"
   },
