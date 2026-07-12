@@ -1,0 +1,62 @@
+{
+  "slug": "nutty-velvety-irish-basmati-rice-pilaf",
+  "title": "Irish Pilaf with Nutty Flavor",
+  "description": "A flavorful pilaf dish made with irish ingredients, nutty undertones and a hint of creaminess.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Basmati",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice Pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Nutty",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Velvety",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add the irish and cook until fragrant, about 2 minutes.",
+    "Add the basmati and cook for 2-3 minutes, until lightly toasted.",
+    "Add the rice pilaf and stir to combine with the irish and basmati.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the water is absorbed and the pilaf is cooked through.",
+    "Fluff the pilaf with a fork and stir in the nutty and velvety ingredients.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish-cuisine",
+    "veggie-pilaf",
+    "nutty-flavor"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-velvety-irish-basmati-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:36:17.908Z"
+}
