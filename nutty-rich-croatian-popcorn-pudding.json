@@ -1,0 +1,73 @@
+{
+  "slug": "nutty-rich-croatian-popcorn-pudding",
+  "title": "Croatian Pudding with Nutty Crunch",
+  "description": "A traditional Croatian dessert with a crunchy nutty topping, perfect for a sweet treat.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "for the pudding"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": "for the pudding"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups",
+      "notes": "for the pudding"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "for the pudding"
+    },
+    {
+      "name": "Salted almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped, for the topping"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "for the topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a medium saucepan, combine the flour, sugar, and salt. Gradually add in the milk, whisking until smooth.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens and comes to a boil.",
+    "Remove from heat and stir in the butter until melted.",
+    "Pour the pudding mixture into individual serving cups.",
+    "Bake for 25-30 minutes, or until the pudding is set.",
+    "While the pudding is baking, mix together the chopped almonds and brown sugar in a small bowl.",
+    "Once the pudding is done, sprinkle the nutty topping over the top of each serving.",
+    "Serve warm, topped with additional nutty topping if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "pudding",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-rich-croatian-popcorn-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:13:23.269Z"
+}
