@@ -1,0 +1,63 @@
+{
+  "slug": "nutty-bouncy-shiro-wot",
+  "title": "Nutty Shiro Stir Fry",
+  "description": "A simple stir-fry recipe using nutty and shiro ingredients for a quick and easy meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "nutty",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "shiro",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bouncy",
+      "amount": "1/4 cup",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "wot",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add bouncy and stir-fry until fragrant.",
+    "Add nutty and stir-fry for 2-3 minutes.",
+    "Add shiro and stir-fry until combined.",
+    "Add wot and stir-fry until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over injera or rice.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "stir-fry",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-bouncy-shiro-wot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:11:49.950Z"
+}
