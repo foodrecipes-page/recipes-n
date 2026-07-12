@@ -1,0 +1,86 @@
+{
+  "slug": "nutmeg-infused-spanish-almonds-tarta-de-santiago",
+  "title": "Spanish Almond Tarta",
+  "description": "A traditional Chilean dessert, this Spanish Almond Tarta is a rich and creamy treat made with ground almonds and infused with the warm spice of nutmeg.",
+  "cuisine": "Chilean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground almonds",
+      "amount": "1 cup",
+      "notes": "peeled and ground"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "infused",
+      "amount": "1/2 teaspoon",
+      "notes": "vanilla extract"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "tarta pan with removable bottom",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "spanish almonds for garnish",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Butter the tarta pan and set aside.",
+    "In a medium bowl, whisk together the ground almonds and sugar.",
+    "In a large bowl, whisk together the eggs and softened butter.",
+    "Add the infused vanilla and ground nutmeg to the egg mixture and whisk until combined.",
+    "Add the almond mixture to the egg mixture and mix until well combined.",
+    "Pour the mixture into the prepared tarta pan and smooth the top.",
+    "Bake for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let cool in the pan for 10 minutes.",
+    "Transfer to a wire rack to cool completely.",
+    "Garnish with Spanish almonds before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "tarta",
+    "spanish",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutmeg-infused-spanish-almonds-tarta-de-santiago",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:05:37.136Z"
+}
