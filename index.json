@@ -10146,16 +10146,15 @@
   },
   {
     "slug": "nutritious-egyptian-ground-oats-tagine",
-    "title": "nutritious Egyptian ground oats Tagine",
+    "title": "Egyptian Oat Tagine",
     "tags": [
-      "comfort-food",
-      "egyptian",
-      "gluten-free",
-      "one-pan",
-      "vegetarian"
+      "north-african",
+      "vegetarian",
+      "lunch",
+      "one-pot"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -11068,17 +11067,15 @@
   },
   {
     "slug": "nutritious-smoky-slovakian-reblochon-skillet",
-    "title": "Nutritious Smoky Slovakian Reblochon Skillet",
+    "title": "Slovakian Skillet with Reblochon and Smoky Flavor",
     "tags": [
-      "anti-inflammatory",
-      "gluten-free",
-      "one-pan",
-      "slovakian-cuisine",
-      "smoky",
-      "vegetarian"
+      "breakfast",
+      "skillet",
+      "slovakian",
+      "reblochon"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
