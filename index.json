@@ -13503,17 +13503,14 @@
   },
   {
     "slug": "nutty-dutch-hazelnut-stew",
-    "title": "Nutty Dutch Hazelnut Stew",
+    "title": "Hazelnut Stew",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "hazelnut-based",
-      "one-pot",
-      "winter-dish"
+      "stew",
+      "vegetarian",
+      "comfort-food"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 150,
+    "cuisine": "European",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -15433,17 +15430,15 @@
   },
   {
     "slug": "nutty-peruvian-chicken-aji-de-gallina",
-    "title": "Nutty Peruvian Chicken Aji De Gallina",
+    "title": "Peruvian Chicken Gallina Aji Soup",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
-      "indulgent-dishes",
-      "low-sodium",
-      "nutty-flavors",
-      "peruvian-cuisine"
+      "peruvian",
+      "chicken",
+      "soup",
+      "aji"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
