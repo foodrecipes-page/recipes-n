@@ -3261,16 +3261,15 @@
   },
   {
     "slug": "noodle-wrapped-vietnamese-rest-meat-bun-cha",
-    "title": "Bun Cha with Rest-Meat",
+    "title": "Vietnamese Grilled Pork Buns",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-glycemic",
-      "one-pan",
-      "weeknight"
+      "vietnamese",
+      "grilled-pork",
+      "buns",
+      "noodle-wrapper"
     ],
     "cuisine": "vietnamese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -11585,16 +11584,15 @@
   },
   {
     "slug": "nutty-bouncy-shiro-wot",
-    "title": "Nutty Bouncy Shiro Wot",
+    "title": "Nutty Shiro Stir Fry",
     "tags": [
       "ethiopian",
-      "high-protein",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "stir-fry",
+      "lunch",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
