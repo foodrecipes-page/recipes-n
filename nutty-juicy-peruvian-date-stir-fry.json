@@ -1,0 +1,75 @@
+{
+  "slug": "nutty-juicy-peruvian-date-stir-fry",
+  "title": "Peruvian Stir Fry",
+  "description": "A flavorful and nutritious Peruvian-inspired stir fry made with juicy chicken, nutty quinoa, and sweet dates. This dish is perfect for a quick weeknight dinner.",
+  "cuisine": "peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "peruvian aji amarillo pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-7 minutes. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of coconut oil and stir in the diced aji amarillo pepper. Cook for 1-2 minutes until fragrant.",
+    "Add the sliced dates and cook for an additional 2-3 minutes until they start to soften.",
+    "Stir in the cooked quinoa and cook for 1-2 minutes until heated through.",
+    "Return the cooked chicken to the skillet and stir to combine with the quinoa and dates.",
+    "Season with salt and pepper to taste, then garnish with chopped fresh cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "stir-fry",
+    "quinoa",
+    "chicken",
+    "dates"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-juicy-peruvian-date-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:53:54.652Z"
+}
