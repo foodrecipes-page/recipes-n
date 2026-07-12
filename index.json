@@ -1034,15 +1034,12 @@
   },
   {
     "slug": "naturally-sweet-dutch-passion-fruit-pancakes",
-    "title": "Naturally Sweet Dutch Passion Fruit Pancakes",
+    "title": "Passion Fruit Pancakes",
     "tags": [
       "breakfast",
-      "dutch",
-      "kid-friendly",
-      "naturally-sweet",
+      "pancakes",
       "passion-fruit",
-      "raw-friendly",
-      "vegetarian"
+      "dutch-cuisine"
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 35,
@@ -15650,17 +15647,14 @@
   },
   {
     "slug": "nutty-rich-croatian-popcorn-pudding",
-    "title": "Nutty Rich Croatian Popcorn Pudding",
+    "title": "Croatian Pudding with Nutty Crunch",
     "tags": [
-      "confit-tomato",
-      "croatian-desserts",
-      "midnight-cravings",
-      "rich-and-creamy",
-      "toffee-popcorn",
-      "whipped-cream"
+      "croatian",
+      "pudding",
+      "nutty"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
