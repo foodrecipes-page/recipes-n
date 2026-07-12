@@ -3290,17 +3290,16 @@
   },
   {
     "slug": "nordic-spiced-norwegian-halibut-gratin",
-    "title": "Nordic Spiced Norwegian Halibut Gratin",
+    "title": "Spiced Halibut Gratin",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-calorie",
-      "norwegian",
-      "one-pan",
-      "weeknight"
+      "halibut",
+      "gratin",
+      "nordic",
+      "spiced",
+      "fish"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 28,
+    "cuisine": "nordic",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -5727,17 +5726,14 @@
   },
   {
     "slug": "nourishing-garlicky-slovakian-provola-tagine",
-    "title": "Nourishing Garlicky Slovakian Provola Tagine",
+    "title": "Slovakian-Style Stuffed Provolone",
     "tags": [
-      "clay-cooking",
-      "comfort-food",
-      "garlic-lovers",
-      "keto-friendly",
-      "one-pot",
-      "slovakian-cuisine"
+      "slovakian",
+      "cheesy",
+      "vegetarian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -14736,17 +14732,15 @@
   },
   {
     "slug": "nutty-korean-shrimp-pasta",
-    "title": "Nutty Korean Shrimp Pasta",
+    "title": "Shrimp Pasta in Korean Nutty Sauce",
     "tags": [
-      "festive",
       "korean",
-      "one-pan",
+      "italian",
+      "seafood",
       "pasta",
-      "pescatarian",
-      "quick",
-      "seafood"
+      "shrimp"
     ],
-    "cuisine": "Korean Australian",
+    "cuisine": "Asian Italian",
     "totalTimeMin": 25,
     "shard": "n"
   },
