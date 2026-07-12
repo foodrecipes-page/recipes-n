@@ -1,0 +1,76 @@
+{
+  "slug": "nourishing-silky-brazilian-barramundi-skewers",
+  "title": "Grilled Barramundi Skewers with Tropical Slaw",
+  "description": "A refreshing and flavorful dish featuring grilled barramundi skewers served with a tangy tropical slaw.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Barramundi fillets",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Nourishing oil",
+      "amount": "2 tbsp",
+      "notes": "such as olive or avocado oil"
+    },
+    {
+      "name": "Silky soy sauce",
+      "amount": "1 tbsp",
+      "notes": "such as tamari or coconut aminos"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10",
+      "notes": "bamboo or metal"
+    },
+    {
+      "name": "Zest of 1 lime",
+      "amount": "1 lime",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Brazilian spice blend",
+      "amount": "1 tsp",
+      "notes": "such as cumin, coriander, and chili powder"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread the barramundi fillets onto the skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together the nourishing oil, silky soy sauce, and Brazilian spice blend.",
+    "Brush the mixture onto the barramundi skewers, making sure they're evenly coated.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the fish is cooked through.",
+    "While the skewers are grilling, prepare the tropical slaw by combining shredded cabbage, diced mango, and chopped cilantro in a bowl.",
+    "Squeeze the lime juice over the slaw and toss to combine.",
+    "Once the skewers are done, remove them from the grill and serve with the tropical slaw.",
+    "Garnish with lime zest and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "fish",
+    "skewers",
+    "tropical",
+    "slaw"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-silky-brazilian-barramundi-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:54:34.453Z"
+}
