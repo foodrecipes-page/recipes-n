@@ -315,17 +315,14 @@
   },
   {
     "slug": "naturally-crispy-uruguayan-beef-empanadas",
-    "title": "Naturally Crispy Uruguayan Beef Empanadas",
+    "title": "Uruguayan Beef Empanadas",
     "tags": [
-      "beef-recipes",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "south-american",
-      "weeknight"
+      "beef",
+      "empanadas",
+      "uruguayan"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "cuisine": "Latin American",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -1008,15 +1005,13 @@
   },
   {
     "slug": "naturally-sweet-brazilian-coconut-cookies",
-    "title": "Naturally Sweet Brazilian Coconut Cookies",
+    "title": "Brazilian Coconut Sweet Treats",
     "tags": [
-      "bento-box-ideas",
-      "brazilian-desserts",
-      "coconut-cookies",
-      "macrobiotic-friendly",
-      "vegetarian-treats"
+      "brazilian",
+      "coconut",
+      "dessert"
     ],
-    "cuisine": "brazilian",
+    "cuisine": "Brazilian",
     "totalTimeMin": 35,
     "shard": "n"
   },
@@ -1877,18 +1872,14 @@
   },
   {
     "slug": "nice-nutty-egyptian-citrus-parfait",
-    "title": "Nice Nutty Egyptian Citrus Parfait",
+    "title": "Egyptian Breakfast Parfait",
     "tags": [
-      "citrusy",
-      "easy-desserts",
-      "gluten-free",
-      "low-carb",
-      "middle-eastern",
-      "nutty",
-      "refreshing"
+      "breakfast",
+      "parfait",
+      "egyptian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
@@ -5544,13 +5535,12 @@
   },
   {
     "slug": "nourishing-ethiopian-rice-pilaf",
-    "title": "Nourishing Ethiopian Rice Pilaf",
+    "title": "Ethiopian Nourishing Rice Pilaf",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "one-pot",
-      "vegan",
-      "weeknight"
+      "nourishing",
+      "ethiopian",
+      "pilaf",
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 35,
@@ -16156,17 +16146,16 @@
   },
   {
     "slug": "nutty-silky-tunisian-fish-tagine",
-    "title": "Nutty Silky Tunisian Fish Tagine",
+    "title": "Tunisian Fish Tagine",
     "tags": [
-      "chocolate-in-savory-dishes",
-      "fish-recipes",
-      "gluten-free",
-      "lazy-sunday",
-      "one-pot",
-      "tunisian-cuisine"
+      "tunisian",
+      "north african",
+      "fish",
+      "stew",
+      "one pot"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 27,
     "shard": "n"
   },
   {
