@@ -1,0 +1,99 @@
+{
+  "slug": "nutmeg-braised-tostadas",
+  "title": "Sweet Braised Pork Tostadas",
+  "description": "A twist on traditional Mexican tostadas, this dish features tender braised pork and a blend of spices.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "toasted lard or vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted tostadas",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300 degrees Fahrenheit.",
+    "Season the pork chunks with oregano, cumin, and nutmeg.",
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork chunks until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the chicken broth to the pot and bring to a simmer.",
+    "Return the pork to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the pork is tender.",
+    "Shred the pork with two forks and season with salt and pepper to taste.",
+    "Warm the tostadas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tostadas by spooning the pork onto a tostada, topping with cheese, and serving immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "pork",
+    "mexican",
+    "sweet",
+    "tostadas"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutmeg-braised-tostadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:54:15.001Z"
+}
