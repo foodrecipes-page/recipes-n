@@ -1,0 +1,90 @@
+{
+  "slug": "nostalgic-velvety-briny-tunisian-fish-tagine",
+  "title": "Tunisian Fish Tagine",
+  "description": "A hearty and flavorful North African-inspired stew made with tender fish, aromatic spices, and a tangy briny sauce.",
+  "cuisine": "north-african",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh Fish (4 fillets)",
+      "amount": "1 lb",
+      "notes": "White fish (cod, tilapia, or mahi-mahi works well)"
+    },
+    {
+      "name": "Tunisian Spice Blend",
+      "amount": "2 tsp",
+      "notes": "A mix of warm spices (cumin, coriander, cinnamon)"
+    },
+    {
+      "name": "Briny Sauce (lemon juice, garlic, and olives)",
+      "amount": "1/4 cup",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dried Apricots",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the Tunisian Spice Blend and cook for 1 minute, stirring constantly.",
+    "Add the briny sauce, dried apricots, and chopped parsley. Stir to combine.",
+    "Add the fish fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "fish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-velvety-briny-tunisian-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T22:32:53.231Z"
+}
