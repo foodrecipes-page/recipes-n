@@ -5655,16 +5655,14 @@
   },
   {
     "slug": "nourishing-fluffy-vietnamese-fish-canh-chua",
-    "title": "Nourishing Fluffy Vietnamese Fish Canh Chua",
+    "title": "Vietnamese Fish Soup",
     "tags": [
-      "fish-based",
-      "floral-flavors",
-      "gluten-free",
-      "lotus-leaf-wraps",
-      "nut-free",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "fish-soup",
+      "canh",
+      "chua-sauce"
     ],
-    "cuisine": "Vietnamese",
+    "cuisine": "vietnamese",
     "totalTimeMin": 35,
     "shard": "n"
   },
@@ -13065,18 +13063,15 @@
   },
   {
     "slug": "nutty-crunchy-midnight-craving-indian-eggs-steamed-rice-cake",
-    "title": "Nutty Crunchy Midnight-Craving Indian Eggs Steamed Rice Cake",
+    "title": "Midnight Craving Steamed Rice Bowl",
     "tags": [
       "breakfast",
-      "crispy",
-      "high-protein",
-      "indian",
-      "nutty",
-      "snack",
-      "street-food"
+      "easy",
+      "comfort-food",
+      "rice-bowl"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 260,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
