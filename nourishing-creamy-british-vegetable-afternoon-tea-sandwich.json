@@ -1,0 +1,82 @@
+{
+  "slug": "nourishing-creamy-british-vegetable-afternoon-tea-sandwich",
+  "title": "British Cream Tea Sandwich",
+  "description": "A classic British cream tea sandwich recipe, made with fresh vegetables and a rich creamy filling.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh cucumber",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Smoked ham",
+      "amount": "2 oz, diced"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Whole wheat bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup, softened"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chopped chives",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the bread into thin slices.",
+    "In a small bowl, mix together the softened butter, mayonnaise, chopped chives, salt, and pepper.",
+    "Spread a small amount of the butter mixture onto each bread slice.",
+    "Top each bread slice with a few slices of cucumber, some diced ham, and a sprinkle of chopped mint.",
+    "Sandwich the filling between two bread slices.",
+    "Cut the sandwiches into quarters or halves, depending on your preference.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "cream-tea",
+    "sandwich",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-creamy-british-vegetable-afternoon-tea-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:58:17.116Z"
+}
