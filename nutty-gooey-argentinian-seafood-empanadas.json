@@ -1,0 +1,71 @@
+{
+  "slug": "nutty-gooey-argentinian-seafood-empanadas",
+  "title": "Argentinian Seafood Empanadas",
+  "description": "A classic Argentinian dish featuring savory seafood filling wrapped in crispy empanada dough.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "seafood mixture",
+      "amount": "1 cup",
+      "notes": "Combine 1/2 cup chopped shrimp, 1/4 cup chopped squid, 1/4 cup chopped mussels, and 1 tablespoon chopped parsley"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought empanada dough"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nutty salsa",
+      "amount": "1/4 cup",
+      "notes": "Optional topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough to 1/4 inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of seafood mixture in the center of each dough circle.",
+    "Fold the dough in half and press edges to seal.",
+    "Brush tops with olive oil and sprinkle with salt and pepper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm with a side of nutty salsa, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "argentinian",
+    "empanadas",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-gooey-argentinian-seafood-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:18:00.821Z"
+}
