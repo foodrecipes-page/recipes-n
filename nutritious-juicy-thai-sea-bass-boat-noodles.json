@@ -1,0 +1,83 @@
+{
+  "slug": "nutritious-juicy-thai-sea-bass-boat-noodles",
+  "title": "Thai Sea Bass with Noodles",
+  "description": "A flavorful and nutritious dish featuring seared sea bass, served with a delicious Thai-inspired noodle sauce. This recipe is perfect for a quick and easy dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Available in most grocery stores"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat for extra creaminess"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": "Soak in hot water for 5 minutes"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Add flavor to the noodle sauce"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Balance the flavors"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to desired spiciness"
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of salted water to a boil and cook the rice noodles according to the package instructions.",
+    "2. In a small pan, heat 1 tablespoon of oil over medium-high heat. Add the Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "3. Add the coconut milk to the pan and bring to a simmer. Reduce the heat to low and let cook for 5 minutes.",
+    "4. Meanwhile, preheat a non-stick skillet or grill pan over medium-high heat. Season the sea bass fillets with salt and pepper.",
+    "5. Add 1 tablespoon of oil to the skillet and sear the sea bass for 3-4 minutes per side, until cooked through.",
+    "6. To serve, place the cooked noodles on a plate, top with the seared sea bass, and spoon the Thai noodle sauce over the top.",
+    "7. Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "seafood",
+    "noodles",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-juicy-thai-sea-bass-boat-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:44:43.820Z"
+}
