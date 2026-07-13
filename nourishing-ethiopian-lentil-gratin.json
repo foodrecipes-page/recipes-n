@@ -1,0 +1,97 @@
+{
+  "slug": "nourishing-ethiopian-lentil-gratin",
+  "title": "Ethiopian Lentil Gratin",
+  "description": "A hearty and flavorful Ethiopian-inspired lentil dish topped with a crispy gratin.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "red kidney beans, cooked",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "green lentils, rinsed and drained",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for roux"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tbsp olive oil over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the diced red bell pepper and cook for an additional 2 minutes.",
+    "Add the ground caraway seeds, cumin, and coriander. Cook for 1 minute.",
+    "Stir in the cooked red kidney beans, green lentils, and chicken broth.",
+    "Bring the mixture to a simmer and cook until the lentils are tender, about 20-25 minutes.",
+    "In a small bowl, mix together the flour and a pinch of salt. Add the remaining 1 tbsp olive oil and stir until the mixture forms a smooth paste.",
+    "Gradually add the grated cheddar cheese to the flour mixture, stirring until well combined.",
+    "Transfer the lentil mixture to a 9x13 inch baking dish. Top with the cheese mixture.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "ethiopian",
+    "vegetarian",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-ethiopian-lentil-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:30:14.201Z"
+}
