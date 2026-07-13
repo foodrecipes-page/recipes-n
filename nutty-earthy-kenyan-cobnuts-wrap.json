@@ -1,0 +1,83 @@
+{
+  "slug": "nutty-earthy-kenyan-cobnuts-wrap",
+  "title": "Kenyan Wrap with Earthy Flavors",
+  "description": "Experience the unique flavors of Kenya with this earthy wrap filled with nutty cobnuts and a hint of Kenyan spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": "whole wheat or gluten-free wrap"
+    },
+    {
+      "name": "cobnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "earthly mushrooms",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "kenyan spices",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle to medium heat.",
+    "Brush the wrap with olive oil and cook for 1-2 minutes on each side.",
+    "In a separate pan, heat a little oil and cook the sliced mushrooms until they're tender.",
+    "Add the chopped cobnuts and nutty mixture to the pan with the mushrooms and cook for another minute.",
+    "Add the Kenyan spices and cook for 30 seconds.",
+    "Assemble the wrap by spreading the mushroom and cobnut mixture on the cooked wrap.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "veggie-wrap",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-earthy-kenyan-cobnuts-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:30:02.069Z"
+}
