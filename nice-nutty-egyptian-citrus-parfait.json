@@ -1,0 +1,66 @@
+{
+  "slug": "nice-nutty-egyptian-citrus-parfait",
+  "title": "Egyptian Breakfast Parfait",
+  "description": "A delicious and healthy breakfast parfait combining the flavors of Egypt with the crunch of parfait.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Nice Granola",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Nutty Pecans",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Egyptian Dates",
+      "amount": "8 dates",
+      "notes": null
+    },
+    {
+      "name": "Citrus Orange Juice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Parfait Crunch",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together the nice granola and nutty pecans.",
+    "2. Cut the egyptian dates in half and add them to the bowl.",
+    "3. Pour the citrus orange juice over the top of the mixture.",
+    "4. Sprinkle parfait crunch over the top of the parfait.",
+    "5. Refrigerate for at least 30 minutes to allow the flavors to meld together.",
+    "6. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "parfait",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-nutty-egyptian-citrus-parfait",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:16:09.764Z"
+}
