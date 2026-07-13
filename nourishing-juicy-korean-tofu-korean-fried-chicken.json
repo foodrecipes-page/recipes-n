@@ -1,0 +1,82 @@
+{
+  "slug": "nourishing-juicy-korean-tofu-korean-fried-chicken",
+  "title": "Korean Fried Chicken Bites",
+  "description": "Crispy fried chicken bites tossed in a sweet and spicy Korean-inspired sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dredging"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup",
+      "notes": "for dredging"
+    },
+    {
+      "name": "fried chicken seasoning",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together flour, cornstarch, and fried chicken seasoning.",
+    "Add the beaten egg to another shallow dish.",
+    "Dredge the chicken pieces in the flour mixture, shaking off excess.",
+    "Dip the floured chicken in the egg, making sure they're fully coated.",
+    "Dredge the egg-coated chicken in the flour mixture again, pressing the coating onto the chicken to adhere.",
+    "Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few of the coated chicken pieces to the skillet.",
+    "Fry the chicken for about 5-7 minutes on each side, or until golden brown and cooked through.",
+    "Remove the fried chicken from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Repeat with the remaining chicken pieces.",
+    "In a small bowl, whisk together the Korean chili flakes and about 2 tablespoons of the fried chicken's pan drippings.",
+    "Toss the fried chicken in the spicy sauce until coated.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "fried-chicken",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-juicy-korean-tofu-korean-fried-chicken",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T16:59:53.573Z"
+}
