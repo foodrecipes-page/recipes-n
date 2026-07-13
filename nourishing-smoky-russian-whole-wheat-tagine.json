@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-smoky-russian-whole-wheat-tagine",
+  "title": "Smoky Tagine Stew",
+  "description": "A hearty, smoky stew inspired by Russian cuisine, made with nourishing ingredients and a blend of spices.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoky Wheat Berries",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "Nourishing Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "1 tsp",
+      "notes": "or homemade mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Sauté the carrots, zucchini, and bell pepper until tender.",
+    "Add the soaked wheat berries, vegetable broth, smoked paprika, and tagine spice blend.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "vegetarian",
+    "gluten-free",
+    "lunch",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-russian-whole-wheat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:11:42.496Z"
+}
