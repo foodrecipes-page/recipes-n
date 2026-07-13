@@ -1,0 +1,92 @@
+{
+  "slug": "nourishing-fluffy-vietnamese-fish-canh-chua",
+  "title": "Vietnamese Fish Soup",
+  "description": "A flavorful and nutritious Vietnamese canh dish made with fish and vegetables.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (any white fish)",
+      "amount": "1 pound",
+      "notes": "Cut into large chunks"
+    },
+    {
+      "name": "Nourishing Chua Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Fluffy Rice Noodles",
+      "amount": "1 cup",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onion and ginger, and cook until fragrant.",
+    "Add the fish chunks and cook until they start to flake.",
+    "Pour in the chua sauce and fish sauce (if using), and stir to combine.",
+    "Add the cooked noodles and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Simmer for 10 minutes.",
+    "Add the chopped basil and stir to combine.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "fish-soup",
+    "canh",
+    "chua-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-fluffy-vietnamese-fish-canh-chua",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T18:27:49.324Z"
+}
