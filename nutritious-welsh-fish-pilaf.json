@@ -1,0 +1,80 @@
+{
+  "slug": "nutritious-welsh-fish-pilaf",
+  "title": "Welsh Fish Pilaf",
+  "description": "A nutritious and flavorful pilaf dish featuring Welsh fish and a medley of spices.",
+  "cuisine": "Welsh",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Welsh fish",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Pilaf rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the Welsh fish and cook until browned on both sides, about 3-4 minutes per side.",
+    "Add the pilaf rice to the skillet and stir to combine with the fish and vegetables.",
+    "Cook for an additional 2-3 minutes, until the rice is lightly toasted.",
+    "Transfer the mixture to a serving dish and sprinkle with chopped parsley.",
+    "Squeeze the lemon juice over the top and season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "pilaf",
+    "welsh"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-welsh-fish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:22:08.682Z"
+}
