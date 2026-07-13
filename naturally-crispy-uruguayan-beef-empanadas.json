@@ -1,0 +1,87 @@
+{
+  "slug": "naturally-crispy-uruguayan-beef-empanadas",
+  "title": "Uruguayan Beef Empanadas",
+  "description": "A classic Uruguayan dish featuring crispy beef empanadas, perfect as a snack or light meal.",
+  "cuisine": "Latin American",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan Spices (parrillada seasoning)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Empanada Dough (homemade or store-bought)",
+      "amount": "4-6 pieces",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine ground beef, salt, black pepper, and Uruguayan spices. Mix well.",
+    "Divide empanada dough into 4-6 pieces, depending on size.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of beef mixture in the center of each circle.",
+    "Brush the edges with egg and fold the dough in half to form a triangle.",
+    "Press the edges together to seal the empanada.",
+    "Repeat with the remaining dough and beef mixture.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops with egg and sprinkle with salt.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-crispy-uruguayan-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:06:43.350Z"
+}
