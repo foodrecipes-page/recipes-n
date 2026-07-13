@@ -1,0 +1,57 @@
+{
+  "slug": "nutty-crunchy-midnight-craving-indian-eggs-steamed-rice-cake",
+  "title": "Midnight Craving Steamed Rice Bowl",
+  "description": "A simple and comforting bowl filled with steamed rice, eggs, and a hint of nutty crunch.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tbsp",
+      "notes": "chopped nuts"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and cook according to package instructions.",
+    "Crack the eggs into a bowl and whisk them together.",
+    "Heat a non-stick pan over medium heat and add the eggs.",
+    "Scramble the eggs until they are cooked through.",
+    "Add the chopped nuts to the pan and stir to combine.",
+    "Spoon the cooked rice into a bowl and top with the eggs and nuts.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "comfort-food",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crunchy-midnight-craving-indian-eggs-steamed-rice-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:41:33.201Z"
+}
