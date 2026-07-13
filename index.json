@@ -454,17 +454,16 @@
   },
   {
     "slug": "naturally-flaky-australian-chickpeas-flatbread",
-    "title": "Naturally Flaky Australian Chickpeas Flatbread",
+    "title": "Australian Chickpea Flatbread",
     "tags": [
       "australian",
-      "chickpeas",
-      "date-night",
       "flatbread",
-      "raw-friendly",
-      "vegetarian"
+      "chickpeas",
+      "vegetarian",
+      "snack"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -11198,14 +11197,12 @@
     "slug": "nutritious-welsh-fish-pilaf",
     "title": "Welsh Fish Pilaf",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "fish",
+      "pilaf",
+      "welsh"
     ],
     "cuisine": "Welsh",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -14073,17 +14070,15 @@
   },
   {
     "slug": "nutty-gooey-argentinian-seafood-empanadas",
-    "title": "Nutty Gooey Argentinian Seafood Empanadas",
+    "title": "Argentinian Seafood Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "empanadas",
-      "plant-based",
       "seafood",
-      "spherification",
-      "weeknight-dinner"
+      "argentinian",
+      "empanadas",
+      "savory"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "cuisine": "argentinian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
