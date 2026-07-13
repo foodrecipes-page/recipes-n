@@ -4769,17 +4769,15 @@
   },
   {
     "slug": "nourishing-creamy-british-vegetable-afternoon-tea-sandwich",
-    "title": "Nourishing Creamy British Vegetable Afternoon Tea Sandwich",
+    "title": "British Cream Tea Sandwich",
     "tags": [
-      "afternoon-tea",
-      "british-classics",
-      "flexitarian-friendly",
-      "kid-friendly",
-      "sandwiches",
-      "vegetarian-options"
+      "british",
+      "cream-tea",
+      "sandwich",
+      "vegetarian"
     ],
     "cuisine": "British",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
@@ -6335,17 +6333,14 @@
   },
   {
     "slug": "nourishing-juicy-korean-tofu-korean-fried-chicken",
-    "title": "Nourishing Juicy Korean Tofu Korean Fried Chicken",
+    "title": "Korean Fried Chicken Bites",
     "tags": [
-      "kfc-style",
-      "korean-fusion",
-      "lazy-sunday",
-      "spicy-food",
-      "tofu-recipes",
-      "vegan-friendly"
+      "korean",
+      "fried-chicken",
+      "snack"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -7911,14 +7906,13 @@
   },
   {
     "slug": "nourishing-smoky-moroccan-chickpeas-tagine",
-    "title": "Nourishing Smoky Moroccan Chickpeas Tagine",
+    "title": "Moroccan Chickpea Tagine",
     "tags": [
-      "chickpea-recipes",
-      "jain-friendly",
-      "moroccan-cuisine",
-      "one-pot-meals",
-      "smoky-flavors",
-      "vegan-recipes"
+      "moroccan",
+      "chickpeas",
+      "stew",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 40,
@@ -8021,17 +8015,16 @@
   },
   {
     "slug": "nourishing-smoky-russian-whole-wheat-tagine",
-    "title": "Nourishing Smoky Russian Whole Wheat Tagine",
+    "title": "Smoky Tagine Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "macrobiotic-friendly",
-      "one-pot",
-      "smoky-flavors",
-      "whole-grains"
+      "stew",
+      "vegetarian",
+      "gluten-free",
+      "lunch",
+      "smoky"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 65,
+    "cuisine": "russian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
