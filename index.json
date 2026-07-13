@@ -3989,18 +3989,15 @@
   },
   {
     "slug": "nostalgic-velvety-briny-tunisian-fish-tagine",
-    "title": "Nostalgic Velvety Briny Tunisian Fish Tagine",
+    "title": "Tunisian Fish Tagine",
     "tags": [
-      "fish-sauce",
-      "flaky-fish",
-      "halal",
-      "one-pan",
+      "north-african",
       "stew",
-      "tunisian",
-      "weeknight"
+      "fish",
+      "gluten-free"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "north-african",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -6397,16 +6394,16 @@
   },
   {
     "slug": "nourishing-korean-fermented-black-beans-jjigae-tang",
-    "title": "Nourishing Korean Fermented Black Beans Jjigae Tang",
+    "title": "Spicy Korean Black Bean Stew",
     "tags": [
-      "comfort-food",
-      "korean-cuisine",
-      "one-pot",
+      "korean",
+      "black-beans",
       "spicy",
+      "stew",
       "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
