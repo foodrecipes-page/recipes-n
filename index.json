@@ -8391,17 +8391,16 @@
   },
   {
     "slug": "nourishing-sweet-canadian-dates-hash",
-    "title": "Nourishing Sweet Canadian Dates Hash",
+    "title": "Sweet Hash Canadian Breakfast",
     "tags": [
+      "breakfast",
       "canadian",
-      "easy-to-make",
-      "fodmap-friendly",
-      "nourishing",
       "sweet",
-      "vegetarian"
+      "hash",
+      "dates"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 13,
     "shard": "n"
   },
   {
@@ -10389,17 +10388,15 @@
   },
   {
     "slug": "nutritious-juicy-thai-sea-bass-boat-noodles",
-    "title": "Nutritious Juicy Thai Sea Bass Boat Noodles",
+    "title": "Thai Sea Bass with Noodles",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
+      "thai",
       "seafood",
-      "thai-cuisine",
-      "weeknight"
+      "noodles",
+      "quick-dinner"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "n"
   },
   {
@@ -13564,18 +13561,14 @@
   },
   {
     "slug": "nutty-earthy-kenyan-cobnuts-wrap",
-    "title": "Nutty earthy Kenyan cobnuts wrap",
+    "title": "Kenyan Wrap with Earthy Flavors",
     "tags": [
-      "cozy",
       "kenyan",
-      "low-glycemic",
-      "one-pan",
-      "snappy",
-      "vegetarian",
-      "weeknight"
+      "veggie-wrap",
+      "snack"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "cuisine": "kenyan",
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
