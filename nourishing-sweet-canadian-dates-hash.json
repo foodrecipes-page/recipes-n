@@ -1,0 +1,59 @@
+{
+  "slug": "nourishing-sweet-canadian-dates-hash",
+  "title": "Sweet Hash Canadian Breakfast",
+  "description": "A hearty breakfast dish from Canada with sweet and nourishing ingredients. Perfect for a cozy morning.",
+  "cuisine": "Canadian",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sweet Canadian Maple Syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried Dates",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Nourishing Almond Milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, heat 1 tablespoon of the sweet maple syrup over medium heat.",
+    "2. Add the hash to the pan and cook until browned, about 5 minutes.",
+    "3. Add the chopped dates to the pan and stir to combine with the hash.",
+    "4. Pour in the almond milk and stir to combine with the hash and dates.",
+    "5. Bring the mixture to a simmer and cook for 2-3 minutes.",
+    "6. Serve the sweet hash hot, drizzled with the remaining maple syrup."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "sweet",
+    "hash",
+    "dates"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-sweet-canadian-dates-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:44:58.931Z"
+}
