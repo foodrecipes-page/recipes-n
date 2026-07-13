@@ -5501,14 +5501,12 @@
   },
   {
     "slug": "nourishing-ethiopian-lentil-gratin",
-    "title": "Nourishing Ethiopian Lentil Gratin",
+    "title": "Ethiopian Lentil Gratin",
     "tags": [
-      "ethiopian-cuisine",
-      "gratin",
-      "lentil-recipes",
-      "low-sodium",
-      "one-pot",
-      "vegetarian"
+      "lentil",
+      "ethiopian",
+      "vegetarian",
+      "gratin"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 45,
@@ -9401,15 +9399,16 @@
   },
   {
     "slug": "nutmeg-braised-tostadas",
-    "title": "Nutmeg-Braised-Tostadas",
+    "title": "Sweet Braised Pork Tostadas",
     "tags": [
-      "nutmeg-braised-tostadas",
-      "kid-friendly",
-      "mexican-dish",
-      "light"
+      "braised",
+      "pork",
+      "mexican",
+      "sweet",
+      "tostadas"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 20,
+    "totalTimeMin": 180,
     "shard": "n"
   },
   {
