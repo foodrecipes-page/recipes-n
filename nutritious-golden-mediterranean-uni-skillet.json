@@ -1,0 +1,85 @@
+{
+  "slug": "nutritious-golden-mediterranean-uni-skillet",
+  "title": "Uni Mediterranean Skillet",
+  "description": "A flavorful and nutritious skillet dish packed with uni, golden vegetables, and a hint of Mediterranean spices. Serve as a light dinner or snack with whole grain bread.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "uni",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "golden bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "skillet oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat skillet oil in a large skillet over medium-high heat.",
+    "2. Add sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "3. Add sliced golden bell pepper and cook for an additional 3-4 minutes.",
+    "4. Add minced garlic and cook for 1 minute, until fragrant.",
+    "5. Add dried oregano, salt, and black pepper to taste.",
+    "6. Add uni and stir to combine with the vegetables and spices.",
+    "7. Continue to cook for an additional 2-3 minutes, until the uni is heated through.",
+    "8. Serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "healthy",
+    "easy",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-golden-mediterranean-uni-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:05:51.124Z"
+}
