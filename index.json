@@ -3573,18 +3573,15 @@
   },
   {
     "slug": "nostalgic-german-cheese-gratin",
-    "title": "Nostalgic German Cheese Gratin",
+    "title": "German Cheese Gratin",
     "tags": [
-      "cheese-pull",
       "german",
-      "lazy-sunday",
-      "mini-gratin",
-      "no-garlic",
-      "no-onion",
-      "potato"
+      "cheese",
+      "gratin",
+      "comfort-food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 40,
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -5010,17 +5007,15 @@
   },
   {
     "slug": "nourishing-crispy-russian-orzo-pilaf",
-    "title": "Nourishing Crispy Russian Orzo Pilaf",
+    "title": "Russian Orzo Pilaf with Crispy Nourishing Topping",
     "tags": [
-      "citrusy",
-      "crispy",
-      "crowd-pleaser",
-      "one-pan",
-      "russian-dish",
-      "weeknight"
+      "russian",
+      "orzo",
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
