@@ -1,0 +1,62 @@
+{
+  "slug": "nourishing-crispy-russian-orzo-pilaf",
+  "title": "Russian Orzo Pilaf with Crispy Nourishing Topping",
+  "description": "A hearty and flavorful pilaf dish with crispy topping, inspired by Russian cuisine. Perfect for a satisfying meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "orzo",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nourishing",
+      "amount": "1 cup (chopped vegetables: carrots, zucchini, bell peppers)",
+      "notes": "e.g. use leftover roasted vegetables"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/2 cup (crushed crispy fried onions)"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium heat.",
+    "Add chopped nourishing ingredients and cook until tender, about 5 minutes.",
+    "Add orzo and pilaf to the skillet, stir to combine.",
+    "Cook for 2-3 minutes, until the orzo is lightly toasted.",
+    "Add 2 cups of water to the skillet, bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the liquid is absorbed.",
+    "While the pilaf cooks, heat a small amount of oil in a separate pan.",
+    "Add crushed crispy fried onions and cook until crispy and golden brown.",
+    "Fluff the cooked pilaf with a fork, then top with crispy onions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "orzo",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-crispy-russian-orzo-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:58:26.733Z"
+}
