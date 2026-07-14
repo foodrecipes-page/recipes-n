@@ -1,0 +1,81 @@
+{
+  "slug": "nourishing-korean-rhubarb-jorim",
+  "title": "Spicy Korean Rhubarb Jorim",
+  "description": "A sweet and spicy Korean-inspired dish made with rhubarb and korean chili paste. This recipe is a twist on the traditional Korean side dish.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "Nourishing vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat the vegetable oil in a large skillet over medium-high heat.",
+    "2. Add the ginger and garlic and cook for 1 minute.",
+    "3. Add the rhubarb and cook for 2-3 minutes, until slightly tender.",
+    "4. In a small bowl, whisk together the gochujang, brown sugar, soy sauce, and sesame oil.",
+    "5. Pour the sauce over the rhubarb and cook for an additional 2-3 minutes, until the rhubarb is tender.",
+    "6. Stir in the sesame seeds and salt.",
+    "7. Serve the rhubarb hot, garnished with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-korean-rhubarb-jorim",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:23:47.761Z"
+}
