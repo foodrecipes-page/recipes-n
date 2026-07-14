@@ -2211,16 +2211,16 @@
   },
   {
     "slug": "nighttime-crunchy-malaysian-noodle-fried-rice",
-    "title": "Nighttime Crunchy Malaysian Noodle Fried Rice",
+    "title": "Malaysian Fried Noodle Stir Fry",
     "tags": [
-      "malaysian-cuisine",
-      "midnight-cravings",
-      "noodle-dishes",
-      "quick-and-easy",
-      "vegetarian-friendly"
+      "malaysian",
+      "noodle",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 18,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -4197,16 +4197,16 @@
   },
   {
     "slug": "nourishing-australian-beef-tagine",
-    "title": "Nourishing Australian Beef Tagine",
+    "title": "Australian Beef Tagine",
     "tags": [
-      "australian-cuisine",
-      "beef-recipes",
-      "gluten-free",
-      "low-carb",
-      "one-pot"
+      "australian",
+      "beef",
+      "tagine",
+      "hearty",
+      "nourishing"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "cuisine": "australian",
+    "totalTimeMin": 180,
     "shard": "n"
   },
   {
@@ -12503,19 +12503,15 @@
   },
   {
     "slug": "nutty-crispy-malaysian-cabbage-satay",
-    "title": "Nutty Crispy Malaysian Cabbage Satay",
+    "title": "Malaysian Satay Cabbage Stir Fry",
     "tags": [
-      "dinner-party",
-      "fondue",
-      "malaysian",
-      "one-pan",
-      "satay",
-      "special-occasion",
-      "weekend",
-      "weeknight"
+      "malaysian-food",
+      "stir-fry",
+      "vegetarian-options",
+      "quick-recipes"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 30,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
@@ -15736,17 +15732,15 @@
   },
   {
     "slug": "nutty-saudi-arabian-noodle-dish",
-    "title": "Nutty Saudi Arabian Noodle Dish",
+    "title": "Saudi Arabian Noodle Dish",
     "tags": [
-      "gluten-free",
-      "middle-eastern",
       "noodle-dish",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "saudi-arabian-cuisine",
+      "easy-recipe",
+      "gluten-free"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
