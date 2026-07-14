@@ -715,17 +715,15 @@
   },
   {
     "slug": "naturally-smoky-filipino-pappardelle-pasta",
-    "title": "Naturally Smoky Filipino Pappardelle Pasta",
+    "title": "Smoky Filipino Pappardelle",
     "tags": [
-      "filipino",
-      "one-pan",
-      "pasta",
-      "robata-grill",
       "smoky",
-      "weeknight"
+      "filipino",
+      "pappardelle",
+      "pasta"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "cuisine": "Filipino-Italian",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -16071,15 +16069,15 @@
   },
   {
     "slug": "nutty-silky-plums-stir-fry",
-    "title": "Nutty Silky Plums Stir-fry",
+    "title": "Stir-Fried Plum Delight",
     "tags": [
-      "nutty",
-      "silky",
-      "plum-tomato",
-      "caramelized"
+      "stir-fry",
+      "plums",
+      "vegetarian",
+      "easy-dinner"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 25,
+    "cuisine": "Chinese",
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
