@@ -1,0 +1,73 @@
+{
+  "slug": "nutty-fluffy-american-duck-stir-fry",
+  "title": "Crispy Duck Stir Fry",
+  "description": "A quick and easy stir-fry dish made with duck breast, served with nutty American-style fried rice.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "500g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "Nutty American-style rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "Fluffy egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Fry seasoning",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of oil in a pan over medium-high heat.",
+    "2. Add the duck breast and cook for 3-4 minutes per side, or until cooked through.",
+    "3. Remove the duck from the pan and set aside.",
+    "4. In the same pan, add the remaining 1 tablespoon of oil.",
+    "5. Add the beaten egg and scramble it until cooked through.",
+    "6. Add the cooked rice to the pan and stir-fry for 2-3 minutes.",
+    "7. Add the cooked duck back into the pan, along with the fry seasoning and chopped onions.",
+    "8. Stir-fry for an additional 1-2 minutes, until the flavors have combined.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "duck",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-fluffy-american-duck-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:37:25.267Z"
+}
