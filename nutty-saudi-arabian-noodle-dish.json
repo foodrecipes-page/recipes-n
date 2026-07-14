@@ -1,0 +1,80 @@
+{
+  "slug": "nutty-saudi-arabian-noodle-dish",
+  "title": "Saudi Arabian Noodle Dish",
+  "description": "A hearty and flavorful noodle dish inspired by the cuisine of Saudi Arabia. This recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Noodle",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Arabian",
+      "amount": "2 tablespoons",
+      "notes": "Use as spice blend or mix with a little oil as marinade"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup",
+      "notes": "Chopped nuts of your choice"
+    },
+    {
+      "name": "dish",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable oil or neutral-tasting oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the noodle according to the package instructions until al dente.",
+    "Drain the noodle and set it aside.",
+    "Heat 1 tablespoon of Arabian spice blend or oil in a large skillet over medium heat.",
+    "Add the chopped nuts and cook, stirring frequently, until fragrant and lightly toasted.",
+    "Add the cooked noodle to the skillet and stir to combine with the nuts and spice blend.",
+    "Season with salt and pepper to taste.",
+    "Transfer the noodle mixture to a serving dish and garnish with chopped fresh parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "noodle-dish",
+    "saudi-arabian-cuisine",
+    "easy-recipe",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-saudi-arabian-noodle-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:32:50.989Z"
+}
