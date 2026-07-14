@@ -13395,18 +13395,15 @@
   },
   {
     "slug": "nutty-dense-slovakian-beef-casserole",
-    "title": "Slovakian Beef Casserole with Nuts",
+    "title": "Slovakian Beef Casserole",
     "tags": [
+      "slovakian",
       "beef-casserole",
-      "comfort-food",
-      "easy-gourmet",
-      "homestyle",
-      "kid-friendly",
-      "one-pan",
-      "weeknight"
+      "hearty",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
