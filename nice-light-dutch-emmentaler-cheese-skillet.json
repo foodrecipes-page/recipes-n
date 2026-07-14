@@ -1,0 +1,76 @@
+{
+  "slug": "nice-light-dutch-emmentaler-cheese-skillet",
+  "title": "Dutch Skillet Paninis",
+  "description": "A simple and quick recipe to make delicious paninis with Dutch cheese and Emmentaler cheese.",
+  "cuisine": "Dutch",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dutch cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Emmentaler cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Emmentaler cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "skillet",
+      "amount": null,
+      "notes": "for toasting cheese"
+    },
+    {
+      "name": "nice",
+      "amount": null,
+      "notes": "light, medium-high heat"
+    },
+    {
+      "name": "light",
+      "amount": null,
+      "notes": "light breading for crispy crust"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the skillet to medium-high heat.",
+    "2. Butter one side of each slice of cheese.",
+    "3. Place one slice of cheese, butter side down, in the preheated skillet.",
+    "4. Place a slice of Emmentaler cheese on top of the Dutch cheese.",
+    "5. Sprinkle some light breading on top of the Emmentaler cheese for a crispy crust.",
+    "6. Cook for 2-3 minutes or until the cheese is melted and the breading is golden brown.",
+    "7. Flip the panini over and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "8. Repeat with the remaining cheese slices and breading.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "panini",
+    "dutch",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-light-dutch-emmentaler-cheese-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:20:38.278Z"
+}
