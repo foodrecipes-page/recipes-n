@@ -1,0 +1,96 @@
+{
+  "slug": "nourishing-australian-beef-tagine",
+  "title": "Australian Beef Tagine",
+  "description": "A hearty and flavorful beef tagine recipe from Australia, perfect for a cold winter night.",
+  "cuisine": "australian",
+  "diet": [
+    "beef",
+    "nourishing"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef shin or chuck",
+      "amount": "1 kg",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Sear the beef until browned, then set aside.",
+    "Add more oil if needed, then sauté the onion until softened.",
+    "Add garlic and cook for 1 minute.",
+    "Add carrots and potatoes and cook for 5 minutes.",
+    "Add dried apricots, beef stock, chili powder, cumin, and salt.",
+    "Return the beef to the pot and bring to a boil.",
+    "Transfer the pot to the oven and cook at 150°C for 2.5 hours.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "beef",
+    "tagine",
+    "hearty",
+    "nourishing"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 36,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-australian-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:57:32.582Z"
+}
