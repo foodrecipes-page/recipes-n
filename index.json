@@ -3616,16 +3616,15 @@
   },
   {
     "slug": "nostalgic-japanese-chicken-tsukune",
-    "title": "Nostalgic Japanese Chicken Tsukune",
+    "title": "Japanese-Style Chicken Meatballs (Tsukune)",
     "tags": [
-      "chicken-recipes",
-      "healthy-eating",
-      "japanese-cuisine",
-      "one-bowl-meals",
-      "weeknight-dinners"
+      "tsukune",
+      "japanese",
+      "chicken",
+      "meatballs"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -10175,15 +10174,16 @@
   },
   {
     "slug": "nutritious-french-pomegranate-crepe",
-    "title": "Nutritious French Pomegranate Crepe",
+    "title": "French Pomegranate Crepes",
     "tags": [
-      "crepe",
-      "earthly",
-      "nutritious",
-      "silkilyoung"
+      "crepes",
+      "french",
+      "pomegranate",
+      "dessert",
+      "nutritious"
     ],
     "cuisine": "French",
-    "totalTimeMin": 65,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
