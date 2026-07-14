@@ -1,0 +1,93 @@
+{
+  "slug": "nutty-malaysian-pork-tenderloin-satay",
+  "title": "Pork Satay Skewers",
+  "description": "A delicious and easy-to-make Malaysian-inspired dish featuring marinated pork tenderloin, grilled to perfection on skewers.",
+  "cuisine": "malaysian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "nutty peanut sauce",
+      "amount": "200ml",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2tbsp",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1tbsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2tbsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "2tbsp",
+      "notes": null
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2cloves",
+      "notes": null
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2stalks",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a blender, combine peanut sauce, coconut milk, soy sauce, fish sauce, brown sugar, coriander, chili flakes, garlic, and lemongrass. Blend until smooth.",
+    "2. In a large bowl, whisk together the marinade ingredients. Add the pork tenderloin and mix until coated.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Thread the marinated pork onto satay skewers, leaving a small space between each piece.",
+    "6. Grill the skewers for 8-10 minutes, turning occasionally, until the pork is cooked through.",
+    "7. Brush the skewers with the remaining marinade during the last 2 minutes of grilling.",
+    "8. Serve the pork satay skewers hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "malaysian",
+    "grilled",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-malaysian-pork-tenderloin-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T14:16:50.439Z"
+}
