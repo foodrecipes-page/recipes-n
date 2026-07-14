@@ -1,0 +1,63 @@
+{
+  "slug": "nourishing-italian-runner-beans-pesto-pasta",
+  "title": "Runner's Pasta with Pesto",
+  "description": "A quick and nutritious Italian-inspired pasta dish made with pesto sauce, ideal for runners after a workout.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "250g",
+      "notes": "Choose whole wheat for added nutrition"
+    },
+    {
+      "name": "Pesto",
+      "amount": "120g",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Runner beans",
+      "amount": "200g",
+      "notes": "Trimmed and cut into bite-sized pieces"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat a tablespoon of water over medium heat.",
+    "Add the runner beans and cook for 3-4 minutes, or until tender.",
+    "Stir in the pesto sauce and Italian seasoning (if using).",
+    "Combine the cooked pasta and pesto mixture. Toss to coat.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "quick",
+    "healthy",
+    "runner-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-italian-runner-beans-pesto-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T07:36:40.456Z"
+}
