@@ -1,0 +1,98 @@
+{
+  "slug": "nourishing-thai-chicken-wrap",
+  "title": "Thai Chicken Wrap",
+  "description": "A delicious and easy-to-make wrap filled with flavorful Thai chicken, crunchy vegetables, and creamy sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sliced bell peppers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce leaves",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tortilla wrap",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Shredded carrots",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add coconut oil and swirl to coat the pan.",
+    "Add chicken to the pan and cook until browned, about 5-6 minutes.",
+    "Add Thai red curry paste to the pan and stir to combine.",
+    "Cook for 1-2 minutes, until fragrant.",
+    "Stir in fish sauce, honey, and chicken broth.",
+    "Bring to a simmer and cook until the sauce has thickened, about 2-3 minutes.",
+    "Add sliced bell peppers to the pan and cook until tender.",
+    "Warm the tortilla wrap in the microwave or in a dry skillet.",
+    "Assemble the wrap by placing the cooked chicken and sauce mixture onto the tortilla.",
+    "Top with shredded carrots, chopped cilantro, and lettuce leaves.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "chicken",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-thai-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:24:57.851Z"
+}
