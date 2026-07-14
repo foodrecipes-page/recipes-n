@@ -1,0 +1,96 @@
+{
+  "slug": "nighttime-crunchy-malaysian-noodle-fried-rice",
+  "title": "Malaysian Fried Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry made with a blend of Asian-inspired spices and crunchy vegetables.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add carrots and cook for an additional 3-4 minutes.",
+    "Add snow peas and cook until tender, about 2-3 minutes.",
+    "Add ginger and garlic and cook for 1 minute.",
+    "Add soy sauce and sesame oil and stir to combine.",
+    "Add cooked noodles and stir to combine.",
+    "Cook for an additional 2-3 minutes, until noodles are well coated with the sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "noodle",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nighttime-crunchy-malaysian-noodle-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:05:27.795Z"
+}
