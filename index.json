@@ -8654,14 +8654,12 @@
   },
   {
     "slug": "nourishing-thai-chicken-wrap",
-    "title": "Nourishing Thai Chicken Wrap",
+    "title": "Thai Chicken Wrap",
     "tags": [
-      "easy-meal",
-      "gluten-free",
-      "healthy",
-      "low-carb",
-      "one-pot",
-      "thai-inspired"
+      "thai",
+      "chicken",
+      "wrap",
+      "lunch"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
@@ -10203,18 +10201,16 @@
   },
   {
     "slug": "nutritious-golden-mediterranean-uni-skillet",
-    "title": "Golden Mediterranean Uni Skillet",
+    "title": "Uni Mediterranean Skillet",
     "tags": [
-      "high-protein",
-      "kid-friendly",
-      "mediterranean",
-      "one-pan",
-      "tempeh",
-      "uni",
-      "weeknight"
+      "vegan",
+      "gluten-free",
+      "healthy",
+      "easy",
+      "skillet"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -13801,14 +13797,14 @@
   },
   {
     "slug": "nutty-fluffy-american-duck-stir-fry",
-    "title": "Nutty Fluffy American Duck Stir-fry",
+    "title": "Crispy Duck Stir Fry",
     "tags": [
-      "nutty-fluffy",
-      "festive-american-dish",
-      "low-fat-friendly"
+      "crispy",
+      "duck",
+      "stir-fry"
     ],
     "cuisine": "American",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -14015,17 +14011,15 @@
   },
   {
     "slug": "nutty-golden-italian-onion-pasta",
-    "title": "Nutty Golden Italian Onion Pasta",
+    "title": "Creamy Italian Pasta Bake",
     "tags": [
-      "flexitarian-friendly",
-      "italian-food",
-      "one-pot-meals",
-      "pasta-recipes",
-      "vegetarian-options",
-      "wine-based-sauces"
+      "italian",
+      "pasta",
+      "baked",
+      "comfort-food"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
