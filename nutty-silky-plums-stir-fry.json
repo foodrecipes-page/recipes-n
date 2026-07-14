@@ -1,0 +1,61 @@
+{
+  "slug": "nutty-silky-plums-stir-fry",
+  "title": "Stir-Fried Plum Delight",
+  "description": "A sweet and savory stir-fry dish made with fresh plums and silky sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plums",
+      "amount": "2 cups",
+      "notes": "any variety"
+    },
+    {
+      "name": "silky sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "nutty oil",
+      "amount": "2 tablespoons",
+      "notes": "peanut or vegetable oil"
+    },
+    {
+      "name": "stir-fry seasoning",
+      "amount": "1 teaspoon",
+      "notes": "any stir-fry blend"
+    }
+  ],
+  "instructions": [
+    "Heat nutty oil in a wok or large skillet over medium-high heat.",
+    "Add stir-fry seasoning and cook for 1 minute, until fragrant.",
+    "Add sliced plums and cook for 3-4 minutes, until tender.",
+    "Add silky sauce and stir to combine.",
+    "Cook for an additional 2 minutes, until sauce has thickened.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "plums",
+    "vegetarian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-silky-plums-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:30:40.930Z"
+}
