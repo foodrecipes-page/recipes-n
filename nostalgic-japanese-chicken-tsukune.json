@@ -1,0 +1,72 @@
+{
+  "slug": "nostalgic-japanese-chicken-tsukune",
+  "title": "Japanese-Style Chicken Meatballs (Tsukune)",
+  "description": "A nostalgic twist on traditional Japanese meatballs, these tsukune are made with juicy chicken and a blend of savory spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, whisk together soy sauce, ginger, garlic, and sesame oil.",
+    "3. Add the chicken breast to the bowl and mix until just combined.",
+    "4. Using your hands, shape the chicken mixture into small meatballs.",
+    "5. Place the meatballs on a baking sheet lined with parchment paper.",
+    "6. Bake for 12-15 minutes, or until the meatballs are cooked through.",
+    "7. While the meatballs are baking, toast the panko breadcrumbs in a small skillet over medium heat.",
+    "8. Once the meatballs are done, place them on a plate and sprinkle with toasted panko breadcrumbs and chopped green onions.",
+    "9. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tsukune",
+    "japanese",
+    "chicken",
+    "meatballs"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-japanese-chicken-tsukune",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:24:22.484Z"
+}
