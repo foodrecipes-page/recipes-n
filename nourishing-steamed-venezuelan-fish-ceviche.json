@@ -1,0 +1,81 @@
+{
+  "slug": "nourishing-steamed-venezuelan-fish-ceviche",
+  "title": "Steamed Venezuelan Ceviche",
+  "description": "A refreshing and light Venezuelan-inspired dish, perfect for warm weather. Steaming the fish instead of marinating it maintains its delicate flavor and texture.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh white fish (such as sea bass or snapper)",
+      "amount": "1 pound",
+      "notes": "Ask your fishmonger for the freshest catch"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Use a manual or electric juicer for the best flavor"
+    },
+    {
+      "name": "Freshly squeezed orange juice",
+      "amount": "1 tablespoon",
+      "notes": "Choose a mix of navel and blood oranges for a tangy flavor"
+    },
+    {
+      "name": "Chopped red onion",
+      "amount": "1/2 cup",
+      "notes": "Use a mandoline to get thin, even slices"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Choose fresh cilantro with no signs of wilting"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Use kosher salt and freshly ground black pepper for the best flavor"
+    },
+    {
+      "name": "Freshly squeezed aji amarillo pepper juice (optional)",
+      "amount": "1 tablespoon",
+      "notes": "Use aji amarillo peppers for a traditional Venezuelan flavor"
+    }
+  ],
+  "instructions": [
+    "Rinse the fish under cold water and pat it dry with paper towels.",
+    "Cut the fish into small pieces and place it in a steamer basket.",
+    "Steam the fish over boiling water for 8-10 minutes, or until it's cooked through.",
+    "In a separate bowl, mix together the lime juice, orange juice, red onion, cilantro, salt, and pepper.",
+    "Add the steamed fish to the bowl and toss it with the marinade.",
+    "Taste and adjust the seasoning as needed.",
+    "If using aji amarillo pepper juice, stir it in just before serving.",
+    "Serve the ceviche immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "veggie-free",
+    "fish-only",
+    "nourishing",
+    "ceviche",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 35,
+    "carbs": 2,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-steamed-venezuelan-fish-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:43:22.276Z"
+}
