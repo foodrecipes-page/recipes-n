@@ -1,0 +1,100 @@
+{
+  "slug": "nutritious-smoky-irish-lamb-pie",
+  "title": "Smoky Irish Lamb Pie",
+  "description": "A hearty and flavorful pie filled with tender lamb and a crunchy crust, inspired by the traditions of Ireland.",
+  "cuisine": "irish",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound lamb shoulder, boneless and cut into 1-inch pieces",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, diced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "1 cup lamb broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon tomato paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1 pie crust, homemade or store-bought",
+      "amount": "1 pie crust",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, cook the lamb over medium-high heat until browned, about 5 minutes.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Stir in the lamb broth, tomato paste, flour, smoked paprika, thyme, salt, and pepper. Bring the mixture to a simmer.",
+    "Reduce the heat to low and cook the lamb mixture for 10-15 minutes, stirring occasionally.",
+    "Roll out the pie crust and place it in a 9-inch pie dish.",
+    "Fill the pie crust with the lamb mixture and cover with another pie crust or a crumb topping.",
+    "Cut a few slits in the top crust to allow steam to escape.",
+    "Bake the pie for 35-40 minutes, or until the crust is golden brown and the filling is hot and bubbly.",
+    "Let the pie rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "pie",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-smoky-irish-lamb-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:55:47.439Z"
+}
