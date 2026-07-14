@@ -1,0 +1,88 @@
+{
+  "slug": "nimble-thai-fines-herbes-gaeng-curry",
+  "title": "Thai Gaeng Curry",
+  "description": "A delicious and flavorful Thai curry made with tender chicken and a blend of aromatic spices.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gaeng curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat for richness"
+    },
+    {
+      "name": "fines herbes",
+      "amount": "1 tablespoon",
+      "notes": "or chopped fresh herbs like basil or cilantro"
+    },
+    {
+      "name": "nimble rice",
+      "amount": "1 cup",
+      "notes": "cook according to package instructions"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking the rice"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the gaeng curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the coconut milk, herbes, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the chicken is cooked through.",
+    "Serve the curry over nimble rice and garnish with chopped thai basil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "curry",
+    "chicken",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-thai-fines-herbes-gaeng-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T02:25:27.794Z"
+}
