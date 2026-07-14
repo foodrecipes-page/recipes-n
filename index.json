@@ -10985,18 +10985,15 @@
   },
   {
     "slug": "nutritious-smoky-irish-lamb-pie",
-    "title": "Nutritious Smoky Irish Lamb Pie",
+    "title": "Smoky Irish Lamb Pie",
     "tags": [
-      "comfort-food",
-      "encroute",
-      "hearty",
-      "irish-cuisine",
+      "irish",
       "lamb",
       "pie",
       "smoky"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 75,
+    "cuisine": "irish",
+    "totalTimeMin": 60,
     "shard": "n"
   },
   {
