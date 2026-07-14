@@ -1,0 +1,68 @@
+{
+  "slug": "nutty-golden-italian-onion-pasta",
+  "title": "Creamy Italian Pasta Bake",
+  "description": "A classic Italian-inspired pasta dish with a creamy golden sauce, topped with nutty breadcrumbs. Perfect for a cozy dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Italian Golden Sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Nutty Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, sauté the onion over medium heat until softened.",
+    "Stir in the Italian golden sauce and cook for an additional 2-3 minutes.",
+    "In a large bowl, combine cooked pasta, sauce mixture, and nutritional yeast. Mix well.",
+    "Transfer the pasta mixture to a baking dish and top with nutty breadcrumbs.",
+    "Bake for 15-20 minutes, or until the breadcrumbs are golden brown and the sauce is bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "baked",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-golden-italian-onion-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:05:55.274Z"
+}
