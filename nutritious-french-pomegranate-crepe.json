@@ -1,0 +1,86 @@
+{
+  "slug": "nutritious-french-pomegranate-crepe",
+  "title": "French Pomegranate Crepes",
+  "description": "Delicious and nutritious crepes filled with a sweet pomegranate filling, perfect for a French-inspired dessert.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "crepe flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pomegranate juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup (melted)"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the crepe flour and almond milk.",
+    "Add the water, pomegranate juice, and honey to the bowl and whisk until smooth.",
+    "Add the vanilla extract and melted butter to the bowl and whisk until well combined.",
+    "Heat a small non-stick pan over medium heat.",
+    "Pour a small amount of the batter into the pan and tilt the pan to evenly coat the bottom.",
+    "Cook the crepe for 1-2 minutes, until the edges start to curl and the surface is dry.",
+    "Loosen the crepe with a spatula and flip it over.",
+    "Cook the other side of the crepe for another minute, until it is lightly browned.",
+    "Repeat with the remaining batter to make 8-10 crepes.",
+    "To make the filling, mix together the pomegranate seeds and powdered sugar in a small bowl.",
+    "Spoon the filling onto one half of each crepe, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the crepe over the filling to form a triangle or a circle.",
+    "Serve the crepes warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crepes",
+    "french",
+    "pomegranate",
+    "dessert",
+    "nutritious"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-french-pomegranate-crepe",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T03:49:24.001Z"
+}
