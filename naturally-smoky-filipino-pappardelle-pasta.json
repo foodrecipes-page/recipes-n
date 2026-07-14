@@ -1,0 +1,96 @@
+{
+  "slug": "naturally-smoky-filipino-pappardelle-pasta",
+  "title": "Smoky Filipino Pappardelle",
+  "description": "A fusion of Filipino and Italian flavors, this recipe combines the smokiness of grilled meats with the creaminess of a Filipino-inspired sauce.",
+  "cuisine": "Filipino-Italian",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle",
+      "amount": "12 oz"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 lb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "naturally smoked bacon",
+      "amount": "6 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "sambal oelek",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Grill pork shoulder for 5-7 minutes per side, or until cooked through.",
+    "3. Crumble bacon and cook in a pan over medium heat until crispy.",
+    "4. Add sliced onion to the pan and cook until softened.",
+    "5. Add minced garlic and cook for 1 minute.",
+    "6. Stir in fish sauce, coconut milk, and sambal oelek (if using).",
+    "7. Bring sauce to a simmer and cook for 2-3 minutes, or until slightly thickened.",
+    "8. Cook pappardelle according to package instructions.",
+    "9. Slice grilled pork shoulder into thin strips.",
+    "10. Serve pappardelle with sliced pork, bacon, and sauce.",
+    "11. Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "filipino",
+    "pappardelle",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-smoky-filipino-pappardelle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:24:30.383Z"
+}
