@@ -440,15 +440,13 @@
   },
   {
     "slug": "naturally-fermented-springy-indian-curry",
-    "title": "Naturally Fermented Springy Indian Curry",
+    "title": "Indian Curry Chicken",
     "tags": [
-      "fermented",
-      "gluten-free",
-      "indian",
-      "sattvic",
-      "weeknight"
+      "curry",
+      "chicken",
+      "indian"
     ],
-    "cuisine": "Indian",
+    "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "n"
   },
@@ -3070,15 +3068,12 @@
   },
   {
     "slug": "noble-smoky-turkish-stilton-kebabs",
-    "title": "Noble Smoky Turkish Stilton Kebabs",
+    "title": "Smoky Lamb Kebabs with Noble Blue Cheese",
     "tags": [
-      "cheesy",
-      "fluffy",
-      "indulgent",
-      "jain-friendly",
-      "kofte",
-      "smoky",
-      "wok-cooking"
+      "kebabs",
+      "lamb",
+      "blue cheese",
+      "grill"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 30,
@@ -8776,18 +8771,14 @@
   },
   {
     "slug": "nourishing-uruguayan-chicken-ceviche",
-    "title": "Nourishing Uruguayan Chicken Ceviche",
+    "title": "Uruguayan-Style Ceviche",
     "tags": [
-      "antipasto",
-      "buttery",
-      "chicken",
-      "high-protein",
-      "solo-dinner",
-      "spherify",
-      "uruguayan"
+      "uruguayan",
+      "ceviche",
+      "chicken"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 28,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
