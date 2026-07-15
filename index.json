@@ -5389,17 +5389,15 @@
   },
   {
     "slug": "nourishing-earthy-irish-lamb-stew",
-    "title": "Nourishing Earthy Irish Lamb Stew",
+    "title": "Hearty Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "irish-cuisine",
-      "lamb-based",
-      "one-pot",
-      "winter-nights"
+      "irish",
+      "lamb",
+      "stew",
+      "hearty"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 130,
+    "totalTimeMin": 110,
     "shard": "n"
   },
   {
