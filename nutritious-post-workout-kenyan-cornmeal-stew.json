@@ -1,0 +1,78 @@
+{
+  "slug": "nutritious-post-workout-kenyan-cornmeal-stew",
+  "title": "Kenyan Cornmeal Stew",
+  "description": "A traditional Kenyan recipe made with cornmeal and nutritious ingredients perfect for post-workout or any meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "post-workout",
+    "nutritious"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrots, and potatoes; cook until the vegetables are tender.",
+    "Add stew and water to the pot, bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Stir in cornmeal and cook for 5 minutes until thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "cornmeal",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-post-workout-kenyan-cornmeal-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:50:12.799Z"
+}
