@@ -1,0 +1,80 @@
+{
+  "slug": "nutritious-peruvian-cox-apple-causa-limena",
+  "title": "Peruvian Causa with Cox and Apple",
+  "description": "A Peruvian-inspired dish of cold potatoes topped with grilled cox and apple, all wrapped in a nutritious package.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "Peruvian potatoes"
+    },
+    {
+      "name": "cox",
+      "amount": "2 large",
+      "notes": "Grill until slightly charred"
+    },
+    {
+      "name": "apple",
+      "amount": "2 medium",
+      "notes": "Thinly slice"
+    },
+    {
+      "name": "causa",
+      "amount": "1 cup",
+      "notes": "Peruvian corn kernels"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For grilling"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until tender. Let cool.",
+    "Preheat grill to medium-high heat.",
+    "Brush the cox with olive oil and season with salt and black pepper.",
+    "Grill the cox until slightly charred.",
+    "Thinly slice the apple.",
+    "In a bowl, mix together the cooled potatoes, causa, and sliced apple.",
+    "To assemble, place a scoop of the potato mixture onto a plate.",
+    "Top with a slice of grilled cox.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "cold",
+    "potatoes",
+    "grilled-cox",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-peruvian-cox-apple-causa-limena",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:05:11.766Z"
+}
