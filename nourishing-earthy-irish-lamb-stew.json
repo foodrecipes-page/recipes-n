@@ -1,0 +1,92 @@
+{
+  "slug": "nourishing-earthy-irish-lamb-stew",
+  "title": "Hearty Irish Lamb Stew",
+  "description": "A classic Irish stew made with tender lamb, root vegetables, and earthy herbs.",
+  "cuisine": "Irish",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "parsnips",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "irish butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Remove lamb and set aside.",
+    "Add more butter if needed, then add onions, carrots, celery, and parsnips.",
+    "Cook until vegetables are tender, about 10 minutes.",
+    "Add flour and cook for 1 minute.",
+    "Add red wine and beef broth, stirring to combine.",
+    "Return lamb to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours or until lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-earthy-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T06:02:35.320Z"
+}
