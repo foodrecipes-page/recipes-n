@@ -3251,17 +3251,16 @@
   },
   {
     "slug": "nordic-roasted-norwegian-turkey-neck-tagine",
-    "title": "Nordic Roasted Norwegian Turkey Neck Tagine",
+    "title": "Norwegian Turkey Tagine",
     "tags": [
-      "comfort-food",
-      "low-sodium",
-      "meal-prep",
-      "nordic-cuisine",
-      "one-pot",
-      "roasted-meats"
+      "nordic",
+      "roasted",
+      "norwegian",
+      "turkey",
+      "tagine"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 110,
+    "cuisine": "Nordic",
+    "totalTimeMin": 140,
     "shard": "n"
   },
   {
@@ -6659,17 +6658,14 @@
   },
   {
     "slug": "nourishing-mexican-cheese-quesadilla",
-    "title": "Nourishing Mexican Cheese Quesadilla",
+    "title": "Cheesy Quesadilla",
     "tags": [
-      "cheese-pull",
-      "gluten-free",
-      "lazy-sunday",
-      "mexican-cuisine",
-      "one-pan",
-      "vegetarian-option"
+      "mexican",
+      "cheesy",
+      "quesadilla"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 13,
     "shard": "n"
   },
   {
