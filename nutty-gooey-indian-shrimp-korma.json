@@ -1,0 +1,87 @@
+{
+  "slug": "nutty-gooey-indian-shrimp-korma",
+  "title": "Shrimp Korma",
+  "description": "A classic Indian-inspired dish featuring succulent shrimp in a rich, creamy sauce. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tablespoons",
+      "notes": "almond butter"
+    },
+    {
+      "name": "korma",
+      "amount": "2 tablespoons",
+      "notes": "korma paste"
+    },
+    {
+      "name": "gooy",
+      "amount": "1 cup",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground spices"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground spices"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large skillet over medium heat.",
+    "Add cumin and garam masala; cook for 1-2 minutes, until fragrant.",
+    "Add korma paste; cook for 1-2 minutes, until fragrant.",
+    "Add shrimp; cook for 2-3 minutes, until pink and cooked through.",
+    "Stir in coconut milk; bring to a simmer.",
+    "Reduce heat to low; simmer for 5-7 minutes, until sauce has thickened.",
+    "Season with salt and cayenne pepper to taste.",
+    "Serve over basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "seafood",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-gooey-indian-shrimp-korma",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T21:58:22.317Z"
+}
