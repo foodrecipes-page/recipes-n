@@ -14067,17 +14067,15 @@
   },
   {
     "slug": "nutty-gooey-ethiopian-beef-stew",
-    "title": "Nutty Gooey Ethiopian Beef Stew",
+    "title": "Spicy Ethiopian Beef Stew",
     "tags": [
-      "ethiopian",
-      "beef",
+      "beef-based",
       "stew",
-      "low-carb",
-      "nutty",
-      "gooey"
+      "spicy",
+      "african"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 110,
     "shard": "n"
   },
   {
@@ -17268,10 +17266,15 @@
   },
   {
     "slug": "nutty-velvety-syrian-cheese-salad",
-    "title": "Nutty Velvety Syrian Cheese Salad",
-    "tags": [],
-    "cuisine": "Syrian",
-    "totalTimeMin": null,
+    "title": "Syrian Salad with Nutty Vinaigrette",
+    "tags": [
+      "salad",
+      "gluten-free",
+      "vegan",
+      "syrian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
