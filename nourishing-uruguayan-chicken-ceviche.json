@@ -1,0 +1,77 @@
+{
+  "slug": "nourishing-uruguayan-chicken-ceviche",
+  "title": "Uruguayan-Style Ceviche",
+  "description": "A refreshing Uruguayan-inspired ceviche dish made with sustainably-sourced chicken breast and fresh ingredients.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "sustainably-sourced"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "nourishing oil",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "uruguayan aji amarillo pepper",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chicken breast, lime juice, red onion, cilantro, salt, and black pepper. Mix well to coat the chicken evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, taste and adjust the seasoning as needed.",
+    "If desired, garnish with a drizzle of nourishing oil and a sprinkle of uruguayan aji amarillo pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "ceviche",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-uruguayan-chicken-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T18:59:20.208Z"
+}
