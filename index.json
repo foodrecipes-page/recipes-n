@@ -1390,16 +1390,14 @@
   },
   {
     "slug": "nectarous-venezuelan-pork-stew",
-    "title": "Nectarous Venezuelan Pork Stew",
+    "title": "Carnitas de Cerdo",
     "tags": [
-      "monsoon",
-      "one-pot",
-      "ovo-vegetarian",
-      "pork-stew",
-      "winey"
+      "pork",
+      "venezuelan",
+      "carnitas"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 180,
     "shard": "n"
   },
   {
@@ -13300,15 +13298,15 @@
   },
   {
     "slug": "nutty-dense-raw-friendly-canadian-onion-stir-fry",
-    "title": "Nutty Dense Raw-friendly Canadian Onion Stir-fry",
+    "title": "Canadian Stir Fry",
     "tags": [
-      "onion",
-      "almond-butter",
-      "raw-friendly",
-      "canadian"
+      "canadian",
+      "stir-fry",
+      "easy",
+      "vegetarian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 5,
+    "totalTimeMin": 20,
     "shard": "n"
   },
   {
@@ -16458,17 +16456,15 @@
   },
   {
     "slug": "nutty-springy-dutch-collards-salad",
-    "title": "Nutty Springy Dutch Collards Salad",
+    "title": "Collard Greens with Dutch-Style Nutty Croutons",
     "tags": [
-      "collard-salad",
-      "hearty-salad",
-      "low-fat",
-      "nutty",
-      "quick-start",
-      "springy"
+      "collard greens",
+      "croutons",
+      "vegetarian",
+      "side dish"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 11,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
