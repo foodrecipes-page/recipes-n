@@ -1,0 +1,94 @@
+{
+  "slug": "naturally-fermented-springy-indian-curry",
+  "title": "Indian Curry Chicken",
+  "description": "A flavorful and aromatic Indian-inspired curry made with chicken breast, onions, and a blend of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add onion and ginger and cook until the onion is translucent.",
+    "Add chicken and cook until browned.",
+    "Add curry powder, cumin, and coriander, and cook for 1 minute.",
+    "Add tomato sauce and coconut milk, and stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce heat to low and let cook for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "chicken",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-fermented-springy-indian-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T18:33:11.481Z"
+}
