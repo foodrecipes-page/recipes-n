@@ -1,0 +1,83 @@
+{
+  "slug": "nutty-tender-british-hazelnuts-stir-fry",
+  "title": "Nutty Hazelnut Stir Fry",
+  "description": "A quick and easy stir fry made with hazelnuts, a great source of protein and healthy fats. It's a perfect dish for a busy day.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 4-5 minutes.",
+    "Add the chopped hazelnuts and cook for another minute.",
+    "Season with soy sauce, salt, and pepper to taste.",
+    "Serve hot over rice or noodles.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hazelnut",
+    "stirfry",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-tender-british-hazelnuts-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:29:30.847Z"
+}
