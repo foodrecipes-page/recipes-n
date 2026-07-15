@@ -1,0 +1,77 @@
+{
+  "slug": "nourishing-dense-uruguayan-morcilla-stew",
+  "title": "Uruguayan Morcilla Stew",
+  "description": "A hearty stew originating from Uruguay, featuring morcilla and nourishing ingredients.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add onion and garlic, sauté until softened (5 minutes).",
+    "Add morcilla, breaking it up with a spoon, and cook until browned (5 minutes).",
+    "Add red wine, beef broth, potatoes, carrots, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "morcilla",
+    "stew",
+    "uruguayan",
+    "heartycalories"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-dense-uruguayan-morcilla-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:02:37.331Z"
+}
