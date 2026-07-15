@@ -1,0 +1,94 @@
+{
+  "slug": "nutritious-portuguese-chicken-skillet",
+  "title": "Portuguese Chicken Skillet",
+  "description": "A flavorful and easy-to-make Portuguese-inspired chicken skillet recipe, perfect for a weeknight dinner.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chicken seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the chopped red bell pepper and cook for an additional 2-3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken to the skillet and cook until browned on all sides, about 5-6 minutes.",
+    "Add the chicken broth, tomato paste, chicken seasoning, salt, and black pepper to the skillet.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce the heat to medium-low and cook, covered, until the chicken is cooked through, about 10-12 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "skillet",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-portuguese-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:54:52.178Z"
+}
