@@ -1,0 +1,91 @@
+{
+  "slug": "nutritious-no-cook-mediterranean-rest-meat-bowl",
+  "title": "Mediterranean Meat Bowl",
+  "description": "A flavorful and nutritious bowl filled with Mediterranean-style meat, vegetables, and quinoa. Perfect for a quick and easy dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "healthy",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine the lamb, quinoa, cherry tomatoes, cucumber, red onion, olive oil, lemon juice, and salt. Mix well.",
+    "Transfer the mixture to a baking dish and bake for 25-30 minutes, or until the lamb is cooked through.",
+    "While the lamb is cooking, prepare the yogurt sauce by mixing together the Greek yogurt and lemon juice.",
+    "To assemble the bowls, place a scoop of the cooked lamb mixture onto a plate, followed by a dollop of the yogurt sauce and a sprinkle of fresh parsley.",
+    "Garnish with additional parsley, if desired.",
+    "Serve hot and enjoy!",
+    "Note: You can also serve this dish as a salad, without cooking the lamb.",
+    "Make sure to cook the lamb to an internal temperature of 160°F (71°C) to ensure food safety."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "healthy",
+    "gluten-free",
+    "lamb",
+    "quinoa"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-no-cook-mediterranean-rest-meat-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:22:08.234Z"
+}
