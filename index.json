@@ -6523,13 +6523,14 @@
     "slug": "nourishing-malaysian-chicken-curry",
     "title": "Nourishing Malaysian Chicken Curry",
     "tags": [
+      "chicken",
       "curry",
-      "kid-friendly",
-      "one-pot",
-      "weeknight"
+      "malaysian",
+      "nourishing",
+      "dinner"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 40,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -14099,17 +14100,14 @@
   },
   {
     "slug": "nutty-gooey-indian-shrimp-korma",
-    "title": "Nutty Gooey Indian Shrimp Korma",
+    "title": "Shrimp Korma",
     "tags": [
-      "creamy",
-      "indian-cuisine",
-      "nutty",
-      "pasta",
+      "indian",
       "seafood",
-      "special-occasion"
+      "dinner"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -15155,18 +15153,16 @@
   },
   {
     "slug": "nutty-monsoon-algerian-chestnut-bake",
-    "title": "nutty monsoon algerian chestnut bake",
+    "title": "Chestnut and Monsoon Spice Cake",
     "tags": [
-      "algerian",
-      "cheese-pull",
       "chestnut",
-      "flexitarian",
-      "monsoon",
-      "one-pan",
-      "weeknight"
+      "monsoon spice",
+      "cake",
+      "dessert",
+      "gluten-free"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 40,
+    "cuisine": "dessert",
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
