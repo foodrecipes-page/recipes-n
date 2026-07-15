@@ -1,0 +1,73 @@
+{
+  "slug": "nice-crunchy-german-sausage-grill",
+  "title": "German Grill Sausage",
+  "description": "A classic German dish featuring a delicious sausage grilled to perfection.",
+  "cuisine": "german",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "german sausage",
+      "amount": "1 pound",
+      "notes": "preferably knockwurst or bratwurst"
+    },
+    {
+      "name": "grill",
+      "amount": "",
+      "notes": "preferably charcoal or gas grill"
+    },
+    {
+      "name": "nice",
+      "amount": "2",
+      "notes": "nice big onions"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "crunchy fresh parsley"
+    },
+    {
+      "name": "german bread",
+      "amount": "4 slices",
+      "notes": "preferably dark rye"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "salted"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Slice the onions and place them on the grill.",
+    "Cook the onions until they're nicely charred.",
+    "Slice the German sausage into 1-inch pieces.",
+    "Add the sausage to the grill and cook until nicely browned.",
+    "Serve the sausage on top of the onions, with a slice of German bread and a sprinkle of parsley.",
+    "Butter the bread before serving for extra flavor.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "grill",
+    "sausage",
+    "meat-lovers"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-crunchy-german-sausage-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:29:22.382Z"
+}
