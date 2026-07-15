@@ -1,0 +1,71 @@
+{
+  "slug": "nutty-monsoon-algerian-chestnut-bake",
+  "title": "Chestnut and Monsoon Spice Cake",
+  "description": "A moist and fragrant cake made with ground chestnuts and a blend of warm spices. Perfect for a cozy afternoon treat.",
+  "cuisine": "dessert",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nutty ground almonds",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "monsoon spice mix",
+      "amount": "2 teaspoons",
+      "notes": "see note"
+    },
+    {
+      "name": "algerian orange blossom water",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chestnut flour",
+      "amount": "1 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "bake baking soda",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F (165°C). Grease a 9-inch (23cm) round cake pan.",
+    "In a medium bowl, whisk together the ground almonds, monsoon spice mix, orange blossom water (if using), and baking soda.",
+    "In a large bowl, whisk together the chestnut flour and sugar.",
+    "Add the dry ingredients to the ground almond mixture and stir until just combined.",
+    "Pour in the melted butter and mix until a smooth batter forms.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center of the cake comes out clean.",
+    "Remove the cake from the oven and let it cool in the pan for 10 minutes.",
+    "Transfer the cake to a wire rack and let it cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chestnut",
+    "monsoon spice",
+    "cake",
+    "dessert",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-monsoon-algerian-chestnut-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T21:47:39.170Z"
+}
