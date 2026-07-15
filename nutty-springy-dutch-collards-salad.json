@@ -1,0 +1,71 @@
+{
+  "slug": "nutty-springy-dutch-collards-salad",
+  "title": "Collard Greens with Dutch-Style Nutty Croutons",
+  "description": "A hearty vegetarian side dish featuring crispy croutons, crunchy collard greens, and a hint of nutty flavor.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "springy water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dutch bread",
+      "amount": "3 cups",
+      "notes": "dried and cubed"
+    },
+    {
+      "name": "nutty oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "collards",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toss bread with a pinch of salt until evenly coated.",
+    "Drizzle nutty oil over bread and toss to coat.",
+    "Spread bread on a baking sheet and bake for 10-12 minutes, or until crispy.",
+    "In a large skillet, heat a pinch of salt and a pinch of pepper over medium heat.",
+    "Add chopped collards and cook until wilted, about 5-7 minutes.",
+    "Stir in croutons and cook for an additional 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "collard greens",
+    "croutons",
+    "vegetarian",
+    "side dish"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-springy-dutch-collards-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:00:41.896Z"
+}
