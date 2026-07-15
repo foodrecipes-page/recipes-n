@@ -1359,18 +1359,16 @@
   },
   {
     "slug": "nectarous-mexican-oysters-tamales",
-    "title": "Nectarous Mexican Oysters Tamales",
+    "title": "Grilled Tamales with Nectarine Salsa and Oysters",
     "tags": [
-      "dairy-free",
-      "flambe",
-      "glassy-jelly",
-      "holiday",
-      "seafood",
-      "show-off",
-      "tamales"
+      "grilled",
+      "mexican",
+      "nectarines",
+      "oysters",
+      "summer"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -2098,16 +2096,15 @@
   },
   {
     "slug": "nifty-crunchy-thai-chicken-noodles",
-    "title": "Nifty Crunchy Thai Chicken Noodles",
+    "title": "Thai Chicken Noodle Stir Fry",
     "tags": [
-      "crunchy",
-      "kanom-jeen",
-      "pressure-cook",
-      "quick-meal",
-      "shojin-friendly",
-      "thai"
+      "thai",
+      "chicken",
+      "noodles",
+      "stir-fry",
+      "quick"
     ],
-    "cuisine": "thai",
+    "cuisine": "Thai",
     "totalTimeMin": 25,
     "shard": "n"
   },
@@ -5257,17 +5254,14 @@
   },
   {
     "slug": "nourishing-dense-french-beef-bisque",
-    "title": "Nourishing Dense French Beef Bisque",
+    "title": "French Beef Bisque",
     "tags": [
-      "comfort-food",
-      "french-cuisine",
-      "jain-friendly",
-      "one-pot",
-      "quick-fix",
-      "vegetarian-option"
+      "french",
+      "beef",
+      "soup"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
@@ -5347,17 +5341,15 @@
   },
   {
     "slug": "nourishing-dense-uruguayan-morcilla-stew",
-    "title": "Nourishing Dense Uruguayan Morcilla Stew",
+    "title": "Uruguayan Morcilla Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hearty-stew",
-      "low-fodmap",
-      "one-pot",
-      "uruguayan-cuisine"
+      "morcilla",
+      "stew",
+      "uruguayan",
+      "heartycalories"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
