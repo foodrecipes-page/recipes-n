@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-velvety-syrian-cheese-salad",
+  "title": "Syrian Salad with Nutty Vinaigrette",
+  "description": "A refreshing salad made with crunchy syrian bread and a creamy nutty vinaigrette.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian bread",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Nutty vinaigrette",
+      "amount": "1/2 cup",
+      "notes": "see below"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "Salad",
+      "amount": "2 cups mixed greens",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh herbs",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut Syrian bread into 1-inch cubes and toast in the oven for 10 minutes.",
+    "In a blender, combine nutty vinaigrette ingredients and blend until smooth.",
+    "In a large bowl, combine toasted bread, shredded cheese, mixed greens, and chopped fresh herbs.",
+    "Drizzle nutty vinaigrette over the salad and toss to combine.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salad",
+    "gluten-free",
+    "vegan",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-velvety-syrian-cheese-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:20:06.552Z"
+}
