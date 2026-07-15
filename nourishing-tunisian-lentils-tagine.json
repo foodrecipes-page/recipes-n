@@ -1,0 +1,90 @@
+{
+  "slug": "nourishing-tunisian-lentils-tagine",
+  "title": "Tunisian Lentil Tagine",
+  "description": "A hearty and flavorful stew originating from Tunisia, made with lentils, spices, and tender meat.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Tunisian tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Stir in the cumin, cayenne pepper, salt, and black pepper.",
+    "Add the rinsed lentils, Tunisian tagine spice blend, and 4 cups of water.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Stir in 2 tablespoons of chopped fresh parsley and cook for an additional 2 minutes.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "tunisian-cuisine",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-tunisian-lentils-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:35:15.042Z"
+}
