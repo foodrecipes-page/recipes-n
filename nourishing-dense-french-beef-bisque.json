@@ -1,0 +1,93 @@
+{
+  "slug": "nourishing-dense-french-beef-bisque",
+  "title": "French Beef Bisque",
+  "description": "A hearty and comforting French-inspired beef soup made with tender beef, rich vegetables, and a touch of cognac. Perfect for a cold winter's night.",
+  "cuisine": "French",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cognac",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat. Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion, carrot, and celery to the pot and cook until the vegetables are tender.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the beef broth, cognac (if using), tomato paste, and flour to the pot. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Season the soup with salt and pepper to taste.",
+    "If desired, stir in the heavy cream to add a rich and creamy texture.",
+    "Serve the soup hot, garnished with chopped fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "beef",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-dense-french-beef-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:21:40.844Z"
+}
