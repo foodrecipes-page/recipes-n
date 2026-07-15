@@ -1607,17 +1607,15 @@
   },
   {
     "slug": "nice-crunchy-german-sausage-grill",
-    "title": "Nice Crunchy German Sausage Grill",
+    "title": "German Grill Sausage",
     "tags": [
-      "crunchy-texture",
-      "german-food",
-      "grilled-meats",
-      "kid-friendly",
-      "low-fat",
-      "quick-dinner"
+      "german",
+      "grill",
+      "sausage",
+      "meat-lovers"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -3022,17 +3020,15 @@
   },
   {
     "slug": "noble-dark-ukrainian-chocolate-stir-fry",
-    "title": "Noble Dark Ukrainian Chocolate Stir Fry",
+    "title": "Ukrainian Chocolate Cake",
     "tags": [
-      "dark-chocolate",
-      "gluten-free",
-      "romantic-dinner",
-      "special-occasion",
-      "stir-fry",
-      "ukrainian-cuisine"
+      "cake",
+      "chocolate",
+      "dessert",
+      "eastern european"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 60,
     "shard": "n"
   },
   {
@@ -16601,17 +16597,15 @@
   },
   {
     "slug": "nutty-tender-british-hazelnuts-stir-fry",
-    "title": "Nutty, Tender British Hazelnuts Stir-Fry",
+    "title": "Nutty Hazelnut Stir Fry",
     "tags": [
-      "british-cuisine",
-      "low-fat",
+      "hazelnut",
+      "stirfry",
       "vegetarian",
-      "snack",
-      "hazelnuts",
-      "stir-fry"
+      "quick"
     ],
     "cuisine": "British",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
