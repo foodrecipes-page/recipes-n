@@ -1,0 +1,83 @@
+{
+  "slug": "nectarous-mexican-oysters-tamales",
+  "title": "Grilled Tamales with Nectarine Salsa and Oysters",
+  "description": "A fusion dish that combines the flavors of Mexico with the sweetness of nectarines. Grilled tamales are paired with a fresh and spicy salsa made from nectarines, a hint of Mexican chili, and a delicate topping of oysters.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mexican tamales",
+      "amount": "6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "nectarines",
+      "amount": "4",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "diced"
+    },
+    {
+      "name": "jalapeño",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "oysters",
+      "amount": "6",
+      "notes": "fresh"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Place tamales on the grill, turning occasionally, until lightly charred. This should take about 5 minutes per side.",
+    "In a bowl, mix together diced nectarines, red onion, jalapeño, and cilantro.",
+    "Squeeze lime juice over the mixture and season with salt.",
+    "To serve, place a grilled tamale on a plate, top with a spoonful of the nectarine salsa, and finally place an oyster on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "mexican",
+    "nectarines",
+    "oysters",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nectarous-mexican-oysters-tamales",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:21:43.018Z"
+}
