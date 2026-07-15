@@ -1,0 +1,94 @@
+{
+  "slug": "nordic-roasted-norwegian-turkey-neck-tagine",
+  "title": "Norwegian Turkey Tagine",
+  "description": "A flavorful tagine dish featuring Norwegian turkey neck, roasted vegetables, and a blend of Nordic spices.",
+  "cuisine": "Nordic",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian turkey neck",
+      "amount": "1",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium, peeled and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes, cook for an additional 5 minutes.",
+    "Add the Norwegian turkey neck, cumin, paprika, brown sugar, salt, and pepper.",
+    "Stir well to combine.",
+    "Transfer the tagine to the oven and roast at 300°F (150°C) for 2 hours.",
+    "Remove the tagine from the oven and let it rest for 10 minutes.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nordic",
+    "roasted",
+    "norwegian",
+    "turkey",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nordic-roasted-norwegian-turkey-neck-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T13:20:59.679Z"
+}
