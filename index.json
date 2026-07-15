@@ -10829,27 +10829,23 @@
   },
   {
     "slug": "nutritious-portuguese-chicken-skillet",
-    "title": "Nutritious Portuguese Chicken Skillet",
+    "title": "Portuguese Chicken Skillet",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-fat",
-      "meal-prep",
-      "one-pan",
-      "portuguese-cuisine"
+      "chicken",
+      "skillet",
+      "portuguese"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "cuisine": "portuguese",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
     "slug": "nutritious-post-workout-kenyan-cornmeal-stew",
-    "title": "Nutritious Post-Workout Kenyan Cornmeal Stew",
+    "title": "Kenyan Cornmeal Stew",
     "tags": [
-      "high-protein",
-      "one-pot",
-      "paleo-friendly",
-      "post-workout"
+      "kenyan",
+      "cornmeal",
+      "stew"
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 40,
