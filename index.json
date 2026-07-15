@@ -6068,17 +6068,14 @@
   },
   {
     "slug": "nourishing-jamaican-pork-curry",
-    "title": "Nourishing Jamaican Pork Curry",
+    "title": "Jamaican Pork Curry",
     "tags": [
-      "coconut-milk-recipes",
-      "comfort-food",
-      "curry-dishes",
-      "jamaican-cuisine",
-      "pork-recipes",
-      "special-occasion"
+      "pork",
+      "curry",
+      "jamaican"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 110,
     "shard": "n"
   },
   {
@@ -10699,18 +10696,16 @@
   },
   {
     "slug": "nutritious-no-cook-mediterranean-rest-meat-bowl",
-    "title": "Nutritious No-Cook Mediterranean Rest-Meat Bowl",
+    "title": "Mediterranean Meat Bowl",
     "tags": [
-      "dairy-free",
-      "high-protein",
-      "low-carb",
-      "mason-jar",
       "mediterranean",
-      "no-cook",
-      "weeknight"
+      "healthy",
+      "gluten-free",
+      "lamb",
+      "quinoa"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 10,
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
