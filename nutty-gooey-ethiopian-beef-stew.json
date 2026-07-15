@@ -1,0 +1,96 @@
+{
+  "slug": "nutty-gooey-ethiopian-beef-stew",
+  "title": "Spicy Ethiopian Beef Stew",
+  "description": "A hearty and flavorful stew originating from Ethiopia, made with tender beef, aromatic spices, and a touch of nutty sweetness.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pork-free",
+    "beef-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tablespoons",
+      "notes": "chopped nuts for garnish"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    },
+    {
+      "name": "gooey",
+      "amount": "2 tablespoons",
+      "notes": "honey"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the cayenne pepper, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the stew and bring to a boil.",
+    "Return the beef to the pot and reduce the heat to low.",
+    "Simmer the stew for 1 1/2 hours, or until the beef is tender.",
+    "Stir in the honey and cook for an additional 10 minutes.",
+    "Serve the stew hot, garnished with chopped nuts."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-based",
+    "stew",
+    "spicy",
+    "african"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-gooey-ethiopian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:18:55.935Z"
+}
