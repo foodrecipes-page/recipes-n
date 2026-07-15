@@ -1,0 +1,60 @@
+{
+  "slug": "nutty-dense-raw-friendly-canadian-onion-stir-fry",
+  "title": "Canadian Stir Fry",
+  "description": "A quick and easy stir fry recipe with a touch of Canadian flair, featuring friendly vegetables and a nutty twist.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "fry",
+      "amount": "1 can, drained and sliced"
+    },
+    {
+      "name": "friendly",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "canadian",
+      "amount": "1 tsp, maple syrup"
+    }
+  ],
+  "instructions": [
+    "Heat nutty in a pan over medium-high heat.",
+    "Add onion and fry until softened, about 3-4 minutes.",
+    "Add fry and friendly, stir-fry for 2-3 minutes.",
+    "Stir in maple syrup and season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "stir-fry",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-dense-raw-friendly-canadian-onion-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T03:58:03.842Z"
+}
