@@ -1,0 +1,90 @@
+{
+  "slug": "nifty-crunchy-thai-chicken-noodles",
+  "title": "Thai Chicken Noodle Stir Fry",
+  "description": "A quick and easy stir fry made with chicken, noodles, and Thai seasonings.",
+  "cuisine": "Thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "Thai-style rice noodles"
+    },
+    {
+      "name": "Thai peanut sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "nifty crunchy garnish",
+      "amount": "1/4 cup",
+      "notes": "peanuts or chopped nuts"
+    },
+    {
+      "name": "crunchy veg",
+      "amount": "1 cup",
+      "notes": "bell peppers, carrots, and broccoli"
+    },
+    {
+      "name": "thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh leaves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Add the crunchy veg and cook until tender, about 3-4 minutes.",
+    "Add the noodles, Thai peanut sauce, soy sauce, salt, and pepper.",
+    "Stir-fry for 2-3 minutes, until the noodles are well coated.",
+    "Garnish with nifty crunchy garnish and Thai basil.",
+    "Serve immediately and enjoy!",
+    "Cook the chicken to an internal temperature of 165°F (74°C).",
+    "Use a thermometer to ensure the chicken is cooked to a safe temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "chicken",
+    "noodles",
+    "stir-fry",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nifty-crunchy-thai-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:23:38.572Z"
+}
