@@ -1,0 +1,94 @@
+{
+  "slug": "nourishing-jamaican-pork-curry",
+  "title": "Jamaican Pork Curry",
+  "description": "A flavorful and aromatic curry dish made with tender pork and a blend of Jamaican spices.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "nourishing oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "curry leaves",
+      "amount": "2 leaves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the nourishing oil in a large pan over medium heat.",
+    "2. Add the onion and cook until softened, about 5 minutes.",
+    "3. Add the garlic and cook for 1 minute.",
+    "4. Add the curry powder and cook for 1 minute, stirring constantly.",
+    "5. Add the pork and cook until browned on all sides.",
+    "6. Add the allspice, thyme, salt, and black pepper.",
+    "7. Add the coconut milk and bring to a simmer.",
+    "8. Reduce heat to low and cook for 1.5 hours, or until the pork is tender.",
+    "9. Stir in the curry leaves and cook for an additional 5 minutes.",
+    "10. Serve the curry hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "curry",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-jamaican-pork-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:26:36.731Z"
+}
