@@ -1,0 +1,84 @@
+{
+  "slug": "noble-smoky-turkish-stilton-kebabs",
+  "title": "Smoky Lamb Kebabs with Noble Blue Cheese",
+  "description": "A flavorful and spicy kebab recipe with a rich blue cheese sauce, perfect for a summer evening.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Noble Blue Cheese",
+      "amount": "1/4 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together smoky paprika, garlic, salt, and pepper.",
+    "Add the spice mixture to the lamb and mix well.",
+    "Thread the lamb onto skewers.",
+    "Brush the kebabs with olive oil and season with salt and pepper.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally.",
+    "Meanwhile, mix together blue cheese and yogurt in a bowl.",
+    "When the kebabs are cooked, serve with the blue cheese sauce and garnish with cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "lamb",
+    "blue cheese",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/noble-smoky-turkish-stilton-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T21:05:33.901Z"
+}
