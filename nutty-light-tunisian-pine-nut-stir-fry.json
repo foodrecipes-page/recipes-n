@@ -1,0 +1,76 @@
+{
+  "slug": "nutty-light-tunisian-pine-nut-stir-fry",
+  "title": "Nutty Pine Stir Fry",
+  "description": "A quick and easy stir fry recipe combining the flavors of nutty and pine with a hint of tunisian spices. Perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pine nuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Bok choy",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add the pine nuts and cook until fragrant, about 1-2 minutes.",
+    "Add the green onions and bok choy. Cook until the vegetables are tender, about 3-4 minutes.",
+    "In a small bowl, whisk together the soy sauce and Tunisian spice blend.",
+    "Pour the soy sauce mixture over the vegetables and stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-light-tunisian-pine-nut-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:31:58.165Z"
+}
