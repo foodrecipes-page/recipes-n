@@ -1,0 +1,84 @@
+{
+  "slug": "nectarous-venezuelan-pork-stew",
+  "title": "Carnitas de Cerdo",
+  "description": "A traditional Venezuelan dish of slow-cooked pork, often served with rice, beans, and plantains. This recipe is a twist on the classic, adding a sweet and tangy twist.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 lbs",
+      "notes": "Cut into large chunks"
+    },
+    {
+      "name": "nectarous honey",
+      "amount": "2 tbsp",
+      "notes": "For glaze"
+    },
+    {
+      "name": "stew spices",
+      "amount": "2 tsp",
+      "notes": "Dried oregano, cumin, and garlic powder"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "For cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown pork chunks on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add onion and garlic to pot, cook until softened, about 5 minutes.",
+    "Add stew spices, brown sugar, and nectarous honey to pot. Cook for 1 minute.",
+    "Add browned pork back to pot, pour in lime juice and enough water to cover pork.",
+    "Bring to a boil, then cover and transfer to oven.",
+    "Braise pork for 2 1/2 hours, or until tender.",
+    "Shred pork with two forks and return to pot.",
+    "Simmer for an additional 10 minutes to allow flavors to meld.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "venezuelan",
+    "carnitas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nectarous-venezuelan-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T03:39:32.646Z"
+}
