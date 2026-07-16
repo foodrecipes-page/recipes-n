@@ -18162,5 +18162,33 @@
     "cuisine": null,
     "totalTimeMin": 30,
     "shard": "n"
+  },
+  {
+    "slug": "nourishing-garlicky-ethiopian-chicken-doro-wot--vegan",
+    "title": "Ethiopian-Style Vegan Stew",
+    "tags": [
+      "vegan",
+      "ethiopian",
+      "stew",
+      "lentils",
+      "sweet potatoes"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-golden-mediterranean-uni-skillet--chinese",
+    "title": "Golden Wok-Fried Noodles",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "mushrooms",
+      "stir-fry",
+      "noodles"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "n"
   }
 ]
