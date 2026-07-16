@@ -18101,5 +18101,18 @@
     "cuisine": "Greek",
     "totalTimeMin": 10,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-malaysian-cabbage-satay--german",
+    "title": "Currywurst Satay with Braised Cabbage",
+    "tags": [
+      "german",
+      "malaysian",
+      "currywurst",
+      "satay"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]
