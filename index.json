@@ -586,16 +586,15 @@
   },
   {
     "slug": "naturally-peppery-egyptian-snapper-fish-tagine",
-    "title": "Naturally Peppery Egyptian Snapper Fish Tagine",
+    "title": "Baked Snapper with Egyptian Spices",
     "tags": [
-      "diabetic-friendly",
-      "fish-based",
-      "healthy-dinner",
-      "low-carb",
-      "middle-eastern"
+      "north-african",
+      "fish",
+      "easy",
+      "dinner"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 18,
     "shard": "n"
   },
   {
@@ -18212,6 +18211,32 @@
       "japanese"
     ],
     "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-irish-turkey-neck-stew--vegan",
+    "title": "Vegan Stew",
+    "tags": [
+      "vegan",
+      "vegetarian",
+      "comfort-food",
+      "stew"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nuttty-syrian-seitan-wrap--italian",
+    "title": "Seitan Italian Wrap",
+    "tags": [
+      "italian",
+      "seitan",
+      "wrap",
+      "vegan"
+    ],
+    "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "n"
   }
