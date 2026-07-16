@@ -1,0 +1,75 @@
+{
+  "slug": "nutritious-uruguayan-comte-cheese-empanadas--french",
+  "title": "French Empanadas with Comte Cheese",
+  "description": "A French twist on the traditional Uruguayan empanadas. These empanadas are filled with Comte cheese and baked to perfection.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "250g",
+      "notes": "High-quality Comte cheese is essential for this recipe"
+    },
+    {
+      "name": "Empanada dough (homemade or store-bought)",
+      "amount": "1 package",
+      "notes": "You can use either homemade or store-bought empanada dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use flaky sea salt for added flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Use fresh black pepper for added flavor"
+    },
+    {
+      "name": "Egg wash",
+      "amount": "1 egg, beaten",
+      "notes": "For brushing the empanadas with egg wash before baking"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "1 tablespoon",
+      "notes": "For brushing the empanadas with melted butter before baking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the empanada dough to a thickness of about 1/8 inch (3 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of Comte cheese in the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg for a golden glaze.",
+    "Fold the dough in half to form a half-moon shape, and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with melted butter.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake the empanadas for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "cheese",
+    "empanada",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-uruguayan-comte-cheese-empanadas--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:48:01.103Z"
+}
