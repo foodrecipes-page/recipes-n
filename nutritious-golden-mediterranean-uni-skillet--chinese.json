@@ -1,0 +1,69 @@
+{
+  "slug": "nutritious-golden-mediterranean-uni-skillet--chinese",
+  "title": "Golden Wok-Fried Noodles",
+  "description": "A Chinese-inspired stir-fry dish with golden noodles, vegetables, and a hint of Mediterranean spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Golden Noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Uni (Maitake) Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Meditteranean Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Skillet-Sauteed Spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy Sauce (low-sodium)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown (3-4 minutes).",
+    "Add the chopped spinach and cook until wilted (1-2 minutes).",
+    "Add the soy sauce, sesame seeds, and stir to combine.",
+    "Add the golden noodles and stir-fry for 2-3 minutes until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with additional sesame seeds and spinach if desired."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 10,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "mushrooms",
+    "stir-fry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-golden-mediterranean-uni-skillet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:06:10.442Z"
+}
