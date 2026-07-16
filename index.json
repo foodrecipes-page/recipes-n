@@ -4415,17 +4415,14 @@
   },
   {
     "slug": "nourishing-canadian-beef-stew",
-    "title": "Nourishing Canadian Beef Stew",
+    "title": "Beef Stew with a Canadian Twist",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "hearty-stew",
-      "one-pot",
-      "red-wine",
-      "winter-night"
+      "beef",
+      "stew",
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "n"
   },
   {
@@ -18113,6 +18110,33 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-browned-korean-chicken-bowl--vegan",
+    "title": "Korean-Style Bowl with Nutty Browned Chickpeas",
+    "tags": [
+      "korean",
+      "vegan",
+      "bowls",
+      "chickpeas",
+      "easy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
+    "slug": "nostalgic-umami-dense-grapefruit-stir-fry--french",
+    "title": "French Grapefruit Crème Brûlée with Toasted Almonds",
+    "tags": [
+      "crème brûlée",
+      "grapefruit",
+      "french dessert",
+      "caramelized sugar"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
     "shard": "n"
   }
 ]
