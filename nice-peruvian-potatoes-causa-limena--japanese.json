@@ -1,0 +1,79 @@
+{
+  "slug": "nice-peruvian-potatoes-causa-limena--japanese",
+  "title": "Lima Potato Gyoza",
+  "description": "A Japanese twist on traditional gyoza, with a crispy crust and a flavorful filling of Lima potatoes and Peruvian spices.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nice potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Peruvian",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "causa",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "limena",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Wonton wrappers",
+      "amount": "20-25"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, grate the Nice potatoes and squeeze out excess moisture.",
+    "2. Add the Peruvian, causa, and limena to the bowl and mix well.",
+    "3. Lay a wonton wrapper on a flat surface and place a tablespoon of the potato mixture in the center.",
+    "4. Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "5. Fold the wrapper into a triangle and press the edges together to seal.",
+    "6. Brush the tops of the gyoza with vegetable oil and cook in a pan over medium heat for 2-3 minutes on each side.",
+    "7. Serve hot with a dipping sauce of soy sauce and sesame oil.",
+    "8. Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "snack",
+    "potatoes",
+    "gyoza"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-peruvian-potatoes-causa-limena--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:14:57.880Z"
+}
