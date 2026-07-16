@@ -1,0 +1,69 @@
+{
+  "slug": "nutty-crispy-malaysian-cabbage-satay--german",
+  "title": "Currywurst Satay with Braised Cabbage",
+  "description": "A twist on traditional German Currywurst, this recipe combines the flavors of Malaysia with the heartiness of Germany. A tender and flavorful currywurst served with a side of slow-cooked cabbage.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head, chopped",
+      "notes": "any variety"
+    },
+    {
+      "name": "malaysian",
+      "amount": "2 tbsp curry paste",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "satay",
+      "amount": "1/4 cup peanut sauce",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup chopped peanuts",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup crispy shallots",
+      "notes": "optional topping"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a small bowl, whisk together curry paste and 2 tbsp water to make a paste.",
+    "Brush the curry paste onto the satay, making sure to coat evenly.",
+    "Grill the satay for 3-4 minutes per side, or until slightly charred.",
+    "While the satay is cooking, heat 1 tbsp oil in a large pan over medium heat.",
+    "Add the chopped cabbage to the pan and cook for 10-12 minutes, stirring occasionally, or until tender and caramelized.",
+    "Season the cabbage with salt and pepper to taste.",
+    "Serve the currywurst satay with a side of braised cabbage and garnish with chopped peanuts and crispy shallots, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "malaysian",
+    "currywurst",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-malaysian-cabbage-satay--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:38:34.490Z"
+}
