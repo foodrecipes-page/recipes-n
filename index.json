@@ -1124,17 +1124,16 @@
   },
   {
     "slug": "naturally-tangy-portuguese-rosemary-lamb-stew",
-    "title": "Naturally Tangy Portuguese Rosemary Lamb Stew",
+    "title": "Traditional Portuguese Lamb Stew",
     "tags": [
-      "hearty-stew",
-      "lamb-recipes",
-      "one-pot",
-      "portuguese-cuisine",
-      "rosemary-flavor",
-      "tangy-dishes"
+      "portuguese",
+      "lamb",
+      "stew",
+      "hearty",
+      "flavorful"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 150,
+    "cuisine": "portuguese",
+    "totalTimeMin": 170,
     "shard": "n"
   },
   {
@@ -18202,6 +18201,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 210,
+    "shard": "n"
+  },
+  {
+    "slug": "nuttty-syrian-seitan-wrap--japanese",
+    "title": "Seitan Teriyaki Wrap",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "n"
   }
 ]
