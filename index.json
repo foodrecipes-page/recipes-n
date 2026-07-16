@@ -18239,5 +18239,17 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "n"
+  },
+  {
+    "slug": "nourishing-chewy-french-perilla-seeds-confit--vegan",
+    "title": "Vegan Perilla Confit",
+    "tags": [
+      "vegan",
+      "snack",
+      "perilla"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]
