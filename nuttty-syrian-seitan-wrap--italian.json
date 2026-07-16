@@ -1,0 +1,77 @@
+{
+  "slug": "nuttty-syrian-seitan-wrap--italian",
+  "title": "Seitan Italian Wrap",
+  "description": "A satisfying Italian-inspired wrap filled with flavorful seitan, topped with a tangy nutty sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 package"
+    },
+    {
+      "name": "nutty sauce (see notes)",
+      "amount": "1 cup",
+      "notes": "mix 1/2 cup nutty tahini with 1/2 cup vegan marinara sauce"
+    },
+    {
+      "name": "italian seasonings",
+      "amount": "1 tsp",
+      "notes": "dried oregano, basil, thyme"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large flour tortilla"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for brushing wrap"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or grill over medium heat.",
+    "2. Slice the seitan into thin strips.",
+    "3. Brush the wrap with olive oil and warm it in the skillet.",
+    "4. Add garlic and Italian seasonings to the skillet and sauté for 1 minute.",
+    "5. Add the seitan and cook until browned, about 3-4 minutes.",
+    "6. Stir in nutty sauce and cook for an additional 1-2 minutes.",
+    "7. Warm the wrap in the skillet for a few seconds.",
+    "8. Assemble the wrap by placing the seitan mixture onto the wrap.",
+    "9. Top with parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "seitan",
+    "wrap",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nuttty-syrian-seitan-wrap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:31:14.797Z"
+}
