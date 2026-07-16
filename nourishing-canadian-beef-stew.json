@@ -1,0 +1,89 @@
+{
+  "slug": "nourishing-canadian-beef-stew",
+  "title": "Beef Stew with a Canadian Twist",
+  "description": "A hearty beef stew infused with the warm spices of the Canadian wilderness.",
+  "cuisine": "Canadian",
+  "diet": [
+    "Beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Brown the beef in a large Dutch oven over medium-high heat.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato to the pot and cook for an additional 5 minutes.",
+    "Add the beef broth, red wine, tomato paste, thyme, rosemary, salt, and pepper to the pot.",
+    "Return the browned beef to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-canadian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:00:19.260Z"
+}
