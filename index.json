@@ -12462,12 +12462,12 @@
   },
   {
     "slug": "nutty-crispy-malaysian-cabbage-satay",
-    "title": "Malaysian Satay Cabbage Stir Fry",
+    "title": "Crispy Satay Cabbage Wraps",
     "tags": [
-      "malaysian-food",
-      "stir-fry",
-      "vegetarian-options",
-      "quick-recipes"
+      "malaysian",
+      "vegetarian",
+      "snack",
+      "cabbage"
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 20,
@@ -18062,6 +18062,44 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
+    "slug": "nocturnal-greek-tomatoes-traditional-greek-village-salad--japanese",
+    "title": "Tokyo Village Salad",
+    "tags": [
+      "japanese",
+      "salad",
+      "tomatoes",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 10,
+    "shard": "n"
+  },
+  {
+    "slug": "nocturnal-greek-tomatoes-traditional-greek-village-salad--indian",
+    "title": "Greek-Indian Village Salad",
+    "tags": [
+      "salad",
+      "indian",
+      "greek",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "n"
+  },
+  {
+    "slug": "nocturnal-greek-tomatoes-traditional-greek-village-salad--keto",
+    "title": "Traditional Greek Village Salad",
+    "tags": [
+      "keto",
+      "greek",
+      "salad"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 10,
     "shard": "n"
   }
 ]
