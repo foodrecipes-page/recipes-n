@@ -18190,5 +18190,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 18,
     "shard": "n"
+  },
+  {
+    "slug": "nourishing-mexican-beef-barbacoa--french",
+    "title": "French-Style Barbacoa Beef",
+    "tags": [
+      "beef",
+      "barbacoa",
+      "french",
+      "slow-cooker"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 210,
+    "shard": "n"
   }
 ]
