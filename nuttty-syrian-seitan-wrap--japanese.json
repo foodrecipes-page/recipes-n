@@ -1,0 +1,59 @@
+{
+  "slug": "nuttty-syrian-seitan-wrap--japanese",
+  "title": "Seitan Teriyaki Wrap",
+  "description": "A fusion Japanese dish featuring seitan, teriyaki sauce, and a wrap. A great alternative to traditional teriyaki chicken or beef.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 package"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "syrian",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large wrap"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan over medium heat.",
+    "2. Add nutty to the pan and stir for 1 minute.",
+    "3. Add seitan to the pan and cook until browned, about 3-4 minutes.",
+    "4. Pour in Syrian and stir to coat seitan evenly.",
+    "5. Reduce heat to low and simmer for 5 minutes.",
+    "6. Warm the wrap in the microwave for 10-15 seconds.",
+    "7. Assemble the wrap by placing the seitan mixture in the center.",
+    "8. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nuttty-syrian-seitan-wrap--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:36:23.159Z"
+}
