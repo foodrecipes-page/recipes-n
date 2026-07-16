@@ -1,0 +1,96 @@
+{
+  "slug": "nourishing-mexican-beef-barbacoa--french",
+  "title": "French-Style Barbacoa Beef",
+  "description": "A twist on traditional barbacoa beef, this French-inspired recipe combines tender beef with flavors of thyme and rosemary.",
+  "cuisine": "french",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef brisket",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the beef with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the beef until browned on all sides, about 2-3 minutes per side.",
+    "Remove the beef from the pot and set aside.",
+    "Add the sliced onion to the pot and cook until caramelized, about 20-25 minutes.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the thyme and rosemary sprigs to the pot and cook for 1 minute, until fragrant.",
+    "Add the red wine and beef broth to the pot, scraping up any browned bits from the bottom.",
+    "Return the beef to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and cook for 2-3 hours, until the beef is tender and falls apart easily.",
+    "Remove the pot from the oven and let the beef rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "barbacoa",
+    "french",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-mexican-beef-barbacoa--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:28:10.061Z"
+}
