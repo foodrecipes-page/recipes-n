@@ -1,0 +1,81 @@
+{
+  "slug": "nourishing-chewy-french-perilla-seeds-confit--vegan",
+  "title": "Vegan Perilla Confit",
+  "description": "A flavorful, plant-based take on traditional confit using perilla seeds and a mix of spices.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Perilla seeds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nourishing oil",
+      "amount": "1/2 cup",
+      "notes": "such as olive or avocado oil"
+    },
+    {
+      "name": "Chewy dates",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "French onion powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan bouillon powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 300°F (150°C).",
+    "2. In a bowl, mix together perilla seeds, nourishing oil, chewy dates, French onion powder, and minced garlic.",
+    "3. Spread the mixture evenly onto a baking sheet lined with parchment paper.",
+    "4. Bake for 20-25 minutes, stirring occasionally, until the seeds are fragrant and lightly toasted.",
+    "5. Remove from the oven and let cool slightly.",
+    "6. Stir in salt, parsley, and vegan bouillon powder.",
+    "7. Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "snack",
+    "perilla"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-chewy-french-perilla-seeds-confit--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:23:13.585Z"
+}
