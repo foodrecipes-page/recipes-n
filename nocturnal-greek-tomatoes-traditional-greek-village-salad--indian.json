@@ -1,0 +1,83 @@
+{
+  "slug": "nocturnal-greek-tomatoes-traditional-greek-village-salad--indian",
+  "title": "Greek-Indian Village Salad",
+  "description": "A refreshing twist on the classic Indian salad, incorporating elements of Greek cuisine.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Traditional garam masala",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Crushed cumin seeds",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together greek yogurt, garam masala, and cumin seeds.",
+    "2. Add the sliced cucumbers and red onions to the bowl and toss to coat with the yogurt mixture.",
+    "3. Add the diced tomatoes to the bowl and toss gently to combine.",
+    "4. Season with salt to taste.",
+    "5. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "6. Just before serving, garnish with chopped cilantro.",
+    "7. Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "indian",
+    "greek",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nocturnal-greek-tomatoes-traditional-greek-village-salad--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:35:36.415Z"
+}
