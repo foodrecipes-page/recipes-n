@@ -18251,5 +18251,31 @@
     "cuisine": null,
     "totalTimeMin": 35,
     "shard": "n"
+  },
+  {
+    "slug": "nice-peruvian-potatoes-causa-limena--japanese",
+    "title": "Lima Potato Gyoza",
+    "tags": [
+      "japanese",
+      "snack",
+      "potatoes",
+      "gyoza"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-uruguayan-comte-cheese-empanadas--french",
+    "title": "French Empanadas with Comte Cheese",
+    "tags": [
+      "french",
+      "cheese",
+      "empanada",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]
