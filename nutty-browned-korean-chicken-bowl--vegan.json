@@ -1,0 +1,92 @@
+{
+  "slug": "nutty-browned-korean-chicken-bowl--vegan",
+  "title": "Korean-Style Bowl with Nutty Browned Chickpeas",
+  "description": "A vegan twist on the classic Korean bowl, featuring nutty browned chickpeas and crunchy kimchi.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional for extra spice"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup cooked",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": "cheesy, nutty flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or tamari for gluten-free option"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "or other vinegar of choice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "or other oil for sautéing"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced for garnish"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse chickpeas and pat dry with paper towels.",
+    "Toss chickpeas with 1 tbsp olive oil, korean chili flakes, and a pinch of salt on a baking sheet.",
+    "Bake for 30-40 minutes, stirring occasionally, until chickpeas are browned and nutty.",
+    "Cook brown rice according to package instructions.",
+    "In a small bowl, whisk together soy sauce, apple cider vinegar, and 1 tbsp olive oil.",
+    "Add the nutty browned chickpeas to the soy sauce mixture and toss to coat.",
+    "To assemble the bowls, divide the cooked brown rice between two bowls.",
+    "Top each bowl with the chickpea mixture, kimchi, and sliced cucumber.",
+    "Serve immediately and enjoy!",
+    "Garnish with chopped green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "vegan",
+    "bowls",
+    "chickpeas",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-browned-korean-chicken-bowl--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:18:10.965Z"
+}
