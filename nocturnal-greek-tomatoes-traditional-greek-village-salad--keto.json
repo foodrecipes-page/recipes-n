@@ -1,0 +1,91 @@
+{
+  "slug": "nocturnal-greek-tomatoes-traditional-greek-village-salad--keto",
+  "title": "Traditional Greek Village Salad",
+  "description": "A classic Greek salad with a twist, featuring juicy tomatoes and a tangy dressing.",
+  "cuisine": "Greek",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Greek Olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "Make sure the feta is full-fat for keto compliance"
+    },
+    {
+      "name": "Fresh Cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the tomatoes, onion, cucumber, and parsley into bite-sized pieces.",
+    "2. In a large bowl, combine the tomato mixture, olives, and feta cheese.",
+    "3. In a small bowl, whisk together the olive oil and red wine vinegar.",
+    "4. Season the vinaigrette with salt and pepper to taste.",
+    "5. Pour the vinaigrette over the salad and toss to combine.",
+    "6. Serve immediately and enjoy!",
+    "7. Optional: Add a few sprigs of fresh oregano to the salad for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "greek",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nocturnal-greek-tomatoes-traditional-greek-village-salad--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:37:01.279Z"
+}
