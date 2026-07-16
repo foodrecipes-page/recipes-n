@@ -1,0 +1,59 @@
+{
+  "slug": "nocturnal-greek-tomatoes-traditional-greek-village-salad--japanese",
+  "title": "Tokyo Village Salad",
+  "description": "A Japanese twist on the classic salad, featuring fresh tomatoes and crunchy cucumbers, inspired by the flavors of Tokyo's village markets.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "cucumbers",
+      "amount": "1 large",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "traditional greek salad dressing",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "village salad mix",
+      "amount": "4 cups",
+      "notes": "including lettuce, carrots, and other vegetables"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the village salad mix and sliced cucumbers.",
+    "Cut the tomatoes into wedges and add them to the bowl.",
+    "Drizzle the traditional greek salad dressing over the salad and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "salad",
+    "tomatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nocturnal-greek-tomatoes-traditional-greek-village-salad--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:35:10.392Z"
+}
