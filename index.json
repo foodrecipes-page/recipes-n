@@ -18138,5 +18138,29 @@
     "cuisine": "french",
     "totalTimeMin": 45,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-french-chicken-hash--japanese",
+    "title": "Crispy Chicken Tempura",
+    "tags": [
+      "japanese-cuisine",
+      "chicken-recipe",
+      "tempura-batter"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-fluffy-chinese-rice-bake--vegan",
+    "title": "Nutty Fluffy Vegan Rice Bowl",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "rice-bowl"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "n"
   }
 ]
