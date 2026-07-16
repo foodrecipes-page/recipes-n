@@ -1,59 +1,36 @@
 {
   "slug": "nutty-crispy-malaysian-cabbage-satay",
-  "title": "Malaysian Satay Cabbage Stir Fry",
-  "description": "A flavorful and crunchy stir fry featuring Malaysian satay flavors with cabbage and crunchy elements.",
+  "title": "Crispy Satay Cabbage Wraps",
+  "description": "A crunchy and flavorful Malaysian-inspired snack or light meal, featuring crispy satay and fresh cabbage.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
-  "meal": "lunch",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "Cabbage",
-      "amount": "2 cups, shredded"
+      "amount": "2 heads",
+      "notes": "shredded"
     },
     {
-      "name": "Nutty",
-      "amount": "1/4 cup, chopped peanuts"
+      "name": "Crispy Satay",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
     },
     {
-      "name": "Crispy",
-      "amount": "1/2 cup, chopped fried shallots"
-    },
-    {
-      "name": "Malaysian Satay Sauce",
-      "amount": "2 tbsp"
-    },
-    {
-      "name": "Vegetable oil",
-      "amount": "2 tbsp"
-    },
-    {
-      "name": "Ginger",
-      "amount": "1 tsp, grated"
-    },
-    {
-      "name": "Garlic",
-      "amount": "1 tsp, minced"
-    },
-    {
-      "name": "Soy sauce",
-      "amount": "1 tsp"
-    },
-    {
-      "name": "Sugar",
-      "amount": "1 tsp"
+      "name": "Nutty Sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
     }
   ],
   "instructions": [
-    "Heat oil in a wok or large skillet over medium-high heat.",
-    "Add ginger and garlic and stir-fry for 30 seconds.",
-    "Add cabbage and stir-fry for 3-4 minutes or until slightly tender.",
-    "Add peanuts and fried shallots and stir-fry for another minute.",
-    "In a small bowl, mix together satay sauce, soy sauce, and sugar. Pour the sauce over the cabbage mixture and stir-fry for another minute.",
-    "Taste and adjust seasoning as needed.",
-    "Transfer to a serving platter and serve immediately."
+    "1. Preheat a pan or wok over medium-high heat.",
+    "2. Add the crispy satay to the pan and cook for 2-3 minutes, or until crispy.",
+    "3. Add the shredded cabbage to the pan and cook for 3-4 minutes, or until slightly softened.",
+    "4. Warm the nutty sauce in a separate pan or in the microwave.",
+    "5. Assemble the wraps by placing a portion of the cabbage mixture onto a plate or wrap, followed by a spoonful of nutty sauce.",
+    "6. Serve immediately and enjoy!"
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -61,19 +38,19 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "malaysian-food",
-    "stir-fry",
-    "vegetarian-options",
-    "quick-recipes"
+    "malaysian",
+    "vegetarian",
+    "snack",
+    "cabbage"
   ],
   "nutrition": {
-    "calories": 220,
-    "protein": 10,
+    "calories": 120,
+    "protein": 2,
     "carbs": 20,
-    "fat": 12
+    "fat": 4
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-malaysian-cabbage-satay",
   "providerUsed": "groq",
-  "createdAt": "2026-07-13T11:22:00.664Z"
+  "createdAt": "2026-07-14T18:20:09.063Z"
 }
