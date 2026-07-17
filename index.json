@@ -18366,5 +18366,18 @@
     "cuisine": "Slovakian",
     "totalTimeMin": 40,
     "shard": "n"
+  },
+  {
+    "slug": "naughty-nuka-pickle-slovakian-sausages-bake--keto",
+    "title": "Slovakian Keto Sausage Bake",
+    "tags": [
+      "keto",
+      "low-carb",
+      "sausages",
+      "slovakian"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]
