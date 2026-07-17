@@ -7307,17 +7307,14 @@
   },
   {
     "slug": "nourishing-shattering-korean-casabe-songpyeon",
-    "title": "Nourishing Shattering Korean Casabe Songpyeon",
+    "title": "Korean-Style Songpyeon with Nourishing Filling",
     "tags": [
-      "crowd-pleaser",
-      "easy-to-make",
-      "gluten-free",
-      "korean-snack",
-      "savory",
-      "vegetarian-friendly"
+      "korean",
+      "dessert",
+      "steamed-rice-cakes"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -8127,20 +8124,15 @@
   },
   {
     "slug": "nourishing-solo-dinner-french-herbal-juicy-fruit-canele",
-    "title": "Nourishing Solo-Dinner French Herbal Juicy Fruit Canele",
+    "title": "Canelé French Dessert",
     "tags": [
-      "dessert",
+      "canele",
       "french",
-      "herbal",
-      "high-protein",
-      "juicy",
-      "one-pan",
-      "satvik-friendly",
-      "solo-dinner",
-      "weeknight"
+      "dessert",
+      "sweet"
     ],
     "cuisine": "French",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -12516,17 +12508,14 @@
   },
   {
     "slug": "nutty-crispy-russian-macaroni-stir-fry",
-    "title": "Nutty Crispy Russian Macaroni Stir-fry",
+    "title": "Russian Macaroni Delight",
     "tags": [
-      "nutty",
-      "crispy",
-      "russian",
-      "macaroni",
-      "stir-fry",
+      "comfort-food",
+      "russian-cuisine",
       "vegetarian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -18446,6 +18435,20 @@
     ],
     "cuisine": "European",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-algerian-veal-tagine--keto",
+    "title": "Keto Veal Tagine",
+    "tags": [
+      "keto",
+      "algerian",
+      "slow-cooker",
+      "dinner",
+      "meat"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 135,
     "shard": "n"
   }
 ]
