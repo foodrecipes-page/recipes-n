@@ -18420,5 +18420,32 @@
     "cuisine": "italian",
     "totalTimeMin": 60,
     "shard": "n"
+  },
+  {
+    "slug": "nightly-roasted-moroccan-lamb-tagine--vegetarian",
+    "title": "Moroccan Tagine Stew",
+    "tags": [
+      "vegetarian",
+      "moroccan",
+      "stew",
+      "hearty"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nice-nourishing-dutch-potatoes-pancake--keto",
+    "title": "Keto Dutch Pancake with Potatoes",
+    "tags": [
+      "keto",
+      "low-carb",
+      "dutch-pancake",
+      "potatoes",
+      "breakfast"
+    ],
+    "cuisine": "European",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]
