@@ -1,0 +1,76 @@
+{
+  "slug": "nutty-crunchy-dutch-pork-croquettes",
+  "title": "Crispy Pork Croquettes",
+  "description": "A crispy and savory snack made with pork croquettes, perfect for a quick bite.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork Croquettes",
+      "amount": "1 package",
+      "notes": "Dutch-style croquettes"
+    },
+    {
+      "name": "Dutch Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "For extra crunch"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Used to bind the mixture"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add flavor to the croquettes"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Add flavor to the croquettes"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/4 cup",
+      "notes": "To dip the croquettes in"
+    },
+    {
+      "name": "Breadcrumbs (for coating)",
+      "amount": "1 cup",
+      "notes": "For extra crunch"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 375°F (190°C).",
+    "Dip each croquette in milk, then roll in breadcrumbs.",
+    "Place the coated croquettes on a baking sheet.",
+    "Drizzle with a little oil and season with salt and pepper.",
+    "Bake for 15-20 minutes or until crispy and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "snack",
+    "pork",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crunchy-dutch-pork-croquettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:04:51.995Z"
+}
