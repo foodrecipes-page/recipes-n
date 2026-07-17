@@ -1,0 +1,87 @@
+{
+  "slug": "nutty-crisp-brazilian-almond-crumble--italian",
+  "title": "Crispy Brazilian Pecan Crumble Cake",
+  "description": "An Italian-inspired dessert featuring a crunchy Brazilian pecan crust, almond-based cake, and a nutty topping.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Brazilian pecans",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "crumble (toasted almond and nutty mixture)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Prepare the crust: In a food processor, combine 1 cup of Brazilian pecans and 1/4 cup of granulated sugar. Process until finely ground.",
+    "Add the ground pecan mixture to a bowl and stir in 1/4 cup of all-purpose flour and 1/2 teaspoon of salt. Mix until well combined.",
+    "Press the mixture into the bottom of a 9-inch springform pan.",
+    "Prepare the cake: In a separate bowl, whisk together 2 cups of all-purpose flour, 2 teaspoons of baking powder, and 1/2 teaspoon of salt.",
+    "In another bowl, whisk together 1 cup of granulated sugar, 1/2 cup of unsalted butter, softened, 2 large eggs, and 1 teaspoon of almond extract.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Pour the batter over the prepared crust and smooth the top.",
+    "Prepare the crumble: In a small bowl, mix together 1 cup of crumble, 1/4 cup of powdered sugar, and 2 tablespoons of melted butter.",
+    "Evenly sprinkle the crumble mixture over the top of the cake.",
+    "Bake for 40-45 minutes or until a toothpick inserted into the center comes out clean.",
+    "Let the cake cool completely in the pan before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "cake",
+    "pecan",
+    "crumble",
+    "almond",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crisp-brazilian-almond-crumble--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:36:17.038Z"
+}
