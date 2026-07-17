@@ -1,0 +1,68 @@
+{
+  "slug": "nourishing-indulgent-greek-korean-pear-tiropita--vegan",
+  "title": "Korean Pear Tarts",
+  "description": "A sweet and crunchy dessert using pear and a flaky pastry crust. Perfect for a vegan dinner party.",
+  "cuisine": "korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pears",
+      "amount": "3",
+      "notes": "Granny Smith or similar variety"
+    },
+    {
+      "name": "Nourishing Pastry Dough",
+      "amount": "1 1/2 cups",
+      "notes": "made with vegan butter and plant-based milk"
+    },
+    {
+      "name": "Indulgent Maple Syrup",
+      "amount": "2 tbsp",
+      "notes": "grade A, pure maple syrup"
+    },
+    {
+      "name": "Greek Yogurt (vegan alternative)",
+      "amount": "1/2 cup",
+      "notes": "soy or coconut yogurt"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "gochugaru or similar"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C)",
+    "Roll out the pastry dough to a thickness of 1/8 inch",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass",
+    "Place a spoonful of pear slices in the center of each dough circle",
+    "Fold the dough over the pears to form a triangle and press the edges to seal",
+    "Brush the tops of the tarts with a little water and sprinkle with Korean chili flakes",
+    "Bake for 20-25 minutes, or until the pastry is golden brown",
+    "Drizzle with maple syrup and serve warm"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "korean",
+    "dessert",
+    "pear"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-indulgent-greek-korean-pear-tiropita--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:08:53.793Z"
+}
