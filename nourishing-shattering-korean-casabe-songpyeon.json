@@ -1,0 +1,64 @@
+{
+  "slug": "nourishing-shattering-korean-casabe-songpyeon",
+  "title": "Korean-Style Songpyeon with Nourishing Filling",
+  "description": "A traditional Korean half-moon shaped rice cake filled with a nourishing mixture of rice, bean paste, and sesame seeds. Perfect as a snack or dessert.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mung bean paste",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "songpyeon dough",
+      "amount": "1 package (available at Asian markets)"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine short-grain rice and mung bean paste.",
+    "Add sesame seeds and mix well.",
+    "Knead songpyeon dough according to package instructions.",
+    "Divide dough into small balls, about 1-inch in diameter.",
+    "Roll each ball into a thin circle, about 3 inches in diameter.",
+    "Place a tablespoon of the rice mixture in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape, pressing edges to seal.",
+    "Repeat with remaining dough and filling.",
+    "Steam songpyeon for 10-15 minutes, or until cooked through.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "dessert",
+    "steamed-rice-cakes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-shattering-korean-casabe-songpyeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:05:05.666Z"
+}
