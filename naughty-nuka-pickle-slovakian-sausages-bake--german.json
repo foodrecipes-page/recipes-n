@@ -1,0 +1,68 @@
+{
+  "slug": "naughty-nuka-pickle-slovakian-sausages-bake--german",
+  "title": "Slovakian Sausage Bake",
+  "description": "A hearty German-inspired casserole featuring Slovakian sausages, topped with a crispy bake crust. Serve with a side of tangy pickle slices.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian sausages",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 cup",
+      "notes": "Crushed into breadcrumbs"
+    },
+    {
+      "name": "Pickle",
+      "amount": "1 cup, chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Pickle juice",
+      "amount": "2 tablespoons",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Naughty",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for spice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the Slovakian sausages over medium-high heat until browned, about 5 minutes.",
+    "Transfer the sausages to a 9x13-inch baking dish.",
+    "In a separate bowl, mix together the bake crumbs, pickle juice, and naughty (if using).",
+    "Spread the crumb mixture evenly over the top of the sausages.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the sausages are cooked through.",
+    "Garnish with chopped pickle slices.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausage",
+    "casserole",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naughty-nuka-pickle-slovakian-sausages-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:13:06.321Z"
+}
