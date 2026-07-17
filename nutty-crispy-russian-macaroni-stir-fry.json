@@ -1,0 +1,61 @@
+{
+  "slug": "nutty-crispy-russian-macaroni-stir-fry",
+  "title": "Russian Macaroni Delight",
+  "description": "A hearty, comforting dish combining the flavors of Russia with the simplicity of macaroni.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "1 cup",
+      "notes": "elbow macaroni"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup",
+      "notes": "chopped walnuts"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/2 cup",
+      "notes": "crushed potato chips"
+    },
+    {
+      "name": "russian oil",
+      "amount": "2 tablespoons",
+      "notes": "sunflower oil"
+    }
+  ],
+  "instructions": [
+    "Cook the macaroni according to package instructions.",
+    "In a pan, heat the sunflower oil over medium heat.",
+    "Add the chopped walnuts and cook until fragrant.",
+    "Add the crushed potato chips and cook for an additional 2 minutes.",
+    "Combine the cooked macaroni and the walnut-potato chip mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "russian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-russian-macaroni-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:51:42.643Z"
+}
