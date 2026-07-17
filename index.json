@@ -18277,5 +18277,31 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "n"
+  },
+  {
+    "slug": "naturally-dense-vietnamese-lemongrass-noodles--chinese",
+    "title": "Vietnamese Chicken Noodle Soup",
+    "tags": [
+      "chinese",
+      "vietnamese",
+      "noodle-soup"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crunchy-moroccan-peanut-tagine--indian",
+    "title": "Moroccan Chicken Tagine",
+    "tags": [
+      "indian",
+      "moroccan",
+      "chicken",
+      "tagine",
+      "peanut"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "n"
   }
 ]
