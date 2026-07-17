@@ -18303,5 +18303,43 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-crisp-croatian-nuts-stir-fry--vegan",
+    "title": "Croatian Nut Stir Fry",
+    "tags": [
+      "vegan",
+      "croatian",
+      "stir-fry",
+      "nuts"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "naughty-nuka-pickle-slovakian-sausages-bake--german",
+    "title": "Slovakian Sausage Bake",
+    "tags": [
+      "german",
+      "sausage",
+      "casserole",
+      "bake"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-chewy-french-perilla-seeds-confit--thai",
+    "title": "Thai Perilla Confit Bites",
+    "tags": [
+      "thai",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 27,
+    "shard": "n"
   }
 ]
