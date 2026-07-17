@@ -1,0 +1,77 @@
+{
+  "slug": "nice-nourishing-dutch-potatoes-pancake--keto",
+  "title": "Keto Dutch Pancake with Potatoes",
+  "description": "A keto twist on the classic Dutch pancake, served with a side of crispy potatoes. Enjoy the rich flavors of this low-carb breakfast treat.",
+  "cuisine": "European",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Dutch Pancake Mix",
+      "amount": "1 box",
+      "notes": "make sure it's a sugar-free and low-carb mix"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Slice the potatoes into thin rounds and place them in a bowl. Drizzle with a little bit of oil and sprinkle with salt and pepper. Toss to coat.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast for 15-20 minutes, or until crispy.",
+    "In a large bowl, whisk together the pancake mix, eggs, and a pinch of salt and pepper.",
+    "Heat a non-stick skillet or griddle over medium-high heat. Add a small amount of butter to the pan and let it melt.",
+    "Pour about 1/4 cup of the pancake batter into the pan and tilt the pan to evenly coat the bottom.",
+    "Cook the pancake for 2-3 minutes, until the edges start to curl and the surface is dry. Loosen the pancake with a spatula and flip it over.",
+    "Cook the other side of the pancake for another 1-2 minutes, until it's golden brown.",
+    "Repeat with the remaining batter to make more pancakes.",
+    "Serve the pancakes hot with a side of crispy potatoes and a pat of butter.",
+    "Enjoy your keto Dutch pancake with potatoes!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "dutch-pancake",
+    "potatoes",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-nourishing-dutch-potatoes-pancake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:20:10.834Z"
+}
