@@ -1,0 +1,89 @@
+{
+  "slug": "nourishing-algerian-veal-tagine--keto",
+  "title": "Keto Veal Tagine",
+  "description": "A flavorful and nutritious keto recipe inspired by traditional Algerian cuisine, slow-cooked to tender perfection in a rich tagine sauce.",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Nourishing chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Algerian tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Brown the veal cubes in batches until browned, about 5 minutes per batch. Remove from pot and set aside.",
+    "Reduce heat to medium and add the minced garlic. Cook for 1 minute, until fragrant.",
+    "Add the tagine spice blend and cook for 1 minute, until fragrant.",
+    "Add the chicken broth, browned veal, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer to the oven.",
+    "Braise the tagine for 2 hours, or until the veal is tender and falls apart easily.",
+    "Garnish with chopped parsley and cilantro. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "algerian",
+    "slow-cooker",
+    "dinner",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-algerian-veal-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:06:03.811Z"
+}
