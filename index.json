@@ -15394,18 +15394,15 @@
   },
   {
     "slug": "nutty-portuguese-chickpea-flour-fritters",
-    "title": "Nutty Portuguese Chickpea Flour Fritters",
+    "title": "Portuguese Chickpea Fritters",
     "tags": [
-      "easy-snacks",
-      "gluten-free",
-      "high-fiber",
-      "low-glycemic",
-      "one-pan",
+      "chickpea",
+      "vegetarian",
       "portuguese",
-      "snack-ideas"
+      "snack"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -18535,6 +18532,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 27,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-venezuelan-mackerel-skewers--thai",
+    "title": "Spicy Mackerel Skewers",
+    "tags": [
+      "thai",
+      "fusion",
+      "mackerel",
+      "seafood",
+      "skewers"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 33,
     "shard": "n"
   }
 ]
