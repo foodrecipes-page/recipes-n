@@ -1,0 +1,91 @@
+{
+  "slug": "nourishing-rich-moroccan-lamb-mrouzia--gluten-free",
+  "title": "Moroccan Lamb Mrouzia",
+  "description": "A rich and nourishing Moroccan lamb dish perfect for a special occasion, served with dried fruits and nuts.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "bone-in"
+    },
+    {
+      "name": "dried fruit",
+      "amount": "250g",
+      "notes": "mix of dates, apricots, and prunes"
+    },
+    {
+      "name": "honey",
+      "amount": "200g",
+      "notes": "high-quality"
+    },
+    {
+      "name": "almond milk",
+      "amount": "250ml",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "ground cloves",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "fine"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 150°C (300°F).",
+    "In a large bowl, mix together honey, almond milk, cinnamon, ginger, cloves, and salt.",
+    "Add the lamb shoulder to the bowl and coat with the honey mixture.",
+    "Transfer the lamb to a large Dutch oven or a heavy roasting pan.",
+    "Cover the pan with a lid or foil and roast for 2.5 hours.",
+    "After 2.5 hours, remove the lid or foil and continue roasting for another 30 minutes.",
+    "While the lamb is roasting, soak the dried fruit in hot water for 10 minutes.",
+    "Drain the soaked dried fruit and add it to the pan with the lamb.",
+    "Return the pan to the oven and roast for another 10 minutes.",
+    "Remove the lamb from the oven and let it rest for 10 minutes.",
+    "Slice the lamb and serve with the dried fruit and a sprinkle of parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 165,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "dessert",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-rich-moroccan-lamb-mrouzia--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:47:40.941Z"
+}
