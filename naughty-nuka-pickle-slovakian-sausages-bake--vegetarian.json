@@ -1,0 +1,74 @@
+{
+  "slug": "naughty-nuka-pickle-slovakian-sausages-bake--vegetarian",
+  "title": "Slovakian Sausage-Free Goulash",
+  "description": "A hearty, vegetarian take on a classic Slovakian dish, using sausages made from bake and seasoned with pickle spice.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bake Sausages",
+      "amount": "4",
+      "notes": "Made from bake and seasoned with pickle spice"
+    },
+    {
+      "name": "Pickle",
+      "amount": "1/2 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Slovakian",
+      "amount": "2 tablespoons",
+      "notes": "Paprika"
+    },
+    {
+      "name": "Naughty",
+      "amount": "2 tablespoons",
+      "notes": "Mushroom-based broth"
+    },
+    {
+      "name": "Nuka",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable oil"
+    },
+    {
+      "name": "Slovakian",
+      "amount": "1 teaspoon",
+      "notes": "Caraway seeds"
+    }
+  ],
+  "instructions": [
+    "Heat Nuka in a large pot over medium heat.",
+    "Add the chopped Pickle and cook until softened.",
+    "Add the Bake Sausages and cook until browned.",
+    "Add the Slovakian Paprika, Nuka, and Caraway seeds. Stir well.",
+    "Add the Naughty Mushroom-based broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with Slovakian Paprika to taste.",
+    "Serve hot, garnished with chopped Pickle."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "goulash",
+    "vegetarian",
+    "lentil-free",
+    "mushroom-based"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naughty-nuka-pickle-slovakian-sausages-bake--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:33:02.377Z"
+}
