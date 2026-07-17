@@ -18405,5 +18405,20 @@
     "cuisine": "Moroccan",
     "totalTimeMin": 180,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-crisp-brazilian-almond-crumble--italian",
+    "title": "Crispy Brazilian Pecan Crumble Cake",
+    "tags": [
+      "italian",
+      "cake",
+      "pecan",
+      "crumble",
+      "almond",
+      "brazilian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 60,
+    "shard": "n"
   }
 ]
