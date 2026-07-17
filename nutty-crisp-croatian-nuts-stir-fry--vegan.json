@@ -1,0 +1,78 @@
+{
+  "slug": "nutty-crisp-croatian-nuts-stir-fry--vegan",
+  "title": "Croatian Nut Stir Fry",
+  "description": "A vegan twist on traditional Croatian stir fries, featuring toasted nuts and crispy vegetables.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian nut oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral-tasting oil"
+    },
+    {
+      "name": "Crisp bell pepper",
+      "amount": "1",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "nutty carrots",
+      "amount": "2 medium",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "Stir-fry onions",
+      "amount": "1 medium",
+      "notes": "Sliced into thin rings"
+    },
+    {
+      "name": "Croatian black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "crunchy walnuts",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": "Optional for cheesy flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the Croatian nut oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced bell pepper and cook for 3-4 minutes, or until tender and crisp.",
+    "Add the sliced carrots and cook for an additional 4-5 minutes, or until tender.",
+    "Add the sliced onions and cook for 2-3 minutes, or until translucent.",
+    "Add the chopped walnuts and cook for 1-2 minutes, or until fragrant.",
+    "Season with Croatian black pepper to taste.",
+    "If desired, add the nutritional yeast and stir to combine.",
+    "Serve hot, garnished with additional chopped nuts if desired.",
+    "Enjoy your delicious Croatian Nut Stir Fry!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "croatian",
+    "stir-fry",
+    "nuts"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crisp-croatian-nuts-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:06:50.449Z"
+}
