@@ -18547,5 +18547,18 @@
     "cuisine": "thai",
     "totalTimeMin": 33,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-yeasty-vietnamese-doner-meat-pho-ga--gluten-free",
+    "title": "Vietnamese Chicken Pho",
+    "tags": [
+      "vietnamese",
+      "chicken",
+      "soup",
+      "noodles"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 40,
+    "shard": "n"
   }
 ]
