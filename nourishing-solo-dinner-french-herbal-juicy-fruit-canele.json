@@ -1,0 +1,85 @@
+{
+  "slug": "nourishing-solo-dinner-french-herbal-juicy-fruit-canele",
+  "title": "Canelé French Dessert",
+  "description": "Rich, buttery, and crispy Canelé, a traditional French dessert.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 1/2 sticks Unsalted Butter, softened",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup Granulated Sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 large Eggs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons Pure Vanilla Extract",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 1/4 cups All-purpose Flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup Canele powder (or substitute with a mixture of 2 Tbsp flour, 2 Tbsp sugar, 1/2 tsp ground cinnamon, 1/4 tsp ground nutmeg)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup Heavy Cream, at room temperature",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup Granulated Sugar (for caramelizing)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Butter a 12-cup muffin tin, then dust it with Canelé powder.",
+    "In a medium bowl, whisk together flour and Canelé powder.",
+    "In a large mixing bowl, beat the butter and sugar until light and fluffy.",
+    "Beat in the eggs one at a time, followed by the vanilla extract.",
+    "Gradually mix in the flour mixture until just combined.",
+    "Pour in the heavy cream and mix until smooth.",
+    "Divide the batter evenly among the muffin cups.",
+    "Bake for 20-25 minutes or until the Canelés are golden brown and a toothpick inserted into the center comes out clean.",
+    "Remove from oven and let cool in the tin for 5 minutes.",
+    "Transfer to a wire rack to cool completely.",
+    "To caramelize, sprinkle sugar over the top of the cooled Canelés and place under the broiler for 1-2 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "canele",
+    "french",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-solo-dinner-french-herbal-juicy-fruit-canele",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:33:58.533Z"
+}
