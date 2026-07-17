@@ -1,0 +1,66 @@
+{
+  "slug": "nifty-mustard-brazilian-beef-skewers--french",
+  "title": "Beef Skewers au Poivre",
+  "description": "A French-inspired dish featuring beef skewers seasoned with peppercorn and mustard, perfect for a summer evening.",
+  "cuisine": "french",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "nifty",
+      "amount": "1 packet",
+      "notes": "peppercorn spice blend"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tbsp",
+      "notes": "Dijon mustard"
+    },
+    {
+      "name": "brazilian",
+      "amount": "1 tsp",
+      "notes": "grated ginger"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "wooden or bamboo"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together peppercorn spice blend, mustard, and grated ginger.",
+    "Brush the mixture onto the beef, making sure each piece is coated.",
+    "Season with salt to taste.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Let rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nifty-mustard-brazilian-beef-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:38:47.119Z"
+}
