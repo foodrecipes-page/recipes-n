@@ -1,0 +1,81 @@
+{
+  "slug": "nourishing-smoky-venezuelan-mackerel-skewers--thai",
+  "title": "Spicy Mackerel Skewers",
+  "description": "A fusion of Thai and Venezuelan flavors, these skewers combine the richness of mackerel with the heat of Thai chilies.",
+  "cuisine": "thai",
+  "diet": [
+    "seafood",
+    "pescatarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Mackerel fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Skewers (bamboo or metal)",
+      "amount": "1 dozen",
+      "notes": null
+    },
+    {
+      "name": "Smoky chilies",
+      "amount": "4",
+      "notes": "such as chipotle peppers in adobo sauce"
+    },
+    {
+      "name": "Venezuelan aji amarillo peppers",
+      "amount": "2",
+      "notes": "or substitute with Thai bird's eye chilies"
+    },
+    {
+      "name": "Nourishing fish marinade",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a blender or food processor, combine fish marinade ingredients and blend until smooth.",
+    "3. Place mackerel fillets in a shallow dish and brush with marinade.",
+    "4. Thread mackerel onto skewers, leaving a small space between each piece.",
+    "5. Brush skewers with coconut oil and season with salt and pepper.",
+    "6. Grill skewers for 8-10 minutes per side, or until cooked through.",
+    "7. Meanwhile, toast aji amarillo peppers in a dry pan over medium heat, turning frequently, until slightly charred.",
+    "8. Chop toasted peppers and mix with cilantro.",
+    "9. Serve skewers hot with pepper-cilantro sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fusion",
+    "mackerel",
+    "seafood",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-venezuelan-mackerel-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:04:59.627Z"
+}
