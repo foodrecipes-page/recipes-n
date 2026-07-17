@@ -1,0 +1,65 @@
+{
+  "slug": "nourishing-chewy-french-perilla-seeds-confit--thai",
+  "title": "Thai Perilla Confit Bites",
+  "description": "Moist and flavorful Thai-inspired bites filled with confit and perilla. Perfect as an appetizer or snack.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Perilla leaves",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Confit",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "French bread crumbs",
+      "amount": "1/4 cup",
+      "notes": "gluten-free bread crumbs can be substituted"
+    },
+    {
+      "name": "Nourishing seeds",
+      "amount": "2 tablespoons",
+      "notes": "chia seeds or flaxseeds work well"
+    },
+    {
+      "name": "Chewy sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse the perilla leaves and pat dry with a paper towel.",
+    "In a food processor, combine confit, bread crumbs, and nourishing seeds. Process until well combined.",
+    "Add chewy sugar if using and process until sugar is evenly distributed.",
+    "Stuff each perilla leaf with the confit mixture and secure with a toothpick.",
+    "Place the bites on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until the perilla leaves are crispy.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-chewy-french-perilla-seeds-confit--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:17:49.507Z"
+}
