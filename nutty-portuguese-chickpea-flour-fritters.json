@@ -1,0 +1,77 @@
+{
+  "slug": "nutty-portuguese-chickpea-flour-fritters",
+  "title": "Portuguese Chickpea Fritters",
+  "description": "A crispy and flavorful Portuguese-inspired fritter recipe made with chickpeas and nutty flavors.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas, drained and rinsed",
+      "amount": "1 1/2 cups",
+      "notes": "canned"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "nutty portuguese bread, cubed",
+      "amount": "1 cup",
+      "notes": "about 2 slices"
+    },
+    {
+      "name": "fritters, egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mash the chickpeas using a fork or a potato masher.",
+    "Add the flour, nutty bread, egg, salt, and black pepper to the bowl and mix until a dough forms.",
+    "Heat the olive oil in a large frying pan over medium heat.",
+    "Using a spoon, drop small balls of the dough mixture into the hot oil, about 1/4 cup each.",
+    "Fry the fritters for about 3-4 minutes on each side, until golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the fritters warm, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea",
+    "vegetarian",
+    "portuguese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-portuguese-chickpea-flour-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:31:25.304Z"
+}
