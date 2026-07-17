@@ -1,0 +1,67 @@
+{
+  "slug": "nice-nourishing-dutch-potatoes-pancake--indian",
+  "title": "Indian-Style Potato Pancake",
+  "description": "A delicious and crispy Indian-inspired pancake recipe made with potatoes and a blend of spices. Serve hot with your favorite chutney or raita.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "nice flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "nourishing oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "dutch ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "pancake spices",
+      "amount": "1/2 teaspoon",
+      "notes": "blend of cumin, coriander, and chili powder"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a deep frying pan over medium heat.",
+    "Add the grated potatoes and cook until they are lightly browned, about 5 minutes.",
+    "Add the flour, ghee, and spices to the potatoes and mix well.",
+    "Using a spatula, shape the mixture into a flat pancake.",
+    "Cook for another 3-4 minutes or until the pancake is golden brown and crispy.",
+    "Flip the pancake and cook for another 3-4 minutes or until the other side is also golden brown.",
+    "Serve hot with your favorite chutney or raita."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "potato",
+    "pancake",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-nourishing-dutch-potatoes-pancake--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:22:58.915Z"
+}
