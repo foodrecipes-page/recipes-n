@@ -18379,5 +18379,31 @@
     "cuisine": "slovakian",
     "totalTimeMin": 35,
     "shard": "n"
+  },
+  {
+    "slug": "nutritious-french-pomegranate-crepe--mexican",
+    "title": "Tropical Crepe Fiesta",
+    "tags": [
+      "mexican",
+      "crepe",
+      "breakfast",
+      "healthy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-rich-moroccan-lamb-mrouzia--gluten-free",
+    "title": "Moroccan Lamb Mrouzia",
+    "tags": [
+      "moroccan",
+      "lamb",
+      "dessert",
+      "gluten-free"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 180,
+    "shard": "n"
   }
 ]
