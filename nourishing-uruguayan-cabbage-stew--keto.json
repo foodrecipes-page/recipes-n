@@ -1,0 +1,80 @@
+{
+  "slug": "nourishing-uruguayan-cabbage-stew--keto",
+  "title": "Uruguayan Beef Stew",
+  "description": "A hearty, keto-friendly stew from Uruguay featuring tender beef and a rich broth.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass-fed beef stew meat",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head, shredded",
+      "notes": null
+    },
+    {
+      "name": "Nourishing broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Uruguayan seasoning",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the Uruguayan seasoning to the pot and cook for 1 minute.",
+    "Add the cabbage and cook until slightly softened, about 3 minutes.",
+    "Add the nourishing broth to the pot and bring to a boil.",
+    "Return the beef to the pot and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 1 1/2 hours or until the beef is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "keto",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-uruguayan-cabbage-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:35:07.749Z"
+}
