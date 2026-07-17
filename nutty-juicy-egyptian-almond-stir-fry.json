@@ -1,0 +1,65 @@
+{
+  "slug": "nutty-juicy-egyptian-almond-stir-fry",
+  "title": "Egyptian Almond Delight",
+  "description": "A simple dessert recipe featuring the crunch of almonds and the sweetness of nutty flavors. Serve warm or at room temperature.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Nutty spread",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Juicy dates",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Stir-fry oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Egyptian spice blend",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a bowl, mix together almonds and Egyptian spice blend.",
+    "In a separate bowl, mix together nutty spread and stir-fry oil.",
+    "Arrange the juicy dates on a baking sheet and spread the nutty spread mixture evenly on top.",
+    "Sprinkle the almond mixture over the dates.",
+    "Bake for 10-12 minutes or until the almonds are lightly toasted.",
+    "Remove from oven and let cool for a few minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almonds",
+    "dessert",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-juicy-egyptian-almond-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:05:51.795Z"
+}
