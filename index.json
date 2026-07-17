@@ -2242,17 +2242,17 @@
   },
   {
     "slug": "nighttime-sizzling-velvet-turkish-lardons-kunefe",
-    "title": "Nighttime Sizzling Velvet Turkish Lardons Kunefe",
+    "title": "Turkish Kunefe with Smoked Lardons",
     "tags": [
+      "turkish",
       "dessert",
-      "iron-teppan",
+      "cheese",
       "kunefe",
-      "rich",
-      "savoury",
-      "turkish"
+      "sugar",
+      "cardamom"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "n"
   },
   {
@@ -18351,6 +18351,20 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 110,
+    "shard": "n"
+  },
+  {
+    "slug": "naughty-nuka-pickle-slovakian-sausages-bake--vegetarian",
+    "title": "Slovakian Sausage-Free Goulash",
+    "tags": [
+      "slovakian",
+      "goulash",
+      "vegetarian",
+      "lentil-free",
+      "mushroom-based"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
     "shard": "n"
   }
 ]
