@@ -4799,17 +4799,15 @@
   },
   {
     "slug": "nourishing-creamy-polish-mushroom-pierogi",
-    "title": "Nourishing Creamy Polish Mushroom Pierogi",
+    "title": "Polish Pierogi with Mushroom Cream Sauce",
     "tags": [
-      "mushroom-based",
-      "pandan-wrapped",
-      "polish-cuisine",
-      "romantic-dinner",
-      "special-occasion",
-      "vegetarian-friendly"
+      "polish",
+      "pierogi",
+      "mushroom",
+      "cream-sauce"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -18498,6 +18496,19 @@
     ],
     "cuisine": "peruvian",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "naturally-spicy-uruguayan-skirt-steak-skewers--chinese",
+    "title": "Uruguayan Skirt Steak Skewers",
+    "tags": [
+      "uruguayan",
+      "skirt steak",
+      "skewers",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "n"
   }
 ]
