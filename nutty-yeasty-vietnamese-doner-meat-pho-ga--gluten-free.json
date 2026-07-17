@@ -1,0 +1,94 @@
+{
+  "slug": "nutty-yeasty-vietnamese-doner-meat-pho-ga--gluten-free",
+  "title": "Vietnamese Chicken Pho",
+  "description": "A gluten-free version of the popular Vietnamese noodle soup, featuring chicken as the protein. This version is made with rice noodles and a rich beef broth.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "pho spice",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "nutty roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "ga Vietnamese chicken spice",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring the beef broth to a boil in a large pot.",
+    "Add the pho spice and stir to combine.",
+    "Reduce heat to a simmer and cook for 10 minutes.",
+    "While the broth is cooking, prepare the chicken by slicing it into thin strips.",
+    "Heat a pan over medium-high heat and cook the chicken until browned and cooked through.",
+    "Add the chicken to the pot and stir to combine.",
+    "Cook the rice noodles according to package instructions.",
+    "To assemble the pho, place a portion of noodles in a bowl, then add slices of chicken and some of the hot broth.",
+    "Garnish with roasted peanuts and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "soup",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-yeasty-vietnamese-doner-meat-pho-ga--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:35:51.702Z"
+}
