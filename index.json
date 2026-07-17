@@ -18510,5 +18510,31 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "n"
+  },
+  {
+    "slug": "nourishing-indulgent-greek-korean-pear-tiropita--vegan",
+    "title": "Korean Pear Tarts",
+    "tags": [
+      "vegan",
+      "korean",
+      "dessert",
+      "pear"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nice-nourishing-dutch-potatoes-pancake--indian",
+    "title": "Indian-Style Potato Pancake",
+    "tags": [
+      "indian",
+      "potato",
+      "pancake",
+      "breakfast"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 27,
+    "shard": "n"
   }
 ]
