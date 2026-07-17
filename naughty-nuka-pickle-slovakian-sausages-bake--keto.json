@@ -1,0 +1,65 @@
+{
+  "slug": "naughty-nuka-pickle-slovakian-sausages-bake--keto",
+  "title": "Slovakian Keto Sausage Bake",
+  "description": "A flavorful Slovakian-inspired dish featuring sausages baked with Slovakian and pickle ingredients, perfect for a keto diet.",
+  "cuisine": "slovakian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian sausages",
+      "amount": "4",
+      "notes": "look for low-carb options"
+    },
+    {
+      "name": "Pickles",
+      "amount": "1 cup, sliced",
+      "notes": "use low-sugar pickle option"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 cup, shredded",
+      "notes": "use low-carb cheese"
+    },
+    {
+      "name": "Naughty",
+      "amount": "2 tbsp",
+      "notes": "use as a keto-friendly fat source"
+    },
+    {
+      "name": "Nuka",
+      "amount": "2 tbsp",
+      "notes": "use as a keto-friendly fat source"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the Slovakian sausages in a baking dish.",
+    "Top the sausages with sliced pickles, shredded bake, and sprinkle with naughty and nuka.",
+    "Bake in the preheated oven for 20-25 minutes or until the sausages are cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "sausages",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 48
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naughty-nuka-pickle-slovakian-sausages-bake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:20:46.850Z"
+}
