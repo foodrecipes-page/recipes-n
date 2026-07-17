@@ -18450,5 +18450,54 @@
     "cuisine": "Algerian",
     "totalTimeMin": 135,
     "shard": "n"
+  },
+  {
+    "slug": "nifty-mustard-brazilian-beef-skewers--french",
+    "title": "Beef Skewers au Poivre",
+    "tags": [
+      "beef",
+      "grilled",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-indulgent-greek-korean-pear-tiropita--mexican",
+    "title": "Pear and Tiropita Mexican Dessert",
+    "tags": [
+      "mexican-dessert",
+      "pear",
+      "tiropita"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-solo-dinner-french-herbal-juicy-fruit-canele--gluten-free",
+    "title": "French Canelé",
+    "tags": [
+      "canale",
+      "french",
+      "dessert"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nimble-citrus-peruvian-beef-stir-fry--gluten-free",
+    "title": "Peruvian Citrus Beef Stir Fry",
+    "tags": [
+      "gluten-free",
+      "beef",
+      "peruvian",
+      "stir-fry"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 25,
+    "shard": "n"
   }
 ]
