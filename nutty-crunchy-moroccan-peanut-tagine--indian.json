@@ -1,0 +1,97 @@
+{
+  "slug": "nutty-crunchy-moroccan-peanut-tagine--indian",
+  "title": "Moroccan Chicken Tagine",
+  "description": "A flavorful and aromatic chicken dish inspired by the spices of India and Morocco, slow-cooked in a traditional clay pot.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "pescatarian",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 8 pieces"
+    },
+    {
+      "name": "nutty peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "crunchy chopped onion",
+      "amount": "1 large",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most spice shops"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "creamy is best"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 teaspoon",
+      "notes": "available at most spice shops"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "4-6",
+      "notes": "pepper to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium is best"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large clay or ceramic pot over medium heat.",
+    "2. Add onion and cook until softened, about 5 minutes.",
+    "3. Add spice blend and cook for 1 minute, until fragrant.",
+    "4. Add chicken and cook until browned on all sides, about 5-7 minutes.",
+    "5. Add peanut butter and stir until melted.",
+    "6. Add broth and bring to a boil.",
+    "7. Reduce heat to low and simmer, covered, for 20-25 minutes, or until chicken is cooked through.",
+    "8. Stir in spice mix and season with salt and pepper to taste.",
+    "9. Garnish with cilantro and serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "moroccan",
+    "chicken",
+    "tagine",
+    "peanut"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crunchy-moroccan-peanut-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:45:01.324Z"
+}
