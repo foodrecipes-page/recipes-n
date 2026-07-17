@@ -1,0 +1,88 @@
+{
+  "slug": "nighttime-sizzling-velvet-turkish-lardons-kunefe",
+  "title": "Turkish Kunefe with Smoked Lardons",
+  "description": "A rich and creamy Turkish dessert featuring crispy shredded phyllo pastry, cheese, and caramelized sugar, topped with smoked lardons.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Phyllo Pastry",
+      "amount": "1 package (about 1 pound)",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Kunefe Cheese",
+      "amount": "1 pound",
+      "notes": "Also known as string cheese"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": "Caramelized sugar adds a rich flavor"
+    },
+    {
+      "name": "Smoked Lardons",
+      "amount": "1/2 cup",
+      "notes": "Smoked to perfection"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/4 cup",
+      "notes": "Melted for brushing phyllo pastry"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Used to brush phyllo pastry"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying phyllo pastry"
+    },
+    {
+      "name": "Ground Cardamom",
+      "amount": "1 teaspoon",
+      "notes": "A pinch of warm spice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Caramelize the sugar by heating it in a saucepan over medium heat, stirring occasionally, until it turns golden brown.",
+    "In a separate saucepan, melt the butter and mix with the ground cardamom.",
+    "Cut the kunefe cheese into small pieces and set aside.",
+    "Layer the phyllo pastry in a baking dish, brushing each layer with melted butter and water.",
+    "Sprinkle the kunefe cheese over the phyllo pastry, leaving a 1-inch border around the edges.",
+    "Drizzle the caramelized sugar over the cheese and sprinkle with smoked lardons.",
+    "Bake for 25-30 minutes or until the phyllo pastry is golden brown and crispy.",
+    "Remove from the oven and let it cool for 5-7 minutes.",
+    "Serve warm and enjoy!",
+    "Optional: Fry some extra phyllo pastry strips in vegetable oil and sprinkle with powdered sugar for a crunchy topping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "dessert",
+    "cheese",
+    "kunefe",
+    "sugar",
+    "cardamom"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nighttime-sizzling-velvet-turkish-lardons-kunefe",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:04:43.931Z"
+}
