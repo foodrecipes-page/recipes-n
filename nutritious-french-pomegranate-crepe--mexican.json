@@ -1,0 +1,95 @@
+{
+  "slug": "nutritious-french-pomegranate-crepe--mexican",
+  "title": "Tropical Crepe Fiesta",
+  "description": "A delicious Mexican-inspired crepe filled with pomegranate salsa and topped with fresh pomegranate seeds. Perfect for a light and refreshing meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "French crepe batter",
+      "amount": "1 cup",
+      "notes": "Make crepes according to package instructions"
+    },
+    {
+      "name": "Pomegranate salsa",
+      "amount": "1/2 cup",
+      "notes": "Mix together 1/2 cup diced red onion, 1/4 cup diced fresh cilantro, 1 jalapeño pepper, seeded and finely chopped, and 2 tablespoons lime juice"
+    },
+    {
+      "name": "Nutritious Greek yogurt",
+      "amount": "2 tablespoons",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Fresh pomegranate seeds",
+      "amount": "1/4 cup",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Queso fresco or feta cheese",
+      "amount": "1/4 cup crumbled",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Lime",
+      "amount": "juiced",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Jalapeño pepper",
+      "amount": "chopped",
+      "notes": "For pomegranate salsa"
+    },
+    {
+      "name": "Red onion",
+      "amount": "diced",
+      "notes": "For pomegranate salsa"
+    },
+    {
+      "name": "Cumin",
+      "amount": "ground",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Make crepes according to package instructions.",
+    "Mix together pomegranate salsa ingredients in a bowl.",
+    "Warm tortillas in a dry skillet or in the microwave for 10-15 seconds.",
+    "Spoon about 1/4 cup of pomegranate salsa onto the center of a warmed tortilla.",
+    "Add a dollop of Greek yogurt and sprinkle with crumbled queso fresco or feta cheese if using.",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the crepe into a tight cylinder.",
+    "Repeat with remaining ingredients.",
+    "Garnish with chopped cilantro and a squeeze of lime juice.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "crepe",
+    "breakfast",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-french-pomegranate-crepe--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:20:13.047Z"
+}
