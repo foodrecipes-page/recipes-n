@@ -12921,16 +12921,15 @@
   },
   {
     "slug": "nutty-crunchy-dutch-pork-croquettes",
-    "title": "Nutty Crunchy Dutch Pork Croquettes",
+    "title": "Crispy Pork Croquettes",
     "tags": [
-      "crunchy-texture",
-      "dutch-cuisine",
-      "meat-based",
-      "midnight-cravings",
-      "nutty-snacks"
+      "dutch",
+      "snack",
+      "pork",
+      "crispy"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -14460,15 +14459,14 @@
   },
   {
     "slug": "nutty-juicy-egyptian-almond-stir-fry",
-    "title": "Nutty Juicy Egyptian Almond Stir-fry",
+    "title": "Egyptian Almond Delight",
     "tags": [
-      "egyptian-dish",
-      "nutty-juicy",
-      "meal-prep",
-      "diabetic-friendly"
+      "almonds",
+      "dessert",
+      "easy"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 32,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "n"
   },
   {
@@ -18340,6 +18338,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 27,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-uruguayan-cabbage-stew--keto",
+    "title": "Uruguayan Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "keto",
+      "dinner"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 110,
     "shard": "n"
   }
 ]
