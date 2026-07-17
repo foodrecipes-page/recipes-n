@@ -1,0 +1,81 @@
+{
+  "slug": "nourishing-solo-dinner-french-herbal-juicy-fruit-canele--gluten-free",
+  "title": "French Canelé",
+  "description": "A classic French dessert made with rich egg custard and a caramelized sugar crust, perfect for a sweet treat.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Canale syrup (canele syrup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose gluten-free flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a medium saucepan, combine the canele syrup, eggs, sugar, and flour. Whisk until smooth.",
+    "Add the milk, butter, salt, and vanilla extract to the saucepan. Whisk until well combined.",
+    "Pour the batter into a 12-cup muffin tin.",
+    "Bake for 20-25 minutes, or until the edges are golden brown and the centers are set.",
+    "Remove the canele from the oven and let cool in the tin for 5 minutes.",
+    "Transfer the canele to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "canale",
+    "french",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-solo-dinner-french-herbal-juicy-fruit-canele--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:43:50.629Z"
+}
