@@ -1,0 +1,94 @@
+{
+  "slug": "naturally-spicy-uruguayan-skirt-steak-skewers--chinese",
+  "title": "Uruguayan Skirt Steak Skewers",
+  "description": "A spicy twist on traditional Chinese street food, these Uruguayan skirt steak skewers are marinated in a mixture of soy sauce, garlic, and chili flakes, then grilled to perfection.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirt Steak",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Uruguayan Chorizo",
+      "amount": "1/2 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, garlic, chili flakes, brown sugar, and sesame oil.",
+    "Add the skirt steak and chorizo to the marinade, and toss to coat.",
+    "Thread the marinated meat and vegetables onto skewers.",
+    "Grill the skewers for 8-10 minutes, or until the meat is cooked to your liking.",
+    "Serve the skewers hot, garnished with sesame seeds and chopped scallions if desired.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve with steamed rice or noodles if desired.",
+    "Garnish with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "skirt steak",
+    "skewers",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-spicy-uruguayan-skirt-steak-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:52:57.102Z"
+}
