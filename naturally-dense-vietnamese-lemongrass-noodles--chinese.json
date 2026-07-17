@@ -1,0 +1,93 @@
+{
+  "slug": "naturally-dense-vietnamese-lemongrass-noodles--chinese",
+  "title": "Vietnamese Chicken Noodle Soup",
+  "description": "A hearty and flavorful Chinese-inspired soup made with naturally dense noodles, lemongrass, and chicken.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "naturally dense noodles",
+      "amount": "8 ounces",
+      "notes": "preferably rice noodles"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking noodles"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped lemongrass, minced shallots, and minced garlic; sauté until fragrant.",
+    "Add chicken breast and cook until browned, about 5 minutes.",
+    "Add fish sauce, soy sauce, and chicken broth; bring to a boil.",
+    "Reduce heat and let simmer for 15 minutes.",
+    "Cook noodles according to package instructions.",
+    "Add noodles to the soup pot and cook for another 2 minutes.",
+    "Season with salt to taste.",
+    "Serve hot and garnish with chopped lemongrass, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vietnamese",
+    "noodle-soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 38,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-dense-vietnamese-lemongrass-noodles--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:44:01.173Z"
+}
