@@ -1,0 +1,71 @@
+{
+  "slug": "nourishing-mediterranean-vegetables-paella--thai",
+  "title": "Thai Vegetable Paella",
+  "description": "A fusion of Thai and Spanish flavors, this vegetable paella is a vibrant and healthy meal option. Perfect for a weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mixed bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan or skillet over medium-high heat.",
+    "Add curry paste and cook for 1 minute, stirring constantly.",
+    "Add bell peppers and cook until tender, about 5 minutes.",
+    "Add vegetable broth and bring to a boil.",
+    "Add rice and stir to coat with curry mixture.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes.",
+    "Stir in cilantro and serve hot.",
+    "Optional: Add protein of your choice, such as tofu or tempeh, for extra nutrition."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "thaifood",
+    "paella",
+    "ricebowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 7,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-mediterranean-vegetables-paella--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:05:41.879Z"
+}
