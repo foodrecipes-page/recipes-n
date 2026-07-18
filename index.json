@@ -912,16 +912,16 @@
   },
   {
     "slug": "naturally-smoky-venezuelan-rice-paella",
-    "title": "Naturally Smoky Venezuelan Rice Paella",
+    "title": "Smoky Venezuelan Paella",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "low-lactose",
-      "one-pan",
+      "paella",
+      "venezuelan",
       "smoky",
-      "weeknight"
+      "chorizo",
+      "saffron",
+      "rice"
     ],
-    "cuisine": "Venezuelan",
+    "cuisine": "venezuelan",
     "totalTimeMin": 35,
     "shard": "n"
   },
