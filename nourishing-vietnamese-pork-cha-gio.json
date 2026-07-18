@@ -1,0 +1,98 @@
+{
+  "slug": "nourishing-vietnamese-pork-cha-gio",
+  "title": "Vietnamese-Style Grilled Pork Chả Giò",
+  "description": "A delicious and flavorful Vietnamese dish featuring grilled pork and crispy cha giò. This recipe is perfect for a quick and easy dinner.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "shrimp paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice paper rolls",
+      "amount": "4-6 rolls",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine fish sauce, ginger, garlic, and black pepper. Blend until smooth.",
+    "Place the pork shoulder in a large bowl and pour the blended sauce over it. Mix well to coat.",
+    "Let the pork marinate for at least 30 minutes.",
+    "Grill the pork shoulder for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, heat the vegetable oil in a large skillet over medium heat.",
+    "Add the shrimp paste and cook for 1-2 minutes, or until fragrant.",
+    "Add the bean sprouts and cook for 2-3 minutes, or until tender.",
+    "To assemble the cha giò, lay a rice paper roll on a flat surface.",
+    "Add a few lettuce leaves, a few bean sprouts, and a slice of grilled pork to the center of the roll.",
+    "Fold the bottom half of the roll up over the filling, then fold in the sides and roll up tightly.",
+    "Repeat with the remaining ingredients.",
+    "Serve the cha giò hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "pork",
+    "cha-gio"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-vietnamese-pork-cha-gio",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:20:08.805Z"
+}
