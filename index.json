@@ -4383,17 +4383,15 @@
   },
   {
     "slug": "nourishing-british-quinoa-scones",
-    "title": "Nourishing British Quinoa Scones",
+    "title": "Traditional British Quinoa Scones",
     "tags": [
+      "breakfast",
       "british",
-      "plant-based",
-      "post-workout",
       "quinoa",
-      "scones",
-      "tagine-pot"
+      "scones"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 25,
+    "cuisine": "british",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
