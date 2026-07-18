@@ -1,0 +1,83 @@
+{
+  "slug": "nice-nourishing-dutch-potatoes-pancake--chinese",
+  "title": "Chinese Pancake Potatoes",
+  "description": "A Chinese-inspired dish featuring a crispy pancake and pan-fried potatoes. A delicious and savory snack.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nicely sliced potatoes",
+      "amount": "2 medium",
+      "notes": "about 1/4 inch thick"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "for pancake"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "for pancake"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "for pancake"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sliced ginger",
+      "amount": "2 inches",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour, water, and salt. Mix until a dough forms.",
+    "Knead the dough for 2-3 minutes until smooth.",
+    "Divide the dough into 4 equal pieces.",
+    "Roll out each piece into a thin circle, about 6 inches in diameter.",
+    "Heat a non-stick pan or wok over medium heat.",
+    "Brush the pancake with a small amount of vegetable oil.",
+    "Pan-fry the pancake until crispy and golden brown, about 2-3 minutes per side.",
+    "While the pancake is cooking, slice the potatoes into thin rounds.",
+    "Heat the same pan or wok over high heat.",
+    "Add the sliced potatoes and cook until crispy and golden brown, about 3-4 minutes per side.",
+    "Garnish with sliced green onions and ginger.",
+    "Serve the potatoes with the crispy pancake."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-pancake",
+    "potatoes",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-nourishing-dutch-potatoes-pancake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:01:33.203Z"
+}
