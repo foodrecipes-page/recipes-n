@@ -1,0 +1,95 @@
+{
+  "slug": "nourishing-croatian-sirloin-steak-tips-stew",
+  "title": "Croatian Beef Stew",
+  "description": "A hearty, comforting stew from Croatia, featuring tender beef and a rich, flavorful broth. Serve with crusty bread or over mashed potatoes.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "beef tips",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "nourishing broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Sear the sirloin steak until browned, about 2-3 minutes per side. Remove from pot and set aside.",
+    "Add the beef tips to the pot and cook until browned, about 2-3 minutes.",
+    "Add the onion and garlic to the pot and cook until the onion is softened.",
+    "Add the carrots, potatoes, tomato paste, salt, and pepper to the pot. Stir to combine.",
+    "Add the broth to the pot and bring to a boil.",
+    "Return the sirloin steak to the pot and cover with a lid.",
+    "Transfer the pot to the oven and braise for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Slice the sirloin steak against the grain and serve with the stew."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "croatian",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-croatian-sirloin-steak-tips-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:15:45.019Z"
+}
