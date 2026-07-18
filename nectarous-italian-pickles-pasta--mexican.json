@@ -1,0 +1,61 @@
+{
+  "slug": "nectarous-italian-pickles-pasta--mexican",
+  "title": "Spaghetti with Pickle Slaw",
+  "description": "A twist on traditional pasta salads, this recipe combines spaghetti, a tangy pickle slaw, and a hint of Italian flair.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Nectarine",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Pickle",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook spaghetti according to package instructions.",
+    "In a medium bowl, combine diced nectarine and pickle.",
+    "Season with Italian seasoning and toss to coat.",
+    "Once spaghetti is cooked, drain and rinse with cold water.",
+    "Combine cooked spaghetti and pickle-nectarine mixture.",
+    "Toss to coat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian-mexican-fusion",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nectarous-italian-pickles-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:58:57.531Z"
+}
