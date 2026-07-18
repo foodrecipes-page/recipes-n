@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-croatian-shrimp-salad--keto",
+  "title": "Croatian Shrimp Salad",
+  "description": "A refreshing and protein-packed salad featuring succulent shrimp, mixed greens, and a tangy dressing.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the shrimp under cold water and pat dry with paper towels.",
+    "In a large bowl, combine the mixed greens, red onion, cucumber, tomato, and parsley.",
+    "In a small bowl, whisk together the lemon juice and olive oil to make the dressing.",
+    "Add the dressing to the bowl and toss to combine.",
+    "Add the shrimp to the bowl and gently toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 2,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "salad",
+    "shrimp",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 4,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-croatian-shrimp-salad--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:23:30.649Z"
+}
