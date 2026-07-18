@@ -1,0 +1,70 @@
+{
+  "slug": "nourishing-canadian-cheese-lasagna--japanese",
+  "title": "Japanese Cheesy Lasagna Roll-Ups",
+  "description": "A creative twist on traditional lasagna, this Japanese-inspired dish combines rich, creamy cheese with the comforting familiarity of a Canadian classic.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Nourishing Lasagna Noodles",
+      "amount": "8-10 sheets",
+      "notes": null
+    },
+    {
+      "name": "Canadian Cheese Blend",
+      "amount": "1 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "Canadian Ricotta Cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Japanese Teriyaki Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a medium saucepan, heat teriyaki sauce over low heat.",
+    "Combine cheese blend and ricotta cheese in a bowl.",
+    "Spread a layer of the cheese mixture on each lasagna sheet.",
+    "Drizzle teriyaki sauce over the cheese mixture.",
+    "Roll up the lasagna sheets tightly and place seam-side down in a baking dish.",
+    "Repeat the layers until all ingredients are used, ending with a layer of cheese on top.",
+    "Cover with foil and bake for 25 minutes.",
+    "Remove foil and bake for an additional 10-15 minutes.",
+    "Garnish with chopped green onions before serving.",
+    "Let rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lasagna",
+    "cheese",
+    "japanesefusion",
+    "cannadaininspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-canadian-cheese-lasagna--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:37:49.693Z"
+}
