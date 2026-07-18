@@ -1,0 +1,94 @@
+{
+  "slug": "nimble-aerated-british-lemongrass-stew--chinese",
+  "title": "Stir-Fried British Beef with Lemongrass",
+  "description": "A Chinese-inspired dish that combines the flavors of Britain with the zest of lemongrass. This quick and easy recipe is perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "British beef (sirloin), sliced",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Lemongrass, bruised",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Aerated oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Nimble mushrooms, sliced",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Stew broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the aerated oil in a wok or large skillet over high heat.",
+    "Add the sliced British beef and cook for 2-3 minutes, or until browned.",
+    "Remove the beef from the wok and set aside.",
+    "Add the bruised lemongrass to the wok and cook for 1 minute, or until fragrant.",
+    "Add the sliced nimble mushrooms and cook for 2-3 minutes, or until they start to soften.",
+    "Add the stew broth, soy sauce, honey, ginger, and garlic to the wok.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until the sauce has thickened.",
+    "Return the beef to the wok and cook for an additional 1-2 minutes, or until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve the beef and sauce over steamed rice or noodles.",
+    "Garnish with sliced lemongrass and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "beef",
+    "lemongrass",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-aerated-british-lemongrass-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:56:03.370Z"
+}
