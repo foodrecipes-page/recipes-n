@@ -1,0 +1,84 @@
+{
+  "slug": "nutty-crunchy-slovakian-pork-stew",
+  "title": "Slovakian Pork Stew",
+  "description": "A hearty and flavorful stew originating from Slovakia, made with tender pork and a selection of root vegetables.",
+  "cuisine": "Slovak",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": null
+    },
+    {
+      "name": "slovakian sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 medium",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork shoulder on all sides, then set it aside.",
+    "Add the sausage to the pot and cook, breaking it up with a spoon, until it is no longer pink.",
+    "Add the carrots, potatoes, onion, and garlic to the pot and cook for 5 minutes.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Return the pork shoulder to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 2 hours, or until the pork is tender.",
+    "Stir in the sour cream and cook for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crunchy-slovakian-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:26:19.486Z"
+}
