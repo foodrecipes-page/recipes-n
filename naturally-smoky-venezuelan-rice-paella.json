@@ -1,0 +1,97 @@
+{
+  "slug": "naturally-smoky-venezuelan-rice-paella",
+  "title": "Smoky Venezuelan Paella",
+  "description": "A classic Venezuelan dish with the smoky flavor of naturally smoked sausages, served with a side of saffron-infused rice.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Chorizo Sausages",
+      "amount": "1 pound",
+      "notes": "Naturally smoked, sliced"
+    },
+    {
+      "name": "Saffron Rice",
+      "amount": "2 cups",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked, ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chorizo slices and cook until browned, about 2-3 minutes.",
+    "Remove the chorizo from the pan and set aside.",
+    "Add the onion, red bell pepper, and garlic to the pan, and cook until the vegetables are softened, about 5 minutes.",
+    "Add the diced tomato to the pan, and cook for an additional 2 minutes.",
+    "Add the cooked rice, cumin, paprika, and salt to the pan, and stir to combine.",
+    "Add the cooked chorizo back into the pan, and stir to combine.",
+    "Cook the paella for an additional 5 minutes, or until the rice is lightly browned and the liquid has been absorbed.",
+    "Remove the paella from the heat, and let it rest for 5 minutes before serving.",
+    "Serve the paella hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "venezuelan",
+    "smoky",
+    "chorizo",
+    "saffron",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-smoky-venezuelan-rice-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:01:52.677Z"
+}
