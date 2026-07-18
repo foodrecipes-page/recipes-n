@@ -1,0 +1,84 @@
+{
+  "slug": "naturally-smoky-mexican-pork-chops-tacos",
+  "title": "Smoky Mexican Pork Tacos",
+  "description": "A flavorful twist on traditional pork tacos, with a smoky twist from chipotle peppers.",
+  "cuisine": "mexican",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "2-3 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "limes",
+      "amount": "2",
+      "notes": "juiced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together brown sugar, cumin, garlic powder, and salt.",
+    "Rub the spice mixture all over the pork chops.",
+    "Grill the pork chops for 5-7 minutes per side, or until they reach an internal temperature of 145°F.",
+    "While the pork is cooking, warm tacos shells according to package instructions.",
+    "Once the pork is cooked, let it rest for 5 minutes before slicing it thinly.",
+    "Assemble the tacos by placing a few slices of pork onto a shell, followed by a spoonful of chipotle peppers in adobo sauce, a sprinkle of cilantro, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "tacos",
+    "mexican",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-smoky-mexican-pork-chops-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:18:17.361Z"
+}
