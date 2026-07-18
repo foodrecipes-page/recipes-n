@@ -18571,5 +18571,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "n"
+  },
+  {
+    "slug": "nourishing-sweet-polish-plum-crumble--german",
+    "title": "Polish Plum Crumble",
+    "tags": [
+      "german",
+      "dessert",
+      "crumble",
+      "plums"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "n"
   }
 ]
