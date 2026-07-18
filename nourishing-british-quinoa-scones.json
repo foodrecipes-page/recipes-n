@@ -1,0 +1,85 @@
+{
+  "slug": "nourishing-british-quinoa-scones",
+  "title": "Traditional British Quinoa Scones",
+  "description": "A nutritious twist on classic British scones, with quinoa adding a boost of protein and fiber.",
+  "cuisine": "british",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 1/2 cups",
+      "notes": "rinse and dry before using"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "chilled and cut into small pieces"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together the quinoa, flour, sugar, baking powder, and salt.",
+    "Add the chilled butter to the dry ingredients and use a pastry blender or your fingers to work the butter into the mixture until it resembles coarse crumbs.",
+    "In a separate bowl, whisk together the heavy cream and egg until well combined.",
+    "Pour the cream mixture into the dry ingredients and stir until the dough comes together in a shaggy mass.",
+    "Turn the dough out onto a floured surface and gently knead it a few times until it comes together.",
+    "Pat the dough into a circle that is about 1 inch (2.5 cm) thick.",
+    "Use a biscuit cutter or the rim of a glass to cut out scones. Gather the scraps, re-form the dough, and cut out additional scones.",
+    "Place the scones on the prepared baking sheet and bake for 15-20 minutes, or until they are golden brown.",
+    "Remove the scones from the oven and let them cool on a wire rack for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "quinoa",
+    "scones"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-british-quinoa-scones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:24:20.827Z"
+}
