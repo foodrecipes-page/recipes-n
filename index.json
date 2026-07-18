@@ -8889,16 +8889,15 @@
   },
   {
     "slug": "nourishing-vietnamese-pork-cha-gio",
-    "title": "Nourishing Vietnamese Pork Cha Gio",
+    "title": "Vietnamese-Style Grilled Pork Chả Giò",
     "tags": [
-      "asian-cuisine",
-      "low-carb",
-      "pork-recipes",
-      "steamed-dishes",
-      "vietnamese-food"
+      "vietnamese",
+      "grilled",
+      "pork",
+      "cha-gio"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 30,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -18608,6 +18607,32 @@
       "vegetarian"
     ],
     "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-australian-cashews-stew--vegan",
+    "title": "Nutty Stew",
+    "tags": [
+      "vegan",
+      "australian",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-moroccan-chickpeas-tagine--chinese",
+    "title": "Smoky Chickpea Tagine",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "gluten-free",
+      "easy"
+    ],
+    "cuisine": "Chinese",
     "totalTimeMin": 25,
     "shard": "n"
   }
