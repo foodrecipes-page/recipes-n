@@ -1,0 +1,75 @@
+{
+  "slug": "nourishing-sweet-polish-plum-crumble--german",
+  "title": "Polish Plum Crumble",
+  "description": "A German-inspired dessert featuring sweet plums, a crunchy crumble topping, and a hint of polish flavor.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plums",
+      "amount": "3 cups, sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup, melted"
+    },
+    {
+      "name": "polish vanilla sugar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "crumble topping: rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crumble topping: brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crumble topping: cold butter",
+      "amount": "1/4 cup, cut into small pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the sliced plums, granulated sugar, and polish vanilla sugar.",
+    "Transfer the plum mixture to a 9x9-inch baking dish.",
+    "In a separate bowl, mix together the flour, rolled oats, and brown sugar.",
+    "Add the cold butter to the dry ingredients and mix until crumbly.",
+    "Spread the crumble topping evenly over the plum mixture.",
+    "Bake for 40-50 minutes, or until the topping is golden brown and the fruit is tender.",
+    "Serve warm with vanilla ice cream or whipped cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "crumble",
+    "plums"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-sweet-polish-plum-crumble--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:07:34.830Z"
+}
