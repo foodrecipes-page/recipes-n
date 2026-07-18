@@ -1,0 +1,82 @@
+{
+  "slug": "nonyoung-tunisian-chicken-oozy-lemony-stir-fry",
+  "title": "Tunisian Chicken",
+  "description": "A flavorful and aromatic dish originating from Tunisia, featuring chicken cooked in a rich blend of spices and herbs.",
+  "cuisine": "North African",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "non-young olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "tunisian harissa",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "oozy honey",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "lemony juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "stir-fry onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "fry garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tunisian spices",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tbsp of oil in a large skillet over medium-high heat.",
+    "2. Add the chicken to the skillet and cook until browned on all sides, about 5-6 minutes.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. In the same skillet, add the onions and garlic and cook until softened, about 3-4 minutes.",
+    "5. Add the harissa, honey, and lemon juice to the skillet and stir to combine.",
+    "6. Add the chicken back to the skillet and stir to coat with the sauce.",
+    "7. Reduce heat to medium-low and simmer for 10-12 minutes or until the chicken is cooked through.",
+    "8. Season with tunisian spices and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "chicken",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nonyoung-tunisian-chicken-oozy-lemony-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:18:45.988Z"
+}
