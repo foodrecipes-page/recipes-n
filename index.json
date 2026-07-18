@@ -2898,13 +2898,14 @@
   },
   {
     "slug": "nippy-crispy-vietnamese-beans-bowl",
-    "title": "Nippy Crispy Vietnamese Beans Bowl",
+    "title": "Crispy Vietnamese Bean Bowl",
     "tags": [
-      "vietnamese",
-      "dinner"
+      "bean-bowl",
+      "vietnamese-cuisine",
+      "lunch-ideas"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -15329,18 +15330,14 @@
   },
   {
     "slug": "nutty-pickled-german-cheddar-wrap",
-    "title": "nutty pickled german cheddar wrap",
+    "title": "German Wrap Delight",
     "tags": [
-      "cheesy",
-      "german-cuisine",
-      "lunch-box",
-      "one-pan",
-      "raw-friendly",
-      "snack-ideas",
-      "weeknight"
+      "german",
+      "sauerkraut-free",
+      "wrap"
     ],
     "cuisine": "german",
-    "totalTimeMin": 20,
+    "totalTimeMin": 13,
     "shard": "n"
   },
   {
