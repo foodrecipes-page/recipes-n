@@ -1,0 +1,87 @@
+{
+  "slug": "naturally-tender-mexican-chicken-quesadilla",
+  "title": "Mexican Chicken Quesadillas",
+  "description": "Juicy chicken and melted cheese wrapped in a crispy tortilla, served with a side of fresh salsa.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "4",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "Tortillas (corn or flour)",
+      "amount": "4",
+      "notes": "large size"
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Salsa (homemade or store-bought)",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Cook the chicken strips in the skillet until browned and cooked through, about 5-6 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "In a large bowl, combine the cooked chicken, shredded cheese, and a sprinkle of cilantro (if using).",
+    "Place a large tortilla in the skillet and sprinkle a quarter of the chicken and cheese mixture onto half of the tortilla.",
+    "Fold the tortilla in half to enclose the filling and cook for 2-3 minutes, until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes, until the other side is also crispy and the cheese is melted.",
+    "Repeat with the remaining tortillas and filling.",
+    "Cut the quesadillas into wedges and serve with salsa, sour cream, and additional cilantro (if using).",
+    "Optional: top with diced tomatoes, avocado, or shredded lettuce for added flavor and texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "quesadilla",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-tender-mexican-chicken-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:45:30.060Z"
+}
