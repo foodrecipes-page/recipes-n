@@ -13007,17 +13007,14 @@
   },
   {
     "slug": "nutty-crunchy-slovakian-pork-stew",
-    "title": "Nutty Crunchy Slovakian Pork Stew",
+    "title": "Slovakian Pork Stew",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein",
-      "one-pot",
-      "weeknight"
+      "slovakian",
+      "pork",
+      "stew"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "cuisine": "Slovak",
+    "totalTimeMin": 140,
     "shard": "n"
   },
   {
@@ -17011,17 +17008,15 @@
   },
   {
     "slug": "nutty-velvety-german-bun-bao",
-    "title": "Nutty Velvety German Bun Bao",
+    "title": "Nutty German Bao",
     "tags": [
-      "brunch",
-      "german-cuisine",
-      "high-protein",
-      "nutty",
-      "one-pan",
-      "weeknight"
+      "german",
+      "bao",
+      "snack",
+      "asian-fusion"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 60,
+    "cuisine": "Asian-German fusion",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -18790,6 +18785,18 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nectarous-italian-pickles-pasta--mexican",
+    "title": "Spaghetti with Pickle Slaw",
+    "tags": [
+      "italian-mexican-fusion",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
     "shard": "n"
   }
 ]
