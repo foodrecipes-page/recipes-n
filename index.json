@@ -11878,14 +11878,14 @@
   },
   {
     "slug": "nutty-chewy-solo-dinner-russet-potato-stir-fry",
-    "title": "Nutty Chewy Solo-Dinner Russet Potato Stir-fry",
+    "title": "Crispy Solo Fry Bites",
     "tags": [
-      "nut-free",
-      "solo-dinner",
-      "potato-stir-fry"
+      "snack",
+      "potato",
+      "veggie"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 50,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -13269,16 +13269,14 @@
   },
   {
     "slug": "nutty-dense-raw-friendly-dumplings-soup",
-    "title": "Nutty Dense Raw Friendly Dumplings Soup",
+    "title": "Dumpling Soup",
     "tags": [
-      "nutty",
-      "dense",
-      "cozy",
-      "peruvian",
-      "raw-friendly"
+      "soup",
+      "comfort-food",
+      "easy-to-make"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -18559,6 +18557,19 @@
     ],
     "cuisine": "vietnamese",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-korean-rhubarb-jorim--mexican",
+    "title": "Nourishing Korean Beef Tacos",
+    "tags": [
+      "korean",
+      "mexican",
+      "fusion",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "n"
   }
 ]
