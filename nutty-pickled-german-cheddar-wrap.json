@@ -1,0 +1,63 @@
+{
+  "slug": "nutty-pickled-german-cheddar-wrap",
+  "title": "German Wrap Delight",
+  "description": "A flavorful and satisfying wrap filled with tangy pickled cucumbers, sharp cheddar cheese, and savory German sausage.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "german sausage",
+      "amount": "4 oz",
+      "notes": "cooked to 160°F (71°C)"
+    },
+    {
+      "name": "pickled cucumbers",
+      "amount": "1/2 cup",
+      "notes": "drained of excess vinegar"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "2 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Cook the German sausage for 3-4 minutes per side, or until it reaches 160°F (71°C).",
+    "Transfer the cooked sausage to a plate and set aside.",
+    "In the same skillet, add the pickled cucumbers and cook for 2-3 minutes, or until they start to soften.",
+    "Add the shredded cheddar cheese to the skillet and stir until melted and well combined.",
+    "Warm the large flour tortilla in the microwave for 10-15 seconds.",
+    "Assemble the wrap by placing the cooked sausage, cucumber-cheddar mixture, and any desired additional toppings onto the tortilla.",
+    "Roll the wrap tightly and slice in half.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "sauerkraut-free",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-pickled-german-cheddar-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:30:32.642Z"
+}
