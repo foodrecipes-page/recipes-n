@@ -1,0 +1,75 @@
+{
+  "slug": "naturally-citrusy-croatian-green-beans-tagine--italian",
+  "title": "Italian Green Bean Tagine",
+  "description": "A creative Italian twist on the traditional Moroccan tagine, featuring green beans and naturally sweet flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "1 pound"
+    },
+    {
+      "name": "croatian extra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "naturally sweet shallots",
+      "amount": "1 medium"
+    },
+    {
+      "name": "citrusy lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Bring a pot of salted water to a boil and blanch the green beans for 5 minutes.",
+    "2. In a large skillet, heat the olive oil over medium-high heat.",
+    "3. Add the garlic and cook for 1 minute, until fragrant.",
+    "4. Add the shallots and cook for 2 minutes, until softened.",
+    "5. Add the green beans and cook for 2-3 minutes, until slightly tender.",
+    "6. Stir in the lemon juice and cook for an additional 1-2 minutes.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Garnish with parsley and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "healthy",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-citrusy-croatian-green-beans-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:07:26.953Z"
+}
