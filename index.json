@@ -18584,5 +18584,31 @@
     "cuisine": "german",
     "totalTimeMin": 55,
     "shard": "n"
+  },
+  {
+    "slug": "nourishing-juicy-dutch-pork-stew--indian",
+    "title": "Dutch Pork Stew",
+    "tags": [
+      "indian",
+      "pork",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 110,
+    "shard": "n"
+  },
+  {
+    "slug": "nice-nourishing-dutch-potatoes-pancake--chinese",
+    "title": "Chinese Pancake Potatoes",
+    "tags": [
+      "chinese-pancake",
+      "potatoes",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "n"
   }
 ]
