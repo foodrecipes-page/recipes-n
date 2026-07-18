@@ -1,0 +1,77 @@
+{
+  "slug": "nourishing-crisp-slovakian-danmuji-salad--thai",
+  "title": "Crisp Slovakian Salad with Danmuji",
+  "description": "A refreshing Thai-inspired salad featuring crisp Slovakian ingredients and the sweetness of danmuji.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian radishes",
+      "amount": "250g"
+    },
+    {
+      "name": "Danmuji",
+      "amount": "200g"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "100g"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "50g"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Slice the Slovakian radishes and mixed greens into thin strips.",
+    "2. Cut the danmuji into bite-sized pieces.",
+    "3. Heat the peanuts in a pan over medium heat until crispy.",
+    "4. In a large bowl, combine the sliced radishes, mixed greens, danmuji, and peanuts.",
+    "5. In a small bowl, whisk together the fish sauce, lime juice, and sugar to make the dressing.",
+    "6. Pour the dressing over the salad and toss to combine.",
+    "7. Slice the chili peppers and add them to the salad.",
+    "8. Serve immediately and enjoy!",
+    "9. Garnish with fresh cilantro leaves, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "thai",
+    "slovakian",
+    "danmuji",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-crisp-slovakian-danmuji-salad--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:13:19.565Z"
+}
