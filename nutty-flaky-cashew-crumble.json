@@ -1,0 +1,73 @@
+{
+  "slug": "nutty-flaky-cashew-crumble",
+  "title": "Cashew Crumble Bars",
+  "description": "A sweet and nutty treat made with a shortbread crust, a cashew filling, and a crunchy crumble topping.",
+  "cuisine": "baked goods",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Nutty Granola",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flaky Pastry Crust",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Crumble Topping",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the flaky pastry crust by rolling it out into a square shape.",
+    "In a separate bowl, mix together the cashews, nutty granola, and maple syrup.",
+    "Spread the cashew mixture over the pastry crust, leaving a 1-inch border around the edges.",
+    "Top the cashew mixture with the crumble topping.",
+    "Bake the bars for 25-30 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove the bars from the oven and let them cool completely before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cashew",
+    "crumble",
+    "nutty",
+    "bars"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-flaky-cashew-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:26:47.224Z"
+}
