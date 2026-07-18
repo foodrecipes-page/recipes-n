@@ -1,0 +1,72 @@
+{
+  "slug": "nourishing-croatian-shrimp-salad",
+  "title": "Shrimp and Nourishing Salad",
+  "description": "A simple yet nutritious salad recipe featuring succulent shrimp and a blend of healthy ingredients.",
+  "cuisine": "croatian",
+  "diet": [
+    "healthy",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "romaine lettuce",
+      "amount": "4 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": " cucumber",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": " cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "nourishing dressing",
+      "amount": "2 tablespoons",
+      "notes": "see below for recipe"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the shrimp under cold water and pat dry with paper towels.",
+    "2. In a large skillet, heat 1 tablespoon of olive oil over medium-high heat.",
+    "3. Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "4. In a large bowl, combine the chopped lettuce, sliced cucumber, cherry tomatoes, and thinly sliced red onion.",
+    "5. Add the cooked shrimp on top of the salad.",
+    "6. Drizzle with nourishing dressing (see below) and toss to combine.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "seafood",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-croatian-shrimp-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:18:35.104Z"
+}
