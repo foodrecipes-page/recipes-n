@@ -1,0 +1,84 @@
+{
+  "slug": "nourishing-korean-rhubarb-jorim--mexican",
+  "title": "Nourishing Korean Beef Tacos",
+  "description": "A fusion of Korean flavors and Mexican tacos. Spicy jorim beef, crunchy slaw, and cilantro make for a delicious and healthy meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank steak",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Lime",
+      "amount": "1, juiced"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine gochujang, soy sauce, lime juice, brown sugar, garlic, and ginger. Blend until smooth.",
+    "2. Place the flank steak in a large zip-top plastic bag. Pour the marinade over the steak and massage to coat. Seal the bag and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat a grill or grill pan to medium-high heat. Remove the steak from the marinade and cook for 5-7 minutes per side, or until cooked to your desired level of doneness.",
+    "4. Transfer the steak to a cutting board and let it rest for 5 minutes. Slice the steak thinly against the grain.",
+    "5. In a large bowl, combine the shredded red cabbage, chopped cilantro, and lime juice. Toss to combine.",
+    "6. Warm tacos shells according to package instructions.",
+    "7. Assemble the tacos by placing a few slices of the beef onto a taco shell, followed by a spoonful of the slaw.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "mexican",
+    "fusion",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-korean-rhubarb-jorim--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:11:27.979Z"
+}
