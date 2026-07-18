@@ -1,0 +1,89 @@
+{
+  "slug": "nourishing-smoky-moroccan-chickpeas-tagine--chinese",
+  "title": "Smoky Chickpea Tagine",
+  "description": "A Chinese-inspired fusion dish with the smoky flavors of a Moroccan tagine. Easy to make and nutritious, perfect for a weeknight meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoky Chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Nourishing Oil",
+      "amount": "2 tablespoons",
+      "notes": "Avocado oil or grapeseed oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Moroccan Spices",
+      "amount": "1 teaspoon",
+      "notes": "Berbere or ras el hanout"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of nourishing oil in a large skillet over medium heat.",
+    "Add the minced garlic and grated ginger. Cook for 1 minute, until fragrant.",
+    "Add the smoky chickpeas, soy sauce, and Moroccan spices. Stir to combine.",
+    "Cook for 2-3 minutes, until the chickpeas are coated in the sauce.",
+    "Stir in the sesame oil and season with salt to taste.",
+    "Transfer the mixture to a serving dish and garnish with chopped green onions.",
+    "Serve warm over steamed rice or noodles.",
+    "Optional: Add diced bell peppers or carrots to the skillet with the garlic and ginger for extra flavor and nutrients."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "gluten-free",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-moroccan-chickpeas-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:33:14.897Z"
+}
