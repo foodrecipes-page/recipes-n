@@ -1,0 +1,83 @@
+{
+  "slug": "nostalgic-portuguese-ricotta-roast--indian",
+  "title": "Ricotta Roast Naan",
+  "description": "A unique twist on traditional naan bread, incorporating ricotta cheese and roast flavors. This Indian-inspired dish is perfect as a side or snack.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "portuguese bread",
+      "amount": "1 loaf",
+      "notes": "crusty"
+    },
+    {
+      "name": "roast garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Slice the portuguese bread into thin rounds.",
+    "3. In a bowl, mix together ricotta cheese, roast garlic, cumin seeds, coriander powder, and garam masala.",
+    "4. Brush the bread slices with the ricotta mixture.",
+    "5. Place the bread slices on a baking sheet and bake for 10-12 minutes, or until crispy.",
+    "6. Remove from the oven and sprinkle with salt to taste.",
+    "7. Serve warm with your favorite Indian-inspired dishes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "naan",
+    "ricotta",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-portuguese-ricotta-roast--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:24:47.519Z"
+}
