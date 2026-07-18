@@ -3167,13 +3167,14 @@
   },
   {
     "slug": "nonyoung-tunisian-chicken-oozy-lemony-stir-fry",
-    "title": "Nonyoung Tunisian Chicken Oozy Lemony Stir-fry",
+    "title": "Tunisian Chicken",
     "tags": [
-      "high-protein",
-      "hot-stone-plate"
+      "tunisian",
+      "chicken",
+      "north-african"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -5050,17 +5051,15 @@
   },
   {
     "slug": "nourishing-croatian-sirloin-steak-tips-stew",
-    "title": "Nourishing Croatian Sirloin Steak Tips Stew",
+    "title": "Croatian Beef Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hearty",
-      "mason-jar",
-      "one-pot",
-      "weeknight"
+      "beef",
+      "stew",
+      "croatian",
+      "comfort food"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 170,
     "shard": "n"
   },
   {
@@ -9618,18 +9617,17 @@
   },
   {
     "slug": "nutrient-rich-chewy-argentinian-beef-asado",
-    "title": "Nutrient-rich, Chewy Argentinian Beef Asado",
+    "title": "Argentinian Beef Asado",
     "tags": [
-      "argentine",
+      "argentinian",
       "beef",
-      "dinner",
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "asado",
+      "grill",
+      "latin-american",
+      "slow-cooked"
     ],
-    "cuisine": "Argentine",
-    "totalTimeMin": 35,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 135,
     "shard": "n"
   },
   {
@@ -18664,6 +18662,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 10,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-croatian-shrimp-salad--keto",
+    "title": "Croatian Shrimp Salad",
+    "tags": [
+      "keto",
+      "salad",
+      "shrimp",
+      "croatian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 17,
     "shard": "n"
   }
 ]
