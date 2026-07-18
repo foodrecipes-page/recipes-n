@@ -18676,5 +18676,19 @@
     "cuisine": "Croatian",
     "totalTimeMin": 17,
     "shard": "n"
+  },
+  {
+    "slug": "nostalgic-portuguese-ricotta-roast--indian",
+    "title": "Ricotta Roast Naan",
+    "tags": [
+      "indian",
+      "snack",
+      "naan",
+      "ricotta",
+      "garlic"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
+    "shard": "n"
   }
 ]
