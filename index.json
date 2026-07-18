@@ -810,16 +810,14 @@
   },
   {
     "slug": "naturally-smoky-mexican-pork-chops-tacos",
-    "title": "Naturally Smoky Mexican Pork Chops Tacos",
+    "title": "Smoky Mexican Pork Tacos",
     "tags": [
-      "gluten-free",
-      "kid-friendly",
-      "mexican",
-      "smoky",
+      "pork",
       "tacos",
-      "vegan-friendly"
+      "mexican",
+      "grill"
     ],
-    "cuisine": "Mexican",
+    "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "n"
   },
@@ -18754,6 +18752,44 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-mediterranean-chicken-stir-fry--italian",
+    "title": "Quick Chicken Fricassee",
+    "tags": [
+      "italian",
+      "chicken",
+      "one-pot"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-british-quinoa-scones--indian",
+    "title": "Quinoa and Scones British Breakfast",
+    "tags": [
+      "indian-breakfast",
+      "quinoa-recipe",
+      "scones-recipe",
+      "nourishing-recipe"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "naturally-citrusy-croatian-green-beans-tagine--italian",
+    "title": "Italian Green Bean Tagine",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "healthy",
+      "quick-cooking"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "n"
   }
 ]
