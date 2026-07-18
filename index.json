@@ -1167,17 +1167,16 @@
   },
   {
     "slug": "naturally-tender-mexican-chicken-quesadilla",
-    "title": "Naturally Tender Mexican Chicken Quesadilla",
+    "title": "Mexican Chicken Quesadillas",
     "tags": [
-      "dinner-ideas",
-      "gluten-free",
-      "high-protein",
-      "mexican-food",
-      "one-pan",
-      "whole30"
+      "mexican",
+      "chicken",
+      "quesadilla",
+      "dinner",
+      "easy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -5042,16 +5041,14 @@
   },
   {
     "slug": "nourishing-croatian-shrimp-salad",
-    "title": "Nourishing Croatian Shrimp Salad",
+    "title": "Shrimp and Nourishing Salad",
     "tags": [
-      "glassy-jelly",
-      "hangover-cure",
-      "high-protein",
-      "keto-friendly",
-      "salad"
+      "salad",
+      "seafood",
+      "healthy"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 20,
+    "cuisine": "croatian",
+    "totalTimeMin": 18,
     "shard": "n"
   },
   {
@@ -18634,6 +18631,46 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-canadian-cheese-lasagna--japanese",
+    "title": "Japanese Cheesy Lasagna Roll-Ups",
+    "tags": [
+      "lasagna",
+      "cheese",
+      "japanesefusion",
+      "cannadaininspired"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
+    "slug": "nimble-aerated-british-lemongrass-stew--chinese",
+    "title": "Stir-Fried British Beef with Lemongrass",
+    "tags": [
+      "chinese",
+      "beef",
+      "lemongrass",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-crisp-slovakian-danmuji-salad--thai",
+    "title": "Crisp Slovakian Salad with Danmuji",
+    "tags": [
+      "salad",
+      "thai",
+      "slovakian",
+      "danmuji",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 10,
     "shard": "n"
   }
 ]
