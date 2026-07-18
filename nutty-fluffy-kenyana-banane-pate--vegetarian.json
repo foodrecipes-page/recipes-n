@@ -1,0 +1,62 @@
+{
+  "slug": "nutty-fluffy-kenyana-banane-pate--vegetarian",
+  "title": "Banana Pate Breakfast Toast",
+  "description": "A delicious vegetarian breakfast toast made with mashed banana and nutty pate.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Banana",
+      "amount": "2 ripe",
+      "notes": "Mashed"
+    },
+    {
+      "name": "Nutty Pate",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fluffy Bread",
+      "amount": "1 slice",
+      "notes": ""
+    },
+    {
+      "name": "Kenyana",
+      "amount": "optional",
+      "notes": "For topping"
+    }
+  ],
+  "instructions": [
+    "Toast the fluffy bread",
+    "Mash the banana in a bowl",
+    "Add nutty pate to the mashed banana and mix well",
+    "Spread the mixture on the toasted bread",
+    "Top with Kenyana if desired",
+    "Serve immediately"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "toasted-bread",
+    "banana",
+    "nutty-pate",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-fluffy-kenyana-banane-pate--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:40:17.588Z"
+}
