@@ -4435,17 +4435,15 @@
   },
   {
     "slug": "nourishing-canadian-chinese-cabbage-stew",
-    "title": "Nourishing Canadian Chinese Cabbage Stew",
+    "title": "Canadian Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "healthy",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "beef",
+      "cabbage",
+      "stew",
+      "canadian"
     ],
-    "cuisine": "Canadian Chinese",
-    "totalTimeMin": 50,
+    "cuisine": "canadian",
+    "totalTimeMin": 120,
     "shard": "n"
   },
   {
@@ -13539,15 +13537,15 @@
   },
   {
     "slug": "nutty-flaky-cashew-crumble",
-    "title": "Nutty Flaky Cashew Crumble",
+    "title": "Cashew Crumble Bars",
     "tags": [
-      "nutty",
-      "flaky",
+      "cashew",
       "crumble",
-      "venezuela"
+      "nutty",
+      "bars"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "baked goods",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
