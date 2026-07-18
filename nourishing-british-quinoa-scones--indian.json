@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-british-quinoa-scones--indian",
+  "title": "Quinoa and Scones British Breakfast",
+  "description": "A British twist on Indian cuisine, using quinoa and scones for a nutritious breakfast. This recipe combines flavors and textures for a delicious and satisfying meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "British Scones",
+      "amount": "2",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Nourishing Spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Heat a non-stick pan with 1 tbsp vegetable oil over medium heat.",
+    "2. Add cumin, coriander, turmeric, salt, and black pepper to the pan and sauté for 1 minute.",
+    "3. Add spinach and tomatoes to the pan and sauté for 2-3 minutes.",
+    "4. Add quinoa to the pan and stir well to combine with the spices and vegetables.",
+    "5. Cook for 2-3 minutes until the quinoa is lightly toasted.",
+    "6. Add 1 cup water to the pan and bring to a boil.",
+    "7. Reduce heat to low, cover the pan, and simmer for 15-20 minutes until the quinoa is cooked.",
+    "8. Meanwhile, toast the British scones.",
+    "9. To serve, place the cooked quinoa mixture on top of the toasted scones.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "indian-breakfast",
+    "quinoa-recipe",
+    "scones-recipe",
+    "nourishing-recipe"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-british-quinoa-scones--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:25:26.984Z"
+}
