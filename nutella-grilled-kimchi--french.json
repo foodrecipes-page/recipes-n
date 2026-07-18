@@ -1,0 +1,59 @@
+{
+  "slug": "nutella-grilled-kimchi--french",
+  "title": "Nutella Kimchi Tartine",
+  "description": "A unique French-inspired dessert combining the richness of Nutella with the spicy kick of kimchi, perfect for adventurous eaters.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Nutella",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grilled kimchi",
+      "amount": "1 tablespoon, crumbled"
+    },
+    {
+      "name": "Baguette",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "a few leaves"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Toast the baguette slice until lightly browned.",
+    "2. Spread 1 tablespoon of Nutella on the toasted baguette.",
+    "3. Top the Nutella with 1 tablespoon of crumbled grilled kimchi.",
+    "4. Garnish with a few fresh mint leaves.",
+    "5. Drizzle 1 teaspoon of honey over the top.",
+    "6. Serve immediately and enjoy the spicy-sweet combination."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "dessert",
+    "nutella",
+    "kimchi"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutella-grilled-kimchi--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:28:45.600Z"
+}
