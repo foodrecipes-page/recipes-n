@@ -1,0 +1,55 @@
+{
+  "slug": "nutty-chewy-solo-dinner-russet-potato-stir-fry",
+  "title": "Crispy Solo Fry Bites",
+  "description": "A delicious and crispy potato snack, perfect for munching on the go.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "solo",
+      "amount": "2 large",
+      "notes": "for mashing"
+    },
+    {
+      "name": "russet",
+      "amount": "1 large",
+      "notes": "for frying"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oil to 350°F (175°C) in a deep fryer or large pot.",
+    "Peel and chop the russet potato into 1-inch cubes.",
+    "Heat the oil and carefully add the potato cubes in batches to avoid overcrowding.",
+    "Fry for 3-4 minutes, or until golden brown, and drain on paper towels.",
+    "Mash the solo potatoes with a fork to create a chunky texture.",
+    "Serve the crispy potato bites with a dollop of mashed solo potato on top, garnished with chopped nutty."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "potato",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-chewy-solo-dinner-russet-potato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:58:20.147Z"
+}
