@@ -1,0 +1,98 @@
+{
+  "slug": "nutrient-rich-chewy-argentinian-beef-asado",
+  "title": "Argentinian Beef Asado",
+  "description": "A classic Argentinian dish featuring slow-cooked beef in a rich and savory sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (Asado Cut)",
+      "amount": "1.5 kg",
+      "notes": "such as flank steak or skirt steak"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chimichurri",
+      "amount": "250ml",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Rich Beef Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nutrient-Rich Chimol (Argentinian Herb Mix)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chewy Chorizo",
+      "amount": "2 sausages",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill or grill pan to medium-high heat.",
+    "Season the beef with salt, black pepper, and Nutrient-Rich Chimol.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Sear the beef on both sides until browned, about 2-3 minutes per side.",
+    "Transfer the beef to a plate and set aside.",
+    "Add the minced garlic and red pepper flakes to the pot and cook for 1 minute.",
+    "Add the Rich Beef Broth and Chimichurri to the pot, scraping up any browned bits.",
+    "Return the beef to the pot and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 2-3 hours, or until the beef is tender.",
+    "If using chorizo, add it to the pot for the last 30 minutes of cooking.",
+    "Let the beef rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "asado",
+    "grill",
+    "latin-american",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutrient-rich-chewy-argentinian-beef-asado",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:58:19.371Z"
+}
