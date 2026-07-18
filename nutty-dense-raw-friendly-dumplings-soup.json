@@ -1,0 +1,69 @@
+{
+  "slug": "nutty-dense-raw-friendly-dumplings-soup",
+  "title": "Dumpling Soup",
+  "description": "A comforting and easy-to-make soup filled with nutty dumplings.",
+  "cuisine": null,
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "1 cup",
+      "notes": "adds nutty flavor"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Raw carrots",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Dumplings",
+      "amount": "",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Friendly herbs",
+      "amount": "",
+      "notes": "such as parsley or thyme"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine vegetable broth and raw carrots. Bring to a boil over high heat.",
+    "Reduce heat to medium-low and simmer for 10 minutes.",
+    "In a separate bowl, whisk together all-purpose flour and whole wheat flour.",
+    "Gradually add the dry mixture to the pot, stirring constantly to prevent lumps.",
+    "Continue to simmer for an additional 10 minutes.",
+    "Add dumplings to the pot and cook for 5 minutes, or until they float to the surface.",
+    "Season with friendly herbs and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "comfort-food",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-dense-raw-friendly-dumplings-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:42:01.939Z"
+}
