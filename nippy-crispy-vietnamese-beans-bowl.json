@@ -1,0 +1,75 @@
+{
+  "slug": "nippy-crispy-vietnamese-beans-bowl",
+  "title": "Crispy Vietnamese Bean Bowl",
+  "description": "A flavorful and nutritious bowl dish that combines the crunch of crispy noodles with the savory taste of Vietnamese-style beans.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "nippy beans",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "crispy noodles",
+      "amount": "1 cup",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "vietnamese rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "bean oil",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Cook the nippy beans according to package instructions.",
+    "In a large pan, heat the bean oil over medium heat.",
+    "Add the crispy noodles and cook, stirring frequently, until crispy and golden brown.",
+    "In a large bowl, combine the cooked nippy beans, crispy noodles, bean sprouts, and vietnamese rice vinegar.",
+    "Season with salt to taste.",
+    "Serve the bean mixture in a bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bean-bowl",
+    "vietnamese-cuisine",
+    "lunch-ideas"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nippy-crispy-vietnamese-beans-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:33:51.393Z"
+}
