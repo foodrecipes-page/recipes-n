@@ -18690,5 +18690,19 @@
     "cuisine": "indian",
     "totalTimeMin": 22,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-fluffy-kenyana-banane-pate--vegetarian",
+    "title": "Banana Pate Breakfast Toast",
+    "tags": [
+      "breakfast",
+      "toasted-bread",
+      "banana",
+      "nutty-pate",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 7,
+    "shard": "n"
   }
 ]
