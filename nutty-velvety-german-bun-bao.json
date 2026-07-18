@@ -1,0 +1,82 @@
+{
+  "slug": "nutty-velvety-german-bun-bao",
+  "title": "Nutty German Bao",
+  "description": "Soft, fluffy bao filled with a sweet and crunchy German-inspired nut filling.",
+  "cuisine": "Asian-German fusion",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 package",
+      "notes": "store-bought cream cheese frosting"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 cup",
+      "notes": "chopped hazelnuts or pecans"
+    },
+    {
+      "name": "german",
+      "amount": "1 cup",
+      "notes": "chopped pretzels"
+    },
+    {
+      "name": "bun",
+      "amount": "4"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour and warm water to form a dough.",
+    "2. Knead the dough for 10 minutes until smooth and elastic.",
+    "3. Divide the dough into 4 equal pieces and shape into balls.",
+    "4. Flatten each ball into a disk and place a tablespoon of sugar in the center.",
+    "5. Fold the dough over the sugar to form a bun shape.",
+    "6. Place the buns on a baking sheet lined with parchment paper.",
+    "7. Bake the buns in a preheated oven at 375°F (190°C) for 15-20 minutes.",
+    "8. While the buns are baking, mix together the velvety and nutty ingredients in a bowl.",
+    "9. Once the buns are done, let them cool for 5 minutes before slicing in half.",
+    "10. Spread a layer of the velvety mixture on the bottom half of each bun.",
+    "11. Top with the top half of the bun.",
+    "12. Drizzle with a little bit of german glaze (store-bought or homemade)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "bao",
+    "snack",
+    "asian-fusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-velvety-german-bun-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:14:37.259Z"
+}
