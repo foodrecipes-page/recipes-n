@@ -16538,17 +16538,14 @@
   },
   {
     "slug": "nutty-tender-australian-lamb-kebabs",
-    "title": "Nutty Tender Australian Lamb Kebabs",
+    "title": "Grilled Australian Lamb Kebabs",
     "tags": [
-      "australian",
-      "lamb",
-      "kebabs",
-      "mixed-spice",
-      "toasted-almonds",
+      "lamb-kebabs",
+      "australian-cuisine",
       "grilled"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 40,
+    "cuisine": "australian",
+    "totalTimeMin": 36,
     "shard": "n"
   },
   {
