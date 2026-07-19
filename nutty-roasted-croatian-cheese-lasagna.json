@@ -1,0 +1,78 @@
+{
+  "slug": "nutty-roasted-croatian-cheese-lasagna",
+  "title": "Croatian Cheese Lasagna",
+  "description": "A hearty Italian-inspired dish with a Croatian twist, featuring nutty flavors from the cheese and roasted goodness from the lasagna.",
+  "cuisine": "italian-croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "roasted cheese",
+      "amount": "8 oz, shredded"
+    },
+    {
+      "name": "nutty cheese",
+      "amount": "8 oz, shredded"
+    },
+    {
+      "name": "croatian cheese",
+      "amount": "8 oz, crumbled"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup, grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna according to package instructions.",
+    "In a large mixing bowl, combine roasted cheese and nutty cheese.",
+    "In a separate bowl, whisk together eggs, parmesan cheese, salt, and black pepper.",
+    "Spread a layer of cheese mixture on the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagna sheets on top of the cheese mixture.",
+    "Spread half of the egg mixture over the lasagna sheets.",
+    "Sprinkle with half of the crumbled croatian cheese.",
+    "Repeat the layers: cheese mixture, lasagna sheets, egg mixture, and croatian cheese.",
+    "Top with shredded parmesan cheese.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Let it rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "croatian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-roasted-croatian-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:32:01.166Z"
+}
