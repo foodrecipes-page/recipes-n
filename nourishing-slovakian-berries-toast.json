@@ -1,0 +1,67 @@
+{
+  "slug": "nourishing-slovakian-berries-toast",
+  "title": "Berry Toast Slovakian Delight",
+  "description": "A simple Slovakian-inspired breakfast or brunch recipe featuring toasted bread topped with fresh berries and a hint of nourishing goodness.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Slovakian bread",
+      "amount": "1 slice",
+      "notes": ""
+    },
+    {
+      "name": "Mixed berries",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Nourishing yogurt",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Almond butter",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    " Toast the Slovakian bread until lightly browned.",
+    "Spread 1 tsp of almond butter on top of the toasted bread.",
+    "Top the almond butter with 6 oz of nourishing yogurt.",
+    "Add 1 cup of mixed berries on top of the yogurt.",
+    "Drizzle 1 tsp of honey over the berries.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "slovakian",
+    "berries"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-slovakian-berries-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:49:11.672Z"
+}
