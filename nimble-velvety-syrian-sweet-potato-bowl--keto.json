@@ -1,0 +1,64 @@
+{
+  "slug": "nimble-velvety-syrian-sweet-potato-bowl--keto",
+  "title": "Syrian Sweet Potato Bowl",
+  "description": "A keto-friendly dish featuring roasted sweet potatoes and a side of velvety sauce.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "velvety",
+      "amount": "1/4 cup",
+      "notes": "sauce (keto-friendly)"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 tsp",
+      "notes": "spice blend"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "(for serving)"
+    },
+    {
+      "name": "potato",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the sweet potatoes with 1 tsp of Syrian spice blend and roast for 20 minutes.",
+    "Meanwhile, heat 1/4 cup of velvety sauce in a pan over low heat.",
+    "Serve the roasted sweet potatoes in a bowl and top with the warm velvety sauce.",
+    "Optional: add any desired toppings such as chopped herbs or a dollop of sour cream."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "breakfast",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-velvety-syrian-sweet-potato-bowl--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:33:23.281Z"
+}
