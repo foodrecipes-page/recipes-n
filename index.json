@@ -14123,17 +14123,13 @@
   },
   {
     "slug": "nutty-gooey-slovakian-clotted-cream-ssam-wrap",
-    "title": "nutty gooey slovakian clotted cream ssam-wrap",
+    "title": "Slovakian Ssäm",
     "tags": [
-      "breakfast",
-      "easy-to-make",
-      "gluten-free",
-      "slovakian",
-      "snack",
-      "vegetarian",
-      "weeknight"
+      "korean-bbq",
+      "slovakian-food",
+      "ssam-wrap"
     ],
-    "cuisine": "slovakian",
+    "cuisine": "Slavic",
     "totalTimeMin": 25,
     "shard": "n"
   },
@@ -15172,18 +15168,16 @@
   },
   {
     "slug": "nutty-north-african-moroccan-eggplant-tagine",
-    "title": "Nutty North African Moroccan Eggplant Tagine",
+    "title": "African Eggplant Tagine",
     "tags": [
-      "eggs-optional",
-      "high-fiber",
+      "north-african",
       "moroccan",
-      "one-pan",
-      "vegan-option",
       "vegetarian",
-      "weeknight"
+      "stew",
+      "eggplant"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 55,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -19058,6 +19052,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-rich-german-egg-yolk-custard--chinese",
+    "title": "Custard Egg Tart (Chinese-Style Egg Custard Tart)",
+    "tags": [
+      "chinese",
+      "dessert",
+      "egg",
+      "custard",
+      "tart"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 50,
     "shard": "n"
   }
 ]
