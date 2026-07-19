@@ -1,0 +1,94 @@
+{
+  "slug": "nutty-springy-italian-shrimp-ravioli--french",
+  "title": "French Spring Shrimp Ravioli",
+  "description": "A French-inspired dish featuring springy ravioli and succulent shrimp, cooked with a nutty flavor.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "12 oz",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Spring Ravioli",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Nutty Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spring ravioli according to package instructions.",
+    "In a large skillet, melt 1 tablespoon of butter over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of butter to the skillet and melt.",
+    "Add the white wine and Italian seasoning to the skillet and cook for 1-2 minutes until the liquid has reduced.",
+    "Add the cooked ravioli to the skillet and toss with the sauce.",
+    "Return the shrimp to the skillet and toss with the ravioli and sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, topped with grated nutty parmesan cheese and chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "ravioli",
+    "french",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-springy-italian-shrimp-ravioli--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:15:41.239Z"
+}
