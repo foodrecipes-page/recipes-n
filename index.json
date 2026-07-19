@@ -10049,18 +10049,16 @@
   },
   {
     "slug": "nutritious-energizing-andalusian-chestnut-mushroom-paella",
-    "title": "Nutritious Energizing Andalusian Chestnut Mushroom Paella",
+    "title": "Andalusian Paella with Mushroom and Chestnut",
     "tags": [
-      "diabetic-friendly",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "spanish",
-      "vegetarian",
-      "weeknight"
+      "andalusian",
+      "mushroom",
+      "chestnut",
+      "paella",
+      "vegetarian"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {
@@ -18997,6 +18995,45 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nectarous-venezuelan-pork-stew--keto",
+    "title": "Venezuelan-Style Pork Stew",
+    "tags": [
+      " venezuelan-style",
+      "pork-stew",
+      "keto",
+      "stew"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 170,
+    "shard": "n"
+  },
+  {
+    "slug": "naturally-flaky-australian-chickpeas-flatbread--vegetarian",
+    "title": "Aussie Chickpea Flatbread",
+    "tags": [
+      "australian",
+      "flatbread",
+      "chickpea",
+      "vegetarian"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 22,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-yeasty-vietnamese-doner-meat-pho-ga--vegan",
+    "title": "Vegan Ga Pho",
+    "tags": [
+      "vegan",
+      "vietnamese",
+      "pho",
+      "noodle soup"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "n"
   }
 ]
