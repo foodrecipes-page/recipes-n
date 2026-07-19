@@ -1,0 +1,66 @@
+{
+  "slug": "nice-sweet-malaysian-toffee-popcorn-bowl--french",
+  "title": "French Sweet Crusted Popcorn Bowl",
+  "description": "A unique French-inspired dessert featuring sweet and crunchy popcorn in a delicate bowl.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Popcorn",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Nice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Toffee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Malaysian",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sweet",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1, for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (175°C).",
+    "2. Spread 1 cup of popcorn in a single layer on a baking sheet.",
+    "3. Drizzle the Malaysian and sweet over the popcorn and stir to combine.",
+    "4. Bake for 10 minutes, then stir in the toffee.",
+    "5. Divide the popcorn mixture among the bowls.",
+    "6. Sprinkle with additional toffee and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "popcorn",
+    "toffee",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-sweet-malaysian-toffee-popcorn-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:32:42.334Z"
+}
