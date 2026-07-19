@@ -14837,17 +14837,15 @@
   },
   {
     "slug": "nutty-mellow-french-eggplant-rillettes",
-    "title": "Nutty Mellow French Eggplant Rillettes",
+    "title": "Rillettes and Eggplant Tartine",
     "tags": [
-      "comfort-food",
+      "appetizer",
+      "snack",
       "french",
-      "gluten-free",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "Basque-French",
-    "totalTimeMin": 50,
+    "cuisine": "French",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -16285,16 +16283,15 @@
   },
   {
     "slug": "nutty-spanish-walnut-skillet",
-    "title": "Nutty Spanish Walnut Skillet",
+    "title": "Walnut Skillet Crunch",
     "tags": [
-      "high-fat",
-      "one-pan",
-      "spanish",
-      "walnuts",
-      "weeknight"
+      "snack",
+      "dessert",
+      "crunchy",
+      "nutty"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -19066,6 +19063,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-polish-chickpeas-skillet--thai",
+    "title": "Thai Chickpea Skillet",
+    "tags": [
+      "thai",
+      "chickpeas",
+      "skillet",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "n"
   }
 ]
