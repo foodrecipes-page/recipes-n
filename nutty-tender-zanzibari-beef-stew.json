@@ -1,0 +1,79 @@
+{
+  "slug": "nutty-tender-zanzibari-beef-stew",
+  "title": "Zanzibari Beef Stew",
+  "description": "A hearty and flavorful beef stew infused with the unique flavors of Zanzibari spice. Serve with a side of crusty bread for a comforting meal.",
+  "cuisine": "African",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "tender",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "Zanzibari",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes. Remove from pot.",
+    "Add onion and garlic to pot and cook until onion is translucent, about 5 minutes.",
+    "Add nutty, tender, and Zanzibari spices to pot and cook for 1 minute.",
+    "Add beef broth to pot and stir to combine.",
+    "Return beef to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours, or until beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef stew",
+    "african food",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-tender-zanzibari-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:35:26.654Z"
+}
