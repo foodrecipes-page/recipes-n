@@ -1,0 +1,74 @@
+{
+  "slug": "nutty-mellow-french-eggplant-rillettes",
+  "title": "Rillettes and Eggplant Tartine",
+  "description": "A simple, flavorful appetizer featuring creamy rillettes and roasted eggplant, perfect for a quick snack or light lunch.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "French bread",
+      "amount": "1 baguette, sliced",
+      "notes": null
+    },
+    {
+      "name": "Rillettes",
+      "amount": "6 oz",
+      "notes": null
+    },
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "salted and roasted"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Mellow cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the eggplant into 1/4-inch thick rounds. Place on a baking sheet lined with parchment paper, and sprinkle with salt.",
+    "Roast in the preheated oven for 20-25 minutes, or until tender and lightly browned.",
+    "Meanwhile, toast the sliced French bread until lightly browned.",
+    "Spread a layer of rillettes on each toasted bread slice.",
+    "Top with a roasted eggplant slice, some chopped parsley, and a sprinkle of crumbled mellow cheese.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "snack",
+    "french",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-mellow-french-eggplant-rillettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:04:35.381Z"
+}
