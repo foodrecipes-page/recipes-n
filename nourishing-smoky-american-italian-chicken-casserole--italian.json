@@ -1,0 +1,92 @@
+{
+  "slug": "nourishing-smoky-american-italian-chicken-casserole--italian",
+  "title": "Classic Chicken Italian Casserole",
+  "description": "Hearty and flavorful, this casserole combines tender chicken with the rich flavors of Italy. A perfect comfort food for any occasion.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or similar shape"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium-high. Add garlic and cook for 1 minute.",
+    "Add chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Transfer chicken to a plate and set aside.",
+    "In the same skillet, add marinara sauce and bring to a simmer. Let cook for 2-3 minutes.",
+    "Stir in ricotta cheese and cook until melted and smooth.",
+    "In a large bowl, combine cooked pasta, chicken, and sauce mixture. Season with salt and italian seasoning.",
+    "Transfer the mixture to a baking dish and top with parmesan cheese.",
+    "Bake in preheated oven for 20-25 minutes, or until cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-american-italian-chicken-casserole--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:32:56.977Z"
+}
