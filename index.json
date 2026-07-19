@@ -7212,17 +7212,16 @@
   },
   {
     "slug": "nourishing-savory-japanese-speck-takikomi-gohan",
-    "title": "Nourishing Savory Japanese Speck Takikomi Gohan",
+    "title": "Japanese-Style Speck Takikomi Gohan",
     "tags": [
-      "comfort-food",
-      "japanese-cuisine",
-      "one-pot",
-      "savory",
-      "umami",
-      "weeknight"
+      "japanese",
+      "rice",
+      "speck",
+      "mushrooms",
+      "soy-sauce"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 70,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -18887,6 +18886,18 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 27,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-malty-venezuelan-collards-hash--mexican",
+    "title": "Venezuelan Hash and Collard Greens",
+    "tags": [
+      "mexican",
+      "breakfast",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "n"
   }
 ]
