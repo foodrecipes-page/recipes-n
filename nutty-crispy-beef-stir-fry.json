@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-crispy-beef-stir-fry",
+  "title": "Beef Stir Fry",
+  "description": "A quick and easy beef stir fry recipe made with crispy beef and stir-fried vegetables. Serve as a meal or snack.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Nutty stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Crispy fried onions (optional)",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the chopped green onions and stir-fry for 1 minute.",
+    "Add the nutty stir-fry sauce and stir-fry for an additional 1-2 minutes.",
+    "Return the beef to the skillet and stir-fry for 1-2 minutes, until the sauce is bubbly and the beef is coated.",
+    "Serve hot, garnished with crispy fried onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stir-fry",
+    "easy-dinner",
+    "stir-fry-recipe"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:48:52.625Z"
+}
