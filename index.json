@@ -3752,12 +3752,12 @@
   },
   {
     "slug": "nostalgic-slovakian-galangal-stir-fry",
-    "title": "Nostalgic Slovakian Galangal Stir-fry",
+    "title": "Galangal Paprikas",
     "tags": [
+      "slovakian",
       "galangal",
-      "stir-fry",
-      "umami",
-      "nostalgic"
+      "paprikas",
+      "rye bread"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
@@ -18794,6 +18794,44 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 22,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-cheesy-moroccan-turnip-briouat--french",
+    "title": "Briouat Turnip Fritters",
+    "tags": [
+      "french",
+      "moroccan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 23,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-springy-italian-shrimp-ravioli--french",
+    "title": "French Spring Shrimp Ravioli",
+    "tags": [
+      "shrimp",
+      "ravioli",
+      "french",
+      "spring"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-german-chicken-casserole--chinese",
+    "title": "German Chicken Casserole",
+    "tags": [
+      "german-chicken-casserole",
+      "chinese-fusion",
+      "weeknight-dinner"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 50,
     "shard": "n"
   }
 ]
