@@ -1,0 +1,72 @@
+{
+  "slug": "nutty-gooey-slovakian-clotted-cream-ssam-wrap",
+  "title": "Slovakian Ssäm",
+  "description": "A twist on traditional Korean BBQ, this recipe combines the flavors of Slovakia with the convenience of a ssäm.",
+  "cuisine": "Slavic",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian sausage",
+      "amount": "1 pound",
+      "notes": "Look for a vegetarian alternative if needed"
+    },
+    {
+      "name": "Ssam wrap",
+      "amount": "4-6",
+      "notes": "You can also use traditional Korean rice cakes"
+    },
+    {
+      "name": "Clotted cream",
+      "amount": "1/2 cup",
+      "notes": "For serving with the sausage"
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1/4 cup",
+      "notes": "For drizzling over the sausage"
+    },
+    {
+      "name": "Nutty slaw",
+      "amount": "1 cup",
+      "notes": "Shredded carrots and cabbage with a hint of caraway seeds"
+    },
+    {
+      "name": "Wrap spread",
+      "amount": "2 tablespoons",
+      "notes": "A mixture of sour cream and chopped fresh dill"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Slice the Slovakian sausage into 1/4-inch thick rounds.",
+    "3. Grill the sausage for 2-3 minutes per side, or until cooked through.",
+    "4. Meanwhile, toast the ssäm wraps by grilling them for 30 seconds to 1 minute.",
+    "5. Assemble the ssäm by spreading a layer of wrap spread on each wrap, followed by a few slices of sausage, some nutty slaw, and a dollop of clotted cream.",
+    "6. Drizzle the gooey cheese over the top of each ssäm.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean-bbq",
+    "slovakian-food",
+    "ssam-wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-gooey-slovakian-clotted-cream-ssam-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:45:05.288Z"
+}
