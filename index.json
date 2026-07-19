@@ -3724,16 +3724,14 @@
   },
   {
     "slug": "nostalgic-peppery-mexican-wensleydale-mole-poblano",
-    "title": "Nostalgic Peppery Mexican Wensleydale Mole Poblano",
+    "title": "Poblano and Mole Stuffed Wensleydale",
     "tags": [
-      "crisp",
-      "lazy-sunday",
       "mexican",
-      "mole-poblano",
-      "peppery",
+      "cheese",
+      "vegetarian",
       "wensleydale"
     ],
-    "cuisine": "Mexican",
+    "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "n"
   },
@@ -7562,17 +7560,15 @@
   },
   {
     "slug": "nourishing-slovakian-berries-toast",
-    "title": "Nourishing Slovakian Berries Toast",
+    "title": "Berry Toast Slovakian Delight",
     "tags": [
-      "berry-recipes",
-      "breakfast-recipe",
-      "easy-meals",
-      "lacto-vegetarian",
-      "romantic-breakfast",
-      "slovakian-cuisine"
+      "breakfast",
+      "brunch",
+      "slovakian",
+      "berries"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 7,
     "shard": "n"
   },
   {
@@ -19076,6 +19072,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-pillowy-vietnamese-semolina-pho--german",
+    "title": "Nourishing German Semolina Pudding",
+    "tags": [
+      "german",
+      "semolina",
+      "pudding",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "n"
   }
 ]
