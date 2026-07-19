@@ -1,0 +1,73 @@
+{
+  "slug": "nutty-crumbly-thai-lamb-curry--gluten-free",
+  "title": "Lamb and Thai Curry",
+  "description": "A flavorful and aromatic lamb curry inspired by the spices of Thailand. This gluten-free dish is perfect for a cozy dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1.5 pounds boneless leg, cut into 1-inch cubes"
+    },
+    {
+      "name": "nutty curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "thai red curry sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crumbly coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Heat the coconut oil in a large pan over medium-high heat.",
+    "2. Add the lamb and cook until browned, about 5 minutes.",
+    "3. Add the curry paste and cook, stirring constantly, for 1 minute.",
+    "4. Add the coconut milk, curry sauce, fish sauce, and brown sugar. Stir to combine.",
+    "5. Bring the mixture to a simmer and cook, covered, for 20 minutes.",
+    "6. Season the curry with salt and pepper to taste.",
+    "7. Garnish with chopped cilantro and serve over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crumbly-thai-lamb-curry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:26:48.333Z"
+}
