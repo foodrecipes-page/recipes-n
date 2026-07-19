@@ -1,0 +1,77 @@
+{
+  "slug": "nutty-yeasty-vietnamese-doner-meat-pho-ga--vegan",
+  "title": "Vegan Ga Pho",
+  "description": "A vegan version of the popular Vietnamese noodle soup, featuring a flavorful and spicy broth made with a variety of mushrooms and served with soft and chewy rice noodles.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pho",
+      "amount": "2 cups",
+      "notes": "Vegan pho broth mix"
+    },
+    {
+      "name": "ga (Vegan beef substitute)",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tablespoons",
+      "notes": " Toasted and ground"
+    },
+    {
+      "name": "yeasty",
+      "amount": "1 teaspoon",
+      "notes": "Active dry yeast"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1 teaspoon",
+      "notes": "Ground ginger"
+    },
+    {
+      "name": "doner",
+      "amount": "1 cup",
+      "notes": "Sliced mushrooms"
+    },
+    {
+      "name": "meat",
+      "amount": "1/4 cup",
+      "notes": "Sliced vegan meat substitute"
+    }
+  ],
+  "instructions": [
+    "Combine vegan pho broth mix, toasted and ground nutty, active dry yeast, and ground ginger in a large pot.",
+    "Bring the mixture to a boil, then reduce the heat to a simmer.",
+    "Add sliced mushrooms and vegan meat substitute to the pot.",
+    "Simmer for 10 minutes, or until the flavors have melded together.",
+    "Cook rice noodles according to package instructions.",
+    "Serve the noodles in bowls and ladle the hot broth over the top.",
+    "Garnish with sliced green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "vietnamese",
+    "pho",
+    "noodle soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-yeasty-vietnamese-doner-meat-pho-ga--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:03:07.918Z"
+}
