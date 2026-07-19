@@ -5262,18 +5262,15 @@
   },
   {
     "slug": "nourishing-dense-kenyan-lentil-curry",
-    "title": "Nourishing Dense Kenyan Lentil Curry",
+    "title": "Kenyan Lentil Stew",
     "tags": [
-      "curry",
-      "dense",
-      "kenyan-cuisine",
-      "lacto-vegetarian",
-      "lentil",
-      "monsoon",
-      "nourishing"
+      "lentils",
+      "stew",
+      "kenyan",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "kenyan",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -19033,6 +19030,33 @@
       "noodle soup"
     ],
     "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-american-italian-chicken-casserole--italian",
+    "title": "Classic Chicken Italian Casserole",
+    "tags": [
+      "italian",
+      "chicken",
+      "casserole",
+      "comfort-food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-silky-thai-chicken-curry--mexican",
+    "title": "Creamy Thai Chicken Tacos",
+    "tags": [
+      "mexican",
+      "thai",
+      "chicken",
+      "curry",
+      "tacos"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "n"
   }
