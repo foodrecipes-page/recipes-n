@@ -11981,15 +11981,14 @@
   },
   {
     "slug": "nutty-creamy-japanese-corn-stir-fry",
-    "title": "Nutty Creamy Japanese Corn Stir-fry",
+    "title": "Japanese-Style Stir Fry",
     "tags": [
-      "nutty",
-      "creamy",
       "japanese",
-      "snack"
+      "vegetarian",
+      "quick"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
     "shard": "n"
   },
   {
@@ -16679,10 +16678,14 @@
   },
   {
     "slug": "nutty-tender-zanzibari-beef-stew",
-    "title": "Nutty Tender Zanzibari Beef Stew",
-    "tags": [],
-    "cuisine": "Kenyan",
-    "totalTimeMin": null,
+    "title": "Zanzibari Beef Stew",
+    "tags": [
+      "beef stew",
+      "african food",
+      "comfort food"
+    ],
+    "cuisine": "African",
+    "totalTimeMin": 135,
     "shard": "n"
   },
   {
@@ -19118,6 +19121,18 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crumbly-thai-lamb-curry--gluten-free",
+    "title": "Lamb and Thai Curry",
+    "tags": [
+      "gluten-free",
+      "lamb",
+      "thai-curry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
     "shard": "n"
   }
 ]
