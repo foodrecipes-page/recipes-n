@@ -1,0 +1,77 @@
+{
+  "slug": "nourishing-malty-venezuelan-collards-hash--mexican",
+  "title": "Venezuelan Hash and Collard Greens",
+  "description": "A hearty Mexican-inspired dish featuring crispy Venezuelan hash and sautéed collard greens.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Venezuelan hash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Collard greens",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Malty flour tortillas",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped garlic and cook for 1-2 minutes until fragrant.",
+    "Add the chopped collard greens and cook until wilted, about 5 minutes.",
+    "Add the Venezuelan hash to the skillet and stir to combine with the collard greens.",
+    "Season with cumin, salt, and black pepper to taste.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the dish by placing a portion of the hash and collard greens onto a tortilla and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "breakfast",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-malty-venezuelan-collards-hash--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:33:05.356Z"
+}
