@@ -1,0 +1,78 @@
+{
+  "slug": "naturally-flaky-australian-chickpeas-flatbread--vegetarian",
+  "title": "Aussie Chickpea Flatbread",
+  "description": "A flavorful and crunchy flatbread topped with a mix of Australian chickpeas, a hint of spice, and a sprinkle of fresh herbs.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Naturally flaky flatbread",
+      "amount": "2 pieces",
+      "notes": "split into quarters"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped fresh herbs (parsley and cilantro)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the flatbread into quarters.",
+    "In a bowl, mix together chickpeas, olive oil, garlic, salt, and pepper.",
+    "Arrange flatbread quarters on a baking sheet.",
+    "Spoon the chickpea mixture onto the flatbread.",
+    "Bake for 10-12 minutes or until the flatbread is crispy.",
+    "Remove from the oven and sprinkle with chopped fresh herbs.",
+    "Drizzle with lemon juice and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "flatbread",
+    "chickpea",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-flaky-australian-chickpeas-flatbread--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:48:28.388Z"
+}
