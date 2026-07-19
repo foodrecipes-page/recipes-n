@@ -12273,17 +12273,14 @@
   },
   {
     "slug": "nutty-crispy-beef-stir-fry",
-    "title": "Nutty Crispy Beef Stir-fry",
+    "title": "Beef Stir Fry",
     "tags": [
-      "nutty",
-      "crispy",
-      "light",
-      "beef",
-      "stir-fry",
-      "vegan"
+      "beef-stir-fry",
+      "easy-dinner",
+      "stir-fry-recipe"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 42,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -18895,6 +18892,18 @@
       "vegetarian"
     ],
     "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nimble-velvety-syrian-sweet-potato-bowl--keto",
+    "title": "Syrian Sweet Potato Bowl",
+    "tags": [
+      "keto",
+      "breakfast",
+      "middle eastern"
+    ],
+    "cuisine": "middle eastern",
     "totalTimeMin": 25,
     "shard": "n"
   }
