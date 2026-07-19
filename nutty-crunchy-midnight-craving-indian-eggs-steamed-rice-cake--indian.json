@@ -1,0 +1,66 @@
+{
+  "slug": "nutty-crunchy-midnight-craving-indian-eggs-steamed-rice-cake--indian",
+  "title": "Midnight Rice Cakes",
+  "description": "A classic Indian recipe made with steamed rice, eggs, and various spices. Perfect for a midnight snack or dessert.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Indian",
+      "amount": "1 tsp ground cumin",
+      "notes": "use fresh cumin for best flavor"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1/2 cup chopped nuts",
+      "notes": "your choice of nuts"
+    },
+    {
+      "name": "Steamed",
+      "amount": "2 tbsp olive oil",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the cooked rice and cumin. Mix well.",
+    "Add the chopped nuts and mix until well combined.",
+    "In a separate bowl, whisk the eggs until they are well beaten.",
+    "Add the eggs to the rice mixture and mix until everything is well combined.",
+    "Heat the olive oil in a non-stick pan over medium heat.",
+    "Drop the rice mixture by spoonfuls into the pan and flatten slightly.",
+    "Cook for 3-4 minutes on each side, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "rice",
+    "cakes",
+    "midnight",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crunchy-midnight-craving-indian-eggs-steamed-rice-cake--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:23:08.944Z"
+}
