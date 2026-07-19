@@ -19105,5 +19105,19 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "n"
+  },
+  {
+    "slug": "nutritious-canadian-rice-pilaf--chinese",
+    "title": "Savory Canadian Pilaf",
+    "tags": [
+      "chinese",
+      "canadian",
+      "rice",
+      "pilaf",
+      "sides"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "n"
   }
 ]
