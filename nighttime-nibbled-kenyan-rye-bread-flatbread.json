@@ -1,0 +1,54 @@
+{
+  "slug": "nighttime-nibbled-kenyan-rye-bread-flatbread",
+  "title": "Kenyan Rye Bread Flatbread",
+  "description": "A simple recipe to make a delicious Kenyan-inspired flatbread using rye bread.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Slice the rye bread into thin pieces.",
+    "3. Brush the bread pieces with water.",
+    "4. Sprinkle salt over the bread pieces if desired.",
+    "5. Bake the bread pieces in the oven for 10-12 minutes, or until crispy.",
+    "6. Remove the bread pieces from the oven and let them cool.",
+    "7. Serve the Kenyan rye bread flatbread warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "rye-bread",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nighttime-nibbled-kenyan-rye-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:09:42.046Z"
+}
