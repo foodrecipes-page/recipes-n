@@ -1,0 +1,88 @@
+{
+  "slug": "nutty-pillowy-ukrainian-chicken-pilaf",
+  "title": "Ukrainian Chicken Pilaf",
+  "description": "A hearty, comforting pilaf dish filled with chicken, herbs, and nutty undertones. Perfect for a chilly evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Nutty",
+      "amount": "2 tablespoons",
+      "notes": "Chopped nuts such as almonds or walnuts"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-6 minutes. Remove from skillet and set aside.",
+    "Add onion and garlic to skillet and cook until onion is translucent, about 3-4 minutes.",
+    "Add pilaf, thyme, salt, and pepper to skillet. Stir to combine.",
+    "Add chicken broth to skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until liquid is absorbed.",
+    "Stir in chicken and cook until heated through.",
+    "Garnish with chopped nuts and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "chicken",
+    "pilaf",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-pillowy-ukrainian-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:28:32.814Z"
+}
