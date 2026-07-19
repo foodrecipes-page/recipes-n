@@ -1,0 +1,87 @@
+{
+  "slug": "nutty-molten-vietnamese-chicken-bun-cha--indian",
+  "title": "Indian-Style Chicken Cha",
+  "description": "This recipe combines the flavors of India with the comfort of a cha, a Vietnamese sandwich.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "nutty curry sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "molten sauce",
+      "amount": "1 tablespoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vietnamese bun",
+      "amount": "4-6 buns",
+      "notes": "split in half"
+    },
+    {
+      "name": "cha sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken with salt and pepper.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing it thinly.",
+    "Assemble the cha by spreading nutty curry sauce on the bottom bun, followed by sliced chicken, molten sauce, cha sauce, green onions, cucumber, pickled carrots, and cilantro.",
+    "Top with the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vietnamese",
+    "grilled-chicken",
+    "cha"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-molten-vietnamese-chicken-bun-cha--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:14:47.996Z"
+}
