@@ -1,0 +1,76 @@
+{
+  "slug": "nutritious-energizing-andalusian-chestnut-mushroom-paella",
+  "title": "Andalusian Paella with Mushroom and Chestnut",
+  "description": "A vegetarian paella recipe inspired by the flavors of Andalusia, featuring sautéed mushrooms and chestnuts.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Andalusian paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "Chestnuts",
+      "amount": "1 cup",
+      "notes": "canned, drained"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can, diced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the sliced mushrooms and sauté until they release their liquid and start to brown.",
+    "Add the chestnuts, diced tomato, and vegetable broth.",
+    "Bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the Andalusian paella rice and stir to combine.",
+    "Cook for an additional 10-15 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "andalusian",
+    "mushroom",
+    "chestnut",
+    "paella",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-energizing-andalusian-chestnut-mushroom-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:46:19.293Z"
+}
