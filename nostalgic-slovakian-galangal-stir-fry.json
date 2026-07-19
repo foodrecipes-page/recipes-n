@@ -1,0 +1,87 @@
+{
+  "slug": "nostalgic-slovakian-galangal-stir-fry",
+  "title": "Galangal Paprikas",
+  "description": "A twist on traditional Slovakian paprikas with the addition of galangal for a unique flavor. This hearty dish is perfect for a chilly evening.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Galangal",
+      "amount": "2 inches",
+      "notes": "Peel and slice"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 cup",
+      "notes": "Slovakian-style"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Rye bread",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the sliced galangal and cook for 2 minutes.",
+    "Add the paprika, caraway seeds, salt, and pepper.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add the sour cream and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve with rye bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "galangal",
+    "paprikas",
+    "rye bread"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-slovakian-galangal-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:25:22.457Z"
+}
