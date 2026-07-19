@@ -1,0 +1,81 @@
+{
+  "slug": "nutritious-canadian-rice-pilaf--chinese",
+  "title": "Savory Canadian Pilaf",
+  "description": "A flavorful side dish with the crunch of Canadian ingredients and the warmth of Chinese spices.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "nutritious rice",
+      "amount": "1 cup",
+      "notes": "short-grain"
+    },
+    {
+      "name": "Canadian pilaf",
+      "amount": "1 cup",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Add the cooked Canadian pilaf, soy sauce, and stir-fry for 2-3 minutes.",
+    "Add the nutritious rice and stir-fry for another 2-3 minutes.",
+    "Transfer the mixture to a serving dish and garnish with chopped green onions.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "canadian",
+    "rice",
+    "pilaf",
+    "sides"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 7,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-canadian-rice-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:15:54.052Z"
+}
