@@ -1,0 +1,87 @@
+{
+  "slug": "nourishing-silky-thai-chicken-curry--mexican",
+  "title": "Creamy Thai Chicken Tacos",
+  "description": "A twist on traditional Mexican tacos, this recipe combines the flavors of Thailand with the comfort of a warm taco shell.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Thai red or green"
+    },
+    {
+      "name": "nourishing coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "silky olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "taco shells",
+      "amount": "8-10",
+      "notes": "corn"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5-6 minutes.",
+    "Add the curry paste and cook for 1-2 minutes, until fragrant.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce heat to low and let cook for 5-7 minutes, until the chicken is cooked through.",
+    "Warm the taco shells according to package instructions.",
+    "Assemble the tacos by placing the chicken mixture onto a shell, followed by a spoonful of sour cream and shredded cheese.",
+    "Garnish with chopped cilantro and serve with lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "thai",
+    "chicken",
+    "curry",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-silky-thai-chicken-curry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:51:57.474Z"
+}
