@@ -1,0 +1,71 @@
+{
+  "slug": "nourishing-pillowy-vietnamese-semolina-pho--german",
+  "title": "Nourishing German Semolina Pudding",
+  "description": "A comforting dessert made with semolina flour and a touch of Vietnamese inspiration. This nourishing treat is perfect for a cold winter's night.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pho spice blend",
+      "amount": "1 tsp",
+      "notes": "Vietnamese pho spice blend for added depth"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, whisk together semolina flour and sugar.",
+    "Gradually add in milk, whisking constantly to avoid lumps.",
+    "Cook over medium heat, stirring constantly, until mixture thickens.",
+    "Remove from heat and stir in eggs and vanilla extract.",
+    "Pour mixture into a baking dish and bake for 25-30 minutes.",
+    "Remove from oven and allow to cool slightly.",
+    "Serve warm, garnished with a sprinkle of pho spice blend. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "semolina",
+    "pudding",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-pillowy-vietnamese-semolina-pho--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:10:29.204Z"
+}
