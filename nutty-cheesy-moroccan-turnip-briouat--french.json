@@ -1,0 +1,72 @@
+{
+  "slug": "nutty-cheesy-moroccan-turnip-briouat--french",
+  "title": "Briouat Turnip Fritters",
+  "description": "A French-inspired twist on traditional Moroccan briouats, these fritters are crispy on the outside and tender on the inside with a delicious turnip and cheese filling.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "turnip",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup",
+      "notes": "chopped almonds"
+    },
+    {
+      "name": "cheesy",
+      "amount": "1/2 cup",
+      "notes": "grated Gruyère"
+    },
+    {
+      "name": "moroccan",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose gluten-free flour"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated turnip, chopped almonds, grated Gruyère, ground cumin, and 1/2 cup all-purpose gluten-free flour.",
+    "Mix well to combine.",
+    "Add a pinch of salt to taste.",
+    "In a separate bowl, whisk together 1 egg and a splash of water.",
+    "Add the egg mixture to the turnip mixture and mix until a dough forms.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Shape each piece into a ball and then flatten slightly into a disk shape.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few of the turnip disks to the skillet (do not overcrowd).",
+    "Fry the briouat fritters for about 3-4 minutes on each side, or until golden brown and crispy.",
+    "Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "moroccan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 11
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-cheesy-moroccan-turnip-briouat--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:08:54.945Z"
+}
