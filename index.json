@@ -18973,5 +18973,30 @@
     "cuisine": "malaysian",
     "totalTimeMin": 22,
     "shard": "n"
+  },
+  {
+    "slug": "naturally-sweet-brazilian-feta-pudding--italian",
+    "title": "Tiramisù Pudding",
+    "tags": [
+      "italian-dessert",
+      "coffee-dessert",
+      "tiramisu"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-venezuelan-dates-empanadas--german",
+    "title": "Venezuelan Empanada Stew",
+    "tags": [
+      "german",
+      "stew",
+      "empanada",
+      "dates"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "n"
   }
 ]
