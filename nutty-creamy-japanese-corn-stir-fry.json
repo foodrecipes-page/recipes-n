@@ -1,0 +1,63 @@
+{
+  "slug": "nutty-creamy-japanese-corn-stir-fry",
+  "title": "Japanese-Style Stir Fry",
+  "description": "A quick and easy stir fry recipe inspired by Japanese cuisine. This dish features a nutty flavor profile and can be customized with your favorite vegetables.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nutty stir noodles",
+      "amount": "1 package",
+      "notes": "cook according to package instructions"
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "frozen broccoli",
+      "amount": "1 bag",
+      "notes": "thaw according to package instructions"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the nutty stir noodles and cook according to package instructions.",
+    "In a small bowl, whisk together the creamy sauce and 1 tablespoon of water. Pour the sauce over the noodles and stir to combine.",
+    "Add the frozen broccoli to the skillet and stir to combine with the noodles and sauce.",
+    "Cook for an additional 2-3 minutes, or until the broccoli is tender.",
+    "Stir in the corn kernels and cook for an additional minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-creamy-japanese-corn-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:42:35.868Z"
+}
