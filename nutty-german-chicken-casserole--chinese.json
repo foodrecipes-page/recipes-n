@@ -1,0 +1,83 @@
+{
+  "slug": "nutty-german-chicken-casserole--chinese",
+  "title": "German Chicken Casserole",
+  "description": "A delicious combination of German and Chinese flavors in a hearty casserole. This dish is perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "nutty rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "german sausage",
+      "amount": "1/2 lb",
+      "notes": "such as bratwurst"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "casserole mix",
+      "amount": "1 cup",
+      "notes": "such as cream of mushroom soup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the nutty rice according to package instructions.",
+    "Cut the chicken into bite-sized pieces and season with salt and pepper.",
+    "Heat a large skillet over medium-high heat. Add the german sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and carrots to the skillet and cook until tender, about 5 minutes.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "In a separate bowl, whisk together the soy sauce and oyster sauce (if using).",
+    "Add the cooked rice, chicken mixture, and casserole mix to the bowl. Stir until combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake in the preheated oven for 25-30 minutes, or until hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-chicken-casserole",
+    "chinese-fusion",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-german-chicken-casserole--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:19:05.012Z"
+}
