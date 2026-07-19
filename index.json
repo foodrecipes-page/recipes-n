@@ -18833,5 +18833,60 @@
     "cuisine": "chinese",
     "totalTimeMin": 50,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-crunchy-midnight-craving-indian-eggs-steamed-rice-cake--indian",
+    "title": "Midnight Rice Cakes",
+    "tags": [
+      "indian",
+      "rice",
+      "cakes",
+      "midnight",
+      "snack",
+      "dessert"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "naturally-flaky-australian-chickpeas-flatbread--german",
+    "title": "Australian Meat Pie",
+    "tags": [
+      "german",
+      "meat-pie",
+      "beef",
+      "chicken"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-hangover-cure-dumplings--french",
+    "title": "French Hangover Dumplings",
+    "tags": [
+      "french",
+      "breakfast",
+      "dumplings",
+      "hangover",
+      "cure"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-molten-vietnamese-chicken-bun-cha--indian",
+    "title": "Indian-Style Chicken Cha",
+    "tags": [
+      "indian",
+      "vietnamese",
+      "grilled-chicken",
+      "cha"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 27,
+    "shard": "n"
   }
 ]
