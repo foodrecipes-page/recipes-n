@@ -1,0 +1,72 @@
+{
+  "slug": "nutritious-polish-chickpeas-skillet--thai",
+  "title": "Thai Chickpea Skillet",
+  "description": "A quick and flavorful Thai-inspired skillet dish made with chickpeas, nutritious ingredients, and a hint of polish flair.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "skillet",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "nutritious oil",
+      "amount": "2 tbsp",
+      "notes": "such as coconut or avocado oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add sausage and cook until browned, about 3-4 minutes.",
+    "Remove sausage from skillet and set aside.",
+    "Add onion and garlic to skillet and cook until softened, about 3-4 minutes.",
+    "Stir in chickpeas and cook for an additional 2 minutes.",
+    "Return sausage to skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles.",
+    "Garnish with chopped cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chickpeas",
+    "skillet",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-polish-chickpeas-skillet--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:50:23.978Z"
+}
