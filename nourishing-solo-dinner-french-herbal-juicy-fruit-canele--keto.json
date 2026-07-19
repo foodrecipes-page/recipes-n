@@ -1,0 +1,82 @@
+{
+  "slug": "nourishing-solo-dinner-french-herbal-juicy-fruit-canele--keto",
+  "title": "Keto French Canele",
+  "description": "A keto twist on the classic French pastry, featuring a rich, custard-like filling and a caramelized sugar crust.",
+  "cuisine": "french",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar substitute",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a medium bowl, whisk together almond flour, granulated sugar substitute, and salt.",
+    "In a separate bowl, whisk together eggs, heavy cream, and vanilla extract.",
+    "Add melted butter to the egg mixture and whisk until smooth.",
+    "Add the egg mixture to the almond flour mixture and mix until well combined.",
+    "Pour the batter into a greased and floured canele mold.",
+    "Bake for 15-20 minutes, or until the edges are golden brown.",
+    "Let cool in the mold for 5 minutes before transferring to a wire rack to cool completely.",
+    "Serve warm, dust with powdered sugar if desired.",
+    "Note: Traditionally, canele are baked in copper molds, which gives them a distinctive shape and flavor.",
+    "If you don't have copper molds, you can use a regular muffin tin and adjust the baking time accordingly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "keto",
+    "dinner",
+    "french",
+    "pastry",
+    "canele"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-solo-dinner-french-herbal-juicy-fruit-canele--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:06:35.721Z"
+}
