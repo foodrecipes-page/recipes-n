@@ -1,0 +1,104 @@
+{
+  "slug": "nourishing-savory-japanese-speck-takikomi-gohan",
+  "title": "Japanese-Style Speck Takikomi Gohan",
+  "description": "A Japanese-inspired dish featuring speck, a type of cured ham, paired with takikomi gohan, a flavorful Japanese-style fried rice.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Speck, diced",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cooked Japanese rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Takikomi gohan seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms, sliced",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Gohan",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add diced speck and cook until browned, about 3-4 minutes.",
+    "Add sliced mushrooms and cook until tender, about 3-4 minutes.",
+    "Add cooked Japanese rice, takikomi gohan seasoning, soy sauce, gochujang, and chopped scallions to the skillet.",
+    "Stir-fry the mixture for about 2-3 minutes, breaking up any clumps with a spatula.",
+    "Add cooked gohan to the skillet and stir-fry for another 2-3 minutes.",
+    "Transfer the mixture to a serving dish and garnish with chopped green onions and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "rice",
+    "speck",
+    "mushrooms",
+    "soy-sauce"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-savory-japanese-speck-takikomi-gohan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:28:29.904Z"
+}
