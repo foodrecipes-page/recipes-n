@@ -1,0 +1,86 @@
+{
+  "slug": "nectarous-venezuelan-pork-stew--keto",
+  "title": "Venezuelan-Style Pork Stew",
+  "description": "A hearty, keto-friendly stew made with pork, nectarous, and venezuelan flavors.",
+  "cuisine": "Latin American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "nectarous",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cumin, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Add the nectarous, chopped onion, and browned pork back to the pot.",
+    "Stir to combine, then add 1 cup of beef broth.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until the pork is tender.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    " venezuelan-style",
+    "pork-stew",
+    "keto",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nectarous-venezuelan-pork-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:34:55.432Z"
+}
