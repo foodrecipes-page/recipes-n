@@ -1,0 +1,88 @@
+{
+  "slug": "nutty-indulgent-portuguese-chickpeas-stew",
+  "title": "Chickpea and Sausage Stew",
+  "description": "Hearty and flavorful stew originating from Portugal, made with chickpeas and sausage.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sausage (Chourico)",
+      "amount": "1 pound, sliced",
+      "notes": "Portuguese sausage"
+    },
+    {
+      "name": "Cannellini Beans",
+      "amount": "1 can, drained and rinsed",
+      "notes": "Alternative to chickpeas"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can, drained and rinsed",
+      "notes": "Main ingredient"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups",
+      "notes": "For added moisture"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add sausage and cook until browned, about 5 minutes.",
+    "Remove sausage from pot and set aside.",
+    "Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add chickpeas, tomato paste, red wine, and chicken broth to pot.",
+    "Bring mixture to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Add browned sausage back to pot and simmer for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "chickpeas",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-indulgent-portuguese-chickpeas-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:36:47.603Z"
+}
