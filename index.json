@@ -18906,5 +18906,72 @@
     "cuisine": "middle eastern",
     "totalTimeMin": 25,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-sweet-indian-pumpkin-kheer--keto",
+    "title": "Pumpkin Kheer Keto Pudding",
+    "tags": [
+      "keto",
+      "dessert",
+      "pudding",
+      "pumpkin",
+      "indian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nimble-herbal-steamed-russian-datterini-tomato-borscht--thai",
+    "title": "Thai Datterini and Tomato Stir Fry",
+    "tags": [
+      "thai-cuisine",
+      "vegetarian",
+      "gluten-free",
+      "quick-meal"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-solo-dinner-french-herbal-juicy-fruit-canele--keto",
+    "title": "Keto French Canele",
+    "tags": [
+      "keto",
+      "dinner",
+      "french",
+      "pastry",
+      "canele"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nice-sweet-malaysian-toffee-popcorn-bowl--french",
+    "title": "French Sweet Crusted Popcorn Bowl",
+    "tags": [
+      "french",
+      "dessert",
+      "popcorn",
+      "toffee",
+      "sweet"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "n"
+  },
+  {
+    "slug": "nighttime-crunchy-malaysian-noodle-fried-rice--vegan",
+    "title": "Noodle Stir Fry",
+    "tags": [
+      "vegan",
+      "easy",
+      "malaysian"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 22,
+    "shard": "n"
   }
 ]
