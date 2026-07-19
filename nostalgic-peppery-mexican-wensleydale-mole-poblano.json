@@ -1,0 +1,88 @@
+{
+  "slug": "nostalgic-peppery-mexican-wensleydale-mole-poblano",
+  "title": "Poblano and Mole Stuffed Wensleydale",
+  "description": "A rich and savory dish featuring the flavors of Mexico, combining the sweetness of poblano peppers with the complexity of mole and the crumbliness of Wensleydale cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "4",
+      "notes": "roasted"
+    },
+    {
+      "name": "mole paste",
+      "amount": "2 tbsp",
+      "notes": "store-bought"
+    },
+    {
+      "name": "peppery crackers",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mexican crema",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roast the poblano peppers by placing them on a baking sheet and baking for 20-25 minutes, or until the skin is charred and blistered.",
+    "Remove the peppers from the oven and let them cool. Peel off the skin, remove the seeds, and chop the flesh.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat.",
+    "Add the chopped poblano peppers and cook for 5 minutes, or until they start to soften.",
+    "Add the mole paste and stir to combine. Cook for an additional 2-3 minutes.",
+    "Stir in the crumbled Wensleydale cheese until melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a baking dish and top with crushed peppery crackers.",
+    "Bake for an additional 10-12 minutes, or until the top is golden brown.",
+    "Garnish with chopped fresh cilantro and a dollop of mexican crema, if desired.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "cheese",
+    "vegetarian",
+    "wensleydale"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-peppery-mexican-wensleydale-mole-poblano",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:43:41.290Z"
+}
