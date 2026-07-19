@@ -1,0 +1,77 @@
+{
+  "slug": "naturally-sweet-brazilian-feta-pudding--italian",
+  "title": "Tiramisù Pudding",
+  "description": "A sweet and creamy Italian dessert made with ladyfingers soaked in coffee and liqueur, layered with a mascarpone-based pudding.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ladyfingers",
+      "amount": "12-16",
+      "notes": ""
+    },
+    {
+      "name": "Mascarpone Cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Brewed Coffee",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Liqueur (optional)",
+      "amount": "",
+      "notes": "such as Kahlúa or Baileys"
+    }
+  ],
+  "instructions": [
+    "Dip each ladyfinger into the coffee for about 3-5 seconds on each side. They should be soft and pliable but not too wet.",
+    "In a large mixing bowl, combine the mascarpone cheese, granulated sugar, egg yolks, and vanilla extract. Beat with an electric mixer until stiff peaks form.",
+    "To assemble the tiramisù, start with a layer of ladyfingers in the bottom of a large serving dish.",
+    "Spread half of the mascarpone mixture over the ladyfingers.",
+    "Repeat the layers, starting with the ladyfingers, then the mascarpone mixture, and finally another layer of ladyfingers.",
+    "Cover the tiramisù with plastic wrap and refrigerate for at least 3 hours or overnight.",
+    "Just before serving, sprinkle a thin layer of cocoa powder over the top of the tiramisù.",
+    "Slice the tiramisù into individual servings and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian-dessert",
+    "coffee-dessert",
+    "tiramisu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-sweet-brazilian-feta-pudding--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:12:35.861Z"
+}
