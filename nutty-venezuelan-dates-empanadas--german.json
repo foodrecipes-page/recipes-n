@@ -1,0 +1,96 @@
+{
+  "slug": "nutty-venezuelan-dates-empanadas--german",
+  "title": "Venezuelan Empanada Stew",
+  "description": "A hearty German-inspired stew made with empanadas, adding a Venezuelan twist with the use of nutty and sweet flavors from the dates.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "empanadas",
+      "amount": "4",
+      "notes": "any type of empanada will do"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 cup",
+      "notes": "chopped nuts of your choice (e.g. walnuts, almonds)"
+    },
+    {
+      "name": "dates",
+      "amount": "6",
+      "notes": "pitted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "german spice"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "canned"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "optional (to add a meaty flavor)"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "to balance the flavors"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the nutty and caraway seeds, and cook for 1 minute.",
+    "Add the tomato paste and cook for 1-2 minutes.",
+    "Add the vegetable broth, beef broth (if using), and brown sugar. Stir to combine.",
+    "Add the empanadas and dates to the pot. Bring to a simmer.",
+    "Reduce the heat to low and let it cook for 20-25 minutes, or until the empanadas are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs (if desired).",
+    "Optional: Serve with a side of rye bread or potatoes for a more filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "empanada",
+    "dates"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-venezuelan-dates-empanadas--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:30:49.967Z"
+}
