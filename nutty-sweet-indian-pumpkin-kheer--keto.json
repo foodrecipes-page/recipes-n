@@ -1,0 +1,70 @@
+{
+  "slug": "nutty-sweet-indian-pumpkin-kheer--keto",
+  "title": "Pumpkin Kheer Keto Pudding",
+  "description": "A low-carb and creamy dessert made with pumpkin puree, sweetened with nutty flavors, and spiced with Indian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pumpkin puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sweetener (e.g. stevia)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "1. In a medium saucepan, combine pumpkin puree, heavy cream, nutritional yeast, sweetener, cinnamon, and cardamom.",
+    "2. Cook over medium heat, stirring constantly, until the mixture thickens and coats the back of a spoon.",
+    "3. Remove from heat and stir in salt.",
+    "4. Let the mixture cool to room temperature.",
+    "5. Cover and refrigerate for at least 2 hours or overnight.",
+    "6. Serve chilled, garnished with chopped nuts or a sprinkle of cinnamon if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "dessert",
+    "pudding",
+    "pumpkin",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-sweet-indian-pumpkin-kheer--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:00:20.781Z"
+}
