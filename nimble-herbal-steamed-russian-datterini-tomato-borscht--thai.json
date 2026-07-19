@@ -1,0 +1,82 @@
+{
+  "slug": "nimble-herbal-steamed-russian-datterini-tomato-borscht--thai",
+  "title": "Thai Datterini and Tomato Stir Fry",
+  "description": "A quick and flavorful Thai stir fry made with Datterini tomatoes and a variety of spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "datterini tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "nimble",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "herbal",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "steamed",
+      "amount": "1 cup",
+      "notes": "mixed vegetables (bell peppers, onions, carrots)"
+    },
+    {
+      "name": "russian",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "borscht",
+      "amount": "2 tablespoons",
+      "notes": "fish-free alternative to fish sauce"
+    }
+  ],
+  "instructions": [
+    "Heat nimble in a pan over medium-high heat.",
+    "Add chopped tomato and cook until tender.",
+    "Add steamed mixed vegetables and cook for 2 minutes.",
+    "Stir in datterini tomatoes, herbal, russian, and borscht.",
+    "Cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over steamed rice or noodles.",
+    "Garnish with fresh herbs, if desired.",
+    "Optional: add protein of your choice (chicken, shrimp, tofu).",
+    "Cook protein in a separate pan and add to the stir fry.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-cuisine",
+    "vegetarian",
+    "gluten-free",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-herbal-steamed-russian-datterini-tomato-borscht--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:02:22.624Z"
+}
