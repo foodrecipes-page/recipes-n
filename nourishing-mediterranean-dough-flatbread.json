@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-mediterranean-dough-flatbread",
+  "title": "Mediterranean Flatbread",
+  "description": "A simple and flavorful flatbread topped with a blend of Mediterranean ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread dough",
+      "amount": "1 package (12 oz)",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh rosemary",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumble before using"
+    },
+    {
+      "name": "Sliced Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": "Canned or marinated"
+    },
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "Dried or packed in oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out flatbread dough to a thickness of about 1/4 inch.",
+    "Transfer the dough to a baking sheet or pizza stone.",
+    "Drizzle olive oil over the dough, leaving a 1/2 inch border around the edges.",
+    "Sprinkle chopped rosemary and oregano over the dough.",
+    "Top with feta cheese, olives, artichoke hearts, and sun-dried tomatoes.",
+    "Bake for 15-20 minutes, or until the crust is golden brown and the toppings are heated through.",
+    "Remove from oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "flatbread",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-mediterranean-dough-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:46:55.516Z"
+}
