@@ -1,0 +1,91 @@
+{
+  "slug": "nourishing-ethiopian-berbere-stew-hot-pot--keto",
+  "title": "Keto Ethiopian Berbere Stew",
+  "description": "A spicy and flavorful low-carb stew from Ethiopia, made with berbere spice and nourishing ingredients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Berbere Spice Mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Lamb Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Braised Greens",
+      "amount": "1 cup",
+      "notes": "Chopped kale or collard greens"
+    },
+    {
+      "name": "Ghee or Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the berbere spice mix and cook for 1 minute.",
+    "Add the lamb broth and bring to a boil.",
+    "Return the lamb to the pot and cover.",
+    "Simmer for 1 1/2 hours or until the lamb is tender.",
+    "Stir in the chopped greens and cook until wilted.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "ethiopian",
+    "berbere",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-ethiopian-berbere-stew-hot-pot--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:16:44.000Z"
+}
