@@ -6549,16 +6549,14 @@
   },
   {
     "slug": "nourishing-mediterranean-dough-flatbread",
-    "title": "Nourishing Mediterranean Dough Flatbread",
+    "title": "Mediterranean Flatbread",
     "tags": [
-      "easy-lunch",
+      "mediterranean",
       "flatbread",
-      "long-fermentation",
-      "mediterranean-diet",
-      "vegan-friendly"
+      "easy"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -15542,17 +15540,14 @@
   },
   {
     "slug": "nutty-roasted-venezuelan-beef-roast",
-    "title": "Nutty Roasted Venezuelan Beef Roast",
+    "title": "Venezuelan Beef Roast with Roasted Vegetables",
     "tags": [
-      "beef-recipe",
+      "beef",
       "latin-american",
-      "one-pot",
-      "paleo-friendly",
-      "roasted-nuts",
-      "weeknight"
+      "roast"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 150,
+    "cuisine": "latin american",
+    "totalTimeMin": 170,
     "shard": "n"
   },
   {
@@ -19332,6 +19327,21 @@
       "gluten-free"
     ],
     "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nostalgic-velvet-chicken-pilaf--vegetarian",
+    "title": "Creamy Pilaf with Velvet and Chicken",
+    "tags": [
+      "pilaf",
+      "creamy",
+      "chicken",
+      "vegetarian",
+      "comfort",
+      "flavorful"
+    ],
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
     "shard": "n"
   }
