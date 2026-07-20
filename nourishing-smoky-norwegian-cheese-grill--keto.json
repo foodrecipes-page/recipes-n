@@ -1,0 +1,79 @@
+{
+  "slug": "nourishing-smoky-norwegian-cheese-grill--keto",
+  "title": "Keto Smoked Salmon Grilled Cheese",
+  "description": "A keto version of a classic grilled cheese, featuring smoked salmon and a smoky flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Keto Grilled Cheese Bread (made with almond flour)",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Cheese (such as cheddar or mozzarella)",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Red Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Nourishing Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Lay the keto grilled cheese bread slices on a flat surface.",
+    "3. Spread a layer of mayonnaise on each bread slice.",
+    "4. Add a slice of cheese on each bread slice.",
+    "5. Top the cheese with smoked salmon, sliced red onion, and chopped fresh dill.",
+    "6. Sprinkle smoky paprika on top.",
+    "7. Place the other bread slice on top of the filling.",
+    "8. Grill for 2-3 minutes on each side, or until the cheese is melted and the bread is toasted.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "grilled-cheese",
+    "smoked-salmon",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "36g",
+    "carbs": "5g",
+    "fat": "46g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-norwegian-cheese-grill--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:34:54.267Z"
+}
