@@ -1,0 +1,83 @@
+{
+  "slug": "nutritious-canadian-rice-pilaf--mexican",
+  "title": "Mexican Canadian Pilaf",
+  "description": "A flavorful and nutritious twist on traditional pilaf, infused with the bold flavors of Mexico. Perfect as a side dish or light meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutritious pilaf mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Canadian rice, pilaf mix, diced tomatoes, cumin, paprika, and salt. Stir to combine.",
+    "Cook for 2-3 minutes, stirring frequently.",
+    "Add the chopped cilantro and lime juice. Stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10-12 minutes, or until the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "gluten-free",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-canadian-rice-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:28:55.188Z"
+}
