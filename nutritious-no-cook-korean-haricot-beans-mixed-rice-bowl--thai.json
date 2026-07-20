@@ -1,0 +1,83 @@
+{
+  "slug": "nutritious-no-cook-korean-haricot-beans-mixed-rice-bowl--thai",
+  "title": "Thai-Style Mixed Bean Bowl",
+  "description": "A nutritious and flavorful Thai-inspired bowl dish loaded with mixed beans, rice, and a variety of spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mixed beans (black beans, kidney beans, etc.)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Cooked haricot beans",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": null
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add Korean chili flakes and cook for 1 minute.",
+    "Add mixed beans and cook for 2-3 minutes, until lightly browned.",
+    "Add cooked haricot beans and stir to combine.",
+    "Season with salt to taste.",
+    "Serve the bean mixture over a bed of mixed rice.",
+    "Garnish with chopped cilantro and serve with lime wedges on the side.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "veggie",
+    "thai",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "20g",
+    "carbs": "70g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-no-cook-korean-haricot-beans-mixed-rice-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:10:55.743Z"
+}
