@@ -1,0 +1,78 @@
+{
+  "slug": "nutty-dense-raw-friendly-canadian-onion-stir-fry--thai",
+  "title": "Thai Stir Fry with Canadian Vegetables",
+  "description": "A simple and flavorful Thai dish made with stir-fried vegetables, served best with steamed rice. This recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nutty",
+      "amount": "2 cups",
+      "notes": "Mixed nuts (almonds, cashews, etc.)"
+    },
+    {
+      "name": "dense",
+      "amount": "4 cups",
+      "notes": "Mixed vegetables (bell peppers, carrots, etc.)"
+    },
+    {
+      "name": "raw",
+      "amount": "1 cup",
+      "notes": "Mushrooms"
+    },
+    {
+      "name": "friendly",
+      "amount": "1/2 cup",
+      "notes": "Friendly (e.g. sweet) potatoes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "Stir-fry sauce"
+    },
+    {
+      "name": "fry",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add chopped onion and cook until softened.",
+    "Add mixed vegetables, sweet potatoes, and mushrooms. Stir-fry for 3-4 minutes.",
+    "Add stir-fry sauce and cook for another minute.",
+    "Toss in mixed nuts and cook for an additional minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-dense-raw-friendly-canadian-onion-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:15:11.160Z"
+}
