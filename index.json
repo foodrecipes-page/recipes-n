@@ -19344,5 +19344,18 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
     "shard": "n"
+  },
+  {
+    "slug": "nutritious-canadian-rice-pilaf--mexican",
+    "title": "Mexican Canadian Pilaf",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "gluten-free",
+      "side-dish"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
+    "shard": "n"
   }
 ]
