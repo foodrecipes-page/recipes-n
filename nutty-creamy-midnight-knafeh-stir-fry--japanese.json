@@ -1,0 +1,81 @@
+{
+  "slug": "nutty-creamy-midnight-knafeh-stir-fry--japanese",
+  "title": "Pan-Seared Midnight Scallops with Nutty Stir Fry",
+  "description": "A Japanese-inspired dish featuring seared scallops served with a nutty stir fry. This recipe is perfect for a quick and easy dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "midnight scallops",
+      "amount": "12",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "nutty sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "creamy butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "knaikeh nori",
+      "amount": "4 sheets",
+      "notes": ""
+    },
+    {
+      "name": "stir-fry vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers and carrots"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the stir-fry vegetables and cook until tender, about 3-4 minutes.",
+    "Add the soy sauce and sugar to the skillet and stir to combine.",
+    "Add the seared scallops to the skillet and cook for an additional 2-3 minutes.",
+    "Serve the scallops with the nutty stir fry and garnish with green onions.",
+    "Cook the nori sheets according to package instructions and serve on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "seafood",
+    "scallops",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-creamy-midnight-knafeh-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:31:07.380Z"
+}
