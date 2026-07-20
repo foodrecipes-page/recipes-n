@@ -1,0 +1,105 @@
+{
+  "slug": "nourishing-middle-eastern-chickpea-tagine--indian",
+  "title": "Chickpea Tagine",
+  "description": "A hearty and flavorful Indian-inspired dish made with chickpeas, a blend of spices, and dried fruits.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas, drained and rinsed",
+      "amount": "1 1/2 cups",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat, 14 oz"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, 5 minutes.",
+    "Add ginger, garlic, and red bell pepper; cook for 1 minute.",
+    "Stir in cumin, coriander, cinnamon, and turmeric. Cook for 1 minute.",
+    "Add chickpeas, apricots, and coconut milk. Stir to combine.",
+    "Bring to a simmer and cook, covered, for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea",
+    "tagine",
+    "indian",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-middle-eastern-chickpea-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:39:26.332Z"
+}
