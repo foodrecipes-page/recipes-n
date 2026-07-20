@@ -1,0 +1,73 @@
+{
+  "slug": "nourishing-smoky-kenyan-dish-hash",
+  "title": "Kenyan Smoked Hash",
+  "description": "A hearty, smoky hash made with nourishing ingredients, inspired by Kenyan cuisine. Perfect for a satisfying breakfast or brunch.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "hash browns",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "kenyan spices",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and dice sweet potatoes, then toss with smoked paprika, salt, and pepper.",
+    "Spread sweet potatoes on a baking sheet and roast for 20 minutes.",
+    "Mince onions and garlic, then sauté in a pan until softened.",
+    "Add hash browns to the pan and stir to combine with onions and garlic.",
+    "Season with kenyan spices to taste.",
+    "Once sweet potatoes are done, chop into small pieces and add to the pan.",
+    "Stir to combine all ingredients and cook for an additional 5 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked",
+    "kenyan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-kenyan-dish-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:03:15.731Z"
+}
