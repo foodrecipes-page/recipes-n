@@ -1,0 +1,85 @@
+{
+  "slug": "nostalgic-velvet-chicken-pilaf--vegetarian",
+  "title": "Creamy Pilaf with Velvet and Chicken",
+  "description": "A comforting and creamy vegetarian pilaf dish with a velvet texture, accompanied by tender chicken.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "velvet cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large skillet over medium-high heat.",
+    "Add chicken breast and cook until browned on both sides, about 5-6 minutes. Remove from skillet and set aside.",
+    "In the same skillet, add soaked saffron threads and 1/2 teaspoon of thyme. Cook for 1 minute.",
+    "Add uncooked rice to the skillet and cook for 1-2 minutes, until lightly toasted.",
+    "Add chicken broth to the skillet, bring to a boil, then reduce heat to low, cover, and simmer for 18-20 minutes, or until liquid is absorbed.",
+    "Stir in melted butter, cooked chicken, dried parsley, and velvet cream. Mix well to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "creamy",
+    "chicken",
+    "vegetarian",
+    "comfort",
+    "flavorful"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-velvet-chicken-pilaf--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:45:41.850Z"
+}
