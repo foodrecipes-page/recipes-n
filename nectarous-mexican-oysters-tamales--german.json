@@ -1,0 +1,77 @@
+{
+  "slug": "nectarous-mexican-oysters-tamales--german",
+  "title": "Beer-Braised Oysters",
+  "description": "A hearty German-style oyster dish featuring a rich beer-braised sauce.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "12 large oysters, shucked"
+    },
+    {
+      "name": "nectarous",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mexican",
+      "amount": "1-2 dried ancho chilies, stemmed and seeded"
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup amber lager"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion, thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tamales",
+      "amount": "2 tamales, pulled apart"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium-high heat.",
+    "Add sliced onion and cook, stirring occasionally, until caramelized (10-12 minutes).",
+    "Add ancho chilies and cook for 1 minute.",
+    "Add beer and bring to a boil, scraping up browned bits.",
+    "Add oysters and cook until they start to open (3-4 minutes).",
+    "Transfer skillet to preheated oven and bake at 400°F for 5-7 minutes, or until oysters are cooked through.",
+    "Remove skillet from oven and stir in nectarous, heavy cream, and pulled tamales.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "oysters",
+    "beer-braised"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nectarous-mexican-oysters-tamales--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:04:09.202Z"
+}
