@@ -1,0 +1,77 @@
+{
+  "slug": "nice-crunchy-american-potato-burger--gluten-free",
+  "title": "Gluten-Free American Sliders",
+  "description": "A delicious and easy-to-make gluten-free American slider recipe featuring a flavorful burger patty and crispy toppings.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "American Burger Patties",
+      "amount": "4",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Potato Buns",
+      "amount": "4",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Optional"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "Optional"
+    },
+    {
+      "name": "Cheese Slices",
+      "amount": "4",
+      "notes": "Optional"
+    },
+    {
+      "name": "Nice Crispy Bacon",
+      "amount": "4 slices",
+      "notes": "Optional"
+    },
+    {
+      "name": "Crunchy Pickle Slices",
+      "amount": "4",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Cook the American burger patties for 4-5 minutes per side, or until they reach an internal temperature of 160°F.",
+    "3. Meanwhile, toast the potato buns by placing them on the grill for a few minutes.",
+    "4. Assemble the sliders by placing a cooked burger patty on each bun.",
+    "5. Add lettuce, tomato, cheese slices, crispy bacon, and crunchy pickle slices as desired.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "bacon",
+    "gluten-free",
+    "grill",
+    "slider"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-crunchy-american-potato-burger--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:48:51.425Z"
+}
