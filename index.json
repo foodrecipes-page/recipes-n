@@ -7786,15 +7786,11 @@
   },
   {
     "slug": "nourishing-smoky-kenyan-dish-hash",
-    "title": "Nourishing Smoky Kenyan Hash",
+    "title": "Kenyan Smoked Hash",
     "tags": [
-      "high-protein",
-      "jain-friendly",
-      "keto",
-      "one-pan",
       "smoked",
-      "vegan",
-      "weeknight"
+      "kenyan",
+      "vegetarian"
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 40,
@@ -19213,6 +19209,33 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-canadian-tart-pudding--keto",
+    "title": "Keto Canadian Pudding Tart",
+    "tags": [
+      "keto",
+      "dessert",
+      "tart",
+      "pudding"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 65,
+    "shard": "n"
+  },
+  {
+    "slug": "nice-crunchy-american-potato-burger--gluten-free",
+    "title": "Gluten-Free American Sliders",
+    "tags": [
+      "american",
+      "bacon",
+      "gluten-free",
+      "grill",
+      "slider"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 18,
     "shard": "n"
   }
 ]
