@@ -599,15 +599,15 @@
   },
   {
     "slug": "naturally-roasted-dutch-ricotta-casserole",
-    "title": "Naturally Roasted Dutch Ricotta Casserole",
+    "title": "Roasted Dutch Casserole with Ricotta",
     "tags": [
-      "dutch-cuisine",
+      "vegetarian",
       "gluten-free",
-      "low-sodium",
-      "one-pan",
-      "weeknight"
+      "casserole",
+      "ricotta-cheese",
+      "dutch-gouda"
     ],
-    "cuisine": "Dutch",
+    "cuisine": "European",
     "totalTimeMin": 55,
     "shard": "n"
   },
@@ -5860,17 +5860,14 @@
   },
   {
     "slug": "nourishing-indian-lentils-samosas",
-    "title": "Nourishing Indian Lentils Samosas",
+    "title": "Spiced Lentil Samosas",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "high-protein",
-      "post-workout",
-      "quick",
-      "savory",
-      "vegan"
+      "indian",
+      "lentils",
+      "snack",
+      "appetizer"
     ],
-    "cuisine": "Indian",
+    "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "n"
   },
@@ -19310,6 +19307,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nocturnal-vietnamese-pork-com-tam--chinese",
+    "title": "Vietnamese Pork Belly Stir Fry",
+    "tags": [
+      "chinese",
+      "vietnamese",
+      "pork",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "n"
   }
 ]
