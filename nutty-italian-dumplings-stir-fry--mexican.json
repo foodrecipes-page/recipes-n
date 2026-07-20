@@ -1,0 +1,92 @@
+{
+  "slug": "nutty-italian-dumplings-stir-fry--mexican",
+  "title": "Stir-Fry Chicken Fajitas",
+  "description": "Mexican-inspired stir-fry chicken fajitas with a nutty twist. Serve with warm flour tortillas.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound, cut into thin strips",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "nutty stir-fry sauce (see notes)",
+      "amount": "2 tablespoons",
+      "notes": "available in most grocery stores, or make your own by mixing 2 tablespoons soy sauce, 1 tablespoon rice vinegar, and 1 teaspoon honey"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "italian flatbread or flour tortillas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of oil to the skillet and sauté the bell peppers and onion until tender, about 5 minutes.",
+    "Add the nutty stir-fry sauce and fajita seasoning to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to coat with the sauce.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing the chicken and vegetable mixture onto the tortillas and topping with cheese, cilantro, sour cream, and salsa.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mexican",
+    "fajitas",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-italian-dumplings-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:25:18.464Z"
+}
