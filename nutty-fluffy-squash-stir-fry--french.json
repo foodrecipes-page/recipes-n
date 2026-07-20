@@ -1,0 +1,66 @@
+{
+  "slug": "nutty-fluffy-squash-stir-fry--french",
+  "title": "Squash Fritters French-Style",
+  "description": "A crispy French-inspired fritter dish made with roasted squash and a nutty twist.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Squash",
+      "amount": "1 cup, peeled and grated"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fluffy egg whites",
+      "amount": "2"
+    },
+    {
+      "name": "Nutty grated almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fry oil",
+      "amount": "enough for frying"
+    }
+  ],
+  "instructions": [
+    "1. Preheat fry oil to 350°F.",
+    "2. In a bowl, mix together squash, flour, egg whites, almonds, and salt.",
+    "3. Using a spoon, drop small amounts of the mixture into the hot fry oil.",
+    "4. Fry until golden brown, about 3-4 minutes.",
+    "5. Using a slotted spoon, remove the fritters from the oil and place on a paper towel-lined plate.",
+    "6. Serve warm, garnished with additional almonds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "snack",
+    "vegetarian",
+    "fritters",
+    "squash"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-fluffy-squash-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:16:29.709Z"
+}
