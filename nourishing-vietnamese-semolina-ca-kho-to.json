@@ -1,0 +1,74 @@
+{
+  "slug": "nourishing-vietnamese-semolina-ca-kho-to",
+  "title": "Vietnamese Semolina Cake",
+  "description": "A traditional Vietnamese dessert with semolina, coconut milk, and a touch of sweetness.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": "fine or coarse, your preference"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat for richer flavor"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "room temperature for better mix"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tbsp",
+      "notes": "cooled slightly"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional, for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C). Grease a 9x13-inch baking dish and set aside.",
+    "In a large mixing bowl, whisk together semolina, sugar, and a pinch of salt.",
+    "In a separate bowl, whisk together coconut milk, eggs, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Pour in the vanilla extract, if using.",
+    "Pour the batter into the prepared baking dish and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes before slicing and serving.",
+    "Serve warm or at room temperature, garnished with toasted coconut flakes or powdered sugar, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "dessert",
+    "cake",
+    "semolina"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-vietnamese-semolina-ca-kho-to",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:07:26.843Z"
+}
