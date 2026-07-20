@@ -1,0 +1,62 @@
+{
+  "slug": "nutty-dense-slovakian-beef-casserole--japanese",
+  "title": "Japanese Beef Casserole",
+  "description": "A hearty and flavorful casserole inspired by Japanese cuisine, featuring tender beef and a nutty, dense crust.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g"
+    },
+    {
+      "name": "nutty",
+      "amount": "50g"
+    },
+    {
+      "name": "dense",
+      "amount": "200g"
+    },
+    {
+      "name": "slovakian",
+      "amount": "20g"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 unit"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Season the beef with salt and pepper.",
+    "In a pan, cook the beef over medium heat until browned, then set aside.",
+    "In the same pan, add the nutty and dense, and cook until lightly toasted.",
+    "Add the slovakian to the pan and stir to combine.",
+    "Transfer the beef, nutty, dense, and slovakian mixture to a casserole dish.",
+    "Bake in the preheated oven for 20 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "japanese",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-dense-slovakian-beef-casserole--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:36:30.171Z"
+}
