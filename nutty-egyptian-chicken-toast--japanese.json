@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-egyptian-chicken-toast--japanese",
+  "title": "Japanese Chicken Toast",
+  "description": "A simple Japanese-inspired dish made with chicken, nutty flavors, and crispy toast.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "nutty sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "egyptian bread",
+      "amount": "4 slices",
+      "notes": "toasted and crispy"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "for balance"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken breast in sesame oil, soy sauce, and sugar for at least 30 minutes.",
+    "Preheat a non-stick pan over medium-high heat.",
+    "Add the chicken to the pan and cook until browned, about 5-6 minutes per side.",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "Toast the egyptian bread until crispy.",
+    "Assemble the dish by placing the sliced chicken on top of the toast.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "japanese",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-egyptian-chicken-toast--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:11:06.085Z"
+}
