@@ -13318,16 +13318,15 @@
   },
   {
     "slug": "nutty-dense-uruguayan-pecan-hash",
-    "title": "Nutty Dense Uruguayan Pecan Hash",
+    "title": "Uruguayan Pecan Coffee Cake",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "uruguayan",
+      "coffee cake",
+      "pecans",
+      "breakfast"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -19131,6 +19130,44 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-ethiopian-berbere-stew-hot-pot--keto",
+    "title": "Keto Ethiopian Berbere Stew",
+    "tags": [
+      "keto",
+      "ethiopian",
+      "berbere",
+      "stew"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 110,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-dense-slovakian-beef-casserole--japanese",
+    "title": "Japanese Beef Casserole",
+    "tags": [
+      "beef",
+      "japanese",
+      "casserole"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-egyptian-chicken-toast--japanese",
+    "title": "Japanese Chicken Toast",
+    "tags": [
+      "chicken",
+      "japanese",
+      "easy",
+      "quick"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
     "shard": "n"
   }
 ]
