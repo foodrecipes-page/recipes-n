@@ -19237,5 +19237,32 @@
     "cuisine": "American",
     "totalTimeMin": 18,
     "shard": "n"
+  },
+  {
+    "slug": "nice-crispy-malaysian-beef-suet-roti--indian",
+    "title": "Beef Vindaloo Roti",
+    "tags": [
+      "indian",
+      "vindaloo",
+      "beef",
+      "roti",
+      "malaysian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-italian-dumplings-stir-fry--mexican",
+    "title": "Stir-Fry Chicken Fajitas",
+    "tags": [
+      "chicken",
+      "mexican",
+      "fajitas",
+      "stir-fry"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]
