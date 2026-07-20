@@ -1,0 +1,90 @@
+{
+  "slug": "naturally-roasted-dutch-ricotta-casserole",
+  "title": "Roasted Dutch Casserole with Ricotta",
+  "description": "A hearty vegetarian casserole featuring roasted vegetables and a creamy ricotta topping.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "2, sliced"
+    },
+    {
+      "name": "Ricotta Cheese",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Dutch Gouda Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large baking dish, combine the sliced eggplant, zucchini, and roasted red peppers.",
+    "Drizzle with olive oil and season with salt and black pepper. Toss to coat.",
+    "Roast in the preheated oven for 20-25 minutes, or until the vegetables are tender.",
+    "In a medium bowl, combine the ricotta cheese, Gouda cheese, tomato paste, garlic, and chopped basil.",
+    "Mix well to combine.",
+    "Remove the roasted vegetables from the oven and top with the ricotta cheese mixture.",
+    "Return to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "casserole",
+    "ricotta-cheese",
+    "dutch-gouda"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-roasted-dutch-ricotta-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:57:30.972Z"
+}
