@@ -2997,18 +2997,15 @@
   },
   {
     "slug": "noble-canadian-rice-curry",
-    "title": "Noble Canadian Rice Curry",
+    "title": "Noble Beef and Rice Curry",
     "tags": [
-      "ayurvedic",
-      "buttery",
-      "comfort-food",
-      "date-night",
-      "easy",
-      "rajasic-friendly",
-      "silky"
+      "beef",
+      "curry",
+      "rice",
+      "indian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "Indian",
+    "totalTimeMin": 55,
     "shard": "n"
   },
   {
@@ -5089,17 +5086,15 @@
   },
   {
     "slug": "nourishing-crumbly-uruguayan-speck-cazuela",
-    "title": "Nourishing Crumbly Uruguayan Speck Cazuela",
+    "title": "Uruguayan Cazuela with Speck",
     "tags": [
-      "breakfast",
-      "homestyle",
-      "knead",
-      "speck",
       "uruguayan",
-      "weekend"
+      "beef",
+      "stew",
+      "breakfast"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 135,
     "shard": "n"
   },
   {
@@ -19168,6 +19163,56 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 27,
+    "shard": "n"
+  },
+  {
+    "slug": "noodle-wrapped-vietnamese-rest-meat-bun-cha--chinese",
+    "title": "Vietnamese-Style Meatball Buns",
+    "tags": [
+      "meatballs",
+      "buns",
+      "vietnamese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-norwegian-cheese-grill--keto",
+    "title": "Keto Smoked Salmon Grilled Cheese",
+    "tags": [
+      "keto",
+      "grilled-cheese",
+      "smoked-salmon",
+      "norwegian"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 14,
+    "shard": "n"
+  },
+  {
+    "slug": "nectarous-mexican-oysters-tamales--german",
+    "title": "Beer-Braised Oysters",
+    "tags": [
+      "german",
+      "oysters",
+      "beer-braised"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-dense-raw-friendly-canadian-onion-stir-fry--thai",
+    "title": "Thai Stir Fry with Canadian Vegetables",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "vegetarian",
+      "quick-dinner"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "n"
   }
 ]
