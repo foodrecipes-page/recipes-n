@@ -1,0 +1,86 @@
+{
+  "slug": "nourishing-savory-uruguayan-beef-empanadas",
+  "title": "Uruguayan Beef Empanadas",
+  "description": "A classic Uruguayan dish filled with savory beef, perfect for a quick dinner or snack. Serve with a side of chimichurri sauce for added flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "Flour, all-purpose",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the cumin, paprika, salt, and black pepper. Cook for 1 minute.",
+    "In a large bowl, combine the cooked beef mixture and beaten egg. Mix well to combine.",
+    "On a lightly floured surface, roll out the remaining dough to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough. You should be able to get about 8-10 circles.",
+    "Place a tablespoon or two of the beef mixture in the center of each dough circle. Fold the dough over the filling to form a half-circle shape, and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of water, and then sprinkle with a pinch of salt.",
+    "Place the empanadas on a baking sheet lined with parchment paper, and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm, and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-savory-uruguayan-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:43:12.378Z"
+}
