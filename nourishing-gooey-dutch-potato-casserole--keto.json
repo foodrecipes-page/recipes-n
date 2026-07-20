@@ -1,0 +1,67 @@
+{
+  "slug": "nourishing-gooey-dutch-potato-casserole--keto",
+  "title": "Keto Dutch Potato Casserole",
+  "description": "A delicious and comforting keto casserole that combines the best of Dutch potato recipes with nutritious ingredients.",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Nourishing bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Casserole seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Butter or ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Boil the Dutch potatoes until tender. Drain and set aside.",
+    "Cook the nourishing bacon in a pan until crispy. Set aside.",
+    "In a separate pan, melt the butter or ghee over medium heat.",
+    "Add the casserole seasoning and stir for 1 minute.",
+    "Combine the cooked potatoes, crispy bacon, and gooey cheese with the casserole seasoning mixture.",
+    "Transfer the mixture to a casserole dish and bake for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "dutch",
+    "casserole",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-gooey-dutch-potato-casserole--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:33:01.504Z"
+}
