@@ -1,0 +1,95 @@
+{
+  "slug": "nourishing-indian-lentils-samosas",
+  "title": "Spiced Lentil Samosas",
+  "description": "A flavorful and crispy samosa filled with a mix of spiced lentils. Serve as a snack or appetizer.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red split lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. In a pan, heat 1 tbsp ghee or oil over medium heat.",
+    "2. Add cumin seeds and let them sizzle for a few seconds.",
+    "3. Add chopped onion, grated ginger, and minced garlic. Saute until the onion is translucent.",
+    "4. Add red split lentils, coriander powder, turmeric powder, and red chili powder. Mix well.",
+    "5. Add 2 cups water and bring to a boil. Reduce heat and simmer for 20 minutes.",
+    "6. In a bowl, mix together all-purpose flour, salt, and 1 tbsp ghee or oil.",
+    "7. Gradually add water to the flour mixture to form a dough.",
+    "8. Divide the dough into 8 equal portions.",
+    "9. Roll out each portion into a thin circle.",
+    "10. Place a spoonful of the lentil mixture in the center of each circle.",
+    "11. Fold the circle in half and press the edges to seal.",
+    "12. Heat oil in a deep frying pan and fry the samosas until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lentils",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-indian-lentils-samosas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:58:37.387Z"
+}
