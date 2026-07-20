@@ -7242,15 +7242,12 @@
     "slug": "nourishing-savory-uruguayan-beef-empanadas",
     "title": "Uruguayan Beef Empanadas",
     "tags": [
-      "baked",
       "beef",
       "empanadas",
-      "savory",
-      "uruguayan",
-      "weeknight"
+      "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 140,
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -19300,6 +19297,18 @@
       "squash"
     ],
     "cuisine": "french",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-no-cook-korean-haricot-beans-mixed-rice-bowl--thai",
+    "title": "Thai-Style Mixed Bean Bowl",
+    "tags": [
+      "veggie",
+      "thai",
+      "rice-bowl"
+    ],
+    "cuisine": "thai",
     "totalTimeMin": 20,
     "shard": "n"
   }
