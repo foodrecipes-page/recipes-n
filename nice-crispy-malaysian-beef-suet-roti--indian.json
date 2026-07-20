@@ -1,0 +1,95 @@
+{
+  "slug": "nice-crispy-malaysian-beef-suet-roti--indian",
+  "title": "Beef Vindaloo Roti",
+  "description": "A twist on traditional Indian vindaloo, served with crispy roti and a side of malaysian spice.",
+  "cuisine": "indian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "suet",
+      "amount": "1/4 cup",
+      "notes": "melted into the curry"
+    },
+    {
+      "name": "nice",
+      "amount": "1 cup",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "crispy",
+      "amount": "4-6",
+      "notes": "pieces of roti for serving"
+    },
+    {
+      "name": "malaysian",
+      "amount": "2 teaspoons",
+      "notes": "malaysian spice blend"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the onion, ginger, and garlic, and cook until the onion is translucent.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Add the malaysian spice blend, suet, and tomatoes, and stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Serve over crispy roti, garnished with nice and a side of malaysian spice.",
+    "Cook the roti by brushing with oil and cooking in a dry skillet for 1-2 minutes on each side.",
+    "Repeat with remaining roti pieces.",
+    "To assemble, place a piece of roti on a plate, top with a spoonful of the beef vindaloo, and garnish with nice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vindaloo",
+    "beef",
+    "roti",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-crispy-malaysian-beef-suet-roti--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:19:25.588Z"
+}
