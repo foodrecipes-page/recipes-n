@@ -1,0 +1,89 @@
+{
+  "slug": "nutty-roasted-venezuelan-beef-roast",
+  "title": "Venezuelan Beef Roast with Roasted Vegetables",
+  "description": "A hearty and flavorful dish featuring a slow-cooked beef roast served with a variety of roasted vegetables.",
+  "cuisine": "latin american",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef roast",
+      "amount": "1.5 pounds",
+      "notes": "such as a rump roast or top round"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh or canned, diced"
+    },
+    {
+      "name": "nutty breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "venezuelan seasoning",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F (160°C).",
+    "Season the beef roast with salt and pepper, and rub with olive oil.",
+    "Heat a large Dutch oven over medium-high heat, and sear the beef roast until browned on all sides.",
+    "Remove the beef from the pot, and set it aside to rest.",
+    "Add the garlic, onion, carrots, and potatoes to the pot, and cook until the vegetables are slightly tender.",
+    "Add the tomatoes, nutty breadcrumbs, and venezuelan seasoning to the pot, and stir to combine.",
+    "Return the beef roast to the pot, and transfer it to the preheated oven.",
+    "Bake the beef roast for 2-3 hours, or until it reaches an internal temperature of 160°F (71°C).",
+    "Remove the beef from the oven, and let it rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "latin-american",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 21,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-roasted-venezuelan-beef-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:25:01.671Z"
+}
