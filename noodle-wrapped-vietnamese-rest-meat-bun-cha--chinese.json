@@ -1,0 +1,68 @@
+{
+  "slug": "noodle-wrapped-vietnamese-rest-meat-bun-cha--chinese",
+  "title": "Vietnamese-Style Meatball Buns",
+  "description": "A fusion twist on traditional Chinese bao, featuring flavorful Vietnamese-style meatballs in a soft bun.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "minced meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "noodle",
+      "amount": "1/4 cup",
+      "notes": "soaked in water"
+    },
+    {
+      "name": "wrapped bun",
+      "amount": "4"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "2 tablespoons",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "rest",
+      "amount": "1/4 cup",
+      "notes": "scallions, chopped"
+    },
+    {
+      "name": "cha",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a mixing bowl, combine minced meat, noodle paste, fish sauce, scallions, and garlic. Mix well.",
+    "Form meat mixture into small meatballs and place on a baking sheet.",
+    "Bake in the oven for 12-15 minutes, or until cooked through.",
+    "Meanwhile, toast the buns by baking them in the oven for 2-3 minutes, or until lightly browned.",
+    "Assemble the buns by placing a few meatballs in each bun, and serving immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "meatballs",
+    "buns",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/noodle-wrapped-vietnamese-rest-meat-bun-cha--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:18:20.713Z"
+}
