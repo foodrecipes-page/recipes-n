@@ -1,75 +1,74 @@
 {
   "slug": "nourishing-lamination-puff-ukrainian-morbier-tagine",
-  "title": "Ukrainian Puff Pastry Tagine",
-  "description": "A savory twist on traditional French puff pastry tart, featuring a Ukrainian-inspired filling. Perfect for a light dinner or snack.",
-  "cuisine": "Ukrainian",
+  "title": "Baked Morbier Tart",
+  "description": "A savory tart featuring Morbier cheese, puff pastry, and a hint of Ukrainian flair. Perfect for a dinner party or special occasion.",
+  "cuisine": "French",
   "diet": [
-    "vegetarian"
+    "dairy"
   ],
-  "meal": "snack",
+  "meal": "dinner",
   "ingredients": [
     {
-      "name": "puff pastry",
-      "amount": "1 sheet, thawed"
+      "name": "Morbier cheese",
+      "amount": "1 block (8 oz)"
     },
     {
-      "name": "ukrainian sausage",
-      "amount": "1 cup, sliced"
+      "name": "Puff pastry",
+      "amount": "1 sheet (thawed)"
     },
     {
-      "name": "morbier cheese",
-      "amount": "1 cup, shredded"
+      "name": "Ukrainian sausage",
+      "amount": "1 lb"
     },
     {
-      "name": "onion",
-      "amount": "1 medium, chopped"
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped"
     },
     {
-      "name": "garlic",
-      "amount": "3 cloves, minced"
+      "name": "Salt",
+      "amount": "to taste"
     },
     {
-      "name": "lamb's liver",
-      "amount": "1 cup, sliced"
+      "name": "Black pepper",
+      "amount": "to taste"
     },
     {
-      "name": "tagine spice mix",
-      "amount": "2 tsp"
+      "name": "Lamination oil",
+      "amount": "1 tbsp"
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
-    "Roll out puff pastry to a thickness of 1/8 inch (3 mm). Cut into a rectangle, about 12 inches x 8 inches (30 cm x 20 cm).",
-    "In a large skillet, cook the Ukrainian sausage over medium-high heat until browned, about 5 minutes.",
-    "Add the sliced lamb's liver to the skillet and cook until browned, about 3-4 minutes.",
-    "Stir in the chopped onion and minced garlic. Cook until the onion is translucent, about 3-4 minutes.",
-    "Sprinkle the shredded Morbier cheese over the top of the pastry, leaving a 1-inch (2.5 cm) border around the edges.",
-    "Add the cooked sausage and liver mixture on top of the cheese, spreading it evenly.",
-    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
-    "Use a sharp knife to cut a few slits in the top crust to allow steam to escape.",
-    "Brush the top crust with a little water and sprinkle with tagine spice mix.",
-    "Bake in the preheated oven for 25-30 minutes, or until the pastry is golden brown and puffed.",
-    "Remove from the oven and let cool for 5-10 minutes before serving."
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to a thickness of 1/8 inch.",
+    "Transfer pastry to a 9-inch tart pan with a removable bottom.",
+    "In a small bowl, mix together Ukrainian sausage, salt, and black pepper.",
+    "Spread sausage mixture evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Place Morbier cheese on top of the sausage mixture.",
+    "Fold pastry edges up over the filling, pressing gently to seal.",
+    "Brush pastry with lamination oil.",
+    "Bake for 25-30 minutes, or until pastry is golden brown.",
+    "Remove from oven and sprinkle with chopped parsley."
   ],
-  "prepTimeMin": 15,
+  "prepTimeMin": 20,
   "cookTimeMin": 25,
-  "totalTimeMin": 40,
-  "servings": 4,
+  "totalTimeMin": 45,
+  "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "french",
-    "ukrainian",
+    "morbier",
     "pastry",
-    "tagine"
+    "tart",
+    "ukrainian",
+    "sauerkraut"
   ],
   "nutrition": {
-    "calories": 250,
+    "calories": 320,
     "protein": 20,
-    "carbs": 15,
-    "fat": 15
+    "carbs": 20,
+    "fat": 18
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-lamination-puff-ukrainian-morbier-tagine",
   "providerUsed": "groq",
-  "createdAt": "2026-07-17T10:00:43.857Z"
+  "createdAt": "2026-07-18T10:10:14.498Z"
 }
