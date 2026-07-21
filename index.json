@@ -19357,5 +19357,43 @@
     "cuisine": "mexican",
     "totalTimeMin": 22,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-quick-american-fennel-grill--thai",
+    "title": "Thai-Style Grilled Fennel",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "grilled",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-french-beef-bouillabaisse--italian",
+    "title": "Beef Bouillabaisse Italiano",
+    "tags": [
+      "beef",
+      "italian",
+      "lunch",
+      "comfort-food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 165,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-irish-potato-skillet--thai",
+    "title": "Thai Irish Skillet Delight",
+    "tags": [
+      "thaicuisine",
+      "irishpotatoes",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "n"
   }
 ]
