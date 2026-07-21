@@ -13600,10 +13600,14 @@
   },
   {
     "slug": "nutty-flaky-slovakian-rainbow-trout-gratin",
-    "title": "Nutty Flaky Slovakian Rainbow Trout Gratin",
-    "tags": [],
-    "cuisine": "Slovakian",
-    "totalTimeMin": null,
+    "title": "Pan-Seared Trout with Slovakian Crust",
+    "tags": [
+      "fish",
+      "slovakian",
+      "easy-dinner"
+    ],
+    "cuisine": "European",
+    "totalTimeMin": 22,
     "shard": "n"
   },
   {
