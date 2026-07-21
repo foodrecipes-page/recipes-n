@@ -19578,5 +19578,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 23,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-turkish-goats-cheese-jel-lik-pudding--thai",
+    "title": "Thai-Style Goats Cheese Pudding",
+    "tags": [
+      "thaidesert",
+      "goatscheese",
+      "nutty"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "n"
   }
 ]
