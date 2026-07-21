@@ -1,0 +1,76 @@
+{
+  "slug": "nutty-quick-american-fennel-grill--thai",
+  "title": "Thai-Style Grilled Fennel",
+  "description": "A flavorful and refreshing Thai-inspired dish featuring grilled fennel as the main ingredient. The nutty flavor of the fennel pairs perfectly with a squeeze of lime juice and a sprinkle of toasted peanuts.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fennel",
+      "amount": "2 bulbs",
+      "notes": "Cut into 1-inch wedges"
+    },
+    {
+      "name": "Toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Grill seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Toss fennel wedges with grill seasoning, salt, and pepper in a bowl.",
+    "Grill fennel for 3-4 minutes per side, or until tender and slightly charred.",
+    "In a small bowl, whisk together lime juice and honey.",
+    "Serve grilled fennel with a drizzle of lime-honey sauce, toasted peanuts, and chopped cilantro.",
+    "Garnish with additional cilantro and peanuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "grilled",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-quick-american-fennel-grill--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:56:44.913Z"
+}
