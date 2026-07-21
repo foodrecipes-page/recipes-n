@@ -19551,5 +19551,32 @@
     "cuisine": "japanese",
     "totalTimeMin": 50,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-peruvian-tahini-stir-fry--mexican",
+    "title": "Tahini Chicken Fajitas",
+    "tags": [
+      "mexican",
+      "chicken",
+      "tahini",
+      "fajitas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "n"
+  },
+  {
+    "slug": "nutella-marinated-olive-tapenade--chinese",
+    "title": "Chili Nutella Tapenade Spring Rolls",
+    "tags": [
+      "chinese",
+      "spring-rolls",
+      "nutella",
+      "tapenade",
+      "vegan"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 23,
+    "shard": "n"
   }
 ]
