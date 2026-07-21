@@ -2456,16 +2456,14 @@
   },
   {
     "slug": "nimble-dutch-beef-burger",
-    "title": "Nimble Dutch Beef Burger",
+    "title": "Classic Beef Burger",
     "tags": [
-      "dutch",
-      "high-protein",
-      "peppery",
-      "quick-meal",
-      "whole30"
+      "beef",
+      "burger",
+      "classic"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 22,
+    "cuisine": "American",
+    "totalTimeMin": 18,
     "shard": "n"
   },
   {
@@ -12884,15 +12882,12 @@
   },
   {
     "slug": "nutty-crunchy-filipino-beetroot-tinola",
-    "title": "Nutty Crunchy Filipino Beetroot Tinola",
+    "title": "Filipino Tinola Soup with a Twist",
     "tags": [
-      "beetroot-recipes",
-      "chicken-recipes",
-      "filipino-food",
-      "high-protein",
-      "keto-friendly",
-      "low-carb",
-      "weeknight"
+      "filipino",
+      "soup",
+      "chicken",
+      "beetroot"
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 50,
@@ -19394,6 +19389,59 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nitro-charred-tunisian-chickpeas-casserole--vegan",
+    "title": "Vegan Tunisian Chickpea Casserole",
+    "tags": [
+      "vegan",
+      "north-african",
+      "casserole",
+      "chickpeas"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-almond-stir-fry--indian",
+    "title": "Nutty Almond Stir Fry",
+    "tags": [
+      "vegetarian",
+      "indian-food",
+      "snack-ideas"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-venezuelan-mackerel-skewers--japanese",
+    "title": "Grilled Mackerel Skewers with Japanese Glaze",
+    "tags": [
+      "grilled",
+      "skewers",
+      "mackerel",
+      "japanese",
+      "glaze",
+      "soy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
+    "shard": "n"
+  },
+  {
+    "slug": "nurturing-irish-rice-pilaf--thai",
+    "title": "Thai-Style Irish Chicken Pilaf",
+    "tags": [
+      "thai",
+      "chicken",
+      "pilaf",
+      "irish"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "n"
   }
 ]
