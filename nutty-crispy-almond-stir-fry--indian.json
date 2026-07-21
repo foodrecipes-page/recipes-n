@@ -1,0 +1,64 @@
+{
+  "slug": "nutty-crispy-almond-stir-fry--indian",
+  "title": "Nutty Almond Stir Fry",
+  "description": "A simple and flavorful Indian-inspired stir fry using almonds, crunchy ingredients, and spices.",
+  "cuisine": "Indian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crispy rice cereal",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and sauté until translucent.",
+    "Add mushrooms and stir-fry for 3-4 minutes.",
+    "Add almonds and crispy rice cereal, stir to combine.",
+    "Pour in stir-fry sauce and cook until bubbly.",
+    "Remove from heat and serve as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "indian-food",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-almond-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:23:16.224Z"
+}
