@@ -1,0 +1,69 @@
+{
+  "slug": "nutty-dense-midnight-poaching-silken-tofu--italian",
+  "title": "Midnight Tofu Panna Cotta",
+  "description": "A creamy Italian dessert featuring midnight tofu, nutty flavors, and a delicate texture.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "midnight tofu",
+      "amount": "1 package (12 oz)"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 cup (120g)"
+    },
+    {
+      "name": "silken tofu",
+      "amount": "1/4 cup (60g)"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp (30g)",
+      "notes": "or to taste"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp (5g)",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp (5g)"
+    }
+  ],
+  "instructions": [
+    "Combine midnight tofu, nutty, silken tofu, maple syrup, vanilla extract (if using), and lemon zest in a blender.",
+    "Blend until smooth and creamy.",
+    "Pour the mixture into small individual serving cups or ramekins.",
+    "Place the cups in a large baking dish and add hot water to come halfway up the sides of the cups.",
+    "Bake at 375°F (190°C) for 25-30 minutes or until set.",
+    "Remove the cups from the water bath and refrigerate for at least 4 hours or overnight.",
+    "Serve chilled, garnished with additional nutty or fresh fruit if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegan",
+    "dessert",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-dense-midnight-poaching-silken-tofu--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:14:01.949Z"
+}
