@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-smoky-venezuelan-mackerel-skewers--japanese",
+  "title": "Grilled Mackerel Skewers with Japanese Glaze",
+  "description": "A flavorful and healthy dish that combines the richness of mackerel with the sweetness of a Japanese-inspired glaze, all on a stick.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mackerel fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "Pure and raw"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "Unseasoned"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Food-grade and wooden"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a small bowl, whisk together soy sauce, honey, and rice vinegar.",
+    "Add the grated ginger to the bowl and stir to combine.",
+    "Cut the mackerel into 1-inch pieces and thread onto skewers.",
+    "Brush the mackerel with the soy glaze, making sure they're evenly coated.",
+    "Season with salt and pepper to taste.",
+    "Grill the mackerel for 4-5 minutes per side, or until cooked through.",
+    "Transfer the skewers to a serving platter and garnish with green onions.",
+    "Serve immediately and enjoy!",
+    "Let the skewers rest for 2-3 minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "mackerel",
+    "japanese",
+    "glaze",
+    "soy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-venezuelan-mackerel-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:24:19.649Z"
+}
