@@ -1,0 +1,76 @@
+{
+  "slug": "nose-tingling-roast-kenyan-mushrooms-roast",
+  "title": "Roast Mushroom Delight",
+  "description": "A hearty and flavorful dish featuring roasted mushrooms in a savory Kenyan-inspired spice blend.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "Assorted types, sliced"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tablespoons",
+      "notes": "Kenyan-style spice blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For roasting"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a large bowl, toss the sliced mushrooms with olive oil, salt, and pepper until they are evenly coated.",
+    "Add the chopped onion and minced garlic to the bowl and toss to combine.",
+    "Sprinkle the Kenyan-style roast spice blend over the mushrooms and toss again to ensure they are evenly coated.",
+    "Transfer the mushroom mixture to a baking sheet and roast in the preheated oven for 20-25 minutes, or until the mushrooms are tender and lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "mushroom",
+    "roast",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nose-tingling-roast-kenyan-mushrooms-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:10:51.419Z"
+}
