@@ -1,0 +1,79 @@
+{
+  "slug": "nutty-crunchy-filipino-beetroot-tinola",
+  "title": "Filipino Tinola Soup with a Twist",
+  "description": "A classic Filipino ginger-based chicken soup with the added crunch of beetroot and nutty flavor. This comforting dish is perfect for a cold day.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Beetroot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tinola",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Sauté the onion and garlic until softened.",
+    "Add the ginger and cook for 1 minute.",
+    "Add the chicken and cook until browned.",
+    "Add the beetroot, tinola, and 4 cups of water.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Season with salt and crushed black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "soup",
+    "chicken",
+    "beetroot"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crunchy-filipino-beetroot-tinola",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:30:54.552Z"
+}
