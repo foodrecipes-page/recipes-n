@@ -1,0 +1,74 @@
+{
+  "slug": "nourishing-earthy-ukrainian-graham-cracker-terrine--vegan",
+  "title": "Ukrainian-inspired Vegan Terrine with Graham Cracker Crust",
+  "description": "A unique and earthy vegan terrine recipe, featuring a rich graham cracker crust and a nourishing, plant-based filling.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Graham crackers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Earthly mushroom broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nourishing wild rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian-style vegan sour cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried dill weed",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Crush the graham crackers and mix them with a pinch of salt. Press the mixture into the bottom of a terrine mold.",
+    "In a separate pan, sauté the coconut oil and dried dill weed over low heat for 2 minutes.",
+    "Add the mushroom broth and wild rice to the pan, and bring to a simmer. Cook until the rice is tender.",
+    "Stir in the Ukrainian-style vegan sour cream, and season with salt to taste.",
+    "Pour the filling over the graham cracker crust in the terrine mold.",
+    "Bake for 25 minutes, or until the filling is set and the crust is golden brown.",
+    "Let the terrine cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "ukrainian",
+    "earthly",
+    "graham-cracker",
+    "terrine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-earthy-ukrainian-graham-cracker-terrine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:17:56.165Z"
+}
