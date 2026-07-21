@@ -1,0 +1,96 @@
+{
+  "slug": "nostalgic-japanese-beef-gyudon--thai",
+  "title": "Beef Gyudon Bites with Thai Twist",
+  "description": "A Japanese-inspired dish with a Thai twist, featuring crispy beef bites served with a rich and savory sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "thinly sliced ribeye"
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": " Thai fish sauce"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "packed"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": "unseasoned"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": " toasted"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Japanese style"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (175°C).",
+    "In a bowl, mix together beef, onion, garlic, fish sauce, soy sauce, brown sugar, and rice vinegar.",
+    "Using wet hands, shape the beef mixture into small balls, about 1-inch in diameter.",
+    "Dredge the beef balls in panko breadcrumbs, pressing gently to coat.",
+    "Fry the beef bites in batches until golden brown, about 3-4 minutes per batch.",
+    "Drain the beef bites on paper towels.",
+    "In a small saucepan, combine sesame oil and 1 tablespoon of soy sauce.",
+    "Bring the sauce to a simmer over medium heat.",
+    "Add the fried beef bites to the saucepan and toss to coat.",
+    "Transfer the beef bites to a serving dish and garnish with green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "beef",
+    "gyudon",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-japanese-beef-gyudon--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:18:41.811Z"
+}
