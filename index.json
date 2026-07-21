@@ -6357,15 +6357,16 @@
   },
   {
     "slug": "nourishing-lamination-puff-ukrainian-morbier-tagine",
-    "title": "Ukrainian Puff Pastry Tagine",
+    "title": "Baked Morbier Tart",
     "tags": [
-      "french",
-      "ukrainian",
+      "morbier",
       "pastry",
-      "tagine"
+      "tart",
+      "ukrainian",
+      "sauerkraut"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "cuisine": "French",
+    "totalTimeMin": 45,
     "shard": "n"
   },
   {
@@ -12989,19 +12990,16 @@
   },
   {
     "slug": "nutty-crunchy-ukrainian-pecan-stir-fry",
-    "title": "Nutty Crunchy Ukrainian Pecan Stir-fry",
+    "title": "Pecan Nut Crunchy Stir Fry",
     "tags": [
-      "easy-stir-fry",
-      "gluten-free",
-      "high-protein",
-      "kosher",
-      "nut-crunch",
-      "one-pan",
-      "ukrainian-cuisine",
-      "weeknight"
+      "stir-fry",
+      "pecan",
+      "nutty",
+      "crunchy",
+      "ukrainian"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 20,
+    "cuisine": "International",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -19483,6 +19481,32 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nostalgic-japanese-beef-gyudon--thai",
+    "title": "Beef Gyudon Bites with Thai Twist",
+    "tags": [
+      "japanese",
+      "beef",
+      "gyudon",
+      "thai"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nimble-middle-eastern-fennel-warak-enab--french",
+    "title": "Braised Fennel with Eastern-Style Nimble Meatballs",
+    "tags": [
+      "french",
+      "fennel",
+      "meatballs",
+      "eastern-style"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "n"
   }
 ]
