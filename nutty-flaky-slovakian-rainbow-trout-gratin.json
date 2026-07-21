@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-flaky-slovakian-rainbow-trout-gratin",
+  "title": "Pan-Seared Trout with Slovakian Crust",
+  "description": "A delicious and healthy fish dish, topped with a crunchy Slovakian crust. Perfect for a quick dinner.",
+  "cuisine": "European",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": "fresh trout fillets, skin removed"
+    },
+    {
+      "name": "slovakian wholemeal breadcrumbs",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "nutty brown sugar",
+      "amount": "2 tbsp",
+      "notes": "add a hint of nutty flavor"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1 tsp",
+      "notes": "use flaky sea salt for a delicate flavor"
+    },
+    {
+      "name": "rainbow bell peppers",
+      "amount": "1",
+      "notes": "thinly sliced, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the trout fillets with flaky sea salt and a pinch of black pepper.",
+    "In a shallow dish, mix together Slovakian wholemeal breadcrumbs, nutty brown sugar, and a pinch of salt.",
+    "Dip each trout fillet into the breadcrumb mixture, coating both sides evenly.",
+    "Heat a non-stick skillet over medium-high heat. Add 1-2 tbsp of oil and sear the trout fillets for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "Garnish with thinly sliced rainbow bell peppers and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "slovakian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-flaky-slovakian-rainbow-trout-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:52:17.688Z"
+}
