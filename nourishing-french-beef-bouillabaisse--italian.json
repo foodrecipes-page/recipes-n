@@ -1,0 +1,99 @@
+{
+  "slug": "nourishing-french-beef-bouillabaisse--italian",
+  "title": "Beef Bouillabaisse Italiano",
+  "description": "A creative twist on the classic French bouillabaisse, with Italian flavors and beef as the main ingredient.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (braising steak)",
+      "amount": "500g",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Canned tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "White wine",
+      "amount": "250ml"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bouillabaisse (French soup mix)",
+      "amount": "1 packet",
+      "notes": "Follow instructions on packet for mix"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "4 slices",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the canned tomatoes, white wine, beef broth, Italian seasoning, salt, and black pepper.",
+    "Return the beef to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours or until the beef is tender.",
+    "Add the bouillabaisse mix to the pot and stir to combine.",
+    "Simmer for another 30 minutes.",
+    "Serve hot with crusty bread on the side.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "italian",
+    "lunch",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 23,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-french-beef-bouillabaisse--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:09:43.273Z"
+}
