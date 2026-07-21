@@ -1,0 +1,80 @@
+{
+  "slug": "nitro-charred-tunisian-chickpeas-casserole--vegan",
+  "title": "Vegan Tunisian Chickpea Casserole",
+  "description": "A flavorful and nutritious casserole made with chickpeas, inspired by the spices of Tunisia. This easy-to-make dish is perfect for a weeknight dinner.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "plus more for greasing the dish"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a 9x13 inch baking dish with olive oil.",
+    "In a large pan, heat the olive oil over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the bell peppers and cook until tender, about 5 minutes.",
+    "Add the garlic, tunisian spice blend, and chickpeas. Cook for 1-2 minutes, stirring constantly.",
+    "Transfer the mixture to the prepared baking dish.",
+    "If using parsley, sprinkle it on top of the casserole.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the casserole is hot and the top is lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "north-african",
+    "casserole",
+    "chickpeas"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nitro-charred-tunisian-chickpeas-casserole--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:38:55.218Z"
+}
