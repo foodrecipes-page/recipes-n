@@ -1,0 +1,95 @@
+{
+  "slug": "nurturing-irish-rice-pilaf--thai",
+  "title": "Thai-Style Irish Chicken Pilaf",
+  "description": "A flavorful and aromatic Thai-inspired pilaf dish featuring Irish chicken, rice, and a mix of spices.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat coconut oil in a large skillet or wok over medium-high heat.",
+    "2. Add the chicken breast and cook until browned, about 5-6 minutes per side.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. Add the Thai red curry paste to the skillet and cook for 1-2 minutes, until fragrant.",
+    "5. Add the rice to the skillet and cook for 2-3 minutes, until lightly toasted.",
+    "6. Add the chicken broth, fish sauce, brown sugar, salt, and black pepper to the skillet.",
+    "7. Stir to combine and bring to a boil.",
+    "8. Reduce the heat to low, cover, and simmer for 15-20 minutes, until the liquid has been absorbed and the rice is tender.",
+    "9. Fluff the pilaf with a fork and stir in the chopped Thai basil.",
+    "10. Slice the cooked chicken breast and serve on top of the pilaf."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "pilaf",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nurturing-irish-rice-pilaf--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:29:20.142Z"
+}
