@@ -1,0 +1,81 @@
+{
+  "slug": "nutty-juicy-brazilian-chicken-pasta",
+  "title": "Brazilian Chicken Pasta",
+  "description": "A flavorful and easy-to-make pasta dish featuring chicken, tomatoes, and a hint of Brazilian spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "any shape"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "nutty oil",
+      "amount": "2 tbsp",
+      "notes": "such as peanut or Brazil nut oil"
+    },
+    {
+      "name": "diced juicy tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Brazilian spices",
+      "amount": "1 tsp",
+      "notes": "such as cumin, oregano, and thyme"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat the nutty oil over medium-high heat.",
+    "Add the chicken breast and cook until browned and cooked through, about 5-6 minutes.",
+    "Transfer the chicken to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the diced juicy tomatoes and cook until they start to break down, about 3-4 minutes.",
+    "Add the Brazilian spices and stir to combine.",
+    "Return the chicken to the skillet and toss with the tomato mixture.",
+    "Stir in the chopped cilantro, if using.",
+    "Serve the chicken and tomato mixture over the cooked pasta.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "chicken",
+    "pasta",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-juicy-brazilian-chicken-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:42:13.677Z"
+}
