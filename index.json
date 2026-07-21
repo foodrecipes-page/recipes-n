@@ -19511,5 +19511,45 @@
     "cuisine": "French",
     "totalTimeMin": 55,
     "shard": "n"
+  },
+  {
+    "slug": "naturally-sweet-brazilian-coconut-cookies--chinese",
+    "title": "Coconut Sweet Buns (Chinese-Style)",
+    "tags": [
+      "chinese",
+      "sweet",
+      "buns",
+      "coconut",
+      "dessert"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-middle-eastern-cheese-knafeh--french",
+    "title": "French Knafeh Croissants",
+    "tags": [
+      "french",
+      "knaveh",
+      "croissant",
+      "dessert"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-rich-german-egg-yolk-custard--japanese",
+    "title": "Japanese Custard Creme Brûlée",
+    "tags": [
+      "japanese",
+      "dessert",
+      "custard",
+      "creme-brulee"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 50,
+    "shard": "n"
   }
 ]
