@@ -1,0 +1,80 @@
+{
+  "slug": "naturally-sweet-brazilian-coconut-cookies--chinese",
+  "title": "Coconut Sweet Buns (Chinese-Style)",
+  "description": "Soft, fluffy buns filled with a sweet coconut and naturally sweet filling, perfect for snacking or dessert.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "naturally sweet yams",
+      "amount": "2 medium",
+      "notes": "peeled and mashed"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons",
+      "notes": "active dry"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "brazilian sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine warm milk and yeast. Let it sit for 5 minutes until frothy.",
+    "2. Add sugar, mashed yams, flour, and eggs to the bowl. Mix until a dough forms.",
+    "3. Knead the dough for 10 minutes until smooth and elastic.",
+    "4. Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "5. Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "6. Punch down the dough and divide it into 8 equal pieces.",
+    "7. Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "8. Place a tablespoon of coconut milk in the center of each disk. Fold the dough over the filling and press the edges together to seal.",
+    "9. Brush the tops with egg wash and sprinkle with sesame seeds.",
+    "10. Bake for 18-20 minutes until golden brown.",
+    "11. Let the buns cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "sweet",
+    "buns",
+    "coconut",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-sweet-brazilian-coconut-cookies--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:28:56.230Z"
+}
