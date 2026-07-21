@@ -14339,16 +14339,15 @@
   },
   {
     "slug": "nutty-juicy-brazilian-chicken-pasta",
-    "title": "Nutty Juicy Brazilian Chicken Pasta",
+    "title": "Brazilian Chicken Pasta",
     "tags": [
-      "brazilian-cuisine",
-      "date-night",
-      "nutty-sauce",
-      "one-pan",
-      "paleo-friendly"
+      "brazilian",
+      "chicken",
+      "pasta",
+      "easy-dinner"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "n"
   },
   {
@@ -19469,6 +19468,21 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-slovakian-beef-fondue--german",
+    "title": "Slovakian Beef Fondue",
+    "tags": [
+      "beef",
+      "german",
+      "slovakian",
+      "fondue",
+      "dinner",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "n"
   }
 ]
