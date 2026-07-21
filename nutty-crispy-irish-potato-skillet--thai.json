@@ -1,0 +1,70 @@
+{
+  "slug": "nutty-crispy-irish-potato-skillet--thai",
+  "title": "Thai Irish Skillet Delight",
+  "description": "A crispy and nutty twist on traditional Thai cuisine, featuring pan-fried Irish potatoes.",
+  "cuisine": "thai",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Crispy fried shallots",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Nutty peanut oil",
+      "amount": "2 tbsp",
+      "notes": "or regular vegetable oil"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Skillet salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat peanut oil in a large skillet over medium-high heat.",
+    "Add the sliced Irish potatoes and cook for 5 minutes, stirring occasionally.",
+    "Add the crispy fried shallots, Thai red curry paste, and skillet salt. Stir-fry for 1 minute.",
+    "Reduce heat to medium-low and simmer for 10 minutes, or until potatoes are tender.",
+    "Garnish with chopped cilantro. Serve hot.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "irishpotatoes",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-irish-potato-skillet--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:11:21.036Z"
+}
