@@ -1,0 +1,69 @@
+{
+  "slug": "nutty-crunchy-ukrainian-pecan-stir-fry",
+  "title": "Pecan Nut Crunchy Stir Fry",
+  "description": "A quick and easy stir fry recipe with crunchy pecans and a nutty twist.",
+  "cuisine": "International",
+  "diet": [
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pecans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy Vegetables",
+      "amount": "1 cup (bell peppers, carrots, broccoli)",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian Sausage",
+      "amount": "1 pound",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Stir Fry Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Your favorite brand"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet or wok over medium-high heat.",
+    "Add Ukrainian sausage and cook until browned.",
+    "Add crunchy vegetables and stir-fry for 3-4 minutes.",
+    "Add pecans and stir-fry for another minute.",
+    "Pour in stir-fry sauce and stir to coat.",
+    "Cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "pecan",
+    "nutty",
+    "crunchy",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crunchy-ukrainian-pecan-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:32:32.645Z"
+}
