@@ -1,0 +1,96 @@
+{
+  "slug": "naturally-smoky-filipino-pappardelle-pasta--keto",
+  "title": "Smoky Filipino Keto Pappardelle",
+  "description": "A keto twist on a classic Filipino dish, featuring smoky flavors and a delicious smoky Filipino-inspired sauce.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pappardelle",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Smoked Pork Belly",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece (about 1 inch long)",
+      "notes": null
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce (make sure it's sugar-free for keto)",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Sambal Oelek",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the pappardelle according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat the coconut oil over medium-high heat.",
+    "Add the smoked pork belly and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork belly from the skillet and set aside.",
+    "In the same skillet, add the garlic and ginger and cook until fragrant, about 1 minute.",
+    "Add the fish sauce, soy sauce, sambal oelek, and chili flakes to the skillet. Cook for 1-2 minutes, stirring constantly.",
+    "Add the reserved pasta water to the skillet and stir to combine.",
+    "Return the pork belly to the skillet and stir to coat with the sauce.",
+    "Add the cooked pappardelle to the skillet and toss everything together.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "filipino",
+    "smoky",
+    "pappardelle"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 34,
+    "carbs": 6,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-smoky-filipino-pappardelle-pasta--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:17:56.849Z"
+}
