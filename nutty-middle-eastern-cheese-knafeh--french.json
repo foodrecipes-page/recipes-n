@@ -1,0 +1,81 @@
+{
+  "slug": "nutty-middle-eastern-cheese-knafeh--french",
+  "title": "French Knafeh Croissants",
+  "description": "A French twist on the classic Middle Eastern dessert, featuring flaky croissants and a nutty knafeh filling.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "1 cup (2 sticks)",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "For croissant dough"
+    },
+    {
+      "name": "Knafeh",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "1 large",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 tsp",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Middle eastern cheese",
+      "amount": "1/2 cup crumbled",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine warm milk and yeast. Let it sit for 5 minutes until frothy.",
+    "2. Add sugar, flour, and salt to the bowl. Mix until a shaggy dough forms.",
+    "3. Knead the dough for 10 minutes until smooth and elastic.",
+    "4. Roll out the dough to a thickness of 1/4 inch. Cut into triangles.",
+    "5. Roll each triangle into a croissant shape.",
+    "6. Place the croissants on a baking sheet lined with parchment paper.",
+    "7. In a separate bowl, mix together knafeh, sugar, and nutmeg.",
+    "8. Place a spoonful of the knafeh mixture at the wide end of each croissant.",
+    "9. Fold the croissant in half and press the edges to seal.",
+    "10. Brush the tops with egg wash and bake at 375°F (190°C) for 20-25 minutes.",
+    "11. Allow the croissants to cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "knaveh",
+    "croissant",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-middle-eastern-cheese-knafeh--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:55:14.248Z"
+}
