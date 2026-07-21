@@ -1,0 +1,82 @@
+{
+  "slug": "nimble-dutch-beef-burger",
+  "title": "Classic Beef Burger",
+  "description": "A traditional beef burger recipe with a flavorful patty and crispy toppings. Perfect for a quick lunch or dinner.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Dutch Processed Buns",
+      "amount": "4",
+      "notes": "split them before toasting"
+    },
+    {
+      "name": "Sliced Cheese (Cheddar)",
+      "amount": "4 slices",
+      "notes": "optional, but a classic"
+    },
+    {
+      "name": "Letuce",
+      "amount": "1 head",
+      "notes": "shredded or chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Pickles",
+      "amount": "4 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "Burger Sauce",
+      "amount": "4 tablespoons",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Divide the ground beef into 4 equal parts and shape into patties.",
+    "3. Season the patties with salt and pepper.",
+    "4. Grill the patties for 4-5 minutes per side, or until they reach an internal temperature of 160°F.",
+    "5. Meanwhile, toast the buns on the grill or in a toaster.",
+    "6. Assemble the burgers by spreading a tablespoon of burger sauce on the bottom bun, followed by a lettuce leaf, a tomato slice, a cheese slice (if using), a beef patty, a few slices of pickle (if using), and finally the top bun.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "burger",
+    "classic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-dutch-beef-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:36:48.581Z"
+}
