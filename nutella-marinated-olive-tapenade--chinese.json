@@ -1,0 +1,92 @@
+{
+  "slug": "nutella-marinated-olive-tapenade--chinese",
+  "title": "Chili Nutella Tapenade Spring Rolls",
+  "description": "A unique fusion of Chinese spring rolls with the flavors of Nutella and tapenade.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wonton wrappers",
+      "amount": "1 package",
+      "notes": "usually found in the refrigerated section"
+    },
+    {
+      "name": "Nutella",
+      "amount": "1/4 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "Tapenade",
+      "amount": "2 tbsp",
+      "notes": "for filling"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1/2 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Marinated tofu",
+      "amount": "1/2 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. Lay a wonton wrapper on a clean surface.",
+    "2. Place a small amount of Nutella, tapenade, marinated tofu, cucumber, and carrots in the center of the wrapper.",
+    "3. Brush the edges of the wrapper with a small amount of water.",
+    "4. Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "5. Repeat with the remaining wrappers and filling.",
+    "6. Heat 1-2 inches of vegetable oil in a large skillet over medium-high heat.",
+    "7. When the oil is hot, add a few of the spring rolls to the skillet and fry until golden brown, about 3-4 minutes.",
+    "8. Remove the spring rolls from the oil with a slotted spoon and drain on paper towels.",
+    "9. Serve the spring rolls hot with a drizzle of olive oil and a sprinkle of green onions.",
+    "10. Garnish with additional tapenade if desired.",
+    "11. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "spring-rolls",
+    "nutella",
+    "tapenade",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutella-marinated-olive-tapenade--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:21:05.326Z"
+}
