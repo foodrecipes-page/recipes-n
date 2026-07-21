@@ -1,0 +1,93 @@
+{
+  "slug": "nimble-middle-eastern-fennel-warak-enab--french",
+  "title": "Braised Fennel with Eastern-Style Nimble Meatballs",
+  "description": "A hearty French-inspired dish that combines the flavors of fennel and nimble meatballs with a rich and tangy eastern-style sauce.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fennel",
+      "amount": "2 bulbs",
+      "notes": ""
+    },
+    {
+      "name": "Nimble",
+      "amount": "1 pound",
+      "notes": "80/20 ground beef and pork mix"
+    },
+    {
+      "name": "Middle Eastern Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Warak Enab",
+      "amount": "1 cup",
+      "notes": "chopped fresh parsley and mint"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut fennel bulbs in half and place on a baking sheet. Drizzle with olive oil and season with salt and pepper.",
+    "Roast fennel in the oven for 20-25 minutes, or until tender and caramelized.",
+    "While fennel is roasting, prepare meatballs by mixing nimble, middle eastern spice blend, and a pinch of salt in a bowl.",
+    "Use your hands to shape mixture into small meatballs, about 1 1/2 inches in diameter.",
+    "Heat a large skillet over medium-high heat. Add a small amount of oil to the pan and cook the meatballs until browned on all sides, about 5-7 minutes.",
+    "Remove meatballs from the pan and set aside.",
+    "Add white wine to the pan and cook until reduced by half, scraping up any browned bits from the bottom of the pan.",
+    "Add beef broth to the pan and bring to a simmer.",
+    "Return meatballs to the pan and simmer for 10-15 minutes, or until cooked through.",
+    "Stir in chopped warak enab and cook for an additional 2-3 minutes.",
+    "Serve meatballs and sauce over roasted fennel.",
+    "Garnish with additional warak enab, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "fennel",
+    "meatballs",
+    "eastern-style"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-middle-eastern-fennel-warak-enab--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:38:25.196Z"
+}
