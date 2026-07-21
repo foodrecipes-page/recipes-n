@@ -19443,5 +19443,32 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-dense-midnight-poaching-silken-tofu--italian",
+    "title": "Midnight Tofu Panna Cotta",
+    "tags": [
+      "italian",
+      "vegan",
+      "dessert",
+      "tofu"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-earthy-ukrainian-graham-cracker-terrine--vegan",
+    "title": "Ukrainian-inspired Vegan Terrine with Graham Cracker Crust",
+    "tags": [
+      "vegan",
+      "ukrainian",
+      "earthly",
+      "graham-cracker",
+      "terrine"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 40,
+    "shard": "n"
   }
 ]
