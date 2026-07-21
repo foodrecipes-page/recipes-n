@@ -1,0 +1,107 @@
+{
+  "slug": "nutty-peruvian-tahini-stir-fry--mexican",
+  "title": "Tahini Chicken Fajitas",
+  "description": "Spicy chicken fajitas with a nutty twist from tahini sauce, inspired by Mexican flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "fry",
+      "amount": "1 tablespoon",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    },
+    {
+      "name": "peruvian",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "sour cream",
+      "amount": "8 ounces",
+      "notes": "optional"
+    },
+    {
+      "name": "fajita peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "fajita onions",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "1 packet",
+      "notes": null
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "2. Add the chicken and cook until browned, about 5-6 minutes.",
+    "3. Add the fajita peppers and onions to the skillet and cook until tender.",
+    "4. In a small bowl, whisk together tahini, cumin, and lime juice.",
+    "5. Add the tahini sauce to the skillet and stir to coat the chicken and vegetables.",
+    "6. Season with salt, pepper, and fajita seasoning.",
+    "7. Serve hot with lime wedges and sour cream, if desired.",
+    "8. Heat the remaining 1 tablespoon of oil in a small skillet over medium heat.",
+    "9. Add the fajita seasoning to the oil and cook for 1 minute.",
+    "10. Add the chicken to the skillet and cook until heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tahini",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-peruvian-tahini-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:12:11.127Z"
+}
