@@ -1,83 +1,89 @@
 {
   "slug": "nourishing-crumbly-uruguayan-speck-cazuela",
-  "title": "Uruguayan Cazuela with Speck",
-  "description": "A hearty and comforting Uruguayan stew made with speck, beef, and nourishing ingredients.",
+  "title": "Uruguayan Cazuela Casserole",
+  "description": "A hearty Uruguayan-inspired casserole featuring crumbly speck and nourishing vegetables, perfect for a comforting meal.",
   "cuisine": "Uruguayan",
   "diet": [
-    "beef",
-    "pork"
+    "comfort",
+    "meat-based"
   ],
-  "meal": "breakfast",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "Speck",
-      "amount": "500g",
-      "notes": ""
+      "amount": "8 oz",
+      "notes": "Diced"
     },
     {
-      "name": "Ground Beef",
-      "amount": "1kg",
-      "notes": ""
+      "name": "Onions",
+      "amount": "1",
+      "notes": "Chopped"
     },
     {
-      "name": "Nourishing",
-      "amount": "1 cup",
-      "notes": "optional"
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "Sliced"
     },
     {
-      "name": "Uruguayan",
-      "amount": "1 tsp",
-      "notes": "ground cumin"
+      "name": "Potatoes",
+      "amount": "3",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Uruguayan chorizo",
+      "amount": "8 oz",
+      "notes": "Diced"
     },
     {
       "name": "Cazuela",
       "amount": "2 cups",
-      "notes": "beef broth"
+      "notes": "Uruguayan beef broth"
     },
     {
-      "name": "Onion",
-      "amount": "1 medium",
-      "notes": ""
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "Diced"
     },
     {
-      "name": "Potato",
-      "amount": "2 medium",
-      "notes": ""
+      "name": "Salt",
+      "amount": "to taste"
     },
     {
-      "name": "Carrot",
-      "amount": "2 medium",
-      "notes": ""
+      "name": "Black pepper",
+      "amount": "to taste"
     }
   ],
   "instructions": [
-    "Heat oil in a large pot over medium heat. Add speck and cook until browned, about 5 minutes.",
-    "Add ground beef and cook until browned, breaking it up into small pieces as it cooks.",
-    "Add onion, potato, and carrot to the pot. Cook until the vegetables are slightly tender, about 5 minutes.",
-    "Add cazuela (beef broth), nourishing (optional), and Uruguayan (ground cumin) to the pot.",
-    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1-2 hours, or until the meat and vegetables are tender.",
-    "Season with salt and pepper to taste.",
-    "Serve hot, garnished with chopped fresh herbs if desired."
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, cook the diced speck over medium heat until browned.",
+    "Add the chopped onions and cook until softened.",
+    "Add the sliced carrots and potatoes and cook for 5 minutes.",
+    "Add the diced chorizo and cook for an additional 2 minutes.",
+    "In a large bowl, combine the cooked mixture, diced tomatoes, and Uruguayan beef broth.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the potatoes are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 120,
-  "totalTimeMin": 135,
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
     "uruguayan",
-    "beef",
-    "stew",
-    "breakfast"
+    "casserole",
+    "comfort-food"
   ],
   "nutrition": {
     "calories": 450,
     "protein": 35,
-    "carbs": 30,
-    "fat": 20
+    "carbs": 40,
+    "fat": 25
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-crumbly-uruguayan-speck-cazuela",
   "providerUsed": "groq",
-  "createdAt": "2026-07-17T17:12:18.593Z"
+  "createdAt": "2026-07-18T21:58:57.049Z"
 }
