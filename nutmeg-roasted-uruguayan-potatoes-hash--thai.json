@@ -1,0 +1,57 @@
+{
+  "slug": "nutmeg-roasted-uruguayan-potatoes-hash--thai",
+  "title": "Uruguayan Hash Browns with Spicy Nutmeg",
+  "description": "A unique fusion of Uruguayan hash and Spicy Thai flavors. Perfect as a side dish or breakfast item.",
+  "cuisine": "Thai",
+  "diet": [
+    "Vegetarian",
+    "Gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Uruguayan Hash",
+      "amount": "2 cups",
+      "notes": "Available in most Latin American grocery stores"
+    },
+    {
+      "name": "Roasted Potatoes",
+      "amount": "1 cup",
+      "notes": "Dice into small pieces before using"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": "Use fresh or ground nutmeg for best flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Dice the roasted potatoes into small pieces and add to the Uruguayan hash.",
+    "3. Mix in the grated nutmeg for a spicy kick.",
+    "4. Transfer the mixture to a baking sheet and shape into patties.",
+    "5. Bake for 20-25 minutes, flipping halfway through, until golden brown.",
+    "6. Serve hot with your favorite breakfast items."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "breakfast",
+    "side-dish",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutmeg-roasted-uruguayan-potatoes-hash--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:23:14.579Z"
+}
