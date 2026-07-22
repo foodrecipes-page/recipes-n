@@ -1,0 +1,71 @@
+{
+  "slug": "nutty-creamy-light-algerian-peanut-stir-fry",
+  "title": "Algerian Peanut Stir Fry",
+  "description": "A flavorful and nutritious Algerian-inspired stir fry made with peanuts, vegetables, and spices. Serve hot over rice or noodles.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "light peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "stir-fry vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, carrots, and broccoli"
+    },
+    {
+      "name": "creamy nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": "ground nutmeg adds a warm, creamy flavor"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "1/2 teaspoon",
+      "notes": "a mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped or sliced"
+    },
+    {
+      "name": "nutty soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or regular soy sauce"
+    }
+  ],
+  "instructions": [
+    "Heat the peanut oil in a large skillet or wok over medium-high heat.",
+    "Add the stir-fry vegetables and cook until they start to soften, about 3-4 minutes.",
+    "Add the creamy nutmeg, Algerian spice blend, and peanuts. Stir-fry for another 2-3 minutes.",
+    "Add the soy sauce and stir-fry for 1-2 minutes, until the vegetables are tender-crisp.",
+    "Serve hot over rice or noodles and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "peanut",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-creamy-light-algerian-peanut-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:34:54.871Z"
+}
