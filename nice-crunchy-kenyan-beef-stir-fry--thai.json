@@ -1,0 +1,77 @@
+{
+  "slug": "nice-crunchy-kenyan-beef-stir-fry--thai",
+  "title": "Thai Kenyan Beef Stir Fry",
+  "description": "A flavorful and spicy stir fry dish made with Kenyan beef, crunchy vegetables, and authentic Thai spices.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan beef (sirloin)",
+      "amount": "250g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Nice crunchy carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Fry onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Stir fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large frying pan over medium-high heat.",
+    "Add the sliced onions and fry until they are translucent.",
+    "Add the grated carrots and continue frying for another 2-3 minutes.",
+    "Add the thinly sliced Kenyan beef and stir-fry until browned.",
+    "Add the stir-fry sauce (Thai red curry paste) and stir well.",
+    "Cook for a further 2-3 minutes until the beef is cooked to your liking.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-crunchy-kenyan-beef-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:19:15.609Z"
+}
