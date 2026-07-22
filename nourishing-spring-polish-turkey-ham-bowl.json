@@ -1,0 +1,97 @@
+{
+  "slug": "nourishing-spring-polish-turkey-ham-bowl",
+  "title": "Polish-Style Spring Nourishing Bowl",
+  "description": "A hearty, comforting bowl filled with nourishing ingredients and a hint of Polish flair.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish Sausage",
+      "amount": "1 pound",
+      "notes": "look for a natural, uncured option"
+    },
+    {
+      "name": "Spring Vegetables",
+      "amount": "2 cups",
+      "notes": "such as asparagus, carrots, and bell peppers"
+    },
+    {
+      "name": "Nourishing Soup",
+      "amount": "2 cups",
+      "notes": "such as borscht or beet soup"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "preferably made of ceramic or glass"
+    },
+    {
+      "name": "Turkey Bacon",
+      "amount": "4 slices",
+      "notes": "look for a low-sodium option"
+    },
+    {
+      "name": "Fresh Herbs",
+      "amount": "1/4 cup",
+      "notes": "such as parsley, dill, or chives"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crusty Bread",
+      "amount": "1 slice",
+      "notes": "preferably whole grain"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the Polish sausage into 1-inch pieces and place on a baking sheet.",
+    "Drizzle with olive oil and sprinkle with salt and pepper.",
+    "Bake in the oven for 15-20 minutes, or until lightly browned.",
+    "While the sausage is baking, cook the turkey bacon in a pan over medium heat until crispy.",
+    "Add the spring vegetables to the pan and cook until tender.",
+    "Serve the sausage and vegetables over a bed of nourishing soup in a large bowl.",
+    "Garnish with fresh herbs and serve with crusty bread on the side.",
+    "Enjoy your delicious Polish-Style Spring Nourishing Bowl!",
+    "Note: You can also serve this dish as a main course or add some Polish-style pierogies for extra flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "spring",
+    "nourishing",
+    "lunch",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-spring-polish-turkey-ham-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:35:36.651Z"
+}
