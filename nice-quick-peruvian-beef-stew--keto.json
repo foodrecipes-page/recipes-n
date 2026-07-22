@@ -1,0 +1,90 @@
+{
+  "slug": "nice-quick-peruvian-beef-stew--keto",
+  "title": "Peruvian Beef Stew",
+  "description": "A hearty and flavorful beef stew with a Peruvian twist, perfect for a keto diet.",
+  "cuisine": "peruvian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "250ml",
+      "notes": null
+    },
+    {
+      "name": "aqui chile",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add onion and garlic to pot and cook until onion is translucent, about 5 minutes.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add beef broth, chile, cumin, salt, and pepper. Stir to combine.",
+    "Return beef to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until beef is tender.",
+    "Season with additional salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "keto",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 44,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-quick-peruvian-beef-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:55:35.451Z"
+}
