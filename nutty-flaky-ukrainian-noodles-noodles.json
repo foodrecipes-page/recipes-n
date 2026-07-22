@@ -1,0 +1,85 @@
+{
+  "slug": "nutty-flaky-ukrainian-noodles-noodles",
+  "title": "Traditional Ukrainian Nutty Noodle Dish",
+  "description": "A hearty and comforting Ukrainian-inspired dish featuring nutty and flaky noodles in a rich sauce. Perfect for a cold winter evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nutty noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "flaky noodles",
+      "amount": "150g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the nutty noodles according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat the vegetable oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the dried thyme and rosemary, and stir to combine.",
+    "Add the cooked nutty noodles to the skillet, and toss to coat with the herb-infused oil.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the noodle mixture to a serving dish, and garnish with chopped fresh parsley.",
+    "Cook the flaky noodles according to package instructions until al dente. Drain and serve on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "noodle-dish",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-flaky-ukrainian-noodles-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:10:23.121Z"
+}
