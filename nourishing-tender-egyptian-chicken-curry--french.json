@@ -1,0 +1,91 @@
+{
+  "slug": "nourishing-tender-egyptian-chicken-curry--french",
+  "title": "Egyptian Chicken Curry",
+  "description": "A flavorful and aromatic French-inspired curry dish made with tender chicken and a blend of traditional Egyptian spices.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "French-inspired blend"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and sauté until translucent, about 3-4 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the chicken breast and cook until browned on all sides, about 5-6 minutes.",
+    "Add the curry powder, cumin, coriander, salt, and black pepper. Stir to combine.",
+    "Add the chicken broth and bring the mixture to a simmer.",
+    "Reduce the heat to medium-low and let the curry simmer for 15-20 minutes, or until the chicken is cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "french",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-tender-egyptian-chicken-curry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:59:25.240Z"
+}
