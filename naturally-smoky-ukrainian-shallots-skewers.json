@@ -1,0 +1,80 @@
+{
+  "slug": "naturally-smoky-ukrainian-shallots-skewers",
+  "title": "Smoked Ukrainian Kebabs",
+  "description": "A hearty, savory dish featuring naturally smoked meats, paired with caramelized Ukrainian shallots and served on wooden skewers.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Smoked sausage",
+      "amount": "1/2 pound",
+      "notes": null
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 large",
+      "notes": "caramelized"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "4-6",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread pork, sausage, and shallots onto skewers.",
+    "Season with salt and black pepper.",
+    "Brush with olive oil.",
+    "Grill for 10-12 minutes, or until pork is cooked through.",
+    "Transfer to a plate and garnish with parsley.",
+    "Serve immediately.",
+    "Optional: Serve with additional shallots on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bbq",
+    "kebabs",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-smoky-ukrainian-shallots-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:04:22.623Z"
+}
