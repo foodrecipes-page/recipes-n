@@ -1,0 +1,69 @@
+{
+  "slug": "nutty-sweet-canadian-sugar-wrap--vegetarian",
+  "title": "Nutty Sweet Wrap",
+  "description": "A simple vegetarian wrap recipe with a nutty twist, perfect for a quick snack or lunch.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nutty spread",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sweet wrap",
+      "amount": "1 piece",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "canadian maple syrup",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 slice",
+      "notes": null
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 slice",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Spread nutty spread on the sweet wrap.",
+    "Add a pinch of sugar to taste.",
+    "Optional: add a drizzle of canadian maple syrup.",
+    "Add sliced cucumber and bell pepper.",
+    "Fold the wrap and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "quick-recipe",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-sweet-canadian-sugar-wrap--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:29:25.674Z"
+}
