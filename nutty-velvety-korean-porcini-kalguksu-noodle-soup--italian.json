@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-velvety-korean-porcini-kalguksu-noodle-soup--italian",
+  "title": "Creamy Porcini Soup",
+  "description": "A rich and comforting Italian-inspired soup made with porcini mushrooms, velvety cream, and a hint of nutty flavor.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "porcini mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "nutty broth",
+      "amount": "2 cups",
+      "notes": "use vegetable broth as a substitute if needed"
+    },
+    {
+      "name": "velvety cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "kalguksu noodles",
+      "amount": "1/2 cup",
+      "notes": "optional, for added texture"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for added spice"
+    }
+  ],
+  "instructions": [
+    "Heat the porcini broth in a large saucepan over medium heat.",
+    "Add the kalguksu noodles and cook according to package instructions.",
+    "In a separate pan, sauté the porcini mushrooms in a little bit of oil until tender.",
+    "Add the sautéed mushrooms to the saucepan with the noodles and broth.",
+    "Stir in the velvety cream and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "italian",
+    "mushrooms",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-velvety-korean-porcini-kalguksu-noodle-soup--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:38:35.141Z"
+}
