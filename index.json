@@ -5079,15 +5079,14 @@
   },
   {
     "slug": "nourishing-crumbly-uruguayan-speck-cazuela",
-    "title": "Uruguayan Cazuela with Speck",
+    "title": "Uruguayan Cazuela Casserole",
     "tags": [
       "uruguayan",
-      "beef",
-      "stew",
-      "breakfast"
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 135,
+    "totalTimeMin": 75,
     "shard": "n"
   },
   {
@@ -19620,6 +19619,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nice-quick-peruvian-beef-stew--vegan",
+    "title": "Quick Peruvian Stew",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "peruvian",
+      "stew"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
     "shard": "n"
   }
 ]
