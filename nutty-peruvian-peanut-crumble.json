@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-peruvian-peanut-crumble",
+  "title": "Peanut Crumble Granola",
+  "description": "A delicious and crunchy granola made with peanuts and a nutty crumble topping.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutty crumble",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large bowl, mix together peanuts, nutty crumble, and salt.",
+    "In a separate bowl, mix together coconut oil, maple syrup, and vanilla extract.",
+    "Pour the wet ingredients over the dry ingredients and stir until everything is well combined.",
+    "Spread the mixture onto a baking sheet and bake for 20-25 minutes, stirring every 10 minutes.",
+    "Remove from oven and let cool completely.",
+    "Once cool, break the granola into chunks and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "granola",
+    "peanut",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-peruvian-peanut-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:41:55.191Z"
+}
