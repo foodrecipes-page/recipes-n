@@ -1,0 +1,64 @@
+{
+  "slug": "noble-canadian-rice-curry--japanese",
+  "title": "Japanese Noble Salmon",
+  "description": "Pan-seared salmon with a Japanese-inspired curry sauce, served with steamed rice.",
+  "cuisine": "japanese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Noble salmon fillets",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Canadian butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked, Japanese short-grain"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 tsp",
+      "notes": "Japanese-style, mild"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the salmon fillets and pat dry with paper towels.",
+    "2. In a small saucepan, melt 1 tbsp of Canadian butter over medium heat.",
+    "3. Add 1 tsp of curry powder and cook for 1 minute, stirring constantly.",
+    "4. Add 1 cup of water to the saucepan and bring to a simmer.",
+    "5. Reduce the heat to low and cook for 5 minutes, or until the sauce has thickened.",
+    "6. Season the salmon fillets with salt and pepper.",
+    "7. Add the remaining 1 tbsp of Canadian butter to a large skillet over medium-high heat.",
+    "8. Sear the salmon fillets for 3-4 minutes on each side, or until cooked through.",
+    "9. Serve the salmon with steamed rice and spoon the curry sauce over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "japanesecurry",
+    "salmon",
+    "rice",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/noble-canadian-rice-curry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:11:15.227Z"
+}
