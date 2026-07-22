@@ -867,18 +867,14 @@
   },
   {
     "slug": "naturally-smoky-ukrainian-shallots-skewers",
-    "title": "Naturally Smoky Ukrainian Shallots Skewers",
+    "title": "Smoked Ukrainian Kebabs",
     "tags": [
-      "crowd-pleaser",
-      "gluten-free",
-      "korean-brass-bowl",
-      "smoky",
-      "spicy",
-      "ukrainian",
-      "vegetarian"
+      "bbq",
+      "kebabs",
+      "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -19610,6 +19606,19 @@
       "comfort-food"
     ],
     "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-velvety-korean-porcini-kalguksu-noodle-soup--italian",
+    "title": "Creamy Porcini Soup",
+    "tags": [
+      "soup",
+      "italian",
+      "mushrooms",
+      "cream"
+    ],
+    "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "n"
   }
