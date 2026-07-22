@@ -13628,17 +13628,13 @@
   },
   {
     "slug": "nutty-flaky-ukrainian-noodles-noodles",
-    "title": "Nutty Flaky Ukrainian Noodles",
+    "title": "Traditional Ukrainian Nutty Noodle Dish",
     "tags": [
-      "citrusy",
-      "flaky",
-      "high-protein",
-      "noodles",
-      "one-pot",
       "ukrainian",
-      "weeknight"
+      "noodle-dish",
+      "comfort-food"
     ],
-    "cuisine": "ukrainian",
+    "cuisine": "Ukrainian",
     "totalTimeMin": 30,
     "shard": "n"
   },
@@ -19678,6 +19674,61 @@
     ],
     "cuisine": null,
     "totalTimeMin": 5,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-uruguayan-brussels-sprouts-wrap--keto",
+    "title": "Uruguayan Sprouts and Wrap Keto Meal",
+    "tags": [
+      "keto",
+      "south-american",
+      "lunch",
+      "healthy",
+      "quick"
+    ],
+    "cuisine": "South American",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutmeg-roasted-uruguayan-potatoes-hash--thai",
+    "title": "Uruguayan Hash Browns with Spicy Nutmeg",
+    "tags": [
+      "thai",
+      "breakfast",
+      "side-dish",
+      "spicy"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-peruvian-cabbage-skewers--mexican",
+    "title": "Mexican Skewers with Smoky Peruvian Cabbage Slaw",
+    "tags": [
+      "mexican",
+      "skewers",
+      "slaw",
+      "cabbage",
+      "peruvian",
+      "grilled"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nice-quick-peruvian-beef-stew--keto",
+    "title": "Peruvian Beef Stew",
+    "tags": [
+      "peruvian",
+      "keto",
+      "beef",
+      "stew"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 105,
     "shard": "n"
   }
 ]
