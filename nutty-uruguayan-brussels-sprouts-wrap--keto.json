@@ -1,0 +1,75 @@
+{
+  "slug": "nutty-uruguayan-brussels-sprouts-wrap--keto",
+  "title": "Uruguayan Sprouts and Wrap Keto Meal",
+  "description": "A delicious and healthy keto meal using uruguayan wrap, nutty flavors, and brussels sprouts.",
+  "cuisine": "South American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uruguayan Wrap",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Brussels Sprouts",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Nutty Seasoning",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the Brussels sprouts in half and place them on a baking sheet.",
+    "Drizzle with olive oil, sprinkle with salt, and toss to coat.",
+    "Roast in the oven for 20-25 minutes or until tender.",
+    "Meanwhile, slice the uruguayan wrap into strips.",
+    "In a pan, heat some oil over medium heat and add the sliced wrap.",
+    "Cook for 2-3 minutes on each side or until crispy and golden brown.",
+    "Remove from heat and sprinkle with nutty seasoning.",
+    "Serve the roasted Brussels sprouts with the crispy wrap strips.",
+    "Optional: sprinkle with paprika for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "south-american",
+    "lunch",
+    "healthy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-uruguayan-brussels-sprouts-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:11:44.089Z"
+}
