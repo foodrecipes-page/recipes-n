@@ -1,0 +1,76 @@
+{
+  "slug": "nutty-creamy-quick-fix-korean-pork-stir-fry--gluten-free",
+  "title": "Gluten-Free Korean Pork Stir Fry",
+  "description": "A quick and flavorful stir fry made with gluten-free ingredients, featuring Korean-style marinated pork.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "1 lb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Nutty",
+      "amount": "2 tbsp",
+      "notes": "peanut oil"
+    },
+    {
+      "name": "Quick",
+      "amount": "1 cup",
+      "notes": "gluten-free soy sauce"
+    },
+    {
+      "name": "Fix",
+      "amount": "1 tsp",
+      "notes": "ground ginger"
+    },
+    {
+      "name": "Korean",
+      "amount": "1 tsp",
+      "notes": "ground garlic"
+    },
+    {
+      "name": "Stir",
+      "amount": "1 cup",
+      "notes": "mixed vegetables (bell peppers, carrots, broccoli)"
+    },
+    {
+      "name": "Fry",
+      "amount": "1 cup",
+      "notes": "gluten-free rice"
+    }
+  ],
+  "instructions": [
+    "Marinate the pork in a mixture of soy sauce, ginger, and garlic for at least 30 minutes.",
+    "Heat the peanut oil in a large skillet or wok over medium-high heat.",
+    "Add the pork to the skillet and cook until browned, about 3-4 minutes.",
+    "Add the mixed vegetables to the skillet and cook until tender, about 3-4 minutes.",
+    "Serve the pork and vegetables over gluten-free rice.",
+    "Optional: add a fried egg on top for extra protein."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "pork",
+    "gluten-free",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-creamy-quick-fix-korean-pork-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:46:04.946Z"
+}
