@@ -1,0 +1,77 @@
+{
+  "slug": "nutty-midnight-craving-bouncy-jamaican-cornmeal-stew",
+  "title": "Jamaican Cornmeal Fritters",
+  "description": "A sweet and crispy fritter recipe with a Caribbean twist, perfect for a snack or dessert.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "jamaican",
+      "amount": "1 tsp",
+      "notes": "spice blend"
+    },
+    {
+      "name": "craving",
+      "amount": "1/4 tsp",
+      "notes": "salt"
+    },
+    {
+      "name": "bouncy",
+      "amount": "1/4 tsp",
+      "notes": "black pepper"
+    },
+    {
+      "name": "midnight",
+      "amount": "1/4 cup",
+      "notes": "molasses"
+    },
+    {
+      "name": "stew",
+      "amount": "1/2 cup",
+      "notes": "coconut milk"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together cornmeal, nutty, jamaican, craving, and bouncy.",
+    "In a separate bowl, whisk together midnight and stew.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Heat about 2 inches of oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop small balls of the batter into the oil.",
+    "Fry the fritters until golden brown, about 2-3 minutes on each side.",
+    "Drain the fritters on paper towels and serve hot.",
+    "Serve with a side of powdered sugar or your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "caribbean",
+    "cornmeal",
+    "fritters",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-midnight-craving-bouncy-jamaican-cornmeal-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:48:25.293Z"
+}
