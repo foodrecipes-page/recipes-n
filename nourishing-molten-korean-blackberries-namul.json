@@ -1,0 +1,66 @@
+{
+  "slug": "nourishing-molten-korean-blackberries-namul",
+  "title": "Namul Korean Salad",
+  "description": "A refreshing and nutritious salad originating from Korea, featuring a selection of seasonal vegetables and a tangy dressing.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Black Sesame Nourishing Seeds",
+      "amount": "1/4 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Namul (Sautéed Spinach)",
+      "amount": "2 cups",
+      "notes": "cooled"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Blackberries",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Chopped Green Onions",
+      "amount": "2",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, whisk together the namul, sesame seeds, and Korean chili flakes (if using).",
+    "2. In a separate bowl, gently mix together the blackberries and chopped green onions.",
+    "3. In a large serving bowl, combine the namul mixture and blackberry mixture.",
+    "4. Serve the salad chilled, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "salad",
+    "vegan",
+    "vegetarian",
+    "namul"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-molten-korean-blackberries-namul",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:06:00.967Z"
+}
