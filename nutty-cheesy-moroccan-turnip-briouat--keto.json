@@ -1,0 +1,61 @@
+{
+  "slug": "nutty-cheesy-moroccan-turnip-briouat--keto",
+  "title": "Keto Moroccan Turnip Puffs",
+  "description": "A crispy, cheesy, and flavorful keto dish that combines the earthy taste of turnips with the spices of Morocco.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turnip",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Cheesy",
+      "amount": "1 cup grated",
+      "notes": "low-carb cheese"
+    },
+    {
+      "name": "Briouat",
+      "amount": "1 package",
+      "notes": "Moroccan flaky pastry"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Peel and chop turnips into small pieces.",
+    "3. In a bowl, mix turnips with grated cheese and a pinch of salt.",
+    "4. Roll out briouat pastry and cut into squares.",
+    "5. Place a spoonful of turnip mixture onto each square, leaving a 1-inch border.",
+    "6. Fold the pastry squares in half to form a triangle, pressing edges to seal.",
+    "7. Place the puffs on a baking sheet lined with parchment paper.",
+    "8. Brush the tops with a little water and sprinkle with paprika.",
+    "9. Bake for 20-25 minutes, or until golden brown.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "moroccan",
+    "snack",
+    "cheesy",
+    "turnip"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-cheesy-moroccan-turnip-briouat--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:08:18.342Z"
+}
