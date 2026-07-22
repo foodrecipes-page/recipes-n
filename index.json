@@ -6070,17 +6070,15 @@
   },
   {
     "slug": "nourishing-japanese-chicken-breasts-chirashi",
-    "title": "Nourishing Japanese Chicken Breasts Chirashi",
+    "title": "Japanese Chicken Chirashi Bowl",
     "tags": [
-      "high-protein",
-      "japanese-cuisine",
-      "lazy-susan-spinner",
-      "one-pan",
-      "slow-cooked",
-      "weeknight"
+      "chicken",
+      "japanese",
+      "rice",
+      "grilled"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -19668,6 +19666,18 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-sweet-canadian-sugar-wrap--vegetarian",
+    "title": "Nutty Sweet Wrap",
+    "tags": [
+      "vegetarian",
+      "quick-recipe",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 5,
     "shard": "n"
   }
 ]
