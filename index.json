@@ -15205,15 +15205,14 @@
   },
   {
     "slug": "nutty-peruvian-peanut-crumble",
-    "title": "Nutty Peruvian Peanut Crumble",
+    "title": "Peanut Crumble Granola",
     "tags": [
-      "nutty",
-      "tender",
-      "peruvian",
-      "kid-friendly",
-      "peanut-brittle"
+      "breakfast",
+      "granola",
+      "peanut",
+      "crumble"
     ],
-    "cuisine": "Peruvian",
+    "cuisine": "peruvian",
     "totalTimeMin": 35,
     "shard": "n"
   },
@@ -19644,6 +19643,33 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-cheesy-moroccan-turnip-briouat--keto",
+    "title": "Keto Moroccan Turnip Puffs",
+    "tags": [
+      "keto",
+      "moroccan",
+      "snack",
+      "cheesy",
+      "turnip"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "noble-canadian-rice-curry--japanese",
+    "title": "Japanese Noble Salmon",
+    "tags": [
+      "japanesecurry",
+      "salmon",
+      "rice",
+      "dinner"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "n"
   }
 ]
