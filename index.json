@@ -11985,15 +11985,15 @@
   },
   {
     "slug": "nutty-creamy-light-algerian-peanut-stir-fry",
-    "title": "Nutty Creamy Light Algerian Peanut Stir-fry",
+    "title": "Algerian Peanut Stir Fry",
     "tags": [
       "algerian",
-      "nutty",
-      "creamy",
-      "light"
+      "peanut",
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -12579,17 +12579,16 @@
   },
   {
     "slug": "nutty-crispy-venezulan-rice-noodles-paella",
-    "title": "Venezuelan Nutty Crispy Rice Noodles Paella",
+    "title": "Venezulan Paella",
     "tags": [
-      "venezuelan",
+      "latinamerican",
+      "vegetarian",
+      "rice",
       "paella",
-      "rice-noodles",
-      "veggie",
-      "crispy",
-      "festive"
+      "venezulan"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "cuisine": "Latin American",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -14961,18 +14960,15 @@
   },
   {
     "slug": "nutty-midnight-craving-bouncy-jamaican-cornmeal-stew",
-    "title": "Nutty Midnight Craving Bouncy Jamaican Cornmeal Stew",
+    "title": "Jamaican Cornmeal Fritters",
     "tags": [
-      "beurre-monte",
-      "comfort-food",
+      "caribbean",
       "cornmeal",
-      "high-protein",
-      "jamaican",
-      "one-pan",
-      "weeknight"
+      "fritters",
+      "dessert"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
