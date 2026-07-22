@@ -1,0 +1,65 @@
+{
+  "slug": "nriched-cheese-bean-sprout-pilaf--keto",
+  "title": "Keto Pilaf with Sprouts and Cheese",
+  "description": "A keto-friendly pilaf dish packed with sprouts, cheese, and a hint of richness.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "nriched rice",
+      "amount": "1 cup",
+      "notes": "preferably brown rice"
+    },
+    {
+      "name": "sprout",
+      "amount": "1 cup",
+      "notes": "any type of sprout"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded or crumbled"
+    },
+    {
+      "name": "bean",
+      "amount": "1/2 cup",
+      "notes": "black beans or any other low-carb bean"
+    },
+    {
+      "name": "pilaf seasoning",
+      "amount": "1 tsp",
+      "notes": "dried or fresh herbs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the enriched rice according to package instructions.",
+    "In a pan, sauté the sprouts and bean in a small amount of oil until tender.",
+    "Add the cooked rice to the pan and stir in pilaf seasoning.",
+    "Transfer the mixture to a baking dish and top with shredded cheese.",
+    "Bake in the preheated oven for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-diet",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nriched-cheese-bean-sprout-pilaf--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:01:20.115Z"
+}
