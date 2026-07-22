@@ -19632,5 +19632,18 @@
     "cuisine": "Peruvian",
     "totalTimeMin": 40,
     "shard": "n"
+  },
+  {
+    "slug": "nordic-spiced-norwegian-halibut-gratin--vegan",
+    "title": "Vegan Halibut Gratin",
+    "tags": [
+      "vegan",
+      "norwegian",
+      "gratin",
+      "halibut"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "n"
   }
 ]
