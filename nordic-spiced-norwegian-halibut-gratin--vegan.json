@@ -1,0 +1,76 @@
+{
+  "slug": "nordic-spiced-norwegian-halibut-gratin--vegan",
+  "title": "Vegan Halibut Gratin",
+  "description": "A vegan twist on the traditional Norwegian dish, using flavorful spices and a crispy, crunchy topping.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Nordic spiced potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Vegan halibut fillets",
+      "amount": "4",
+      "notes": "(such as tofu or tempeh)"
+    },
+    {
+      "name": "Gratin",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and slice the potatoes thinly.",
+    "In a bowl, mix together the spiced potatoes, vegan halibut, and lemon juice.",
+    "Transfer the mixture to a baking dish and top with grated vegan butter.",
+    "Bake for 25-30 minutes or until the potatoes are tender and the top is golden brown.",
+    "Sprinkle with chopped parsley and serve hot.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "norwegian",
+    "gratin",
+    "halibut"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nordic-spiced-norwegian-halibut-gratin--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:18:06.678Z"
+}
