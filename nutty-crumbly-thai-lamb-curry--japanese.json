@@ -1,0 +1,91 @@
+{
+  "slug": "nutty-crumbly-thai-lamb-curry--japanese",
+  "title": "Japanese Lamb Curry",
+  "description": "A unique fusion of Japanese and Indian flavors in this lamb curry recipe. The nutty and crumbly texture of the lamb is perfectly balanced by the spicy and aromatic Thai curry sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound, cut into bite-sized pieces",
+      "notes": "Make sure to cook to 145°F (63°C) for medium-rare, 160°F (71°C) for medium, and 170°F (77°C) for well-done"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian grocery stores or online"
+    },
+    {
+      "name": "nutty rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Add a unique Japanese twist to the dish"
+    },
+    {
+      "name": "crumbly Japanese breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "Optional, but adds a nice crunch"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "Full-fat for a richer flavor"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "Adjust to desired consistency"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional, but adds depth"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "Optional, but balances out the flavors"
+    }
+  ],
+  "instructions": [
+    "In a large pan or Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the lamb pieces and cook until browned, about 5 minutes.",
+    "Remove the lamb from the pan and set aside.",
+    "In the same pan, add the Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the nutty rice vinegar, curry powder, and soy sauce (if using). Cook for 1 minute, stirring constantly.",
+    "Add the coconut milk and water to the pan, stirring to combine.",
+    "Return the lamb to the pan and bring the mixture to a simmer.",
+    "Reduce heat to low and let cook for 10-15 minutes, or until the lamb is cooked to your desired level of doneness.",
+    "Stir in the crumbly Japanese breadcrumbs (if using) and cook for an additional 2-3 minutes.",
+    "Season with sugar (if using) to balance out the flavors.",
+    "Serve hot over rice or noodles, garnished with fresh herbs (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "japanese",
+    "curry",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crumbly-thai-lamb-curry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:12:30.309Z"
+}
