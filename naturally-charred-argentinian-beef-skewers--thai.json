@@ -1,0 +1,92 @@
+{
+  "slug": "naturally-charred-argentinian-beef-skewers--thai",
+  "title": "Thai Beef Satay Recipe",
+  "description": "A classic Thai dish of marinated beef skewers grilled to perfection, served with a side of spicy peanut sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": "preferably sirloin or ribeye"
+    },
+    {
+      "name": "charred argentinian beef skewers",
+      "amount": "10-12",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "creamy or crunchy"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "full-fat or low-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional, omit for vegan version"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together peanut butter, coconut milk, fish sauce (if using), lime juice, brown sugar, ginger, and garlic.",
+    "Thread beef slices onto charred argentinian beef skewers, leaving a small space between each piece.",
+    "Brush skewers with vegetable oil and season with coriander.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until beef is cooked to desired level of doneness.",
+    "Serve immediately with peanut sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "beef",
+    "grilled",
+    "peanut sauce",
+    "satay"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-charred-argentinian-beef-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:33:05.383Z"
+}
