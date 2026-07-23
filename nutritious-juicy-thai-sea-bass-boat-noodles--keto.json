@@ -1,0 +1,81 @@
+{
+  "slug": "nutritious-juicy-thai-sea-bass-boat-noodles--keto",
+  "title": "Thai Bass with Noodle Stir Fry",
+  "description": "A keto-friendly Thai-inspired dish featuring grilled bass and a flavorful noodle stir fry.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bass Fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Noodles (Zucchini or Shirataki)",
+      "amount": "1 cup",
+      "notes": "Low-carb alternative"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": "Make sure it's sugar-free"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "handful",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season bass fillets with salt and pepper.",
+    "3. Grill bass for 4-5 minutes per side, or until cooked through.",
+    "4. In a large skillet, heat coconut oil over medium-high heat.",
+    "5. Add Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "6. Add noodles to the skillet and cook for 2-3 minutes, until slightly browned.",
+    "7. Stir in Thai basil and cook for an additional minute.",
+    "8. Serve grilled bass on top of the noodle stir fry.",
+    "9. Garnish with additional Thai basil, if desired.",
+    "10. Enjoy your keto Thai-inspired dish!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "keto",
+    "low-carb",
+    "grilled",
+    "noodle-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 54,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-juicy-thai-sea-bass-boat-noodles--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:44:50.820Z"
+}
