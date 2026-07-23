@@ -1,0 +1,76 @@
+{
+  "slug": "nourishing-cheesy-norwegian-potato-gratin",
+  "title": "Norwegian Cheesy Potato Gratin",
+  "description": "A comforting, creamy side dish from Norway featuring thinly sliced potatoes, rich cheese, and a hint of nutmeg.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a greased 9x13-inch baking dish, create a layer of potatoes.",
+    "In a separate bowl, combine grated cheese, chicken broth, and softened butter.",
+    "Pour the cheese mixture over the potatoes, then sprinkle with nutmeg.",
+    "If using flour, sprinkle a pinch over the top.",
+    "Repeat the layering process, ending with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Let the gratin rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "cheesy",
+    "potato",
+    "gratin",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-cheesy-norwegian-potato-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:29:35.871Z"
+}
