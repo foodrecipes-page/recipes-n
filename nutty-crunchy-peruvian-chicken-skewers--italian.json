@@ -1,0 +1,72 @@
+{
+  "slug": "nutty-crunchy-peruvian-chicken-skewers--italian",
+  "title": "Grilled Italian Chicken Skewers",
+  "description": "A classic Italian dish featuring marinated chicken breast, grilled to perfection on skewers. Great as a main course or appetizer.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "peruvian pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "crunchy bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "for breading"
+    },
+    {
+      "name": "nutty parmesan",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together olive oil, salt, and Peruvian pepper.",
+    "2. Add the chicken pieces to the marinade and mix well. Cover and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat grill to medium-high heat.",
+    "4. Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "5. Brush the grill with olive oil to prevent sticking.",
+    "6. Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
+    "7. While the skewers are grilling, mix the crunchy bread crumbs and nutty Parmesan in a small bowl.",
+    "8. Once the skewers are cooked, brush them with the bread crumb mixture and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crunchy-peruvian-chicken-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:44:09.707Z"
+}
