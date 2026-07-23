@@ -15381,17 +15381,15 @@
   },
   {
     "slug": "nutty-quick-moroccan-chinese-leaf-amlou",
-    "title": "Nutty Quick Moroccan Chinese Leaf Amlou",
+    "title": "Moroccan Amlou Delight",
     "tags": [
-      "gluten-free",
-      "moroccan-fusion",
-      "pandan-wrapped",
-      "quick-snack",
-      "umami-rich",
-      "vegetarian-friendly"
+      "moroccan",
+      "dessert",
+      "almonds",
+      "amlou"
     ],
-    "cuisine": "Moroccan Chinese fusion",
-    "totalTimeMin": 30,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -19778,6 +19776,46 @@
     ],
     "cuisine": null,
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-velvety-tunisian-dish-brunch--indian",
+    "title": "Tunisian-Style Indian Omelette",
+    "tags": [
+      "indian",
+      "tunisian",
+      "omelette",
+      "breakfast",
+      "brunch"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-dark-slovakian-beef-skewers--mexican",
+    "title": "Slovakian Beef Skewers",
+    "tags": [
+      "beef",
+      "skewers",
+      "mexican",
+      "slovakian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-herbal-turkish-sauerkraut-dolma--thai",
+    "title": "Spicy Thai Sauerkraut Dolma",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "sausage-free",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
     "shard": "n"
   }
 ]
