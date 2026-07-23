@@ -19929,5 +19929,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 27,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-crisp-japanese-almond-dorayaki--vegan",
+    "title": "Crisp Dorayaki Waffles with Nutty Topping",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "waffles",
+      "japanese"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 20,
+    "shard": "n"
   }
 ]
