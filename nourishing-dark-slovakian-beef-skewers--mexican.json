@@ -1,0 +1,78 @@
+{
+  "slug": "nourishing-dark-slovakian-beef-skewers--mexican",
+  "title": "Slovakian Beef Skewers",
+  "description": "A twist on traditional Mexican-style beef skewers, incorporating Slovakian flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "500g"
+    },
+    {
+      "name": "Nourishing dark Slovakian honey",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality, pure Slovakian honey for the best flavor"
+    },
+    {
+      "name": "Beef marinade ingredients (Mexican-style)",
+      "amount": "1/4 cup",
+      "notes": "Use a mix of lime juice, olive oil, cumin, chili powder, garlic powder, salt, and pepper"
+    },
+    {
+      "name": "Mixed bell peppers",
+      "amount": "2",
+      "notes": "Red, yellow, and green bell peppers"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Red onion for a sweet flavor"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 180°C (350°F).",
+    "In a large bowl, whisk together the Slovakian honey, beef marinade ingredients, salt, and pepper.",
+    "Add the sliced beef to the marinade and mix to coat.",
+    "Thread the marinated beef, bell peppers, onion, and cilantro onto skewers.",
+    "Grill the skewers for 12-15 minutes, turning occasionally, until the beef is cooked to your desired level of doneness.",
+    "Serve hot with lime wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "skewers",
+    "mexican",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-dark-slovakian-beef-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:34:57.491Z"
+}
