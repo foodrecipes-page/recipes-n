@@ -1710,17 +1710,15 @@
   },
   {
     "slug": "nice-glassy-egyptian-tuna-skewers",
-    "title": "Egyptian Tuna Skewers",
+    "title": "Grilled Tuna Skewers",
     "tags": [
-      "easy-to-make",
-      "healthy",
-      "high-protein",
-      "one-pan",
-      "tasty",
-      "weeknight"
+      "grilled",
+      "tuna",
+      "skewers",
+      "mediterranean"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 18,
     "shard": "n"
   },
   {
@@ -4820,16 +4818,13 @@
   },
   {
     "slug": "nourishing-crisp-indian-vegetables-pav-bhaji",
-    "title": "Nourishing Crisp Indian Vegetables Pav Bhaji",
+    "title": "Indian Street-Style Pav Bhaji",
     "tags": [
-      "comfort-food",
-      "flexitarian",
-      "indian-food",
-      "midnight-cravings",
-      "one-pan",
-      "vegetarian"
+      "indian",
+      "vegan-option",
+      "gluten-free"
     ],
-    "cuisine": "Indian",
+    "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "n"
   },
@@ -19852,6 +19847,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-dense-uruguayan-pecan-hash--thai",
+    "title": "Thai Pecan Hash",
+    "tags": [
+      "thai",
+      "snack",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "n"
   }
 ]
