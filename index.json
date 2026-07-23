@@ -4598,17 +4598,16 @@
   },
   {
     "slug": "nourishing-cheesy-norwegian-potato-gratin",
-    "title": "Nourishing Cheesy Norwegian Potato Gratin",
+    "title": "Norwegian Cheesy Potato Gratin",
     "tags": [
-      "cheesy-dish",
-      "comfort-food",
-      "gluten-free",
-      "norwegian-cuisine",
-      "one-pan",
-      "potato-recipe"
+      "norwegian",
+      "cheesy",
+      "potato",
+      "gratin",
+      "comfort-food"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 70,
     "shard": "n"
   },
   {
@@ -16868,16 +16867,14 @@
   },
   {
     "slug": "nutty-velvety-dutch-penne-rigate-stir-fry",
-    "title": "Nutty Velvety Dutch Penne Rigate Stir-fry",
+    "title": "Creamy Penne Pasta",
     "tags": [
-      "nutty",
-      "velvety",
-      "hangover-cure",
-      "dutch",
-      "pasta"
+      "pasta",
+      "italian",
+      "creamy"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -19868,6 +19865,69 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-german-chicken-casserole--thai",
+    "title": "Thai Chicken Casserole",
+    "tags": [
+      "thaicuisine",
+      "comfortfood",
+      "fusion"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "naturally-charred-argentinian-beef-skewers--thai",
+    "title": "Thai Beef Satay Recipe",
+    "tags": [
+      "thai",
+      "beef",
+      "grilled",
+      "peanut sauce",
+      "satay"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crunchy-peruvian-chicken-skewers--italian",
+    "title": "Grilled Italian Chicken Skewers",
+    "tags": [
+      "italian",
+      "chicken",
+      "skewers"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-light-chinese-noodle-dish--german",
+    "title": "German Noodle Dish",
+    "tags": [
+      "german",
+      "noodle",
+      "sausage"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nightly-midnight-craving-indian-parma-ham-curry--japanese",
+    "title": "Japanese-Style Ham and Curry Bites",
+    "tags": [
+      "japanese",
+      "snack",
+      "curry",
+      "ham"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
     "shard": "n"
   }
 ]
