@@ -19827,5 +19827,31 @@
     "cuisine": "chinese",
     "totalTimeMin": 20,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-crumbly-thai-lamb-curry--japanese",
+    "title": "Japanese Lamb Curry",
+    "tags": [
+      "lamb",
+      "japanese",
+      "curry",
+      "thai"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-indian-lentil-curry--thai",
+    "title": "Thai-Style Red Lentil Curry",
+    "tags": [
+      "thaicurry",
+      "lentilcurry",
+      "veganrecipe",
+      "glutenfree"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "n"
   }
 ]
