@@ -1,0 +1,95 @@
+{
+  "slug": "naturally-dense-vietnamese-lemongrass-noodles--mexican",
+  "title": "Lemongrass Chicken Fajitas",
+  "description": "A twist on traditional fajitas, this dish combines the bright flavors of lemongrass with the spices of Mexican cuisine. Served with sautéed chicken and noodles.",
+  "cuisine": "mexican",
+  "diet": [
+    "none"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the lemongrass, red bell pepper, and onion to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the cumin, chili powder, and garlic powder to the skillet and cook for 1 minute.",
+    "Return the chicken to the skillet and stir to combine with the vegetables and spices.",
+    "Cook for an additional 2-3 minutes, until the chicken is cooked through.",
+    "Add the noodles to the skillet and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "lemongrass",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-dense-vietnamese-lemongrass-noodles--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:53:57.220Z"
+}
