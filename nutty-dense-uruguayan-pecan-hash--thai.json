@@ -1,0 +1,74 @@
+{
+  "slug": "nutty-dense-uruguayan-pecan-hash--thai",
+  "title": "Thai Pecan Hash",
+  "description": "A crunchy Thai hash made with crispy pecans and a nutty flavor.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pecans",
+      "amount": "1 cup, chopped",
+      "notes": "Toasted pecans add a nice crunch to this Thai snack."
+    },
+    {
+      "name": "Hash",
+      "amount": "1 cup, diced",
+      "notes": "A traditional Uruguayan accompaniment to many meals."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "Adds a rich and creamy flavor to the hash."
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tsp",
+      "notes": "A spicy and aromatic paste made from Thai chilies."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "A squeeze of fresh lime juice adds a nice brightness to the dish."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "A fragrant and flavorful herb commonly used in Thai cuisine."
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (175°C).",
+    "2. In a large pan, heat the coconut oil over medium heat.",
+    "3. Add the diced hash and cook until crispy, about 5 minutes.",
+    "4. In a separate pan, toast the chopped pecans over medium heat until fragrant and lightly browned.",
+    "5. In a large bowl, combine the cooked hash, toasted pecans, Thai red curry paste, and chopped cilantro.",
+    "6. Squeeze the lime juice over the top and toss to combine.",
+    "7. Season with salt to taste.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "snack",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-dense-uruguayan-pecan-hash--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:01:18.458Z"
+}
