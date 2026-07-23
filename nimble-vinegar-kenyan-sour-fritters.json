@@ -1,0 +1,63 @@
+{
+  "slug": "nimble-vinegar-kenyan-sour-fritters",
+  "title": "Kenyan Fritter Delight",
+  "description": "A sweet and crispy treat from the heart of Kenya, these fritters are a delightful snack or dessert option.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kenyan",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Nimble",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fritters",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Combine Kenyan, Sour, and Nimble in a large bowl.",
+    "Mix well until a smooth batter forms.",
+    "Heat Vinegar in a deep frying pan over medium heat.",
+    "Drop the batter by spoonfuls into the hot Vinegar.",
+    "Fry until golden brown and crispy.",
+    "Drain on paper towels.",
+    "Serve warm with a side of your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "dessert",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-vinegar-kenyan-sour-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:26:33.352Z"
+}
