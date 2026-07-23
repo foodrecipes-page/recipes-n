@@ -2845,17 +2845,15 @@
   },
   {
     "slug": "nimble-vinegar-kenyan-sour-fritters",
-    "title": "Nimble Vinegar Kenyan Sour Fritters",
+    "title": "Kenyan Fritter Delight",
     "tags": [
-      "crispy",
-      "fritters",
-      "gluten-free",
       "kenyan",
-      "sour",
-      "weeknight"
+      "dessert",
+      "fritters",
+      "snack"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
