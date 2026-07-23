@@ -12267,17 +12267,15 @@
   },
   {
     "slug": "nutty-crispy-ethiopian-fish-tacos",
-    "title": "Nutty Crispy Ethiopian Fish Tacos",
+    "title": "Crispy Ethiopian Fish Tacos",
     "tags": [
-      "crispy",
+      "fish",
+      "tacos",
       "ethiopian",
-      "high-protein",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "crispy"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "cuisine": "Ethiopian-Mexican",
+    "totalTimeMin": 27,
     "shard": "n"
   },
   {
@@ -19815,6 +19813,18 @@
       "spicy"
     ],
     "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nostalgic-garlicy-tunisian-stir-fry--chinese",
+    "title": "Stir-Fried Nostalgic Noodles",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "noodles"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 20,
     "shard": "n"
   }
