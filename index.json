@@ -19992,5 +19992,19 @@
     "cuisine": "italian",
     "totalTimeMin": 170,
     "shard": "n"
+  },
+  {
+    "slug": "nutritious-silky-croatian-noodles--italian",
+    "title": "Italian Noodle Soup",
+    "tags": [
+      "italian",
+      "soup",
+      "noodles",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]
