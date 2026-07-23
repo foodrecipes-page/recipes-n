@@ -19942,5 +19942,55 @@
     "cuisine": "Japanese",
     "totalTimeMin": 20,
     "shard": "n"
+  },
+  {
+    "slug": "nightly-midnight-craving-indian-parma-ham-curry--vegan",
+    "title": "Vegan Indian Curry",
+    "tags": [
+      "vegan",
+      "indian",
+      "curry"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "naturally-dense-vietnamese-lemongrass-noodles--mexican",
+    "title": "Lemongrass Chicken Fajitas",
+    "tags": [
+      "mexican",
+      "chicken",
+      "lemongrass",
+      "noodles"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-pillowy-ukrainian-chicken-pilaf--vegetarian",
+    "title": "Ukrainian-Style Pilaf with Nutty Flavor",
+    "tags": [
+      "ukrainian",
+      "pilaf",
+      "vegetarian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-australian-lamb-tagine--italian",
+    "title": "Italian Lamb Tagine",
+    "tags": [
+      "italian",
+      "lamb",
+      "tagine",
+      "braise"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "n"
   }
 ]
