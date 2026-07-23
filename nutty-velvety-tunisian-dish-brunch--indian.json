@@ -1,0 +1,68 @@
+{
+  "slug": "nutty-velvety-tunisian-dish-brunch--indian",
+  "title": "Tunisian-Style Indian Omelette",
+  "description": "A twist on the classic Indian omelette, infused with the flavors of Tunisia. Perfect for a quick brunch.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "nutty",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "tunisian",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork.",
+    "Add the nutty and tunisian spices, if using, and mix well.",
+    "Heat a non-stick pan over medium heat and add a small amount of oil.",
+    "Pour in the egg mixture and cook until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "Continue cooking until the eggs are almost set and the omelette is cooked through.",
+    "Slide the omelette out of the pan onto a plate and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "tunisian",
+    "omelette",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-velvety-tunisian-dish-brunch--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:22:30.968Z"
+}
