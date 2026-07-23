@@ -1,0 +1,89 @@
+{
+  "slug": "nightly-midnight-craving-indian-parma-ham-curry--japanese",
+  "title": "Japanese-Style Ham and Curry Bites",
+  "description": "Crunchy outside, savory inside, these Japanese-inspired ham and curry bites are perfect as a snack or side dish.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "parma ham",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "midnight curry",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a bowl, mix together the flour, panko breadcrumbs, and a pinch of salt.",
+    "In a separate bowl, whisk together the eggs and a splash of water.",
+    "Cut the parma ham into small pieces and set aside.",
+    "Add the midnight curry to the flour mixture and stir until well combined.",
+    "Dip each piece of parma ham into the egg mixture, coating it completely, then roll it in the curry-flour mixture to coat.",
+    "Place the coated ham pieces on a baking sheet lined with parchment paper.",
+    "Drizzle the vegetable oil over the ham pieces and sprinkle with sesame seeds.",
+    "Bake for 12-15 minutes, or until the ham is crispy and golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "snack",
+    "curry",
+    "ham"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nightly-midnight-craving-indian-parma-ham-curry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:57:57.568Z"
+}
