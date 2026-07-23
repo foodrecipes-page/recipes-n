@@ -1,0 +1,74 @@
+{
+  "slug": "nutty-quick-moroccan-chinese-leaf-amlou",
+  "title": "Moroccan Amlou Delight",
+  "description": "A delicious and exotic Moroccan dessert made with amlou, leaf, and nutty flavors.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "amlou",
+      "amount": "2 tbsp",
+      "notes": "Moroccan almond paste"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a bowl, mix together chopped almonds and amlou.",
+    "Add honey and palm sugar (if using) to the bowl and mix until well combined.",
+    "Stir in chopped fresh mint leaves.",
+    "Transfer the mixture to a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until lightly toasted.",
+    "Let cool completely before breaking into pieces.",
+    "If desired, sprinkle with coconut flakes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "dessert",
+    "almonds",
+    "amlou"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-quick-moroccan-chinese-leaf-amlou",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:47:29.008Z"
+}
