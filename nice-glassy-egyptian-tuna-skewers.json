@@ -1,0 +1,78 @@
+{
+  "slug": "nice-glassy-egyptian-tuna-skewers",
+  "title": "Grilled Tuna Skewers",
+  "description": "A Mediterranean-inspired dish featuring grilled tuna, served with a hint of Egyptian spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tuna steaks",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "nice olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "1 tsp",
+      "notes": "Mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "glassy onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "skewers",
+      "amount": "8-10",
+      "notes": "wooden or metal"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a small bowl, mix together olive oil, Egyptian spices, lemon juice, salt, and pepper.",
+    "Brush the mixture onto both sides of the tuna steaks.",
+    "Thread the tuna, onions, and any other desired vegetables onto the skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the tuna reaches 145°F internal temperature.",
+    "Remove from heat and let rest for 2-3 minutes.",
+    "Serve immediately, garnished with additional lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "tuna",
+    "skewers",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-glassy-egyptian-tuna-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:30:21.609Z"
+}
