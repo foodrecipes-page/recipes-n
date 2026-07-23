@@ -1,0 +1,70 @@
+{
+  "slug": "nutty-crisp-japanese-almond-dorayaki--vegan",
+  "title": "Crisp Dorayaki Waffles with Nutty Topping",
+  "description": "A vegan twist on a Japanese classic, these crisp dorayaki waffles are topped with a nutty mixture of almond and crunchy elements.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dorayaki mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/4 cup",
+      "notes": "vegan"
+    },
+    {
+      "name": "nutty crunch mixture (see notes)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the waffle iron according to the manufacturer's instructions.",
+    "In a large bowl, whisk together the dorayaki mix, almond milk, canola oil, and vanilla extract.",
+    "Once the waffle iron is hot, pour about 1/4 cup of the batter onto the center of the iron.",
+    "Cook for 3-5 minutes, until the waffles are golden brown and crispy.",
+    "Repeat with the remaining batter, until all the waffles are cooked.",
+    "To make the nutty crunch mixture, combine the nutty and crisp elements in a small bowl.",
+    "To assemble the waffles, place one waffle on a serving plate, then top with a spoonful of the nutty crunch mixture.",
+    "Drizzle with maple syrup, and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "breakfast",
+    "waffles",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crisp-japanese-almond-dorayaki--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:46:53.663Z"
+}
