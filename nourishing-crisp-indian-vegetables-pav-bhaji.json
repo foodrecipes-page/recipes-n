@@ -1,0 +1,90 @@
+{
+  "slug": "nourishing-crisp-indian-vegetables-pav-bhaji",
+  "title": "Indian Street-Style Pav Bhaji",
+  "description": "A flavorful and nutritious pav bhaji recipe that combines the crunch of fresh vegetables with the comforting taste of a street food classic.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mixed Vegetables (Carrots, Peas, Cauliflower, Potatoes)",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Pav",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Bhaji Masala",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander Leaves",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a pan over medium heat.",
+    "Sauté the onion, garlic, and ginger until the onion is translucent.",
+    "Add the mixed vegetables, tomato, and bhaji masala. Sauté for 5 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 15-20 minutes or until the vegetables are cooked through.",
+    "Stir in lemon juice and adjust seasoning.",
+    "Split the pav in half and toast until crispy.",
+    "Serve the pav with the bhaji mixture and garnish with coriander leaves.",
+    "Serve hot and enjoy.",
+    "Optional: Add a dollop of butter on top for extra flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegan-option",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-crisp-indian-vegetables-pav-bhaji",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:55:32.883Z"
+}
