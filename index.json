@@ -7061,17 +7061,14 @@
   },
   {
     "slug": "nourishing-roasted-kenyan-rice-vermicelli-noodles",
-    "title": "Nourishing Roasted Kenyan Rice Vermicelli Noodles",
+    "title": "Nourishing Kenyan Noodle Soup",
     "tags": [
-      "healthy",
+      "soup",
       "kenyan",
-      "low-calorie",
-      "one-pot",
-      "roasted",
-      "vegetarian",
-      "weeknight"
+      "nourishing",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "kenyan",
     "totalTimeMin": 35,
     "shard": "n"
   },
@@ -19859,6 +19856,20 @@
       "gluten-free"
     ],
     "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-juicy-thai-sea-bass-boat-noodles--keto",
+    "title": "Thai Bass with Noodle Stir Fry",
+    "tags": [
+      "thai",
+      "keto",
+      "low-carb",
+      "grilled",
+      "noodle-stir-fry"
+    ],
+    "cuisine": "Thai",
     "totalTimeMin": 25,
     "shard": "n"
   }
