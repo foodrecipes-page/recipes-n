@@ -1,0 +1,75 @@
+{
+  "slug": "nutty-velvety-dutch-penne-rigate-stir-fry",
+  "title": "Creamy Penne Pasta",
+  "description": "A rich and satisfying penne pasta dish made with a creamy sauce and nutty flavor. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "nutty stir-fry sauce",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "dutch-process cocoa powder",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "velvety almond milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "rigate pasta",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the penne pasta according to package instructions until al dente.",
+    "In a medium saucepan, combine the nutty stir-fry sauce, cocoa powder, and almond milk. Whisk until smooth.",
+    "Add the cooked penne pasta to the saucepan and toss to coat the pasta in the sauce.",
+    "Season with salt to taste.",
+    "Transfer the pasta to a serving dish and garnish with rigate pasta and parmesan cheese (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "italian",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-velvety-dutch-penne-rigate-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:27:27.856Z"
+}
