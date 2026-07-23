@@ -1,0 +1,71 @@
+{
+  "slug": "nutty-crispy-norwegian-poppy-seeds-flatbread",
+  "title": "Roasted Seed Flatbread",
+  "description": "A simple and flavorful flatbread topped with a mixture of roasted seeds, perfect for a quick snack or side dish.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "Poppy seeds",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Nutty seeds",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Crispy seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing flatbread"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Brush the flatbread with olive oil and season with salt.",
+    "Mix together the poppy seeds, nutty seeds, and crispy seeds in a small bowl.",
+    "Spread the seed mixture evenly over the flatbread, leaving a 1/2-inch border around the edges.",
+    "Bake the flatbread in the preheated oven for 10-12 minutes, or until the seeds are lightly toasted and the flatbread is crispy.",
+    "Remove the flatbread from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "flatbread",
+    "seeds",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-norwegian-poppy-seeds-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:00:59.972Z"
+}
