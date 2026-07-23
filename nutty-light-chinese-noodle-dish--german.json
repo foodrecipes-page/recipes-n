@@ -1,0 +1,66 @@
+{
+  "slug": "nutty-light-chinese-noodle-dish--german",
+  "title": "German Noodle Dish",
+  "description": "A simple yet hearty German noodle dish made with a nutty flavor. This dish is inspired by traditional German cuisine.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "light chinese noodles",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "nutty dish",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chinese dish",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "german sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the noodles according to package instructions until al dente.",
+    "In a large skillet, cook the sliced sausage over medium heat until browned.",
+    "Add the chopped onion to the skillet and cook until softened.",
+    "Add the chopped chinese dish to the skillet and cook for 1 minute.",
+    "Stir in the nutty dish and cook for an additional 2 minutes.",
+    "Drain the cooked noodles and add them to the skillet.",
+    "Toss the noodles with the sausage and vegetable mixture until well combined.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "noodle",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-light-chinese-noodle-dish--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:53:15.575Z"
+}
