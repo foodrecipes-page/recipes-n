@@ -1,0 +1,81 @@
+{
+  "slug": "nourishing-basque-poppy-seeds-stew--japanese",
+  "title": "Japanese Stew with Nourishing Seaweed",
+  "description": "A hearty and nutritious Japanese stew made with nourishing seaweed, perfect for a cold winter's day.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Nourishing Seaweed",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Basque Chorizo",
+      "amount": "1/2 pound",
+      "notes": "Slice into thin rounds"
+    },
+    {
+      "name": "Poppy Seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Seeds (sunflower or pumpkin)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Stew Vegetables (carrots, potatoes, onions)",
+      "amount": "2 cups",
+      "notes": "Chop into bite-sized pieces"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Chop into thin slices"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the sliced chorizo and cook until browned, about 5 minutes.",
+    "Add the chopped vegetables and cook until they begin to soften, about 5 minutes.",
+    "Add the nourishing seaweed, poppy seeds, seeds, and soy sauce. Stir to combine.",
+    "Pour in the rice vinegar and bring the stew to a simmer.",
+    "Reduce heat to low and let cook for 20-25 minutes, or until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onions.",
+    "Enjoy as a hearty and nutritious meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "stew",
+    "nourishing-seaweed",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-basque-poppy-seeds-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:51:51.431Z"
+}
