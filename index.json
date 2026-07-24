@@ -5166,17 +5166,16 @@
   },
   {
     "slug": "nourishing-dense-brazilian-shiitake-mushrooms-skewers",
-    "title": "Nourishing Dense Brazilian Shiitake Mushrooms Skewers",
+    "title": "Shiitake Skewers with Brazilian Rice",
     "tags": [
-      "brazilian-cuisine",
-      "grilled-vegetables",
-      "mushroom-recipes",
-      "nourishing-dinner",
-      "satvik-friendly",
-      "umami-rich"
+      "grilled",
+      "mushroom",
+      "skewers",
+      "brazilian",
+      "vegetarian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 36,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -20029,6 +20028,33 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-uruguayan-chicken-skewers--french",
+    "title": "Uruguayan Chicken Skewers with Nutty Crust",
+    "tags": [
+      "french",
+      "uruguayan",
+      "grilled",
+      "chicken"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-crunchy-brazilian-grains-paella--keto",
+    "title": "Brazilian Paella Bowl",
+    "tags": [
+      "keto",
+      "brazilian",
+      "paella",
+      "dinner",
+      "low-carb"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
     "shard": "n"
   }
 ]
