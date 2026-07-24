@@ -1,0 +1,91 @@
+{
+  "slug": "nutritious-greek-lamb-skewers",
+  "title": "Lamb Skewers with Greek Yogurt Sauce",
+  "description": "A classic Greek dish featuring marinated lamb skewers served with a refreshing yogurt sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "500g lamb shoulder, cut into 1.5cm cubes",
+      "amount": "500g",
+      "notes": "Cut into 1.5cm cubes to ensure even cooking"
+    },
+    {
+      "name": "200g Greek yogurt",
+      "amount": "200g",
+      "notes": "For the yogurt sauce"
+    },
+    {
+      "name": "100g olive oil",
+      "amount": "100g",
+      "notes": "For marinating the lamb"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": "For the yogurt sauce"
+    },
+    {
+      "name": "1 tsp dried oregano",
+      "amount": "1 tsp",
+      "notes": "For the yogurt sauce"
+    },
+    {
+      "name": "1 tsp lemon zest",
+      "amount": "1 tsp",
+      "notes": "For the yogurt sauce"
+    },
+    {
+      "name": "2 lemons, juiced",
+      "amount": "2 lemons",
+      "notes": "For the yogurt sauce"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "Season the lamb to taste"
+    },
+    {
+      "name": "10-12 wooden skewers",
+      "amount": "",
+      "notes": "Soak the skewers in water for at least 30 minutes before grilling"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together the olive oil, garlic, oregano, lemon zest, salt, and pepper.",
+    "Add the lamb cubes to the marinade and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Thread the marinated lamb cubes onto the skewers.",
+    "Season the lamb with salt and pepper to taste.",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "Meanwhile, prepare the yogurt sauce by whisking together the yogurt, lemon juice, garlic, and oregano.",
+    "Serve the lamb skewers with the yogurt sauce on the side.",
+    "Garnish with fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "skewers",
+    "yogurt sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-greek-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:05:35.535Z"
+}
