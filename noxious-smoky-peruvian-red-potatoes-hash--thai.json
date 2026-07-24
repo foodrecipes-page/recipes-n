@@ -1,0 +1,77 @@
+{
+  "slug": "noxious-smoky-peruvian-red-potatoes-hash--thai",
+  "title": "Smoky Thai Hash",
+  "description": "A flavorful and spicy Thai-inspired dish made with smoky sausage, potatoes, and peruvian peppers.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "noxious peppers",
+      "amount": "2",
+      "notes": "optional, for extra heat"
+    },
+    {
+      "name": "smoky sausage",
+      "amount": "1/2 pound",
+      "notes": "Thai-style sausage"
+    },
+    {
+      "name": "peruvian peppers",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "hash",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the sliced red onion and cook until softened, about 3-4 minutes.",
+    "Add the diced potatoes and cook for an additional 5 minutes, stirring occasionally.",
+    "Add the smoky sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the peruvian peppers and cook for an additional minute.",
+    "If using noxious peppers, add them now and stir to combine.",
+    "Use a spatula to create hash marks in the pan, allowing excess moisture to escape.",
+    "Continue cooking for an additional 2-3 minutes, stirring occasionally.",
+    "Use a spatula to break up the hash into small pieces, creating a crispy crust.",
+    "Serve hot, garnished with additional peruvian peppers if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "breakfast",
+    "hash",
+    "potatoes",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/noxious-smoky-peruvian-red-potatoes-hash--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:57:42.083Z"
+}
