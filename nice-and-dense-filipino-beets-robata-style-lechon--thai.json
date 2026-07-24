@@ -1,0 +1,73 @@
+{
+  "slug": "nice-and-dense-filipino-beets-robata-style-lechon--thai",
+  "title": "Spicy Thai Lechon Bites",
+  "description": "Crispy fried bites filled with a flavorful lechon filling, inspired by Thai cuisine.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "nice lechon",
+      "amount": "1 pound",
+      "notes": "cured and roasted pork"
+    },
+    {
+      "name": "beets",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "dense fish sauce",
+      "amount": "1/4 cup",
+      "notes": "Thai-style fish sauce"
+    },
+    {
+      "name": "filipino vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "robata style chili flakes",
+      "amount": "1 tablespoon",
+      "notes": "spicy Thai chili flakes"
+    },
+    {
+      "name": "style breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil to 350°F (180°C) for frying.",
+    "2. In a blender or food processor, blend the lechon, beets, fish sauce, and vinegar until well combined.",
+    "3. Using your hands, shape the lechon mixture into small balls, about 1 tablespoon each.",
+    "4. Dredge each ball in the breadcrumbs to coat.",
+    "5. Carefully place the coated lechon balls in the hot oil and fry until golden brown.",
+    "6. Remove the fried lechon bites from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "7. Serve the Spicy Thai Lechon Bites hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "appetizer",
+    "snack",
+    "lechon",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-and-dense-filipino-beets-robata-style-lechon--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:24:47.905Z"
+}
