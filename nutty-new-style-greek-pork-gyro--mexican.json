@@ -1,0 +1,92 @@
+{
+  "slug": "nutty-new-style-greek-pork-gyro--mexican",
+  "title": "Taco Gryo",
+  "description": "A twist on traditional tacos, using juicy pork gyro meat and topped with fresh greek ingredients.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork gyro meat",
+      "amount": "500g",
+      "notes": "preferably cooked in a pan"
+    },
+    {
+      "name": "nutty tortillas",
+      "amount": "4",
+      "notes": "corn or flour, your choice"
+    },
+    {
+      "name": "new mexico cheese",
+      "amount": "250g",
+      "notes": "shredded or sliced, your choice"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "200g",
+      "notes": "as a topping"
+    },
+    {
+      "name": "greek olives",
+      "amount": "100g",
+      "notes": "sliced or pitted, your choice"
+    },
+    {
+      "name": "style salsa",
+      "amount": "200g",
+      "notes": "mild or spicy, your choice"
+    },
+    {
+      "name": "cumin",
+      "amount": "1tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan to medium-high heat.",
+    "Add a small amount of oil and cook the pork gyro meat until browned.",
+    "Add cumin, chili powder, salt, and pepper to taste, and stir well.",
+    "Warm the nutty tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by spooning the pork gyro meat onto a tortilla, followed by a sprinkle of new mexico cheese, a dollop of greek yogurt, and a few greek olives.",
+    "Serve with a side of style salsa.",
+    "Enjoy your taco gyro!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "pork",
+    "gyro"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-new-style-greek-pork-gyro--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:45:24.616Z"
+}
