@@ -20056,5 +20056,18 @@
     "cuisine": "Brazilian",
     "totalTimeMin": 45,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-silky-syrian-lamb-flatbread--indian",
+    "title": "Lamb Koftas with Flatbread",
+    "tags": [
+      "indian",
+      "kebabs",
+      "grilled",
+      "street-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "n"
   }
 ]
