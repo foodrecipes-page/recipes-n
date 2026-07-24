@@ -1,0 +1,77 @@
+{
+  "slug": "numbing-korean-peppers-stir-fry",
+  "title": "Korean Stir Fry",
+  "description": "A spicy and savory Korean-inspired stir fry recipe made with peppers and a hint of numbing flavor. Ready in under 30 minutes!",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peppers",
+      "amount": "1 cup",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "numbing",
+      "amount": "1 teaspoon",
+      "notes": "Korean chili flakes, or to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinating and stir-frying"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for finishing"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced peppers and cook for 3-4 minutes, or until they start to soften.",
+    "Add the minced garlic and grated ginger, and cook for 1 minute, stirring constantly.",
+    "In a small bowl, whisk together the soy sauce and numbing flakes. Pour the mixture over the peppers and stir to coat.",
+    "Continue cooking for an additional 2-3 minutes, or until the peppers are tender-crisp.",
+    "Stir in the remaining 1 tablespoon of vegetable oil and sesame oil. Season to taste with salt and pepper.",
+    "Serve hot, garnished with chopped green onions and toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "stirfry",
+    "peppers",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/numbing-korean-peppers-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:29:20.337Z"
+}
