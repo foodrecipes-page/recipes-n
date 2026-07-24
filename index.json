@@ -11414,14 +11414,14 @@
   },
   {
     "slug": "nutty-bouncy-ukrainian-pork-grill",
-    "title": "nutty, bouncy ukrainian pork grill",
+    "title": "Grilled Ukrainian Pork Kebabs",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "ukrainian",
+      "grilled",
+      "pork"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 20,
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 22,
     "shard": "n"
   },
   {
@@ -20153,6 +20153,34 @@
     ],
     "cuisine": null,
     "totalTimeMin": 10,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-chewy-ethiopian-teff-injera--french",
+    "title": "Ethiopian Teff Crepes with French Cream",
+    "tags": [
+      "teff",
+      "crepes",
+      "ethiopian",
+      "french",
+      "dessert"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nicely-browned-slovakian-pork-roast--indian",
+    "title": "Slovakian Pork Roast",
+    "tags": [
+      "indian",
+      "slovakian",
+      "pork",
+      "roast",
+      "dinner"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 150,
     "shard": "n"
   }
 ]
