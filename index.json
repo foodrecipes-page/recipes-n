@@ -20004,5 +20004,31 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "n"
+  },
+  {
+    "slug": "nutritious-korean-style-filipino-mung-bean-sprouts-pinakbet--german",
+    "title": "Filipino-Style Pinakbet Stuffed German Sausages",
+    "tags": [
+      "german",
+      "filipino",
+      "fusion",
+      "sausages",
+      "pinakbet"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-gooey-argentinian-seafood-empanadas--italian",
+    "title": "Argentinian Seabass with Gooey Empanada Crust",
+    "tags": [
+      "italian-food",
+      "seafood-empanadas",
+      "gooey-cheese"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]
