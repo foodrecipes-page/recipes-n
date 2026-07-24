@@ -1,0 +1,75 @@
+{
+  "slug": "nourishing-dense-brazilian-shiitake-mushrooms-skewers",
+  "title": "Shiitake Skewers with Brazilian Rice",
+  "description": "A flavorful and nutritious dish that combines the earthy taste of shiitake mushrooms with the spicy kick of Brazilian-style rice.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Brazilian rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "Dense tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Nourishing olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10",
+      "notes": "soaked in water"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine sliced shiitake mushrooms, chopped tomatoes, and cooked Brazilian rice.",
+    "Drizzle with olive oil and season with salt and pepper to taste.",
+    "Thread the mushroom mixture onto the skewers.",
+    "Grill the skewers for 5-7 minutes per side, or until the mushrooms are tender and lightly charred.",
+    "Serve immediately over a bed of additional Brazilian rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "mushroom",
+    "skewers",
+    "brazilian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-dense-brazilian-shiitake-mushrooms-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:18:36.617Z"
+}
