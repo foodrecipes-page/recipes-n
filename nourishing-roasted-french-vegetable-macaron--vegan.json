@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-roasted-french-vegetable-macaron--vegan",
+  "title": "Vegan French Vegetable Quinoa Bowl",
+  "description": "A hearty and flavorful quinoa bowl filled with roasted vegetables and a tangy sauce, perfect for a vegan dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "French red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Roasted vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Macaroni",
+      "amount": "1 cup"
+    },
+    {
+      "name": "French thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4"
+    },
+    {
+      "name": "Sweet potatoes",
+      "amount": "2"
+    },
+    {
+      "name": "French green beans",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the carrots and sweet potatoes with 1 tbsp of oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 20 minutes.",
+    "Cook the quinoa according to package instructions.",
+    "In a large pot, sauté the macaroni in 1 tbsp of oil until lightly browned.",
+    "Add the roasted vegetable broth, thyme, and garlic to the pot.",
+    "Bring to a boil, then reduce heat and simmer for 15 minutes.",
+    "Add the cooked quinoa to the pot and stir to combine.",
+    "Toss the green beans with 1 tbsp of oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 10 minutes.",
+    "To assemble the bowls, divide the quinoa mixture among bowls and top with roasted vegetables and green beans.",
+    "Drizzle with French red wine vinegar and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "quinoa",
+    "roasted-vegetables",
+    "french-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-roasted-french-vegetable-macaron--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:01:30.524Z"
+}
