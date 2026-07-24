@@ -20069,5 +20069,32 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-new-style-greek-pork-gyro--mexican",
+    "title": "Taco Gryo",
+    "tags": [
+      "mexican",
+      "tacos",
+      "pork",
+      "gyro"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-basque-poppy-seeds-stew--japanese",
+    "title": "Japanese Stew with Nourishing Seaweed",
+    "tags": [
+      "japanese-cuisine",
+      "stew",
+      "nourishing-seaweed",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "n"
   }
 ]
