@@ -1,0 +1,86 @@
+{
+  "slug": "nourishing-mediterranean-chicken-stir-fry--thai",
+  "title": "Thai Chicken Stir Fry",
+  "description": "A quick and easy Thai-inspired chicken stir fry made with a variety of vegetables and a tangy sauce. Serve with steamed rice or noodles for a delicious and nutritious meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian-options"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "trimmed and sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "for sweetness"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the sliced onion and minced garlic to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the sliced bell pepper to the skillet and cook for an additional 2-3 minutes.",
+    "Add the snow peas to the skillet and cook until they are tender but still crisp, about 2-3 minutes.",
+    "Return the cooked chicken to the skillet and stir in the soy sauce and honey.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened and the chicken is coated.",
+    "Serve immediately over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "thai",
+    "stir-fry",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-mediterranean-chicken-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:31:21.568Z"
+}
