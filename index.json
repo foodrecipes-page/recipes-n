@@ -10118,17 +10118,15 @@
   },
   {
     "slug": "nutritious-greek-lamb-skewers",
-    "title": "Nutritious Greek Lamb Skewers",
+    "title": "Lamb Skewers with Greek Yogurt Sauce",
     "tags": [
-      "brunch-ideas",
-      "greek-food",
-      "high-protein",
-      "lamb-recipes",
-      "one-pan",
-      "weeknight"
+      "greek",
+      "lamb",
+      "skewers",
+      "yogurt sauce"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
@@ -20230,6 +20228,32 @@
     ],
     "cuisine": null,
     "totalTimeMin": 65,
+    "shard": "n"
+  },
+  {
+    "slug": "nice-and-dense-filipino-beets-robata-style-lechon--thai",
+    "title": "Spicy Thai Lechon Bites",
+    "tags": [
+      "thai",
+      "appetizer",
+      "snack",
+      "lechon",
+      "fried"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-bitter-british-lamb-shepherds-pie--vegetarian",
+    "title": "British Shepherd's Pie Vegetarian",
+    "tags": [
+      "british",
+      "vegetarian",
+      "shepherds-pie"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 55,
     "shard": "n"
   }
 ]
