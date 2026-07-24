@@ -1,0 +1,89 @@
+{
+  "slug": "nutty-algerian-chickpeas-tagine",
+  "title": "Algerian Chickpea Tagine",
+  "description": "A hearty, flavorful North African stew made with chickpeas, spices, and a hint of nutty flavor. This dish is perfect for a cold winter night.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutty olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the nutty olive oil in the bottom of a traditional tagine or a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the chickpeas, Algerian spice blend, and tagine spice. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20 minutes.",
+    "Season the tagine with salt and black pepper to taste.",
+    "Stir in chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chickpeas",
+    "north-african",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-algerian-chickpeas-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:19:09.643Z"
+}
