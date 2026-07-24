@@ -1,0 +1,94 @@
+{
+  "slug": "nutty-crispy-ethiopian-fish-tacos--japanese",
+  "title": "Japanese Crispy Fish Tacos",
+  "description": "A fusion dish that combines the flavors of Japan and Mexico, featuring crispy fish in a crispy taco shell",
+  "cuisine": "japanese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "firm and flaky fish"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "crispy and light"
+    },
+    {
+      "name": "norimaki seaweed",
+      "amount": "1/2 sheet",
+      "notes": "Japanese seaweed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "4",
+      "notes": "corn tortillas for tacos"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "Japanese pickled ginger"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "wasabi mayonnaise",
+      "amount": "1/4 cup",
+      "notes": " Japanese mayonnaise with wasabi"
+    },
+    {
+      "name": "nori flakes",
+      "amount": "1/4 cup",
+      "notes": "Japanese seaweed flakes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil to 350°F.",
+    "Cut the cod into small pieces and season with salt and pepper.",
+    "Coat the fish pieces with flour, shaking off excess.",
+    "Dip the floured fish into the beaten eggs and then coat with panko breadcrumbs.",
+    "Fry the fish in batches until golden brown and crispy.",
+    "Drain the fish on paper towels.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by placing a piece of fried fish onto a tortilla, followed by a slice of pickled ginger, a sprinkle of nori flakes, and a dollop of wasabi mayonnaise.",
+    "Garnish with sesame seeds if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fish",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-ethiopian-fish-tacos--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:43:01.657Z"
+}
