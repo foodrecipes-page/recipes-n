@@ -1,0 +1,75 @@
+{
+  "slug": "nutritious-korean-style-filipino-mung-bean-sprouts-pinakbet--german",
+  "title": "Filipino-Style Pinakbet Stuffed German Sausages",
+  "description": "A fusion dish combining the flavors of Filipino pinakbet with German sausages.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Filipino-style pinakbet",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "German sausages",
+      "amount": "4",
+      "notes": "Bratwurst or Knockwurst work well"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "Optional, for added heat"
+    },
+    {
+      "name": "Mung bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nutritious oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the German sausages in half lengthwise.",
+    "Scoop out some of the meat to make room for the pinakbet.",
+    "Fill each sausage with the pinakbet mixture.",
+    "Place the stuffed sausages on a baking sheet lined with parchment paper.",
+    "Drizzle with nutritious oil and sprinkle with Korean chili flakes (if using).",
+    "Season with salt and pepper to taste.",
+    "Bake in the preheated oven for 12-15 minutes, or until cooked through.",
+    "Serve hot, garnished with mung bean sprouts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "filipino",
+    "fusion",
+    "sausages",
+    "pinakbet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-korean-style-filipino-mung-bean-sprouts-pinakbet--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:51:06.789Z"
+}
