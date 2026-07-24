@@ -1,0 +1,63 @@
+{
+  "slug": "nutty-kenyan-pickle-curry",
+  "title": "Kenyan Curry Nutty Bites",
+  "description": "A sweet and spicy twist on traditional Kenyan curry, served in bite-sized pieces. Perfect for a snack or light meal.",
+  "cuisine": "African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "curry",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pickle",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon",
+      "notes": "coconut or vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together curry, nutty, and kenyan.",
+    "Add pickle and mix until well combined.",
+    "Heat oil in a pan over medium heat. Add the mixture and cook for 3-4 minutes.",
+    "Transfer the mixture to a baking sheet and bake for 10-12 minutes.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "curry",
+    "kenyan",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-kenyan-pickle-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:12:13.613Z"
+}
