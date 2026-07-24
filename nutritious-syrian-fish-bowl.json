@@ -1,0 +1,85 @@
+{
+  "slug": "nutritious-syrian-fish-bowl",
+  "title": "Baked Fish Bowl",
+  "description": "A healthy and flavorful bowl dish with baked fish, nutritious rice, and a hint of Syrian spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "4 oz",
+      "notes": "Any white fish works well"
+    },
+    {
+      "name": "Nutritious rice",
+      "amount": "1 cup",
+      "notes": "Pre-cooked or cooked according to package"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For baking and dressing"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Syrian allspice",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the fish fillet on the prepared baking sheet.",
+    "Drizzle the olive oil over the fish and sprinkle with Syrian allspice, salt, and pepper.",
+    "Bake for 12-15 minutes or until the fish is cooked through.",
+    "While the fish is baking, prepare the nutritious rice according to package instructions.",
+    "Once the fish is done, remove it from the oven and let it rest for 2-3 minutes.",
+    "Flake the fish into large pieces and serve over the nutritious rice.",
+    "Drizzle with lemon juice and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "baked-fish",
+    "syrian-cuisine",
+    "healthy-options",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-syrian-fish-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:11:09.878Z"
+}
