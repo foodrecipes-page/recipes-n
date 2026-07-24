@@ -1,0 +1,58 @@
+{
+  "slug": "nutty-aerated-jamaican-feta-cheese-hash--mexican",
+  "title": "Mexican Hash Skillet",
+  "description": "A delicious and easy-to-make Mexican dish featuring a nutty hash crust topped with melted cheese and a sprinkle of feta.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "hash",
+      "amount": "2 cups",
+      "notes": "preferably day-old hash"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded, preferably a blend of cheddar and Monterey Jack"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large oven-safe skillet, cook the hash over medium heat until lightly browned.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes.",
+    "Remove the skillet from the oven and top with shredded cheese.",
+    "Return the skillet to the oven and bake until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and sprinkle with crumbled feta cheese.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "breakfast",
+    "skillet",
+    "hash",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-aerated-jamaican-feta-cheese-hash--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:48:43.015Z"
+}
