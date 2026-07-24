@@ -1,0 +1,76 @@
+{
+  "slug": "nutty-crispy-uruguayan-chicken-skewers--french",
+  "title": "Uruguayan Chicken Skewers with Nutty Crust",
+  "description": "Delicious Uruguayan-inspired chicken skewers with a nutty and crispy crust, perfect for a French-inspired meal. Serve with your favorite sides for a complete meal.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "nutty crust mix",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "uruguayan chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together nutty crust mix, olive oil, lemon juice, and garlic powder.",
+    "Thread chicken breast onto skewers, leaving a small space between each piece.",
+    "Brush nutty crust mix mixture onto chicken breast.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes, or until chicken is cooked through.",
+    "Serve with uruguayan chimichurri sauce for dipping.",
+    "Note: Make sure to cook chicken to an internal temperature of 165°F (74°C) to ensure food safety."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "uruguayan",
+    "grilled",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-uruguayan-chicken-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:50:43.115Z"
+}
