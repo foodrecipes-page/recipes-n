@@ -20195,5 +20195,32 @@
     "cuisine": "french",
     "totalTimeMin": 30,
     "shard": "n"
+  },
+  {
+    "slug": "nourishing-japanese-chicken-katsudon--german",
+    "title": "Katsudon Currywurst",
+    "tags": [
+      "german",
+      "japanese",
+      "curry",
+      "wurst"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "noxious-smoky-peruvian-red-potatoes-hash--thai",
+    "title": "Smoky Thai Hash",
+    "tags": [
+      "thaifood",
+      "breakfast",
+      "hash",
+      "potatoes",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "n"
   }
 ]
