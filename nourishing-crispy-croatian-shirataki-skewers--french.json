@@ -1,0 +1,74 @@
+{
+  "slug": "nourishing-crispy-croatian-shirataki-skewers--french",
+  "title": "Pan-Seared Shirataki Skewers with Croatian Crust",
+  "description": "A French-inspired dish featuring crispy shirataki skewers with a nourishing Croatian crust, perfect for a light lunch or dinner.",
+  "cuisine": "french",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shirataki noodles",
+      "amount": "1 package",
+      "notes": "Dried"
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "2 tbsp",
+      "notes": "Dried"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a bowl, mix together the Croatian paprika, lemon juice, garlic, salt, and black pepper.",
+    "3. Cut the shirataki noodles into skewer-sized pieces and coat with the paprika mixture.",
+    "4. Drizzle the olive oil over the skewers and toss to coat.",
+    "5. Thread the skewers onto a baking sheet lined with parchment paper.",
+    "6. Bake for 15-20 minutes, or until the crust is crispy and golden brown.",
+    "7. Serve hot, garnished with additional lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "crispy",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-crispy-croatian-shirataki-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:14:50.881Z"
+}
