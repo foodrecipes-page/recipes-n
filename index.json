@@ -8699,17 +8699,15 @@
   },
   {
     "slug": "nourishing-uruguayan-spring-onion-stew",
-    "title": "Nourishing Uruguayan Spring Onion Stew",
+    "title": "Uruguayan Spring Stew",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "one-pot",
-      "uruguayan",
-      "vegetarian",
-      "weeknight"
+      "uruguayan-cuisine",
+      "lamb-stew",
+      "spring-recipe",
+      "comfort-food"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 150,
     "shard": "n"
   },
   {
@@ -20219,6 +20217,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-roasted-french-vegetable-macaron--vegan",
+    "title": "Vegan French Vegetable Quinoa Bowl",
+    "tags": [
+      "vegan",
+      "quinoa",
+      "roasted-vegetables",
+      "french-cuisine"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 65,
     "shard": "n"
   }
 ]
