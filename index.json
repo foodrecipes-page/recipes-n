@@ -10911,16 +10911,15 @@
   },
   {
     "slug": "nutritious-syrian-fish-bowl",
-    "title": "Nutritious Syrian Fish Bowl",
+    "title": "Baked Fish Bowl",
     "tags": [
-      "fish-dish",
-      "middle-eastern",
-      "pescatarian-friendly",
-      "stone-bowl",
-      "syrian-cuisine"
+      "baked-fish",
+      "syrian-cuisine",
+      "healthy-options",
+      "low-carb"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -20128,6 +20127,32 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 28,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-chewy-irish-beef-stir-fry--gluten-free",
+    "title": "Irish Beef Stir Fry",
+    "tags": [
+      "irish-beef",
+      "gluten-free",
+      "stir-fry"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 22,
+    "shard": "n"
+  },
+  {
+    "slug": "nurturing-irish-oats-bowl--keto",
+    "title": "Keto Irish Oat Bowl",
+    "tags": [
+      "keto",
+      "breakfast",
+      "irish",
+      "oats",
+      "almonds"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "n"
   }
 ]
