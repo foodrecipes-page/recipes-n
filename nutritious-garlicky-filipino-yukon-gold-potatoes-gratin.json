@@ -1,0 +1,78 @@
+{
+  "slug": "nutritious-garlicky-filipino-yukon-gold-potatoes-gratin",
+  "title": "Filipino Yukon Gold Potato Gratin",
+  "description": "A creamy, garlicky, and nutritious side dish inspired by Filipino cuisine, featuring Yukon gold potatoes and a crunchy gratin topping.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "nutritious garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gratyng cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for greasing the dish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a 9x13 inch baking dish with olive oil.",
+    "Arrange a layer of potatoes in the prepared baking dish.",
+    "Sprinkle a third of the grated cheese over the potatoes.",
+    "Repeat the layering process two more times, ending with a layer of cheese on top.",
+    "In a small bowl, mix together minced garlic and a pinch of salt.",
+    "Sprinkle the garlic mixture evenly over the top layer of cheese.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "gluten-free",
+    "potatoes",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-garlicky-filipino-yukon-gold-potatoes-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:22:43.412Z"
+}
