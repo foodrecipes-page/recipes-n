@@ -1,0 +1,68 @@
+{
+  "slug": "nutty-silky-syrian-lamb-flatbread--indian",
+  "title": "Lamb Koftas with Flatbread",
+  "description": "Tender lamb koftas served with crispy flatbread and a side of spicy sauce. A classic Indian street food recipe.",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "minced"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "nutty",
+      "amount": "1 tablespoon",
+      "notes": "sesame seeds"
+    },
+    {
+      "name": "silky",
+      "amount": "1 tablespoon",
+      "notes": "plain yogurt"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 teaspoon",
+      "notes": "sumac"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine lamb, sesame seeds, yogurt, sumac, and a pinch of salt. Mix well with your hands until just combined.",
+    "Divide the mixture into 4-6 portions, depending on how large you want your koftas to be.",
+    "Shape each portion into a cylinder and place on a plate or tray.",
+    "Thread the koftas onto skewers, if using.",
+    "Grill the koftas for 8-10 minutes, turning occasionally, until cooked through.",
+    "Meanwhile, toast the flatbread on the grill or in a toaster.",
+    "Serve the koftas hot with toasted flatbread and your favorite chutneys or raitas."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "kebabs",
+    "grilled",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-silky-syrian-lamb-flatbread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:29:44.256Z"
+}
