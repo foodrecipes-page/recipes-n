@@ -1,0 +1,85 @@
+{
+  "slug": "nutty-gooey-argentinian-seafood-empanadas--italian",
+  "title": "Argentinian Seabass with Gooey Empanada Crust",
+  "description": "A seafood twist on traditional Italian empanadas, with a gooey crust and a delicate seabass filling.",
+  "cuisine": "italian",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian Seabass Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gooey Cheese",
+      "amount": "1 cup",
+      "notes": "such as mozzarella or provolone"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Prepare the empanada dough according to the package instructions.",
+    "Cut the seabass fillets into small pieces and season with salt and black pepper.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch (3 mm).",
+    "Place a small amount of the seabass mixture onto one half of the dough, leaving a 1/2 inch (1 cm) border around the edges.",
+    "Sprinkle a pinch of parmesan cheese and a few pieces of gooey cheese on top of the seabass.",
+    "Fold the other half of the dough over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and place them on a baking sheet lined with parchment paper.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Remove the empanadas from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "seafood-empanadas",
+    "gooey-cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-gooey-argentinian-seafood-empanadas--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:17:21.046Z"
+}
