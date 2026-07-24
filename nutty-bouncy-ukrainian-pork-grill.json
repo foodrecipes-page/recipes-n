@@ -1,0 +1,82 @@
+{
+  "slug": "nutty-bouncy-ukrainian-pork-grill",
+  "title": "Grilled Ukrainian Pork Kebabs",
+  "description": "A traditional Ukrainian dish featuring marinated pork skewers grilled to perfection. Serve with a side of your favorite vegetables or bread.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian bouncy bread, torn into 1-inch pieces",
+      "amount": "1/2 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Nutty Ukrainian sauce (see notes)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grill seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "In a large bowl, whisk together nutty Ukrainian sauce, olive oil, salt, pepper, and garlic powder.",
+    "Add the pork cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork cubes onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 5-7 minutes per side, or until the pork is cooked through.",
+    "Meanwhile, grill the torn Ukrainian bread pieces for 2-3 minutes per side, or until lightly toasted.",
+    "Serve the grilled pork skewers with the toasted bread on the side, and enjoy!",
+    "Note: Nutty Ukrainian sauce can be made by combining 1/4 cup of mayonnaise, 2 tablespoons of chopped fresh dill, and 1 tablespoon of chopped fresh parsley in a bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "grilled",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-bouncy-ukrainian-pork-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:26:46.662Z"
+}
