@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-chewy-irish-beef-stir-fry--gluten-free",
+  "title": "Irish Beef Stir Fry",
+  "description": "A hearty and flavorful beef stir fry that's gluten-free and easy to make.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 lb (450g)",
+      "notes": ""
+    },
+    {
+      "name": "Nutty Oil (e.g., peanut or walnut oil)",
+      "amount": "2 tbsp (30ml)",
+      "notes": ""
+    },
+    {
+      "name": "Chewy Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Irish Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Stir-Fry Sauce (gluten-free)",
+      "amount": "2 tbsp (30g)",
+      "notes": "Make sure to choose a gluten-free option."
+    }
+  ],
+  "instructions": [
+    "Heat the nutty oil in a large skillet or wok over medium-high heat.",
+    "Add the beef and cook for 3-4 minutes per side, or until it reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "Remove the beef from the skillet and set it aside to rest.",
+    "Add the carrots and onions to the skillet and cook for 3-4 minutes, or until they're tender-crisp.",
+    "Return the beef to the skillet and stir in the stir-fry sauce.",
+    "Cook for an additional 1-2 minutes, or until the sauce has thickened.",
+    "Serve the beef and vegetables hot, garnished with chopped fresh herbs if desired.",
+    "Let the beef rest for a few minutes before slicing it thinly against the grain."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-beef",
+    "gluten-free",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "37g",
+    "carbs": "20g",
+    "fat": "22g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-chewy-irish-beef-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:02:08.945Z"
+}
