@@ -1,0 +1,86 @@
+{
+  "slug": "nutty-chewy-ethiopian-teff-injera--french",
+  "title": "Ethiopian Teff Crepes with French Cream",
+  "description": "Delicate crepes infused with the nutty flavor of teff, served with a rich French cream. This unique dessert combines the traditional flavors of Ethiopia with the elegance of French cuisine.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Teff flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian injera flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "French cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together teff flour, injera flour, and sugar.",
+    "In a separate bowl, whisk together milk, eggs, and vanilla extract.",
+    "Gradually add the wet ingredients to the dry ingredients and mix until smooth.",
+    "Heat a non-stick pan over medium heat and brush with butter.",
+    "Pour a small amount of the batter into the pan and tilt to evenly coat the bottom.",
+    "Cook for 1-2 minutes, until the edges start to curl and the surface is dry.",
+    "Loosen the crepe with a spatula and flip to cook the other side.",
+    "Repeat with the remaining batter, until all the crepes are cooked.",
+    "In a separate saucepan, heat the French cream over low heat until warmed through.",
+    "Serve the crepes warm with a dollop of French cream and a sprinkle of sugar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "teff",
+    "crepes",
+    "ethiopian",
+    "french",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-chewy-ethiopian-teff-injera--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:30:39.538Z"
+}
