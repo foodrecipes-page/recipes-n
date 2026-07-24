@@ -20182,5 +20182,18 @@
     "cuisine": "indian",
     "totalTimeMin": 150,
     "shard": "n"
+  },
+  {
+    "slug": "nourishing-crispy-croatian-shirataki-skewers--french",
+    "title": "Pan-Seared Shirataki Skewers with Croatian Crust",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "crispy",
+      "skewers"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "n"
   }
 ]
