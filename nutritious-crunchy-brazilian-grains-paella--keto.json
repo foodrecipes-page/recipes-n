@@ -1,0 +1,84 @@
+{
+  "slug": "nutritious-crunchy-brazilian-grains-paella--keto",
+  "title": "Brazilian Paella Bowl",
+  "description": "A keto twist on the classic Spanish dish, featuring nutritious and crunchy grains. Perfect for a quick and flavorful dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brazilian rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Crunchy chicken breast",
+      "amount": "1 lb",
+      "notes": "grilled to 165°F"
+    },
+    {
+      "name": "Nutritious chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Grains of toasted almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped and toasted in a pan"
+    },
+    {
+      "name": "Spanish saffron",
+      "amount": "1/2 teaspoon",
+      "notes": "infused in the chicken broth"
+    },
+    {
+      "name": "Crispy prosciutto",
+      "amount": "4 slices",
+      "notes": "chopped and toasted in a pan"
+    },
+    {
+      "name": "Keto-friendly olive oil",
+      "amount": "2 tablespoons",
+      "notes": "used for cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "season to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped prosciutto and cook until crispy, about 3-4 minutes.",
+    "Add the chopped almonds and cook for an additional 2 minutes.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes.",
+    "Add the cooked Brazilian rice, chicken broth, saffron, salt, and pepper to the skillet.",
+    "Stir to combine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 10-12 minutes.",
+    "Serve the paella hot, garnished with additional crispy prosciutto and chopped almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "brazilian",
+    "paella",
+    "dinner",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-crunchy-brazilian-grains-paella--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:22:00.461Z"
+}
