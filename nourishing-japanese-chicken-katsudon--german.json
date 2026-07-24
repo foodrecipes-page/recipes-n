@@ -1,0 +1,93 @@
+{
+  "slug": "nourishing-japanese-chicken-katsudon--german",
+  "title": "Katsudon Currywurst",
+  "description": "A twist on the classic German currywurst, this recipe combines the flavors of Japan with the comfort of a hearty German sausage.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Japanese katsudon rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "German currywurst sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, heat 2 tablespoons of oil over medium-high heat.",
+    "2. Slice the currywurst sausage into 1/2-inch thick rounds.",
+    "3. Add the sausage to the pan and cook for 2-3 minutes on each side, or until browned.",
+    "4. Remove the sausage from the pan and set aside.",
+    "5. Add the sliced onion and bell pepper to the pan and cook until tender, about 5 minutes.",
+    "6. Add the tomato paste and curry powder to the pan and cook for 1 minute, stirring constantly.",
+    "7. Add the chicken breast to the pan and cook until browned and cooked through, about 5-6 minutes.",
+    "8. Stir in the katsudon rice and cook for 2-3 minutes, or until heated through.",
+    "9. Add the cooked sausage back to the pan and stir to combine.",
+    "10. Serve hot, garnished with Panko breadcrumbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "japanese",
+    "curry",
+    "wurst"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-japanese-chicken-katsudon--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:32:20.789Z"
+}
