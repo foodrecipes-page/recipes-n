@@ -1,0 +1,83 @@
+{
+  "slug": "nourishing-bitter-british-lamb-shepherds-pie--vegetarian",
+  "title": "British Shepherd's Pie Vegetarian",
+  "description": "A classic British dish made vegetarian by replacing the traditional lamb with a rich vegetable filling. This comforting casserole is perfect for a chilly evening.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Nourishing broth",
+      "amount": "2 cups",
+      "notes": "vegetable broth"
+    },
+    {
+      "name": "British bitter beer",
+      "amount": "1 cup",
+      "notes": "vegetarian beer"
+    },
+    {
+      "name": "Shepherds pie mix",
+      "amount": "1 packet",
+      "notes": "vegetarian mix"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large pan, sauté the onions, mushrooms, and carrots over medium heat until the vegetables are tender.",
+    "Add the peas, nourishing broth, and British bitter beer to the pan. Bring to a simmer and cook until the liquid has reduced slightly.",
+    "In a separate pan, boil the chopped potatoes until they are tender.",
+    "Mash the cooked potatoes with a fork or potato masher.",
+    "Transfer the vegetable mixture to a 9x13 inch baking dish.",
+    "Spread the mashed potatoes over the top of the vegetable mixture.",
+    "Top with the shepherds pie mix and bake for 25-30 minutes, or until the potatoes are golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "vegetarian",
+    "shepherds-pie"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-bitter-british-lamb-shepherds-pie--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:26:53.883Z"
+}
