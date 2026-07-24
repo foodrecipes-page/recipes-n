@@ -8962,17 +8962,15 @@
   },
   {
     "slug": "numbing-korean-peppers-stir-fry",
-    "title": "Numbing Korean Peppers Stir-fry",
+    "title": "Korean Stir Fry",
     "tags": [
-      "kosher",
-      "low-carb",
-      "namul",
-      "one-pan",
-      "savory",
-      "weeknight"
+      "korean",
+      "stirfry",
+      "peppers",
+      "vegetarian"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": 17,
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -10065,17 +10063,16 @@
   },
   {
     "slug": "nutritious-garlicky-filipino-yukon-gold-potatoes-gratin",
-    "title": "Nutritious Garlicky Filipino Yukon Gold Potatoes Gratin",
+    "title": "Filipino Yukon Gold Potato Gratin",
     "tags": [
-      "filipino-food",
-      "garlic-lover",
-      "macrobiotic-friendly",
-      "potato-recipe",
-      "vegetarian-option",
-      "weeknight-dinner"
+      "filipino",
+      "vegetarian",
+      "gluten-free",
+      "potatoes",
+      "gratin"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 85,
+    "cuisine": "filipino",
+    "totalTimeMin": 70,
     "shard": "n"
   },
   {
@@ -11175,17 +11172,16 @@
   },
   {
     "slug": "nutty-algerian-chickpeas-tagine",
-    "title": "Nutty Algerian Chickpeas Tagine",
+    "title": "Algerian Chickpea Tagine",
     "tags": [
-      "high-protein",
-      "macrobiotic",
+      "algerian",
+      "chickpeas",
       "north-african",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -14451,17 +14447,15 @@
   },
   {
     "slug": "nutty-kenyan-pickle-curry",
-    "title": "Nutty Kenyan Pickle Curry",
+    "title": "Kenyan Curry Nutty Bites",
     "tags": [
-      "coconut-milk-based",
-      "jain-friendly",
-      "kenyan-cuisine",
-      "peanut-butter-based",
-      "pickle-relish",
+      "curry",
+      "kenyan",
+      "snack",
       "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "African",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -20095,6 +20089,45 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-mediterranean-chicken-stir-fry--thai",
+    "title": "Thai Chicken Stir Fry",
+    "tags": [
+      "chicken",
+      "thai",
+      "stir-fry",
+      "vegetarian-options"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-ethiopian-fish-tacos--japanese",
+    "title": "Japanese Crispy Fish Tacos",
+    "tags": [
+      "japanese",
+      "fish",
+      "tacos"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-aerated-jamaican-feta-cheese-hash--mexican",
+    "title": "Mexican Hash Skillet",
+    "tags": [
+      "mexican",
+      "breakfast",
+      "skillet",
+      "hash",
+      "cheese"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 28,
     "shard": "n"
   }
 ]
