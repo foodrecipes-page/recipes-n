@@ -1,0 +1,84 @@
+{
+  "slug": "nutty-fluffy-egyptian-barramundi-tagine",
+  "title": "Barramundi Tagine",
+  "description": "A flavorful seafood stew originating from North Africa, made with barramundi and spices.",
+  "cuisine": "north african",
+  "diet": [
+    "seafood",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "nutty couscous",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "fluffy chopped onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "egyptian dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large clay pot or Dutch oven over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add tagine spice blend and cook for 1 minute, stirring constantly.",
+    "Add barramundi fillets and cook for 2-3 minutes on each side, until browned.",
+    "Add chopped apricots and cook for 1 minute.",
+    "Transfer pot to oven and bake at 375°F (190°C) for 12-15 minutes, or until fish is cooked through.",
+    "Fluff couscous according to package instructions.",
+    "Serve barramundi and sauce over couscous.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "stew",
+    "north african"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-fluffy-egyptian-barramundi-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:19:06.938Z"
+}
