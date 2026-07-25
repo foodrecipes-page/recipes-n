@@ -1,0 +1,91 @@
+{
+  "slug": "nutty-crispy-filipino-peanuts-kare-kare--vegan",
+  "title": "Vegan Kare Kare",
+  "description": "A vegan version of the traditional Filipino dish, made with ground peanuts and kare kare sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "kare kare",
+      "amount": "1/2 cup",
+      "notes": "powder"
+    },
+    {
+      "name": "nutty brown rice",
+      "amount": "1 cup",
+      "notes": "cooking liquid"
+    },
+    {
+      "name": "crispy garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "green chili",
+      "amount": "1 small",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan and sauté the onion and garlic until softened.",
+    "Add the diced tomato and cook until the mixture is heated through.",
+    "Add the ground peanuts and cook for 2 minutes.",
+    "Add the kare kare powder and mix well.",
+    "Add the nutty brown rice and mix well.",
+    "Season with salt and black pepper to taste.",
+    "Cook for an additional 5 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "filipino",
+    "kare-kare",
+    "peanut-curry",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-filipino-peanuts-kare-kare--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:17:56.826Z"
+}
