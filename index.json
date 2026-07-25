@@ -13677,18 +13677,14 @@
   },
   {
     "slug": "nutty-fluffy-egyptian-barramundi-tagine",
-    "title": "nutty fluffy egyptian barramundi tagine",
+    "title": "Barramundi Tagine",
     "tags": [
-      "dairy-free",
-      "egyptian-cuisine",
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "seafood",
+      "stew",
+      "north african"
     ],
-    "cuisine": "egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "north african",
+    "totalTimeMin": 30,
     "shard": "n"
   },
   {
