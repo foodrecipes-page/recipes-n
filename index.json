@@ -20341,5 +20341,18 @@
     "cuisine": "argentinian",
     "totalTimeMin": 45,
     "shard": "n"
+  },
+  {
+    "slug": "nurturing-indian-peppers-thali--keto",
+    "title": "Keto Indian Pepper Thali",
+    "tags": [
+      "keto",
+      "indian",
+      "low-carb",
+      "easy-to-make"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "n"
   }
 ]
