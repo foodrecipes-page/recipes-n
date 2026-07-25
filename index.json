@@ -131,17 +131,15 @@
   },
   {
     "slug": "naturally-aerated-malaysian-bottarga-satay",
-    "title": "Naturally Aerated Malaysian Bottarga Satay",
+    "title": "Malaysian Satay with Bottarga",
     "tags": [
-      "adventurous",
-      "gluten-free",
-      "low-carb",
-      "malaysian-cuisine",
-      "resinous",
-      "sugar-free"
+      "malaysian",
+      "italian",
+      "seafood",
+      "grill"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -20307,6 +20305,45 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-malaysian-pork-tenderloin-satay--chinese",
+    "title": "Grilled Pork Satay with Malaysian Peanut Sauce",
+    "tags": [
+      "chinese",
+      "grilled",
+      "peanut-sauce",
+      "satay",
+      "pork"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-portuguese-rice-fried-rice--vegan",
+    "title": "Portuguese Vegan Fried Rice",
+    "tags": [
+      "vegan",
+      "portuguese",
+      "fried-rice",
+      "nutty-rice"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crisp-argentinian-beef-empanadas--gluten-free",
+    "title": "Argentinian Beef Empanadas",
+    "tags": [
+      "beef",
+      "empanadas",
+      "argentinian"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 45,
     "shard": "n"
   }
 ]
