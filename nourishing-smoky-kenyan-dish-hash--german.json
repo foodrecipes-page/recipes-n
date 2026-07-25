@@ -1,0 +1,82 @@
+{
+  "slug": "nourishing-smoky-kenyan-dish-hash--german",
+  "title": "Smoky German Sausage Hash",
+  "description": "A hearty German-inspired dish featuring smoky sausage, onions, and bell peppers, all served atop a bed of crispy hash browns.",
+  "cuisine": "german",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoky Kenyan Sausage",
+      "amount": "1 pound",
+      "notes": "preferably German-style sausage or knockwurst"
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "2 cups",
+      "notes": "shredded potatoes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the hash browns into thin strips and place on a baking sheet.",
+    "Drizzle with butter and toss to coat.",
+    "Bake for 20-25 minutes, or until crispy and golden brown.",
+    "Meanwhile, cook the sausage in a large skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the sausage is browned, remove it from the skillet and set aside.",
+    "Add the chopped onion and bell pepper to the skillet and cook until tender.",
+    "Return the sausage to the skillet and stir to combine with the onion and bell pepper.",
+    "Season with salt and black pepper to taste.",
+    "Serve the sausage mixture over the crispy hash browns."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "sausage",
+    "hash",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-kenyan-dish-hash--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:16:59.227Z"
+}
