@@ -20366,5 +20366,32 @@
     "cuisine": null,
     "totalTimeMin": 40,
     "shard": "n"
+  },
+  {
+    "slug": "nostalgic-nutty-crunchy-quinoa-pilaf--mexican",
+    "title": "Mexican Quinoa Salad",
+    "tags": [
+      "mexican",
+      "quinoa",
+      "salad",
+      "vegetarian",
+      "vegan"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-syrian-fish-bowl--thai",
+    "title": "Thai Fish Bowl Noodle Soup",
+    "tags": [
+      "thai",
+      "fish",
+      "noodle",
+      "soup"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]
