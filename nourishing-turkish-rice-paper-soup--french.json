@@ -1,0 +1,64 @@
+{
+  "slug": "nourishing-turkish-rice-paper-soup--french",
+  "title": "French-Style Rice Pilaf",
+  "description": "A simple and flavorful side dish made with rice and a touch of Turkish spice. This recipe is perfect for accompanying your favorite French meals.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nourishing broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "turkish spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add the rice and Turkish spice blend. Stir to combine and coat the rice with the spice.",
+    "Pour in the nourishing broth and bring the mixture to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes or until the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "rice-pilaf",
+    "side-dish",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-turkish-rice-paper-soup--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:31:31.934Z"
+}
