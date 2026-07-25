@@ -1,0 +1,81 @@
+{
+  "slug": "nurturing-korean-pomegranate-jjigae--gluten-free",
+  "title": "Spicy Jjigae Stew",
+  "description": "A hearty and spicy Korean-inspired stew made with nurturing ingredients and pomegranate. This gluten-free recipe is perfect for a cold winter night.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pomegranate Molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Nurturing Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy Sauce (gluten-free)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pot over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the Korean chili flakes and cook for 1 minute, until fragrant.",
+    "Add the pomegranate molasses, soy sauce, and brown sugar. Stir to combine.",
+    "Add the nurturing chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to medium-low and simmer for 10 minutes.",
+    "Add the zucchini and bell peppers to the pot and simmer for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with green onions and toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "spicy",
+    "stew",
+    "gluten-free",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nurturing-korean-pomegranate-jjigae--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:08:04.845Z"
+}
