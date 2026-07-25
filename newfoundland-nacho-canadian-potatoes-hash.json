@@ -1,0 +1,82 @@
+{
+  "slug": "newfoundland-nacho-canadian-potatoes-hash",
+  "title": "Newfoundland-Style Nacho Hash",
+  "description": "A twist on traditional nachos, this Newfoundland-Style Nacho Hash combines the flavors of the Canadian East Coast with the spicy kick of nachos. Perfect for a cozy dinner or snack.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hash browns",
+      "amount": "1 medium-sized potato, peeled and grated",
+      "notes": "use leftover hash browns or cook from scratch"
+    },
+    {
+      "name": "nacho cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "canadian bacon",
+      "amount": "4 slices",
+      "notes": "or regular bacon, but Canadian bacon for a authentic touch"
+    },
+    {
+      "name": "newfoundland salt fish",
+      "amount": "1/2 cup, flaked",
+      "notes": "or substitute with salmon or cod"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium onion, diced",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the Canadian bacon slices in a large skillet over medium heat until crispy.",
+    "Remove the cooked bacon and set aside.",
+    "Add the diced onions and minced garlic to the skillet and cook until the onions are translucent.",
+    "Add the grated potato hash and cook for about 5-7 minutes, stirring occasionally.",
+    "Add the flaked salt fish and cook for another 2-3 minutes.",
+    "Stir in the shredded nacho cheese until melted and well combined.",
+    "Return the cooked Canadian bacon to the skillet and stir to combine.",
+    "Season with cayenne pepper to taste.",
+    "Serve the Newfoundland-Style Nacho Hash hot and enjoy!",
+    "Optional: garnish with chopped fresh chives or scallions for added flavor and color."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "newfoundland",
+    "hashbrowns",
+    "nachos",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/newfoundland-nacho-canadian-potatoes-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:50:02.832Z"
+}
