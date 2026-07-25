@@ -1,0 +1,73 @@
+{
+  "slug": "nutritious-garlicky-filipino-yukon-gold-potatoes-gratin--chinese",
+  "title": "Filipino-Style Potato Gratin with Garlic",
+  "description": "A twist on the classic gratin, this dish combines the flavors of the Philippines with the comfort of a warm, cheesy potato casserole. Serve as a side dish or main course.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yukon Gold Potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Nutritious Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Filipino-Style Gravy Mix",
+      "amount": "1 envelope",
+      "notes": ""
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and thinly slice the Yukon Gold potatoes.",
+    "In a large bowl, combine the sliced potatoes, minced garlic, and olive oil. Toss until the potatoes are evenly coated.",
+    "In a greased 9x13-inch baking dish, create a layer of potatoes. Sprinkle with some of the Filipino-Style Gravy Mix and some grated cheese.",
+    "Repeat the layering process until all the ingredients are used, finishing with a layer of cheese on top.",
+    "Bake for 45-50 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "chinese",
+    "potatoes",
+    "gratin",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-garlicky-filipino-yukon-gold-potatoes-gratin--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:32:35.782Z"
+}
