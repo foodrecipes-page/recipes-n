@@ -1,0 +1,91 @@
+{
+  "slug": "naturally-aerated-malaysian-bottarga-satay",
+  "title": "Malaysian Satay with Bottarga",
+  "description": "A unique fusion of Malaysian and Italian flavors, featuring grilled chicken satay with a rich bottarga sauce.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into satay sticks"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "bottarga",
+      "amount": "60g",
+      "notes": "Italian cured tuna roe"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "peanut oil",
+      "amount": "for grilling"
+    },
+    {
+      "name": "kecap manis",
+      "amount": "2 tbsp",
+      "notes": "sweet soy sauce"
+    },
+    {
+      "name": "limes",
+      "amount": "2",
+      "notes": "juice only"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine chicken, coriander, cumin, paprika, and salt. Mix well.",
+    "2. Thread chicken onto skewers.",
+    "3. Grill skewers over medium heat, brushing with peanut oil, until cooked through.",
+    "4. Meanwhile, combine coconut milk, bottarga, and kecap manis in a blender.",
+    "5. Blend until smooth and creamy.",
+    "6. Serve grilled satay with bottarga sauce drizzled on top.",
+    "7. Garnish with lime wedges and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "italian",
+    "seafood",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/naturally-aerated-malaysian-bottarga-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:41:51.555Z"
+}
