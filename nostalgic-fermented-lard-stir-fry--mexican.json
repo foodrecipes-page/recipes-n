@@ -1,0 +1,89 @@
+{
+  "slug": "nostalgic-fermented-lard-stir-fry--mexican",
+  "title": "Carne con Chivo",
+  "description": "A traditional Mexican dish made with tender goat meat and a tangy slaw. Serve with warm tortillas and your favorite hot sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "goat meat",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 medium",
+      "notes": "shredded"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for slaw"
+    },
+    {
+      "name": "lard",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the lard in a large skillet over medium-high heat.",
+    "Brown the goat meat on all sides, about 5 minutes.",
+    "Remove the goat meat from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 3 minutes.",
+    "Add the shredded cabbage to the skillet and cook until slightly browned, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Return the goat meat to the skillet and add the dried oregano, salt, and black pepper.",
+    "Cook for an additional 5 minutes, or until the goat meat is tender.",
+    "Serve the goat meat with the slaw on top and warm tortillas on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "goat-meat",
+    "slaw"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-fermented-lard-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:29:31.685Z"
+}
