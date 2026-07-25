@@ -1,0 +1,76 @@
+{
+  "slug": "nice-and-dense-filipino-beets-robata-style-lechon--gluten-free",
+  "title": "Robata-Style Lechon Belly Adobo",
+  "description": "A gluten-free twist on the classic Filipino dish, this Robata-style recipe uses a flavorful adobo sauce to marinate tender lechon belly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lechon belly",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Coconut vinegar",
+      "amount": "1 cup",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "In a blender or food processor, combine coconut vinegar, peanut oil, onion, garlic, and black pepper.",
+    "Blend until smooth and adjust seasoning to taste.",
+    "In a large bowl, whisk together the blended sauce, lechon belly, and a pinch of salt.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat your grill to medium-high heat.",
+    "Remove the lechon belly from the marinade, letting any excess liquid drip off.",
+    "Grill the lechon belly for 5-7 minutes per side, or until caramelized and cooked through.",
+    "Transfer the lechon belly to a cutting board and let rest for 5 minutes before slicing.",
+    "Serve with steamed rice and your favorite Filipino sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "filipino",
+    "grill",
+    "meat",
+    "adobo"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-and-dense-filipino-beets-robata-style-lechon--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:52:30.245Z"
+}
