@@ -20447,5 +20447,31 @@
     "cuisine": "chinese",
     "totalTimeMin": 60,
     "shard": "n"
+  },
+  {
+    "slug": "nostalgic-fermented-lard-stir-fry--mexican",
+    "title": "Carne con Chivo",
+    "tags": [
+      "mexican",
+      "goat-meat",
+      "slaw"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-turkish-rice-paper-soup--french",
+    "title": "French-Style Rice Pilaf",
+    "tags": [
+      "french",
+      "rice-pilaf",
+      "side-dish",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
+    "shard": "n"
   }
 ]
