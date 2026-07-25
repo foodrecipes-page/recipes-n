@@ -1,0 +1,72 @@
+{
+  "slug": "nostalgic-nutty-crunchy-quinoa-pilaf--mexican",
+  "title": "Mexican Quinoa Salad",
+  "description": "A delicious and nutritious salad made with quinoa, crunchy vegetables, and a hint of Mexican spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Crunchy Pilaf",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Diced Bell Peppers",
+      "amount": "1 cup",
+      "notes": "Any color"
+    },
+    {
+      "name": "Diced Onions",
+      "amount": "1/2 cup",
+      "notes": "Red or yellow"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Nostalgic",
+      "amount": "2 tablespoons",
+      "notes": "Your favorite nostalgic spice blend"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1/4 cup",
+      "notes": "Chopped nuts or seeds"
+    }
+  ],
+  "instructions": [
+    "1. Cook the quinoa according to package instructions.",
+    "2. In a large bowl, combine cooked quinoa, crunchy pilaf, diced bell peppers, and diced onions.",
+    "3. In a small bowl, whisk together nostalgic spice blend and lime juice.",
+    "4. Pour the dressing over the quinoa mixture and toss to combine.",
+    "5. Stir in chopped fresh cilantro, if using.",
+    "6. Sprinkle crunchy topping over the salad and serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "quinoa",
+    "salad",
+    "vegetarian",
+    "vegan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-nutty-crunchy-quinoa-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:30:46.431Z"
+}
