@@ -1,0 +1,80 @@
+{
+  "slug": "nutty-smoked-malaysian-chicken-skewers--italian",
+  "title": "Grilled Chicken Skewers Italian-Style",
+  "description": "Tender chicken skewers infused with smoky flavors and a touch of Italian flair, perfect for a summer evening.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": "adds smoky depth"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "malaysian chili flakes",
+      "amount": "1 tsp",
+      "notes": "adds a spicy kick"
+    },
+    {
+      "name": "nutty brown sugar",
+      "amount": "1 tsp",
+      "notes": "balances flavors"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together smoked paprika, garlic, malaysian chili flakes, and nutty brown sugar.",
+    "Brush olive oil onto the chicken and sprinkle the spice mixture evenly.",
+    "Season with salt to taste.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until chicken is cooked through.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "grilled",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-smoked-malaysian-chicken-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:28:17.239Z"
+}
