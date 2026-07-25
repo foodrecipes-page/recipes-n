@@ -1,0 +1,96 @@
+{
+  "slug": "nutty-malaysian-pork-tenderloin-satay--chinese",
+  "title": "Grilled Pork Satay with Malaysian Peanut Sauce",
+  "description": "A classic Chinese-inspired dish featuring marinated pork skewers grilled to perfection and served with a creamy Malaysian peanut sauce",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "Malaysian peanut sauce",
+      "amount": "250ml",
+      "notes": null
+    },
+    {
+      "name": "Satay",
+      "amount": "20 sticks",
+      "notes": null
+    },
+    {
+      "name": "Nutty peanut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "100ml",
+      "notes": "optional"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a blender or food processor, combine peanut sauce, coconut sugar, coconut milk, ginger, garlic, coriander, and salt.",
+    "3. Thread pork tenderloin onto satay sticks.",
+    "4. Brush pork with nutty peanut oil.",
+    "5. Grill pork for 5-7 minutes per side, or until cooked through.",
+    "6. Meanwhile, heat peanut sauce in a saucepan over low heat.",
+    "7. Serve grilled pork with peanut sauce for dipping.",
+    "8. Garnish with fresh cilantro or scallions, if desired.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "grilled",
+    "peanut-sauce",
+    "satay",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-malaysian-pork-tenderloin-satay--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:16:15.997Z"
+}
