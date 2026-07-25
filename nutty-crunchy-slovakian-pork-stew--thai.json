@@ -1,0 +1,81 @@
+{
+  "slug": "nutty-crunchy-slovakian-pork-stew--thai",
+  "title": "Thai Stew with Crispy Pork",
+  "description": "A flavorful and spicy Thai stew made with crispy pork and crunchy vegetables. Serve with steamed rice.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "Slovakian stew mix",
+      "amount": "1 packet",
+      "notes": "Follow package instructions"
+    },
+    {
+      "name": "Crunchy peanuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Nutty Thai basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For flavoring"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "For sweetness"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "For umami flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add pork and cook until browned.",
+    "Add stew mix, peanuts, basil, soy sauce, brown sugar, and fish sauce. Stir well.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stew",
+    "pork",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crunchy-slovakian-pork-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:22:55.591Z"
+}
