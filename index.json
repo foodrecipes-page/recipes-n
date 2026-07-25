@@ -20354,5 +20354,17 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-venezulan-rice-noodles-paella--vegan",
+    "title": "Venezulan Vegan Paella",
+    "tags": [
+      "vegan",
+      "spanish",
+      "rice"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "n"
   }
 ]
