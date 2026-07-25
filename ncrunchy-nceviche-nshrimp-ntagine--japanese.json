@@ -1,0 +1,60 @@
+{
+  "slug": "ncrunchy-nceviche-nshrimp-ntagine--japanese",
+  "title": "Japanese-Style Shrimp and Vegetable Tagine",
+  "description": "A light and flavorful dish inspired by Japanese cuisine, featuring succulent shrimp and crunchy vegetables cooked to perfection in a savory tagine.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ncrunchy",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "nceviche",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "nshrimp",
+      "amount": "1 pound, peeled and deveined"
+    },
+    {
+      "name": "ntagine",
+      "amount": "1",
+      "notes": "Japanese tagine or Dutch oven"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine to 375°F.",
+    "Season the shrimp with salt and pepper.",
+    "Heat some oil in the tagine over medium-high heat. Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Remove the shrimp from the tagine and set aside.",
+    "Add more oil to the tagine if needed, then sauté the sliced crunchy and ceviche until they start to soften.",
+    "Add a splash of soy sauce and sake to the tagine, and stir to combine.",
+    "Return the shrimp to the tagine and simmer for 2-3 minutes, until the sauce has thickened.",
+    "Serve the shrimp and vegetables hot, garnished with green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "seafood",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ncrunchy-nceviche-nshrimp-ntagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:44:47.057Z"
+}
