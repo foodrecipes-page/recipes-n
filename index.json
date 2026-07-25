@@ -20280,5 +20280,33 @@
     "cuisine": "japanese",
     "totalTimeMin": 27,
     "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-kenyan-dish-hash--german",
+    "title": "Smoky German Sausage Hash",
+    "tags": [
+      "german",
+      "breakfast",
+      "sausage",
+      "hash",
+      "smoky"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-filipino-peanuts-kare-kare--vegan",
+    "title": "Vegan Kare Kare",
+    "tags": [
+      "vegan",
+      "filipino",
+      "kare-kare",
+      "peanut-curry",
+      "plant-based"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]
