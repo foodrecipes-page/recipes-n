@@ -1,0 +1,78 @@
+{
+  "slug": "nutty-crisp-argentinian-beef-empanadas--gluten-free",
+  "title": "Argentinian Beef Empanadas",
+  "description": "A classic Argentinian dish, these beef empanadas are a delicious twist on traditional empanadas. Made with gluten-free ingredients, they're perfect for those with dietary restrictions.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Empanada Dough (Gluten-Free)",
+      "amount": "1 package",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "Argentinian Seasoning",
+      "amount": "1 tablespoon",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "Nutty Caramelized Onions",
+      "amount": "1/2 cup",
+      "notes": "Caramelize 1 large onion with 1 tablespoon olive oil until golden brown"
+    },
+    {
+      "name": "Crisp Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chop 1/4 cup fresh cilantro"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1/4 cup",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough to desired thickness.",
+    "Cut out circles of dough using a cookie cutter or a glass.",
+    "Place a tablespoon of the beef mixture in the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with egg wash.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crisp-argentinian-beef-empanadas--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:44:40.578Z"
+}
