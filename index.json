@@ -20255,5 +20255,30 @@
     "cuisine": "British",
     "totalTimeMin": 55,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-crunchy-slovakian-pork-stew--thai",
+    "title": "Thai Stew with Crispy Pork",
+    "tags": [
+      "thai",
+      "stew",
+      "pork",
+      "crispy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "ncrunchy-nceviche-nshrimp-ntagine--japanese",
+    "title": "Japanese-Style Shrimp and Vegetable Tagine",
+    "tags": [
+      "japanese",
+      "seafood",
+      "tagine"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "n"
   }
 ]
