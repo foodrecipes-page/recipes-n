@@ -1,0 +1,70 @@
+{
+  "slug": "nutty-crisp-philippine-cassava-stir-fry",
+  "title": "Crisp Cassava Fries",
+  "description": "A tasty and crunchy side dish made with cassava. Perfect for snacking or as a side to your favorite meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cassava",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel the cassava and cut it into fry shapes.",
+    "Soak the cassava in water for at least 30 minutes to remove excess starch.",
+    "Heat the vegetable oil in a deep frying pan to 350°F (180°C).",
+    "Carefully add the cassava fries to the hot oil in batches.",
+    "Fry the cassava fries for 3-4 minutes or until golden brown.",
+    "Remove the fries from the oil with a slotted spoon and place on a paper towel-lined plate.",
+    "Sprinkle the salt, pepper, and nutmeg over the fries.",
+    "Serve hot and enjoy!",
+    "Note: To make crispy cassava fries, it's essential to not overcrowd the pan and to fry them in batches."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fried",
+    "cassava",
+    "snack",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crisp-philippine-cassava-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:05:11.635Z"
+}
