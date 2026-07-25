@@ -20433,5 +20433,19 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "n"
+  },
+  {
+    "slug": "nutritious-garlicky-filipino-yukon-gold-potatoes-gratin--chinese",
+    "title": "Filipino-Style Potato Gratin with Garlic",
+    "tags": [
+      "filipino",
+      "chinese",
+      "potatoes",
+      "gratin",
+      "cheesy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 60,
+    "shard": "n"
   }
 ]
