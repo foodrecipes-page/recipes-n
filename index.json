@@ -1403,17 +1403,17 @@
   },
   {
     "slug": "newfoundland-nacho-canadian-potatoes-hash",
-    "title": "Newfoundland Nacho Canadian Potatoes Hash",
+    "title": "Newfoundland-Style Nacho Hash",
     "tags": [
-      "canadian-cuisine",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight",
-      "whole30"
+      "canadian",
+      "newfoundland",
+      "hashbrowns",
+      "nachos",
+      "breakfast",
+      "brunch"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "n"
   },
   {
@@ -12148,16 +12148,15 @@
   },
   {
     "slug": "nutty-crisp-philippine-cassava-stir-fry",
-    "title": "Nutty Crisp Philippine Cassava Stir-fry",
+    "title": "Crisp Cassava Fries",
     "tags": [
-      "nutty",
-      "crisp",
-      "one-pot",
-      "filipino",
-      "diabetic-friendly"
+      "fried",
+      "cassava",
+      "snack",
+      "filipino"
     ],
-    "cuisine": "Philippine",
-    "totalTimeMin": 55,
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -20472,6 +20471,73 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nurturing-korean-pomegranate-jjigae--gluten-free",
+    "title": "Spicy Jjigae Stew",
+    "tags": [
+      "korean",
+      "spicy",
+      "stew",
+      "gluten-free",
+      "dinner"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crisp-japanese-almond-dorayaki--gluten-free",
+    "title": "Crisp Almond Dorayaki Pancakes",
+    "tags": [
+      "gluten-free",
+      "breakfast",
+      "japanese",
+      "pancakes"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-venezuelan-chocolate-mousse--vegetarian",
+    "title": "Venezuelan Chocolate Mousse Parfait",
+    "tags": [
+      "chocolate",
+      "parfait",
+      "dessert",
+      "south-american"
+    ],
+    "cuisine": "South American",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-roasted-turkish-bulgur-kisir--thai",
+    "title": "Thai-Style Bulgur Kisir",
+    "tags": [
+      "thaifood",
+      "bulgur",
+      "kisir",
+      "snack",
+      "veggie"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nostalgic-molten-venezuelan-rice-vermicelli-noodles--gluten-free",
+    "title": "Venezuelan Noodle Soup",
+    "tags": [
+      "venezuelan",
+      "noodle-soup",
+      "gluten-free",
+      "comfort-food"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 40,
     "shard": "n"
   }
 ]
