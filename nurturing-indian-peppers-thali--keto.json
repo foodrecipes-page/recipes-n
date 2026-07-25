@@ -1,0 +1,89 @@
+{
+  "slug": "nurturing-indian-peppers-thali--keto",
+  "title": "Keto Indian Pepper Thali",
+  "description": "A keto twist on traditional Indian cuisine, featuring a thali-style meal with a variety of flavors and textures.",
+  "cuisine": "indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "nurturing oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral-tasting oil for high heat."
+    },
+    {
+      "name": "peppers",
+      "amount": "4",
+      "notes": "Any color, but red is recommended for sweetness."
+    },
+    {
+      "name": "thali spices",
+      "amount": "1 tsp",
+      "notes": "A blend of common Indian spices like cumin, coriander, and turmeric."
+    },
+    {
+      "name": "keto naan",
+      "amount": "4-6",
+      "notes": "Make your own using almond flour or coconut flour."
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "Sliced for a refreshing side dish."
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "Diced for a tangy side dish."
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "Thinly sliced for a sweet side dish."
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Cooked to a safe internal temperature of 165°F (74°C)."
+    },
+    {
+      "name": "keto yogurt",
+      "amount": "1 cup",
+      "notes": "Choose a plain, unflavored variety for a keto-friendly side dish."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Cook the chicken breast in the oven for 20-25 minutes, or until it reaches a safe internal temperature.",
+    "While the chicken cooks, heat the nurturing oil in a large skillet over medium-high heat.",
+    "Add the sliced onion to the skillet and cook for 5-7 minutes, or until it's caramelized and golden brown.",
+    "Add the diced tomato and sliced cucumber to the skillet and cook for an additional 2-3 minutes.",
+    "Stir in the thali spices and cook for 1 minute.",
+    "Slice the cooked chicken breast into thin strips and add it to the skillet.",
+    "Stir in the keto yogurt and cook for an additional 1-2 minutes.",
+    "Serve the thali-style meal with the keto naan on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "indian",
+    "low-carb",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 5,
+    "fat": 46
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nurturing-indian-peppers-thali--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:35:24.221Z"
+}
