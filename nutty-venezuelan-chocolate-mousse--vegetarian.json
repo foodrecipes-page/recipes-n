@@ -1,0 +1,72 @@
+{
+  "slug": "nutty-venezuelan-chocolate-mousse--vegetarian",
+  "title": "Venezuelan Chocolate Mousse Parfait",
+  "description": "A rich, chocolatey parfait made with Venezuelan chocolate, layered with a light and airy mousse and crunchy nutty elements.",
+  "cuisine": "South American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Venezuelan chocolate",
+      "amount": "200g"
+    },
+    {
+      "name": "Dark chocolate chips",
+      "amount": "100g",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "Mousse",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crushed nutty elements",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Melt the Venezuelan chocolate in a double boiler.",
+    "Whisk the heavy cream and granulated sugar until stiff peaks form.",
+    "Fold the whipped cream into the mousse until well combined.",
+    "Spoon a layer of mousse into a serving glass or parfait dish.",
+    "Melt the dark chocolate chips in a double boiler and drizzle over the mousse.",
+    "Repeat the layers two more times, finishing with a layer of mousse.",
+    "Sprinkle the crushed nutty elements over the top.",
+    "Refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "parfait",
+    "dessert",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-venezuelan-chocolate-mousse--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:25:52.848Z"
+}
