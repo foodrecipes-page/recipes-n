@@ -1,0 +1,61 @@
+{
+  "slug": "nutty-crispy-venezulan-rice-noodles-paella--vegan",
+  "title": "Venezulan Vegan Paella",
+  "description": "A vegan twist on the classic Spanish paella dish, using Venezulan rice and adding nutty flavors.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Venezulan rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tablespoons",
+      "notes": "chopped nuts"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "roasted crispy rice"
+    },
+    {
+      "name": "paella",
+      "amount": "1 teaspoon",
+      "notes": "paella seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat.",
+    "Add 2 tablespoons of oil and sauté the crispy rice until browned.",
+    "Add the Venezulan rice, nutty flavors, and paella seasoning. Stir well.",
+    "Cook for 5 minutes or until the rice is lightly toasted.",
+    "Add 2 cups of vegetable broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes or until the liquid is absorbed.",
+    "Fluff the paella with a fork and serve hot.",
+    "Garnish with additional nutty flavors if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "spanish",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-venezulan-rice-noodles-paella--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:08:47.212Z"
+}
