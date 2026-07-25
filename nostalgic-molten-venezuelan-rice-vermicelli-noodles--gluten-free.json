@@ -1,0 +1,75 @@
+{
+  "slug": "nostalgic-molten-venezuelan-rice-vermicelli-noodles--gluten-free",
+  "title": "Venezuelan Noodle Soup",
+  "description": "A hearty and comforting noodle soup inspired by Venezuelan cuisine, made with gluten-free noodles and a rich, nostalgic broth.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Venezuelan noodles",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "for broth"
+    },
+    {
+      "name": "Vermicelli",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Nostalgic spices",
+      "amount": "1 tsp",
+      "notes": "a mix of cinnamon, cumin, and oregano"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine water, rice, and Venezuelan noodles. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Add vermicelli, salt, black pepper, and nostalgic spices to the pot.",
+    "Simmer for an additional 5 minutes, or until the noodles and rice are cooked through.",
+    "Serve hot, garnished with additional nostalgic spices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "venezuelan",
+    "noodle-soup",
+    "gluten-free",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-molten-venezuelan-rice-vermicelli-noodles--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:41:03.364Z"
+}
