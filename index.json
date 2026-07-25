@@ -20393,5 +20393,45 @@
     "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "n"
+  },
+  {
+    "slug": "nasty-shattering-festive-sweet-red-pepper-pasta--japanese",
+    "title": "Spicy Red Pepper Pasta",
+    "tags": [
+      "japanese",
+      "pasta",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
+    "shard": "n"
+  },
+  {
+    "slug": "nice-and-dense-filipino-beets-robata-style-lechon--gluten-free",
+    "title": "Robata-Style Lechon Belly Adobo",
+    "tags": [
+      "gluten-free",
+      "filipino",
+      "grill",
+      "meat",
+      "adobo"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-smoked-malaysian-chicken-skewers--italian",
+    "title": "Grilled Chicken Skewers Italian-Style",
+    "tags": [
+      "italian",
+      "grilled",
+      "chicken",
+      "skewers"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "n"
   }
 ]
