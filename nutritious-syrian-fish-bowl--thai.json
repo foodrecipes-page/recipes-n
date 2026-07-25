@@ -1,0 +1,85 @@
+{
+  "slug": "nutritious-syrian-fish-bowl--thai",
+  "title": "Thai Fish Bowl Noodle Soup",
+  "description": "A healthy and flavorful Thai-inspired noodle soup made with fish and nutritious vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Vegetables (Bell Peppers, Carrots, Green Beans)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Syrup",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of water to a boil and cook the noodles according to the package instructions.",
+    "2. In a separate pan, heat the Thai red curry paste over medium heat.",
+    "3. Add the mixed vegetables and cook until they are tender.",
+    "4. Add the fish fillets and cook for 2-3 minutes on each side.",
+    "5. In a separate saucepan, combine the coconut milk, fish sauce, and syrup.",
+    "6. Bring the sauce to a simmer and cook for 2-3 minutes.",
+    "7. Add the cooked noodles to the saucepan and toss to combine.",
+    "8. Add the cooked vegetables and fish to the saucepan and toss to combine.",
+    "9. Serve the soup in bowls and garnish with lime wedges.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fish",
+    "noodle",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-syrian-fish-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:46:02.793Z"
+}
