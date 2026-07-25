@@ -1,0 +1,75 @@
+{
+  "slug": "nasty-shattering-festive-sweet-red-pepper-pasta--japanese",
+  "title": "Spicy Red Pepper Pasta",
+  "description": "A Japanese-inspired pasta dish with a spicy kick.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "red pepper",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "festive",
+      "amount": "1/4 cup",
+      "notes": "sesame seeds"
+    },
+    {
+      "name": "sweet",
+      "amount": "1",
+      "notes": "red bell pepper"
+    },
+    {
+      "name": "nasty",
+      "amount": "1 tsp",
+      "notes": "toasted sesame oil"
+    },
+    {
+      "name": "shattering",
+      "amount": "1 tsp",
+      "notes": "grated ginger"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "In a pan, toast the sesame seeds over low heat until fragrant.",
+    "Add the toasted sesame oil, grated ginger, and red peppers to the pan.",
+    "Cook for 2-3 minutes until the peppers are tender.",
+    "Add the cooked pasta to the pan and toss with the pepper mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "pasta",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nasty-shattering-festive-sweet-red-pepper-pasta--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:38:06.675Z"
+}
