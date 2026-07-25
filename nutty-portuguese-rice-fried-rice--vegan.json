@@ -1,0 +1,75 @@
+{
+  "slug": "nutty-portuguese-rice-fried-rice--vegan",
+  "title": "Portuguese Vegan Fried Rice",
+  "description": "A vegan twist on the classic Portuguese dish. Nutty flavors and textures come together in this satisfying meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "nutty rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fried rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nut oil",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with other vegan oil"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat nut oil in a large skillet or wok over medium-high heat.",
+    "Add chopped scallions and cook until softened, about 1 minute.",
+    "Add chopped cilantro and cook for an additional 30 seconds.",
+    "Add fried rice, nutty rice, and nutritional yeast to the skillet or wok.",
+    "Stir-fry until the rice is well combined and heated through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "portuguese",
+    "fried-rice",
+    "nutty-rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-portuguese-rice-fried-rice--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:27:07.159Z"
+}
