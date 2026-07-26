@@ -1,0 +1,73 @@
+{
+  "slug": "nourishing-cheesy-vietnamese-red-potatoes-ca-kho-to",
+  "title": "Vietnamese Cheesy Potato Gratin",
+  "description": "A rich and creamy potato gratin infused with the flavors of Vietnam, featuring a blend of cheeses and spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3-4",
+      "notes": ""
+    },
+    {
+      "name": "ca kho",
+      "amount": "1/4 cup",
+      "notes": "Vietnamese fish sauce"
+    },
+    {
+      "name": "nourishing",
+      "amount": "1/4 cup",
+      "notes": "nourishing broth"
+    },
+    {
+      "name": "cheesy",
+      "amount": "1 cup",
+      "notes": "shredded cheddar cheese"
+    },
+    {
+      "name": "red",
+      "amount": "1/2 cup",
+      "notes": "red bell pepper, diced"
+    },
+    {
+      "name": "to",
+      "amount": "1 tsp",
+      "notes": "toasted sesame oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thinly slice the potatoes and layer them in a baking dish.",
+    "In a separate bowl, mix together the ca kho, nourishing broth, and toasted sesame oil.",
+    "Pour the ca kho mixture over the potatoes, making sure they're all coated.",
+    "Transfer the baking dish to the oven and bake for 30 minutes.",
+    "After 30 minutes, sprinkle the shredded cheddar cheese over the top of the potatoes.",
+    "Return the dish to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "potato-gratin",
+    "cheesy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-cheesy-vietnamese-red-potatoes-ca-kho-to",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:27:15.752Z"
+}
