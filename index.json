@@ -20643,5 +20643,17 @@
     "cuisine": "italian",
     "totalTimeMin": 75,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-new-style-greek-pork-gyro--indian",
+    "title": "Greek Gyro Wrap",
+    "tags": [
+      "indian",
+      "greek",
+      "street-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]
