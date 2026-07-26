@@ -1,0 +1,75 @@
+{
+  "slug": "nutritious-korean-style-filipino-mung-bean-sprouts-pinakbet--keto",
+  "title": "Keto Pinakbet Stir Fry with Mung Bean Sprouts",
+  "description": "A keto twist on the classic Filipino dish, featuring nutritious mung bean sprouts and pinakbet.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mung Bean Sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Nutritious Pinakbet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Filipino Vinegar (suka)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium-high heat.",
+    "Add garlic and onion, sauté until softened.",
+    "Add mung bean sprouts and pinakbet, stir-fry for 2-3 minutes.",
+    "Add Korean chili flakes, vinegar, salt, and black pepper, stir-fry for another minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "filipino",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-korean-style-filipino-mung-bean-sprouts-pinakbet--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:01:54.331Z"
+}
