@@ -1,0 +1,66 @@
+{
+  "slug": "nutritious-nacho-dark-korean-sugar-jjimjilbang-jjigae",
+  "title": "Spicy Korean Jjigae",
+  "description": "A spicy and savory Korean-style stew made with a variety of ingredients. This dish is perfect for a dinner that's both flavorful and filling.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nacho",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "dark",
+      "amount": "2 tablespoons, oil"
+    },
+    {
+      "name": "korean",
+      "amount": "2 teaspoons, gochujang"
+    },
+    {
+      "name": "jjimjilbang",
+      "amount": "1 teaspoon, Korean chili flakes"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "jjigae",
+      "amount": "2 cups, kimchi, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add gochujang and cook for 1 minute, stirring constantly.",
+    "Add chili flakes and cook for another minute.",
+    "Add kimchi and cook for 2-3 minutes, stirring frequently.",
+    "Add diced nacho and cook until it's tender.",
+    "Season with sugar to balance the flavors.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "spicy",
+    "stew",
+    "jjigae"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-nacho-dark-korean-sugar-jjimjilbang-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:44:53.284Z"
+}
