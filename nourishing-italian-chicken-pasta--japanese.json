@@ -1,0 +1,80 @@
+{
+  "slug": "nourishing-italian-chicken-pasta--japanese",
+  "title": "Chicken Teriyaki Pasta Bake",
+  "description": "A unique fusion of Italian pasta and Japanese teriyaki flavors, perfect for a weeknight dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "Japanese style soba or udon"
+    },
+    {
+      "name": "teriyaki sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated Parmesan",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for greasing the baking dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to the package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides and cooked through, about 5-6 minutes per side.",
+    "Transfer the chicken to a plate and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "Pour in the teriyaki sauce and bring to a simmer.",
+    "Add the cooked pasta to the skillet and toss with the teriyaki sauce until well coated.",
+    "Transfer the pasta mixture to a greased 9x13-inch baking dish.",
+    "Top with chopped green onions and grated Parmesan cheese (if using).",
+    "Place the chicken breast on top of the pasta mixture.",
+    "Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pasta",
+    "japanese",
+    "teriyaki",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-italian-chicken-pasta--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:36:01.779Z"
+}
