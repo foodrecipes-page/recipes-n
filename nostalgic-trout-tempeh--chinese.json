@@ -1,0 +1,71 @@
+{
+  "slug": "nostalgic-trout-tempeh--chinese",
+  "title": "Crispy Nostalgic Fish Tofu Sticks",
+  "description": "A modern twist on a classic Chinese dish, combining the crunch of nostalgic fish sticks with the nutty taste of tempeh, all wrapped up in a light and crispy trout-based coating.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nugget-shaped tempeh",
+      "amount": "1 package"
+    },
+    {
+      "name": "trout fillets",
+      "amount": "1 pound",
+      "notes": "preferably fresh and sustainable"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together the flour and cornstarch.",
+    "2. In a separate dish, beat the egg.",
+    "3. Cut the trout fillets into small pieces.",
+    "4. Dip each piece of tempeh into the egg and then coat with the flour mixture.",
+    "5. Heat about 1/2-inch of vegetable oil in a large skillet over medium-high heat.",
+    "6. When the oil is hot, add a few pieces of the coated tempeh to the skillet.",
+    "7. Fry until golden brown and crispy on both sides, about 3-4 minutes.",
+    "8. Remove the fried tempeh from the skillet and place on a paper towel-lined plate to drain excess oil.",
+    "9. Repeat the frying process with the remaining tempeh pieces.",
+    "10. Serve the crispy tempeh sticks hot, garnished with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "snack",
+    "tempeh",
+    "trout",
+    "frying"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-trout-tempeh--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:09:44.940Z"
+}
