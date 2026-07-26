@@ -1,0 +1,84 @@
+{
+  "slug": "nose-tingling-roast-kenyan-mushrooms-roast--chinese",
+  "title": "Kenyan Roast Mushroom Stir Fry",
+  "description": "A simple and flavorful Chinese-inspired stir fry made with roasted mushrooms, Kenyan spices, and roasted chicken.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1 tsp ground",
+      "notes": "Kenyan curry powder or substitute with curry powder"
+    },
+    {
+      "name": "roast",
+      "amount": "1 cup diced cooked chicken",
+      "notes": "leftover or store-bought roast chicken"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced",
+      "notes": "optional"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece grated",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 3-4 minutes.",
+    "Add the minced garlic and grated ginger (if using) and cook for another minute.",
+    "Add the diced cooked chicken and stir to combine with the mushrooms and any juices.",
+    "Add the Kenyan spice, soy sauce, salt, and pepper, and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the chicken is coated in the sauce and the flavors have melded together.",
+    "Serve hot over rice or noodles.",
+    "Garnish with green onions or sesame seeds (optional).",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "mushroom",
+    "kenyan",
+    "stir-fry",
+    "easy",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nose-tingling-roast-kenyan-mushrooms-roast--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:59:53.227Z"
+}
