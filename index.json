@@ -20845,5 +20845,18 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "n"
+  },
+  {
+    "slug": "nourishing-canadian-tart-pudding--german",
+    "title": "German Apple Pudding",
+    "tags": [
+      "german",
+      "dessert",
+      "pudding",
+      "apple"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "n"
   }
 ]
