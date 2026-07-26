@@ -20156,16 +20156,14 @@
   },
   {
     "slug": "nicely-browned-slovakian-pork-roast--indian",
-    "title": "Slovakian Pork Roast",
+    "title": "Slovakian Style Pork Roast with Indian Flair",
     "tags": [
       "indian",
-      "slovakian",
       "pork",
-      "roast",
-      "dinner"
+      "roast"
     ],
     "cuisine": "indian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 70,
     "shard": "n"
   },
   {
@@ -20667,6 +20665,57 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-malty-venezuelan-collards-hash--japanese",
+    "title": "Japanese Collard Hash",
+    "tags": [
+      "breakfast",
+      "japanese",
+      "hash",
+      "collard-greens"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-warm-algerian-lamb-tagine--german",
+    "title": "Algerian Lamb Tagine",
+    "tags": [
+      "lamb",
+      "algerian",
+      "german",
+      "tagine",
+      "cumin"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 140,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-australian-almonds-crumble--french",
+    "title": "French Almond Crumble",
+    "tags": [
+      "french",
+      "almonds",
+      "crumble"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-ethiopian-mozzarella-jjigae--mexican",
+    "title": "Crispy Ethiopian Mozzarella Quesadillas",
+    "tags": [
+      "mexican",
+      "ethiopian",
+      "quesadilla"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 13,
     "shard": "n"
   }
 ]
