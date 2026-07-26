@@ -1,82 +1,87 @@
 {
   "slug": "nicely-browned-slovakian-pork-roast--indian",
-  "title": "Slovakian Pork Roast",
-  "description": "A classic pork roast dish with Slovakian flavors and Indian spices.",
+  "title": "Slovakian Style Pork Roast with Indian Flair",
+  "description": "A fusion of Slovakian and Indian flavors, this pork roast recipe is marinated in a blend of spices and roasted to perfection.",
   "cuisine": "indian",
-  "diet": null,
+  "diet": [
+    "pork"
+  ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "pork roast",
-      "amount": "1.5 pounds"
+      "amount": "1.5 kg",
+      "notes": "bone-in"
     },
     {
-      "name": "onion",
-      "amount": "1 medium"
+      "name": "Slovakian bread",
+      "amount": "1/2 cup, dried and crumbled",
+      "notes": ""
     },
     {
-      "name": "garlic",
-      "amount": "3 cloves"
-    },
-    {
-      "name": "ginger",
-      "amount": "2 inches"
-    },
-    {
-      "name": "tomato sauce",
-      "amount": "1 cup"
-    },
-    {
-      "name": "slovakian paprika",
-      "amount": "2 teaspoons"
+      "name": "garam masala",
+      "amount": "2 tsp",
+      "notes": ""
     },
     {
       "name": "ground cumin",
-      "amount": "1 teaspoon"
+      "amount": "1 tsp",
+      "notes": ""
     },
     {
-      "name": "ground coriander",
-      "amount": "1 teaspoon"
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": ""
     },
     {
-      "name": "salt",
-      "amount": "1 teaspoon"
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "2 tsp",
+      "notes": ""
     },
     {
       "name": "black pepper",
-      "amount": "1/2 teaspoon"
+      "amount": "2 tsp",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C).",
-    "Season the pork roast with salt and black pepper.",
-    "Heat oil in a large Dutch oven over medium-high heat. Brown the pork roast on all sides, then set aside.",
-    "Reduce heat to medium and cook the onion until softened, about 5 minutes.",
-    "Add the garlic and ginger and cook for 1 minute.",
-    "Add the tomato sauce, paprika, cumin, coriander, and browned pork roast. Stir to combine.",
-    "Transfer the Dutch oven to the preheated oven and roast for 25 minutes per pound, or until the internal temperature reaches 145°F (63°C).",
-    "Let the roast rest for 10 minutes before slicing and serving."
+    "Preheat the oven to 220°C (425°F).",
+    "In a small bowl, mix together garam masala, cumin, turmeric, coriander powder, cayenne pepper, salt, and black pepper.",
+    "Rub the spice mix all over the pork roast, making sure to coat it evenly.",
+    "Heat a large skillet over medium-high heat and sear the pork roast until nicely browned on all sides, about 5 minutes.",
+    "Transfer the pork roast to a roasting pan and roast in the preheated oven for 20 minutes.",
+    "Reduce the oven temperature to 180°C (350°F) and continue roasting for another 30-40 minutes, or until the internal temperature reaches 63°C (145°F).",
+    "Remove the pork roast from the oven and let it rest for 10 minutes before slicing and serving.",
+    "Serve with a side of your choice, such as naan bread or a simple salad."
   ],
-  "prepTimeMin": 30,
-  "cookTimeMin": 120,
-  "totalTimeMin": 150,
+  "prepTimeMin": 15,
+  "cookTimeMin": 55,
+  "totalTimeMin": 70,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "indian",
-    "slovakian",
     "pork",
-    "roast",
-    "dinner"
+    "roast"
   ],
   "nutrition": {
-    "calories": 540,
-    "protein": 57,
-    "carbs": 10,
-    "fat": 35
+    "calories": 740,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 55
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/nicely-browned-slovakian-pork-roast--indian",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T04:40:31.353Z"
+  "createdAt": "2026-07-21T12:39:35.316Z"
 }
