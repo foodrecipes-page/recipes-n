@@ -20794,5 +20794,33 @@
     "cuisine": "japanese",
     "totalTimeMin": 21,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-tender-kenyan-rainbow-trout-stew--mexican",
+    "title": "Kenyan Trout Tacos",
+    "tags": [
+      "mexican",
+      "kenyan",
+      "trout",
+      "peppers",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "n"
+  },
+  {
+    "slug": "nostalgic-trout-tempeh--chinese",
+    "title": "Crispy Nostalgic Fish Tofu Sticks",
+    "tags": [
+      "chinese",
+      "snack",
+      "tempeh",
+      "trout",
+      "frying"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "n"
   }
 ]
