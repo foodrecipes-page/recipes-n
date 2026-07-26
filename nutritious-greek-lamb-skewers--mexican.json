@@ -1,0 +1,93 @@
+{
+  "slug": "nutritious-greek-lamb-skewers--mexican",
+  "title": "Mexican Lamb Skewers",
+  "description": "A flavorful and healthy Mexican-inspired dish featuring lamb skewers with a nutritious twist.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "nutritious yogurt",
+      "amount": "200g",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "greek olive oil",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "10g",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "10g",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "10g",
+      "notes": "ground"
+    },
+    {
+      "name": "lime juice",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "5g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together yogurt, cumin, coriander, chili powder, salt, and pepper.",
+    "Add lamb cubes to the marinade and mix to coat.",
+    "Thread lamb onto skewers, leaving a small space between each cube.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes per side, or until lamb reaches an internal temperature of 63°C.",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve hot with a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "mexican",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-greek-lamb-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:24:21.639Z"
+}
