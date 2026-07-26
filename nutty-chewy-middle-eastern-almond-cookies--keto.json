@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-chewy-middle-eastern-almond-cookies--keto",
+  "title": "Keto Middle Eastern Shortbread Cookies",
+  "description": "A crispy and nutty keto dessert inspired by the flavors of the Middle East. These shortbread cookies are made with almond flour and are perfect for a low-carb diet.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup (1 stick)",
+      "notes": "softened"
+    },
+    {
+      "name": "sugar-free vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chopped nuts (almonds or any other nuts you like)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C) and line a baking sheet with parchment paper.",
+    "In a large bowl, cream the butter and vanilla extract until light and fluffy.",
+    "Gradually add the almond flour, salt, and sugar-free sweetener to the butter mixture and mix until a dough forms.",
+    "Stir in the chopped nuts.",
+    "Scoop the dough into balls, about 1 tablespoon each.",
+    "Place the balls onto the prepared baking sheet, leaving about 2 inches of space between each cookie.",
+    "Bake for 18-20 minutes or until the edges are lightly golden brown.",
+    "Remove the cookies from the oven and let them cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely.",
+    "Once the cookies are cool, serve and enjoy!",
+    "Note: If you want a crisper cookie, bake for an additional 2-3 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "middle eastern",
+    "shortbread",
+    "cookies"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": "2g",
+    "carbs": "5g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-chewy-middle-eastern-almond-cookies--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:25:29.400Z"
+}
