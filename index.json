@@ -20717,5 +20717,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 13,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-crumbly-white-chocolate-stir-fry--japanese",
+    "title": "Matcha Green Tea Mochi",
+    "tags": [
+      "mochi",
+      "green tea",
+      "white chocolate",
+      "japanese dessert"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "n"
   }
 ]
