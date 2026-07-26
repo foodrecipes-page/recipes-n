@@ -1,0 +1,87 @@
+{
+  "slug": "nourishing-juicy-norwegian-lamb-stew",
+  "title": "Lamb Stew with Norwegian Flair",
+  "description": "A hearty, nourishing stew made with lamb, inspired by the flavors of Norway. This dish is perfect for a cold winter's day.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 2-inch pieces",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian lamb broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Carrots, peeled and sliced",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes, peeled and cubed",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the onion and garlic until softened, about 5 minutes.",
+    "Add the carrots and potatoes, and cook for 5 minutes, stirring occasionally.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Gradually add the broth, whisking continuously. Bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Return the lamb to the pot, cover, and simmer for 1 1/2 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 105,
+  "totalTimeMin": 125,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "norwegian",
+    "hearty",
+    "wintery"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-juicy-norwegian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:18:48.143Z"
+}
