@@ -1,0 +1,92 @@
+{
+  "slug": "nourishing-warm-algerian-lamb-tagine--german",
+  "title": "Algerian Lamb Tagine",
+  "description": "A hearty and flavorful lamb stew inspired by Algerian cuisine, adapted with a German twist.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high.",
+    "Brown the lamb in batches until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce heat to medium and cook the onion until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the spice blend, cumin, coriander, salt, and pepper.",
+    "Stir to combine and cook for 1 minute.",
+    "Add the browned lamb back to the pot, along with any accumulated juices.",
+    "Add enough water to cover the lamb and bring to a simmer.",
+    "Reduce heat to low and cook, covered, until the lamb is tender, about 2 hours.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "algerian",
+    "german",
+    "tagine",
+    "cumin"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-warm-algerian-lamb-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:37:13.486Z"
+}
