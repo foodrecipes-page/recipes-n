@@ -1,0 +1,73 @@
+{
+  "slug": "nourishing-malty-venezuelan-collards-hash--japanese",
+  "title": "Japanese Collard Hash",
+  "description": "A hearty, savory Japanese-inspired dish made with collard greens and hash.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "collards",
+      "amount": "2 bunches",
+      "notes": "stemmed and chopped"
+    },
+    {
+      "name": "hash",
+      "amount": "1 cup",
+      "notes": "cooled, crumbled"
+    },
+    {
+      "name": "nourishing oil",
+      "amount": "2 tablespoons",
+      "notes": "such as sesame or rice bran"
+    },
+    {
+      "name": "malty soy sauce",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "venezuelan chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the nourishing oil in a large skillet over medium-high.",
+    "Add the chopped collards and cook until wilted, about 3-4 minutes.",
+    "Add the hash, malty soy sauce, and venezuelan chili flakes to the skillet.",
+    "Stir-fry for an additional 2-3 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Transfer the hash to a serving dish and sprinkle with sesame seeds, if using.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "hash",
+    "collard-greens"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-malty-venezuelan-collards-hash--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:32:40.952Z"
+}
