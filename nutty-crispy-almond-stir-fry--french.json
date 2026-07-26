@@ -1,0 +1,69 @@
+{
+  "slug": "nutty-crispy-almond-stir-fry--french",
+  "title": "French Almond Crisps",
+  "description": "A crispy French dessert made with almonds, perfect for snacking. These sweet treats are easy to make and require minimal ingredients.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crispy",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Nutty",
+      "amount": "1"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a medium bowl, whisk together the sugar and egg until well combined.",
+    "3. Add the milk and butter to the bowl and whisk until smooth.",
+    "4. Stir in the almonds and crispy until well coated.",
+    "5. Spread the mixture onto a baking sheet lined with parchment paper.",
+    "6. Bake for 20-25 minutes or until golden brown.",
+    "7. Remove from the oven and let cool completely.",
+    "8. Break into pieces and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "dessert",
+    "almonds",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-almond-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:37:53.389Z"
+}
