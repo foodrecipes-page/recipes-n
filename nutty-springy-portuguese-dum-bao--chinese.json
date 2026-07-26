@@ -1,0 +1,91 @@
+{
+  "slug": "nutty-springy-portuguese-dum-bao--chinese",
+  "title": "Pan-Fried Bao Dumplings",
+  "description": "A classic Chinese dish made by pan-frying bao dumplings filled with a savory mixture of pork and vegetables.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bao wrappers",
+      "amount": "12",
+      "notes": null
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Spring onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Dum",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine ground pork, spring onions, ginger, garlic, soy sauce, salt, and black pepper. Mix well until just combined.",
+    "2. Lay a bao wrapper on a clean surface and place about 1 tablespoon of the pork mixture in the center of the wrapper.",
+    "3. Brush the edges of the wrapper with a little water.",
+    "4. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point. Press the edges together to seal the dumpling.",
+    "5. Heat a large skillet or wok over medium-high heat.",
+    "6. Add 1 tablespoon of vegetable oil to the skillet and swirl it around to coat the bottom.",
+    "7. When the oil is hot, add the dumplings to the skillet, being careful not to overcrowd it.",
+    "8. Cook the dumplings for 2-3 minutes on each side, until they are golden brown and crispy.",
+    "9. Serve the pan-fried bao dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "bao",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-springy-portuguese-dum-bao--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:57:59.697Z"
+}
