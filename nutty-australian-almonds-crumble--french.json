@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-australian-almonds-crumble--french",
+  "title": "French Almond Crumble",
+  "description": "A delicious French dessert featuring a crunchy almond crumble topping and a sweet, nutty bottom. Enjoy as a dessert or snack.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 cup"
+    },
+    {
+      "name": "australian",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix together almonds, nutty, and sugar in a bowl.",
+    "Add in crumble and mix until well combined.",
+    "Press mixture into a 9x9 inch baking dish.",
+    "Bake for 20-25 minutes or until lightly browned.",
+    "While the base is baking, mix together butter and crumble in another bowl.",
+    "Once the base is ready, spread the crumble mixture evenly on top.",
+    "Return to oven and bake for an additional 15-20 minutes or until golden brown.",
+    "Remove from oven and let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "almonds",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-australian-almonds-crumble--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:46:44.295Z"
+}
