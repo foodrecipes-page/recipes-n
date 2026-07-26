@@ -10401,14 +10401,12 @@
   },
   {
     "slug": "nutritious-nacho-dark-korean-sugar-jjimjilbang-jjigae",
-    "title": "Nutritious Nacho Dark Korean Sugar Jjimjilbang Jjigae",
+    "title": "Spicy Korean Jjigae",
     "tags": [
       "korean",
-      "one-pan",
       "spicy",
-      "sugar-free",
-      "veggie-friendly",
-      "weeknight"
+      "stew",
+      "jjigae"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
@@ -20590,6 +20588,33 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-uruguayan-steak-empanadas--indian",
+    "title": "Uruguayan Steak Empanadas with Indian Twist",
+    "tags": [
+      "indian",
+      "uruguayan",
+      "steak",
+      "empanadas"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-greek-lamb-skewers--chinese",
+    "title": "Lamb Skewers with Nutritious Glaze",
+    "tags": [
+      "chinese",
+      "lamb",
+      "skewers",
+      "glaze",
+      "grill"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "n"
   }
 ]
