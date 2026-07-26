@@ -1,0 +1,55 @@
+{
+  "slug": "nutty-crispy-ethiopian-mozzarella-jjigae--mexican",
+  "title": "Crispy Ethiopian Mozzarella Quesadillas",
+  "description": "A unique fusion of Mexican and Ethiopian flavors, these crispy quesadillas are filled with creamy mozzarella and crunchy mozzarella.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ethiopian Jjigae Crispy Flatbread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Mozzarella",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Nutty Ethiopian Spice Blend",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the crispy flatbread into triangles.",
+    "In a pan, sprinkle the shredded mozzarella with the nutty Ethiopian spice blend.",
+    "Place a flatbread triangle on top of the mozzarella mixture.",
+    "Fold the flatbread in half to enclose the filling.",
+    "Cook for 2-3 minutes on each side, until the cheese is melted and the flatbread is crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "ethiopian",
+    "quesadilla"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-ethiopian-mozzarella-jjigae--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:50:53.482Z"
+}
