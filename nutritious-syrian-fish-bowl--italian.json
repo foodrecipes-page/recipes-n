@@ -1,0 +1,90 @@
+{
+  "slug": "nutritious-syrian-fish-bowl--italian",
+  "title": "Italian Baked Fish Bowl",
+  "description": "A healthy and flavorful Italian dish that combines the freshness of fish with the simplicity of a bowl.",
+  "cuisine": "italian",
+  "diet": [
+    "healthy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bass Fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Roasted Vegetables",
+      "amount": "1 cup",
+      "notes": "such as zucchini, bell peppers, and cherry tomatoes"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the bass fillets on the prepared baking sheet.",
+    "Drizzle with olive oil, lemon juice, and sprinkle with garlic, Italian seasoning, and salt.",
+    "Bake for 12-15 minutes or until the fish is cooked through.",
+    "While the fish is baking, cook the quinoa according to package instructions.",
+    "Toss the roasted vegetables with a drizzle of olive oil, salt, and pepper.",
+    "To assemble the bowls, place a cooked bass fillet on top of a bed of quinoa.",
+    "Add the roasted vegetables and sprinkle with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "healthy",
+    "bowl",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-syrian-fish-bowl--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:29:27.838Z"
+}
