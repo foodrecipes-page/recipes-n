@@ -10225,18 +10225,16 @@
   },
   {
     "slug": "nutritious-kenyan-lentils-skewers",
-    "title": "Nutritious Kenyan Lentils Skewers",
+    "title": "Kenyan Lentil Skewers",
     "tags": [
-      "high-protein",
-      "kenyan",
       "lentils",
-      "one-pan",
-      "shojin",
+      "kenyan",
+      "grilled",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "n"
   },
   {
@@ -20728,6 +20726,21 @@
       "japanese dessert"
     ],
     "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nose-tingling-roast-kenyan-mushrooms-roast--chinese",
+    "title": "Kenyan Roast Mushroom Stir Fry",
+    "tags": [
+      "chinese",
+      "mushroom",
+      "kenyan",
+      "stir-fry",
+      "easy",
+      "weeknight-dinner"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "n"
   }
