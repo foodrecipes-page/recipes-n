@@ -1,0 +1,93 @@
+{
+  "slug": "nutritious-kenyan-lentils-skewers",
+  "title": "Kenyan Lentil Skewers",
+  "description": "A flavorful and nutritious Kenyan-inspired dish made with marinated lentils and vegetables, served on skewers.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan spice blend",
+      "amount": "1 teaspoon",
+      "notes": "Available at most African markets"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together vegetable oil, onion, garlic, carrots, bell peppers, zucchini, salt, black pepper, and Kenyan spice blend.",
+    "Add the red lentils to the bowl and mix until they are evenly coated with the marinade.",
+    "Thread the marinated lentils and vegetables onto skewers.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the lentils are tender and the vegetables are lightly charred.",
+    "Serve hot with your favorite sides or salads."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "kenyan",
+    "grilled",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-kenyan-lentils-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:34:57.419Z"
+}
