@@ -1,0 +1,96 @@
+{
+  "slug": "nutritious-greek-lamb-skewers--chinese",
+  "title": "Lamb Skewers with Nutritious Glaze",
+  "description": "A Chinese-inspired dish featuring lamb skewers glazed with a nutritious mixture of greek yogurt and spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cut into 1-inch pieces",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "GREEK yogurt",
+      "amount": "1/2 cup",
+      "notes": "for glaze"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together yogurt, olive oil, garlic, ginger, soy sauce, rice vinegar, and honey.",
+    "Add lamb pieces to the bowl and toss to coat with the glaze.",
+    "Thread lamb onto skewers, leaving a small space between each piece.",
+    "Season with salt and black pepper to taste.",
+    "Grill lamb skewers for 8-10 minutes per side, or until cooked to desired level of doneness.",
+    "Let lamb rest for 5 minutes before serving.",
+    "Serve hot, garnished with sesame seeds and chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "lamb",
+    "skewers",
+    "glaze",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-greek-lamb-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:25:37.806Z"
+}
