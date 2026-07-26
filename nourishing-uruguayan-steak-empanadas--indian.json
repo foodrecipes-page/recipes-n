@@ -1,0 +1,100 @@
+{
+  "slug": "nourishing-uruguayan-steak-empanadas--indian",
+  "title": "Uruguayan Steak Empanadas with Indian Twist",
+  "description": "A fusion of Uruguayan and Indian cuisines, these empanadas feature tender steak cooked to perfection and wrapped in a flaky pastry.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "500g",
+      "notes": "flank steak or skirt steak work well"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for pastry dough"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": "indian clarified butter"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of ghee over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the grated ginger and cook for an additional 1 minute.",
+    "Add the steak and cook to desired level of doneness, about 5-7 minutes.",
+    "Transfer the steak to a plate and let it rest.",
+    "In a large bowl, combine the flour, garam masala, cumin, salt, and pepper.",
+    "Add the beaten egg and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and roll out each piece into a thin circle.",
+    "Place a portion of the steak in the center of each circle and fold the dough over to form a half-moon shape.",
+    "Seal the edges with a fork and brush with the remaining ghee.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "uruguayan",
+    "steak",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-uruguayan-steak-empanadas--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:24:11.344Z"
+}
