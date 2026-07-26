@@ -20819,5 +20819,31 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-almond-stir-fry--french",
+    "title": "French Almond Crisps",
+    "tags": [
+      "french",
+      "dessert",
+      "almonds",
+      "crispy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-syrian-fish-bowl--italian",
+    "title": "Italian Baked Fish Bowl",
+    "tags": [
+      "italian",
+      "healthy",
+      "bowl",
+      "fish"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "n"
   }
 ]
