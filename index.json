@@ -4622,14 +4622,12 @@
   },
   {
     "slug": "nourishing-cheesy-vietnamese-red-potatoes-ca-kho-to",
-    "title": "Nourishing Cheesy Vietnamese Red Potatoes Ca Kho To",
+    "title": "Vietnamese Cheesy Potato Gratin",
     "tags": [
+      "vietnamese",
+      "potato-gratin",
       "cheesy",
-      "comfort-food",
-      "one-pot",
-      "vegetarian",
-      "vietnamese-cuisine",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 55,
@@ -6241,17 +6239,16 @@
   },
   {
     "slug": "nourishing-juicy-norwegian-lamb-stew",
-    "title": "Nourishing Juicy Norwegian Lamb Stew",
+    "title": "Lamb Stew with Norwegian Flair",
     "tags": [
-      "comfort-food",
-      "gluten-free-recipes",
-      "lamb-recipes",
-      "norwegian-cuisine",
-      "one-pot-meals",
-      "stew-recipes"
+      "lamb",
+      "stew",
+      "norwegian",
+      "hearty",
+      "wintery"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 125,
     "shard": "n"
   },
   {
