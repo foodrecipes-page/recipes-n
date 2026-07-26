@@ -1,0 +1,78 @@
+{
+  "slug": "nutty-new-style-greek-pork-gyro--indian",
+  "title": "Greek Gyro Wrap",
+  "description": "A delicious twist on traditional Indian street food, this Greek-inspired gyro wrap is flavored with spices and served with a side of tangy tzatziki sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "style flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "nutty oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "new potatoes",
+      "amount": "2",
+      "notes": "peeled, thinly sliced"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1 cup",
+      "notes": "for tzatziki sauce"
+    },
+    {
+      "name": "pork gyro",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush the style flour tortilla with nutty oil.",
+    "Bake the new potatoes in the oven for 15 minutes, or until tender.",
+    "In a bowl, mix together greek yogurt, minced garlic, and a pinch of salt.",
+    "In a large skillet, cook the pork gyro slices over medium-high heat until browned.",
+    "Warm the tortilla in the skillet for 1-2 minutes on each side.",
+    "Assemble the gyro wrap by spreading tzatziki sauce on the tortilla, followed by baked potatoes, pork gyro slices, and cucumber slices.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "greek",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-new-style-greek-pork-gyro--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:47:22.277Z"
+}
