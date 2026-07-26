@@ -20780,5 +20780,19 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-juicy-peruvian-date-stir-fry--japanese",
+    "title": "Stir Fry Peruvian Chicken with Dates",
+    "tags": [
+      "japanese",
+      "peruvian",
+      "chicken",
+      "dates",
+      "stir-fry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 21,
+    "shard": "n"
   }
 ]
