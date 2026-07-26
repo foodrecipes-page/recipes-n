@@ -1,0 +1,65 @@
+{
+  "slug": "nutty-crumbly-white-chocolate-stir-fry--japanese",
+  "title": "Matcha Green Tea Mochi",
+  "description": "A traditional Japanese dessert made with green tea-flavored mochi and white chocolate. Soft and chewy on the inside, crispy on the outside.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "white mochi",
+      "amount": "200g"
+    },
+    {
+      "name": "green tea matcha powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "150g"
+    },
+    {
+      "name": "stir-fry sauce (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fry oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine white mochi and green tea matcha powder.",
+    "2. Gradually add in white chocolate chips and stir until well combined.",
+    "3. If desired, add in stir-fry sauce and mix until a dough forms.",
+    "4. Wrap the dough in plastic wrap and refrigerate for at least 2 hours.",
+    "5. Divide the dough into 4-6 equal pieces and shape into balls.",
+    "6. Heat fry oil in a deep frying pan over medium heat.",
+    "7. Fry mochi balls until golden brown, about 2-3 minutes per side.",
+    "8. Remove mochi from oil and place on a paper towel-lined plate to drain excess oil.",
+    "9. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mochi",
+    "green tea",
+    "white chocolate",
+    "japanese dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crumbly-white-chocolate-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:17:32.407Z"
+}
