@@ -1,0 +1,81 @@
+{
+  "slug": "nourishing-bouncy-japanese-eggs-takoyaki--keto",
+  "title": "Keto Takoyaki Bites",
+  "description": "Crispy, savory, and a great low-carb twist on a Japanese classic. These takoyaki bites are made with a special batter of eggs, nourishing ingredients, and an unexpected crunch.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large eggs",
+      "notes": null
+    },
+    {
+      "name": "bouncy",
+      "amount": "1/2 cup (60g) almond flour",
+      "notes": null
+    },
+    {
+      "name": "japanese",
+      "amount": "1/4 cup (30g) coconut flour",
+      "notes": null
+    },
+    {
+      "name": "takoyaki",
+      "amount": "1/4 cup (30g)",
+      "notes": null
+    },
+    {
+      "name": "nourishing",
+      "amount": "1/4 cup (60g) grated cheddar cheese",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick takoyaki pan or a mini cast-iron skillet over medium-high heat.",
+    "In a large bowl, whisk together eggs, almond flour, coconut flour, and salt.",
+    "Add grated cheddar cheese and mix until well combined.",
+    "Add takoyaki batter to the prepared pan and fill each section about 2/3 full.",
+    "Cook for 2-3 minutes or until edges start to set.",
+    "Use a chopstick or skewer to gently lift and fold the edges of the batter towards the center, allowing uncooked batter to flow to the edges.",
+    "Continue cooking for another 2-3 minutes or until the bottom is golden brown and crispy.",
+    "Flip the takoyaki bites over and cook for another minute or until the other side is lightly browned.",
+    "Repeat with the remaining batter, adjusting the heat as needed to prevent burning.",
+    "Serve the takoyaki bites hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "keto",
+    "low-carb",
+    "snack",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-bouncy-japanese-eggs-takoyaki--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:51:58.855Z"
+}
