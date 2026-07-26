@@ -20655,5 +20655,18 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "n"
+  },
+  {
+    "slug": "nourishing-norwegian-butternut-squash-casserole--vegetarian",
+    "title": "Roasted Butternut Squash Casserole",
+    "tags": [
+      "butternut",
+      "squash",
+      "casserole",
+      "vegetarian"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 55,
+    "shard": "n"
   }
 ]
