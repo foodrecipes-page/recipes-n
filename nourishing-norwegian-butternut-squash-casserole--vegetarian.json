@@ -1,0 +1,77 @@
+{
+  "slug": "nourishing-norwegian-butternut-squash-casserole--vegetarian",
+  "title": "Roasted Butternut Squash Casserole",
+  "description": "A delicious and comforting casserole made with roasted butternut squash, perfect for a cold winter evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 medium, peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "norwegian gjetost cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the butternut squash with 1 tablespoon of oil and season with salt and nutmeg.",
+    "Spread the squash on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "In a large skillet, sauté the onion and garlic in 1 tablespoon of oil until softened.",
+    "Add the flour and cook for 1 minute.",
+    "Slowly add the milk, whisking continuously. Bring to a simmer.",
+    "Remove from heat and stir in the gjetost cheese until melted.",
+    "In a large casserole dish, combine the roasted squash, cheese sauce, and chopped onion.",
+    "Transfer to the oven and bake for 20-25 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "butternut",
+    "squash",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-norwegian-butternut-squash-casserole--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:58:16.935Z"
+}
