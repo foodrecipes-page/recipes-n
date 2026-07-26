@@ -1,0 +1,79 @@
+{
+  "slug": "nutty-juicy-peruvian-date-stir-fry--japanese",
+  "title": "Stir Fry Peruvian Chicken with Dates",
+  "description": "A Japanese-inspired dish with the bold flavors of Peruvian cuisine. This stir fry recipe combines juicy chicken with sweet dates and a nutty twist.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Peruvian chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "Also known as aji amarillo"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "For balance of flavors"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a medium bowl, whisk together soy sauce, brown sugar, and Peruvian chili flakes. Add the chicken and marinate for at least 15 minutes.",
+    "2. Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "3. Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "4. Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "5. Add the dates to the skillet and stir to combine with the chicken.",
+    "6. Cook for an additional 1-2 minutes, until the dates are slightly caramelized.",
+    "7. Season with salt to taste.",
+    "8. Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "peruvian",
+    "chicken",
+    "dates",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-juicy-peruvian-date-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:56:43.227Z"
+}
