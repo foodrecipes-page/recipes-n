@@ -1,0 +1,92 @@
+{
+  "slug": "nice-peruvian-potatoes-causa-limena--italian",
+  "title": "Italian-Style Potato Causa",
+  "description": "A creative twist on traditional causa, this Italian-inspired dish combines the flavors of Italy with the comfort of Peruvian potatoes.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nice potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "causa",
+      "amount": "1 package",
+      "notes": " Italian-style potato puree"
+    },
+    {
+      "name": "limena",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed lime juice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Scrub the potatoes clean and poke some holes in them with a fork.",
+    "Rub the potatoes with olive oil and season with salt and pepper.",
+    "Bake the potatoes for 45-60 minutes, or until they're tender when pierced with a fork.",
+    "While the potatoes are baking, heat some olive oil in a pan over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the chopped parsley and cook for another minute.",
+    "Remove the potatoes from the oven and let them cool for a few minutes.",
+    "Slice the potatoes in half lengthwise and scoop out some of the flesh to make room for the filling.",
+    "Mix the Italian-style potato puree with the lime juice, parmesan cheese, and a pinch of salt and pepper.",
+    "Spoon the filling into the potato shells and top with additional parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "potatoes",
+    "causa",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-peruvian-potatoes-causa-limena--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:36:52.233Z"
+}
