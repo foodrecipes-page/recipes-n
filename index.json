@@ -8958,12 +8958,11 @@
   },
   {
     "slug": "numbing-korean-peppers-stir-fry",
-    "title": "Korean Stir Fry",
+    "title": "Spicy Korean Stir Fry",
     "tags": [
       "korean",
-      "stirfry",
-      "peppers",
-      "vegetarian"
+      "stir-fry",
+      "spicy"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
@@ -20742,6 +20741,44 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-korean-style-filipino-mung-bean-sprouts-pinakbet--keto",
+    "title": "Keto Pinakbet Stir Fry with Mung Bean Sprouts",
+    "tags": [
+      "keto",
+      "filipino",
+      "stir-fry"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-chewy-middle-eastern-almond-cookies--keto",
+    "title": "Keto Middle Eastern Shortbread Cookies",
+    "tags": [
+      "keto",
+      "low-carb",
+      "middle eastern",
+      "shortbread",
+      "cookies"
+    ],
+    "cuisine": "middle eastern",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-savory-portuguese-leek-stew--italian",
+    "title": "Italian Leek Stew",
+    "tags": [
+      "italian",
+      "leek",
+      "stew"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "n"
   }
 ]
