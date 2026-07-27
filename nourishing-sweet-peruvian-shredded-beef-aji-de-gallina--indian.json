@@ -1,0 +1,84 @@
+{
+  "slug": "nourishing-sweet-peruvian-shredded-beef-aji-de-gallina--indian",
+  "title": "Beef Aji Gallina Curry",
+  "description": "A Peruvian-inspired Indian curry made with shredded beef, aji amarillo peppers, and creamy gallina sauce. This dish combines the bold flavors of Peruvian cuisine with the rich spices of Indian cooking.",
+  "cuisine": "indian",
+  "diet": [
+    " Omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "ají amarillo pepper",
+      "amount": "2"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "gallina sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion, garlic, and aji amarillo pepper, and cook until the onion is translucent.",
+    "Add curry powder and garam masala, and cook for 1 minute.",
+    "Add gallina sauce, coconut milk, and tomato, and stir to combine.",
+    "Bring the mixture to a simmer, and cook for 10-15 minutes, or until the beef is tender.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "indian",
+    "curry",
+    "beef",
+    "ají amarillo"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-sweet-peruvian-shredded-beef-aji-de-gallina--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:28:37.235Z"
+}
