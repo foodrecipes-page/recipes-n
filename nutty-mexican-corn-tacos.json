@@ -1,0 +1,79 @@
+{
+  "slug": "nutty-mexican-corn-tacos",
+  "title": "Spicy Mexican Street Corn Tacos",
+  "description": "A delicious and flavorful taco recipe filled with grilled corn, crispy taco meat, and a sprinkle of nutty queso fresco.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corn on the Cob",
+      "amount": "4 ears",
+      "notes": "Grilled"
+    },
+    {
+      "name": "Taco Meat",
+      "amount": "1 pound",
+      "notes": "Ground beef or ground turkey"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Queso Fresco",
+      "amount": "1 cup",
+      "notes": "Crumbed"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill corn on the cob for 10-12 minutes, turning every 2-3 minutes.",
+    "Cook taco meat in a large skillet over medium-high heat, breaking up with a spoon as it cooks.",
+    "Add cumin and chili powder to the taco meat and stir to combine.",
+    "Season taco meat with salt and pepper to taste.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning taco meat onto a tortilla, followed by a grilled corn slice and a sprinkle of queso fresco.",
+    "Drizzle lime juice over the top and sprinkle with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "grilled",
+    "corn"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-mexican-corn-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:37:56.361Z"
+}
