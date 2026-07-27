@@ -1,0 +1,87 @@
+{
+  "slug": "nourishing-kenyan-mincemeat-stew--vegan",
+  "title": "Kenyan Stew",
+  "description": "A hearty vegan stew inspired by traditional Kenyan cuisine, packed with nourishing ingredients. Perfect for a comforting meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "Canned diced Tomatoes",
+      "amount": "1 (14 oz) can",
+      "notes": ""
+    },
+    {
+      "name": "Stew Seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan Stew Spice Mix",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic, carrots, sweet potatoes, and red bell pepper. Cook for 5 minutes, stirring occasionally.",
+    "Add canned diced tomatoes, stew seasoning, and Kenyan stew spice mix. Cook for 1 minute.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes, or until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "kenyan",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-kenyan-mincemeat-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:38:03.975Z"
+}
