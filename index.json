@@ -20995,5 +20995,70 @@
     "cuisine": "Slovakian",
     "totalTimeMin": 20,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-north-african-moroccan-eggplant-tagine--thai",
+    "title": "Thai Eggplant Tagine",
+    "tags": [
+      "eggplant",
+      "thai",
+      "tagine"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-kenyan-mincemeat-stew--vegan",
+    "title": "Kenyan Stew",
+    "tags": [
+      "vegan",
+      "kenyan",
+      "stew"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 50,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-peruvian-cox-apple-causa-limena--mexican",
+    "title": "Mexican Causa with Grilled Chicken and Apple Salsa",
+    "tags": [
+      "mexican",
+      "grilled-chicken",
+      "apple-salsa",
+      "causa",
+      "peruvian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nice-peruvian-potatoes-causa-limena--thai",
+    "title": "Peruvian-Style Thai Causa",
+    "tags": [
+      "peruvian",
+      "thai",
+      "fusion",
+      "causa",
+      "potatoes"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-mexican-beef-barbacoa--gluten-free",
+    "title": "Beef Barbacoa Tacos",
+    "tags": [
+      "mexican",
+      "beef",
+      "barbacoa",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 165,
+    "shard": "n"
   }
 ]
