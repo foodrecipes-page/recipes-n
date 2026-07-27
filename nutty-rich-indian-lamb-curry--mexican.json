@@ -1,0 +1,98 @@
+{
+  "slug": "nutty-rich-indian-lamb-curry--mexican",
+  "title": "Tandoori Lamb Tacos",
+  "description": "A fusion of Indian and Mexican flavors, where tender lamb is marinated in a rich and aromatic tandoori spice blend and served in a crispy taco shell.",
+  "cuisine": "mexican",
+  "diet": [
+    "mild"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into small pieces"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "tandoori spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Indian grocery stores"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": "mild, adjust to taste"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky, sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together the yogurt, tandoori spice blend, curry powder, nutmeg, cumin, coriander, cayenne pepper (if using), salt, and black pepper.",
+    "Add the lamb to the marinade and mix until the meat is well coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the lamb from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "Heat a large oven-safe skillet over medium-high heat. Add a tablespoon of oil and swirl it around.",
+    "Remove the lamb from the marinade, letting any excess liquid drip off.",
+    "Sear the lamb in the skillet for 2-3 minutes per side, or until it is browned and caramelized.",
+    "Transfer the skillet to the preheated oven and roast the lamb for 15-20 minutes, or until it is cooked through and reaches an internal temperature of 145°F (63°C).",
+    "While the lamb is cooking, warm the taco shells according to the package instructions.",
+    "Once the lamb is cooked, remove it from the skillet and let it rest for 5 minutes.",
+    "Slice the lamb into thin strips and serve it in the warmed taco shells, garnished with cilantro and lime wedges, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tacos",
+    "indian",
+    "mexican",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-rich-indian-lamb-curry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:09:59.593Z"
+}
