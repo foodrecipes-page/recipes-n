@@ -1,0 +1,73 @@
+{
+  "slug": "nutty-flaky-saudia-dum-crumble--vegan",
+  "title": "Vegan Crumble Dumplings",
+  "description": "A twist on classic dumplings, made with a nutty and flaky crumble topping, perfect for a comforting vegan meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentil mixture",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Nutty crumble topping",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 sheet",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Saudia spices",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Dum wrapper sheets",
+      "amount": "8-10",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Make the lentil mixture according to package instructions.",
+    "Cut the flaky pastry into small squares.",
+    "Place a spoonful of the lentil mixture onto the center of each pastry square.",
+    "Fold the pastry squares into triangles and press edges to seal.",
+    "Place the dumplings on a baking sheet lined with parchment paper.",
+    "Mix the nutty crumble topping with saudia spices and sprinkle over the dumplings.",
+    "Drizzle with water and serve hot.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "dinner",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-flaky-saudia-dum-crumble--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:22:39.241Z"
+}
