@@ -20956,5 +20956,31 @@
     "cuisine": "german",
     "totalTimeMin": 130,
     "shard": "n"
+  },
+  {
+    "slug": "nimble-kenyan-lamb-kebabs--chinese",
+    "title": "Kenyan Lamb Kebabs",
+    "tags": [
+      "lamb",
+      "kebabs",
+      "chinese",
+      "kenyan",
+      "grilled"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-flaky-saudia-dum-crumble--vegan",
+    "title": "Vegan Crumble Dumplings",
+    "tags": [
+      "vegan",
+      "dinner",
+      "comfort-food"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
+    "shard": "n"
   }
 ]
