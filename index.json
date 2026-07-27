@@ -20110,13 +20110,14 @@
   },
   {
     "slug": "nutty-chewy-irish-beef-stir-fry--gluten-free",
-    "title": "Irish Beef Stir Fry",
+    "title": "Beef and Vegetable Stir Fry",
     "tags": [
-      "irish-beef",
+      "beef",
+      "stir-fry",
       "gluten-free",
-      "stir-fry"
+      "quick-dinner"
     ],
-    "cuisine": "Irish",
+    "cuisine": null,
     "totalTimeMin": 22,
     "shard": "n"
   },
@@ -20941,6 +20942,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 5,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-chewy-irish-beef-stir-fry--german",
+    "title": "German Beef Stew",
+    "tags": [
+      "german",
+      "beef",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 130,
     "shard": "n"
   }
 ]
