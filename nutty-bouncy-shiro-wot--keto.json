@@ -1,0 +1,64 @@
+{
+  "slug": "nutty-bouncy-shiro-wot--keto",
+  "title": "Wot Shiro Bites with Nutty Crunch",
+  "description": "A keto breakfast recipe featuring wot, shiro, and nutty crunch. Perfect for a quick morning bite.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Shiro",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Wot",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Nutty",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bouncy (eggs)",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Crack the eggs into a bowl and whisk them together.",
+    "Add the shiro and wot to the bowl and mix until a dough forms.",
+    "Roll the dough into small balls and place them on a baking sheet.",
+    "Sprinkle the nutty on top of the balls.",
+    "Bake for 12-15 minutes or until the edges are lightly browned.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "breakfast",
+    "wot",
+    "shiro",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-bouncy-shiro-wot--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:24:46.497Z"
+}
