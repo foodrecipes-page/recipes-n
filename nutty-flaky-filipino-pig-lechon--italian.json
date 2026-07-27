@@ -1,0 +1,93 @@
+{
+  "slug": "nutty-flaky-filipino-pig-lechon--italian",
+  "title": "Korean-Italian Lechon",
+  "description": "A fusion twist on traditional Italian roasted meats, incorporating the flavors of Korean BBQ and the Filipino staple, lechon.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lechon skin",
+      "amount": "1 piece",
+      "notes": "Filipino-style roasted pork"
+    },
+    {
+      "name": "Pork shoulder",
+      "amount": "1 kg",
+      "notes": "Bone-in"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": "Granulated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "Unseasoned"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Kosher"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": "Dried, mixed herbs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the pork shoulder with Italian seasoning, salt, and black pepper.",
+    "In a small bowl, mix together brown sugar, soy sauce, rice vinegar, garlic, and ginger.",
+    "Rub the mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Place the lechon skin on a baking sheet, leaving space for the pork shoulder.",
+    "Add the pork shoulder to the baking sheet, skin side up.",
+    "Roast in the preheated oven for 30 minutes.",
+    "Reduce oven temperature to 375°F (190°C) and continue roasting for an additional 2 hours, or until the internal temperature reaches 160°F (71°C).",
+    "Let the pork rest for 10 minutes before slicing and serving.",
+    "Serve with additional sauce (if desired) and steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 230,
+  "totalTimeMin": 250,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "korean-italian",
+    "fusion",
+    "filipino",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 22,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-flaky-filipino-pig-lechon--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:05:22.121Z"
+}
