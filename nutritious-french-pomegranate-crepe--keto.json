@@ -1,0 +1,84 @@
+{
+  "slug": "nutritious-french-pomegranate-crepe--keto",
+  "title": "French Keto Crepes",
+  "description": "Delicate French crepes filled with a nutritious and delicious pomegranate cream, perfect for a keto breakfast or snack.",
+  "cuisine": "French",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "Make sure to use a fine-textured almond flour"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3 large",
+      "notes": "Room temperature eggs for better crepe texture"
+    },
+    {
+      "name": "Granulated sweetener",
+      "amount": "1 tablespoon",
+      "notes": "Choose a sugar substitute like Swerve or Erythritol"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "You can use full-fat coconut cream for a dairy-free alternative"
+    },
+    {
+      "name": "Pomegranate seeds",
+      "amount": "1/4 cup",
+      "notes": "Fresh or dried pomegranate seeds work well"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the crepes"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "Optional, use 1/2 teaspoon for a more subtle flavor"
+    }
+  ],
+  "instructions": [
+    "Separate the eggs and whisk the egg whites until stiff peaks form.",
+    "In a separate bowl, whisk the egg yolks, almond flour, and granulated sweetener until smooth.",
+    "Add the heavy cream and whisk until combined.",
+    "Gently fold the egg whites into the egg yolk mixture.",
+    "Heat a small non-stick pan over medium heat and brush with butter.",
+    "Pour a small amount of the crepe batter into the pan and tilt to coat the bottom.",
+    "Cook for 1-2 minutes, until the edges start to curl and the surface is dry.",
+    "Loosen the crepe with a spatula and flip it over.",
+    "Cook for another minute and repeat with the remaining batter.",
+    "To make the pomegranate cream, blend the pomegranate seeds with the heavy cream until smooth.",
+    "Add the vanilla extract and mix well.",
+    "Fill the crepes with the pomegranate cream and roll them up.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "french",
+    "breakfast",
+    "snack",
+    "crepes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 21,
+    "carbs": 5,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-french-pomegranate-crepe--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:34:12.052Z"
+}
