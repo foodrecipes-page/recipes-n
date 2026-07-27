@@ -1,0 +1,91 @@
+{
+  "slug": "nighttime-craving-mediterranean-duck-legs-nigiri--mexican",
+  "title": "Mexican Duck Legs",
+  "description": "A twist on traditional Mexican cuisine, this dish combines the flavors of the Mediterranean with the richness of duck legs.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the duck legs and pat them dry with paper towels.",
+    "In a small bowl, mix together chili powder, cumin, garlic powder, salt, and black pepper.",
+    "Rub the spice mixture all over the duck legs.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the duck legs for 2-3 minutes on each side, until browned.",
+    "Transfer the duck legs to a baking sheet and roast in the oven for 20-25 minutes, until cooked through.",
+    "Remove the duck legs from the oven and let them rest for 5 minutes.",
+    "Serve the duck legs hot, garnished with lime wedges and crumbled feta cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "mexicanfood",
+    "mexicanrecipes",
+    "duck",
+    "ducklegs",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 6,
+    "fat": 43
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nighttime-craving-mediterranean-duck-legs-nigiri--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:59:21.449Z"
+}
