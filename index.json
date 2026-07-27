@@ -20982,5 +20982,18 @@
     "cuisine": null,
     "totalTimeMin": 45,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-gooey-slovakian-clotted-cream-ssam-wrap--keto",
+    "title": "Keto Slovakian Cream Cheese Filled Wraps",
+    "tags": [
+      "keto",
+      "low-carb",
+      "breakfast",
+      "snack"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 20,
+    "shard": "n"
   }
 ]
