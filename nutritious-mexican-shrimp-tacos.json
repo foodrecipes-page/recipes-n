@@ -1,0 +1,85 @@
+{
+  "slug": "nutritious-mexican-shrimp-tacos",
+  "title": "Shrimp Tacos",
+  "description": "A Mexican-inspired dish featuring succulent shrimp in a flavorful taco.",
+  "cuisine": "Mexican",
+  "diet": [
+    "seafood",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "Peel and de-vein before using"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10 corn tortillas",
+      "notes": "Warm tortillas before serving"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of avocado oil in a large skillet over medium-high heat.",
+    "2. Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "3. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "4. Assemble the tacos by placing a cooked shrimp on each tortilla, followed by a squeeze of lime juice, a sprinkle of cumin and chili powder, and a sprinkle of salt and pepper.",
+    "5. Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "shrimp",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 24,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-mexican-shrimp-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:43:44.906Z"
+}
