@@ -1,0 +1,91 @@
+{
+  "slug": "nourishing-mexican-beef-barbacoa--gluten-free",
+  "title": "Beef Barbacoa Tacos",
+  "description": "A flavorful and spicy beef barbacoa recipe served in tacos, perfect for a gluten-free dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the beef chunks and cook until browned on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the diced onion and minced garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the diced chipotle peppers, cumin, coriander, and lime juice to the pot and cook for 1 minute.",
+    "Add the beef broth to the pot and stir to combine.",
+    "Return the browned beef to the pot and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, until the beef is tender, about 2 1/2 hours.",
+    "Shred the beef with two forks and stir in chopped cilantro.",
+    "Serve the beef barbacoa in tacos with your favorite toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "barbacoa",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-mexican-beef-barbacoa--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:02:23.313Z"
+}
