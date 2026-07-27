@@ -1,0 +1,79 @@
+{
+  "slug": "nourishing-dense-brazilian-shiitake-mushrooms-skewers--mexican",
+  "title": "Mexican Mushroom Skewers",
+  "description": "Grilled mushroom skewers with a blend of Mexican spices. A delicious and easy vegan option.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 pound",
+      "notes": "Stems removed, caps sliced"
+    },
+    {
+      "name": "Brazilian mushrooms",
+      "amount": "1/2 pound",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Skewers",
+      "amount": "20-25",
+      "notes": "Soak in water for 30 minutes"
+    },
+    {
+      "name": "Nourishing oil",
+      "amount": "2 tablespoons",
+      "notes": "Such as avocado oil"
+    },
+    {
+      "name": "Dense salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Such as Himalayan pink salt"
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1 teaspoon",
+      "notes": "Dried"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Soak skewers in water for 30 minutes.",
+    "Thread mushrooms onto skewers, leaving a little space between each piece.",
+    "In a small bowl, whisk together nourishing oil, dense salt, and Mexican oregano.",
+    "Brush the mixture onto the mushroom skewers.",
+    "Grill the skewers for 10-12 minutes, turning frequently.",
+    "Brush with lime juice during the last 2 minutes of grilling.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegan",
+    "snack",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-dense-brazilian-shiitake-mushrooms-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:52:59.769Z"
+}
