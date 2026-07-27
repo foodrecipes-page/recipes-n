@@ -20915,5 +20915,19 @@
     "cuisine": "French",
     "totalTimeMin": 25,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-gooey-slovakian-kabocha-tagine--mexican",
+    "title": "Kabocha Tagine Tacos",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "fall-flavors",
+      "mexican-fusion",
+      "tagine-squash"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "n"
   }
 ]
