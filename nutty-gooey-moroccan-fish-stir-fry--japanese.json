@@ -1,0 +1,84 @@
+{
+  "slug": "nutty-gooey-moroccan-fish-stir-fry--japanese",
+  "title": "Pan-Seared Fish with Gooey Nut Sauce",
+  "description": "A Japanese-inspired dish featuring pan-seared fish with a rich, nutty, and gooey sauce. This recipe is perfect for a seafood lover's dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "4 pieces",
+      "notes": "Fresh salmon fillet, skin removed"
+    },
+    {
+      "name": "Pecans",
+      "amount": "1 cup",
+      "notes": "Chopped pecans for the nut sauce"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For marinating the fish"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "For sweetening the nut sauce"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "For adding a hint of citrus"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated ginger for added flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced garlic for added depth"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted butter for pan-searing the fish"
+    }
+  ],
+  "instructions": [
+    "Marinate the salmon fillet in a mixture of soy sauce, honey, lemon juice, ginger, and garlic for at least 30 minutes.",
+    "Heat a skillet over medium-high heat and add butter.",
+    "Pan-sear the salmon fillet for 3-4 minutes on each side, or until cooked through.",
+    "Meanwhile, toast the pecans in a small pan over low heat until fragrant.",
+    "In a blender or food processor, combine the toasted pecans, a tablespoon of butter, and a squeeze of lemon juice.",
+    "Blend until smooth and creamy, adjusting the consistency as needed.",
+    "Serve the pan-seared salmon with the gooey nut sauce spooned over the top.",
+    "Garnish with chopped scallions or sesame seeds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "seafood",
+    "fish",
+    "nutty",
+    "gooey"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-gooey-moroccan-fish-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:25:53.485Z"
+}
