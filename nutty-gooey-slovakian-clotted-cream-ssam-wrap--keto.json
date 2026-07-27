@@ -1,0 +1,70 @@
+{
+  "slug": "nutty-gooey-slovakian-clotted-cream-ssam-wrap--keto",
+  "title": "Keto Slovakian Cream Cheese Filled Wraps",
+  "description": "A delicious keto twist on traditional Slovakian wraps, filled with a rich cream cheese mixture and wrapped in a crispy ssam wrap.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ssam wrap",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "clotted cream",
+      "amount": "8 oz",
+      "notes": "chilled"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup",
+      "notes": "chopped walnuts"
+    },
+    {
+      "name": "goey",
+      "amount": "1/4 cup",
+      "notes": "honey"
+    },
+    {
+      "name": "slovakian",
+      "amount": "1 tsp",
+      "notes": "vanilla extract"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wrap each ssam wrap in foil and bake for 5 minutes.",
+    "In a large bowl, mix together clotted cream, cream cheese, nutty, goey, and slovakian.",
+    "Spoon the cream cheese mixture onto the baked ssam wraps.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-gooey-slovakian-clotted-cream-ssam-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:52:51.125Z"
+}
