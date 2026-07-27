@@ -1,0 +1,59 @@
+{
+  "slug": "nutty-sweet-canadian-sugar-wrap--japanese",
+  "title": "Nutty Japanese Sweet Wrap",
+  "description": "A delicious Japanese-inspired sweet snack wrap made with nutty goodness and crunchy texture.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nutty",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sweet",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "canadian",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, mix nutty, sweet, and sugar until well combined.",
+    "2. Add the mixture to the center of the wrap, leaving a small border around the edges.",
+    "3. Roll the wrap tightly and cut into 4 equal pieces.",
+    "4. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "snack",
+    "sweet",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-sweet-canadian-sugar-wrap--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:09:08.100Z"
+}
