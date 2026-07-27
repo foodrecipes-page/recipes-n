@@ -1,0 +1,89 @@
+{
+  "slug": "nutty-north-african-moroccan-eggplant-tagine--thai",
+  "title": "Thai Eggplant Tagine",
+  "description": "A flavorful Thai-inspired stew made with eggplant, aromatics, and spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup",
+      "notes": "chopped almonds"
+    },
+    {
+      "name": "north african",
+      "amount": "2 tablespoons",
+      "notes": "couscous"
+    },
+    {
+      "name": "african",
+      "amount": "2 tablespoons",
+      "notes": "curry paste"
+    },
+    {
+      "name": "moroccan",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine to medium-high heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the eggplant and cook until browned, about 5 minutes.",
+    "Add the north african, african, and moroccan ingredients. Cook for 1 minute.",
+    "Stir in the coconut milk and bring to a simmer.",
+    "Reduce heat to low and let cook for 10-15 minutes or until the eggplant is tender.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped nutty before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "thai",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-north-african-moroccan-eggplant-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:13:38.154Z"
+}
