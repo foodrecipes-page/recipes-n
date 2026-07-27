@@ -1,0 +1,92 @@
+{
+  "slug": "nutritious-peruvian-cox-apple-causa-limena--mexican",
+  "title": "Mexican Causa with Grilled Chicken and Apple Salsa",
+  "description": "A Peruvian-inspired Mexican dish featuring grilled chicken, creamy causa, and a fresh apple salsa.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grilled Chicken Breast",
+      "amount": "4 breasts",
+      "notes": "Cook at 180°C (350°F) for 15-20 minutes."
+    },
+    {
+      "name": "Causa",
+      "amount": "2 cups",
+      "notes": "Cook according to package instructions."
+    },
+    {
+      "name": "Apple",
+      "amount": "2 apples",
+      "notes": null
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Nutritious Lettuce Leaves",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Limena Dressing (or lime wedges)",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat. Season chicken with salt and pepper. Grill for 5-7 minutes per side or until cooked through.",
+    "Cut cooked chicken into small pieces.",
+    "To make apple salsa, peel and chop apples. Chop red onion and cilantro. Mix all ingredients together and season with lime juice.",
+    "Cook causa according to package instructions.",
+    "Assemble causa by spreading a layer of causa on a plate, followed by a layer of chicken, and then a layer of apple salsa.",
+    "Garnish with nutritious lettuce leaves and a drizzle of limena dressing (or serve with lime wedges).",
+    "Serve immediately and enjoy!",
+    "Chill all ingredients in the refrigerator for at least 30 minutes before serving for a more refreshing dish.",
+    "If desired, top with additional salsa, lime juice, or cilantro for added flavor.",
+    "Consider serving with tortilla chips or toasted bread for a fun twist on the dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled-chicken",
+    "apple-salsa",
+    "causa",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-peruvian-cox-apple-causa-limena--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:39:03.427Z"
+}
