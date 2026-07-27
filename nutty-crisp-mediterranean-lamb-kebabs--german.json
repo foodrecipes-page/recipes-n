@@ -1,0 +1,68 @@
+{
+  "slug": "nutty-crisp-mediterranean-lamb-kebabs--german",
+  "title": "Grilled Lamb Kebabs with Mediterranean Flair",
+  "description": "A classic German-inspired dish featuring marinated lamb kebabs with a mediterranean twist. Perfect for a summer BBQ.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tablespoons",
+      "notes": "olive oil with a hint of nutmeg"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup",
+      "notes": "thinly sliced red onion"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "2 tablespoons",
+      "notes": "herb and garlic marinade"
+    },
+    {
+      "name": "kebabs",
+      "amount": "10-12 skewers",
+      "notes": "wooden or metal"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together nutty olive oil, crisp red onion, and mediterranean herb and garlic marinade.",
+    "3. Add lamb cubes to the marinade and mix until coated. Cover and refrigerate for at least 30 minutes.",
+    "4. Thread lamb cubes onto kebabs, leaving a small space between each piece.",
+    "5. Grill kebabs for 8-10 minutes per side, or until lamb reaches 145°F (63°C) for medium-rare.",
+    "6. Let kebabs rest for 5 minutes before serving.",
+    "7. Serve hot, garnished with fresh herbs if desired.",
+    "8. Enjoy with your favorite side dishes, such as roasted potatoes or a green salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "10g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crisp-mediterranean-lamb-kebabs--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:45:35.561Z"
+}
