@@ -1,0 +1,86 @@
+{
+  "slug": "nimble-kenyan-lamb-kebabs--chinese",
+  "title": "Kenyan Lamb Kebabs",
+  "description": "A fusion of Kenyan and Chinese flavors, these lamb kebabs are a unique twist on traditional Chinese street food.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, thinly sliced",
+      "amount": "500g",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Kenyan curry powder",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Nimble spring onions",
+      "amount": "4",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "Unseasoned"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "Caster"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tsp",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Mince"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together soy sauce, rice vinegar, sugar, curry powder, ginger, and garlic.",
+    "2. Add the sliced lamb to the marinade and mix until coated.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Thread the marinated lamb onto kebab skewers, leaving a small space between each piece.",
+    "6. Grill the lamb kebabs for 8-10 minutes per side, or until cooked to desired doneness.",
+    "7. Meanwhile, toast the nimble spring onions in a pan with a small amount of oil until fragrant.",
+    "8. Serve the lamb kebabs with toasted spring onions on top.",
+    "9. Garnish with additional spring onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "chinese",
+    "kenyan",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-kenyan-lamb-kebabs--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:16:02.813Z"
+}
