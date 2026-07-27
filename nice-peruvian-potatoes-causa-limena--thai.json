@@ -1,0 +1,78 @@
+{
+  "slug": "nice-peruvian-potatoes-causa-limena--thai",
+  "title": "Peruvian-Style Thai Causa",
+  "description": "A unique fusion dish blending traditional Peruvian causa with the bold flavors of Thai cuisine.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peruvian potatoes",
+      "amount": "3 medium-sized"
+    },
+    {
+      "name": "nice potatoes",
+      "amount": "1 large"
+    },
+    {
+      "name": "causa",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green chilies",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Boil the Peruvian potatoes until tender. Drain and let cool.",
+    "Mash the nice potatoes and mix with lime juice, fish sauce, and Thai basil.",
+    "Sauté the green chilies and garlic until fragrant.",
+    "Mix the sautéed mixture with the mashed potatoes and stir well.",
+    "Add the causa to the mixture and stir until combined.",
+    "Transfer the mixture to a baking dish and top with the boiled Peruvian potatoes.",
+    "Bake in the preheated oven for 20-25 minutes or until the potatoes are golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "thai",
+    "fusion",
+    "causa",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-peruvian-potatoes-causa-limena--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:55:08.082Z"
+}
