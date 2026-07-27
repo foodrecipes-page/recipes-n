@@ -1,0 +1,81 @@
+{
+  "slug": "nutty-chewy-irish-beef-stir-fry--german",
+  "title": "German Beef Stew",
+  "description": "A hearty, comforting beef stew made with tender beef and potatoes, served with a side of crusty bread.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then add the onion and cook until softened, about 5 minutes.",
+    "Add the caraway seeds, salt, and pepper, and cook for 1 minute.",
+    "Add the potatoes, beef broth, and red wine, and bring to a boil.",
+    "Return the beef to the pot, cover, and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the beef is tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 120,
+  "totalTimeMin": 130,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-chewy-irish-beef-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:20:58.763Z"
+}
