@@ -10321,17 +10321,14 @@
   },
   {
     "slug": "nutritious-mexican-shrimp-tacos",
-    "title": "Nutritious Mexican Shrimp Tacos",
+    "title": "Shrimp Tacos",
     "tags": [
-      "brunch",
-      "high-protein",
-      "low-carb",
       "mexican",
-      "seafood",
-      "spicy"
+      "shrimp",
+      "tacos"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "n"
   },
   {
@@ -21085,6 +21082,20 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 250,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-rich-indian-lamb-curry--mexican",
+    "title": "Tandoori Lamb Tacos",
+    "tags": [
+      "lamb",
+      "tacos",
+      "indian",
+      "mexican",
+      "fusion"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 55,
     "shard": "n"
   }
 ]
