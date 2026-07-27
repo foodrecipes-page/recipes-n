@@ -20858,5 +20858,62 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "n"
+  },
+  {
+    "slug": "nighttime-craving-mediterranean-duck-legs-nigiri--mexican",
+    "title": "Mexican Duck Legs",
+    "tags": [
+      "mexican",
+      "mexicanfood",
+      "mexicanrecipes",
+      "duck",
+      "ducklegs",
+      "mediterranean"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-bouncy-shiro-wot--keto",
+    "title": "Wot Shiro Bites with Nutty Crunch",
+    "tags": [
+      "keto",
+      "breakfast",
+      "wot",
+      "shiro",
+      "nutty"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 17,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-sweet-peruvian-shredded-beef-aji-de-gallina--indian",
+    "title": "Beef Aji Gallina Curry",
+    "tags": [
+      "peruvian",
+      "indian",
+      "curry",
+      "beef",
+      "ají amarillo"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-french-pomegranate-crepe--keto",
+    "title": "French Keto Crepes",
+    "tags": [
+      "keto",
+      "french",
+      "breakfast",
+      "snack",
+      "crepes"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "n"
   }
 ]
