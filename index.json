@@ -20929,5 +20929,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-sweet-canadian-sugar-wrap--japanese",
+    "title": "Nutty Japanese Sweet Wrap",
+    "tags": [
+      "japanese",
+      "snack",
+      "sweet",
+      "easy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 5,
+    "shard": "n"
   }
 ]
