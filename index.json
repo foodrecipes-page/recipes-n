@@ -21060,5 +21060,31 @@
     "cuisine": "mexican",
     "totalTimeMin": 165,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-crisp-mediterranean-lamb-kebabs--german",
+    "title": "Grilled Lamb Kebabs with Mediterranean Flair",
+    "tags": [
+      "german",
+      "lamb",
+      "kebabs",
+      "grilled"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 36,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-flaky-filipino-pig-lechon--italian",
+    "title": "Korean-Italian Lechon",
+    "tags": [
+      "korean-italian",
+      "fusion",
+      "filipino",
+      "pork"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 250,
+    "shard": "n"
   }
 ]
