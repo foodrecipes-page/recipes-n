@@ -1,0 +1,76 @@
+{
+  "slug": "nutty-gooey-slovakian-kabocha-tagine--mexican",
+  "title": "Kabocha Tagine Tacos",
+  "description": "A twist on traditional Mexican tacos, featuring the flavors of Morocco and the sweetness of kabocha squash. Perfect for a crisp autumn evening.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kabocha squash",
+      "amount": "1 medium, peeled and cubed"
+    },
+    {
+      "name": "Slovakian nutty bread crumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Gooey honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tagine spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the kabocha cubes with a drizzle of olive oil, cumin, paprika, and tagine spice mix on a baking sheet. Roast for 20-25 minutes.",
+    "In a large skillet, heat a drizzle of olive oil over medium heat. Add the Slovakian nutty bread crumbs and toast until fragrant.",
+    "In a blender or food processor, combine the roasted kabocha, toasted bread crumbs, gooey honey, and lime juice. Blend until smooth.",
+    "Warm tacos shells according to package instructions. Fill with the kabocha mixture, garnished with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "fall-flavors",
+    "mexican-fusion",
+    "tagine-squash"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-gooey-slovakian-kabocha-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:51:57.442Z"
+}
