@@ -21368,5 +21368,30 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-cozy-algerian-cheese-pull-tagine--keto",
+    "title": "Keto Algerian Pull Tagine",
+    "tags": [
+      "keto",
+      "tagine",
+      "north-african"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 140,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-spanish-walnut-skillet--vegan",
+    "title": "Walnut Skillet Breakfast",
+    "tags": [
+      "breakfast",
+      "vegan",
+      "walnuts",
+      "skillet"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "n"
   }
 ]
