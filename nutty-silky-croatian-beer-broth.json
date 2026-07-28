@@ -1,0 +1,69 @@
+{
+  "slug": "nutty-silky-croatian-beer-broth",
+  "title": "Beer Braised Croatian Beef Stew",
+  "description": "A hearty beef stew made with Croatian ingredients and a rich beer broth. Perfect for a cold evening.",
+  "cuisine": "Croatian",
+  "diet": [
+    "beef",
+    "gluten",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian beef stew meat",
+      "amount": "1 lb"
+    },
+    {
+      "name": "nutty caraway seeds",
+      "amount": "1 tsp",
+      "notes": "adds depth to the stew"
+    },
+    {
+      "name": "silky all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "thicknesses the stew"
+    },
+    {
+      "name": "beer",
+      "amount": "1 bottle",
+      "notes": "adds flavor to the broth"
+    },
+    {
+      "name": "Croatian broth",
+      "amount": "2 cups",
+      "notes": "rich beef broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, then remove from pot.",
+    "Add caraway seeds and flour to the pot, cook for 1 minute.",
+    "Add beer to the pot, scraping up any browned bits.",
+    "Return the beef to the pot, add broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley or thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "beer-braised",
+    "croatian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-silky-croatian-beer-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:31:03.133Z"
+}
