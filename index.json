@@ -21301,5 +21301,45 @@
     "cuisine": "chinese",
     "totalTimeMin": 22,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-spicy-indian-tofu-kebabs--gluten-free",
+    "title": "Spicy Indian Tofu Kebabs",
+    "tags": [
+      "gluten-free",
+      "indian",
+      "kebabs",
+      "spicy",
+      "tofu"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-silky-croatian-beer-broth--keto",
+    "title": "Keto Pork Chops with Beer Broth",
+    "tags": [
+      "keto",
+      "pork-chops",
+      "beer-broth",
+      "european-cuisine"
+    ],
+    "cuisine": "European",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crunchy-croatian-beef-skewers--keto",
+    "title": "Grilled Beef Skewers with Croatian Spice",
+    "tags": [
+      "grilled",
+      "beef",
+      "keto",
+      "croatian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 33,
+    "shard": "n"
   }
 ]
