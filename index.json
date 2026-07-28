@@ -21247,5 +21247,45 @@
     "cuisine": "indian",
     "totalTimeMin": 110,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-soft-ukrainian-pork-dumplings--keto",
+    "title": "Ukrainian Keto Pork Dumplings",
+    "tags": [
+      "keto",
+      "pork",
+      "dumplings",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-bengali-nuts-poha-balls--gluten-free",
+    "title": "Gluten-Free Bengali Poha Breakfast Balls",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "indian",
+      "healthy"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 20,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-turkish-leek-stir-fry--japanese",
+    "title": "Crispy Leek Tempura",
+    "tags": [
+      "tempura",
+      "japanese",
+      "snack",
+      "leek",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "n"
   }
 ]
