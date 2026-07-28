@@ -15696,18 +15696,15 @@
   },
   {
     "slug": "nutty-silky-croatian-beer-broth",
-    "title": "Nutty Silky Croatian Beer Broth",
+    "title": "Beer Braised Croatian Beef Stew",
     "tags": [
-      "beer",
-      "broth",
-      "comfort",
+      "beef",
+      "beer-braised",
       "croatian",
-      "hangover-cure",
-      "low-carb",
-      "one-pot"
+      "stew"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 170,
     "shard": "n"
   },
   {
@@ -21236,6 +21233,19 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 12,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-turkish-lamb-tagine--indian",
+    "title": "Lamb Tagine with Indian Spices",
+    "tags": [
+      "lamb",
+      "indian",
+      "tagine",
+      "slow-cooked"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 110,
     "shard": "n"
   }
 ]
