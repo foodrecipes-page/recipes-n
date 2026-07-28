@@ -1,0 +1,87 @@
+{
+  "slug": "nutty-spanish-walnut-skillet--vegan",
+  "title": "Walnut Skillet Breakfast",
+  "description": "A hearty vegan breakfast made with skillet-cooked walnuts and nutty flavors.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "spanish",
+      "amount": "2 tablespoons",
+      "notes": "flavored oil"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 teaspoon",
+      "notes": "flavoring"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large non-stick"
+    },
+    {
+      "name": "berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium heat.",
+    "Add the spanish oil and cook for 1 minute.",
+    "Add the walnuts and cook until fragrant, about 2-3 minutes.",
+    "Add the coconut milk, maple syrup (if using), cinnamon and salt. Stir to combine.",
+    "Add the berries and stir to combine.",
+    "Reduce heat to low and simmer for 5-7 minutes, stirring occasionally.",
+    "Serve warm, garnished with additional berries if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegan",
+    "walnuts",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-spanish-walnut-skillet--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:04:29.526Z"
+}
