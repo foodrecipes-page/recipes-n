@@ -1,0 +1,72 @@
+{
+  "slug": "nourishing-slovakian-beef-fondue--vegan",
+  "title": "Slovakian Vegan Fondue",
+  "description": "A delicious and hearty Slovakian-inspired vegan fondue, perfect for a cold winter night. This recipe combines the rich flavors of Slovakia with the comfort of a warm, gooey fondue.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Caraway seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Slovakian mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegan cheese alternative",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegan bread",
+      "amount": "1 loaf",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine caraway seeds, garlic, and Slovakian mustard.",
+    "Heat the mixture over medium heat, stirring constantly, until fragrant.",
+    "Add the vegan cheese alternative and nutritional yeast. Stir until the cheese is melted and the mixture is smooth.",
+    "Transfer the fondue to a serving bowl and garnish with chopped parsley.",
+    "Serve immediately with sliced vegan bread.",
+    "Dip bread in the fondue and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 2,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "slovakian",
+    "fondue"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-slovakian-beef-fondue--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:35:15.621Z"
+}
