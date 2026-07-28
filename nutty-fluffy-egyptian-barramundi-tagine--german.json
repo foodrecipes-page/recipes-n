@@ -1,0 +1,82 @@
+{
+  "slug": "nutty-fluffy-egyptian-barramundi-tagine--german",
+  "title": "Barramundi Tagine with Egyptian Spices",
+  "description": "A German-inspired take on the traditional Moroccan dish, featuring pan-seared barramundi and a flavorful tagine spice blend.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Barramundi fillets",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "Egyptian cinnamon",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Fluffy rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Nutty almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a large skillet over medium-high heat.",
+    "Add the barramundi fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "Transfer the fish to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the remaining 1 tbsp of oil and the tagine spice blend.",
+    "Cook for 1 minute, stirring constantly, until fragrant.",
+    "Add the sliced almonds and cook for an additional 30 seconds.",
+    "Serve the fish over fluffy rice, garnished with chopped parsley and a squeeze of lemon.",
+    "Optional: sprinkle with Egyptian cinnamon for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "middle-eastern",
+    "seafood",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-fluffy-egyptian-barramundi-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:58:10.509Z"
+}
