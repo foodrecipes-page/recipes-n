@@ -1,0 +1,93 @@
+{
+  "slug": "nutritious-uruguayan-vegetable-stew",
+  "title": "Uruguayan Vegetable Stew",
+  "description": "A hearty and flavorful stew from Uruguay, made with tender vegetables and a hint of spices. This dish is perfect for a chilly evening.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onions and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the carrots, potatoes, red bell pepper, and tomatoes.",
+    "Pour in the vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 25 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "vegetarian",
+    "stew",
+    "vegetable"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-uruguayan-vegetable-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:42:23.552Z"
+}
