@@ -21174,5 +21174,31 @@
     "cuisine": "french",
     "totalTimeMin": 50,
     "shard": "n"
+  },
+  {
+    "slug": "nighttime-craving-mediterranean-duck-legs-nigiri--gluten-free",
+    "title": "Mediterranean Grilled Duck Legs",
+    "tags": [
+      "mediterranean",
+      "gluten-free",
+      "grilled",
+      "duck"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nimble-kenyan-lamb-kebabs--vegan",
+    "title": "Kenyan Vegan Nimble Kebabs",
+    "tags": [
+      "vegan",
+      "kenyan",
+      "kebabs",
+      "nimble"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
+    "shard": "n"
   }
 ]
