@@ -1,0 +1,68 @@
+{
+  "slug": "nutty-kenyan-pickle-curry--german",
+  "title": "Currywurst mit Sauerkraut und Senf",
+  "description": "A popular German street food dish, Currywurst mit Sauerkraut und Senf combines the flavors of spicy curry ketchup with tangy sauerkraut and creamy mustard.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bratwurst",
+      "amount": "1 pound",
+      "notes": "preferably a German-style pork sausage"
+    },
+    {
+      "name": "curry ketchup",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickled mustard seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Kenyan nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "pickles",
+      "amount": "1/4 cup",
+      "notes": "sliced, for garnish"
+    }
+  ],
+  "instructions": [
+    "Grill the bratwurst over medium-high heat until browned on all sides and cooked through.",
+    "Slice the bratwurst into rounds.",
+    "In a small bowl, mix together the curry ketchup and nutmeg (if using).",
+    "Brush the curry ketchup mixture onto the bratwurst slices.",
+    "Top each bratwurst slice with a spoonful of sauerkraut, a dollop of mustard, and a sprinkle of pickled mustard seeds (if using).",
+    "Garnish with sliced pickles and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "currywurst",
+    "snack"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-kenyan-pickle-curry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:50:54.011Z"
+}
