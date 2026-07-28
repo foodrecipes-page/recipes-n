@@ -10949,15 +10949,13 @@
     "slug": "nutritious-uruguayan-vegetable-stew",
     "title": "Uruguayan Vegetable Stew",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "one-pot",
-      "stew",
       "uruguayan",
-      "vegetarian"
+      "vegetarian",
+      "stew",
+      "vegetable"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 40,
     "shard": "n"
   },
   {
@@ -21136,6 +21134,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 27,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-smoky-malaysian-morcilla-satay--mexican",
+    "title": "Smoky Satay Tacos",
+    "tags": [
+      "mexican",
+      "fusion",
+      "tacos",
+      "morcilla",
+      "satay"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "n"
   }
 ]
