@@ -1,0 +1,92 @@
+{
+  "slug": "nimble-kenyan-lamb-kebabs--vegan",
+  "title": "Kenyan Vegan Nimble Kebabs",
+  "description": "A flavorful vegan kebab recipe inspired by Kenyan cuisine, featuring nimble and colorful vegetables.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Nimble",
+      "amount": "1 cup (250g)",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "Kenyan kale",
+      "amount": "2 cups (200g)",
+      "notes": "stems removed and chopped"
+    },
+    {
+      "name": "Yellow bell pepper",
+      "amount": "1 large",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp (5g)",
+      "notes": "toasted"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp (5g)",
+      "notes": "toasted"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp (5g)",
+      "notes": "toasted"
+    },
+    {
+      "name": "Vegan skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp (30g)",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp (15g)",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a large bowl, mix together nimble, kale, bell pepper, onion, cumin seeds, coriander powder, and garlic powder.",
+    "Thread the nimble mixture onto the vegan skewers, leaving a 1-inch space between each piece.",
+    "Brush the vegan skewers with olive oil and season with salt.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until the nimble is tender and lightly charred.",
+    "Remove the kebabs from the grill and brush with lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "kenyan",
+    "kebabs",
+    "nimble"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": "5g",
+    "carbs": "20g",
+    "fat": "2g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-kenyan-lamb-kebabs--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:38:19.513Z"
+}
