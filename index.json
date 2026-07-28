@@ -21200,5 +21200,42 @@
     "cuisine": "Kenyan",
     "totalTimeMin": 25,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-kenyan-pickle-curry--german",
+    "title": "Currywurst mit Sauerkraut und Senf",
+    "tags": [
+      "german",
+      "currywurst",
+      "snack"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-fluffy-egyptian-barramundi-tagine--german",
+    "title": "Barramundi Tagine with Egyptian Spices",
+    "tags": [
+      "german",
+      "middle-eastern",
+      "seafood",
+      "gluten-free"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 23,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-slovakian-beef-fondue--vegan",
+    "title": "Slovakian Vegan Fondue",
+    "tags": [
+      "vegan",
+      "slovakian",
+      "fondue"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 12,
+    "shard": "n"
   }
 ]
