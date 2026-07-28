@@ -21341,5 +21341,32 @@
     "cuisine": "Croatian",
     "totalTimeMin": 33,
     "shard": "n"
+  },
+  {
+    "slug": "nutritious-irish-tempeh-skillet--japanese",
+    "title": "Japanese-Style Pan-Seared Tempeh",
+    "tags": [
+      "japanese",
+      "tempeh",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-earthy-peruvian-duck-arroz-con-pato--italian",
+    "title": "Arroz con Pato alla Italiana",
+    "tags": [
+      "italian",
+      "peruvian",
+      "rice",
+      "duck",
+      "parmesan"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]
