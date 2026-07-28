@@ -1,0 +1,89 @@
+{
+  "slug": "nutritious-irish-tempeh-skillet--japanese",
+  "title": "Japanese-Style Pan-Seared Tempeh",
+  "description": "A nutritious and flavorful Japanese-inspired dish made with crispy pan-seared tempeh and a hint of irish sea salt.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1/2 package (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "irish sea salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutritious sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "large non-stick skillet"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut tempeh into 1-inch cubes and season with irish sea salt.",
+    "2. Heat sesame oil in a large non-stick skillet over medium-high heat.",
+    "3. Add tempeh to the skillet and cook until golden brown, about 3-4 minutes per side.",
+    "4. While tempeh is cooking, combine green onions, daikon, rice vinegar, and honey in a small bowl.",
+    "5. Once tempeh is cooked, transfer it to a plate and top with the green onion mixture.",
+    "6. Sprinkle toasted sesame seeds over the top of the tempeh.",
+    "7. Serve immediately and enjoy!",
+    "8. Garnish with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "tempeh",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-irish-tempeh-skillet--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:42:03.355Z"
+}
