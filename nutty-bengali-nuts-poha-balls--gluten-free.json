@@ -1,0 +1,80 @@
+{
+  "slug": "nutty-bengali-nuts-poha-balls--gluten-free",
+  "title": "Gluten-Free Bengali Poha Breakfast Balls",
+  "description": "A delicious and easy-to-make breakfast recipe using poha and nuts, perfect for a gluten-free diet.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Poha",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cashews",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Coconut",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Nutty Balls",
+      "amount": "2",
+      "notes": "crushed"
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1/4 tsp",
+      "notes": "powdered"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "1 tsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "1. In a pan, heat the ghee or oil over medium heat.",
+    "2. Add the chopped nuts and sauté until lightly browned.",
+    "3. Add the crushed poha and sauté for 2-3 minutes.",
+    "4. Add the cardamom powder and mix well.",
+    "5. Remove from heat and let cool slightly.",
+    "6. Add the crushed nutty balls and mix well.",
+    "7. Using your hands, shape the mixture into small balls.",
+    "8. Place the balls on a baking sheet lined with parchment paper.",
+    "9. Refrigerate for 30 minutes to set.",
+    "10. Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "indian",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-bengali-nuts-poha-balls--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:35:40.767Z"
+}
