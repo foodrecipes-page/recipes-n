@@ -1,0 +1,84 @@
+{
+  "slug": "nutty-crispy-turkish-lamb-tagine--indian",
+  "title": "Lamb Tagine with Indian Spices",
+  "description": "A flavorful and aromatic lamb tagine inspired by Indian cuisine, made with crispy onions and nutty spices.",
+  "cuisine": "indian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "crispy onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "turkish olive oil",
+      "amount": "2 tbsp",
+      "notes": "used for browning lamb"
+    },
+    {
+      "name": "nutty coriander powder",
+      "amount": "2 tsp",
+      "notes": "ground spices"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "ground spices"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "used for balance of flavors"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "used for braising lamb"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/4 cup",
+      "notes": "used for marinating lamb"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb pieces on all sides, then set aside.",
+    "Add more oil if necessary, then sauté crispy onions until golden brown.",
+    "Add coriander powder, tagine spice blend, and brown sugar; stir for 1 minute.",
+    "Add lamb back into the pot, then pour in chicken broth.",
+    "Bring to a boil, then reduce heat to low and simmer for 1.5 hours or until lamb is tender.",
+    "Stir in yogurt and cook for an additional 10 minutes.",
+    "Serve lamb hot, garnished with crispy onions and a side of rice or naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "indian",
+    "tagine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-turkish-lamb-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:27:20.540Z"
+}
