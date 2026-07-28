@@ -1,0 +1,76 @@
+{
+  "slug": "nutty-crispy-turkish-leek-stir-fry--japanese",
+  "title": "Crispy Leek Tempura",
+  "description": "A Japanese-inspired tempura recipe featuring crispy leeks and a crunchy exterior.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turkish leek",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Nutty all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Stir-fry vegetable oil",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Crispy tempura powder",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cut the leek into 1-inch pieces and set aside.",
+    "In a large bowl, mix together the flour and tempura powder.",
+    "Gradually add in water to form a smooth batter.",
+    "Heat the stir-fry vegetable oil in a deep frying pan to 350°F.",
+    "Dip the leek pieces into the batter, coating them evenly.",
+    "Carefully place the battered leek pieces into the hot oil.",
+    "Cook for 2-3 minutes or until golden brown.",
+    "Remove the tempura from the oil and drain on paper towels.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tempura",
+    "japanese",
+    "snack",
+    "leek",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crispy-turkish-leek-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:41:21.939Z"
+}
