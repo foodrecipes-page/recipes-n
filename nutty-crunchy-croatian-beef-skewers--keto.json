@@ -1,0 +1,63 @@
+{
+  "slug": "nutty-crunchy-croatian-beef-skewers--keto",
+  "title": "Grilled Beef Skewers with Croatian Spice",
+  "description": "A keto-friendly dish featuring marinated beef skewers with a Croatian twist.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tbsp",
+      "notes": "toasted and chopped"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together nutty, 2 cloves of minced garlic, and 1 tbsp olive oil.",
+    "Add the thinly sliced beef to the marinade and mix well.",
+    "Thread the marinated beef onto the skewers.",
+    "Season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until cooked to desired level of doneness.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Garnish with crunchy parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "beef",
+    "keto",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crunchy-croatian-beef-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:54:19.185Z"
+}
