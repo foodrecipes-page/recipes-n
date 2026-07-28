@@ -21287,5 +21287,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 20,
     "shard": "n"
+  },
+  {
+    "slug": "nmolten-thai-chilisteraksaus--chinese",
+    "title": "Stir-Fried Chilies with Sausage",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "sausage",
+      "chilies",
+      "spicy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
+    "shard": "n"
   }
 ]
