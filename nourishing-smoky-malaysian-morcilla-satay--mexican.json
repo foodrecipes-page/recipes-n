@@ -1,0 +1,96 @@
+{
+  "slug": "nourishing-smoky-malaysian-morcilla-satay--mexican",
+  "title": "Smoky Satay Tacos",
+  "description": "A fusion twist on traditional Mexican tacos, featuring the bold flavors of smoky satay and Malaysian spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Morcilla",
+      "amount": "1 package",
+      "notes": "Spanish blood sausage"
+    },
+    {
+      "name": "Nourishing Satay Sauce (see note)",
+      "amount": "1/2 cup",
+      "notes": "see instructions for homemade sauce"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour, whichever preferred"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4-6",
+      "notes": "for serving"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": "adds smoky flavor to satay sauce"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "add to satay sauce"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "1. Cook the morcilla in a skillet over medium-high heat until browned on both sides.",
+    "2. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "3. In a separate pan, heat the olive oil over medium heat.",
+    "4. Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "5. Add the satay sauce and smoked paprika to the pan, whisking constantly.",
+    "6. Bring the satay sauce to a simmer and cook for 2-3 minutes until thickened.",
+    "7. Assemble the tacos by slicing the cooked morcilla and placing it onto a warmed tortilla.",
+    "8. Spoon the satay sauce over the morcilla and garnish with chopped cilantro.",
+    "9. Serve immediately with lime wedges on the side.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fusion",
+    "tacos",
+    "morcilla",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 25,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-smoky-malaysian-morcilla-satay--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:56:14.375Z"
+}
