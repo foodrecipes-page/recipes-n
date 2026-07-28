@@ -1,0 +1,91 @@
+{
+  "slug": "nutritious-earthy-peruvian-duck-arroz-con-pato--italian",
+  "title": "Arroz con Pato alla Italiana",
+  "description": "An Italian-inspired Peruvian dish, featuring succulent duck cooked with aromatic rice, herbs, and spices.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "arroz",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "pato",
+      "amount": "2 lbs",
+      "notes": "boneless, skinless duck breast or thighs"
+    },
+    {
+      "name": "nutritious",
+      "amount": "2 tbsp olive oil",
+      "notes": ""
+    },
+    {
+      "name": "earthy",
+      "amount": "1 onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "peruvian",
+      "amount": "2 cloves garlic",
+      "notes": "minced"
+    },
+    {
+      "name": "con",
+      "amount": "1 cup chicken broth",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the duck and cook until browned on all sides, about 5-6 minutes.",
+    "Add the chicken broth, salt, and pepper to the skillet. Stir to combine.",
+    "Add the uncooked rice to the skillet, stirring to coat with the broth mixture.",
+    "Reduce heat to low, cover the skillet, and simmer for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the rice with a fork and stir in the chopped parsley.",
+    "Serve the Arroz con Pato hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "peruvian",
+    "rice",
+    "duck",
+    "parmesan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-earthy-peruvian-duck-arroz-con-pato--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:44:25.897Z"
+}
