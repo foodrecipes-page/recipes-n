@@ -1,0 +1,89 @@
+{
+  "slug": "nmolten-thai-chilisteraksaus--chinese",
+  "title": "Stir-Fried Chilies with Sausage",
+  "description": "A spicy and savory Chinese-inspired dish made with chilisteraksaus, onions, and bell peppers.",
+  "cuisine": "chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nmolten sausage",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Thailand chilies",
+      "amount": "2-3",
+      "notes": "adjust to desired spiciness"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "any color"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the nmolten sausage and cook, breaking it up with a spoon, until browned, about 3-4 minutes.",
+    "Add the sliced onions and bell peppers and cook until they start to soften, about 2-3 minutes.",
+    "Add the chilisteraksaus and cook for another 2 minutes, stirring frequently.",
+    "Add the soy sauce, rice vinegar, salt, and pepper, and stir to combine.",
+    "Continue cooking for another 2-3 minutes, until the vegetables are tender and the sauce has thickened.",
+    "Serve hot over rice or noodles.",
+    "Note: adjust the level of spiciness to your liking by adding more or fewer chilies."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "sausage",
+    "chilies",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nmolten-thai-chilisteraksaus--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:33:51.689Z"
+}
