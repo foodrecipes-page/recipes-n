@@ -1,0 +1,74 @@
+{
+  "slug": "nostalgic-british-leek-gratin--vegan",
+  "title": "Classic British Leek Gratin",
+  "description": "A simple, comforting British-inspired dish made with tender leeks in a creamy sauce, adapted to a vegan version using plant-based milk and cheese.",
+  "cuisine": "British",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "leeks",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegan grated cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Slice the leeks into 1-inch pieces and separate the layers.",
+    "3. In a large saucepan, sauté the leeks in vegan butter until tender.",
+    "4. In a separate bowl, whisk together plant-based milk, flour, and nutritional yeast.",
+    "5. Pour the milk mixture over the leeks and stir until combined.",
+    "6. Transfer the leek mixture to a baking dish and top with vegan grated cheese.",
+    "7. Bake for 25-30 minutes or until the top is golden brown.",
+    "8. Serve hot and enjoy.",
+    "9. Note: You can also make this recipe in individual ramekins for a more elegant presentation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "leek",
+    "gratin",
+    "vegan",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nostalgic-british-leek-gratin--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:50:22.685Z"
+}
