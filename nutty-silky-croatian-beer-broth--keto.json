@@ -1,0 +1,72 @@
+{
+  "slug": "nutty-silky-croatian-beer-broth--keto",
+  "title": "Keto Pork Chops with Beer Broth",
+  "description": "A keto twist on a classic pork chop dish, featuring a rich beer broth and a silky sauce.",
+  "cuisine": "European",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Chops",
+      "amount": "4 (6 oz each)",
+      "notes": "Choose a high-fat cut"
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup",
+      "notes": "Use a low-carb beer"
+    },
+    {
+      "name": "Broth",
+      "amount": "2 cups",
+      "notes": "Use a low-sodium broth"
+    },
+    {
+      "name": "Nutty Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped parsley adds a nice crunch"
+    },
+    {
+      "name": "Croation Paprika",
+      "amount": "2 tsp",
+      "notes": "Adds a smoky flavor"
+    },
+    {
+      "name": "Silky Sour Cream",
+      "amount": "1/2 cup",
+      "notes": "Thickens the sauce and adds creaminess"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork chops with Croatian paprika and nutty parsley.",
+    "Heat a skillet over medium-high heat and sear the pork chops for 2-3 minutes per side.",
+    "Transfer the pork chops to a baking sheet and bake for 12-15 minutes, or until cooked through.",
+    "While the pork chops are baking, simmer the beer and broth in a saucepan over low heat until reduced by half.",
+    "Stir in silky sour cream and season with salt and pepper to taste.",
+    "Serve the pork chops with the beer broth sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "pork-chops",
+    "beer-broth",
+    "european-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 41
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-silky-croatian-beer-broth--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:47:36.117Z"
+}
