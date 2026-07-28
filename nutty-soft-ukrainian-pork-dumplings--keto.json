@@ -1,0 +1,91 @@
+{
+  "slug": "nutty-soft-ukrainian-pork-dumplings--keto",
+  "title": "Ukrainian Keto Pork Dumplings",
+  "description": "A keto twist on traditional Ukrainian pork dumplings, made with a nutty and soft dough.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Soft Cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dumpling Wrappers",
+      "amount": "8-10 wrappers",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the ground pork, nutmeg, salt, and black pepper. Mix well.",
+    "Add the soft cheese and egg to the pork mixture and mix until just combined.",
+    "In a separate bowl, mix together the almond flour and melted butter.",
+    "Add the dry ingredients to the pork mixture and mix until a dough forms.",
+    "Divide the dough into 8-10 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of the pork mixture in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Place the dumplings on a baking sheet lined with parchment paper.",
+    "Bake the dumplings in the preheated oven for 15-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "pork",
+    "dumplings",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 34,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-soft-ukrainian-pork-dumplings--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:33:37.501Z"
+}
