@@ -1,0 +1,79 @@
+{
+  "slug": "nutty-spicy-indian-tofu-kebabs--gluten-free",
+  "title": "Spicy Indian Tofu Kebabs",
+  "description": "A flavorful and healthy Indian-inspired dish, perfect for a gluten-free meal. The spicy and nutty flavors complement the tender tofu and kebabs.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Spicy Indian Nutty Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Kebabs",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Himalayan salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut the tofu into small cubes.",
+    "In a bowl, mix together the spicy Indian nutty sauce, lime juice, and a pinch of salt and pepper.",
+    "Add the tofu cubes to the bowl and mix until well coated.",
+    "Thread the tofu and kebabs onto skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Garnish with fresh cilantro and serve hot.",
+    "Serve with additional spicy Indian nutty sauce on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian",
+    "kebabs",
+    "spicy",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-spicy-indian-tofu-kebabs--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:57:55.641Z"
+}
