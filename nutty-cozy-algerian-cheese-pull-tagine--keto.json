@@ -1,0 +1,67 @@
+{
+  "slug": "nutty-cozy-algerian-cheese-pull-tagine--keto",
+  "title": "Keto Algerian Pull Tagine",
+  "description": "A flavorful and aromatic tagine recipe, adapted to a keto diet. Enjoy the rich flavors of North African cuisine with this delicious pull tagine dish.",
+  "cuisine": "North African",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pull",
+      "amount": "1 pound",
+      "notes": "preferably lamb or beef"
+    },
+    {
+      "name": "Cozy",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Algerian",
+      "amount": "2 teaspoons",
+      "notes": "ras el hanout spice blend"
+    },
+    {
+      "name": "Nutty",
+      "amount": "1 cup",
+      "notes": "almonds, chopped"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup",
+      "notes": "feta, crumbled"
+    }
+  ],
+  "instructions": [
+    "1. Heat the cozy (olive oil) in a large Dutch oven over medium heat.",
+    "2. Add the algerian (ras el hanout) and cook for 1 minute, until fragrant.",
+    "3. Add the pull (lamb or beef) and cook until browned, about 5 minutes.",
+    "4. Add the nutty (almonds) and cook for an additional 2 minutes.",
+    "5. Add the cheese (feta) and stir to combine.",
+    "6. Cover the pot and transfer to the oven.",
+    "7. Bake at 300°F (150°C) for 2 hours, or until the meat is tender.",
+    "8. Serve hot, garnished with additional nutty (almonds) if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-cozy-algerian-cheese-pull-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:03:29.577Z"
+}
