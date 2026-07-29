@@ -1,0 +1,66 @@
+{
+  "slug": "nutty-crumbly-moroccan-shrimp-crumble--italian",
+  "title": "Shrimp and Crumbly Moroccan Crust Pizza",
+  "description": "A unique Italian-inspired pizza topped with succulent shrimp and a crumbly Moroccan crust. This dish combines the flavors of Italy with the exotic spices of North Africa.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "crumbly",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shrimp",
+      "amount": "12 large, peeled and deveined"
+    },
+    {
+      "name": "moroccan",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Roll out the crumbly dough to a thickness of 1/4 inch.",
+    "Transfer the dough to a baking sheet or pizza stone.",
+    "Spread a thin layer of tomato sauce over the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle the nutty crumble over the sauce.",
+    "Add the shrimp on top of the crumble, leaving a little space between each shrimp.",
+    "Sprinkle the Moroccan spice over the shrimp.",
+    "Bake the pizza in the preheated oven for 15-20 minutes, or until the crust is golden brown and the shrimp are pink.",
+    "Remove the pizza from the oven and sprinkle with crumble.",
+    "Let the pizza cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pizza",
+    "shrimp",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-crumbly-moroccan-shrimp-crumble--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:47:52.151Z"
+}
