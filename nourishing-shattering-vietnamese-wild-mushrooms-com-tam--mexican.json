@@ -1,0 +1,74 @@
+{
+  "slug": "nourishing-shattering-vietnamese-wild-mushrooms-com-tam--mexican",
+  "title": "Wild Mushroom Tacos",
+  "description": "A flavorful and vibrant Mexican dish featuring wild mushrooms, perfect for a dinner option.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wild mushrooms",
+      "amount": "1 cup",
+      "notes": "such as oyster or shiitake"
+    },
+    {
+      "name": "Nourishing com tortillas",
+      "amount": "4",
+      "notes": "fresh or store-bought"
+    },
+    {
+      "name": "Tam chay",
+      "amount": "1/2 cup",
+      "notes": "mexican-style pickled vegetables"
+    },
+    {
+      "name": "Vietnamese cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Shattering habanero peppers",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Sauté the wild mushrooms in a pan until they release their moisture and start to brown.",
+    "Warm the com tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the wild mushrooms onto a tortilla, followed by a spoonful of tam chay.",
+    "Sprinkle chopped cilantro and a pinch of salt over the top of each taco.",
+    "Drizzle a squeeze of lime juice over the tacos and serve immediately.",
+    "Optional: add chopped habanero peppers to the tacos for an extra spicy kick."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "wild-mushrooms",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-shattering-vietnamese-wild-mushrooms-com-tam--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:28:45.071Z"
+}
