@@ -1,0 +1,94 @@
+{
+  "slug": "nurturing-korean-pomegranate-jjigae--vegetarian",
+  "title": "Vegetarian Korean Pomegranate Jjigae",
+  "description": "A flavorful and spicy Korean-style stew made with pomegranate and a variety of vegetables, perfect for a comforting vegetarian meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pomegranate Molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup, cooked",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the mushrooms, bell peppers, and zucchini, and cook until the vegetables are tender, about 5 minutes.",
+    "Add the pomegranate molasses, gochujang, soy sauce, and brown sugar, and stir to combine.",
+    "Bring the sauce to a simmer and cook for 2-3 minutes, or until thickened.",
+    "Divide the cooked rice among bowls and top with the vegetable mixture.",
+    "Serve hot and garnish with additional pomegranate seeds, if desired.",
+    "Adjust seasoning to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "stew",
+    "pomegranate",
+    "jjigae"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nurturing-korean-pomegranate-jjigae--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:49:01.052Z"
+}
