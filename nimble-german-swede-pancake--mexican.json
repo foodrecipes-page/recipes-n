@@ -1,0 +1,92 @@
+{
+  "slug": "nimble-german-swede-pancake--mexican",
+  "title": "Swede and Nimble Tacos",
+  "description": "A twist on traditional Mexican tacos, featuring roasted swede and nimble meat. A flavorful and nutritious meal option.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Swede",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Nimble",
+      "amount": "1 pound",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "German",
+      "amount": "1 tablespoon",
+      "notes": "Use as a seasoning"
+    },
+    {
+      "name": "Pancake",
+      "amount": "2",
+      "notes": "Shredded for garnish"
+    },
+    {
+      "name": "Lime",
+      "amount": "1",
+      "notes": "Juice for serving"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and chop the swede into 1-inch pieces. Place them on a baking sheet, toss with 1 tablespoon of olive oil, and season with salt, pepper, and chili powder. Roast in the oven for 20-25 minutes, or until tender.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat. Add the nimble and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "Warm taco shells according to package instructions.",
+    "Assemble the tacos by spooning the roasted swede onto a warmed shell, followed by the cooked nimble, shredded pancake, and a sprinkle of cumin. Serve with a squeeze of lime juice.",
+    "Optional: Add diced onions, diced tomatoes, or sour cream to the tacos for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "gluten-free",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nimble-german-swede-pancake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:36:40.209Z"
+}
