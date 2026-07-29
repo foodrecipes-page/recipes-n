@@ -1,0 +1,71 @@
+{
+  "slug": "nutty-silky-kabanos-sausage-stir-fry--french",
+  "title": "French Sausage and Kabanos Stir-Fry",
+  "description": "A quick and flavorful French-inspired stir-fry with sausage and kabanos, perfect for a weeknight dinner.",
+  "cuisine": "french",
+  "diet": [
+    "serves 2"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "300g",
+      "notes": "French-style sausage, sliced"
+    },
+    {
+      "name": "Kabanos",
+      "amount": "150g",
+      "notes": "Polish sausage, sliced"
+    },
+    {
+      "name": "nutty",
+      "amount": "100g",
+      "notes": "Assumed to be a vegetable, e.g. broccoli"
+    },
+    {
+      "name": "silky",
+      "amount": "50g",
+      "notes": "Assumed to be a vegetable, e.g. bell pepper"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tbsp",
+      "notes": "Assumed to be a cooking oil, e.g. vegetable oil"
+    },
+    {
+      "name": "fry",
+      "amount": "2 tbsp",
+      "notes": "Assumed to be a cooking oil, e.g. vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 3-4 minutes.",
+    "Add the sliced kabanos and cook for an additional 2 minutes.",
+    "Add the broccoli and bell pepper to the skillet and cook until tender, about 4-5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the sausage and kabanos mixture over the vegetables and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "sausage",
+    "kabanos",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-silky-kabanos-sausage-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:26:11.395Z"
+}
