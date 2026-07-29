@@ -1,0 +1,94 @@
+{
+  "slug": "nutritious-no-cook-mediterranean-rest-meat-bowl--thai",
+  "title": "Thai Basil Stir Fry",
+  "description": "A classic Thai dish made with your choice of protein, aromatic basil, and a sweet and spicy sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "Gluten-Free",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "2 cups",
+      "notes": "fresh leaves"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tablespoons",
+      "notes": "or fresh ginger"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "or soy sauce"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "or sugar"
+    },
+    {
+      "name": "Sriracha sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, for heat"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add ginger paste and garlic and stir-fry until fragrant.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Add bell pepper and snow peas and stir-fry for 3-4 minutes.",
+    "Add fish sauce, honey, and Thai basil, and stir-fry for another minute.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot over rice or noodles.",
+    "If desired, add Sriracha sauce for extra heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "basil",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-no-cook-mediterranean-rest-meat-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:55:57.134Z"
+}
