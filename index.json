@@ -21512,5 +21512,18 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "n"
+  },
+  {
+    "slug": "nimble-german-swede-pancake--mexican",
+    "title": "Swede and Nimble Tacos",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "gluten-free",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "n"
   }
 ]
