@@ -21525,5 +21525,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "n"
+  },
+  {
+    "slug": "nurturing-korean-pomegranate-jjigae--vegetarian",
+    "title": "Vegetarian Korean Pomegranate Jjigae",
+    "tags": [
+      "korean",
+      "vegetarian",
+      "stew",
+      "pomegranate",
+      "jjigae"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "n"
   }
 ]
