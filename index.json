@@ -21498,5 +21498,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "n"
+  },
+  {
+    "slug": "nutty-juicy-brazilian-chicken-pasta--french",
+    "title": "French Chicken Pasta",
+    "tags": [
+      "french",
+      "chicken",
+      "pasta",
+      "walnuts",
+      "tomatoes"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "n"
   }
 ]
