@@ -21393,5 +21393,84 @@
     "cuisine": null,
     "totalTimeMin": 15,
     "shard": "n"
+  },
+  {
+    "slug": "nourishing-norwegian-beef-stew--french",
+    "title": "French Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "french",
+      "dinner"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 180,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crispy-filipino-peanuts-kare-kare--gluten-free",
+    "title": "Filipino Peanut Chicken",
+    "tags": [
+      "filipino",
+      "peanut",
+      "chicken",
+      "gluten-free"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-silky-kabanos-sausage-stir-fry--french",
+    "title": "French Sausage and Kabanos Stir-Fry",
+    "tags": [
+      "french",
+      "sausage",
+      "kabanos",
+      "stir-fry"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-shattering-vietnamese-wild-mushrooms-com-tam--mexican",
+    "title": "Wild Mushroom Tacos",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "wild-mushrooms",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nutty-crumbly-moroccan-shrimp-crumble--italian",
+    "title": "Shrimp and Crumbly Moroccan Crust Pizza",
+    "tags": [
+      "italian",
+      "pizza",
+      "shrimp",
+      "moroccan"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "n"
+  },
+  {
+    "slug": "nostalgic-british-leek-gratin--thai",
+    "title": "Thai Leek Gratin",
+    "tags": [
+      "thai",
+      "british",
+      "comfort-food",
+      "leeks",
+      "gratin"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
+    "shard": "n"
   }
 ]
