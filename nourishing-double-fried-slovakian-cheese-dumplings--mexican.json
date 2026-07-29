@@ -1,0 +1,73 @@
+{
+  "slug": "nourishing-double-fried-slovakian-cheese-dumplings--mexican",
+  "title": "Nourishing Slovakian-Style Fried Cheese Dumplings",
+  "description": "A twist on traditional Slovakian fried cheese, this recipe combines the comforting dumplings with the bold flavors of Mexico.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "slovakian cheese",
+      "amount": "1 block (8 oz)",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "gluten-free flour for gluten-free option"
+    },
+    {
+      "name": "double-cream milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "frying oil",
+      "amount": "1/2 cup",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "nourishing seasonings",
+      "amount": "1 tsp",
+      "notes": "dried oregano, garlic powder, paprika"
+    }
+  ],
+  "instructions": [
+    "Combine flour, milk, eggs, and seasonings in a large bowl. Mix until a smooth dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 8 equal pieces. Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Heat the oil in a deep frying pan over medium-high heat until it reaches 375°F (190°C).",
+    "Fry the dumplings for 2-3 minutes on each side, until they are golden brown and puffed up.",
+    "Drain the dumplings on paper towels and serve hot with your favorite toppings, such as sour cream, salsa, or avocado."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fried",
+    "dumplings",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-double-fried-slovakian-cheese-dumplings--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:04:23.583Z"
+}
