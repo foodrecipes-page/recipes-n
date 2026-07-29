@@ -1,0 +1,82 @@
+{
+  "slug": "nutty-juicy-brazilian-chicken-pasta--french",
+  "title": "French Chicken Pasta",
+  "description": "A classic French-inspired dish featuring chicken, pasta, and a hint of nuttiness.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tbsp",
+      "notes": "chopped walnuts"
+    },
+    {
+      "name": "juicy",
+      "amount": "1 cup",
+      "notes": " cherry tomatoes, halved"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine"
+    },
+    {
+      "name": "brazilian",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "Season chicken breast with salt and pepper. Heat olive oil in a large skillet over medium-high heat. Add chicken and cook until browned and cooked through, about 5-6 minutes per side.",
+    "Add cherry tomatoes and ground cumin to the skillet with the chicken. Cook for an additional 1-2 minutes.",
+    "Stir in chopped walnuts and cook for 1 minute.",
+    "Add cooked pasta to the skillet and toss to combine with the chicken and vegetable mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chicken",
+    "pasta",
+    "walnuts",
+    "tomatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutty-juicy-brazilian-chicken-pasta--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:19:59.309Z"
+}
