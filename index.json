@@ -21539,5 +21539,32 @@
     "cuisine": "Korean",
     "totalTimeMin": 25,
     "shard": "n"
+  },
+  {
+    "slug": "nice-spicy-tunisian-lamb-tagine--keto",
+    "title": "Spicy Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tagine",
+      "keto",
+      "north-african",
+      "spicy"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 170,
+    "shard": "n"
+  },
+  {
+    "slug": "nutritious-middle-eastern-cannellini-beans-shakshuka--gluten-free",
+    "title": "Shakshuka with Cannellini Beans",
+    "tags": [
+      "shakshuka",
+      "breakfast",
+      "gluten-free",
+      "north-african"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 40,
+    "shard": "n"
   }
 ]
