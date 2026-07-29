@@ -1,0 +1,104 @@
+{
+  "slug": "nourishing-norwegian-beef-stew--french",
+  "title": "French Beef Stew",
+  "description": "Hearty French beef stew made with tender beef and flavorful vegetables.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "Dry red wine"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Dissolved in a little water"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh or 1 teaspoon dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes in batches until browned on all sides.",
+    "Remove the browned beef from the pot and set aside.",
+    "Reduce the heat to medium and add the chopped onion to the pot.",
+    "Cook the onion until softened and lightly browned.",
+    "Add the chopped carrots and potatoes to the pot.",
+    "Cook for 5 minutes, stirring occasionally.",
+    "Add the sliced mushrooms to the pot and cook for 2 minutes.",
+    "Add the red wine to the pot and cook until the liquid is almost completely reduced.",
+    "Add the beef broth, tomato paste, thyme, salt, and pepper to the pot.",
+    "Return the browned beef to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Bake for 2 1/2 to 3 hours, or until the beef is tender.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "french",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 53,
+    "carbs": 25,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nourishing-norwegian-beef-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:10:36.373Z"
+}
