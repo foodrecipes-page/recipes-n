@@ -1,0 +1,85 @@
+{
+  "slug": "nutritious-middle-eastern-cannellini-beans-shakshuka--gluten-free",
+  "title": "Shakshuka with Cannellini Beans",
+  "description": "A classic North African dish made with eggs poached in a flavorful tomato sauce, served with cannellini beans. This gluten-free recipe is a delicious and nutritious meal for any time of day.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 (15 ounce) can",
+      "notes": ""
+    },
+    {
+      "name": "shakshuka",
+      "amount": "1 (28 ounce) can",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add the shakshuka and chili flakes. Bring to a simmer.",
+    "Reduce heat to low and cook for 10-15 minutes, stirring occasionally.",
+    "Stir in the cannellini beans.",
+    "Create 2 wells in the sauce and crack in the eggs.",
+    "Transfer the skillet to the oven and bake at 400°F (200°C) for 15-20 minutes, or until the eggs are set.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "shakshuka",
+    "breakfast",
+    "gluten-free",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nutritious-middle-eastern-cannellini-beans-shakshuka--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:30:03.253Z"
+}
