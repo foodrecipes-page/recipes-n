@@ -1,0 +1,84 @@
+{
+  "slug": "nice-spicy-tunisian-lamb-tagine--keto",
+  "title": "Spicy Lamb Tagine",
+  "description": "A traditional North African dish with a spicy twist, this lamb tagine is perfect for a keto diet.",
+  "cuisine": "North African",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Nice olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "Tunisian harissa",
+      "amount": "2 teaspoons",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "Spicy ras el hanout",
+      "amount": "1 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Brown lamb in batches until browned on all sides.",
+    "Remove lamb from pot; set aside.",
+    "Reduce heat to medium; add onion and garlic. Cook until onion is softened.",
+    "Add harissa and ras el hanout; cook 1 minute.",
+    "Add cherry tomatoes; cook until they start to release their juices.",
+    "Return lamb to pot; cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours or until lamb is tender.",
+    "Stir in chopped parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "keto",
+    "north-african",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/nice-spicy-tunisian-lamb-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:44:02.928Z"
+}
