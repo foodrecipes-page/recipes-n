@@ -21472,5 +21472,31 @@
     "cuisine": "thai",
     "totalTimeMin": 45,
     "shard": "n"
+  },
+  {
+    "slug": "nutritious-no-cook-mediterranean-rest-meat-bowl--thai",
+    "title": "Thai Basil Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "basil",
+      "chicken"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "n"
+  },
+  {
+    "slug": "nourishing-double-fried-slovakian-cheese-dumplings--mexican",
+    "title": "Nourishing Slovakian-Style Fried Cheese Dumplings",
+    "tags": [
+      "mexican",
+      "fried",
+      "dumplings",
+      "cheese"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "n"
   }
 ]
